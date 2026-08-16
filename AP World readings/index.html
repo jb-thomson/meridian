@@ -1,0 +1,1399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AP World History Readings</title>
+  <link rel="stylesheet" href="nav.css" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Arial', sans-serif;
+      background: #fafaf8;
+      color: #1a1a1a;
+      min-height: 100vh;
+      padding: 48px 24px;
+    }
+
+    .page {
+      max-width: 680px;
+      margin: 0 auto;
+    }
+
+    .header-label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: #7a5230;
+      margin-bottom: 8px;
+    }
+
+    h1 {
+      font-size: 28px;
+      font-weight: 800;
+      color: #1a1a1a;
+      margin-bottom: 32px;
+    }
+
+    .unit-section {
+      margin-bottom: 36px;
+    }
+
+    .unit-label {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #7a5230;
+      border-bottom: 2px solid #e8e0d5;
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+    }
+
+    .reading-card {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #fff;
+      border: 1.5px solid #e0d8ce;
+      border-radius: 8px;
+      padding: 16px 20px;
+      margin-bottom: 10px;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+
+    .reading-card:hover {
+      border-color: #8b5e2e;
+      box-shadow: 0 2px 8px rgba(139,94,46,0.12);
+    }
+
+    .reading-card.is-read {
+      background: #f6fbf6;
+      border-color: #b8dbb8;
+    }
+
+    .card-left {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .topic-num {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #9b8060;
+      min-width: 64px;
+    }
+
+    .card-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin-bottom: 4px;
+    }
+
+    .card-themes {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+    }
+
+    .chip {
+      background: #f4f0ea;
+      border: 1px solid #d9cfc3;
+      border-radius: 20px;
+      padding: 1px 8px;
+      font-size: 11px;
+      color: #5a4730;
+      font-weight: 600;
+    }
+
+    .card-right {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .read-check {
+      display: none;
+      font-size: 14px;
+      color: #2e7d32;
+      font-weight: 800;
+    }
+
+    .reading-card.is-read .read-check { display: inline; }
+
+    .arrow {
+      font-size: 18px;
+      color: #b09070;
+    }
+
+    .progress-bar-wrap {
+      margin-bottom: 32px;
+    }
+    .progress-label {
+      font-size: 12px;
+      color: #7a5230;
+      font-weight: 600;
+      margin-bottom: 6px;
+    }
+    .progress-bar-track {
+      height: 8px;
+      background: #e8e0d5;
+      border-radius: 99px;
+      overflow: hidden;
+    }
+    .progress-bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #2e7d32, #4caf50);
+      border-radius: 99px;
+      transition: width 0.4s ease;
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+  <div class="header-label">AP World History: Modern</div>
+  <h1>Course Readings</h1>
+
+  <div class="progress-bar-wrap" id="progressWrap" style="display:none">
+    <div class="progress-label" id="progressLabel">0 of 71 readings completed</div>
+    <div class="progress-bar-track">
+      <div class="progress-bar-fill" id="progressFill" style="width:0%"></div>
+    </div>
+  </div>
+
+  <!-- ── UNIT 1 ── -->
+  <div class="unit-section">
+    <div class="unit-label">Unit 1 — The Global Tapestry &nbsp;·&nbsp; c. 1200–1450</div>
+
+    <a href="topic-1-1-east-asia.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 1.1</div>
+        <div>
+          <div class="card-title">Developments in East Asia</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">🙏 Religion</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-1-2-dar-al-islam.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 1.2</div>
+        <div>
+          <div class="card-title">Developments in Dar al-Islam</div>
+          <div class="card-themes">
+            <span class="chip">🙏 Religion</span>
+            <span class="chip">📚 Intellectual</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-1-3-south-southeast-asia.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 1.3</div>
+        <div>
+          <div class="card-title">Developments in South &amp; Southeast Asia</div>
+          <div class="card-themes">
+            <span class="chip">🙏 Religion</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-1-4-state-building-americas.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 1.4</div>
+        <div>
+          <div class="card-title">State Building in the Americas</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">🌿 Environment</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-1-5-state-building-africa.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 1.5</div>
+        <div>
+          <div class="card-title">State Building in Africa</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-1-6-developments-europe.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 1.6</div>
+        <div>
+          <div class="card-title">Developments in Europe</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">📚 Intellectual</span>
+            <span class="chip">🙏 Religion</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-1-7-comparison-state-building.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 1.7</div>
+        <div>
+          <div class="card-title">Comparison: State Building c. 1200–1450</div>
+          <div class="card-themes">
+            <span class="chip">📊 Comparison</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+  </div>
+
+  <!-- ── UNIT 2 ── -->
+  <div class="unit-section">
+    <div class="unit-label">Unit 2 — Networks of Exchange &nbsp;·&nbsp; c. 1200–1450</div>
+
+    <a href="topic-2-1-silk-roads.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 2.1</div>
+        <div>
+          <div class="card-title">The Silk Roads</div>
+          <div class="card-themes">
+            <span class="chip">💰 Economics</span>
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-2-2-mongol-empire.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 2.2</div>
+        <div>
+          <div class="card-title">The Mongol Empire and the Making of the Modern World</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">⚙️ Technology</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-2-3-indian-ocean-exchange.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 2.3</div>
+        <div>
+          <div class="card-title">Exchange in the Indian Ocean</div>
+          <div class="card-themes">
+            <span class="chip">💰 Economics</span>
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">🌿 Environment</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-2-4-trans-saharan-trade.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 2.4</div>
+        <div>
+          <div class="card-title">Trans-Saharan Trade Routes</div>
+          <div class="card-themes">
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-2-5-cultural-consequences.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 2.5</div>
+        <div>
+          <div class="card-title">Cultural Consequences of Connectivity</div>
+          <div class="card-themes">
+            <span class="chip">🙏 Religion</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">📚 Intellectual</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-2-6-environmental-consequences.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 2.6</div>
+        <div>
+          <div class="card-title">Environmental Consequences of Connectivity</div>
+          <div class="card-themes">
+            <span class="chip">🌿 Environment</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">⚙️ Technology</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-2-7-comparison-economic-exchange.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 2.7</div>
+        <div>
+          <div class="card-title">Comparison of Economic Exchange</div>
+          <div class="card-themes">
+            <span class="chip">📊 Comparison</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+  </div>
+
+  <!-- ── UNIT 3 ── -->
+  <div class="unit-section">
+    <div class="unit-label">Unit 3 — Land-Based Empires &nbsp;·&nbsp; c. 1450–1750</div>
+
+    <a href="topic-3-1-empires-expand.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 3.1</div>
+        <div>
+          <div class="card-title">Empires Expand</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">💰 Economics</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-3-2-empires-administration.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 3.2</div>
+        <div>
+          <div class="card-title">Empires: Administration</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-3-3-empires-belief-systems.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 3.3</div>
+        <div>
+          <div class="card-title">Empires: Belief Systems</div>
+          <div class="card-themes">
+            <span class="chip">🙏 Religion</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">⚙️ Technology</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-3-4-comparison-land-based-empires.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 3.4</div>
+        <div>
+          <div class="card-title">Comparison: Land-Based Empires</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">📊 Comparison</span>
+            <span class="chip">⚙️ Technology</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+  </div>
+
+  <!-- ── UNIT 4 ── -->
+  <div class="unit-section">
+    <div class="unit-label">Unit 4 — Transoceanic Interconnections &nbsp;·&nbsp; c. 1450–1750</div>
+
+    <a href="topic-4-1-technological-innovations.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 4.1</div>
+        <div>
+          <div class="card-title">Technological Innovations, 1450–1750</div>
+          <div class="card-themes">
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">🏛️ Political</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-4-2-exploration-causes.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 4.2</div>
+        <div>
+          <div class="card-title">Exploration: Causes and Events, 1450–1750</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-4-3-columbian-exchange.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 4.3</div>
+        <div>
+          <div class="card-title">The Columbian Exchange</div>
+          <div class="card-themes">
+            <span class="chip">🌿 Environment</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-4-4-maritime-empires-established.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 4.4</div>
+        <div>
+          <div class="card-title">Maritime Empires Established</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-4-5-maritime-empires-maintained.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 4.5</div>
+        <div>
+          <div class="card-title">Maritime Empires Maintained and Developed</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-4-6-challenges-state-power.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 4.6</div>
+        <div>
+          <div class="card-title">Internal and External Challenges to State Power</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">💰 Economics</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-4-7-changing-social-hierarchies.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 4.7</div>
+        <div>
+          <div class="card-title">Changing Social Hierarchies, 1450–1750</div>
+          <div class="card-themes">
+            <span class="chip">👥 Social</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🏛️ Political</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-4-8-continuity-change-1450-1750.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 4.8</div>
+        <div>
+          <div class="card-title">Continuity and Change, 1450–1750</div>
+          <div class="card-themes">
+            <span class="chip">📊 Comparison</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🏛️ Political</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+  </div>
+
+  <!-- ── UNIT 5 ── -->
+  <div class="unit-section">
+    <div class="unit-label">Unit 5 — Revolutions &nbsp;·&nbsp; c. 1750–1900</div>
+
+    <a href="topic-5-1-enlightenment.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 5.1</div>
+        <div>
+          <div class="card-title">The Enlightenment</div>
+          <div class="card-themes">
+            <span class="chip">📚 Intellectual</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-5-2-nationalism-revolutions.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 5.2</div>
+        <div>
+          <div class="card-title">Nationalism and Revolutions, 1750–1900</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-5-3-industrial-revolution-begins.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 5.3</div>
+        <div>
+          <div class="card-title">The Industrial Revolution Begins</div>
+          <div class="card-themes">
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌿 Environment</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-5-4-industrialization-spreads.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 5.4</div>
+        <div>
+          <div class="card-title">Industrialization Spreads, 1750–1900</div>
+          <div class="card-themes">
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">🏛️ Political</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-5-5-technology-industrial-age.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 5.5</div>
+        <div>
+          <div class="card-title">Technology of the Industrial Age</div>
+          <div class="card-themes">
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌿 Environment</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-5-6-industrialization-government.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 5.6</div>
+        <div>
+          <div class="card-title">Industrialization: Government's Role, 1750–1900</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-5-7-economic-developments.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 5.7</div>
+        <div>
+          <div class="card-title">Economic Developments and Innovations in the Industrial Age</div>
+          <div class="card-themes">
+            <span class="chip">💰 Economics</span>
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🏛️ Political</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-5-8-reactions-industrial-economy.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 5.8</div>
+        <div>
+          <div class="card-title">Reactions to the Industrial Economy, 1750–1900</div>
+          <div class="card-themes">
+            <span class="chip">👥 Social</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">📚 Intellectual</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-5-9-society-industrial-age.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 5.9</div>
+        <div>
+          <div class="card-title">Society and the Industrial Age</div>
+          <div class="card-themes">
+            <span class="chip">👥 Social</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">🏛️ Political</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-5-10-continuity-change.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 5.10</div>
+        <div>
+          <div class="card-title">Continuity and Change in the Industrial Age</div>
+          <div class="card-themes">
+            <span class="chip">📊 Comparison</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🏛️ Political</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+  </div>
+
+  <!-- ── UNIT 6 ── -->
+  <div class="unit-section">
+    <div class="unit-label">Unit 6 — Consequences of Industrialization &nbsp;·&nbsp; c. 1750–1900</div>
+
+    <a href="topic-6-1-rationales-imperialism.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 6.1</div>
+        <div>
+          <div class="card-title">Rationales for Imperialism, 1750–1900</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">📚 Intellectual</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-6-2-state-expansion.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 6.2</div>
+        <div>
+          <div class="card-title">State Expansion, 1750–1900</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">⚔️ Military</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-6-3-indigenous-responses.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 6.3</div>
+        <div>
+          <div class="card-title">Indigenous Responses to State Expansion</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-6-4-global-economic-development.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 6.4</div>
+        <div>
+          <div class="card-title">Global Economic Development, 1750–1900</div>
+          <div class="card-themes">
+            <span class="chip">💰 Economics</span>
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-6-5-economic-imperialism.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 6.5</div>
+        <div>
+          <div class="card-title">Economic Imperialism, 1750–1900</div>
+          <div class="card-themes">
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-6-6-causes-migration.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 6.6</div>
+        <div>
+          <div class="card-title">Causes of Migration in an Interconnected World</div>
+          <div class="card-themes">
+            <span class="chip">👥 Social</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-6-7-effects-migration.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 6.7</div>
+        <div>
+          <div class="card-title">Effects of Migration in an Interconnected World</div>
+          <div class="card-themes">
+            <span class="chip">👥 Social</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-6-8-causation-imperial-age.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 6.8</div>
+        <div>
+          <div class="card-title">Causation in the Imperial Age, 1750–1900</div>
+          <div class="card-themes">
+            <span class="chip">📊 Comparison</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+  </div>
+
+  <!-- ── UNIT 7 ── -->
+  <div class="unit-section">
+    <div class="unit-label">Unit 7 — Global Conflict &nbsp;·&nbsp; c. 1900–Present</div>
+
+    <a href="topic-7-1-shifting-power.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 7.1</div>
+        <div>
+          <div class="card-title">Shifting Power After 1900</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">⚔️ Military</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-7-2-causes-wwi.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 7.2</div>
+        <div>
+          <div class="card-title">Causes of World War I</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">⚔️ Military</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">💰 Economics</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-7-3-conducting-wwi.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 7.3</div>
+        <div>
+          <div class="card-title">Conducting World War I</div>
+          <div class="card-themes">
+            <span class="chip">⚔️ Military</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-7-4-interwar-economy.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 7.4</div>
+        <div>
+          <div class="card-title">Economy in the Interwar Period</div>
+          <div class="card-themes">
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-7-5-unresolved-tensions.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 7.5</div>
+        <div>
+          <div class="card-title">Unresolved Tensions After World War I</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">💰 Economics</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-7-6-causes-wwii.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 7.6</div>
+        <div>
+          <div class="card-title">Causes of World War II</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">⚔️ Military</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-7-7-conducting-wwii.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 7.7</div>
+        <div>
+          <div class="card-title">Conducting World War II</div>
+          <div class="card-themes">
+            <span class="chip">⚔️ Military</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-7-8-mass-atrocities.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 7.8</div>
+        <div>
+          <div class="card-title">Mass Atrocities After 1900</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">⚔️ Military</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-7-9-causation-global-conflict.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 7.9</div>
+        <div>
+          <div class="card-title">Causation in Global Conflict</div>
+          <div class="card-themes">
+            <span class="chip">📊 Comparison</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">⚔️ Military</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+  </div>
+
+  <!-- ── UNIT 8 ── -->
+  <div class="unit-section">
+    <div class="unit-label">Unit 8 — Cold War and Decolonization &nbsp;·&nbsp; c. 1900–Present</div>
+
+    <a href="topic-8-1-cold-war-stage.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 8.1</div>
+        <div>
+          <div class="card-title">Setting the Stage for the Cold War and Decolonization</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">⚔️ Military</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-8-2-cold-war.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 8.2</div>
+        <div>
+          <div class="card-title">The Cold War</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">⚔️ Military</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">📚 Intellectual</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-8-3-effects-cold-war.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 8.3</div>
+        <div>
+          <div class="card-title">Effects of the Cold War</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-8-4-spread-communism.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 8.4</div>
+        <div>
+          <div class="card-title">Spread of Communism After 1900</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">📚 Intellectual</span>
+            <span class="chip">⚔️ Military</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-8-5-decolonization.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 8.5</div>
+        <div>
+          <div class="card-title">Decolonization After 1900</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-8-6-newly-independent-states.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 8.6</div>
+        <div>
+          <div class="card-title">Newly Independent States</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-8-7-global-resistance.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 8.7</div>
+        <div>
+          <div class="card-title">Global Resistance to Established Power Structures</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-8-8-end-cold-war.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 8.8</div>
+        <div>
+          <div class="card-title">End of the Cold War</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">📚 Intellectual</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-8-9-causation-cold-war.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 8.9</div>
+        <div>
+          <div class="card-title">Causation in the Age of the Cold War and Decolonization</div>
+          <div class="card-themes">
+            <span class="chip">📊 Comparison</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">💰 Economics</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+  </div>
+
+  <!-- ── UNIT 9 ── -->
+  <div class="unit-section">
+    <div class="unit-label">Unit 9 — Globalization &nbsp;·&nbsp; c. 1900–Present</div>
+
+    <a href="topic-9-1-technology-exchange.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 9.1</div>
+        <div>
+          <div class="card-title">Advances in Technology and Exchange After 1900</div>
+          <div class="card-themes">
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-9-2-disease.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 9.2</div>
+        <div>
+          <div class="card-title">Technological Advances and Limitations: Disease</div>
+          <div class="card-themes">
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">🌿 Environment</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-9-3-environment.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 9.3</div>
+        <div>
+          <div class="card-title">Technological Advances: Debates About the Environment</div>
+          <div class="card-themes">
+            <span class="chip">🌿 Environment</span>
+            <span class="chip">⚙️ Technology</span>
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-9-4-global-economy.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 9.4</div>
+        <div>
+          <div class="card-title">Economics in the Global Age</div>
+          <div class="card-themes">
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-9-5-calls-for-reform.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 9.5</div>
+        <div>
+          <div class="card-title">Calls for Reform and Responses After 1900</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-9-6-globalized-culture.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 9.6</div>
+        <div>
+          <div class="card-title">Globalized Culture After 1900</div>
+          <div class="card-themes">
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">📚 Intellectual</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">⚙️ Technology</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-9-7-resistance-globalization.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 9.7</div>
+        <div>
+          <div class="card-title">Resistance to Globalization After 1900</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🎨 Culture</span>
+            <span class="chip">🌍 Interactions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-9-8-global-institutions.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 9.8</div>
+        <div>
+          <div class="card-title">Institutions Developing in a Globalized World</div>
+          <div class="card-themes">
+            <span class="chip">🏛️ Political</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">🌍 Interactions</span>
+            <span class="chip">👥 Social</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+    <a href="topic-9-9-continuity-change.html" class="reading-card">
+      <div class="card-left">
+        <div class="topic-num">Topic 9.9</div>
+        <div>
+          <div class="card-title">Continuity and Change in a Globalized World</div>
+          <div class="card-themes">
+            <span class="chip">📊 Comparison</span>
+            <span class="chip">💰 Economics</span>
+            <span class="chip">👥 Social</span>
+            <span class="chip">🎨 Culture</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-right"><span class="read-check">✓</span><span class="arrow">→</span></div>
+    </a>
+
+  </div>
+
+</div>
+
+<script>
+// Sync Mark-as-Read state from localStorage onto landing page cards
+(function () {
+  var PREFIX = 'apwh:read:';
+  var cards = document.querySelectorAll('.reading-card');
+  var total = cards.length;
+  var readCount = 0;
+
+  cards.forEach(function (card) {
+    var href = card.getAttribute('href');
+    if (!href) return;
+    try {
+      if (localStorage.getItem(PREFIX + href) === '1') {
+        card.classList.add('is-read');
+        readCount++;
+      }
+    } catch (e) {}
+  });
+
+  // Show progress bar if any readings completed
+  if (readCount > 0) {
+    var wrap = document.getElementById('progressWrap');
+    var label = document.getElementById('progressLabel');
+    var fill = document.getElementById('progressFill');
+    if (wrap && label && fill) {
+      wrap.style.display = 'block';
+      label.textContent = readCount + ' of ' + total + ' readings completed';
+      fill.style.width = Math.round((readCount / total) * 100) + '%';
+    }
+  }
+})();
+</script>
+<script src="nav.js"></script>
+</body>
+</html>

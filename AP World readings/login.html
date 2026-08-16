@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AP World History: Modern — Sign In</title>
+  <meta name="description" content="AP World History: Modern interactive reading documents — 73 topic readings covering Units 1–9, aligned to the AP World History CED. Sign in to access course materials." />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Arial', sans-serif;
+      background: #f0ece4;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+      padding: 48px 44px 40px;
+      width: 100%;
+      max-width: 420px;
+    }
+    .brand {
+      text-align: center;
+      margin-bottom: 32px;
+    }
+    .brand-title {
+      font-size: 13px;
+      font-weight: 800;
+      letter-spacing: 0.18em;
+      color: #7a5230;
+      text-transform: uppercase;
+    }
+    .brand-sub {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.14em;
+      color: #b89060;
+      text-transform: uppercase;
+      margin-top: 2px;
+    }
+    .brand-divider {
+      width: 40px;
+      height: 3px;
+      background: #8b5e2e;
+      border-radius: 2px;
+      margin: 14px auto 0;
+    }
+    h1 {
+      font-family: Georgia, serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #1a1a1a;
+      text-align: center;
+      margin-bottom: 8px;
+    }
+    .desc {
+      font-size: 13.5px;
+      color: #6a5a48;
+      text-align: center;
+      line-height: 1.6;
+      margin-bottom: 28px;
+    }
+    .error-msg {
+      background: #fff3f3;
+      border: 1.5px solid #e8a0a0;
+      border-radius: 7px;
+      padding: 10px 14px;
+      font-size: 13px;
+      color: #b03030;
+      margin-bottom: 18px;
+      text-align: center;
+    }
+    .success-msg {
+      background: #f3fff6;
+      border: 1.5px solid #7ec89a;
+      border-radius: 7px;
+      padding: 10px 14px;
+      font-size: 13px;
+      color: #246b40;
+      margin-bottom: 18px;
+      text-align: center;
+    }
+    label {
+      display: block;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #7a5230;
+      margin-bottom: 6px;
+    }
+    input[type="password"] {
+      width: 100%;
+      padding: 11px 14px;
+      font-size: 15px;
+      border: 1.5px solid #d9cfc3;
+      border-radius: 7px;
+      outline: none;
+      color: #1a1a1a;
+      background: #faf8f5;
+      transition: border-color 0.15s;
+      margin-bottom: 20px;
+    }
+    input[type="password"]:focus { border-color: #8b5e2e; background: #fff; }
+    button {
+      width: 100%;
+      padding: 13px;
+      background: #3d2e1a;
+      color: #f0e4cc;
+      border: none;
+      border-radius: 7px;
+      font-family: 'Arial', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    button:hover { background: #5a4530; }
+    .footer-note {
+      text-align: center;
+      font-size: 12px;
+      color: #a09080;
+      margin-top: 24px;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="brand">
+      <div class="brand-title">AP World History</div>
+      <div class="brand-sub">Modern</div>
+      <div class="brand-divider"></div>
+    </div>
+
+    <h1>Course Access</h1>
+    <p class="desc">Enter the password provided by your teacher to access the readings.</p>
+
+    <div id="msg-area"></div>
+
+    <form method="POST" action="/api/login" id="login-form">
+      <input type="hidden" name="returnTo" id="return-to" value="" />
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" autofocus
+             autocomplete="current-password" placeholder="Enter course password" />
+      <button type="submit">Access Course</button>
+    </form>
+
+    <p class="footer-note">Access is provided by your teacher.<br>Contact them if you need help signing in.</p>
+  </div>
+
+  <script>
+    const params = new URLSearchParams(location.search);
+
+    const returnTo = params.get('returnTo');
+    if (returnTo) document.getElementById('return-to').value = returnTo;
+
+    const msgArea = document.getElementById('msg-area');
+    if (params.get('error') === '1') {
+      msgArea.innerHTML = '<div class="error-msg">Incorrect password. Please try again.</div>';
+    } else if (params.get('msg') === 'loggedout') {
+      msgArea.innerHTML = '<div class="success-msg">You\'ve been signed out successfully.</div>';
+    }
+  </script>
+</body>
+</html>
