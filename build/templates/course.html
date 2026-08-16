@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="course-header">
+  <span class="kicker">{{ 'AP Course · College Board CED-Aligned' if course.isAP else 'Semester Course' }}</span>
+  <h1>{{ course.name }}</h1>
+  <p>{{ course.tagline }}</p>
+  <div class="progress-track"></div>
+  <div data-course-progress="{{ course.slug }}" data-total="{{ course.total_topics }}">
+    <div class="progress-track"><div class="progress-fill" style="width:0%"></div></div>
+    <span class="progress-line ui-font progress-label" style="font-size:.8rem;color:var(--ink-soft);">Loading progress…</span>
+  </div>
+</div>
+
+{% for unit in course.units %}
+<div class="unit">
+  <button class="unit-toggle" type="button">
+    <span>
+      <span class="unit-title">Unit {{ unit.num }}: {{ unit.title }}</span>
+      {% if unit.range %}<span class="unit-range">{{ unit.range }}</span>{% endif %}
+      {% if unit.standards %}<span class="unit-range">{{ unit.standards }}</span>{% endif %}
+    </span>
+    <span class="chevron">&#9656;</span>
+  </button>
+  <ul class="unit-topics">
+    {% for t in unit.topics %}
+    <li>
+      {% if t.status == 'complete' %}
+      <a class="topic-link" data-topic-num="{{ t.num }}" href="{{ t.num.replace('.', '-') }}.html">
+        <span class="tnum">{{ t.num }}</span><span>{{ t.title }}</span>
+        <span class="check">&#10003;</span>
+      </a>
+      {% else %}
+      <a class="topic-link is-soon" href="{{ t.num.replace('.', '-') }}.html">
+        <span class="tnum">{{ t.num }}</span><span>{{ t.title }}</span>
+        <span class="soon-badge">Coming soon</span>
+      </a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endfor %}
+
+{% if course.foundationalDocuments %}
+<div class="section-label">Required Foundational Documents</div>
+<p class="ui-font" style="font-size:.85rem;color:var(--ink-soft);">{{ course.foundationalDocuments|join(' · ') }}</p>
+{% endif %}
+{% if course.requiredCases %}
+<div class="section-label">Required Supreme Court Cases</div>
+<p class="ui-font" style="font-size:.85rem;color:var(--ink-soft);">{{ course.requiredCases|join(' · ') }}</p>
+{% endif %}
+{% if course.countryCaseStudies %}
+<div class="section-label">Country Case Studies</div>
+<p class="ui-font" style="font-size:.85rem;color:var(--ink-soft);">{{ course.countryCaseStudies|join(' · ') }}</p>
+{% endif %}
+{% if course.standardsNote %}
+<div class="section-label">Standards Note</div>
+<p class="ui-font" style="font-size:.85rem;color:var(--ink-soft);">{{ course.standardsNote }}</p>
+{% endif %}
+{% endblock %}

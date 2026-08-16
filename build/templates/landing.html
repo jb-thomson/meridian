@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <h1>Meridian</h1>
+  <p>Course readings, built to read right here on your phone or computer — no app, no login. Pick a class below to get started.</p>
+</section>
+<div class="course-grid">
+  {% for c in courses %}
+  <a class="course-card" style="--card-color:{{ c.color }};" href="courses/{{ c.slug }}/index.html">
+    <span class="kicker">{{ 'AP Course' if c.isAP else 'Semester Course' }}</span>
+    <h2>{{ c.name }}</h2>
+    <p>{{ c.tagline }}</p>
+    <span class="progress-line" data-card-progress="{{ c.slug }}" data-total="{{ c.total_topics }}">{{ c.total_topics }} readings</span>
+  </a>
+  {% endfor %}
+</div>
+{% endblock %}

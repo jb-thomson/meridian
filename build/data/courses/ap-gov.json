@@ -1,0 +1,316 @@
+{
+  "slug": "ap-gov",
+  "name": "AP United States Government and Politics",
+  "shortName": "AP Government",
+  "isAP": true,
+  "tagline": "60 topics across 5 units, College Board CED-aligned",
+  "color": "#1f3a5f",
+  "assessmentTypes": [
+    "mcq",
+    "frq"
+  ],
+  "foundationalDocuments": [
+    "Declaration of Independence",
+    "Articles of Confederation",
+    "Federalist No. 10",
+    "Federalist No. 51",
+    "Brutus No. 1",
+    "The U.S. Constitution",
+    "Federalist No. 70",
+    "Federalist No. 78",
+    "\"Letter from a Birmingham Jail\""
+  ],
+  "requiredCases": [
+    "Marbury v. Madison",
+    "McCulloch v. Maryland",
+    "Schenck v. United States",
+    "Brown v. Board of Education",
+    "Baker v. Carr",
+    "Engel v. Vitale",
+    "Wisconsin v. Yoder",
+    "Tinker v. Des Moines",
+    "New York Times Co. v. United States",
+    "Shaw v. Reno",
+    "United States v. Lopez",
+    "McDonald v. Chicago",
+    "Citizens United v. FEC"
+  ],
+  "units": [
+    {
+      "num": 1,
+      "title": "Foundations of American Democracy",
+      "range": null,
+      "topics": [
+        {
+          "num": "1.1",
+          "title": "Ideals of Democracy"
+        },
+        {
+          "num": "1.2",
+          "title": "Types of Democracy"
+        },
+        {
+          "num": "1.3",
+          "title": "Federalist No. 10 and Brutus No. 1"
+        },
+        {
+          "num": "1.4",
+          "title": "Challenges of the Articles of Confederation"
+        },
+        {
+          "num": "1.5",
+          "title": "Ratification of the U.S. Constitution"
+        },
+        {
+          "num": "1.6",
+          "title": "Principles of American Government"
+        },
+        {
+          "num": "1.7",
+          "title": "Relationship Between States and the Federal Government"
+        },
+        {
+          "num": "1.8",
+          "title": "Constitutional Interpretations of Federalism"
+        },
+        {
+          "num": "1.9",
+          "title": "Federalism in Action"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Interactions Among Branches of Government",
+      "range": null,
+      "topics": [
+        {
+          "num": "2.1",
+          "title": "Congress: The Senate and House of Representatives"
+        },
+        {
+          "num": "2.2",
+          "title": "Structures, Powers, and Functions of Congress"
+        },
+        {
+          "num": "2.3",
+          "title": "Congressional Behavior"
+        },
+        {
+          "num": "2.4",
+          "title": "Roles and Powers of the President"
+        },
+        {
+          "num": "2.5",
+          "title": "Checks on the Presidency"
+        },
+        {
+          "num": "2.6",
+          "title": "Expansion of Presidential Power"
+        },
+        {
+          "num": "2.7",
+          "title": "Presidential Communication"
+        },
+        {
+          "num": "2.8",
+          "title": "The Judicial Branch"
+        },
+        {
+          "num": "2.9",
+          "title": "Legitimacy of the Judicial Branch"
+        },
+        {
+          "num": "2.10",
+          "title": "The Court in Action"
+        },
+        {
+          "num": "2.11",
+          "title": "Checks on the Judicial Branch"
+        },
+        {
+          "num": "2.12",
+          "title": "The Bureaucracy"
+        },
+        {
+          "num": "2.13",
+          "title": "Discretionary and Rule-Making Authority"
+        },
+        {
+          "num": "2.14",
+          "title": "Holding the Bureaucracy Accountable"
+        },
+        {
+          "num": "2.15",
+          "title": "Policy and the Branches of Government"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Civil Liberties and Civil Rights",
+      "range": null,
+      "topics": [
+        {
+          "num": "3.1",
+          "title": "The Bill of Rights"
+        },
+        {
+          "num": "3.2",
+          "title": "First Amendment: Freedom of Religion"
+        },
+        {
+          "num": "3.3",
+          "title": "First Amendment: Freedom of Speech"
+        },
+        {
+          "num": "3.4",
+          "title": "First Amendment: Freedom of the Press"
+        },
+        {
+          "num": "3.5",
+          "title": "Second Amendment: Right to Bear Arms"
+        },
+        {
+          "num": "3.6",
+          "title": "Amendments: Balancing Individual Freedom with Public Order and Safety"
+        },
+        {
+          "num": "3.7",
+          "title": "Selective Incorporation and the 14th Amendment"
+        },
+        {
+          "num": "3.8",
+          "title": "Amendments: Due Process and the Rights of the Accused"
+        },
+        {
+          "num": "3.9",
+          "title": "Amendments: Due Process and the Right to Privacy"
+        },
+        {
+          "num": "3.10",
+          "title": "Social Movements and Equal Protection"
+        },
+        {
+          "num": "3.11",
+          "title": "Government Responses to Social Movements"
+        },
+        {
+          "num": "3.12",
+          "title": "Balancing Minority and Majority Rights"
+        },
+        {
+          "num": "3.13",
+          "title": "Affirmative Action"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "American Political Ideologies and Beliefs",
+      "range": null,
+      "topics": [
+        {
+          "num": "4.1",
+          "title": "American Attitudes About Government and Politics"
+        },
+        {
+          "num": "4.2",
+          "title": "Political Socialization"
+        },
+        {
+          "num": "4.3",
+          "title": "Changes in Ideology"
+        },
+        {
+          "num": "4.4",
+          "title": "Influence of Political Events on Ideology"
+        },
+        {
+          "num": "4.5",
+          "title": "Measuring Public Opinion"
+        },
+        {
+          "num": "4.6",
+          "title": "Evaluating Public Opinion Data"
+        },
+        {
+          "num": "4.7",
+          "title": "Ideologies of Political Parties"
+        },
+        {
+          "num": "4.8",
+          "title": "Ideology and Policy Making"
+        },
+        {
+          "num": "4.9",
+          "title": "Ideology and Economic Policy"
+        },
+        {
+          "num": "4.10",
+          "title": "Ideology and Social Policy"
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Political Participation",
+      "range": null,
+      "topics": [
+        {
+          "num": "5.1",
+          "title": "Voting Rights and Models of Voting Behavior"
+        },
+        {
+          "num": "5.2",
+          "title": "Voter Turnout"
+        },
+        {
+          "num": "5.3",
+          "title": "Political Parties"
+        },
+        {
+          "num": "5.4",
+          "title": "How and Why Political Parties Change"
+        },
+        {
+          "num": "5.5",
+          "title": "Third-Party Politics"
+        },
+        {
+          "num": "5.6",
+          "title": "Interest Groups Influencing Policy Making"
+        },
+        {
+          "num": "5.7",
+          "title": "Groups Influencing Policy Outcomes"
+        },
+        {
+          "num": "5.8",
+          "title": "Electing a President"
+        },
+        {
+          "num": "5.9",
+          "title": "Congressional Elections"
+        },
+        {
+          "num": "5.10",
+          "title": "Modern Campaigns"
+        },
+        {
+          "num": "5.11",
+          "title": "Campaign Finance"
+        },
+        {
+          "num": "5.12",
+          "title": "The Media"
+        },
+        {
+          "num": "5.13",
+          "title": "Changing Media"
+        }
+      ]
+    }
+  ],
+  "tipLabel": "AP Tip"
+}

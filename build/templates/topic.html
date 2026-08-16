@@ -1,0 +1,250 @@
+{% extends "base.html" %}
+{% block topbar_actions %}
+{% if topic.status == 'complete' %}
+<button class="btn btn-sm" data-action="print" data-print-mode="full" type="button">🖨️ PDF</button>
+{% endif %}
+{% endblock %}
+{% block content %}
+<div class="topic-nav">
+  <a class="btn btn-sm" href="index.html">&larr; {{ course.shortName }} index</a>
+  <span>
+    {% if prev_topic %}<a class="btn btn-sm" href="{{ prev_topic.num.replace('.', '-') }}.html">&larr; {{ prev_topic.num }}</a>{% endif %}
+    {% if next_topic %}<a class="btn btn-sm" href="{{ next_topic.num.replace('.', '-') }}.html">{{ next_topic.num }} &rarr;</a>{% endif %}
+  </span>
+</div>
+
+{% if topic.status != 'complete' %}
+<div class="coming-soon-box">
+  <div class="section-label">{{ course.shortName }} · Unit {{ unit.num }}</div>
+  <h1 style="font-size:1.3rem;">{{ topic.num }} {{ topic.title }}</h1>
+  <p>This reading hasn't been written yet — it's on the build roadmap. Nothing here is placeholder text pretending to be the real reading; check back soon, or use the "My Notes" approach on a finished topic as a model if you want to draft this one yourself in the meantime.</p>
+  <a class="btn btn-primary" href="index.html">Back to {{ course.shortName }} index</a>
+</div>
+{% else %}
+
+<div class="reading-head">
+  <span class="kicker">{{ course.shortName }} · Unit {{ unit.num }}: {{ unit.title }}</span>
+  <h1>{{ topic.num }} {{ topic.title }}</h1>
+  {% if topic.dateRange %}<div class="daterange">{{ topic.dateRange }}</div>{% endif %}
+</div>
+
+<div class="action-row">
+  <button class="btn btn-primary" type="button" data-complete-course="{{ course.slug }}" data-complete-num="{{ topic.num }}">Mark as read</button>
+  <button class="btn" data-action="print" data-print-mode="reading-only" type="button">🖨️ Print: Reading Only</button>
+  <button class="btn" data-action="print" data-print-mode="full" type="button">🖨️ Print: Full (+ Practice)</button>
+</div>
+
+{% if topic.tldr %}
+<div class="callout callout-tldr reveal">
+  <button class="callout-toggle" type="button">TL;DR<span class="plus">+</span></button>
+  <div class="callout-body-wrap"><div class="callout-body-inner"><div class="callout-body">{{ topic.tldr|md }}</div></div></div>
+</div>
+{% endif %}
+
+{% if topic.learningObjectives %}
+<div class="section-label reveal">Learning Objectives</div>
+<ul class="reading-body">
+  {% for lo in topic.learningObjectives %}<li>{{ lo|md }}</li>{% endfor %}
+</ul>
+{% endif %}
+
+<div class="section-label reveal">The Reading</div>
+<div class="reading-body">
+  {% for para in topic.narrative %}<p>{{ para|md }}</p>{% endfor %}
+</div>
+
+{% if topic.images %}
+  {% for img in topic.images %}
+  <figure class="reading-figure reveal">
+    {% if img.type == 'ai_generated' and img.src %}
+    <img src="{{ img.src }}" alt="{{ img.alt }}">
+    {% elif img.type == 'public_domain_historical' %}
+    <img src="{{ img.src }}" alt="{{ img.alt }}">
+    {% endif %}
+    <figcaption>
+      {% if img.type == 'ai_generated' %}<span class="img-badge ai">AI-Generated Illustration</span>{% else %}<span class="img-badge hist">Real Historical Image</span>{% endif %}
+      <br>{{ img.caption|md }}
+      {% if img.type == 'public_domain_historical' %}
+      <div class="regen-row">
+        <button class="btn btn-sm regen-toggle" type="button" data-target="src-{{ loop.index }}-{{ topic.num.replace('.', '-') }}">Source &amp; license</button>
+        <div class="regen-prompt" id="src-{{ loop.index }}-{{ topic.num.replace('.', '-') }}">Source: <a href="{{ img.sourceUrl }}" target="_blank" rel="noopener">{{ img.attribution }}</a><br>License: {{ img.license }}</div>
+      </div>
+      {% else %}
+      <span class="img-attribution">{{ img.attributionNote }}</span>
+      {% if not img.src %}<div class="ai-pending-note">Image not yet generated for this build.</div>{% endif %}
+      <div class="regen-row">
+        <button class="btn btn-sm regen-toggle" type="button" data-target="regen-{{ loop.index }}-{{ topic.num.replace('.', '-') }}">View regeneration prompt</button>
+        <div class="regen-prompt" id="regen-{{ loop.index }}-{{ topic.num.replace('.', '-') }}">{{ img.regenPrompt }}</div>
+      </div>
+      {% endif %}
+    </figcaption>
+  </figure>
+  {% endfor %}
+{% endif %}
+
+{% if topic.vocabulary %}
+<div class="section-label reveal">Key Vocabulary <span style="text-transform:none;font-weight:400;">(tap a term)</span></div>
+<ul class="vocab-list">
+  {% for v in topic.vocabulary %}
+  <li class="vocab-item">
+    <button class="vocab-term-btn" type="button">{{ v.term|md }}<span class="plus">+</span></button>
+    <div class="vocab-body-wrap"><div class="vocab-body-inner">
+      <div class="vocab-def">
+        {{ v.definition|md }}
+        {% if v.importance %}<span class="vocab-extra"><span class="vocab-extra-label">Why it matters:</span> {{ v.importance|md }}</span>{% endif %}
+        {% if v.example %}<span class="vocab-extra"><span class="vocab-extra-label">Example:</span> {{ v.example|md }}</span>{% endif %}
+      </div>
+    </div></div>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if topic.funFacts %}
+{% for f in topic.funFacts %}
+<div class="callout callout-fun reveal">
+  <button class="callout-toggle" type="button">Fun Fact<span class="plus">+</span></button>
+  <div class="callout-body-wrap"><div class="callout-body-inner"><div class="callout-body">{{ f|md }}</div></div></div>
+</div>
+{% endfor %}
+{% endif %}
+
+{% if topic.apTips %}
+{% for t in topic.apTips %}
+<div class="callout callout-tip reveal">
+  <button class="callout-toggle" type="button">{{ course.tipLabel|default('AP Tip') }}<span class="plus">+</span></button>
+  <div class="callout-body-wrap"><div class="callout-body-inner"><div class="callout-body">{{ t|md }}</div></div></div>
+</div>
+{% endfor %}
+{% endif %}
+
+{% if topic.illustrativeExamples %}
+<div class="section-label reveal">College Board Illustrative Examples Covered</div>
+<ul class="reading-body">{% for ex in topic.illustrativeExamples %}<li>{{ ex|md }}</li>{% endfor %}</ul>
+{% endif %}
+
+{% if topic.interactiveModel == 'supply-demand' %}
+<div class="section-label reveal">Try It Yourself</div>
+<div class="econ-model reveal" id="econ-model-{{ topic.num.replace('.', '-') }}"></div>
+{% endif %}
+
+{% if topic.videoResources %}
+<div class="expand-item practice-block">
+  <button class="expand-toggle" type="button">Watch: video resources<span class="plus">+</span></button>
+  <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">
+    <ul style="margin:0;padding-left:1.1em;">
+      {% for v in topic.videoResources %}<li><a href="{{ v.url }}" target="_blank" rel="noopener">{{ v.title }}</a> — {{ v.creator }}</li>{% endfor %}
+    </ul>
+  </div></div></div>
+</div>
+{% endif %}
+
+<div class="notebooklm-slot">
+  <div class="section-label" style="margin-top:0;">NotebookLM Extras</div>
+  {% if topic.notebookLmResources %}
+    {% for n in topic.notebookLmResources %}
+      <p><a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }}</a></p>
+    {% endfor %}
+  {% else %}
+  <p class="hint">Nothing added yet. To attach a Google NotebookLM audio overview, video overview, or infographic to this topic: open this file — <code>build/data/content/{{ course.slug }}/{{ topic.num.replace('.', '-') }}.json</code> — and add an entry to <code>notebookLmResources</code> with a title and a shareable link (or paste an embed &lt;iframe&gt; directly into this block in the generated HTML file if you're editing the page by hand instead).</p>
+  {% endif %}
+</div>
+
+{% if topic.discussionQuestions %}
+<div class="section-label reveal practice-block">Discussion Questions</div>
+{% for dq in topic.discussionQuestions %}
+<div class="expand-item practice-block">
+  <button class="expand-toggle" type="button">{{ dq.question|md }}<span class="plus">+</span></button>
+  <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body"><strong class="ui-font">Model answer:</strong> {{ dq.modelAnswer|md }}</div></div></div>
+</div>
+{% endfor %}
+{% endif %}
+
+{% if topic.multipleChoice %}
+<div class="section-label reveal practice-block">Check Your Understanding</div>
+{% for q in topic.multipleChoice %}
+<div class="mcq practice-block" data-correct="{{ q.correctIndex }}">
+  <button class="mcq-header" type="button">Question {{ loop.index }}<span class="plus">+</span></button>
+  <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+    <div class="mcq-q">{{ q.question|md }}</div>
+    <ul class="mcq-opts">
+      {% for opt in q.options %}<li class="mcq-opt">{{ opt|md }}</li>{% endfor %}
+    </ul>
+    <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+    <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">{{ q.explanation|md }}</div></div></div>
+  </div></div></div>
+</div>
+{% endfor %}
+{% endif %}
+
+{% if topic.saq %}
+<div class="section-label reveal practice-block">Short Answer Practice (SAQ)</div>
+<div class="frq-block practice-block">
+  <div class="frq-prompt">{{ topic.saq.prompt|md }}</div>
+  <div class="expand-item">
+    <button class="expand-toggle" type="button">Show sample answer<span class="plus">+</span></button>
+    <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ topic.saq.sampleAnswer|md }}</div></div></div>
+  </div>
+</div>
+{% endif %}
+
+{% if topic.leq %}
+<div class="section-label reveal practice-block">Long Essay Practice (LEQ)</div>
+<div class="frq-block practice-block">
+  <div class="frq-prompt">{{ topic.leq.prompt|md }}</div>
+  <div class="expand-item">
+    <button class="expand-toggle" type="button">Show model thesis<span class="plus">+</span></button>
+    <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ topic.leq.modelThesis|md }}</div></div></div>
+  </div>
+</div>
+{% endif %}
+
+{% if topic.essayPractice %}
+<div class="section-label reveal practice-block">Free-Response Practice</div>
+{% for e in topic.essayPractice %}
+<div class="frq-block practice-block">
+  <span class="frq-type-label">{{ e.type }}</span>
+  <div class="frq-prompt">{{ e.prompt|md }}</div>
+  <div class="expand-item">
+    <button class="expand-toggle" type="button">Show model response<span class="plus">+</span></button>
+    <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ e.modelAnswer|md }}</div></div></div>
+  </div>
+</div>
+{% endfor %}
+{% endif %}
+
+{% if topic.frq %}
+<div class="section-label reveal practice-block">Free-Response Practice</div>
+<div class="frq-block practice-block">
+  <div class="frq-prompt">{{ topic.frq.prompt|md }}</div>
+  <div class="expand-item">
+    <button class="expand-toggle" type="button">Show model response<span class="plus">+</span></button>
+    <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ topic.frq.modelAnswer|md }}</div></div></div>
+  </div>
+</div>
+{% endif %}
+
+<div class="teacher-notes">
+  <h3>My Notes (edit this yourself — no AI)</h3>
+  <p class="hint">This box is yours. Open this page's HTML file directly (in GitHub's editor or any text editor), find the <code>&lt;!-- MY-NOTES-START --&gt;</code> comment below, and type between the markers. Changes show up as soon as you save and re-publish the file — nothing else on the page will change.</p>
+  <!-- MY-NOTES-START -->
+  <p>{{ (topic.teacherNotes if topic.teacherNotes else "(Add your own notes, corrections, or extra context here.)")|md }}</p>
+  <!-- MY-NOTES-END -->
+</div>
+
+<div class="complete-row">
+  <button class="btn btn-primary" type="button" data-complete-course="{{ course.slug }}" data-complete-num="{{ topic.num }}">Mark as read</button>
+</div>
+
+<div class="legal-notice">
+  © 2026 Jennifer Thomson, Ph.D. This reading is an authorized commercial course material and may not be redistributed without permission.
+</div>
+
+{% endif %}
+{% endblock %}
+{% block scripts %}
+{% if topic.interactiveModel == 'supply-demand' %}
+<script src="{{ root }}assets/js/econ-models.js"></script>
+<script>document.addEventListener('DOMContentLoaded', function(){ AgoraEconModels.supplyDemandModel('econ-model-{{ topic.num.replace('.', '-') }}'); });</script>
+{% endif %}
+{% endblock %}

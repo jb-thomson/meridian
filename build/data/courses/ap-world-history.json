@@ -1,0 +1,363 @@
+{
+  "slug": "ap-world-history",
+  "name": "AP World History: Modern",
+  "shortName": "AP World History",
+  "isAP": true,
+  "tagline": "c. 1200 to the present \u2014 71 topics across 9 units, College Board CED-aligned",
+  "color": "#8a4b2f",
+  "assessmentTypes": [
+    "mcq",
+    "saq",
+    "leq"
+  ],
+  "units": [
+    {
+      "num": 1,
+      "title": "The Global Tapestry",
+      "range": "c. 1200 to c. 1450",
+      "topics": [
+        {
+          "num": "1.1",
+          "title": "Developments in East Asia from c. 1200 to c. 1450"
+        },
+        {
+          "num": "1.2",
+          "title": "Developments in Dar al-Islam from c. 1200 to c. 1450"
+        },
+        {
+          "num": "1.3",
+          "title": "Developments in South and Southeast Asia from c. 1200 to c. 1450"
+        },
+        {
+          "num": "1.4",
+          "title": "State Building in the Americas"
+        },
+        {
+          "num": "1.5",
+          "title": "State Building in Africa"
+        },
+        {
+          "num": "1.6",
+          "title": "Developments in Europe from c. 1200 to c. 1450"
+        },
+        {
+          "num": "1.7",
+          "title": "Comparison in the Period from c. 1200 to c. 1450"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Networks of Exchange",
+      "range": "c. 1200 to c. 1450",
+      "topics": [
+        {
+          "num": "2.1",
+          "title": "The Silk Roads"
+        },
+        {
+          "num": "2.2",
+          "title": "The Mongol Empire and the Making of the Modern World"
+        },
+        {
+          "num": "2.3",
+          "title": "Exchange in the Indian Ocean"
+        },
+        {
+          "num": "2.4",
+          "title": "Trans-Saharan Trade Routes"
+        },
+        {
+          "num": "2.5",
+          "title": "Cultural Consequences of Connectivity"
+        },
+        {
+          "num": "2.6",
+          "title": "Environmental Consequences of Connectivity"
+        },
+        {
+          "num": "2.7",
+          "title": "Comparison of Economic Exchange"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Land-Based Empires",
+      "range": "c. 1450 to c. 1750",
+      "topics": [
+        {
+          "num": "3.1",
+          "title": "Empires Expand"
+        },
+        {
+          "num": "3.2",
+          "title": "Empires: Administration"
+        },
+        {
+          "num": "3.3",
+          "title": "Empires: Belief Systems"
+        },
+        {
+          "num": "3.4",
+          "title": "Comparison in Land-Based Empires"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Transoceanic Interconnections",
+      "range": "c. 1450 to c. 1750",
+      "topics": [
+        {
+          "num": "4.1",
+          "title": "Technological Innovations from 1450 to 1750"
+        },
+        {
+          "num": "4.2",
+          "title": "Exploration: Causes and Events from 1450 to 1750"
+        },
+        {
+          "num": "4.3",
+          "title": "Columbian Exchange"
+        },
+        {
+          "num": "4.4",
+          "title": "Maritime Empires Established"
+        },
+        {
+          "num": "4.5",
+          "title": "Maritime Empires Maintained and Developed"
+        },
+        {
+          "num": "4.6",
+          "title": "Internal and External Challenges to State Power from 1450 to 1750"
+        },
+        {
+          "num": "4.7",
+          "title": "Changing Social Hierarchies from 1450 to 1750"
+        },
+        {
+          "num": "4.8",
+          "title": "Continuity and Change from 1450 to 1750"
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Revolutions",
+      "range": "c. 1750 to c. 1900",
+      "topics": [
+        {
+          "num": "5.1",
+          "title": "The Enlightenment"
+        },
+        {
+          "num": "5.2",
+          "title": "Nationalism and Revolutions in the Period from 1750 to 1900"
+        },
+        {
+          "num": "5.3",
+          "title": "Industrial Revolution Begins"
+        },
+        {
+          "num": "5.4",
+          "title": "Industrialization Spreads in the Period from 1750 to 1900"
+        },
+        {
+          "num": "5.5",
+          "title": "Technology of the Industrial Age"
+        },
+        {
+          "num": "5.6",
+          "title": "Industrialization: Government's Role from 1750 to 1900"
+        },
+        {
+          "num": "5.7",
+          "title": "Economic Developments and Innovations in the Industrial Age"
+        },
+        {
+          "num": "5.8",
+          "title": "Reactions to the Industrial Economy from 1750 to 1900"
+        },
+        {
+          "num": "5.9",
+          "title": "Society and the Industrial Age"
+        },
+        {
+          "num": "5.10",
+          "title": "Continuity and Change in the Industrial Age"
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Consequences of Industrialization",
+      "range": "c. 1750 to c. 1900",
+      "topics": [
+        {
+          "num": "6.1",
+          "title": "Rationales for Imperialism from 1750 to 1900"
+        },
+        {
+          "num": "6.2",
+          "title": "State Expansion from 1750 to 1900"
+        },
+        {
+          "num": "6.3",
+          "title": "Indigenous Responses to State Expansion from 1750 to 1900"
+        },
+        {
+          "num": "6.4",
+          "title": "Global Economic Development from 1750 to 1900"
+        },
+        {
+          "num": "6.5",
+          "title": "Economic Imperialism from 1750 to 1900"
+        },
+        {
+          "num": "6.6",
+          "title": "Causes of Migration in an Interconnected World"
+        },
+        {
+          "num": "6.7",
+          "title": "Effects of Migration"
+        },
+        {
+          "num": "6.8",
+          "title": "Causation in the Imperial Age"
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Global Conflict",
+      "range": "c. 1900 to present",
+      "topics": [
+        {
+          "num": "7.1",
+          "title": "Shifting Power After 1900"
+        },
+        {
+          "num": "7.2",
+          "title": "Causes of World War I"
+        },
+        {
+          "num": "7.3",
+          "title": "Conducting World War I"
+        },
+        {
+          "num": "7.4",
+          "title": "The Economy in the Interwar Period"
+        },
+        {
+          "num": "7.5",
+          "title": "Unresolved Tensions After World War I"
+        },
+        {
+          "num": "7.6",
+          "title": "Causes of World War II"
+        },
+        {
+          "num": "7.7",
+          "title": "Conducting World War II"
+        },
+        {
+          "num": "7.8",
+          "title": "Mass Atrocities After 1900"
+        },
+        {
+          "num": "7.9",
+          "title": "Causation in Global Conflict"
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Cold War and Decolonization",
+      "range": "c. 1900 to present",
+      "topics": [
+        {
+          "num": "8.1",
+          "title": "Setting the Stage for the Cold War and Decolonization"
+        },
+        {
+          "num": "8.2",
+          "title": "The Cold War"
+        },
+        {
+          "num": "8.3",
+          "title": "Effects of the Cold War"
+        },
+        {
+          "num": "8.4",
+          "title": "Spread of Communism After 1900"
+        },
+        {
+          "num": "8.5",
+          "title": "Decolonization After 1900"
+        },
+        {
+          "num": "8.6",
+          "title": "Newly Independent States"
+        },
+        {
+          "num": "8.7",
+          "title": "Global Resistance to Established Order After 1900"
+        },
+        {
+          "num": "8.8",
+          "title": "End of the Cold War"
+        },
+        {
+          "num": "8.9",
+          "title": "Causation in the Age of the Cold War and Decolonization"
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "Globalization",
+      "range": "c. 1900 to present",
+      "topics": [
+        {
+          "num": "9.1",
+          "title": "Advances in Technology and Exchange After 1900"
+        },
+        {
+          "num": "9.2",
+          "title": "Technological Advances and Limitations After 1900: Disease"
+        },
+        {
+          "num": "9.3",
+          "title": "Technological Advances: Debates About the Environment After 1900"
+        },
+        {
+          "num": "9.4",
+          "title": "Economics in the Global Age"
+        },
+        {
+          "num": "9.5",
+          "title": "Calls for Reform and Responses After 1900"
+        },
+        {
+          "num": "9.6",
+          "title": "Globalized Culture After 1900"
+        },
+        {
+          "num": "9.7",
+          "title": "Resistance to Globalization After 1900"
+        },
+        {
+          "num": "9.8",
+          "title": "Institutions Developing in a Globalized World"
+        },
+        {
+          "num": "9.9",
+          "title": "Continuity and Change in a Globalized World"
+        }
+      ]
+    }
+  ],
+  "tipLabel": "AP Tip"
+}

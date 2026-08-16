@@ -1,0 +1,208 @@
+{
+  "slug": "economics",
+  "name": "Economics",
+  "shortName": "Economics",
+  "isAP": false,
+  "tagline": "One-semester course \u2014 aligned to CEE/NCEE national economics standards & the DoDEA/C3 Framework",
+  "color": "#2f6b4f",
+  "assessmentTypes": [
+    "mcq",
+    "reflection"
+  ],
+  "standardsNote": "Not an AP course. Mapped to the CEE/NCEE Voluntary National Content Standards in Economics, the CEE National Standards for Personal Financial Education, and the DoDEA social studies standards (built on the NCSS C3 Framework, indicators D2.Eco.1\u201315).",
+  "units": [
+    {
+      "num": 1,
+      "title": "Scarcity, Choice & Economic Reasoning",
+      "range": null,
+      "standards": "CEE Std 1\u20134 \u00b7 DoDEA/C3 D2.Eco.1\u20132",
+      "topics": [
+        {
+          "num": "1.1",
+          "title": "Scarcity and the Economic Problem"
+        },
+        {
+          "num": "1.2",
+          "title": "Opportunity Cost and the Production Possibilities Curve"
+        },
+        {
+          "num": "1.3",
+          "title": "Economic Decision Making at the Margin"
+        },
+        {
+          "num": "1.4",
+          "title": "Incentives and Economic Systems"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Supply, Demand & Market Equilibrium",
+      "range": null,
+      "standards": "CEE Std 5\u20138 \u00b7 DoDEA/C3 D2.Eco.3",
+      "topics": [
+        {
+          "num": "2.1",
+          "title": "Demand and the Law of Demand"
+        },
+        {
+          "num": "2.2",
+          "title": "Supply and the Law of Supply"
+        },
+        {
+          "num": "2.3",
+          "title": "Market Equilibrium and Price"
+        },
+        {
+          "num": "2.4",
+          "title": "Shifts in Supply and Demand"
+        },
+        {
+          "num": "2.5",
+          "title": "Elasticity"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Market Structures, Competition & the Role of Government",
+      "range": null,
+      "standards": "CEE Std 9\u201310, 13\u201314, 16\u201317 \u00b7 DoDEA/C3 D2.Eco.4\u20139",
+      "topics": [
+        {
+          "num": "3.1",
+          "title": "Competitive Markets"
+        },
+        {
+          "num": "3.2",
+          "title": "Monopoly and Market Power"
+        },
+        {
+          "num": "3.3",
+          "title": "Entrepreneurship and the Role of Business"
+        },
+        {
+          "num": "3.4",
+          "title": "Market Failure and the Case for Government"
+        },
+        {
+          "num": "3.5",
+          "title": "Government Failure and Regulation"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Macroeconomics: Measuring the Economy",
+      "range": null,
+      "standards": "CEE Std 15, 18 \u00b7 DoDEA/C3 D2.Eco.11, 13",
+      "topics": [
+        {
+          "num": "4.1",
+          "title": "Gross Domestic Product"
+        },
+        {
+          "num": "4.2",
+          "title": "Economic Growth"
+        },
+        {
+          "num": "4.3",
+          "title": "The Business Cycle"
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Money, Banking & the Federal Reserve",
+      "range": null,
+      "standards": "CEE Std 11\u201312 \u00b7 DoDEA/C3 D2.Eco.10",
+      "topics": [
+        {
+          "num": "5.1",
+          "title": "What Money Is and Does"
+        },
+        {
+          "num": "5.2",
+          "title": "The Federal Reserve and the Banking System"
+        },
+        {
+          "num": "5.3",
+          "title": "Interest Rates"
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Fiscal & Monetary Policy, Unemployment & Inflation",
+      "range": null,
+      "standards": "CEE Std 19\u201320 \u00b7 DoDEA/C3 D2.Eco.12",
+      "topics": [
+        {
+          "num": "6.1",
+          "title": "Unemployment"
+        },
+        {
+          "num": "6.2",
+          "title": "Inflation"
+        },
+        {
+          "num": "6.3",
+          "title": "Fiscal Policy"
+        },
+        {
+          "num": "6.4",
+          "title": "Monetary Policy"
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "International Trade & the Global Economy",
+      "range": null,
+      "standards": "CEE Std 5\u20136 (global) \u00b7 DoDEA/C3 D2.Eco.14\u201315",
+      "topics": [
+        {
+          "num": "7.1",
+          "title": "Comparative Advantage and Trade"
+        },
+        {
+          "num": "7.2",
+          "title": "Trade Barriers and Trade Policy"
+        },
+        {
+          "num": "7.3",
+          "title": "Exchange Rates and Globalization"
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Personal Finance",
+      "range": null,
+      "standards": "CEE Personal Financial Education Standards (all 6)",
+      "topics": [
+        {
+          "num": "8.1",
+          "title": "Earning Income"
+        },
+        {
+          "num": "8.2",
+          "title": "Budgeting and Spending"
+        },
+        {
+          "num": "8.3",
+          "title": "Saving and Investing"
+        },
+        {
+          "num": "8.4",
+          "title": "Credit and Debt"
+        },
+        {
+          "num": "8.5",
+          "title": "Managing Risk and Insurance"
+        }
+      ]
+    }
+  ],
+  "tipLabel": "Study Tip"
+}

@@ -1,0 +1,339 @@
+/* ==========================================================================
+   Agora Readings — shared stylesheet
+   Mobile-first. Clean, low-clutter, high-contrast reading experience.
+   ========================================================================== */
+
+:root {
+  --ink: #1c1a17;
+  --ink-soft: #4a453f;
+  --paper: #fdfbf7;
+  --paper-raised: #ffffff;
+  --line: #e4ddd0;
+  --accent: #8a4b2f;
+  --accent-soft: #f4e9df;
+  --good: #2f6b4f;
+  --focus: #1f6fb2;
+  --radius: 12px;
+  --max-width: 760px;
+  --course-color: var(--accent);
+  font-size: 17px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Georgia", "Iowan Old Style", "Palatino Linotype", serif;
+  line-height: 1.6;
+  -webkit-text-size-adjust: 100%;
+}
+
+h1, h2, h3, h4, .ui-font {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.25;
+}
+
+a { color: var(--course-color, var(--accent)); }
+a:focus, button:focus, input:focus, textarea:focus { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+img { max-width: 100%; height: auto; display: block; }
+
+.container { max-width: var(--max-width); margin: 0 auto; padding: 0 16px; }
+
+/* ---------- Top bar ---------- */
+.topbar {
+  position: sticky; top: 0; z-index: 40;
+  background: var(--paper-raised);
+  border-bottom: 1px solid var(--line);
+}
+.topbar-inner {
+  max-width: var(--max-width); margin: 0 auto; padding: 10px 16px;
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
+}
+.brand { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 800; font-size: 1.15rem; color: var(--ink); text-decoration: none; letter-spacing: -0.01em; }
+.brand small { display: block; font-weight: 500; font-size: 0.62rem; color: var(--ink-soft); letter-spacing: 0.04em; text-transform: uppercase; }
+.topbar-actions { display: flex; gap: 8px; align-items: center; }
+
+.btn {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.85rem; font-weight: 600;
+  border: 1px solid var(--line); background: var(--paper-raised); color: var(--ink);
+  border-radius: 999px; padding: 8px 14px; cursor: pointer; text-decoration: none;
+  display: inline-flex; align-items: center; gap: 6px; white-space: nowrap;
+}
+.btn:hover { background: var(--accent-soft); }
+.btn-primary { background: var(--course-color, var(--accent)); border-color: var(--course-color, var(--accent)); color: #fff; }
+.btn-primary:hover { filter: brightness(1.08); }
+.btn-sm { padding: 5px 10px; font-size: 0.75rem; }
+
+/* ---------- Landing page ---------- */
+.hero { padding: 40px 0 24px; text-align: center; }
+.hero h1 { font-size: 2rem; margin: 0 0 6px; }
+.hero p { color: var(--ink-soft); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 46ch; margin: 0 auto; }
+
+.course-grid { display: grid; grid-template-columns: 1fr; gap: 14px; padding: 8px 0 40px; }
+@media (min-width: 640px) { .course-grid { grid-template-columns: 1fr 1fr; } }
+
+.course-card {
+  display: block; text-decoration: none; color: var(--ink);
+  background: var(--paper-raised); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 20px; border-top: 5px solid var(--card-color, var(--accent));
+  transition: transform .1s ease;
+}
+.course-card:hover { transform: translateY(-2px); }
+.course-card .kicker { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--card-color, var(--accent)); }
+.course-card h2 { font-size: 1.2rem; margin: 4px 0 6px; }
+.course-card p { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.88rem; color: var(--ink-soft); margin: 0 0 10px; }
+.course-card .progress-line { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.78rem; color: var(--ink-soft); }
+
+/* ---------- Progress bar ---------- */
+.progress-track { background: var(--line); border-radius: 999px; height: 7px; overflow: hidden; margin: 6px 0; }
+.progress-fill { background: var(--course-color, var(--good)); height: 100%; border-radius: 999px; transition: width .3s ease; }
+
+/* ---------- Course index / unit accordion ---------- */
+.course-header { padding: 22px 0 6px; }
+.course-header .kicker { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; font-size: 0.72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--course-color); }
+.course-header h1 { margin: 4px 0 8px; font-size: 1.6rem; }
+.course-header p { color: var(--ink-soft); font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.92rem; }
+
+.unit { border: 1px solid var(--line); border-radius: var(--radius); margin: 10px 0; background: var(--paper-raised); overflow: hidden; }
+.unit-toggle {
+  width: 100%; text-align: left; background: none; border: none; cursor: pointer;
+  padding: 14px 16px; display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.unit-toggle .unit-title { font-weight: 700; font-size: 0.98rem; color: var(--ink); }
+.unit-toggle .unit-range { display: block; font-weight: 400; font-size: 0.76rem; color: var(--ink-soft); margin-top: 2px; }
+.unit-toggle .chevron { transition: transform .15s ease; color: var(--ink-soft); flex-shrink: 0; }
+.unit.open .chevron { transform: rotate(90deg); }
+.unit-topics { list-style: none; margin: 0; padding: 0 0 8px; display: none; }
+.unit.open .unit-topics { display: block; }
+.unit-topics li { border-top: 1px solid var(--line); }
+.topic-link {
+  display: flex; align-items: center; gap: 10px; padding: 11px 16px 11px 20px;
+  text-decoration: none; color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.9rem;
+}
+.topic-link:hover { background: var(--accent-soft); }
+.topic-link .tnum { color: var(--course-color); font-weight: 700; min-width: 2.6em; }
+.topic-link .check { margin-left: auto; flex-shrink: 0; color: var(--good); opacity: 0; }
+.topic-link.is-done .check { opacity: 1; }
+.topic-link.is-soon { color: var(--ink-soft); font-style: italic; }
+.topic-link.is-soon .tnum { color: var(--ink-soft); }
+.soon-badge { font-size: 0.65rem; text-transform: uppercase; letter-spacing: .04em; background: var(--line); color: var(--ink-soft); padding: 2px 7px; border-radius: 999px; margin-left: auto; font-style: normal; }
+
+/* ---------- Topic reading page ---------- */
+.topic-nav { display: flex; align-items: center; justify-content: space-between; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.82rem; padding: 12px 0; flex-wrap: wrap; }
+.topic-nav a { text-decoration: none; }
+
+.reading-head { padding: 6px 0 18px; }
+.reading-head .kicker { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--course-color); }
+.reading-head h1 { font-size: 1.55rem; margin: 4px 0 4px; }
+.reading-head .daterange { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.85rem; color: var(--ink-soft); }
+
+.action-row { display: flex; flex-wrap: wrap; gap: 8px; padding: 10px 0 6px; }
+
+/* Callouts (TL;DR, Fun Fact, AP/Study Tip) are collapsed-by-default tap targets,
+   built on the same .expand-item mechanics as everything else so they share
+   one smooth-transition system. */
+.callout { border-radius: var(--radius); margin: 14px 0; overflow: hidden; }
+.callout-toggle {
+  width: 100%; text-align: left; background: none; border: none; cursor: pointer;
+  padding: 12px 16px; display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.88rem; font-weight: 800;
+  text-transform: uppercase; letter-spacing: .05em;
+}
+.callout-toggle .plus { transition: transform .2s ease; font-weight: 800; }
+.callout.open .callout-toggle .plus { transform: rotate(45deg); }
+.callout-body-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .32s ease; }
+.callout.open .callout-body-wrap { grid-template-rows: 1fr; }
+.callout-body-inner { overflow: hidden; }
+.callout-body { padding: 0 16px 14px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.92rem; }
+.callout-tldr { background: var(--accent-soft); border: 1px solid var(--course-color); }
+.callout-tldr .callout-toggle { color: var(--course-color); }
+.callout-fun { background: #fff8e1; border: 1px solid #e8c86b; }
+.callout-fun .callout-toggle { color: #8a6d1f; }
+.callout-tip { background: #e8f3ee; border: 1px solid #7fb89c; }
+.callout-tip .callout-toggle { color: var(--good); }
+
+.section-label { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.75rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-soft); margin: 30px 0 10px; }
+
+.reading-body p { margin: 0 0 1.1em; font-size: 1.02rem; }
+
+/* Vocabulary — tap a term to reveal definition / importance / example */
+.vocab-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.vocab-item { border: 1px solid var(--line); border-radius: 10px; background: var(--paper-raised); overflow: hidden; }
+.vocab-term-btn {
+  width: 100%; text-align: left; background: none; border: none; cursor: pointer; padding: 11px 13px;
+  font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.92rem;
+  display: flex; justify-content: space-between; align-items: center; gap: 10px; color: var(--ink);
+}
+.vocab-term-btn .plus { color: var(--course-color); font-weight: 800; transition: transform .2s ease; flex-shrink: 0; }
+.vocab-item.open .vocab-term-btn .plus { transform: rotate(45deg); }
+.vocab-body-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .3s ease; }
+.vocab-item.open .vocab-body-wrap { grid-template-rows: 1fr; }
+.vocab-body-inner { overflow: hidden; }
+.vocab-def { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.88rem; color: var(--ink-soft); padding: 0 13px 12px; }
+.vocab-def .vocab-extra { display: block; margin-top: 6px; padding-top: 6px; border-top: 1px dashed var(--line); }
+.vocab-def .vocab-extra-label { font-weight: 700; color: var(--ink); }
+
+/* images */
+figure.reading-figure { margin: 20px 0; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; background: var(--paper-raised); }
+figure.reading-figure img { cursor: zoom-in; }
+figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.82rem; color: var(--ink-soft); }
+.img-badge { display: inline-block; font-size: 0.65rem; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; padding: 3px 8px; border-radius: 999px; margin-bottom: 6px; }
+.img-badge.hist { background: #e8f3ee; color: var(--good); }
+.img-badge.ai { background: #fdeee3; color: var(--accent); }
+.img-attribution { font-size: 0.76rem; color: var(--ink-soft); display: block; margin-top: 4px; }
+.img-attribution a { color: inherit; text-decoration: underline; }
+.regen-row { margin-top: 8px; }
+.regen-prompt { display: none; background: var(--paper); border: 1px dashed var(--line); border-radius: 8px; padding: 8px; font-family: ui-monospace, SFMono-Regular, monospace; font-size: 0.72rem; color: var(--ink-soft); margin-top: 6px; white-space: pre-wrap; }
+.regen-prompt.open { display: block; }
+.ai-pending-note { font-size: 0.76rem; color: var(--ink-soft); font-style: italic; }
+
+/* image lightbox */
+.lightbox { position: fixed; inset: 0; background: rgba(20,17,14,.92); z-index: 100; display: none; align-items: center; justify-content: center; padding: 24px; }
+.lightbox.open { display: flex; }
+.lightbox img { max-height: 90vh; border-radius: 8px; }
+.lightbox-close { position: absolute; top: 16px; right: 16px; background: #fff; border: none; border-radius: 999px; width: 40px; height: 40px; font-size: 1.2rem; cursor: pointer; }
+
+/* discussion / expandables (also used by SAQ/LEQ/essay "show answer" reveals) */
+.expand-item { border: 1px solid var(--line); border-radius: var(--radius); margin: 10px 0; background: var(--paper-raised); overflow: hidden; }
+.expand-toggle {
+  width: 100%; text-align: left; background: none; border: none; cursor: pointer; padding: 13px 15px;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 0.92rem;
+  display: flex; justify-content: space-between; gap: 10px; align-items: flex-start;
+}
+.expand-toggle .plus { flex-shrink: 0; color: var(--course-color); font-weight: 800; transition: transform .2s ease; }
+.expand-item.open .plus { transform: rotate(45deg); }
+.expand-body-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .32s ease; }
+.expand-item.open .expand-body-wrap { grid-template-rows: 1fr; }
+.expand-body-inner { overflow: hidden; }
+.expand-body { padding: 0 15px 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.88rem; color: var(--ink-soft); border-top: 1px solid var(--line); padding-top: 12px; margin-top: 2px; }
+
+/* MCQs — collapsed as plain headers by default; tap to reveal the full
+   question + choices; correct answer/explanation stay hidden behind their
+   own "Show Answer" control (or clicking a choice) so nothing is spoiled
+   by just opening the question. */
+.mcq { border: 1px solid var(--line); border-radius: var(--radius); margin: 10px 0; background: var(--paper-raised); font-family: -apple-system, BlinkMacSystemFont, sans-serif; overflow: hidden; }
+.mcq-header {
+  width: 100%; text-align: left; background: none; border: none; cursor: pointer; padding: 13px 15px;
+  font-weight: 600; font-size: 0.9rem; display: flex; justify-content: space-between; gap: 10px; align-items: center;
+}
+.mcq-header .plus { color: var(--course-color); font-weight: 800; transition: transform .2s ease; flex-shrink: 0; }
+.mcq.open .mcq-header .plus { transform: rotate(45deg); }
+.mcq-body-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .32s ease; }
+.mcq.open .mcq-body-wrap { grid-template-rows: 1fr; }
+.mcq-body-inner { overflow: hidden; }
+.mcq-body { padding: 0 15px 15px; border-top: 1px solid var(--line); padding-top: 12px; }
+.mcq-q { font-weight: 600; font-size: 0.92rem; margin-bottom: 10px; }
+.mcq-opts { list-style: none; padding: 0; margin: 0 0 10px; display: grid; gap: 6px; }
+.mcq-opt {
+  border: 1px solid var(--line); border-radius: 8px; padding: 9px 11px; cursor: pointer; font-size: 0.86rem;
+  background: var(--paper);
+}
+.mcq-opt:hover { background: var(--accent-soft); }
+.mcq-opt.correct { background: #e8f3ee; border-color: var(--good); font-weight: 700; }
+.mcq-opt.incorrect { background: #fbeaea; border-color: #c0554f; }
+.mcq.answered .mcq-opt:not(.correct):not(.incorrect) { opacity: .55; }
+.mcq-reveal-btn { margin-top: 2px; }
+.mcq-explain-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .3s ease; }
+.mcq.answer-shown .mcq-explain-wrap, .mcq.answered .mcq-explain-wrap { grid-template-rows: 1fr; }
+.mcq-explain-inner { overflow: hidden; }
+.mcq-explain { margin-top: 10px; font-size: 0.85rem; color: var(--ink-soft); background: var(--paper); border-radius: 8px; padding: 10px; }
+
+/* SAQ / LEQ / essay-type practice blocks */
+.frq-block { border: 1px solid var(--line); border-radius: var(--radius); padding: 15px; margin: 14px 0; background: var(--paper-raised); font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+.frq-block .frq-type-label { display: inline-block; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: var(--course-color); background: var(--accent-soft); padding: 3px 8px; border-radius: 999px; margin-bottom: 8px; }
+.frq-prompt { font-size: 0.92rem; white-space: pre-line; margin-bottom: 10px; }
+
+/* interactive econ model slot */
+.econ-model { border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; margin: 18px 0; background: var(--paper-raised); }
+
+/* teacher notes / editable-by-hand section */
+.teacher-notes { border: 2px dashed var(--course-color); border-radius: var(--radius); padding: 16px; margin: 24px 0; background: var(--accent-soft); font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+.teacher-notes h3 { margin: 0 0 6px; font-size: 0.95rem; }
+.teacher-notes .hint { font-size: 0.78rem; color: var(--ink-soft); margin-bottom: 10px; }
+
+.notebooklm-slot { border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; margin: 18px 0; background: var(--paper-raised); font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+.notebooklm-slot .hint { font-size: 0.8rem; color: var(--ink-soft); }
+.notebooklm-slot iframe { width: 100%; border: none; border-radius: 8px; margin-top: 10px; aspect-ratio: 16/9; }
+
+/* mark complete */
+.complete-row { display: flex; align-items: center; gap: 10px; padding: 20px 0; }
+
+/* coming soon */
+.coming-soon-box { text-align: center; padding: 60px 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: var(--ink-soft); }
+
+/* footer */
+footer.site-footer { border-top: 1px solid var(--line); padding: 30px 16px 50px; margin-top: 40px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.78rem; color: var(--ink-soft); text-align: center; }
+footer.site-footer a { color: var(--ink-soft); }
+
+/* copyright / license notice */
+.legal-notice { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.74rem; color: var(--ink-soft); border-top: 1px solid var(--line); margin-top: 34px; padding-top: 14px; }
+
+/* ==========================================================================
+   Scroll-triggered entrance animation
+   Progressive enhancement only: everything is fully visible by default.
+   Only when JS runs AND IntersectionObserver exists AND the visitor hasn't
+   asked for reduced motion do we add html.js-anim, which is what actually
+   arms the fade+float-up effect. No JS / JS error / reduced motion => plain,
+   fully visible content, no exceptions.
+   ========================================================================== */
+html.js-anim .reveal {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity .6s ease, transform .6s ease;
+}
+html.js-anim .reveal.in-view {
+  opacity: 1;
+  transform: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  html.js-anim .reveal { opacity: 1; transform: none; transition: none; }
+}
+
+/* ==========================================================================
+   Print styles — tight spacing, no chrome, fits as much on the page as possible
+   ========================================================================== */
+@media print {
+  :root { font-size: 10.5pt; }
+  .topbar, .topic-nav, .action-row, .complete-row, footer.site-footer,
+  .btn, .unit-toggle .chevron, .lightbox, .notebooklm-slot, .econ-model, .econ-model-controls,
+  .callout-toggle .plus, .expand-toggle .plus, .vocab-term-btn .plus, .mcq-header .plus, .mcq-reveal-btn { display: none !important; }
+  body { background: #fff; color: #000; }
+  html.js-anim .reveal { opacity: 1 !important; transform: none !important; }
+  .container { max-width: 100%; padding: 0; }
+  .reading-head { padding: 0 0 8px; }
+  .reading-head h1 { font-size: 15pt; margin: 2pt 0; }
+  .callout { padding: 0; margin: 8pt 0; border-width: 1px; page-break-inside: avoid; }
+  .callout-toggle { padding: 4pt 6pt; }
+  .callout-body-wrap, .expand-body-wrap, .mcq-body-wrap, .vocab-body-wrap, .mcq-explain-wrap { display: block !important; }
+  .callout-body { padding: 0 6pt 6pt; }
+  .section-label { margin: 10pt 0 4pt; font-size: 8pt; }
+  .reading-body p { margin: 0 0 6pt; font-size: 10pt; line-height: 1.35; }
+  .expand-body { display: block !important; border-top: none; padding-top: 2pt; }
+  .mcq-explain { display: block !important; }
+  .mcq-body { padding-top: 2pt; border-top: none; }
+  figure.reading-figure { page-break-inside: avoid; margin: 8pt 0; }
+  figure.reading-figure img { max-height: 2.6in; }
+  .vocab-item { border: none; }
+  .vocab-list li, .vocab-item { padding: 2pt 0; }
+  .vocab-body-wrap, .vocab-def { padding-left: 0; }
+  .mcq, .frq-block, .expand-item, .vocab-item { border: 1px solid #999; padding: 6pt 8pt; margin: 6pt 0; page-break-inside: avoid; }
+  a { color: #000; text-decoration: none; }
+  .legal-notice { font-size: 7pt; }
+
+  /* Reading Only print mode: hides practice questions/answers (MCQs, discussion
+     questions, SAQ/LEQ/essay practice) and teacher notes; keeps the narrative,
+     images, TL;DR, vocab, and fun facts/tips since those aid comprehension
+     rather than being "practice." Each practice section is wrapped in
+     .practice-block in topic.html. */
+  body.print-reading-only .practice-block, body.print-reading-only .teacher-notes {
+    display: none !important;
+  }
+}
