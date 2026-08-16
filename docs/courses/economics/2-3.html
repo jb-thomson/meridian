@@ -12,6 +12,9 @@
 <body>
 <div class="topbar">
   <div class="topbar-inner">
+    <button class="sidebar-toggle" id="sidebarToggle" type="button" aria-label="Toggle course navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
     <a class="brand" href="../../index.html">Meridian<small>Jennifer Thomson, Ph.D.</small></a>
     <div class="topbar-actions">
       
@@ -22,7 +25,228 @@
     </div>
   </div>
 </div>
-<main class="container">
+<div class="app-shell">
+
+<nav class="course-sidebar" id="courseSidebar" style="--course-color:#2f6b4f;">
+  <a class="sidebar-course-link" href="../../courses/economics/index.html">
+    <span class="sidebar-kicker">Semester Course</span>
+    <span class="sidebar-course-name">Economics</span>
+  </a>
+  <ul class="sidebar-units">
+    
+    <li class="sidebar-unit">
+      <button class="sidebar-unit-toggle" type="button">
+        <span class="sidebar-unit-label"><span class="sidebar-unit-num">Unit 1</span>Scarcity, Choice & Economic Reasoning</span>
+        <span class="chevron">&#9656;</span>
+      </button>
+      <ul class="sidebar-topics">
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/1-1.html">
+          <span class="tnum">1.1</span>Scarcity and the Economic Problem
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/1-2.html">
+          <span class="tnum">1.2</span>Opportunity Cost and the Production Possibilities Curve
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/1-3.html">
+          <span class="tnum">1.3</span>Economic Decision Making at the Margin
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/1-4.html">
+          <span class="tnum">1.4</span>Incentives and Economic Systems
+        </a></li>
+        
+      </ul>
+    </li>
+    
+    <li class="sidebar-unit open">
+      <button class="sidebar-unit-toggle" type="button">
+        <span class="sidebar-unit-label"><span class="sidebar-unit-num">Unit 2</span>Supply, Demand & Market Equilibrium</span>
+        <span class="chevron">&#9656;</span>
+      </button>
+      <ul class="sidebar-topics">
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/2-1.html">
+          <span class="tnum">2.1</span>Demand and the Law of Demand
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/2-2.html">
+          <span class="tnum">2.2</span>Supply and the Law of Supply
+        </a></li>
+        
+        <li><a class="sidebar-topic-link active" href="../../courses/economics/2-3.html">
+          <span class="tnum">2.3</span>Market Equilibrium and Price
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/2-4.html">
+          <span class="tnum">2.4</span>Shifts in Supply and Demand
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/2-5.html">
+          <span class="tnum">2.5</span>Elasticity
+        </a></li>
+        
+      </ul>
+    </li>
+    
+    <li class="sidebar-unit">
+      <button class="sidebar-unit-toggle" type="button">
+        <span class="sidebar-unit-label"><span class="sidebar-unit-num">Unit 3</span>Market Structures, Competition & the Role of Government</span>
+        <span class="chevron">&#9656;</span>
+      </button>
+      <ul class="sidebar-topics">
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/3-1.html">
+          <span class="tnum">3.1</span>Competitive Markets
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/3-2.html">
+          <span class="tnum">3.2</span>Monopoly and Market Power
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/3-3.html">
+          <span class="tnum">3.3</span>Entrepreneurship and the Role of Business
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/3-4.html">
+          <span class="tnum">3.4</span>Market Failure and the Case for Government
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/3-5.html">
+          <span class="tnum">3.5</span>Government Failure and Regulation
+        </a></li>
+        
+      </ul>
+    </li>
+    
+    <li class="sidebar-unit">
+      <button class="sidebar-unit-toggle" type="button">
+        <span class="sidebar-unit-label"><span class="sidebar-unit-num">Unit 4</span>Macroeconomics: Measuring the Economy</span>
+        <span class="chevron">&#9656;</span>
+      </button>
+      <ul class="sidebar-topics">
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/4-1.html">
+          <span class="tnum">4.1</span>Gross Domestic Product
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/4-2.html">
+          <span class="tnum">4.2</span>Economic Growth
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/4-3.html">
+          <span class="tnum">4.3</span>The Business Cycle
+        </a></li>
+        
+      </ul>
+    </li>
+    
+    <li class="sidebar-unit">
+      <button class="sidebar-unit-toggle" type="button">
+        <span class="sidebar-unit-label"><span class="sidebar-unit-num">Unit 5</span>Money, Banking & the Federal Reserve</span>
+        <span class="chevron">&#9656;</span>
+      </button>
+      <ul class="sidebar-topics">
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/5-1.html">
+          <span class="tnum">5.1</span>What Money Is and Does
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/5-2.html">
+          <span class="tnum">5.2</span>The Federal Reserve and the Banking System
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/5-3.html">
+          <span class="tnum">5.3</span>Interest Rates
+        </a></li>
+        
+      </ul>
+    </li>
+    
+    <li class="sidebar-unit">
+      <button class="sidebar-unit-toggle" type="button">
+        <span class="sidebar-unit-label"><span class="sidebar-unit-num">Unit 6</span>Fiscal & Monetary Policy, Unemployment & Inflation</span>
+        <span class="chevron">&#9656;</span>
+      </button>
+      <ul class="sidebar-topics">
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/6-1.html">
+          <span class="tnum">6.1</span>Unemployment
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/6-2.html">
+          <span class="tnum">6.2</span>Inflation
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/6-3.html">
+          <span class="tnum">6.3</span>Fiscal Policy
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/6-4.html">
+          <span class="tnum">6.4</span>Monetary Policy
+        </a></li>
+        
+      </ul>
+    </li>
+    
+    <li class="sidebar-unit">
+      <button class="sidebar-unit-toggle" type="button">
+        <span class="sidebar-unit-label"><span class="sidebar-unit-num">Unit 7</span>International Trade & the Global Economy</span>
+        <span class="chevron">&#9656;</span>
+      </button>
+      <ul class="sidebar-topics">
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/7-1.html">
+          <span class="tnum">7.1</span>Comparative Advantage and Trade
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/7-2.html">
+          <span class="tnum">7.2</span>Trade Barriers and Trade Policy
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/7-3.html">
+          <span class="tnum">7.3</span>Exchange Rates and Globalization
+        </a></li>
+        
+      </ul>
+    </li>
+    
+    <li class="sidebar-unit">
+      <button class="sidebar-unit-toggle" type="button">
+        <span class="sidebar-unit-label"><span class="sidebar-unit-num">Unit 8</span>Personal Finance</span>
+        <span class="chevron">&#9656;</span>
+      </button>
+      <ul class="sidebar-topics">
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/8-1.html">
+          <span class="tnum">8.1</span>Earning Income
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/8-2.html">
+          <span class="tnum">8.2</span>Budgeting and Spending
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/8-3.html">
+          <span class="tnum">8.3</span>Saving and Investing
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/8-4.html">
+          <span class="tnum">8.4</span>Credit and Debt
+        </a></li>
+        
+        <li><a class="sidebar-topic-link is-soon" href="../../courses/economics/8-5.html">
+          <span class="tnum">8.5</span>Managing Risk and Insurance
+        </a></li>
+        
+      </ul>
+    </li>
+    
+  </ul>
+</nav>
+<div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+<main class="container with-sidebar">
 
 <div class="topic-nav">
   <a class="btn btn-sm" href="index.html">&larr; Economics index</a>
@@ -38,19 +262,37 @@
   <span class="kicker">Economics · Unit 2: Supply, Demand & Market Equilibrium</span>
   <h1>2.3 Market Equilibrium and Price</h1>
   
+  <div class="tag-row reveal">
+    <span class="tag-pill">Unit 2.3</span>
+    
+  </div>
+  
+  
+  
 </div>
 
-<div class="action-row">
-  <button class="btn btn-primary" type="button" data-complete-course="economics" data-complete-num="2.3">Mark as read</button>
-  <button class="btn" data-action="print" data-print-mode="reading-only" type="button">🖨️ Print: Reading Only</button>
-  <button class="btn" data-action="print" data-print-mode="full" type="button">🖨️ Print: Full (+ Practice)</button>
+<div class="util-bar reveal">
+  <div class="util-bar-left">
+    <button class="btn btn-primary btn-sm" type="button" data-complete-course="economics" data-complete-num="2.3">Mark as read</button>
+    <button class="btn btn-sm" data-action="print" data-print-mode="reading-only" type="button">🖨️ Reading only</button>
+    <button class="btn btn-sm" data-action="print" data-print-mode="full" type="button">🖨️ Full (+ practice)</button>
+  </div>
+  
+  <div class="util-bar-right">
+    <button class="util-pill" type="button" data-util-toggle="tldr">📋 TL;DR</button>
+    
+  </div>
+  
 </div>
 
 
-<div class="callout callout-tldr reveal">
-  <button class="callout-toggle" type="button">TL;DR<span class="plus">+</span></button>
-  <div class="callout-body-wrap"><div class="callout-body-inner"><div class="callout-body">Equilibrium is the price where the amount buyers want to buy exactly matches the amount sellers want to sell. When demand or supply shifts — because of a new trend, a new technology, a change in income, or a change in costs — the equilibrium price and quantity move to a new point. Use the interactive model below to see this happen in real time.</div></div></div>
+<div class="util-panel" data-util-panel="tldr" hidden>
+  
+  <p>Equilibrium is the price where the amount buyers want to buy exactly matches the amount sellers want to sell. When demand or supply shifts — because of a new trend, a new technology, a change in income, or a change in costs — the equilibrium price and quantity move to a new point. Use the interactive model below to see this happen in real time.</p>
+  
 </div>
+
+
 
 
 
@@ -60,81 +302,109 @@
 </ul>
 
 
+
+<div class="vocab-box reveal">
+  <div class="vocab-box-title">Key Vocabulary</div>
+  <p class="vocab-box-hint">Tap a term for its definition.</p>
+  <ul class="vocab-list">
+    
+    <li class="vocab-item">
+      <button class="vocab-term-btn" type="button">Equilibrium price<span class="plus">+</span></button>
+      <div class="vocab-body-wrap">
+        <div class="vocab-def">
+          <span class="vocab-extra-label">Definition:</span> The price at which the quantity buyers want to purchase equals the quantity sellers want to sell — the price where the market "clears."
+          
+          
+        </div>
+      </div>
+    </li>
+    
+    <li class="vocab-item">
+      <button class="vocab-term-btn" type="button">Equilibrium quantity<span class="plus">+</span></button>
+      <div class="vocab-body-wrap">
+        <div class="vocab-def">
+          <span class="vocab-extra-label">Definition:</span> The amount bought and sold at the equilibrium price.
+          
+          
+        </div>
+      </div>
+    </li>
+    
+    <li class="vocab-item">
+      <button class="vocab-term-btn" type="button">Shortage<span class="plus">+</span></button>
+      <div class="vocab-body-wrap">
+        <div class="vocab-def">
+          <span class="vocab-extra-label">Definition:</span> A situation where quantity demanded exceeds quantity supplied at the current price — usually because the price is set below equilibrium.
+          
+          
+        </div>
+      </div>
+    </li>
+    
+    <li class="vocab-item">
+      <button class="vocab-term-btn" type="button">Surplus<span class="plus">+</span></button>
+      <div class="vocab-body-wrap">
+        <div class="vocab-def">
+          <span class="vocab-extra-label">Definition:</span> A situation where quantity supplied exceeds quantity demanded at the current price — usually because the price is set above equilibrium.
+          
+          
+        </div>
+      </div>
+    </li>
+    
+    <li class="vocab-item">
+      <button class="vocab-term-btn" type="button">Shift vs. movement<span class="plus">+</span></button>
+      <div class="vocab-body-wrap">
+        <div class="vocab-def">
+          <span class="vocab-extra-label">Definition:</span> A "shift" moves an entire supply or demand curve (caused by something other than the good's own price, like income or costs). A "movement" is a change in quantity along the same curve, caused only by a change in the good's own price.
+          
+          
+        </div>
+      </div>
+    </li>
+    
+  </ul>
+</div>
+
+
 <div class="section-label reveal">The Reading</div>
 <div class="reading-body">
-  <p>Imagine a food truck selling tacos outside your school. If the truck charges $20 a taco, almost nobody buys one — there's a huge surplus of unsold tacos sitting under the heat lamp. If the truck charges $1 a taco, the line wraps around the block and they sell out in ten minutes — a shortage, with plenty of hungry customers left unsatisfied. Somewhere between those two extremes is a price where the number of tacos the truck wants to sell matches the number of tacos people want to buy, with no long line and nothing left over. Economists call that point equilibrium.</p><p>Equilibrium is where the demand curve (which slopes downward — people buy more when price is lower) and the supply curve (which slopes upward — sellers offer more when price is higher) cross on a graph. At any price above equilibrium, sellers want to sell more than buyers want to buy, creating a surplus, which pushes prices back down as sellers compete for customers. At any price below equilibrium, buyers want more than sellers are offering, creating a shortage, which pushes prices back up as buyers compete for the limited supply. Left alone, a competitive market tends to settle at this equilibrium point almost automatically — no one has to plan it.</p><p>But equilibrium isn't permanent. It only holds as long as the underlying conditions behind supply and demand stay the same. If something changes buyers' willingness to purchase at every price — a new health trend, a change in income, a popular food-influencer video — the entire demand curve shifts, and a new equilibrium forms. Likewise, if something changes sellers' costs or willingness to sell at every price — a spike in the cost of tortillas, a new competitor food truck, a new food-safety regulation — the entire supply curve shifts. It's worth being precise about the difference between a shift and a movement: a change in the taco's own price moves you along the existing curves, but a change in anything else (income, tastes, input costs, number of sellers, expectations about the future) shifts the curves themselves to a new position, landing on a new equilibrium price and quantity.</p><p>This single idea — equilibrium responding to shifts in supply and demand — explains an enormous amount of everyday economic life: why gas prices jump after a hurricane disrupts oil refineries (a supply decrease), why concert-ticket prices spike right before a sold-out show (a demand increase relative to a fixed supply), and why the price of a hot new video-game console often falls a year after release once more factories are producing it (a supply increase). Try the interactive model below to build your own intuition for how these shifts move the equilibrium point.</p>
+
+  
+  
+  <p>Imagine a food truck selling tacos outside your school. If the truck charges $20 a taco, almost nobody buys one — there's a huge surplus of unsold tacos sitting under the heat lamp. If the truck charges $1 a taco, the line wraps around the block and they sell out in ten minutes — a shortage, with plenty of hungry customers left unsatisfied. Somewhere between those two extremes is a price where the number of tacos the truck wants to sell matches the number of tacos people want to buy, with no long line and nothing left over. Economists call that point equilibrium.</p>
+  
+  
+  
+  
+  
+  <p>Equilibrium is where the demand curve (which slopes downward — people buy more when price is lower) and the supply curve (which slopes upward — sellers offer more when price is higher) cross on a graph. At any price above equilibrium, sellers want to sell more than buyers want to buy, creating a surplus, which pushes prices back down as sellers compete for customers. At any price below equilibrium, buyers want more than sellers are offering, creating a shortage, which pushes prices back up as buyers compete for the limited supply. Left alone, a competitive market tends to settle at this equilibrium point almost automatically — no one has to plan it.</p>
+  
+  
+  <div class="info-box fun-fact reveal">
+    <div class="info-box-label">💡 Fun Fact</div>
+    <div class="info-box-body">The word "equilibrium" comes from Latin for "equal weight" — the same root used to describe a balanced scale, which is a pretty good visual for what's happening at the market-clearing price.</div>
+  </div>
+  
+  
+  
+  
+  <p>But equilibrium isn't permanent. It only holds as long as the underlying conditions behind supply and demand stay the same. If something changes buyers' willingness to purchase at every price — a new health trend, a change in income, a popular food-influencer video — the entire demand curve shifts, and a new equilibrium forms. Likewise, if something changes sellers' costs or willingness to sell at every price — a spike in the cost of tortillas, a new competitor food truck, a new food-safety regulation — the entire supply curve shifts. It's worth being precise about the difference between a shift and a movement: a change in the taco's own price moves you along the existing curves, but a change in anything else (income, tastes, input costs, number of sellers, expectations about the future) shifts the curves themselves to a new position, landing on a new equilibrium price and quantity.</p>
+  
+  
+  
+  
+  
+  <p>This single idea — equilibrium responding to shifts in supply and demand — explains an enormous amount of everyday economic life: why gas prices jump after a hurricane disrupts oil refineries (a supply decrease), why concert-ticket prices spike right before a sold-out show (a demand increase relative to a fixed supply), and why the price of a hot new video-game console often falls a year after release once more factories are producing it (a supply increase). Try the interactive model below to build your own intuition for how these shifts move the equilibrium point.</p>
+  
+  
+  
+  
+
 </div>
 
 
 
-
-<div class="section-label reveal">Key Vocabulary <span style="text-transform:none;font-weight:400;">(tap a term)</span></div>
-<ul class="vocab-list">
-  
-  <li class="vocab-item">
-    <button class="vocab-term-btn" type="button">Equilibrium price<span class="plus">+</span></button>
-    <div class="vocab-body-wrap"><div class="vocab-body-inner">
-      <div class="vocab-def">
-        The price at which the quantity buyers want to purchase equals the quantity sellers want to sell — the price where the market "clears."
-        
-        
-      </div>
-    </div></div>
-  </li>
-  
-  <li class="vocab-item">
-    <button class="vocab-term-btn" type="button">Equilibrium quantity<span class="plus">+</span></button>
-    <div class="vocab-body-wrap"><div class="vocab-body-inner">
-      <div class="vocab-def">
-        The amount bought and sold at the equilibrium price.
-        
-        
-      </div>
-    </div></div>
-  </li>
-  
-  <li class="vocab-item">
-    <button class="vocab-term-btn" type="button">Shortage<span class="plus">+</span></button>
-    <div class="vocab-body-wrap"><div class="vocab-body-inner">
-      <div class="vocab-def">
-        A situation where quantity demanded exceeds quantity supplied at the current price — usually because the price is set below equilibrium.
-        
-        
-      </div>
-    </div></div>
-  </li>
-  
-  <li class="vocab-item">
-    <button class="vocab-term-btn" type="button">Surplus<span class="plus">+</span></button>
-    <div class="vocab-body-wrap"><div class="vocab-body-inner">
-      <div class="vocab-def">
-        A situation where quantity supplied exceeds quantity demanded at the current price — usually because the price is set above equilibrium.
-        
-        
-      </div>
-    </div></div>
-  </li>
-  
-  <li class="vocab-item">
-    <button class="vocab-term-btn" type="button">Shift vs. movement<span class="plus">+</span></button>
-    <div class="vocab-body-wrap"><div class="vocab-body-inner">
-      <div class="vocab-def">
-        A "shift" moves an entire supply or demand curve (caused by something other than the good's own price, like income or costs). A "movement" is a change in quantity along the same curve, caused only by a change in the good's own price.
-        
-        
-      </div>
-    </div></div>
-  </li>
-  
-</ul>
-
-
-
-
-<div class="callout callout-fun reveal">
-  <button class="callout-toggle" type="button">Fun Fact<span class="plus">+</span></button>
-  <div class="callout-body-wrap"><div class="callout-body-inner"><div class="callout-body">The word "equilibrium" comes from Latin for "equal weight" — the same root used to describe a balanced scale, which is a pretty good visual for what's happening at the market-clearing price.</div></div></div>
-</div>
 
 
 
@@ -169,82 +439,95 @@
 </div>
 
 
-<div class="section-label reveal practice-block">Discussion Questions</div>
-
-<div class="expand-item practice-block">
-  <button class="expand-toggle" type="button">If a popular social media trend suddenly makes a food item extremely popular, what happens to its equilibrium price and quantity in the short run, and why?<span class="plus">+</span></button>
-  <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body"><strong class="ui-font">Model answer:</strong> Demand increases (the whole demand curve shifts right) because more people want to buy the item at every price. With supply unchanged in the short run, the new intersection point sits at both a higher equilibrium price and a higher equilibrium quantity than before.</div></div></div>
-</div>
-
-
-
-
-<div class="section-label reveal practice-block">Check Your Understanding</div>
-
-<div class="mcq practice-block" data-correct="2">
-  <button class="mcq-header" type="button">Question 1<span class="plus">+</span></button>
-  <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
-    <div class="mcq-q">At the equilibrium price, which of the following is true?</div>
-    <ul class="mcq-opts">
-      <li class="mcq-opt">Quantity supplied exceeds quantity demanded</li><li class="mcq-opt">Quantity demanded exceeds quantity supplied</li><li class="mcq-opt">Quantity supplied equals quantity demanded</li><li class="mcq-opt">Price is always at its lowest possible level</li>
-    </ul>
-    <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
-    <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Equilibrium is defined as the price at which the quantity sellers want to supply exactly equals the quantity buyers want to purchase — the market "clears" with no shortage or surplus.</div></div></div>
+<div class="practice-group practice-block reveal" data-group="mcq">
+  <button class="practice-group-toggle" type="button"><span>📝 Multiple Choice Questions</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 1<span class="plus">+</span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        
+        <div class="mcq-q">At the equilibrium price, which of the following is true?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Quantity supplied exceeds quantity demanded</li><li class="mcq-opt">Quantity demanded exceeds quantity supplied</li><li class="mcq-opt">Quantity supplied equals quantity demanded</li><li class="mcq-opt">Price is always at its lowest possible level</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Equilibrium is defined as the price at which the quantity sellers want to supply exactly equals the quantity buyers want to purchase — the market "clears" with no shortage or surplus.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 2<span class="plus">+</span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        
+        <div class="mcq-q">If the price of a good is set above its equilibrium price, the result is most likely a</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">shortage</li><li class="mcq-opt">surplus</li><li class="mcq-opt">shift in demand</li><li class="mcq-opt">shift in supply</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">A price above equilibrium means sellers want to sell more than buyers want to buy at that price, creating a surplus of unsold goods.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 3<span class="plus">+</span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        
+        <div class="mcq-q">An increase in the cost of raw materials used to make a good will most directly cause</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">a rightward shift of the demand curve</li><li class="mcq-opt">a rightward shift of the supply curve</li><li class="mcq-opt">a leftward shift of the supply curve</li><li class="mcq-opt">a movement along the demand curve only</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Higher input costs make sellers willing to supply less at every price, shifting the entire supply curve to the left (a decrease in supply).</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 4<span class="plus">+</span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        
+        <div class="mcq-q">Which of the following would cause a movement along the demand curve rather than a shift of the entire curve?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A rise in consumer income</li><li class="mcq-opt">A change in the good's own price</li><li class="mcq-opt">A change in consumer tastes</li><li class="mcq-opt">A change in the price of a substitute good</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Only a change in the good's own price causes a movement along an existing demand curve. Income, tastes, and the price of related goods all shift the entire curve to a new position.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 5<span class="plus">+</span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        
+        <div class="mcq-q">If both demand and supply increase (shift right) at the same time, what happens to equilibrium quantity and price?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Quantity definitely rises; price change is ambiguous without more information</li><li class="mcq-opt">Price definitely rises; quantity change is ambiguous without more information</li><li class="mcq-opt">Both quantity and price definitely fall</li><li class="mcq-opt">Neither changes</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">When both curves shift right, equilibrium quantity unambiguously increases, but the effect on price depends on the relative size of the two shifts — it could rise, fall, or stay about the same.</div></div></div>
+      </div></div></div>
+    </div>
+    
   </div></div></div>
 </div>
 
-<div class="mcq practice-block" data-correct="1">
-  <button class="mcq-header" type="button">Question 2<span class="plus">+</span></button>
-  <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
-    <div class="mcq-q">If the price of a good is set above its equilibrium price, the result is most likely a</div>
-    <ul class="mcq-opts">
-      <li class="mcq-opt">shortage</li><li class="mcq-opt">surplus</li><li class="mcq-opt">shift in demand</li><li class="mcq-opt">shift in supply</li>
-    </ul>
-    <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
-    <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">A price above equilibrium means sellers want to sell more than buyers want to buy at that price, creating a surplus of unsold goods.</div></div></div>
+
+
+
+
+
+
+<div class="practice-group practice-block reveal" data-group="cyu">
+  <button class="practice-group-toggle" type="button"><span>📖 Check Your Understanding</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    
+    <div class="expand-item">
+      <button class="expand-toggle" type="button">If a popular social media trend suddenly makes a food item extremely popular, what happens to its equilibrium price and quantity in the short run, and why?<span class="plus">+</span></button>
+      <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body"><strong class="ui-font">Model answer:</strong> Demand increases (the whole demand curve shifts right) because more people want to buy the item at every price. With supply unchanged in the short run, the new intersection point sits at both a higher equilibrium price and a higher equilibrium quantity than before.</div></div></div>
+    </div>
+    
   </div></div></div>
 </div>
-
-<div class="mcq practice-block" data-correct="2">
-  <button class="mcq-header" type="button">Question 3<span class="plus">+</span></button>
-  <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
-    <div class="mcq-q">An increase in the cost of raw materials used to make a good will most directly cause</div>
-    <ul class="mcq-opts">
-      <li class="mcq-opt">a rightward shift of the demand curve</li><li class="mcq-opt">a rightward shift of the supply curve</li><li class="mcq-opt">a leftward shift of the supply curve</li><li class="mcq-opt">a movement along the demand curve only</li>
-    </ul>
-    <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
-    <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Higher input costs make sellers willing to supply less at every price, shifting the entire supply curve to the left (a decrease in supply).</div></div></div>
-  </div></div></div>
-</div>
-
-<div class="mcq practice-block" data-correct="1">
-  <button class="mcq-header" type="button">Question 4<span class="plus">+</span></button>
-  <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
-    <div class="mcq-q">Which of the following would cause a movement along the demand curve rather than a shift of the entire curve?</div>
-    <ul class="mcq-opts">
-      <li class="mcq-opt">A rise in consumer income</li><li class="mcq-opt">A change in the good's own price</li><li class="mcq-opt">A change in consumer tastes</li><li class="mcq-opt">A change in the price of a substitute good</li>
-    </ul>
-    <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
-    <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Only a change in the good's own price causes a movement along an existing demand curve. Income, tastes, and the price of related goods all shift the entire curve to a new position.</div></div></div>
-  </div></div></div>
-</div>
-
-<div class="mcq practice-block" data-correct="0">
-  <button class="mcq-header" type="button">Question 5<span class="plus">+</span></button>
-  <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
-    <div class="mcq-q">If both demand and supply increase (shift right) at the same time, what happens to equilibrium quantity and price?</div>
-    <ul class="mcq-opts">
-      <li class="mcq-opt">Quantity definitely rises; price change is ambiguous without more information</li><li class="mcq-opt">Price definitely rises; quantity change is ambiguous without more information</li><li class="mcq-opt">Both quantity and price definitely fall</li><li class="mcq-opt">Neither changes</li>
-    </ul>
-    <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
-    <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">When both curves shift right, equilibrium quantity unambiguously increases, but the effect on price depends on the relative size of the two shifts — it could rise, fall, or stay about the same.</div></div></div>
-  </div></div></div>
-</div>
-
-
-
-
-
 
 
 
@@ -261,8 +544,8 @@
 
 
 <div class="teacher-notes">
-  <h3>My Notes (edit this yourself — no AI)</h3>
-  <p class="hint">This box is yours. Open this page's HTML file directly (in GitHub's editor or any text editor), find the <code>&lt;!-- MY-NOTES-START --&gt;</code> comment below, and type between the markers. Changes show up as soon as you save and re-publish the file — nothing else on the page will change.</p>
+  <h3>📝 My Notes <span style="font-weight:400;">(edit this yourself — no AI needed)</span></h3>
+  <p class="hint">This box is yours. Open this page's HTML file directly (in GitHub's editor or any text editor), find the <code>&lt;!-- MY-NOTES-START --&gt;</code> comment below, and type between the markers — corrections, extra context for this year's students, a link, anything. Changes show up as soon as you save and re-publish the file — nothing else on the page will change.</p>
   <!-- MY-NOTES-START -->
   <p>(Add your own notes, corrections, or extra context here.)</p>
   <!-- MY-NOTES-END -->
@@ -279,6 +562,7 @@
 
 
 </main>
+</div>
 <footer class="site-footer">
   <p>© 2026 Jennifer Thomson, Ph.D. These readings are authorized commercial course materials prepared for enrolled students and may not be redistributed, republished, or reproduced without permission.</p>
   <p>AP® and College Board® are trademarks registered by the College Board, which is not affiliated with, and does not endorse, this site.</p>

@@ -1,0 +1,400 @@
+{
+  "course": "ap-world-history",
+  "num": "2.4",
+  "title": "Trans-Saharan Trade Routes",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "⚙️",
+      "label": "Technology",
+      "tooltip": "The North African camel saddle let merchants load camels with 400 lbs of cargo across 10 days of waterless desert. Organized caravans — sometimes thousands of camels strong — made the crossing economically viable."
+    },
+    {
+      "icon": "🏛️",
+      "label": "Political",
+      "tooltip": "The Mali Empire controlled the goldfields and taxed every caravan crossing its territory, accumulating staggering wealth. Mansa Musa's 1324 hajj projected Mali's power to Egypt, the Middle East, and European mapmakers."
+    },
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "Gold flowed north from West Africa; salt flowed south from Saharan deposits — sometimes trading pound-for-pound. This trade illustrates a core economic truth: value is determined by scarcity, not by any absolute standard."
+    },
+    {
+      "icon": "🕌",
+      "label": "Social",
+      "tooltip": "Islam spread peacefully across the Sahara through merchant contact and the practical benefits of shared legal frameworks. Timbuktu's Sankore University — funded entirely by trade wealth — drew 25,000 students from across the Islamic world."
+    }
+  ],
+  "tldr": [
+    "**LO-A: LO: Causes of trans-Saharan trade growth —** Two factors made it possible: (1) *Technology* — the North African camel saddle (c. 300 CE) allowed camels to carry up to 600 lbs of cargo for weeks without water, turning the Sahara from an impassable barrier into a viable corridor. Without this, no organized commercial caravan could have made the crossing. (2) *Geographic specialization* — West Africa had abundant gold but almost no salt; the Sahara had massive salt deposits but no gold; North Africa had manufactured goods and Mediterranean connections. This mutual scarcity made trade economically necessary rather than merely convenient — each region needed what the other had. **LO: Effects of trans-Saharan trade —:** Islam spread peacefully into West Africa through sustained contact with North African Muslim merchants; rulers converted voluntarily because it provided access to Islamic trade networks, commercial legal frameworks, and cultural prestige. Timbuktu grew into a center of Islamic scholarship with an estimated 25,000 students and hundreds of thousands of manuscripts in mathematics, astronomy, medicine, and law — commercial wealth funding cultural achievement. West African gold flooded Mediterranean markets, and enslaved people moved northward, connecting West Africa into the broader Afro-Eurasian world for the first time.",
+    "**LO-B: Explain how the expansion of empires — especially… —** **LO: How Mali's expansion influenced trade and communication —:** Mali grew wealthy by controlling the territory between the goldfields and the trans-Saharan routes — taxing every caravan without needing to mine gold or produce salt itself. This toll-road model made Mali's emperors among the wealthiest rulers in the medieval world. Mansa Musa's 1324 hajj (60,000 attendants, tons of gold distributed in Cairo) crashed the Egyptian gold price for a decade and put Mali on European maps for the first time — demonstrating how pilgrimage routes doubled as intercontinental information networks. Mali's political stability and Islamic identity made it a trusted commercial partner, dramatically expanding trade volume and reliability."
+  ],
+  "learningObjectives": [
+    "Explain the causes and effects of the growth of trans-Saharan trade",
+    "Explain how the expansion of empires — especially Mali — influenced trade and communication over time"
+  ],
+  "vocabulary": [
+    {
+      "term": "Caravan",
+      "definition": "A large organized group of merchants and pack animals traveling together, typically across desert.",
+      "importance": "Made the Sahara crossing viable and safer; the basic organizational unit of trans-Saharan commerce, sometimes numbering thousands of camels."
+    },
+    {
+      "term": "Camel Saddle",
+      "definition": "A specialized saddle that allowed riders to control camels and load them with heavy cargo.",
+      "importance": "The key technological innovation that made trans-Saharan trade possible; without it, camels could not be effectively used as pack animals across the desert."
+    },
+    {
+      "term": "Mali Empire",
+      "definition": "A powerful West African empire (c. 1235–1600) that controlled trans-Saharan gold and salt trade.",
+      "importance": "By controlling the goldfields and taxing all trade passing through its territory, Mali accumulated extraordinary wealth and stabilized trade routes across the region."
+    },
+    {
+      "term": "Mansa Musa",
+      "definition": "Emperor of Mali (reigned 1312–1337); widely considered the wealthiest person in medieval history.",
+      "importance": "His 1324 hajj introduced Mali's wealth to the world, caused inflation in Cairo by flooding the gold market, and funded the construction of Timbuktu as a center of Islamic learning."
+    },
+    {
+      "term": "Hajj",
+      "definition": "The Islamic pilgrimage to Mecca, required of all Muslims who are physically and financially able.",
+      "importance": "Connected the Islamic world across vast distances; pilgrimage routes doubled as trade routes; Mansa Musa's hajj is history's most famous example of how pilgrimage could project political power."
+    },
+    {
+      "term": "Inflation",
+      "definition": "A rise in general prices caused by too much money (or a specific commodity) in circulation, reducing purchasing power.",
+      "importance": "Mansa Musa's gold giveaways in Cairo caused decade-long inflation — one of history's clearest real-world illustrations of supply, demand, and the economics of trade networks."
+    },
+    {
+      "term": "Timbuktu",
+      "definition": "A city in present-day Mali that became a major center of Islamic scholarship and trans-Saharan commerce in the 1300s–1400s.",
+      "importance": "Demonstrates that trade wealth funds cultural achievement; home to the Sankore University and hundreds of thousands of manuscripts on science, law, and philosophy."
+    },
+    {
+      "term": "Salt Trade",
+      "definition": "The exchange of salt (from Saharan deposits) for gold from West African mines.",
+      "importance": "The economic engine of trans-Saharan trade; salt's scarcity in West Africa made it as valuable as gold, illustrating how supply and demand determine value."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "The Sahara Desert was considered uncrossable for most of human history, yet trans-Saharan trade expanded dramatically around 300 CE. What single technological development most directly accounts for this transformation?",
+      "answer": "The North African camel saddle — a specialized design that allowed riders to effectively control camels and load them with hundreds of pounds of cargo for weeks without water. Without this innovation, camels could not be reliably used as pack animals, and no organized commercial caravan could attempt the Saharan crossing. Technology transformed an impassable barrier into a viable trade corridor."
+    },
+    {
+      "question": "In some medieval West African markets, salt and gold were traded pound-for-pound. A modern economist says this perfectly illustrates one of the foundational principles of all markets. Which principle?",
+      "answer": "Scarcity relative to need determines value — not any intrinsic or absolute quality of the good itself. Gold was abundant in West Africa and salt was scarce; in North Africa, the opposite was true. The pound-for-pound exchange reflected two completely different scarcity environments existing simultaneously. This is the same principle that makes water cheap at a grocery store and expensive at a concert: context, not substance, creates value."
+    },
+    {
+      "question": "The Mali Empire grew wealthy by taxing trade passing through its territory, even though Mali itself did not mine the gold or manufacture the salt driving the trade. How does this compare to the economic strategy of the Sultanate of Malacca on the Indian Ocean?",
+      "answer": "Both empires built their wealth on geographic control of strategic chokepoints — taxing commerce that had to pass through their territory rather than producing the valuable goods themselves. Mali controlled the routes between West African goldfields and North African markets; Malacca controlled the only sea passage between the Indian Ocean and South China Sea. Both were \"toll road\" economies: wealth came from being in the right place and having the power to charge for passage."
+    },
+    {
+      "question": "Islam spread across West Africa primarily through trans-Saharan trade routes, and most West African rulers adopted it voluntarily. How did this pattern of religious conversion differ from early Islamic expansion in the Arabian Peninsula and Persia?",
+      "answer": "In Arabia and early Persia, Islamic expansion closely followed military conquest and political incorporation into the caliphate — conversion often came with or after political submission. In West Africa, rulers adopted Islam voluntarily because it provided tangible economic benefits: access to wider Islamic trade networks, a shared legal framework for commercial contracts, and cultural prestige. The same religion spread by two very different mechanisms in different contexts — military force in one case, commercial incentive in the other."
+    },
+    {
+      "question": "The 1375 Catalan Atlas — made in Majorca, Spain — shows a crowned African king labeled \"Rex Melly\" holding a gold nugget, even though the Majorcan cartographers had never visited West Africa. What does this source most directly reveal?",
+      "answer": "Mansa Musa's 1324 hajj had made Mali's extraordinary wealth famous across the entire Mediterranean world — including in European countries with no direct trade contact with West Africa. This demonstrates how pilgrimage routes functioned as information networks: news of Mali's gold traveled along the Islamic pilgrimage routes and reached European cartographers thousands of miles away. The map is evidence of Mali's integration into the Afro-Eurasian information economy, not just its commercial one."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🏜️ The Problem with the Sahara"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Sahara Desert is the largest hot desert on Earth — roughly the size of the continental United States. For most of human history, it was considered uncrossable. Temperatures can exceed 130°F. There is almost no water. Sandstorms can appear out of nowhere and bury everything in their path. Traveling across it without the right tools and knowledge was a death sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "And yet, on the other side of that desert sat some of the most valuable resources in the medieval world. West Africa had **gold** — enormous deposits of it, more than almost anywhere else on Earth. North Africa and the Mediterranean world desperately wanted that gold. They had something West Africa desperately needed in return: **salt**. West African diets were chronically salt-deficient, and without salt, you cannot preserve food or maintain basic bodily functions. Salt also preserved the meat that fed armies on campaign — empires literally could not fight wars without it. Controlling salt was controlling power."
+    },
+    {
+      "type": "paragraph",
+      "text": "The wealth waiting on both sides of the Sahara created enormous pressure to find a way across. What made that possible was one animal."
+    },
+    {
+      "type": "heading",
+      "text": "🐪 The Camel Changes Everything"
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-4-0.jpg",
+      "alt": "A camel caravan crossing the Sahara Desert",
+      "caption": "Camel caravans could travel 20–25 miles per day across the Sahara. A single caravan might include thousands of camels and take months to cross the desert — but the profits waiting on the other side made the journey worth the risk.",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "Camels had existed in North Africa and the Middle East for centuries, but they weren't widely used for Saharan trade until around 300 CE. The reason was technology: the development of the **North African camel saddle**, which allowed riders to control camels effectively and load them with heavy cargo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once harnessed correctly, camels were almost perfectly engineered for desert travel:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "A camel can carry up to **400 pounds of cargo** — about four times what a donkey can manage.",
+        "Camels can go **10 days without water**, storing fat (not water) in their humps that the body converts to energy and moisture.",
+        "Their wide, flat feet distribute weight across sand without sinking, like built-in snowshoes for the desert.",
+        "They can tolerate temperature swings from freezing nights to scorching days that would kill most pack animals."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Camels didn't just make the crossing possible — they made it economically viable. Merchants organized themselves into **caravans** — large groups traveling together for safety, with hundreds or even thousands of camels. A single large caravan could carry enough gold and salt to generate enormous profits. The Sahara stopped being a barrier and became a highway."
+    },
+    {
+      "type": "funFact",
+      "text": "In some West African markets during this period, salt and gold were traded at an equal weight ratio — **pound for pound**. A pound of salt was worth a pound of gold. To a modern person this sounds insane, but it makes sense when you understand the context: gold was abundant in West Africa; salt was scarce and essential for survival. Value is always relative to supply and demand. The same logic explains why a bottle of water costs $2 at a grocery store but $8 at a sports stadium — scarcity determines price."
+    },
+    {
+      "type": "heading",
+      "text": "💰 What Was Actually Traded"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gold and salt were the foundations of trans-Saharan trade, but they weren't the only goods moving across the desert. The full picture of what flowed north and south reveals how complex and interconnected these networks were:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Southward (into West Africa):** Salt (from Saharan deposits like Taghaza), copper, horses, textiles, glassware, and manufactured goods from the Mediterranean world.",
+        "**Northward (out of West Africa):** Gold (from the Bambuk and Bure goldfields), ivory (elephant tusks), kola nuts (a mild stimulant, important in Islamic societies where alcohol was prohibited), leather goods, and enslaved people."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The **enslaved people** trade across the Sahara is a significant and often underemphasized part of this history. Historians estimate that between 700 and 1900 CE, approximately 6–7 million enslaved Africans were transported north across the Sahara to North Africa and the Middle East — a number comparable in scale to the transatlantic slave trade that would come later. This was a devastating human cost embedded in the same trade networks that generated enormous wealth."
+    },
+    {
+      "type": "apTip",
+      "text": "When discussing trans-Saharan trade, be prepared to identify *both* the goods that went north (gold, ivory, enslaved people) and south (salt, copper, horses). The AP exam may also ask you to connect the enslaved people trade across the Sahara to the later transatlantic slave trade — both are part of a long pattern of forced labor embedded in global trade networks."
+    },
+    {
+      "type": "heading",
+      "text": "👑 The Mali Empire — When a Kingdom Controls the Gold"
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/2-4-1.jpg",
+      "alt": "Detail from the 1375 Catalan Atlas showing Mansa Musa seated on his throne of gold",
+      "caption": "Detail from the 1375 Catalan Atlas — Mansa Musa, Emperor of Mali, shown seated on a throne of gold.",
+      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Mali Empire rose to dominance in West Africa in the 1200s and 1300s, and its rulers understood something crucial: *whoever controls the gold fields controls the trade routes, and whoever controls the trade routes controls everything else*."
+    },
+    {
+      "type": "paragraph",
+      "text": "At its peak, Mali controlled the major goldfields of West Africa and sat directly across the key Saharan trade routes. Merchants had to pass through Mali to get their goods to the Saharan caravans. The empire grew fabulously wealthy by taxing every ounce of gold and every load of salt that crossed its territory."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mali's most famous ruler, **Mansa Musa** (reigned 1312–1337), is a perfect case study in how economics, politics, culture, and religion all connect through trade networks. In 1324, he made the **hajj** — the Islamic pilgrimage to Mecca — and his journey became one of the most talked-about events of the medieval world."
+    },
+    {
+      "type": "funFact",
+      "text": "Mansa Musa's 1324 pilgrimage connected *economics, religion, culture, and politics* all at once — which is exactly why it's such a perfect AP World History example.  **Economics:** He traveled with a caravan of 60,000 people and 12,000 enslaved servants, each carrying 4 pounds of gold. He gave so much gold away as gifts in Cairo and along his route that he *crashed the price of gold* across North Africa and the Middle East for over a decade. Here's why: gold, like anything else, is worth more when it's scarce. When Mansa Musa flooded the market with gold — dramatically increasing the supply — gold suddenly bought less than it used to. Prices for everything else rose to match. Merchants who had stored gold found it was now worth far less. This is **inflation**: when too much money enters a system, the money loses value. It took Cairo's economy more than 10 years to recover. One man's generosity destabilized an entire regional economy.  **Religion:** The hajj itself was a demonstration that Mali was fully part of the Islamic world — trade networks had carried Islam across the Sahara, and Mansa Musa was publicly affirming his faith to the entire Muslim world.  **Culture & Politics:** Mansa Musa brought back architects and scholars from Egypt and Morocco. He commissioned the construction of mosques and universities across Mali, transforming Timbuktu into one of the world's great centers of Islamic learning. His pilgrimage put Mali on European maps — literally. The 1375 Catalan Atlas, one of the most important medieval maps in existence, shows a crowned African king labeled \"Rex Melly\" sitting on a throne of gold. West Africa was now part of the European understanding of the world."
+    },
+    {
+      "type": "heading",
+      "text": "🕌 Islam Travels with Merchants"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most significant effects of trans-Saharan trade wasn't a good that could be weighed or taxed — it was a religion. **Islam** spread across the Sahara almost entirely through trade, not conquest."
+    },
+    {
+      "type": "paragraph",
+      "text": "The process worked like this: Arab and Berber merchants from North Africa crossed the Sahara and established long-term trading relationships with West African rulers. Many of these merchants were Muslim. As they built trust with local elites, they introduced Islamic practices, law, and scholarship. West African kings — who were practical politicians — often converted to Islam because it came with benefits: access to the vast Islamic trade network, the use of Arabic as a shared commercial language, and Islamic legal frameworks that made contracts more reliable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Islam didn't replace existing West African religions immediately or completely — in many places it was adopted by the ruling class while the general population maintained traditional beliefs. But over generations, Islam became deeply embedded in West African culture, architecture, and scholarship. This is a pattern worth memorizing: *trade routes carry culture*."
+    },
+    {
+      "type": "heading",
+      "text": "📚 Timbuktu — More Than a Punchline"
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-4-2.jpg",
+      "alt": "The medieval city of Timbuktu with its mosque and bustling marketplace",
+      "caption": "At its peak in the 1300s and 1400s, Timbuktu was home to over 25,000 students and one of the world's most significant collections of Islamic manuscripts — a center of scholarship built entirely on trade wealth.",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most people today use \"Timbuktu\" as a joke meaning \"somewhere impossibly far away.\" In the 1300s and 1400s, it was one of the most important cities in the world."
+    },
+    {
+      "type": "paragraph",
+      "text": "Located at the southern edge of the Sahara, Timbuktu was ideally positioned: it sat where the trans-Saharan caravan routes from the north met the Niger River, which connected the city to the rest of West Africa. Every major trade route in the region passed through it. The city grew rich on tolls, taxes, and commerce."
+    },
+    {
+      "type": "paragraph",
+      "text": "That wealth funded something remarkable. The **Sankore Mosque and University** in Timbuktu became one of the medieval world's great centers of scholarship, with an estimated 25,000 students studying Islamic law, mathematics, astronomy, and medicine. The city accumulated hundreds of thousands of manuscripts — texts on science, philosophy, history, and religion — many of which survive today. When scholars say the Islamic world preserved and advanced knowledge during Europe's medieval period, cities like Timbuktu are exactly what they mean."
+    },
+    {
+      "type": "apTip",
+      "text": "The College Board's LO I asks you to explain how the *expansion of empires* influenced trade. The Mali Empire is the primary example — it stabilized trans-Saharan routes, drew new peoples into trade networks, and spread Islam across West Africa. Notice the same pattern from Topic 2.2: just as the Mongol Empire facilitated Silk Road trade, the Mali Empire facilitated trans-Saharan trade. That parallel is exactly the kind of comparison the AP exam rewards."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 2.4",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+2.4",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Trans-Saharan Trade",
+      "url": "https://www.youtube.com/results?search_query=AP+Review+Trans-Saharan+Trade",
+      "creator": "AP Review · 10 min"
+    },
+    {
+      "title": "Mansa Musa",
+      "url": "https://www.youtube.com/results?search_query=TED-Ed+Mansa+Musa",
+      "creator": "TED-Ed · 4 min"
+    },
+    {
+      "title": "Mali & the Gold-Salt Trade",
+      "url": "https://www.youtube.com/results?search_query=YouTube+Mali+%26+the+Gold-Salt+Trade",
+      "creator": "YouTube · 8 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "\"The camel can travel up to 25 miles per day for weeks without drinking water, survive on desert shrubs, and carry loads of up to 600 pounds. The North African saddle, developed around 300 CE, allowed riders to control camels effectively and load them with commercial cargo for sustained journeys.\"",
+      "question": "The technological development described in the passage most directly explains which of the following?",
+      "options": [
+        "A) Why trans-Saharan trade routes shifted from coastal to interior paths during the post-classical period",
+        "B) How the Sahara Desert, previously a barrier to commerce, became a viable trade corridor",
+        "C) Why camels displaced horses as the primary draft animal across all of North Africa",
+        "D) How West African empires were able to field larger armies than their North African rivals"
+      ],
+      "correctIndex": 1,
+      "explanation": "The camel saddle allowed effective cargo loading — turning the camel's extraordinary biological advantages (water storage, endurance, load capacity) into commercial assets. Without this technology, no organized commercial caravan could have reliably crossed the Sahara."
+    },
+    {
+      "stimulus": "\"In 1324 CE, Mali Emperor Mansa Musa made the Islamic pilgrimage to Mecca with an entourage estimated at 60,000 people, 500 heralds carrying golden staffs, and 80 camels each carrying 300 pounds of gold dust. His gifts and spending in Cairo were so generous that the price of gold in Egypt reportedly took over a decade to recover.\"",
+      "question": "Mansa Musa's hajj most directly illustrates which of the following?",
+      "options": [
+        "A) West African rulers were motivated primarily by religious devotion rather than commercial or political interests",
+        "B) The Egyptian economy was structurally unable to efficiently absorb sudden increases in gold supply",
+        "C) The wealth generated by trans-Saharan gold trade had made Mali one of the wealthiest states in the medieval world, and Mansa Musa used the hajj to project this power internationally",
+        "D) Mansa Musa's hajj caused permanent economic damage to Egypt that contributed to its subsequent political decline"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mansa Musa's hajj was simultaneously a religious act and a calculated political display — the extraordinary scale of his entourage and gold distribution demonstrated Mali's wealth to the entire Islamic world, putting West Africa on European maps and establishing Mali's international prestige."
+    },
+    {
+      "stimulus": "\"Salt mined at Taghaza, a Saharan deposit, was cut into large slabs for easy transport on camelback. One 14th-century account noted that the miners' houses were constructed entirely of salt blocks because no other building material was available at the site.\"",
+      "question": "The account most directly supports which of the following conclusions about trans-Saharan trade?",
+      "options": [
+        "A) Salt mining was performed entirely by enslaved labor with no economic compensation",
+        "B) Trans-Saharan merchants primarily traded bulk commodities rather than luxury goods",
+        "C) The Taghaza salt mines were controlled exclusively by the Mali Empire as a state monopoly",
+        "D) Geographic specialization — different regions producing different essential goods — was the economic foundation of trans-Saharan trade"
+      ],
+      "correctIndex": 3,
+      "explanation": "Taghaza had salt and nothing else — not even building materials except salt itself. West African mines had gold and no salt. This extreme geographic specialization created the mutual dependence that made trans-Saharan trade economically necessary rather than merely convenient."
+    },
+    {
+      "stimulus": "\"By the 14th century, the city of Timbuktu contained three major mosques, 180 Quranic schools, a university at Sankore mosque with an estimated 25,000 students, and hundreds of thousands of manuscripts on mathematics, astronomy, medicine, and Islamic law.\"",
+      "question": "The description of Timbuktu most directly illustrates which of the following historical patterns?",
+      "options": [
+        "A) Commercial wealth generated by trade networks was reinvested in educational and cultural institutions, producing centers of learning along trade routes",
+        "B) Islamic scholars deliberately chose remote locations to protect their scholarship from political interference",
+        "C) Islam spread to West Africa primarily through the activities of scholars rather than merchants",
+        "D) The Mali Empire used educational institutions as a political tool to control the population of Timbuktu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Timbuktu's scholarly excellence was a direct product of trans-Saharan trade wealth. Gold and salt revenues funded the mosques, schools, and manuscript trade that made Timbuktu one of the world's leading centers of Islamic learning — commerce producing culture."
+    },
+    {
+      "stimulus": "\"When Portuguese sailors established maritime trade routes along the West African coast in the mid-15th century, they were able to purchase West African gold directly, bypassing the trans-Saharan routes and the North African and Arab merchants who had controlled that trade for centuries.\"",
+      "question": "The development described in the passage most directly resulted in which of the following?",
+      "options": [
+        "A) The immediate and complete collapse of trans-Saharan trade and the permanent decline of West African empires",
+        "B) The decline of Mali and Songhai empires as their geographic control of gold export routes became less strategically valuable",
+        "C) A gradual shift in the direction of West African gold trade from trans-Saharan overland routes toward Atlantic maritime routes",
+        "D) Portuguese merchants gaining direct ownership and control of West African gold mines"
+      ],
+      "correctIndex": 2,
+      "explanation": "Portuguese maritime routes gradually redirected West African gold flows from north (across the Sahara) to west (across the Atlantic), undermining the commercial foundation of trans-Saharan trade and eventually contributing to the decline of Mali and Songhai — but not immediately or completely."
+    }
+  ],
+  "saq": {
+    "context": "\"Between 1200 and 1450, trans-Saharan trade routes connected West African kingdoms — particularly the Mali Empire under rulers like Mansa Musa — to North African cities and the broader Mediterranean world. The primary goods exchanged were West African gold flowing north and Saharan salt flowing south, with Islam, scholarship, enslaved people, and luxury goods also moving along these routes.\"",
+    "directions": "Answer all three parts (A, B, C). Write your response before clicking to see sample answers.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Identify ONE way that geography or technology made trans-Saharan trade possible in the period 1200–1450.",
+        "sampleAnswer": "**Sample answer (1 sentence):** The North African camel saddle allowed riders to effectively control camels and load them with heavy commercial cargo, transforming the camel's biological ability to survive weeks without water into a commercially practical transportation technology that made organized caravans across the Sahara viable.\n\n**Other possible responses include:**"
+      },
+      {
+        "label": "Part B",
+        "task": "Explain ONE reason the Mali Empire became so wealthy and politically powerful in the period 1200–1450.",
+        "sampleAnswer": "**Sample answer (3 sentences):** The Mali Empire controlled the geographic territory between West Africa's gold-producing regions and the trans-Saharan trade routes leading north, allowing its rulers to tax every caravan that carried gold out of the region and every caravan that brought salt in — extracting revenue from commerce without producing either gold or salt themselves. This toll-road economic model, combined with direct access to the goldfields, made Mali's rulers extraordinarily wealthy by medieval standards, funding large armies, sophisticated administration, and the city of Timbuktu as a center of Islamic scholarship. Mansa Musa's 1324 hajj — during which he distributed so much gold in Cairo that the gold price reportedly crashed for over a decade — demonstrates the staggering scale of Mali's wealth and its rulers' ability to project political power far beyond West Africa.\n\n**Other possible responses include:**"
+      },
+      {
+        "label": "Part C",
+        "task": "Explain ONE way that trans-Saharan trade affected the cultural development of West Africa in the period 1200–1450.",
+        "sampleAnswer": "**Sample answer (3 sentences):** Islam spread to West Africa primarily through sustained contact with Muslim North African merchants who traveled trans-Saharan routes, settling in trading cities like Timbuktu and Djenné and gradually introducing Islamic practice, scholarship, and commercial law to local populations and rulers. West African rulers adopted Islam largely because it provided practical advantages: it connected them to the vast Islamic trade network, offered shared commercial legal frameworks for contracts with Muslim partners, and brought cultural prestige and diplomatic legitimacy in dealings with the broader Muslim world. This voluntary, commercially-driven conversion produced West African Islamic centers like Timbuktu — which housed an estimated 25,000 students and hundreds of thousands of manuscripts by the 14th century — demonstrating how commercial connectivity can generate lasting cultural transformation that outlives the specific trade patterns that sparked it.\n\n**Other possible responses include:**"
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Alternative thesis approaches",
+        "text": "\"…to a significant extent, because while geography created the conditions for trade, the Mali Empire's political control of key routes and resources was equally important in determining the specific form trans-Saharan trade took.\"; \"…to a limited extent, because the technology of the camel saddle — not geography itself — was the decisive factor that transformed an impassable geographic barrier into a viable trade corridor.\""
+      },
+      {
+        "label": "Evidence for Body Paragraph 1 — Geographic factors as primary shapers",
+        "text": "Sahara's vastness and hostility created a barrier that required specific biological and technological solutions to overcome; Unequal resource distribution — gold in West Africa, salt in the Sahara, manufactured goods in North Africa — created mutual economic dependence; Oasis locations structured caravan routes, determining which cities (Timbuktu, Djenné, Gao) grew wealthy as essential stopping points; West African goldfields' location made their product scarce in North Africa, creating persistent demand that drove centuries of commerce; Mediterranean coast connecting trans-Saharan routes to broader Afro-Eurasian networks through North African ports"
+      },
+      {
+        "label": "Evidence for Body Paragraph 2 — Political and technological factors as complementary drivers",
+        "text": "Camel saddle technology made geographic barrier navigable — without it, no amount of demand would have enabled commercial crossing; Mali Empire's military and political control of route territory extracted value from and stabilized commerce; Mansa Musa's diplomatic activities expanded Mali's commercial and political relationships beyond geography alone; Timbuktu's growth as a scholarly center reflected political investment in human capital, amplifying geography's commercial advantages; Portuguese maritime routes (after 1450) demonstrated geography's limits — technology could circumvent even the most powerful geographic barriers"
+      }
+    ],
+    "prompt": "\"Evaluate the extent to which geographic factors shaped the development of trans-Saharan trade in the period 1200–1450.\"",
+    "note": "Write a thesis before revealing. A strong thesis: restates the prompt's verb phrase, adds a quantifier (\"to a great/significant extent\"), and ends with *because [A] and [B]* — where A and B are your two body paragraph arguments, not specific pieces of evidence.",
+    "thesisExample": "\"Geographic factors shaped the development of trans-Saharan trade to a great extent in the period 1200–1450 because the Sahara's unequal distribution of resources created the mutual dependence that made trade economically necessary and the specific locations of goldfields, salt deposits, and oases determined which routes and cities became commercially dominant.\""
+  },
+  "discussionQuestions": [
+    {
+      "question": "Why was the camel so important to trans-Saharan trade, and what specifically made it better suited for the Sahara than other pack animals?",
+      "modelAnswer": "The camel was essential because it could do what other animals could not: survive and carry heavy loads across a massive, waterless desert. Specifically, camels can carry up to 400 pounds (four times what a donkey manages), go 10 days without water by metabolizing fat stored in their humps, and walk across sand without sinking due to their wide, flat feet. The North African camel saddle — a key technological innovation — allowed merchants to harness these animals effectively for trade. Without the camel, the Sahara remained a nearly impassable barrier. With it, the desert became a highway connecting West African gold to North African and Mediterranean markets."
+    },
+    {
+      "question": "Why was salt sometimes worth as much as gold in West African markets, and what does that tell us about how value works?",
+      "modelAnswer": "Salt was worth as much as gold in some West African markets because gold was *abundant* in West Africa while salt was *scarce and essential*. Without salt, you cannot preserve food, and your body cannot function normally — it is a biological necessity. Gold, by contrast, is rare globally but was locally plentiful. Value is determined not by some absolute measure but by supply relative to demand. This is the same reason a bottle of water costs more at a remote concert than at a grocery store. The salt-for-gold trade is one of history's clearest illustrations that \"expensive\" and \"cheap\" are always relative to context."
+    },
+    {
+      "question": "How did Mansa Musa's 1324 pilgrimage connect economics, religion, culture, and politics? Use specific evidence.",
+      "modelAnswer": "**Economics:** Mansa Musa brought so much gold to Cairo and along his route that he flooded the market with it — dramatically increasing gold's supply — which caused its value to fall and prices for everything else to rise (inflation). Cairo's economy took over a decade to recover.\n\n**Religion:** The hajj itself demonstrated that Mali was part of the Islamic world. Islam had spread to Mali through trade networks, and Mansa Musa's pilgrimage was a public affirmation of that faith before the entire Muslim world.\n\n**Culture:** He returned with architects and scholars who designed mosques and contributed to building Timbuktu into a center of Islamic learning. He also spread Mali's fame — the 1375 Catalan Atlas shows a crowned African king of Mali, confirming that his journey made West Africa visible to European mapmakers.\n\n**Politics:** His display of wealth established Mali's power and reputation on an international stage, strengthening diplomatic relationships and trade connections with Egypt, Morocco, and beyond."
+    },
+    {
+      "question": "How did Islam spread across the Sahara, and why does this matter for understanding how trade networks affect culture?",
+      "modelAnswer": "Islam spread across the Sahara primarily through **trade, not conquest**. Arab and Berber merchants from North Africa established long-term commercial relationships with West African rulers. As these merchants were Muslim, they introduced Islamic practices alongside their goods. West African rulers often converted because it was politically and economically advantageous — it gave them access to the Islamic trade network, Arabic as a shared commercial language, and Islamic legal frameworks that made contracts more reliable. This shows a broader principle: trade routes don't just carry goods, they carry culture, religion, language, and ideas. The spread of Islam through the Sahara is the same pattern as the spread of Buddhism along the Silk Roads or Islam along the Indian Ocean routes — trade and cultural diffusion are inseparable."
+    },
+    {
+      "question": "How does the Mali Empire's role in trans-Saharan trade compare to the Mongol Empire's role in Silk Road trade?",
+      "modelAnswer": "Both empires illustrate the same pattern: a powerful political entity expanding its control over existing trade routes and, in doing so, dramatically increasing the volume and stability of trade along those routes. The Mongols secured the Silk Roads through military conquest and the Pax Mongolica, making it safe for merchants to travel from China to Europe. The Mali Empire secured the trans-Saharan routes by controlling the goldfields and taxing all trade passing through its territory — creating stability that encouraged more merchants to make the crossing. In both cases, empire expansion drew new peoples and regions into existing trade networks, spread religion and culture (Islam, in both instances), and generated enormous wealth for the controlling power. This comparison — empire enables trade, trade spreads culture — is exactly the kind of argument that earns full credit on AP World History free-response questions."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

@@ -1,0 +1,362 @@
+{
+  "course": "ap-world-history",
+  "num": "1.4",
+  "title": "State Building in the Americas",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "🏛️",
+      "label": "Political",
+      "tooltip": "Three major state systems dominated the Americas c. 1200–1450: the Maya city-states (Yucatán Peninsula, post-Classic period), the Mexica (Aztec) Triple Alliance centered at Tenochtitlan, and the Inca Empire (Tawantinsuyu) in the Andes. North American polities like Cahokia also represented complex state formation. Each built distinctive political structures adapted to their environments."
+    },
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "Mexica economic power rested on tribute extraction — conquered peoples sent tribute (food, cloth, luxury goods, and sacrificial captives) to Tenochtitlan. The Inca used the mit'a system — a labor tax — to build roads, temples, and warehouses. Cahokia controlled trade networks across the Mississippi Valley, exchanging copper, shells, and obsidian over hundreds of miles."
+    },
+    {
+      "icon": "🎨",
+      "label": "Culture",
+      "tooltip": "Religion was central to all American state systems. The Mexica practiced large-scale human sacrifice as a cosmic obligation: the gods who created the sun and moon had sacrificed themselves, and humans were obligated to sustain the sun through blood offerings. The Maya had a sophisticated astronomical calendar. The Inca worshipped Inti (the sun god) and maintained the mummies of deceased rulers as living political presences."
+    },
+    {
+      "icon": "⚙️",
+      "label": "Technology",
+      "tooltip": "Despite lacking wheels, iron tools, or large draft animals, American civilizations achieved remarkable technological feats: Inca roads over mountain terrain (25,000 miles of roads without wheeled vehicles), Mexica hydraulic engineering at Tenochtitlan (a city of 200,000+ built on a lake), Maya astronomical calculations predicting celestial events centuries in advance, and Ancestral Puebloan cliff dwellings engineered to last centuries."
+    },
+    {
+      "icon": "🌍",
+      "label": "Interactions",
+      "tooltip": "The Americas c. 1200–1450 had no contact with Afro-Eurasia — they developed in complete isolation from the Old World. This isolation is historically significant: it demonstrates that complex state formation, monumental architecture, agriculture, astronomy, and urban civilization can emerge independently in multiple locations, without cultural contact. The Americas represent a second, parallel development of human civilization."
+    }
+  ],
+  "tldr": [
+    "**LO-A: The Mexica (Aztec) Empire —** The Triple Alliance (Tenochtitlan, Texcoco, Tlacopan) built an empire in central Mexico through military conquest and tribute extraction. Tenochtitlan, built on a lake island, reached a population of 200,000+, making it one of the largest cities in the world. Human sacrifice was practiced at enormous scale as a religious-political obligation — the gods had sacrificed themselves to create the sun, and humans were obligated to sustain it through blood offerings. **The Inca Empire (Tawantinsuyu) —:** The largest pre-Columbian empire, stretching 2,500 miles along the Andes. Governed through an elaborate administrative system: the mit'a (labor tax), quipu (knotted strings for record-keeping without a writing system), and 25,000 miles of roads connecting the empire. The Inca ruler (Sapa Inca) was considered a son of the sun god Inti; deceased rulers were kept as mummies and participated in political life.",
+    "**LO-B: Explain how American civilizations used religion, tribute, and… —** **Maya city-states —:** The Classic Maya collapse (800–900 CE) preceded this period, but the post-Classic Maya persisted in the Yucatán Peninsula with centers like Chichén Itzá and Uxmal. Maya intellectual achievements included one of the world's only independent writing systems, an extraordinarily accurate astronomical calendar, and advanced mathematical concepts including the number zero.",
+    "**LO-C: Explain how American civilizations' development in isolation from… —** **North American complexity: Cahokia —:** Cahokia (near present-day St. Louis) was the largest pre-Columbian city north of Mexico, with a population of perhaps 10,000–20,000 at its peak (c. 1050–1200 CE). Its Monk's Mound is larger at its base than the Great Pyramid of Giza. Cahokia demonstrates that complex, urban civilization existed across North America — the continent was not \"empty\" before European arrival."
+  ],
+  "learningObjectives": [
+    "Explain how and why states in the Americas were established, expanded, and maintained",
+    "Explain how American civilizations used religion, tribute, and labor systems to exercise political power",
+    "Explain how American civilizations' development in isolation from Afro-Eurasia is historically significant"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mexica (Aztec)",
+      "definition": "The people who founded Tenochtitlan (present-day Mexico City) c. 1325 CE and built the Triple Alliance empire; often called \"Aztec\" though they called themselves Mexica.",
+      "importance": "Built one of the largest cities in the world (Tenochtitlan, pop. 200,000+) and an empire extracting tribute from perhaps 5–6 million people across central Mexico; encountered and conquered by Hernán Cortés 1519–1521."
+    },
+    {
+      "term": "Triple Alliance",
+      "definition": "The political alliance between Tenochtitlan, Texcoco, and Tlacopan (c. 1427) that formed the foundation of the Mexica Empire.",
+      "importance": "Pooled the military resources of three city-states to rapidly expand Mexica power across central Mexico; Tenochtitlan eventually dominated the alliance, receiving the largest share of tribute from conquered peoples."
+    },
+    {
+      "term": "Mit'a",
+      "definition": "The Inca labor tax system in which adult male subjects owed the state a period of labor service each year, deployed in building roads, temples, terraced fields, and military service.",
+      "importance": "The primary mechanism through which the Inca built their enormous infrastructure (25,000 miles of roads) and filled state warehouses; distinguished from slavery by the state's obligation to feed, clothe, and house workers during their service."
+    },
+    {
+      "term": "Quipu",
+      "definition": "A recording device used by the Inca consisting of knotted colored strings; capable of encoding numerical information and possibly narrative content.",
+      "importance": "Allowed the Inca to manage a vast empire's census, tax, and administrative records without a conventional writing system; demonstrates that complex information management can take non-alphabetic forms."
+    },
+    {
+      "term": "Tawantinsuyu",
+      "definition": "Quechua (Inca language) name for the Inca Empire, meaning \"the four regions\" or \"Land of the Four Quarters.\"",
+      "importance": "The largest pre-Columbian empire in the Americas, stretching ~2,500 miles along the Andes from present-day Colombia to Chile; governed a population of perhaps 10–12 million people at its height."
+    },
+    {
+      "term": "Sapa Inca",
+      "definition": "The title of the Inca ruler, meaning \"Unique Inca\" or \"Only Inca\"; considered a son (or manifestation) of the sun god Inti and owner of all land in Tawantinsuyu.",
+      "importance": "The Sapa Inca's divine status was the foundation of Inca political legitimacy; his authority extended over all aspects of Andean life. Deceased Sapa Incas were mummified and continued to participate in political and religious ceremonies as \"living\" rulers."
+    },
+    {
+      "term": "Cahokia",
+      "definition": "A major Mississippian mound-building city near present-day St. Louis, Illinois; at its peak (c. 1050–1200 CE) home to an estimated 10,000–20,000 people.",
+      "importance": "The largest pre-Columbian city north of Mexico; its Monk's Mound has a larger base than the Great Pyramid at Giza; center of a trade network exchanging copper, shells, and obsidian across hundreds of miles. Demonstrates complex urban civilization existed throughout pre-Columbian North America."
+    },
+    {
+      "term": "Maya City-States",
+      "definition": "The political units of Maya civilization — autonomous city-states ruled by a k'uhul ajaw (divine lord) — rather than a unified empire; post-Classic centers included Chichén Itzá, Uxmal, and Mayapán in the Yucatán.",
+      "importance": "The Maya developed one of only five fully independent writing systems in world history; their calendar system was more accurate than the contemporary European Julian calendar; they calculated the length of the year to within minutes using only naked-eye astronomy."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "The Americas developed complex civilizations — including monumental architecture, astronomical calendars, urban centers, and sophisticated governance — in complete isolation from Afro-Eurasia. What does this demonstrate about human historical development?",
+      "answer": "It demonstrates that the development of complex civilization is not dependent on cultural contact or diffusion from a single \"cradle\" of civilization. When human populations reach sufficient density and agricultural surpluses in environments that reward social organization, complex state formation tends to emerge independently. The Americas constitute a second, largely independent development of urban civilization, agriculture, writing (Maya), astronomical science, and political organization. This supports a \"multilinear\" model of historical development: there is no single path to civilization, and similar human conditions tend to produce similar institutional responses regardless of geography."
+    },
+    {
+      "question": "The Mexica practiced human sacrifice at enormous scale. European observers and many later historians viewed this as evidence of a \"barbaric\" culture. How should historians analyze the practice within its cultural context?",
+      "answer": "Historians analyzing human sacrifice within its cultural context recognize that it was embedded in a complete cosmological framework, not random cruelty. The Mexica believed that the gods had sacrificed themselves to create the current sun (the fifth sun in their cosmology), and that humans were therefore cosmically obligated to sustain it through blood offerings — without sacrifice, the sun would stop moving and the world would end. Sacrifice was thus both a religious duty and a political act: it demonstrated imperial power (captives for sacrifice were a form of tribute), reinforced social hierarchy, and bound the population to the state through shared cosmic responsibility. None of this makes sacrifice morally acceptable, but it demonstrates that practices that appear \"barbaric\" from outside a culture have internal logic and function within their own cosmological systems — understanding this is essential for historical analysis without anachronistic moral judgment."
+    },
+    {
+      "question": "The Inca Empire governed a 2,500-mile territory without a writing system, wheels, or iron tools. What does this suggest about the relationship between specific technologies and state capacity?",
+      "answer": "It suggests that complex state governance does not require any specific set of technologies — it requires effective systems for organizing information, coordinating labor, and maintaining legitimacy. The Inca achieved information management through the quipu (knotted string records), labor coordination through the mit'a system (a rotating labor tax that built infrastructure and filled state warehouses), and legitimacy through the divine authority of the Sapa Inca as a son of the sun. These functional requirements could be met through multiple technological means: writing is one way to store information; quipu is another. This challenges Eurocentric assumptions that \"progress\" required specific technologies that happened to be prevalent in Afro-Eurasia. The Inca represent an alternative path to imperial governance that was effective on its own terms."
+    },
+    {
+      "question": "Both the Mexica tribute system and the Inca mit'a represent different approaches to extracting resources from subject populations. What are the key differences between these two systems?",
+      "answer": "The Mexica tribute system required conquered peoples to send regular payments of goods (food, cloth, featherwork, gold, cacao, sacrificial captives) to Tenochtitlan — an extraction of existing production. The relationship was often coercive and purely extractive: subject peoples resented Mexica domination and rebelled when possible. The Inca mit'a system was a labor tax: instead of goods, subjects owed the state labor time, which the state deployed for public works (roads, terraces, storehouses, temples). Crucially, the state reciprocated by providing workers with food, clothing, tools, and chicha (corn beer) from state storehouses during their mit'a service. The Inca system was thus more reciprocal: the state extracted labor but also provided for workers during their service period, creating a more managed relationship that arguably generated more loyalty than the purely extractive Mexica tribute model."
+    },
+    {
+      "question": "Cahokia (near present-day St. Louis) was one of the largest cities in North America before European contact, yet it is rarely discussed in popular history. Why might the pre-Columbian history of North America be systematically underrepresented in historical narratives?",
+      "answer": "Several factors explain this underrepresentation: (1) Ideological: European colonizers justified taking land by characterizing pre-Columbian North America as \"empty\" or inhabited only by \"simple\" peoples — acknowledging complex urban civilizations challenged this justification. (2) Methodological: Many North American civilizations left fewer durable written records than Mesoamerican or Andean civilizations, making historical reconstruction harder. (3) Demographic: European diseases killed 50–90% of indigenous populations before sustained European contact began in many regions, destroying the communities that carried oral historical traditions. (4) Cultural bias: Histories written by European-descended scholars have historically centered European-contact-era narratives, which minimized pre-contact complexity. Recognizing this distortion is itself an act of historical analysis."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "The Mexica (Aztec) Empire: Tribute, Sacrifice, and Urban Power"
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/1-4-0.jpg",
+      "alt": "Reconstruction of Tenochtitlan, the Mexica capital",
+      "caption": "A modern reconstruction of Tenochtitlan at its height — a city of 200,000+ people built on an island in Lake Texcoco, connected to the mainland by causeways and serviced by thousands of canoes. At the time of Spanish contact (1519), it was larger than any city in Europe.",
+      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to Mexica tradition, the gods told their wandering people to settle where they found an eagle perched on a cactus eating a serpent. Around 1325 CE, they found that sign on a swampy island in Lake Texcoco — an unlikely location that they transformed, through a century of engineering and political ambition, into **Tenochtitlan**: one of the largest cities in the world. By 1500 CE, Tenochtitlan's population exceeded 200,000, larger than any contemporary European city, sustained by a remarkable system of raised agricultural beds (*chinampas*) in the lake and an elaborate tribute system drawing resources from across central Mexico."
+    },
+    {
+      "type": "paragraph",
+      "text": "The political foundation of Mexica power was the **Triple Alliance** — a partnership among Tenochtitlan, Texcoco, and Tlacopan formed around 1427. This alliance rapidly expanded Mexica military dominance across central Mexico through a strategy of conquest followed by tribute extraction. Conquered peoples were not fully incorporated into a unified imperial administration; instead, they were required to send regular tribute payments — maize, cacao, cloth, featherwork, gold, and sacrificial captives — to Tenochtitlan. Local rulers were typically left in place as long as they paid tribute reliably; those who rebelled were conquered again and subjected to harsher terms."
+    },
+    {
+      "type": "paragraph",
+      "text": "This tribute system funded Tenochtitlan's extraordinary urban complexity: its great temple (*Templo Mayor*), markets (the Tlatelolco market reportedly amazed Spanish conquistadors with its scale and organization), schools (*calmecac* for elites, *telpochcalli* for commoners), and bureaucracy. The city's water supply required aqueducts; its floating gardens (*chinampas*) required coordinated management of the lake environment. Tenochtitlan was a genuine metropolis — not a ceremonial center but a living, functioning city of extraordinary size and complexity."
+    },
+    {
+      "type": "apTip",
+      "text": "When AP prompts ask about how the Mexica maintained political power, remember: tribute was the primary mechanism, but it rested on demonstrated military capacity and religious legitimacy. Human sacrifice served political purposes as well as religious ones — capturing sacrificial victims demonstrated military dominance over subject peoples, and the scale of public sacrifice reinforced the state's cosmic authority. Always connect the political and religious dimensions rather than treating them separately."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Human sacrifice** was central to Mexica religious and political life. The Mexica cosmological system held that the current world (the Fifth Sun) had been created when the gods sacrificed themselves, and that the sun required regular nourishment through human blood to continue moving across the sky. Without sacrifice, the sun would stop — the world would end. This was not mere ritual; it was experienced as a literal cosmic necessity. The scale of sacrifice increased dramatically with imperial expansion: the dedication of the expanded Templo Mayor in 1487 reportedly involved thousands of victims over several days. Sacrificial captives were the most prized form of tribute, and Mexica warriors measured their status by the number of captives they took."
+    },
+    {
+      "type": "heading",
+      "text": "The Inca Empire: Tawantinsuyu, the Land of Four Quarters"
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/1-4-1.jpg",
+      "alt": "Inca road system near Machu Picchu",
+      "caption": "A section of the Inca road network near Machu Picchu, Peru. The Inca built over 25,000 miles of roads through some of the world's most challenging mountain terrain — without wheels or iron tools.",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Andes Mountains of South America, the **Inca Empire** — which they called **Tawantinsuyu** (\"Land of the Four Quarters\") — built the largest pre-Columbian empire in the Americas. Stretching approximately 2,500 miles from present-day Colombia to Chile, and governing perhaps 10–12 million people, Tawantinsuyu was held together by one of the ancient world's most remarkable administrative systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most visible achievement was the **road network**: over 25,000 miles of roads built through mountain terrain so rugged that wheeled vehicles (which the Inca did not use) would have been impractical anyway. Roads were engineered with drainage channels, stone pavements, rope suspension bridges over gorges, and carved steps through steep gradients. Along these roads, the Inca maintained a relay runner (*chasqui*) system capable of transmitting messages hundreds of miles per day — faster communication than most contemporary Old World states. Storehouses (*qollqas*) located along roads held food, cloth, and military supplies."
+    },
+    {
+      "type": "paragraph",
+      "text": "In place of writing, the Inca used the **quipu** — a device of colored, knotted strings that encoded numerical and possibly narrative information. Quipu specialists (*quipucamayocs*) maintained census records, tax accounts, and administrative data for the entire empire. The quipu demonstrates that complex information management can take forms entirely different from alphabetic writing — a reminder that \"civilization\" does not require any one specific technology."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Inca extracted resources through the **mit'a** system — a labor tax rather than a goods tax. Adult male subjects owed the state a period of labor service each year, working on road construction, terrace farming, mining, military campaigns, or temple building. Crucially, during their mit'a service, workers were fed from state storehouses and provided with clothing and tools. This made the relationship more reciprocal than simple extraction: the state provided for workers during their service, and the storehouses' contents were also distributed during famines — a form of redistributive safety net that generated a degree of popular support for Inca rule."
+    },
+    {
+      "type": "funFact",
+      "text": "The Inca didn't just mummify their dead rulers — they kept them as active political participants. Deceased Sapa Incas retained ownership of their palaces and lands; their mummies were brought out for state ceremonies, consulted for political advice (through priestly intermediaries), and carried in processions. This system of \"split inheritance\" meant that each new Sapa Inca had to conquer new territories to build his own palace and wealth — because everything the previous ruler owned belonged to his mummy. This unusual practice was a significant driver of Inca territorial expansion."
+    },
+    {
+      "type": "heading",
+      "text": "Maya City-States: Post-Classic Persistence and Intellectual Achievement"
+    },
+    {
+      "type": "paragraph",
+      "text": "The great Maya city-states of the Classic period (250–900 CE) — Tikal, Palenque, Copan — had mostly collapsed by the time of our period (c. 1200–1450), leaving behind massive stone ruins in the jungle. Historians debate why: prolonged drought, warfare between city-states, and ecological exhaustion of agricultural land all likely contributed. But Maya civilization did not disappear — it persisted in a post-Classic form, particularly in the northern Yucatán Peninsula, with major centers at **Chichén Itzá**, Uxmal, and later Mayapán."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intellectual achievements of Maya civilization are among the most remarkable of any pre-modern society:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Writing:** The Maya developed one of only five fully independent writing systems in world history — an advanced script combining logograms (symbols for words) and syllabic signs, capable of recording history, astronomy, ritual, and literature. Most Classic Maya texts were destroyed by Spanish missionaries in the 16th century; only four pre-Columbian Maya books (codices) survive.",
+        "**Mathematics:** The Maya independently developed the concept of zero — one of mathematics' most significant insights — and used a vigesimal (base-20) number system for calculations.",
+        "**Astronomy and Calendar:** Using only naked-eye observation, Maya astronomers calculated the length of the solar year to within minutes (more accurate than the contemporary European Julian calendar) and tracked the cycles of Venus with extraordinary precision. Their calendar system interlocked a 365-day solar calendar with a 260-day ritual calendar."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "North American Complexity: Cahokia and Other Societies"
+    },
+    {
+      "type": "paragraph",
+      "text": "The narrative of \"civilization\" in the Americas too often focuses exclusively on Mesoamerica and the Andes while neglecting the advanced societies of North America. **Cahokia**, located near the confluence of the Missouri and Mississippi rivers (near present-day St. Louis), was the largest pre-Columbian city north of Mexico. At its peak around 1050–1200 CE, Cahokia may have had 10,000–20,000 inhabitants — a size comparable to contemporary London."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cahokia was a mound-building society: its most prominent feature, **Monk's Mound**, covers more ground at its base than the Great Pyramid of Giza, rising in four terraces to a height of about 100 feet. Cahokia was the center of a trade network that exchanged copper from the Great Lakes, marine shells from the Gulf Coast, and obsidian from the Rocky Mountain region across hundreds of miles — evidence of complex long-distance commercial connections throughout North America."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other North American societies also displayed remarkable complexity. The **Ancestral Puebloans** (formerly called \"Anasazi\") built multi-story stone apartment complexes at Chaco Canyon and Mesa Verde that housed hundreds of people and required precise planning and construction. The **Haudenosaunee** (Iroquois Confederacy) in the Northeast were developing political institutions that some historians argue influenced the framers of the United States Constitution. The North American continent before European contact was not \"empty\" or \"primitive\" — it hosted diverse, complex, and well-organized human communities."
+    },
+    {
+      "type": "funFact",
+      "text": "The Haudenosaunee (Iroquois) Confederacy — comprising the Mohawk, Onondaga, Cayuga, Oneida, and Seneca nations (later joined by the Tuscarora) — operated under the Great Law of Peace, a detailed constitutional framework governing inter-nation relations, decision-making, and individual rights. Some historians, including several founders, have argued that Benjamin Franklin and other framers studied the Haudenosaunee system when designing the United States' federal structure. The truth of this influence is debated, but the depth of the Haudenosaunee political system is not."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 1.4",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+1.4",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "The Inca Empire",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+The+Inca+Empire",
+      "creator": "Crash Course · 12 min"
+    },
+    {
+      "title": "The Aztec Empire",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+The+Aztec+Empire",
+      "creator": "Crash Course · 12 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "\"The Inca state maintained enormous storehouses along its road network, filled with maize, freeze-dried potatoes, dried meat, cloth, and weapons. During workers' mit'a service, they were fed from these stores; during famines, the stores were opened to the affected population; during military campaigns, armies lived off their contents.\" — Adapted from historical accounts of Inca administration",
+      "question": "The passage best illustrates which of the following about the Inca state?",
+      "options": [
+        "The Inca state used redistribution of resources to generate popular loyalty and maintain political power",
+        "The Inca economy was based primarily on long-distance trade with neighboring peoples",
+        "The Inca mit'a system was equivalent to slavery because workers had no choice in their labor obligations",
+        "The Inca storehouses were primarily used to support religious ceremonies and the priestly class"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage describes the Inca state's use of redistribution — food, clothing, and resources stored centrally and distributed to workers during mit'a service and to populations during famines — as a mechanism for maintaining popular support. This reciprocal relationship between state extraction (labor) and state provision (food, tools, security) generated a degree of loyalty and legitimacy that purely coercive systems lack. (B) is not supported — the passage describes internal redistribution, not trade. (C) ignores the reciprocal provisions described. (D) is not the primary use described in the passage."
+    },
+    {
+      "stimulus": null,
+      "question": "Both the Mexica Empire and the Inca Empire used religion to legitimize political authority. Which of the following best describes a key difference in how each empire used religion for political purposes?",
+      "options": [
+        "The Mexica used religion to justify territorial expansion while the Inca used religion only for domestic social control",
+        "The Mexica used large-scale public human sacrifice to demonstrate cosmic power, while the Inca centered religious authority on the Sapa Inca as a son of the sun god",
+        "The Inca had a more sophisticated religious system than the Mexica because it did not require human sacrifice",
+        "The Mexica religious system was polytheistic while the Inca worshipped a single deity"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the most historically accurate and analytically precise answer. The Mexica's use of large-scale public human sacrifice was itself a political act — demonstrating the state's cosmic necessity and the military capacity to obtain sacrificial captives from conquered peoples. The Inca centered religious authority on the Sapa Inca's divine status as a son of Inti (the sun god), whose authority extended to ownership of all land. (A) overstates the difference — both used religion to justify expansion. (C) makes a value judgment that isn't historical analysis; the Inca did practice human sacrifice, though at smaller scale. (D) is inaccurate — both were polytheistic, though the Inca gave Inti special prominence."
+    },
+    {
+      "stimulus": "\"The Inca kept records using knotted strings called quipus. Different colors and thicknesses of string, combined with the position and type of knots, encoded numerical data — population counts, tribute records, military rosters, food stores in storehouses. Specialized officials called quipucamayocs were trained to read and record quipu data and traveled with Inca administrators throughout the empire.\"",
+      "question": "The use of quipus as described in the passage most directly illustrates which of the following about the Inca Empire?",
+      "options": [
+        "The Inca developed a phonetic writing system that allowed them to record history and literature as well as numerical data",
+        "The complexity of the quipu system limited its use to the capital Cusco and prevented effective provincial administration",
+        "Inca officials used quipus exclusively for religious purposes, recording prayers and ritual calendars for priestly use",
+        "Effective administration of a large empire requires standardized record-keeping systems, which the Inca achieved through non-alphabetic means"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage shows the quipu functioning as a state administrative tool — tracking population, tribute, military, and food data across an empire of 10+ million people spread over 2,500 miles. The Inca demonstrate that alphabetic writing is not a prerequisite for complex state administration; the quipu system achieved the same administrative functions through a different encoding method. (A) is wrong — quipus recorded numerical data, not phonetic language. (C) is contradicted by the passage, which specifies administrative uses. (B) is contradicted by the passage's mention of quipucamayocs traveling throughout the empire."
+    },
+    {
+      "stimulus": "\"When Spanish conquistador Hernán Cortés arrived in Mexico in 1519, he found that many peoples conquered by the Mexica were eager to join his forces against Tenochtitlan. The Tlaxcalans, longtime enemies of the Mexica who had never been fully conquered, provided Cortés with tens of thousands of warriors. Former tributary peoples who resented both the economic extraction and the demand for sacrificial captives quickly allied with the Spanish.\"",
+      "question": "The situation described in the passage most directly supports which of the following conclusions?",
+      "options": [
+        "Spanish military technology was so overwhelmingly superior that the Mexica could not have resisted even without internal opposition",
+        "The fall of Tenochtitlan was primarily caused by epidemic disease that killed the majority of the Mexica population before Spanish forces arrived",
+        "The Mexica tribute system generated resentment among subject peoples that ultimately undermined the empire's ability to resist external threat",
+        "The Mexica Empire lacked the military capacity to defend itself, having relied entirely on tribute extraction rather than maintaining a standing army"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage specifically identifies the Mexica's extractive tribute system — and the demand for sacrificial captives — as the reason subject peoples allied with Cortés. This is a classic example of how a coercive imperial system can generate the internal opposition that enables external conquest. Cortés's force of ~600 Spaniards would never have conquered Tenochtitlan alone; the tens of thousands of indigenous allies were decisive. (A) overstates Spanish technological advantage and ignores the passage's focus on internal opposition. (B) is historically partly true but not what the passage addresses. (D) is factually wrong — the Mexica maintained a formidable military."
+    },
+    {
+      "stimulus": "\"The Mexica built chinampas — artificial floating islands created by layering aquatic vegetation, mud, and soil in the shallow lake bed of Lake Texcoco. These raised garden beds produced crops year-round, supported by the lake's natural irrigation and rich soil. By 1500 CE, approximately 9,000 hectares of chinampas surrounded Tenochtitlan, producing maize, squash, tomatoes, and flowers to feed the city's 200,000 inhabitants.\"",
+      "question": "The agricultural innovation described in the passage most directly illustrates which of the following historical patterns?",
+      "options": [
+        "The Mexica's agricultural system was less productive than contemporary systems in China and the Islamic world, limiting their population growth",
+        "Complex state formation in the Americas, as in Afro-Eurasia, depended on agricultural innovations that generated sufficient food surpluses to support urban populations",
+        "Mexica agriculture was uniquely productive because of Lake Texcoco's exceptional soil, a geographic advantage unavailable to other Mesoamerican peoples",
+        "The chinampa system could only function in tropical environments, limiting Mexica territorial expansion to the warm lowlands of central Mexico"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chinampa system is an example of a general historical pattern: complex urban civilizations require agricultural systems capable of feeding large non-farming populations. The Mexica solved this through engineering — transforming a swampy lake into the most productive agricultural zone in Mesoamerica. This parallels the Song's adoption of Champa rice and the Nile Delta's irrigation systems. (A) is inaccurate — chinampas were extremely productive, comparable to Song wet-rice agriculture. (C) overstates geographic uniqueness; the innovation was human engineering, not purely natural advantage. (D) is wrong — chinampas were an adaptation to the specific lake environment of the Valley of Mexico, not restricted to tropics generally."
+    }
+  ],
+  "saq": {
+    "context": "\"The civilizations of the Americas c. 1200–1450 demonstrated that complex state formation, urban development, and sophisticated cultural achievement could occur entirely independently of Afro-Eurasian developments. The Mexica, Inca, and Maya each built states of great size and complexity — yet each did so through means distinctly adapted to their own environments and cultural traditions.\"",
+    "directions": "Answer parts A, B, and C. Direct, specific responses only. Do not write an essay.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Briefly describe ONE way the Mexica Empire used tribute to maintain political power.",
+        "sampleAnswer": "The Mexica Empire required conquered peoples across central Mexico to send regular tribute payments — including maize, cotton cloth, cacao, featherwork, gold, and sacrificial captives — to Tenochtitlan. This tribute system funded the capital's enormous urban infrastructure (the Templo Mayor, markets, aqueducts, causeways) and supported the Mexica ruling class. It also demonstrated and reinforced imperial hierarchy: the act of tribute payment publicly acknowledged subject status, and failure to pay reliably triggered military punishment. Tribute extraction was thus simultaneously an economic mechanism and a political performance of power."
+      },
+      {
+        "label": "Part B",
+        "task": "Briefly explain ONE way the Inca mit'a system differed from the Mexica tribute system as methods of resource extraction.",
+        "sampleAnswer": "The Mexica tribute system extracted existing goods (maize, cloth, gold) from conquered peoples — a one-directional transfer of wealth that generated resentment. The Inca mit'a was a labor tax: subjects owed periods of labor service, but the Inca state reciprocated by feeding, clothing, and housing workers during their service from state storehouses. This reciprocal dimension made mit'a more like a social contract — the state extracted labor but also took on obligations to workers — which arguably generated more popular legitimacy than purely extractive tribute. The Inca model was redistributive as well as extractive, distributing food from state storehouses during famines to the broader population."
+      },
+      {
+        "label": "Part C",
+        "task": "Briefly explain ONE way the existence of complex societies like Cahokia challenges common assumptions about pre-Columbian North America.",
+        "sampleAnswer": "Cahokia's scale — a city of perhaps 10,000–20,000 people, centered on Monk's Mound (which has a larger base than the Great Pyramid of Giza), with trade networks spanning hundreds of miles — directly challenges the assumption that pre-Columbian North America north of Mexico consisted only of small, simple hunter-gatherer bands. This assumption was historically used to justify European colonization (portraying the continent as essentially \"empty\" and its peoples as incapable of sophisticated organization). The archaeological reality of Cahokia, the Ancestral Puebloans' multi-story stone architecture at Chaco Canyon, and the Haudenosaunee Confederacy's constitutional framework demonstrates that complex political, urban, and commercial civilization existed throughout the continent well before European arrival."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Contextualization",
+        "text": "Briefly describe the Americas as developing in isolation from Afro-Eurasia, establishing the analytical framework of independent state formation."
+      },
+      {
+        "label": "Similarity paragraph",
+        "text": "Both used religion to legitimize authority (Mexica cosmological obligation of sacrifice; Inca Sapa Inca as son of Inti); both built large infrastructure (Tenochtitlan chinampas and causeways; Inca road network); both extracted resources from subject peoples."
+      },
+      {
+        "label": "Difference paragraph 1",
+        "text": "Different extraction methods — Mexica tribute (goods and captives, largely coercive, generating resentment) vs. Inca mit'a (labor tax with state reciprocal obligations, more redistributive and generating more loyalty)."
+      },
+      {
+        "label": "Difference paragraph 2",
+        "text": "Different political integration — Mexica left conquered rulers in place as tribute-paying vassals (indirect empire) vs. Inca incorporated conquered peoples into Tawantinsuyu's administrative structure with provincial governors, quipu-based census, and mandatory Quechua language adoption."
+      },
+      {
+        "label": "Significance",
+        "text": "The different methods had different results — the Mexica empire faced widespread internal revolt that facilitated Cortés's rapid conquest (1519–1521), while the Inca empire was more administratively integrated though its \"split inheritance\" of mummy rule drove constant expansion."
+      }
+    ],
+    "prompt": "Compare the methods used by TWO of the following American civilizations to build and maintain political power: the Mexica Empire, the Inca Empire, or the Maya city-states (c. 1200–1450 CE).",
+    "note": "Write a full essay with thesis, contextualization, evidence, and historical reasoning. A comparison prompt requires identifying both similarities AND differences, then explaining their historical significance. Historical reasoning skill: Comparison.",
+    "thesisExample": "Strong thesis (Mexica vs. Inca): \"Although both the Mexica and Inca Empires used religious legitimacy and economic extraction to build and maintain political power, they differed significantly in their methods: the Mexica relied on tribute extraction of goods and large-scale public human sacrifice to demonstrate cosmic authority, while the Inca used a reciprocal labor tax (mit'a) and the divine status of the Sapa Inca to create a more administratively integrated and arguably more stable imperial system.\""
+  },
+  "discussionQuestions": [
+    {
+      "question": "How did the Mexica use religion and tribute together to build and maintain their empire?",
+      "modelAnswer": "The Mexica empire rested on two interlocking pillars — tribute and religious obligation — that reinforced each other. Tribute extraction (maize, cloth, gold, sacrificial captives) funded Tenochtitlan's urban infrastructure and ruling class while demonstrating subject peoples' subordination through the regular, humiliating act of payment. Failure to pay triggered military punishment, reminding subjects of the consequences of resistance.\n\nReligion reinforced this political structure by embedding it in a cosmic framework: the Mexica cosmological system held that the gods had sacrificed themselves to create the sun, and that humans were obligated to sustain it through regular blood offerings. This made tribute in sacrificial captives not merely politically useful but cosmically necessary — refusing to provide captives was portrayed as endangering the entire universe, not just the Mexica state. Large-scale public sacrifice also served as political theater demonstrating the state's cosmic authority and military capacity. The political and religious systems were fused: challenging Mexica political power meant challenging the cosmic order itself."
+    },
+    {
+      "question": "What was the Inca mit'a system and how did it differ from tribute extraction?",
+      "modelAnswer": "The Inca mit'a was a labor tax: all adult male subjects of Tawantinsuyu owed the state a period of labor service each year, typically a few months. During this service, workers built roads, terraced hillsides for agriculture, constructed temples and storehouses, served in the military, or worked in mines. Crucially, the Inca state was obligated to provide workers with food, clothing, and tools from state storehouses during their service period — making the relationship contractual and reciprocal rather than purely extractive.\n\nThis contrasts with the Mexica tribute system, which extracted goods (maize, cloth, gold) from conquered peoples with no reciprocal obligation from the state. The Mexica merely took and punished non-compliance; the Inca took labor but also provided. The Inca system was thus arguably more legitimate in the eyes of subject peoples — and the state's storehouses served as a redistributive safety net during famines, generating genuine popular support. The Mexica empire's resentful subject peoples quickly allied with Spanish conquistadors against it; the Inca empire required the devastation of epidemic disease and civil war before it fell."
+    },
+    {
+      "question": "What were the most significant intellectual achievements of Maya civilization, and why do they matter for world history?",
+      "modelAnswer": "The Maya made three major intellectual achievements of world-historical significance. First, they developed one of only five fully independent writing systems in human history — a complex script capable of recording history, ritual, astronomical observations, and literature. This was achieved without any stimulus from Old World writing, demonstrating that the human capacity for symbolic communication is a general feature of complex societies, not a unique inheritance of any one culture.\n\nSecond, the Maya independently developed the mathematical concept of zero — one of the most profound insights in the history of mathematics, enabling positional notation and making advanced arithmetic possible. This achievement parallels (and may predate) the zero developed in India and transmitted to Europe via Islamic scholars. Third, Maya astronomers using only naked-eye observation calculated the length of the solar year to within minutes and tracked planetary cycles with extraordinary precision — more accurately than the Julian calendar in use in contemporary Europe. These achievements matter for world history because they demonstrate that the Maya reached intellectual heights comparable to any contemporary civilization — and that they did so entirely independently of Old World developments."
+    },
+    {
+      "question": "Why is Cahokia historically significant, and what does its existence tell us about pre-Columbian North America?",
+      "modelAnswer": "Cahokia is historically significant because it directly refutes the common assumption that pre-Columbian North America was populated only by simple, small-scale societies. At its peak (c. 1050–1200 CE), Cahokia was a genuine city of perhaps 10,000–20,000 people — larger than contemporary London — centered on Monk's Mound, a platform mound with a larger base footprint than the Great Pyramid of Giza. Cahokia controlled a trade network exchanging copper (from the Great Lakes), marine shells (from the Gulf Coast), and obsidian (from the Rockies) across hundreds of miles, demonstrating sophisticated long-distance commercial connections.\n\nMore broadly, Cahokia's existence — alongside the Ancestral Puebloans' multi-story stone architecture at Chaco Canyon, the Haudenosaunee Confederacy's constitutional framework, and the agricultural civilizations of the Mississippi Valley — demonstrates that complex political, urban, and commercial civilization existed throughout the North American continent before European arrival. The historical underrepresentation of this complexity reflects the ideological needs of European colonizers (who justified land seizure by portraying the continent as \"empty\") and the devastating demographic collapse caused by European diseases, which destroyed the communities that carried these civilizations' oral traditions before sustained historical documentation could occur."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

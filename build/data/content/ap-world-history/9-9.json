@@ -1,0 +1,309 @@
+{
+  "course": "ap-world-history",
+  "num": "9.9",
+  "title": "Continuity and Change in a Globalized World",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "🔄",
+      "label": "Continuity & Change",
+      "tooltip": "Topic 9.9 asks you to assess what has fundamentally changed since 1900 (technology, political map, living standards, global integration) vs. what persists (inequality, conflict, human nature, state power)."
+    },
+    {
+      "icon": "⚙️",
+      "label": "Technology",
+      "tooltip": "Technology is the most dramatic example of change over time — every generation since 1900 has experienced technological transformations that reshaped daily life in ways previous generations couldn't imagine."
+    },
+    {
+      "icon": "🌐",
+      "label": "Globalization",
+      "tooltip": "Globalization represents both continuity (long-distance trade has existed for millennia) and change (the speed, scale, and integration of 21st-century global networks is genuinely unprecedented)."
+    },
+    {
+      "icon": "📝",
+      "label": "Argumentation",
+      "tooltip": "Topic 9.9 is a skills-focused synthesis topic — the key task is constructing and supporting a historically defensible argument about continuity and change across Units 7–9."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Science and technology brought dramatic change —** The period 1900 to the present witnessed the most rapid technological change in human history: communication, transportation, energy, agriculture, medicine, and computing all transformed beyond recognition. Human life expectancy doubled. Population grew from 1.6 to 8+ billion. Global trade multiplied. These represent genuine, profound historical transformations. **But significant continuities persisted —** Despite technological revolutions, core patterns persisted: inequality between wealthy and poor nations continued; gender hierarchies adapted rather than disappeared; states continued competing for power; environmental exploitation continued at ever larger scales; new diseases emerged to replace conquered ones. Change and continuity coexisted. **Technology's impacts were uneven —** The same technologies that raised living standards in wealthy nations often reinforced inequalities globally. The internet connected billions but left others behind. The Green Revolution fed some while deepening poverty for others. Understanding globalization requires seeing both its achievements and its failures simultaneously. **Topic 9.9 is about argumentation —** The CED skill for this topic is Argumentation — building complex, qualified arguments using evidence. \"To what extent\" questions require you to acknowledge complexity: technology brought enormous change AND significant continuities persisted. Neither simple celebration nor simple condemnation captures the full picture."
+  ],
+  "learningObjectives": [
+    "Explain the extent to which science and technology brought change in the period from 1900 to the present — synthesizing all of Unit 9's key concepts and practicing the AP skill of Argumentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Technological Determinism",
+      "definition": "The view that technology is the primary driver of historical change — that technologies shape societies rather than societies shaping technologies.",
+      "importance": "A perspective to consider and critique; the AP exam rewards recognizing that political, economic, and social factors also shape how technology develops and who benefits from it."
+    },
+    {
+      "term": "Unintended Consequences",
+      "definition": "Outcomes of actions or policies that were not intended or anticipated by the actors involved.",
+      "importance": "A key theme of Unit 9: antibiotics created resistant bacteria; fossil fuels created climate change; birth control contributed to demographic aging; the internet enabled both democratization and authoritarian surveillance."
+    },
+    {
+      "term": "Global Inequality",
+      "definition": "The unequal distribution of wealth, health, power, and opportunities between different nations and regions of the world.",
+      "importance": "A major continuity across AP World History Modern: from Silk Road wealth concentrations to European imperial extraction to modern development gaps, inequality has been a persistent structural feature of the global order despite technological progress."
+    },
+    {
+      "term": "Neoliberalism",
+      "definition": "An economic ideology (dominant from the 1980s onward) promoting free markets, privatization, reduced government regulation, and open global trade as the path to development; implemented through IMF and World Bank structural adjustment programs.",
+      "importance": "The CED requires analysis of economic globalization's causes and effects; neoliberalism is the policy framework that reshaped the global economy after the Cold War, producing growth for some and inequality for others."
+    },
+    {
+      "term": "Digital Revolution",
+      "definition": "The transformation of economies, societies, and communications through computerization, the internet, and mobile technology, accelerating dramatically from the 1990s onward and enabling instantaneous global communication and commerce.",
+      "importance": "The CED identifies technological change as a key driver of late-20th-century globalization; the digital revolution compressed time and space, making the global economy, cultural exchange, and political organizing fundamentally different from all previous eras."
+    },
+    {
+      "term": "Supranational Organization",
+      "definition": "An organization to which member nations transfer some sovereign authority, allowing the organization to make binding decisions across borders; examples include the UN, WTO, EU, IMF, and World Bank.",
+      "importance": "The CED's Unit 9 addresses global institutions; supranational organizations represent a new form of governance created to manage interdependence — a major change from the nation-state system that dominated the 19th and early 20th centuries."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "What is the difference between \"change\" and \"continuity\" in AP World History, and why does identifying both matter?",
+      "answer": "In AP World History, \"change\" refers to things that genuinely transformed over time — new practices, institutions, technologies, or relationships replacing old ones. \"Continuity\" refers to things that persisted across time despite pressures to change. Both matter because the AP exam rewards complex arguments that capture the full picture of historical transformation. Simple change arguments (\"everything changed because of globalization\") are too broad and miss what stayed the same. Simple continuity arguments (\"nothing really changed\") ignore genuine transformation. The most sophisticated historical arguments acknowledge that in any given period, some things change dramatically while others persist — and explain why. For Unit 9, change includes: global communication networks, doubled life expectancy, free-market economic integration, women's suffrage worldwide, consumer culture globalization. Continuity includes: persistent global inequality, ongoing competition between states, gender gaps despite formal rights expansion, recurring patterns of disease and environmental degradation, the tension between national sovereignty and international cooperation."
+    },
+    {
+      "question": "What is a \"complex argument\" on the AP exam and how do you build one?",
+      "answer": "A complex argument is one that goes beyond a simple claim by: (1) Explaining nuance by analyzing multiple variables — rather than \"technology changed the world,\" a complex argument explains HOW different types of technology changed different aspects of life differently. (2) Explaining relevant and insightful connections within and across periods — connecting the Green Revolution to earlier agricultural changes; connecting Cold War politics to global health funding; connecting industrial revolution environmental damage to 20th-century climate debates. (3) Qualifying your argument — acknowledging what it doesn't explain or where it breaks down: \"Technology brought change, BUT the distribution of those changes reinforced existing inequalities.\" (4) Using corroborating or contrasting evidence to test your claim. On the LEQ, a complex argument earns the \"complexity point\" — the hardest point to score, but worth mastering. Key phrases: \"while...,\" \"however...,\" \"to a greater extent...,\" \"this was particularly true for...but less so for...\""
+    },
+    {
+      "question": "Looking across all of AP World History Modern, what are the most important continuities from 1200 to the present?",
+      "answer": "Several major continuities span AP World History Modern: (1) Inequality between different parts of the world — whether structured by Mongol trade networks, European imperialism, or modern globalization, some regions consistently accumulated more wealth and power than others. (2) The role of technology in shaping human societies — from the compass and printing press (Units 3–4) to steam engines (Unit 5) to the internet (Unit 9), technology has consistently driven social, economic, and political change. (3) The tension between state power and social groups — throughout the period, states have struggled to maintain control against religious movements, nationalist movements, class-based challenges, and ethnic tensions. (4) The persistence of trade networks — from the Silk Roads (Unit 2) to modern global supply chains (Unit 9), humans have consistently sought to exchange goods, ideas, and people across distance. (5) The role of disease in shaping human history — from the Black Death (Unit 2) to the 1918 flu to HIV/AIDS (Unit 9), disease has consistently disrupted human societies in ways that revealed underlying vulnerabilities of structure and governance."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🔄 The Argumentation Skill: Building Complex Historical Claims"
+    },
+    {
+      "type": "paragraph",
+      "text": "Topic 9.9 is the final topic in the final unit of AP World History Modern — and like all of the \"continuity and change\" capstone topics (1.7, 2.7, 4.8, 5.10, 8.9), it is an opportunity to practice the highest-level AP historical thinking skill: **Argumentation**. The CED's suggested skill for this topic is to \"corroborate, qualify, or modify an argument using diverse and alternative evidence in order to develop a complex argument.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "What does a complex argument look like? The CED gives four specific forms:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Explain nuance by analyzing multiple variables** — rather than \"technology changed everything,\" examine HOW different technologies changed different groups differently",
+        "**Explain relevant and insightful connections within and across periods** — connect Unit 9's globalization to Unit 5's industrialization; connect 20th-century disease patterns to Unit 2's Black Death",
+        "**Explain the relative historical significance of a source's credibility and limitations** — a World Bank economist and a Mexican farmer will give very different accounts of NAFTA; both perspectives have value and limitations",
+        "**Explain how or why a historical claim or argument is or is not effective** — assess whether \"technology was the primary driver of 20th-century change\" is a useful argument, and if so, where it breaks down"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Topic 9.9 gives you the chance to practice all of these skills by synthesizing the entire unit's content into sophisticated historical arguments."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/9-9-0.jpg",
+      "alt": "Continuity and change in the globalized world",
+      "caption": "",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "apTip",
+      "text": "The Learning Objective for 9.9 is: *\"Explain the extent to which science and technology brought change in the period from 1900 to the present.\"* The key phrase is **\"to what extent\"** — this asks you to qualify your claim, not just state it. A strong answer: \"Science and technology brought significant change in this period — communication, medicine, agriculture, and energy all transformed — but the extent of change varied by region, class, and gender, and significant continuities in global inequality, political conflict, and environmental exploitation persisted.\" Practice qualifying your claims with \"however,\" \"particularly for,\" \"to a greater degree,\" and \"while... at the same time...\""
+    },
+    {
+      "type": "heading",
+      "text": "📊 What Changed: Science and Technology's Transformative Impact (KC-6.1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Across Unit 9, you've studied the multiple ways science and technology transformed human life in the period 1900 to the present. Taken together, this constitutes one of the most dramatic periods of transformation in human history:"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Communication and Transportation (KC-6.1.I.A):** The period began with telegraph and early telephone; it ended with a globally connected internet carrying nearly 5 billion users. Radio connected continents in the 1920s; cellular phones reached more people than clean water by the 2010s. Air travel and shipping containers compressed geographic distance to near-irrelevance for goods and people. The transformation in communication was qualitative, not just quantitative — it changed what was possible in commerce, politics, science, and culture."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Medicine (KC-6.1.I.C):** Life expectancy roughly doubled globally — from ~31 years in 1900 to ~73 years by 2020. Smallpox, which had killed hundreds of millions throughout history, was eradicated by 1980. Antibiotics conquered bacterial infections that had killed throughout human history. The transformation in human health was genuinely extraordinary by any historical standard."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Agriculture (KC-6.1.I.B):** The Green Revolution multiplied crop yields and sustained a population that grew from 1.6 billion to 8 billion. Genetically modified organisms extended agricultural capabilities further. The fear of mass famine as a global catastrophe — still real in the 1960s — was substantially averted through agricultural science."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Social and Economic Organization (KC-6.3.I, KC-6.3.III, KC-6.3.IV):** Global trade integration, women's suffrage worldwide, civil rights advances, and consumer culture globalization transformed social and economic life. Free-market policies spread globally. The internet created knowledge economies. These transformations touched virtually every aspect of how humans organized collective life."
+    },
+    {
+      "type": "funFact",
+      "text": "In 1900, the most common cause of death in the US was **pneumonia and influenza**. By 2020, the most common cause of death was **heart disease**. This single data point captures one of the most profound transformations of the period: medicine conquered the infectious diseases that had killed people throughout history — so successfully that people now live long enough to die from the degenerative diseases of old age instead. The very success of 20th-century medicine changed not just life expectancy but the entire landscape of human mortality."
+    },
+    {
+      "type": "heading",
+      "text": "⚖️ What Continued: Persistent Patterns (KC-6.1, KC-6.3)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A sophisticated historical argument about this period must also identify what *didn't* change — the continuities that persisted beneath and alongside technological transformation."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Global Inequality Persisted:** Despite unprecedented economic growth and technological progress, the gap between wealthy and poor nations remained enormous and, in some respects, widened. Sub-Saharan Africa, much of South Asia, and parts of Latin America remained far poorer than North America, Western Europe, Japan, and Australia. Diseases of poverty (malaria, tuberculosis) continued killing millions in poor nations while being controlled in wealthy ones. The environmental costs of development fell disproportionately on the poor. The pattern of global inequality — a core feature of the world since at least the Industrial Revolution — proved remarkably resistant to technological progress alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Gender Inequality Persisted:** Despite women's suffrage expanding globally and increasing educational and professional access, gender gaps in pay, political representation, violence, and social status persisted worldwide. The forms of gender inequality changed — formal legal exclusion gave way to structural and economic disadvantage — but the underlying pattern of male privilege over female opportunity showed remarkable continuity even as its specific manifestations transformed."
+    },
+    {
+      "type": "paragraph",
+      "text": "**State Competition Continued:** The United Nations, NATO, trade agreements, and other international institutions created new frameworks for cooperation — but states continued competing for power, influence, territory, and resources. Two world wars, the Cold War, and numerous regional conflicts demonstrated that international integration had not overcome the fundamental dynamics of interstate competition. Nationalist politics reasserted themselves against internationalism repeatedly throughout the period."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Environmental Exploitation Deepened:** The Industrial Revolution had begun the large-scale exploitation of natural resources and pollution of the environment. Rather than reversing this trajectory, the 20th century accelerated it. Deforestation, freshwater depletion, biodiversity loss, and greenhouse gas accumulation all intensified despite growing environmental awareness and movement. The continuity is in the structural relationship between economic growth and environmental degradation — a pattern stretching from industrialization through globalization."
+    },
+    {
+      "type": "funFact",
+      "text": "The global economy grew roughly **25-fold** between 1900 and 2000 — from about $2 trillion to $50 trillion in today's dollars. This is the most rapid economic expansion in human history. Yet the world's bottom billion people saw relatively little of this growth. In 1820 (early industrialization), the ratio of per-capita income in the world's richest country to the world's poorest was about 3:1. By 2000, it was approximately 66:1. Technology and globalization dramatically expanded total wealth while also dramatically widening the gap between the richest and poorest. This is not a contradiction — it is a complex historical reality requiring complex historical analysis."
+    },
+    {
+      "type": "heading",
+      "text": "🔗 Synthesis: Connecting the Periods"
+    },
+    {
+      "type": "paragraph",
+      "text": "Topic 9.9 invites you to synthesize not just Unit 9 but AP World History Modern as a whole. Several major themes connect this final unit to earlier periods:"
+    },
+    {
+      "type": "paragraph",
+      "text": "**From Silk Roads to the Internet:** The human drive to exchange goods, information, and ideas across distance is a continuity from Unit 2's trade networks to Unit 9's digital globalization. The technologies change — camel caravans to shipping containers, silk to microchips — but the fundamental human impulse and its transformative consequences connect across 800 years of AP World History."
+    },
+    {
+      "type": "paragraph",
+      "text": "**From Gunpowder to Nuclear Weapons:** Technology's dual nature — enabling both enormous productivity and horrific destruction — runs from the gunpowder empires of Unit 3 through industrial-scale WWI slaughter (Unit 7) to nuclear deterrence (Unit 8) and the climate crisis (Unit 9). Each technological era brings new powers of creation and destruction simultaneously."
+    },
+    {
+      "type": "paragraph",
+      "text": "**From Columbian Exchange to Global Public Health:** The spread of disease along trade networks — killing millions in the Columbian Exchange (Unit 4) and the Black Death (Unit 2) — connects directly to 20th-century pandemic dynamics (Unit 9's 1918 flu, HIV/AIDS). The same global connectedness that drives economic exchange enables disease transmission — a continuity across centuries."
+    },
+    {
+      "type": "paragraph",
+      "text": "**From European Imperialism to Economic Globalization:** The extraction of resources from colonized regions by wealthy European powers (Unit 6) transformed in the 20th century into the economic relationships of globalization — developing nations exporting raw materials and manufacturing labor while wealthy nations retained higher-value activities. The specific mechanisms changed; the underlying pattern of economic relationship between wealthy and poor regions showed significant continuity."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 9.9",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+9.9",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Big History:  Big History #1",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Big+History%3A++Big+History+%231",
+      "creator": "Crash Course · 12 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": null,
+      "question": "Which of the following best represents a \"complexity\" in the historical argument that \"science and technology transformed human life in the period 1900 to present\"?",
+      "options": [
+        "Technology advanced rapidly in both the 20th and 21st centuries.",
+        "Technology changed communication more than it changed agriculture.",
+        "While technology raised overall living standards globally, the benefits were unevenly distributed, with wealthy nations gaining disproportionately and diseases of poverty persisting among the world's poor despite existing treatments.",
+        "Some technologies, like nuclear weapons, were harmful rather than beneficial."
+      ],
+      "correctIndex": 2,
+      "explanation": "A genuine complexity acknowledges the argument (technology improved lives) while qualifying it with contrasting evidence (benefits were unevenly distributed, diseases of poverty persisted). This is exactly what the AP \"complexity point\" rewards — not just stating change, but analyzing its uneven distribution and limits. (A) is not complex — it extends the claim rather than qualifying it. (B) compares technologies but doesn't qualify the overall claim. (D) adds a complication but doesn't address distribution of benefits."
+    },
+    {
+      "stimulus": null,
+      "question": "Which of the following is the best example of a historical continuity in the period 1900 to the present?",
+      "options": [
+        "The dominance of steam-powered transportation in global commerce",
+        "The absence of major interstate conflict after the creation of the United Nations in 1945",
+        "The exclusive control of nuclear weapons by the United States throughout the period",
+        "The persistence of significant economic inequality between wealthy industrialized nations and developing nations despite rapid overall economic growth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Global economic inequality between rich and poor nations persisted throughout 1900–present, despite rapid overall growth and technological advance — a genuine continuity. (A) is false — steam gave way to diesel and internal combustion. (C) is false — the USSR acquired nuclear weapons by 1949. (B) is false — major interstate conflicts (Korea, Vietnam, Gulf War, etc.) occurred after 1945."
+    },
+    {
+      "stimulus": null,
+      "question": "The AP skill emphasized in Topic 9.9 — Argumentation — is best demonstrated by which of the following?",
+      "options": [
+        "Developing a qualified claim about the extent of change brought by technology, supported by multiple types of evidence and acknowledging counter-examples",
+        "Describing the causes of the Green Revolution without evaluating its effects",
+        "Listing all the technologies developed in the 20th century",
+        "Identifying the precise date of a single technological invention"
+      ],
+      "correctIndex": 0,
+      "explanation": "Argumentation — as defined by the CED — involves developing complex, qualified claims supported by diverse evidence, corroborating or modifying arguments with counter-evidence. (C) is description, not argument. (B) is partial analysis without evaluation. (D) is factual recall, not argumentation."
+    },
+    {
+      "stimulus": null,
+      "question": "Which of the following best illustrates the concept of \"unintended consequences\" in the period 1900 to present?",
+      "options": [
+        "The development of nuclear power plants to generate electricity",
+        "The overuse of antibiotics creating antibiotic-resistant bacteria strains, threatening the very medical advances antibiotics represented",
+        "The invention of the internet to facilitate global communication",
+        "The creation of the United Nations to maintain international peace"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antibiotic resistance is the clearest example of an unintended consequence: antibiotics were developed to treat bacterial infections (a beneficial advance) but their overuse caused bacteria to evolve resistance, potentially reversing those medical gains. This was not the intended outcome. (A) nuclear power was intended to generate electricity. (C) the internet was intended for communication. (D) the UN was intended for peace — though its effectiveness was limited, this is not an unintended consequence of the same type."
+    },
+    {
+      "stimulus": null,
+      "question": "Which earlier period of AP World History Modern best provides context for understanding 20th-century economic globalization?",
+      "options": [
+        "The Mongol Empire's trade networks (c. 1200–1450), because they established the first global trade routes",
+        "The Renaissance (c. 1200–1450), because it produced the intellectual foundations of modern science",
+        "The Columbian Exchange (c. 1450–1750), because it first connected the Americas to global trade networks",
+        "The Industrial Revolution and European Imperialism (c. 1750–1900), because industrialization created the wealth gap and economic relationships that 20th-century globalization built upon"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Industrial Revolution and Imperialism of Units 5–6 most directly provided context for 20th-century globalization: they established the wealth gap between industrialized and non-industrialized nations, created global resource extraction relationships, built the transportation infrastructure (railroads, steamships) that 20th-century globalization extended, and generated the fossil fuel dependence that created the climate crisis. The Columbian Exchange (C) was important for earlier trade but is less directly connected to the specific economic patterns of 20th-century globalization."
+    }
+  ],
+  "saq": {
+    "parts": [],
+    "prompt": "Use the following claim and your knowledge of Unit 9 to answer parts A, B, and C.",
+    "sampleAnswer": "**A.** The global eradication of smallpox by 1980 — achieved through WHO-coordinated vaccination campaigns — represents extraordinary technological change. Smallpox had been one of the most feared diseases in human history, killing an estimated 300 million people in the 20th century alone before its eradication. The development of a safe, effective vaccine and the organizational capacity to deliver it in every country on Earth — including across Cold War political divides — was an unprecedented achievement that fundamentally altered the disease landscape for all of humanity. This represents change of a qualitative kind: a disease that had shaped human history for millennia was simply eliminated from the planet. **B.** The persistence of malaria as a major killer throughout the 20th and early 21st centuries demonstrates significant continuity in the relationship between poverty and disease. Despite the existence of effective prevention tools (bed nets, insecticide spraying) and treatments (antimalarial drugs), malaria continued to kill hundreds of thousands of people annually — primarily children in sub-Saharan Africa — into the 21st century. This persistence was not due to scientific ignorance but to the same poverty and inequality that had always made disease more deadly for the poor than the wealthy. The technological capacity to control malaria existed; the political will and economic resources to distribute that capacity to the world's poorest did not. This continuity of inequality undermining health outcomes connects to patterns throughout AP World History Modern. **C.** Unit 9's climate change crisis connects directly to Unit 5's Industrial Revolution. The burning of fossil fuels — coal (the primary energy source of industrialization beginning in Britain in the 1760s–1780s) and later oil — initiated the accumulation of greenhouse gases that created the 20th-century climate debate. Each decade of industrial economic activity added to the atmospheric concentration of CO2 that had been slowly accumulating since James Watt's steam engine began burning coal at scale. The Industrial Revolution thus provides essential context for 20th-century climate change: the problem that Unit 9 identifies was set in motion by the economic transformation Unit 5 describes. Understanding that climate change was created over 250 years of fossil fuel dependence — not just in the 20th century — explains why it is so difficult to solve: the entire global economic infrastructure was built on cheap fossil fuels, and any transition away from them must contend with the legacy of the Industrial Revolution's century-long head start."
+  },
+  "leq": {
+    "outline": [],
+    "prompt": "Evaluate the extent to which science and technology brought change in the period 1900 to the present.",
+    "modelThesis": "Science and technology brought extraordinary change to the period 1900 to the present — transforming communication, medicine, agriculture, and economic life in ways that doubled life expectancy and connected billions — but the extent of this change was significantly limited and unevenly distributed: persistent global inequality, gender hierarchies, interstate competition, and environmental degradation demonstrated that technology transformed what was possible without resolving fundamental structural inequalities that had characterized human societies throughout AP World History Modern. **Complexity Strategy:** Acknowledge that technology's impact was transformative for humanity as a whole while demonstrating it was limited for specific populations (the world's poor, who had access to fewer technologies and experienced more of their costs). Connect to Unit 5's industrialization to show the long-term trajectory of technological change and its relationship to inequality — making the argument more historically grounded and demonstrating cross-period connections."
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. \"Science and technology were the primary drivers of change in the period 1900 to the present.\" Evaluate this claim. What evidence supports it? What qualifies or complicates it?",
+      "modelAnswer": "Evidence in support: The transformation of communication (radio, internet), medicine (vaccines, antibiotics), agriculture (Green Revolution), and energy (petroleum, nuclear power) in this period reshaped human life more profoundly than any previous century. Life expectancy doubled, population grew fivefold, smallpox was eradicated, billions accessed global information networks, and the costs of communication and transportation dropped by orders of magnitude. These changes were primarily driven by scientific discovery and technological application. Complicating evidence: Technology does not drive change independently of political, economic, and social contexts. The Green Revolution's benefits depended on whether political systems allowed small farmers access to its tools. The internet's effects depended on whether governments allowed free access. Medical advances reached different populations based on economic distribution of healthcare — the same vaccines that controlled diseases in wealthy nations left them rampant in poor ones for decades. And significant changes in this period — decolonization, women's suffrage, civil rights — were driven primarily by political organizing and social movements, not technology. A qualified conclusion: Technology was a major driver of change but worked through and was shaped by political, economic, and social structures that determined who benefited, when, and how much."
+    },
+    {
+      "question": "2. What are the most significant continuities in this period (1900 to present), and how do they qualify claims about the extent of change brought by globalization?",
+      "modelAnswer": "The most significant continuities: (1) Global economic inequality — the gap between wealthy and poor nations persisted and in many respects widened despite rapid overall economic growth; (2) Gender inequality — formal rights expanded dramatically but structural disadvantage persisted; (3) Interstate competition — international institutions created cooperation frameworks but did not eliminate great-power competition and conflict; (4) Environmental exploitation — the structural relationship between economic growth and environmental degradation deepened rather than reversed. These continuities qualify claims about transformative change by showing that the fruits of globalization were distributed unevenly — based on race, class, gender, and national origin — in ways that reproduced historical patterns of inequality even as aggregate living standards rose. The continuities suggest that globalization transformed what was possible (communication, medicine, trade) while leaving fundamental structures of power and inequality remarkably intact. A sophisticated conclusion: The period brought unprecedented change in the speed and scale of human capability while reproducing older patterns in who benefited from that capability."
+    },
+    {
+      "question": "3. Connect Unit 9's globalization to TWO earlier periods of AP World History Modern, explaining how those earlier developments provided context for or are related to 20th-century trends.",
+      "modelAnswer": "Connection 1: Unit 5's Industrial Revolution (1750–1900) provides essential context for Unit 9's globalization. The Industrial Revolution established fossil fuel dependence (creating the climate change crisis of Unit 9), created the global economic inequality between industrialized and non-industrialized regions (creating the rich-poor country gap that globalization both exploited and partially addressed), and developed the transportation and communication infrastructure (railroads, telegraph) that 20th-century technologies extended. The Green Revolution (Unit 9) was an extension of scientific agriculture that had roots in 19th-century chemistry (Liebig's nitrogen theory, Haber-Bosch process for synthetic fertilizers). Without industrialization, 20th-century globalization would have been impossible. Connection 2: Unit 6's Imperialism (1750–1900) provides context for Unit 9's international economic relationships. European imperial extraction of resources and labor from colonized regions established economic relationships — colonies exporting raw materials, metropoles adding value — that continued after decolonization in modified form. Former colonies often remained primary commodity exporters dependent on formerly colonial powers for manufactured goods and capital. The anti-IMF movement partly targeted institutions (IMF, World Bank) that critics saw as perpetuating neo-colonial economic relationships. The environmental costs of resource extraction that created 19th-century colonial wealth were the same pattern — at larger scale — as 20th-century deforestation and resource depletion. Continuity from imperial extraction to globalized resource exploitation is a major throughline."
+    },
+    {
+      "question": "4. Build a complex argument about the extent to which globalization benefited or harmed people in the period 1900 to the present. Use evidence from at least three different topics in Unit 9.",
+      "modelAnswer": "Globalization brought significant benefits but distributed them unevenly, and its costs fell disproportionately on those least able to bear them — qualifying any simple assessment of its overall impact. Technology (9.1) dramatically raised life expectancy, food security, and communication capacity — improvements that were genuinely global in reach. Economic integration (9.4) lifted hundreds of millions out of poverty in East Asia and created manufacturing employment in previously poor regions like Bangladesh and Vietnam. Cultural globalization (9.6) connected people across national borders, enabling new forms of creativity, communication, and shared experience. However, the distribution of these benefits was profoundly unequal. Disease (9.2) persisted in poor nations despite existing treatments — malaria and tuberculosis continued killing millions who lacked access to affordable healthcare, demonstrating that technological capabilities did not automatically translate into human welfare. Environmental degradation (9.3) fell disproportionately on poor nations and communities — contributing least to greenhouse gas emissions but facing the worst consequences of climate change. Resistance (9.7) demonstrated that globalization generated real losers — workers displaced by offshoring, communities whose cultural identities were threatened, nations whose sovereignty was constrained by IMF conditions. The complex argument: Globalization transformed human capability on an extraordinary scale AND concentrated the benefits of those capabilities in the hands of those who were already advantaged — making it simultaneously the greatest period of human progress in history and one of continuing and, in some dimensions, deepening inequality."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

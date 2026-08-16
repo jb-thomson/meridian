@@ -1,0 +1,321 @@
+{
+  "course": "ap-world-history",
+  "num": "7.5",
+  "title": "Unresolved Tensions After World War I",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "🏛️",
+      "label": "Political",
+      "tooltip": "The Treaty of Versailles (1919) imposed punishing terms on Germany — reparations, territorial losses, war guilt clause — creating political resentment that Hitler would exploit to power in 1933."
+    },
+    {
+      "icon": "🌍",
+      "label": "Imperialism",
+      "tooltip": "The peace treaties after WWI redistributed German and Ottoman colonies to Britain and France as \"mandates\" — denying self-determination to peoples outside Europe, fueling anti-colonial anger."
+    },
+    {
+      "icon": "👥",
+      "label": "Anti-Colonial Resistance",
+      "tooltip": "WWI veterans from colonized nations who had fought for their empires returned home expecting independence. When it was denied, nationalist movements in India, Korea, China, and the Arab world intensified dramatically."
+    },
+    {
+      "icon": "🗺️",
+      "label": "Territorial Change",
+      "tooltip": "The post-WWI map of Europe was completely redrawn — new states (Poland, Czechoslovakia, Yugoslavia) created from old empires, but ethnic minorities everywhere were trapped inside the \"wrong\" nation-state."
+    }
+  ],
+  "tldr": [
+    "**LO-A: The Paris Peace Settlement created as many problems as it solved —** The Treaty of Versailles (1919) imposed war guilt, massive reparations ($33 billion), military restrictions, and territorial losses on Germany — creating humiliation and resentment that Hitler would later exploit. Wilson's Fourteen Points promised self-determination, but the peace treaties drew borders that left Germans in Czechoslovakia, Poles under Germany, and Arabs under British/French mandates rather than independent states. **Imperial powers mostly maintained control — but faced growing resistance —** Between the wars, Western powers and Japan maintained or expanded their colonial holdings. Britain and France divided former German and Ottoman territories as League of Nations mandates. Japan expanded into Manchuria (1931) and China (1937). But colonial subjects were increasingly organized and resistant — the Indian National Congress, West African anti-colonial movements, and Ho Chi Minh's early Vietnamese nationalism all grew in the interwar period. **League of Nations mandates: empire by another name —** After WWI, former German colonies and Ottoman territories were not given independence — they became \"mandates\" administered by Britain and France \"on behalf of the League of Nations.\" Palestine, Iraq, and Syria became British or French mandates. German colonies in Africa (Cameroon, Togo, Tanzania) were divided between Britain and France. Self-determination for white Europeans; continued colonialism for others. **Japan's expansion: Manchukuo and the Co-Prosperity Sphere —** Japan took advantage of Western weakness during the Depression to seize Manchuria (1931), creating the puppet state of Manchukuo. By 1937, Japan was at war with China. Japan justified its expansion as liberating Asia from Western imperialism (the \"Greater East Asia Co-Prosperity Sphere\") — but in practice substituted Japanese imperial control for Western."
+  ],
+  "learningObjectives": [
+    "Explain the continuities and changes in territorial holdings from 1900 to the present — including how Western and Japanese imperial states maintained or gained territories and faced growing anti-imperial resistance in the interwar period"
+  ],
+  "vocabulary": [
+    {
+      "term": "Treaty of Versailles (1919)",
+      "definition": "The peace treaty ending WWI that imposed war guilt, $33 billion in reparations, military restrictions, and territorial losses on Germany.",
+      "importance": "Created widespread German resentment that Hitler exploited; its failures are considered a key cause of WWII."
+    },
+    {
+      "term": "Self-Determination",
+      "definition": "The principle that peoples sharing a common national identity have the right to govern themselves. Championed by Woodrow Wilson's Fourteen Points.",
+      "importance": "Applied inconsistently — granted to European peoples in new states (Poland, Czechoslovakia, Yugoslavia) but denied to colonial peoples in Asia, Africa, and the Middle East."
+    },
+    {
+      "term": "League of Nations",
+      "definition": "International organization created after WWI (1919) to maintain peace through collective security and arbitration. The U.S. Senate refused to join.",
+      "importance": "Proved ineffective — had no military force; failed to stop Japanese expansion in Manchuria (1931) or Italian invasion of Ethiopia (1935); laid the groundwork for the UN after WWII."
+    },
+    {
+      "term": "Mandate System",
+      "definition": "The League of Nations framework by which former German and Ottoman territories were assigned to Britain and France to administer \"on behalf of\" the League toward eventual self-governance.",
+      "importance": "In practice, a way to divide colonial territories between the victors; Britain received Palestine, Iraq, and Transjordan; France received Syria and Lebanon; German African colonies were divided between them."
+    },
+    {
+      "term": "Manchukuo",
+      "definition": "The Japanese puppet state established in Manchuria (northeastern China) after Japan's 1931 invasion. Nominally ruled by the last Qing emperor Puyi; actually controlled by Japan's Kwantung Army.",
+      "importance": "Demonstrated the League of Nations' inability to stop great-power aggression; an early step in Japan's imperial expansion in Asia."
+    },
+    {
+      "term": "Greater East Asia Co-Prosperity Sphere",
+      "definition": "Japan's ideological framework for its Asian empire, claiming to liberate Asia from Western imperialism under Japanese leadership.",
+      "importance": "Functioned as propaganda cover for Japanese imperial control; in practice substituted brutal Japanese military occupation for Western colonialism."
+    },
+    {
+      "term": "Indian National Congress",
+      "definition": "The major Indian anti-colonial political organization founded in 1885; led in the interwar period by Mohandas Gandhi and Jawaharlal Nehru.",
+      "importance": "Used non-violent civil disobedience (satyagraha) to mobilize mass opposition to British rule; eventually led India to independence in 1947."
+    },
+    {
+      "term": "Appeasement",
+      "definition": "The British and French policy of making concessions to Hitler's territorial demands (especially at Munich, 1938) to avoid war.",
+      "importance": "Failed to satisfy Hitler and emboldened further aggression; ended with Germany's invasion of Poland (1939) which finally triggered WWII."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Woodrow Wilson's Fourteen Points promised national self-determination for all peoples. Why was this principle so difficult to implement in the post-WWI peace settlement?",
+      "answer": "Self-determination is difficult to implement because populations are not neatly arranged in ethnically homogeneous territories. In Central and Eastern Europe, Germans, Poles, Czechs, Hungarians, Romanians, and others were thoroughly intermingled — drawing any border would leave minorities on the \"wrong\" side. The Paris Peace Conference tried to apply self-determination but consistently prioritized strategic and economic considerations: Czechoslovakia got the Sudetenland (with 3.5 million Germans) because it was industrially valuable; Poland got the \"Polish Corridor\" (dividing Germany) to give it access to the sea. Wilson also applied self-determination selectively — it was applied primarily to white Europeans (new states of Poland, Czechoslovakia, Yugoslavia, Hungary, etc.) but not to colonial peoples in Africa, Asia, and the Middle East, who remained under British and French rule as League of Nations mandates. The inconsistency was both politically and morally impossible to sustain."
+    },
+    {
+      "question": "The Treaty of Versailles blamed Germany entirely for WWI (the \"war guilt\" clause) and imposed massive reparations. Why did this settlement make another war more likely rather than preventing it?",
+      "answer": "The Versailles settlement failed as a peace settlement for several interconnected reasons. First, the \"war guilt\" clause was both historically inaccurate (WWI had multiple causes and multiple responsible parties) and politically inflammatory — Germans of all political persuasions regarded it as a humiliation that had to be reversed. Second, the reparations burden ($33 billion) was unpayable, contributed to hyperinflation and economic instability, and provided a permanent source of German resentment. Third, the territorial losses — Alsace-Lorraine, the Polish Corridor, prohibition of union with Austria — created a \"stab in the back\" narrative that demagogues like Hitler could exploit. A punitive peace that does not break the loser's capacity to fight again (as the Versailles settlement failed to do — Germany retained its industrial potential, just temporarily) typically generates the conditions for revisionist politics. A genuinely fair peace might have produced acceptance; a genuinely crushing peace might have prevented German rearmament. Versailles was neither."
+    },
+    {
+      "question": "The League of Nations mandate system was designed to prepare colonial peoples for eventual self-governance. In practice, how did mandates differ from outright colonies?",
+      "answer": "In practice, very little. League of Nations mandates were supposed to be \"sacred trusts\" in which advanced nations administered territories for the benefit of their peoples, with the eventual goal of independence. In reality, Britain and France administered their mandates as colonial possessions: they set up colonial bureaucracies, extracted resources, suppressed nationalist movements, drew arbitrary borders (Sykes-Picot lines in the Middle East), and made no timetable for independence. The key difference was nominal: mandates carried an international obligation to report to the League, which mandatories technically acknowledged as a supervisory body. But the League had no enforcement power, and Britain and France simply ignored inconvenient League opinions. The mandate system was effectively a way to divide German and Ottoman territories between the victors without calling it colonial annexation — international legitimacy for what was in practice imperial expansion."
+    },
+    {
+      "question": "Japan justified its conquest of Manchuria (1931) as protecting Japanese nationals from Chinese disorder and as part of Asian solidarity against Western imperialism. How convincing is this justification?",
+      "answer": "The justification is largely unconvincing for several reasons. First, the \"protection of Japanese nationals\" justification was manufactured: the Mukden Incident that triggered the invasion was staged by Japanese military officers (the Kwantung Army), who planted a bomb on a Japanese-owned railway and blamed Chinese saboteurs. This false-flag operation, which the Japanese government didn't control, was used as a pretext. Second, the \"Asian solidarity\" justification was contradicted by Japan's brutal treatment of Chinese people in Manchuria (and later in the rest of China, including the Nanjing Massacre). Third, Manchukuo was a Japanese puppet state, not an independent Chinese government — it substituted Japanese imperial control for Western. The ideological justification (Greater East Asia Co-Prosperity Sphere) was genuine as an ideology but functioned as cover for Japanese imperial expansion that served Japanese economic and strategic interests, not those of other Asian peoples."
+    },
+    {
+      "question": "The Indian National Congress and West African anti-colonial movements both grew significantly in the interwar period. What specific conditions of the interwar years made anti-colonial organizing more possible than before?",
+      "answer": "Several interwar conditions enabled anti-colonial growth. First, WWI's broken promises: colonial subjects who had fought for European empires expected political reforms that weren't delivered — this created organized resentment. Second, the Paris Peace Conference's rhetoric of self-determination (intended for Europeans) was seized by anti-colonial activists who applied it consistently to all peoples. Third, the spread of education and print media in colonial cities created an educated class capable of reading, writing, and organizing. Fourth, Gandhian non-violent civil disobedience offered a practical framework for mass resistance that could be mobilized without matching colonial military power. Fifth, the League of Nations' mandate system, whatever its limitations, established the international principle that colonial administration had to be justified and was ultimately temporary — eroding the ideological legitimacy of permanent empire. Anti-colonial movements also learned from each other: Indian, West African, and Vietnamese activists read each other's works and attended pan-African and pan-Asian conferences."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "⚖️ The Paris Peace Settlement: A Flawed Peace"
+    },
+    {
+      "type": "paragraph",
+      "text": "When WWI ended in November 1918, the victorious Allies gathered in Paris to negotiate the peace. The resulting settlement — primarily the **Treaty of Versailles** (June 1919) — was supposed to create a stable new world order. Instead, it planted the seeds of the next war. The peace was shaped by competing agendas: U.S. President Woodrow Wilson wanted a principled peace based on his Fourteen Points; France wanted to punish Germany and prevent future German aggression; Britain wanted to restore trade and stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "The treaty's key provisions regarding Germany were harsh: the \"war guilt\" clause (Article 231) forced Germany to accept sole responsibility for the war — historically inaccurate and politically devastating; reparations of $33 billion; military restrictions (army limited to 100,000 men, no air force, no submarines); and territorial losses (Alsace-Lorraine to France, the Polish Corridor to Poland, colonies distributed as mandates). Most humiliating of all: Germany was not allowed at the negotiating table."
+    },
+    {
+      "type": "funFact",
+      "text": "John Maynard Keynes — the British economist who later developed the ideas behind the New Deal — was at the Paris Peace Conference as a British Treasury official. He was so horrified by the terms imposed on Germany that he resigned his position and wrote a famous book, *The Economic Consequences of the Peace* (1919), predicting that the reparations burden would destabilize Germany and Europe, potentially leading to another war. He was right. His book sold millions of copies and shaped public opinion for decades — and the economic chaos his predictions came true in produced the Depression conditions that brought Hitler to power."
+    },
+    {
+      "type": "heading",
+      "text": "🗺️ New Borders, Old Problems: The Redrawing of Europe"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Paris settlements created a series of new nation-states from the wreckage of the Russian, Ottoman, and Austro-Hungarian empires: Poland, Czechoslovakia, Yugoslavia, Hungary, Austria, Finland, Estonia, Latvia, and Lithuania all emerged from the map redrawing. Wilson's principle of national self-determination was partially applied — populations in contested territories held plebiscites (votes) on which country to join in some cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "But the application was deeply inconsistent and strategically motivated. The **Sudetenland** — home to 3.5 million Germans — was assigned to Czechoslovakia because of its industrial and strategic value. The **Polish Corridor** divided Germany geographically to give Poland access to the sea. Germans in Austria were prohibited from uniting with Germany (*Anschluss*), despite most wanting to. The result: nearly 10 million Germans found themselves as minorities in new states, many resentful of their situation. Hitler would later exploit these grievances to justify territorial demands and ultimately war."
+    },
+    {
+      "type": "heading",
+      "text": "🌍 The Mandate System: Empire with a New Name"
+    },
+    {
+      "type": "paragraph",
+      "text": "Outside Europe, the Paris settlement was even more clearly a redistribution of imperial spoils. Former German colonies in Africa and the Pacific, and former Ottoman territories in the Middle East, were not given independence. Instead, they became **League of Nations mandates** — territories \"administered\" by Britain and France on behalf of the international community, with the nominal goal of preparing them for eventual self-governance."
+    },
+    {
+      "type": "paragraph",
+      "text": "The mandate assignments:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Britain:** Palestine, Transjordan, Iraq (formerly Ottoman); German East Africa (Tanzania), Cameroon (part), Togo (part)",
+        "**France:** Syria and Lebanon (formerly Ottoman); Cameroon (part), Togo (part)",
+        "**Japan:** Former German islands in the North Pacific (Marshall Islands, Carolines, Marianas)",
+        "**Australia, South Africa, New Zealand:** Former German Pacific and African territories"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The mandate system created new problems, especially in the Middle East. In Palestine, Britain had made contradictory promises: the **Balfour Declaration** (1917) promised support for \"a national home for the Jewish people\" in Palestine, while the **Husayn-McMahon Correspondence** had suggested Arab independence in the region. These conflicting commitments created the foundation of the Israeli-Palestinian conflict that continues today."
+    },
+    {
+      "type": "apTip",
+      "text": "The AP CED illustrative examples for Topic 7.5 are specific: **transfer of former German colonies to Britain and France under League of Nations mandates**, and **Manchukuo / Greater East Asia Co-Prosperity Sphere** as examples of territorial gains; **Indian National Congress** and **West African resistance (strikes/congresses)** as anti-imperial resistance. Know these specific examples and what they illustrate about continuity and change in territorial holdings."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/7-5-0.jpg",
+      "alt": "Map showing League of Nations mandate territories in Africa and the Middle East assigned to Britain and France after WWI",
+      "caption": "The League of Nations mandate system divided former German and Ottoman territories between Britain and France. Rather than granting independence, the system extended European colonial control under international legitimacy.",
+      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "heading",
+      "text": "🇯🇵 Japan's Expansion: Manchukuo and the Co-Prosperity Sphere"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japan had been an Allied power in WWI and expected rewards commensurate with its contributions. Instead, the Paris Peace Conference refused Japan's proposed racial equality clause and gave it only German islands in the North Pacific. Japanese nationalists felt humiliated and increasingly believed that Asian nations needed to act independently of Western approval."
+    },
+    {
+      "type": "paragraph",
+      "text": "In September 1931, Japanese military officers in Manchuria staged the **Mukden Incident** — a false-flag bomb attack on a Japanese railway — as a pretext to invade Manchuria. The Japanese Army acted without full government authorization; when the League of Nations condemned the invasion, Japan simply withdrew from the League. By 1932, Japan had established **Manchukuo** — a puppet state nominally ruled by the last Qing emperor Puyi but actually controlled by Japan's Kwantung Army. Japan presented this as rescuing Manchuria from \"Chinese chaos\" and contributing to Asian solidarity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Japan's expansion continued through the 1930s. The **Second Sino-Japanese War** (1937–1945) was one of the deadliest conflicts of the 20th century, killing an estimated 14–20 million Chinese civilians. Japan presented its empire as the **Greater East Asia Co-Prosperity Sphere** — a bloc of Asian nations liberated from Western colonialism under Japanese leadership. In reality, the Co-Prosperity Sphere meant Japanese military occupation, forced labor, and systematic extraction of resources from Korea, China, Southeast Asia, and the Pacific."
+    },
+    {
+      "type": "heading",
+      "text": "🌱 Anti-Colonial Resistance Grows"
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite imperial powers' efforts to maintain control, anti-colonial resistance intensified throughout the interwar period. Two of the AP CED's required illustrative examples are especially important:"
+    },
+    {
+      "type": "paragraph",
+      "text": "**The Indian National Congress** — led in the interwar period by Mohandas Gandhi and Jawaharlal Nehru — transformed from an elite petition-writing organization into a mass movement. Gandhi's **satyagraha** (truth-force, or non-violent civil disobedience) strategy mobilized millions: the Non-Cooperation Movement (1920–22) called on Indians to refuse British goods, resign government positions, and boycott British courts. The Salt March (1930) — Gandhi's 240-mile walk to the sea to make salt illegally, defying British salt monopoly laws — became an international symbol of anti-colonial resistance. Britain's response (arresting 60,000 people) demonstrated both the movement's power and colonialism's dependence on violence."
+    },
+    {
+      "type": "paragraph",
+      "text": "**West African resistance** took the form of labor strikes, political congresses, and journalism. The **National Congress of British West Africa** (1920) brought together educated Africans from Nigeria, Gold Coast (Ghana), Sierra Leone, and Gambia to demand greater political representation. In French West Africa, African veterans organized labor strikes and political associations. Blaise Diagne of Senegal became the first Black African elected to the French National Assembly. These movements were building the organizational infrastructure and political consciousness that would drive full independence movements after WWII."
+    },
+    {
+      "type": "funFact",
+      "text": "Ho Chi Minh — later leader of Vietnamese independence and the communist North Vietnam — was in Paris during the 1919 Peace Conference. He tried to present a petition to Woodrow Wilson requesting Vietnamese self-determination, citing Wilson's own Fourteen Points. Wilson never met with him. Ho Chi Minh later said this experience convinced him that Western liberal democracy would never voluntarily grant colonial independence — and that he turned to Marxism as a framework for understanding and fighting colonialism precisely because Wilsonian liberalism had been so explicitly offered and then denied to non-white peoples."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 7.5",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+7.5",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Treaty of Versailles",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Treaty+of+Versailles",
+      "creator": "Crash Course · 12 min"
+    },
+    {
+      "title": "Interwar Tensions",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+Interwar+Tensions",
+      "creator": "Heimler's History · 7 min"
+    },
+    {
+      "title": "Gandhi and Indian Independence",
+      "url": "https://www.youtube.com/results?search_query=Tom+Richey+Gandhi+and+Indian+Independence",
+      "creator": "Tom Richey · 10 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": null,
+      "question": "The League of Nations mandate system, which assigned former German and Ottoman territories to British and French administration, was most directly a continuation of which historical pattern?",
+      "options": [
+        "The Congress of Vienna's approach to dividing Napoleon's empire among victors",
+        "The Wilsonian principle of national self-determination applied to non-European peoples",
+        "European imperial expansion disguised under international legitimacy",
+        "The League's commitment to preparing all territories for democratic governance by 1930"
+      ],
+      "correctIndex": 2,
+      "explanation": "The mandate system distributed former colonial territories between Britain and France (the victorious European empires) while denying independence to the populations of those territories. Despite the \"preparation for self-governance\" rhetoric, it functioned as European imperial control with international legitimacy — a continuation of the colonial pattern under new institutional language."
+    },
+    {
+      "stimulus": null,
+      "question": "The Treaty of Versailles' \"war guilt\" clause and reparations burden contributed to WWII primarily by",
+      "options": [
+        "preventing Germany from industrializing, which caused mass unemployment and resentment",
+        "permanently dividing Germany into eastern and western zones controlled by France and Britain",
+        "forcing Germany to dissolve its military, leaving it unable to defend itself against Soviet aggression",
+        "creating economic instability and national humiliation that made German populations receptive to Hitler's revisionist nationalism"
+      ],
+      "correctIndex": 3,
+      "explanation": "The war guilt clause created a \"stab in the back\" narrative of German victimhood; reparations contributed to economic instability and hyperinflation. Together they created conditions of resentment and economic suffering that Hitler exploited to build mass support. His promise to tear up Versailles and restore German greatness resonated precisely because Versailles was genuinely experienced as unjust humiliation by most Germans."
+    },
+    {
+      "stimulus": null,
+      "question": "Gandhi's Salt March (1930) is considered a turning point in Indian resistance to British rule primarily because",
+      "options": [
+        "it demonstrated that mass non-violent civil disobedience could mobilize millions and expose the violence underlying British colonial authority",
+        "it resulted in the immediate independence of India from British control",
+        "it convinced the British Parliament to grant India dominion status equivalent to Canada",
+        "it triggered a violent confrontation that proved the Indian Army's willingness to fight British forces"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Salt March mobilized mass participation (Gandhi's 240-mile walk attracted thousands of followers and global media attention) and demonstrated the power of non-violent civil disobedience as a political strategy. Britain's response — arresting 60,000 protesters — revealed colonialism's dependence on coercive authority and generated international sympathy. It didn't achieve immediate independence but transformed the Indian independence movement into a global cause."
+    },
+    {
+      "stimulus": null,
+      "question": "Japan's establishment of Manchukuo (1931) was most significant as a demonstration that",
+      "options": [
+        "the League of Nations could successfully deter great-power aggression through economic sanctions",
+        "the international order established at Versailles could not prevent great-power aggression when the League lacked enforcement mechanisms",
+        "China's weak republican government had failed to modernize its military adequately",
+        "Japanese industrialization had produced military capabilities superior to any other Asian nation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The League condemned Japan's invasion, and Japan simply withdrew from the League (1933) and continued its expansion. This demonstrated that the post-WWI international order had no effective mechanism to stop a great power determined to use military force. It established a precedent that emboldened Italy (Ethiopia, 1935) and Germany (Rhineland, Austria, Czechoslovakia) to defy the international order."
+    },
+    {
+      "stimulus": null,
+      "question": "The interwar anti-colonial movements of the Indian National Congress and West African political organizations share which of the following characteristics?",
+      "options": [
+        "Both were primarily armed resistance movements that used violence to challenge colonial authority",
+        "Both were led by returning WWI veterans who organized on the basis of shared military experience",
+        "Both achieved independence for their respective territories during the interwar period",
+        "Both used education, political organizing, and appeals to self-determination principles to challenge colonial legitimacy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Both the Indian National Congress and West African political organizations used primarily non-violent political means: Gandhi's civil disobedience, West African congresses and newspapers, and explicit appeals to the Wilsonian language of self-determination that the Paris Peace Conference had denied them. Neither achieved independence in the interwar period — independence came after WWII — but both built the organizational infrastructure that made postwar independence possible."
+    }
+  ],
+  "saq": {
+    "parts": [],
+    "prompt": "Explain ONE way the Treaty of Versailles created conditions that contributed to World War II, and ONE way anti-colonial movements grew stronger in the interwar period despite imperial powers maintaining territorial control.",
+    "sampleAnswer": "*Versailles and WWII:* The Treaty of Versailles' \"war guilt\" clause forced Germany to accept sole responsibility for WWI and imposed reparations of $33 billion. This was experienced by Germans across the political spectrum as unjust humiliation. Hitler exploited this grievance — promising to tear up the treaty, restore German greatness, and reclaim \"stolen\" German territories — to build mass political support. Without the Versailles settlement's humiliation, Hitler's revisionist nationalism would have had far less popular appeal. *Growing anti-colonial strength:* The Indian National Congress, under Gandhi's leadership, developed non-violent civil disobedience as a mass political strategy that could mobilize millions. The Salt March (1930) demonstrated that ordinary Indians — including women, peasants, and the poor — could participate in anti-colonial resistance without military capacity. This organizational model built political consciousness and international visibility for Indian independence that would bear fruit after WWII, even though India remained under British control throughout the interwar period."
+  },
+  "leq": {
+    "outline": [],
+    "prompt": "Evaluate the extent to which the peace settlement after World War I represented a continuation of European imperialism rather than a new international order based on self-determination and collective security.",
+    "modelThesis": "The Paris Peace Settlement of 1919 was more a continuation of European imperialism than a genuine new international order: while it applied Wilsonian self-determination to white European populations (creating new states from former empires), it simultaneously extended European colonial control over non-European peoples through the mandate system and denied independence to colonial subjects across Asia, Africa, and the Middle East — demonstrating that \"self-determination\" was understood as a principle for Europeans only."
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. The Treaty of Versailles applied self-determination to white Europeans (new states of Poland, Czechoslovakia, Yugoslavia) but not to non-European colonial peoples (Palestine, Iraq, India, West Africa, Vietnam). What does this inconsistency reveal about the ideological assumptions behind Wilsonian liberalism?",
+      "modelAnswer": "The inconsistency reveals that Wilsonian self-determination was never understood as a universal principle applying equally to all peoples. Wilson and the European Allied leaders operated within a framework shaped by racial hierarchy and the \"civilizing mission\" — the assumption that non-European peoples were not yet \"ready\" for self-governance and required European tutelage. The mandate system made this explicit: non-European territories were placed under \"advanced\" nations' administration to be \"prepared\" for eventual independence — implying they couldn't govern themselves immediately. This double standard was not a hypocrisy that embarrassed the Paris peacemakers; it reflected their genuine belief in a racial hierarchy that placed European peoples at a different stage of political development. Ho Chi Minh, who tried to present a petition requesting Vietnamese self-determination at Paris, directly experienced this exclusion. The inconsistency delegitimized Wilsonian liberalism among many colonial intellectuals and drove them toward Marxism, which theoretically offered universal class solidarity across racial lines, as an alternative framework for anti-colonial struggle."
+    },
+    {
+      "question": "2. Japan in the 1930s justified its expansion in Asia as liberating Asian peoples from Western imperialism. Why does most historical scholarship reject this justification?",
+      "modelAnswer": "The most direct refutation is behavioral: Japan's actual conduct in occupied territories was not liberation but brutal colonial control. The Nanjing Massacre (December 1937–January 1938) — in which Japanese troops killed an estimated 200,000 Chinese civilians and POWs and committed widespread rape — is the most extreme example. Korea (colonized since 1910) experienced forced labor, cultural suppression (Koreans were forced to take Japanese names), and sexual slavery (the \"comfort women\" system). Indonesian workers under Japanese occupation suffered forced labor and food extraction. Manchukuo was run as a Japanese economic colony, extracting coal and iron while the puppet emperor Puyi had no real power. The \"Co-Prosperity Sphere\" substituted Japanese imperial exploitation for Western — it was pan-Asian ideology in service of Japanese national interest. This doesn't mean Western imperialism was acceptable — it means that replacing one imperialism with another isn't liberation."
+    },
+    {
+      "question": "3. Gandhi's non-violent civil disobedience strategy was specifically designed for the Indian independence movement against Britain. Why was non-violence a strategically smart choice in this particular context?",
+      "modelAnswer": "Non-violent civil disobedience was strategically brilliant for several interconnected reasons. First, India lacked the military capacity to fight Britain directly — a violent independence movement would be crushed. Non-violence allowed mass participation by people (women, the elderly, the poor) who could not fight militarily but could boycott, strike, and protest. Second, non-violence shifted the moral terrain: when the British arrested 60,000 peaceful protesters during the Salt March, it was British imperialism that appeared violent and oppressive, not the independence movement. Third, Gandhi understood that British public opinion mattered — British colonialism required enough popular support or indifference at home to sustain; images of British soldiers beating peaceful protesters eroded that support. Fourth, India's huge population made non-violent mass protest practically impossible for Britain to suppress without enormous violence — which would be politically costly. This is why Gandhi's strategy worked better against democratic Britain than it would have against a totalitarian state that was indifferent to international opinion and willing to use any level of violence."
+    },
+    {
+      "question": "4. The League of Nations failed to prevent Japanese expansion in Manchuria (1931) and Italian invasion of Ethiopia (1935). What structural weaknesses made it ineffective?",
+      "modelAnswer": "The League had several fatal structural weaknesses. First, the United States never joined — the Senate rejected Wilson's treaty, depriving the League of the world's largest economy and emerging military power. Second, the League had no independent military force; collective security required member states to contribute troops, which they were unwilling to do when their own interests weren't directly threatened. Third, voting required unanimity for major actions, giving any great power veto-like authority. Fourth, the League's major members — Britain and France — were themselves colonial powers who had competed for territory at the peace settlement; they had limited moral authority and political will to prevent others from doing what they themselves had done. Fifth, the League's powers were persuasive (resolutions, recommendations) rather than coercive — when Japan and Italy defied League resolutions, the League had no enforcement mechanism that didn't require member states' voluntary military action."
+    },
+    {
+      "question": "5. The AP CED describes the interwar period as one in which \"Western and Japanese imperial states predominantly maintained control over colonial holdings\" but also \"faced anti-imperial resistance.\" How can both of these things be true simultaneously?",
+      "modelAnswer": "Both are true because \"maintaining control\" and \"facing resistance\" operate at different scales and timeframes. In the short term, all anti-colonial resistance movements in the interwar period failed to achieve independence — India, Vietnam, West Africa, Indonesia were all still colonies in 1939. British and French control remained in force; Japan expanded its empire. So in terms of territorial control, imperial powers maintained or increased their holdings. But simultaneously, the anti-colonial movements were building organizational capacity, political consciousness, and international networks that would make decolonization possible after WWII. The Indian National Congress that mobilized millions in the Salt March (1930) was the same organization that won Indian independence in 1947. The West African congresses and newspapers of the 1920s–30s were training grounds for the generation that led Ghana, Nigeria, and Senegal to independence in the 1950s–60s. Maintaining colonial control in the short term while facing growing resistance is not a contradiction — it describes the transition period in which empires are undermined from within before they formally collapse."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

@@ -1,0 +1,350 @@
+{
+  "course": "ap-world-history",
+  "num": "4.4",
+  "title": "Maritime Empires Established",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "🏛️",
+      "label": "Governance",
+      "tooltip": "European states — Portugal, Spain, the Dutch Republic, England, France — built overseas empires using armed trading posts, colonial settlements, and forced tribute systems."
+    },
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "The silver extracted from Spanish American mines (Potosí, Zacatecas) fueled global trade networks, causing inflation in Europe and stimulating commerce from China to the Ottoman Empire."
+    },
+    {
+      "icon": "👥",
+      "label": "Social",
+      "tooltip": "The establishment of maritime empires created new multi-racial, hierarchical colonial societies blending European, Indigenous, and African peoples under European legal and cultural domination."
+    },
+    {
+      "icon": "🌍",
+      "label": "Interactions",
+      "tooltip": "European maritime empires forced economic and political integration of distant regions — linking the Americas, Africa, Europe, and Asia into a single connected commercial world."
+    }
+  ],
+  "tldr": [
+    "**LO-A: European trading posts in Africa and Asia —** Portugal and later the Dutch, English, and French established fortified trading posts at strategic ports around Africa and Asia. These posts were profitable for the rulers and merchants involved in the new global trade networks — they weren't governing large territories, just taxing and controlling the sea lanes. The Portuguese network (Goa, Malacca, Hormuz) is the classic model. **Asian states respond: isolationism —:** Not all Asian states accepted European commercial presence. Ming China and Tokugawa Japan both adopted restrictive or isolationist trade policies to limit the \"disruptive economic and cultural effects\" (AP exam's language) of European-dominated long-distance trade. Japan's Sakoku (1635–1853) allowed trade only with the Dutch, and only at one port (Dejima, Nagasaki). China's Haijin (sea ban) restricted maritime trade for much of this period.",
+    "**LO-B: Explain continuities and changes in economic systems and… —** **African states grow —:** Some African states grew more powerful through participation in Atlantic trade networks. The Asante Empire (modern Ghana) and the Kingdom of Kongo became major players in the Atlantic economy, though this involvement deeply entangled them with the slave trade. Their participation in trading networks increased their regional influence even as it produced devastating social consequences. **Indian Ocean trade continues —:** European arrival disrupted but did not destroy the existing Indian Ocean trade network. Indigenous Asian merchants — Swahili Arabs, Omanis, Gujaratis, Javanese — continued to operate and, in some periods, actively competed with and resisted European commercial dominance. Intra-Asian trade actually expanded in this period even as Europeans tried to monopolize it.",
+    "**LO-C: Explain changes and continuities in systems of slavery… —** **New labor systems in the Americas —:** Colonial economies in the Americas required labor. Four systems emerged: the *encomienda* (labor rights over indigenous people granted to Spanish settlers); the *hacienda* (large landed estate using debt peonage); the Incan *mit'a* (adapted by Spanish for silver mining); and *chattel slavery* (African enslaved people as property, most intensively in Caribbean and Brazil). Indentured servitude was used mainly in English colonies."
+  ],
+  "learningObjectives": [
+    "Explain the process of state building and expansion among various empires and states from 1450 to 1750",
+    "Explain continuities and changes in economic systems and labor systems from 1450 to 1750",
+    "Explain changes and continuities in systems of slavery from 1450 to 1750"
+  ],
+  "vocabulary": [
+    {
+      "term": "Encomienda",
+      "definition": "A Spanish colonial system granting a encomendero (colonist) the right to demand labor and tribute from indigenous people in a defined area in exchange for providing \"protection\" and Christian education.",
+      "importance": "AP exam-named labor system; effectively a form of forced labor that contributed to the demographic collapse of indigenous populations alongside disease; eventually phased out as indigenous populations collapsed, replaced by hacienda and African chattel slavery."
+    },
+    {
+      "term": "Hacienda",
+      "definition": "A large Spanish colonial agricultural estate whose indigenous workers were bound through debt peonage — owing labor to the landowner to pay off debts they could rarely escape.",
+      "importance": "AP exam-named labor system; replaced encomienda as the primary system of labor extraction in Spanish America as indigenous populations declined; persisted well beyond the colonial period in Latin America."
+    },
+    {
+      "term": "Mit'a",
+      "definition": "An Incan state labor obligation requiring each community to provide a rotating portion of its workers for public projects; adapted by the Spanish to force indigenous Andeans to work in silver mines.",
+      "importance": "AP exam-named existing labor system; the Spanish colonial mit'a forced tens of thousands of Andean men to work in the Potosí silver mines under deadly conditions — an example of how European colonizers adapted pre-existing indigenous institutions for extractive colonial purposes."
+    },
+    {
+      "term": "Chattel Slavery",
+      "definition": "A form of slavery in which enslaved people are treated as movable property ( chattels ) — bought, sold, inherited, and mortgaged, with children of enslaved mothers automatically enslaved.",
+      "importance": "AP exam-named labor system; the defining institution of the Atlantic plantation economy; qualitatively different from most pre-existing slavery systems in denying all legal personhood to enslaved people."
+    },
+    {
+      "term": "Sakoku",
+      "definition": "Japan's \"closed country\" policy under the Tokugawa shogunate (1635–1853), which restricted foreign trade to Dutch and Chinese merchants at the single port of Dejima (Nagasaki) and prohibited Japanese from leaving or foreigners from entering.",
+      "importance": "AP exam illustrative example of an Asian state adopting isolationist trade policies in response to European commercial expansion; allowed Japan to control the pace and content of foreign influence while maintaining access to useful European technology."
+    },
+    {
+      "term": "Asante Empire",
+      "definition": "A powerful West African state in present-day Ghana that grew through participation in Atlantic trade networks from the late 17th century, exporting gold and enslaved captives in exchange for European goods, especially firearms.",
+      "importance": "AP exam illustrative example of an African state that increased its regional influence through maritime trade; the Asante used firearms acquired through trade to expand their territory and power."
+    },
+    {
+      "term": "Kingdom of Kongo",
+      "definition": "A powerful Central African kingdom (present-day Angola and DRC) that engaged extensively with Portuguese traders from the late 15th century, initially as diplomatic partners but increasingly as a source of enslaved captives for the Atlantic trade.",
+      "importance": "Kongo's participation in Atlantic trade initially increased its influence but eventually destabilized it as the slave trade's demand overwhelmed diplomatic relationships."
+    },
+    {
+      "term": "Indentured Servitude",
+      "definition": "A labor contract in which a worker agrees to work for a set period (typically 4–7 years) in exchange for passage to the Americas; workers were legally bound to their employer for the contract period.",
+      "importance": "AP exam-named labor system; used primarily in English North American colonies; unlike chattel slavery, had a defined endpoint and did not apply to children; nevertheless constituted a form of coerced labor for the contract period."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Why did Japan's Tokugawa shogunate choose to severely restrict foreign trade (Sakoku) in the 1630s, while simultaneously allowing limited Dutch trade at a single port? What does this selective engagement reveal about Japanese strategic thinking?",
+      "answer": "The Tokugawa shogunate feared that unrestricted foreign trade would undermine its domestic political control in two ways: economically (wealthy merchant families profiting from trade could challenge the shogunate's political dominance) and culturally/religiously (Christianity, spread by Portuguese and Spanish missionaries who accompanied traders, threatened to divide Japanese society along religious lines as it had in Europe). Allowing only the Dutch — who were Protestant, not Catholic, and explicitly commercial rather than missionary — at one controlled location (Dejima) gave Japan access to European technology and information while eliminating the religious conversion threat. This is the sophisticated logic of selective engagement: not isolation from all foreign contact, but careful management of which foreign contacts were permitted."
+    },
+    {
+      "question": "Why did the Spanish use the existing Inca mit'a labor system for silver mining at Potosí rather than building an entirely new labor system from scratch?",
+      "answer": "The mit'a was already established, understood by indigenous populations, and had existing administrative infrastructure. Rather than creating a new labor system in an unfamiliar environment, the Spanish adapted an existing one — requiring each Andean community to send a rotating percentage of its working-age men to work at Potosí for fixed periods. This approach reduced the administrative cost of labor recruitment and leveraged the existing organizational relationships between indigenous communities and their leaders. It is an example of a broader colonial pattern: European powers adapted and modified indigenous institutions rather than replacing them entirely, which was more efficient but also more exploitative since it converted a community service system into forced labor for extractive colonial purposes."
+    },
+    {
+      "question": "The Kingdom of Kongo initially engaged enthusiastically with Portuguese traders, with King Afonso I (1509–1543) converting to Christianity and building close diplomatic ties with Lisbon. How did this partnership eventually become destructive for the Kingdom of Kongo?",
+      "answer": "The Portuguese partnership, initially beneficial (access to European goods, diplomatic prestige, Christian allies), became destructive because the primary commodity the Portuguese ultimately wanted from the Kongo region was enslaved people. As the Atlantic slave trade expanded, Portuguese and later other European traders used commercial and military pressure to extract enslaved captives from Kongo territory. Even Afonso I wrote letters to the Portuguese king protesting the slave trade's devastation of his kingdom — but was ignored. The Kingdom of Kongo eventually fractured under the pressures of the slave trade, which created internal warfare and raiding as different factions competed to capture and sell rivals. This is a pattern across West and Central Africa: commercial partnership with Atlantic traders that began on roughly equal terms eventually became exploitative as demand for enslaved labor grew to dominate the relationship."
+    },
+    {
+      "question": "What is the essential difference between chattel slavery (as practiced in the Atlantic system) and traditional slavery as it existed in Africa and many other pre-modern societies?",
+      "answer": "Traditional slavery in Africa and most pre-modern societies treated enslaved people as people with a subordinate social status — they could own property in some societies, their children were often free, they could sometimes purchase their freedom, and they were incorporated into households with certain relational obligations between enslaved person and enslaver. Chattel slavery, as developed in the Atlantic plantation system, treated enslaved people as property — movable goods that could be bought, sold, inherited, mortgaged, and owned with no recognition of personhood or any limit on the owner's power. Children of enslaved mothers were automatically enslaved, regardless of the father's status. The enslaved person had no legal rights, no recognized family relationships, and no path to freedom except through the owner's decision or escape. This was qualitatively different from most pre-existing slavery systems and was created specifically to provide a maximally exploitable labor force for the plantation economy."
+    },
+    {
+      "question": "Gujarat (northwest India) merchants were among the most active traders in the Indian Ocean long before Europeans arrived, and they continued trading actively after the Portuguese established their trading post empire. Why were the Portuguese unable to fully exclude indigenous Indian Ocean merchants from trade, despite their military advantage?",
+      "answer": "The Indian Ocean trade network was enormously large, complex, and had been operating for centuries. Portuguese naval forces were concentrated at a few strategic chokepoints (Hormuz, Goa, Malacca) and could not possibly patrol the entire ocean. Indigenous merchants used different routes, different ports, and different commercial networks than those the Portuguese tried to control. Furthermore, the Portuguese needed indigenous merchants as intermediaries — they didn't have the language skills, commercial relationships, or knowledge of local markets to conduct retail trade directly throughout Asia. The Portuguese could tax and sometimes disrupt intra-Asian trade, but they could not eliminate it. Gujarati, Javanese, and Swahili Arab merchants continued to conduct enormous volumes of trade independently of Portuguese oversight throughout the entire period. This is an important AP World History point: European \"dominance\" of ocean trade was always partial and contested, not total."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🗺️ European Trading Posts: Establishing a Presence"
+    },
+    {
+      "type": "paragraph",
+      "text": "After Portuguese navigators opened sea routes to Africa, the Indian Ocean, and the Americas in the late 15th century, European states began establishing permanent commercial presences in these regions. The model varied by location: in the Indian Ocean and along the African coast, the primary instrument was the **fortified trading post**; in the Americas, it was the **territorial colony**."
+    },
+    {
+      "type": "paragraph",
+      "text": "Portugal built its Indian Ocean network first. By 1515, it had seized control of three critical chokepoints: **Goa** (on India's western coast, 1510), controlling access to the rich cloth and spice markets of the Malabar Coast; **Malacca** (on the Malay Peninsula, 1511), controlling the strait between the Indian Ocean and the South China Sea; and **Hormuz** (at the mouth of the Persian Gulf, 1515), controlling access to the Persian and Ottoman markets. These posts were profitable — they allowed Portugal to tax maritime traffic and extract duties from Asian merchants passing through. They were also symbols of a new kind of commercial empire: one built on sea power and strategic geography rather than territorial conquest."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/4-4-0.jpg",
+      "alt": "A Portuguese fortified trading post on the coast of West Africa, with cannon walls, ships in harbor, and local merchants trading below",
+      "caption": "",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Portuguese *feitoria* (fortified trading post) — the building block of Europe's first global maritime empire. Rather than conquer territory, Portugal seized strategic chokepoints: Goa, Malacca, and Hormuz gave them control over the entire Indian Ocean trade network. AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "funFact",
+      "text": "Portugal in 1500 had a population of roughly 1.5 million people — smaller than modern Houston. Yet this tiny country built the world's first global maritime empire, with trading posts and forts from Brazil to West Africa to East Africa to India to Southeast Asia to China to Japan. How? Superior naval technology (cannon-armed ships), strategic geographic thinking (control the chokepoints, not the territories), and the willingness of the Portuguese crown to sustain investment over decades. Size, it turns out, matters less than strategy."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Dutch, English, and French followed similar models, competing with Portugal and each other for control of trading posts across the Indian Ocean and Southeast Asia from the late 16th century onward. The Dutch East India Company (VOC, established 1602) eventually displaced Portugal from most of its Southeast Asian trading posts. The English East India Company (established 1600) established posts on the Indian coast that would later become the foundation of British colonial India."
+    },
+    {
+      "type": "heading",
+      "text": "🏯 Asian Responses: Restriction and Selective Engagement"
+    },
+    {
+      "type": "paragraph",
+      "text": "European commercial expansion was not simply imposed on passive Asian states. Some of the most powerful Asian polities actively chose how to engage — or not engage — with European traders, and some chose restriction over integration."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Ming China** had a complex relationship with maritime trade. The *Haijin* (sea ban) policy, which restricted Chinese participation in private maritime trade, was in effect for much of the 14th–16th centuries, though it was inconsistently enforced and lifted periodically. When the Portuguese arrived at Guangzhou (Canton) in 1513, they were initially expelled. China eventually allowed Portugal a small trading base at Macao (1557) — keeping European commerce literally at arm's length from the Chinese mainland."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Tokugawa Japan** went further. After decades of civil war and concerns about the politically destabilizing effects of Christian missionary activity (spread through Portuguese and Spanish trade connections), the Tokugawa shogunate implemented the **Sakoku** (\"closed country\") policy between 1633–1639. This policy:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Expelled all Portuguese and Spanish traders and missionaries",
+        "Prohibited Japanese from traveling abroad (on penalty of death)",
+        "Allowed only Dutch and Chinese merchants to trade, and only at *Dejima*, an artificial island in Nagasaki harbor accessible only by a guarded bridge",
+        "Maintained this selective engagement for over two centuries (until 1853)"
+      ]
+    },
+    {
+      "type": "apTip",
+      "text": "The College Board says Asian states adopted restrictive policies to limit \"the disruptive economic and cultural effects of European-dominated long-distance trade.\" This is the language to use on the AP. The disruption was two kinds: (1) *economic* — European commercial activity could undermine domestic producers and existing elite merchant classes; (2) *cultural/religious* — Christian missionaries who traveled with traders threatened to divide societies along religious lines. Japan's Sakoku addressed both; China's policies addressed primarily the economic concern. Know both examples by name for the AP exam."
+    },
+    {
+      "type": "heading",
+      "text": "🌍 African States and Atlantic Trade"
+    },
+    {
+      "type": "paragraph",
+      "text": "The College Board emphasizes that the growth of Atlantic maritime trading networks created opportunities for some African states that \"led to an increase in their influence.\" Two illustrative examples:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The **Asante Empire** (in present-day Ghana) emerged in the late 17th century and rapidly expanded by leveraging its position at the center of West African gold and slave trades. Asante rulers used European firearms — acquired through Atlantic trade — to conquer neighboring peoples and extract tribute, building one of the most powerful states in West African history. The same Atlantic economy that was devastating other West African communities through the slave trade was providing the Asante with the tools to dominate their region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The **Kingdom of Kongo** provides a more complex and ultimately tragic story. Kongo was a sophisticated, centrally organized kingdom that initially engaged with Portuguese traders as equals — its king, Afonso I (r. 1509–1543), became Christian, sent ambassadors to Lisbon, and built a diplomatic relationship with Portugal. But the demand for enslaved people gradually overwhelmed this diplomatic partnership. By the 17th century, Kongo was deeply enmeshed in the slave trade, both as a source of enslaved captives and as a state whose internal politics were increasingly destabilized by the commercial pressures of Atlantic slaving. Afonso I wrote letters to the Portuguese king protesting the trade's destruction of his kingdom; he was politely ignored."
+    },
+    {
+      "type": "heading",
+      "text": "🌊 The Indian Ocean Trade: Continuity and Competition"
+    },
+    {
+      "type": "paragraph",
+      "text": "European arrival in the Indian Ocean did not destroy the existing trade network. The College Board emphasizes that \"existing trade networks in the Indian Ocean continued to flourish and included intra-Asian trade and Asian merchants\" — despite Portuguese, Dutch, and English attempts to monopolize commerce."
+    },
+    {
+      "type": "paragraph",
+      "text": "Indigenous Indian Ocean merchants — **Swahili Arabs** (East African coast), **Omanis** (Persian Gulf), **Gujaratis** (northwest India), and **Javanese** (Southeast Asia) — had operated sophisticated long-distance trade networks for centuries before Europeans arrived. They had commercial relationships, language skills, knowledge of seasonal winds, and community networks that Europeans could not replicate or easily displace. Europeans were most effective at the chokepoints they controlled militarily; away from those chokepoints, indigenous merchants continued operating largely as before."
+    },
+    {
+      "type": "funFact",
+      "text": "The Portuguese naval cannon was terrifying in its time — it could sink wooden dhows that couldn't fight back. But Portuguese naval power was concentrated at a few strategic forts. The Indian Ocean is enormous — roughly 28 million square miles. Gujarati cloth merchants, Javanese spice traders, and Swahili Arab dhow captains simply avoided Portuguese patrol zones, used alternative ports, and continued conducting enormous volumes of trade. By the 17th century, the total volume of intra-Asian trade in the Indian Ocean was many times larger than European trade — the Portuguese, Dutch, and English were significant but not dominant players in the world's largest oceanic trading system."
+    },
+    {
+      "type": "heading",
+      "text": "⛓️ New Labor Systems in the Americas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Colonial economies in the Americas were fundamentally agricultural and extractive — growing cash crops and mining precious metals for export to Europe. This required labor in environments where indigenous populations had been devastated by disease. European colonizers developed multiple labor systems to solve this problem:"
+    },
+    {
+      "type": "apTip",
+      "text": "The College Board explicitly names all five systems (encomienda, hacienda, mit'a, chattel slavery, indentured servitude) as labor systems in the Americas. The AP exam may ask you to compare them, explain why different systems developed in different regions, or explain how they changed over time. Key comparisons: encomienda/mit'a used indigenous labor; chattel slavery used African labor; indentured servitude used European (later Asian) labor. Each system reflected the available labor pool and the specific colonial economy it served."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 4.4",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+4.4",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "The Atlantic Slave Trade",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+The+Atlantic+Slave+Trade",
+      "creator": "Crash Course · 14 min"
+    },
+    {
+      "title": "The Columbian Exchange & Labor Systems",
+      "url": "https://www.youtube.com/results?search_query=YouTube+The+Columbian+Exchange+%26+Labor+Systems",
+      "creator": "YouTube · 10 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "\"In 1635, the Tokugawa shogunate prohibited Japanese subjects from traveling abroad and restricted all foreign trade to Dutch and Chinese merchants at the island of Dejima in Nagasaki. Portuguese and Spanish traders were expelled, and Japanese who had converted to Christianity were required to recant on pain of death.\"",
+      "question": "The Tokugawa policies described in the passage most directly illustrate which of the following?",
+      "options": [
+        "A) The failure of European states to maintain profitable trade with Asian markets",
+        "B) Japan's decision to end all participation in Indian Ocean trade networks",
+        "C) An Asian state limiting the economic and cultural disruption of European-dominated trade through selective restriction",
+        "D) The superiority of Dutch commercial methods compared to Portuguese and Spanish approaches"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage describes the Sakoku policy — restricting (not eliminating) foreign trade to one port with one approved partner, while expelling missionaries and banning the religion they spread. This is exactly the AP exam's description: an Asian state limiting \"the disruptive economic and cultural effects of European-dominated long-distance trade\" through selective restriction rather than total closure."
+    },
+    {
+      "stimulus": "\"The Spanish colonial encomienda system required each indigenous community to provide a set number of workers to Spanish settlers, who were supposed to provide Christian instruction and protection in return. In practice, workers were often treated brutally and the obligation included tribute payments that went far beyond the original grant's terms.\"",
+      "question": "The encomienda system as described in the passage most directly illustrates which of the following?",
+      "options": [
+        "A) A colonial labor system that combined legal coercion of indigenous labor with rhetorical justifications based on religious obligation",
+        "B) How European colonizers created entirely new labor institutions with no connection to existing indigenous practices",
+        "C) The successful integration of indigenous workers into the Spanish colonial economy as voluntary participants",
+        "D) Spain's use of African enslaved labor as the primary source of colonial agricultural production"
+      ],
+      "correctIndex": 0,
+      "explanation": "The encomienda was legally coercive (required labor) and justified through religious rhetoric (Christian instruction and protection) — a combination typical of colonial labor systems that used moral language to legitimize economic exploitation."
+    },
+    {
+      "stimulus": "\"Despite Portuguese naval patrols and taxation of Indian Ocean ports, Gujarati merchants continued to operate extensive trading networks between India, East Africa, and Southeast Asia throughout the 16th century. Contemporary Portuguese accounts complained that Gujarati merchants used alternative ports and routes to avoid Portuguese taxation.\"",
+      "question": "The situation described in the passage most directly supports which of the following conclusions?",
+      "options": [
+        "A) Portuguese naval power was sufficient to eliminate indigenous competition in Indian Ocean trade",
+        "B) The Portuguese trading post empire was primarily a cultural rather than commercial enterprise",
+        "C) Gujarati merchants were protected by Mughal political alliances that prevented Portuguese interference",
+        "D) Existing Indian Ocean trade networks showed significant continuity despite the disruption of European commercial expansion"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage explicitly shows Indian Ocean trade continuing despite European presence — Gujarati merchants using alternative routes to avoid Portuguese taxation. This illustrates the AP exam's point that existing trade \"continued to flourish\" despite European disruption."
+    },
+    {
+      "stimulus": "\"The Spanish colonial government adapted the Inca mit'a, requiring Andean communities to send a rotating quota of working-age men to the silver mines of Potosí. Between 1573 and 1800, an estimated 8 million people worked in the mines under this system, with a death rate so high that indigenous Andeans called Potosí 'the mountain that eats men.'\"",
+      "question": "The adapted mit'a described in the passage most directly illustrates which of the following?",
+      "options": [
+        "A) The failure of Spanish colonizers to develop new labor systems in the Andes",
+        "B) How European colonizers adapted existing indigenous labor institutions for the extractive purposes of colonial economies",
+        "C) The voluntary participation of Andean communities in Spanish colonial economic development",
+        "D) The Spanish decision to use African enslaved labor rather than indigenous labor in South American mines"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage describes exactly the AP exam's pattern: \"utilizing existing labor systems, including the Incan mit'a\" — adapting an indigenous institution (community labor obligation) for colonial extractive purposes (silver mining) in ways that devastated the communities it was extracted from."
+    },
+    {
+      "stimulus": "\"King Afonso I of the Kingdom of Kongo wrote to the King of Portugal in 1526: 'Each day the traders are kidnapping our people — children of this country, sons of our nobles and vassals, even people of our own family… We beg the King of Portugal not to allow this, because it is our will that in these kingdoms of Kongo there should not be any slave trade.'\"",
+      "question": "Afonso I's letter most directly illustrates which of the following about African states' engagement with Atlantic trade?",
+      "options": [
+        "A) Some African states that initially gained influence through Atlantic trade later found that trade's demand for enslaved people was destabilizing their societies",
+        "B) African rulers had no knowledge of the Atlantic slave trade and were unable to understand its consequences",
+        "C) The Kingdom of Kongo had never participated in any form of slavery before European contact",
+        "D) Portugal immediately suspended the slave trade in response to Afonso's protests"
+      ],
+      "correctIndex": 0,
+      "explanation": "Afonso's letter shows an African ruler who initially benefited from Atlantic commercial partnerships now recognizing that the slave trade's demand was destroying his own kingdom from within. This illustrates the complex trajectory: initial influence increase through trade, followed by destabilization as the trade's most destructive demand (enslaved people) came to dominate the relationship."
+    }
+  ],
+  "saq": {
+    "context": "\"In the period 1450–1750, European maritime expansion established new trading networks that fundamentally altered economic and labor systems across the world. While some Asian states restricted European commercial access and some African states used Atlantic trade to increase their power, the colonial economies of the Americas depended on coerced labor systems that transformed the social structure of three continents.\"",
+    "directions": "Answer all three parts.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Explain ONE way an Asian state limited the effects of European maritime expansion in the period 1450–1750.",
+        "sampleAnswer": "The Tokugawa shogunate of Japan implemented the Sakoku (closed country) policy beginning in the 1630s, restricting all foreign trade to Dutch and Chinese merchants at the single port of Dejima in Nagasaki. This policy expelled Portuguese and Spanish traders along with their Christian missionaries, preventing both the economic disruption of unrestricted foreign commerce and the cultural/religious disruption of Christian conversion — which the shogunate feared would divide Japanese society and potentially serve as the basis for foreign political intervention."
+      },
+      {
+        "label": "Part B",
+        "task": "Describe ONE labor system that European colonizers used in the Americas in the period 1450–1750 and explain how it exploited the available labor pool.",
+        "sampleAnswer": "The encomienda system, used in Spanish America from the early 16th century, granted Spanish colonists (*encomenderos*) legal rights to the labor and tribute of indigenous people in a defined area, justified through the requirement to provide Christian instruction and \"protection.\" In practice, encomenderos extracted labor through coercion with minimal supervision or legal accountability, contributing to the demographic collapse of already disease-devastated indigenous populations. The system exploited the existing indigenous population — the only labor pool available to early Spanish colonizers — until disease reduced that population so severely that African chattel slavery became the replacement."
+      },
+      {
+        "label": "Part C",
+        "task": "Explain how the participation of African states in Atlantic trade networks both increased their influence and created long-term destabilization, using ONE specific example.",
+        "sampleAnswer": "The Kingdom of Kongo initially increased its regional influence through Atlantic commercial partnerships with Portugal beginning in the late 15th century — gaining access to European goods, diplomatic prestige, and military materials while building a Christian diplomatic alliance with Lisbon. However, as the Atlantic slave trade intensified in the 16th and 17th centuries, the demand for enslaved captives gradually overwhelmed this diplomatic partnership, as Portuguese and other traders used commercial pressure and armed intervention to extract enslaved people from Kongolese territory. The kingdom's internal politics became increasingly destabilized by competition among factions over who controlled access to Atlantic trade — ultimately fragmenting a once-powerful state. Kongo's experience demonstrates that commercial engagement with Atlantic trade networks could initially enhance a state's power while ultimately destabilizing it as the trade's most destructive demand came to dominate the relationship."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Body 1 — Major transformations (Americas)",
+        "text": "New labor systems (encomienda, mit'a adaptation, chattel slavery, indentured servitude); Atlantic slave trade as new economic system; plantation agriculture as new production model."
+      },
+      {
+        "label": "Body 2 — Significant continuities (Indian Ocean, Asia)",
+        "text": "Indian Ocean trade continued with indigenous merchants; Asian states like Japan and China managed European access through restriction; African states adapted to rather than were simply transformed by Atlantic commerce."
+      }
+    ],
+    "prompt": "\"Evaluate the extent to which European maritime expansion transformed existing economic and labor systems in the period 1450–1750.\"",
+    "note": "Consider both change (new labor systems, new trade networks) and continuity (Indian Ocean trade persisted; pre-existing labor practices like the mit'a were adapted, not replaced).",
+    "thesisExample": "\"European maritime expansion transformed economic and labor systems to a significant but uneven extent in the period 1450–1750 — introducing fundamentally new labor institutions (Atlantic chattel slavery, encomienda) in the Americas while leaving existing Indian Ocean trade networks largely intact, demonstrating that the scope of transformation depended on the degree of European territorial control and the vulnerability created by indigenous population collapse.\""
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. Why did the Spanish use different labor systems (encomienda in the Caribbean and Mexico, mit'a-adapted system in the Andes, chattel slavery in the Caribbean) in different parts of their empire? What factors determined which system was used where?",
+      "modelAnswer": "The choice of labor system reflected the available labor pool, the existing indigenous institutional structure, and the specific economic demands of each region. In the Caribbean, indigenous populations collapsed so rapidly from disease that encomienda became unworkable within decades — there were no indigenous people left to encomienda — and African chattel slavery became the replacement. In Mexico, where a larger indigenous population survived (though greatly reduced), encomienda persisted longer. In the Andes, the existing Inca mit'a system provided ready-made administrative infrastructure that the Spanish adapted for silver mining at Potosí — it was more efficient to modify an existing system than to build a new one. Efficiency, available populations, and pre-existing administrative structures all shaped which labor system was deployed where."
+    },
+    {
+      "question": "2. Why did Japan allow Dutch but not Portuguese or Spanish traders? What does this selective policy reveal about the Tokugawa shogunate's concerns?",
+      "modelAnswer": "The Portuguese and Spanish brought missionaries — Jesuit and Franciscan priests who actively sought to convert Japanese people to Christianity and who achieved considerable success before the shogunate began suppressing Christianity. By the 1620s, there were hundreds of thousands of Japanese Christians, some in politically sensitive positions. The shogunate feared that religious loyalty to Rome might compete with loyalty to the shogunate, and that Christian communities could serve as fifth columns for Portuguese or Spanish military intervention. The Dutch were acceptable because they were Protestant (not Catholic, not sending missionaries to Rome), explicitly commercial (they famously told Japanese officials they had no interest in religious conversion), and willing to accept humiliating conditions (Dutch traders at Dejima had to prostrate themselves before Japanese officials). The shogunate got European goods and information without the missionary threat. This selective policy was sophisticated strategic management, not naive isolationism."
+    },
+    {
+      "question": "3. Compare the experiences of the Asante Empire and the Kingdom of Kongo in their engagement with Atlantic trade networks. Why did similar engagement produce different outcomes?",
+      "modelAnswer": "Both the Asante and Kongo were powerful African states that became major participants in the Atlantic economy, and both initially increased their regional influence through that participation. The key difference was timing and structural position. Kongo engaged with Portuguese traders from the 1480s onward, when Portugal was the dominant Atlantic power and the slave trade was in its early, less massive phase. Kongo's early partnership gave it diplomatic leverage, but as the slave trade intensified in the 17th century, Kongo found itself unable to manage the destabilizing effects — its territory became a source of captives fueling internal warfare. The Asante engaged later (late 17th century onward) and from the beginning used Atlantic trade (especially access to firearms) as a tool of expansion — they were slave-raiders and slave-sellers, not victims. The Asante's later entry and more aggressive strategic use of Atlantic trade tools allowed it to profit where Kongo ultimately suffered."
+    },
+    {
+      "question": "4. What made chattel slavery, as developed in the Atlantic system, qualitatively different from most pre-existing forms of slavery in Africa and Eurasia?",
+      "modelAnswer": "Atlantic chattel slavery differed from most pre-existing slavery in several fundamental ways. First, it was hereditary — children of enslaved mothers were automatically enslaved regardless of the father's status, creating a self-reproducing enslaved population. Most pre-existing slavery systems did not automatically enslave children, meaning the enslaved population had to be continuously replenished through capture. Second, it was permanent — most pre-existing slavery systems included paths to freedom through manumission (the owner's choice), earning enough to purchase freedom, or serving for a fixed term. Atlantic chattel slavery offered no path to freedom except escape or the owner's decision. Third, it stripped all legal personhood — enslaved people under the Atlantic system had no legal rights, no recognized family relationships, and no protections against abuse. Many pre-existing slavery systems, including in Africa, included obligations on the enslaver toward the enslaved. The Atlantic system was designed to maximize labor extraction with minimal constraint on owners, producing a uniquely dehumanizing institution."
+    },
+    {
+      "question": "5. The AP exam's emphasizes that Indian Ocean trade \"continued to flourish\" despite European disruption. What does this tell us about the limits of European power in the period 1450–1750?",
+      "modelAnswer": "The persistence of indigenous Indian Ocean trade networks reveals that European power in this period was real but limited — concentrated at strategic chokepoints, reliant on naval superiority, but unable to control the vast spaces of the ocean itself. European states could establish fortified posts and impose taxes on traffic that passed their ports, but they lacked the administrative capacity, the commercial relationships, and frankly the ships to patrol millions of square miles of ocean. Gujarati merchants could simply use different ports; Javanese traders could route around Portuguese patrol zones; Swahili Arabs could choose different seasons and different routes. The lesson is important for understanding the entire period: European dominance was a gradual process, not an instantaneous imposition, and for most of 1450–1750 it was partial, contested, and incomplete — especially outside the Americas where disease had not provided the catastrophic demographic opening that made territorial colonization possible."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

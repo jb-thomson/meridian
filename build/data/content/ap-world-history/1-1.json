@@ -1,126 +1,385 @@
 {
   "course": "ap-world-history",
-  "unitNum": 1,
   "num": "1.1",
-  "title": "Developments in East Asia from c. 1200 to c. 1450",
-  "dateRange": "c. 1200 – c. 1450",
+  "title": "Developments in East Asia",
   "status": "complete",
-  "tldr": "Between 1200 and 1450, the Song dynasty (and later the Yuan and early Ming) kept China the most powerful, wealthiest, and most technologically advanced state in the world. A revived civil service exam system picked officials by merit instead of birth, a huge population boom was fueled by new fast-ripening rice from Champa (Vietnam), and Chinese goods, ideas, and money circulated across Asia. Mongol conquest interrupted Song rule but the Ming dynasty that followed rebuilt a strong, centralized, Confucian state.",
-  "learningObjectives": [
-    "Explain how various beliefs and practices influenced the political, economic, and social structures of East Asia during this period.",
-    "Explain the causes and effects of the Song economic revolution.",
-    "Explain the significance of Chinese cultural traditions on neighboring societies."
-  ],
-  "keyConcepts": [
-    "Confucianism and Neo-Confucianism shaped the government, family life, and social hierarchy of China.",
-    "The scholar-official class, chosen through civil service examinations, ran the imperial bureaucracy.",
-    "Economic growth was driven by agricultural innovation, expanded trade, and technological advancement.",
-    "China's tributary system extended its cultural and political influence over Japan, Korea, and Vietnam."
-  ],
-  "vocabulary": [
-    {"term": "Civil service examination", "definition": "A standardized test on Confucian classics that determined who could become a government official in China — in theory open to any man, regardless of family wealth.", "importance": "It's the single biggest reason historians call Song China's bureaucracy a meritocracy rather than a hereditary aristocracy — the AP exam rewards you for naming this system specifically, not just saying \"China had good government.\"", "example": "A farmer's son who spent a decade studying Confucian texts could, if he passed, outrank a nobleman's son who never took the exam."},
-    {"term": "Scholar-gentry", "definition": "The class of educated, exam-qualified men (and their families) who staffed the Chinese bureaucracy and held the highest social status below the emperor.", "importance": "This class becomes the model for Chinese elite identity for centuries — you'll see \"scholar-official\" values referenced again when Ming and Qing China come up later in the course."},
-    {"term": "Neo-Confucianism", "definition": "A revived and updated version of Confucian philosophy, popular from the Song dynasty onward, that blended traditional Confucian ethics with Buddhist and Daoist ideas about the universe.", "importance": "Shows how a belief system can change over time while still claiming to be \"traditional\" — a good example of continuity and change to use in an essay."},
-    {"term": "Champa rice", "definition": "A fast-ripening, drought-resistant rice variety introduced from Vietnam that allowed Chinese farmers to grow two or three crops a year instead of one, fueling a massive population boom.", "importance": "One of the clearest cause-and-effect chains in the whole course: one crop variety → population boom → urbanization → economic growth. Great example for a causation essay.", "example": "A field that used to produce one rice harvest a year could now produce two or three, without needing any new land."},
-    {"term": "Tributary system", "definition": "A diplomatic and trade arrangement in which neighboring states sent gifts and symbolic recognition of Chinese superiority to the emperor in exchange for trade access and protection."},
-    {"term": "Footbinding", "definition": "A painful practice, spreading among elite Chinese families from the Song dynasty onward, of tightly wrapping young girls' feet to keep them small — a marker of status that also restricted women's mobility."},
-    {"term": "Filial piety", "definition": "The Confucian value of respect, obedience, and care owed by children to their parents and ancestors — a foundation of Chinese social order."}
-  ],
-  "narrative": [
-    "Picture a teenager in the year 1250, somewhere in the Chinese countryside, studying by candlelight. He isn't studying math or science — he's memorizing the *Analects* of Confucius, a book written over 1,500 years earlier. Why? Because if he can pass a series of brutally difficult exams on Confucian philosophy, he could become a government official, lift his entire family out of poverty, and earn more respect than almost anyone except the emperor himself. This is the world of Song dynasty China — a place where ideas, not just birth, could make you powerful.",
-    "China had been unified and reunified many times before 1200, but the Song dynasty (960–1279) is remembered as one of the most impressive periods in Chinese history — not mainly for conquest, but for government, economy, and culture. The Song emperors leaned hard into an old idea: that the best way to run a huge empire was with educated officials chosen by merit, not by noble birth. To make this work at scale, the Song dramatically expanded the **civil service examination** system. Young men from a wide range of backgrounds — not just the old aristocracy — studied for years to master Confucian classics, poetry, and law, then sat for exams that could take days. Pass, and you might become a magistrate running a county of thousands of people. Fail, and you'd try again next cycle, or go home. It wasn't a perfectly open system — studying for years took money and time most farming families didn't have — but compared to the hereditary aristocracies running most of the world in 1200, it was revolutionary. The officials who passed became known as the **scholar-gentry**, a class that blended intellectual prestige with real political power.",
-    "Confucian philosophy shaped far more than the exams. Confucius had taught that society works best when everyone understands their proper role and relationships — ruler and subject, parent and child, husband and wife — and treats those relationships with respect and duty. During the Song dynasty, a group of scholars built on these older ideas to create **Neo-Confucianism**, adding in questions about the nature of the universe that were partly inspired by centuries of competition with Buddhism and Daoism. Neo-Confucianism reinforced strict hierarchies at every level of society, including inside the family. **Filial piety** — deep respect and duty toward one's parents and ancestors — was treated as one of the highest virtues a person could have. Women were expected to be obedient first to fathers, then husbands, then sons. Among wealthy families, the practice of **footbinding** spread during this period: young girls' feet were tightly bound to keep them small, a painful practice associated with beauty, status, and restricted movement. It's important to note footbinding was mostly an elite and, later, an urban middle-class practice — many working women, especially in the countryside, could not afford to have their labor limited this way.",
-    "While Confucian philosophy shaped Song society, an agricultural breakthrough transformed its economy. Sometime around the 11th century, Chinese farmers gained access to **Champa rice** — a fast-ripening, drought-tolerant rice variety from what is now central Vietnam. Because it matured faster than traditional rice, farmers in southern China could now harvest two or even three crops in a single year instead of one. More food meant a population boom: China's population may have roughly doubled between 750 and 1200, with historians estimating Song China's population reached well over 100 million — making it almost certainly the most populous state on Earth at the time. That surplus of food and people fed rapidly growing cities. Song China's capital cities, first Kaifeng and later Hangzhou, were probably the largest cities in the world at the time, home to well over a million residents each, with restaurants, entertainment districts, paper money, and multi-story buildings that stunned foreign visitors.",
-    "This economic boom came with real technological leadership. Song China refined gunpowder for use in early bombs and fire lances, printed books using movable type centuries before Gutenberg in Europe, built oceangoing ships equipped with the magnetic compass, and became the first society in the world to issue government-backed paper money at scale, because merchants got tired of hauling around heavy strings of copper coins. None of these innovations happened in a vacuum — they moved along the trade networks connecting China to Central Asia, the Indian Ocean, and beyond, a story you'll pick up again in Unit 2.",
-    "China's power radiated outward through the **tributary system**. Neighboring states like Korea, Vietnam, and — more loosely — Japan, sent regular embassies to the Chinese court bearing gifts and formally acknowledging the Chinese emperor as the superior power in the region. In return, these states received valuable trade access, political legitimacy, and often useful goods or protection. It wasn't full political control — Korea, Vietnam, and Japan all kept their own governments, and Japan in particular kept a lot of distance — but Chinese writing, Confucian government models, Buddhism, and Chinese-style architecture and administration spread widely across East Asia through this network of trade and diplomacy, deeply shaping neighboring cultures for centuries.",
-    "Song rule did not last forever. In the 13th century, the Mongols — who you'll study in depth in Unit 2 — conquered all of China, ending the Song dynasty in 1279 and founding the Yuan dynasty under Kublai Khan. Mongol rulers kept some Chinese administrative structures but largely sidelined the Confucian scholar-gentry, preferring to rely on Mongols and other foreigners for top positions — a source of deep resentment among Chinese elites. Yuan rule collapsed by 1368, and a rebel leader named Zhu Yuanzhang founded the **Ming dynasty**, driving the Mongols back to the steppe and deliberately restoring Confucian civil service exams, scholar-gentry authority, and a strong centralized bureaucracy. By 1450, Ming China stood as one of the wealthiest, most populous, and most technologically sophisticated states on the planet — a position it would use, starting in the early 1400s, to send massive tribute-collecting fleets across the Indian Ocean under the admiral Zheng He, a story that connects directly to Unit 2."
-  ],
-  "funFacts": [
-    "Song dynasty Hangzhou may have had over a million residents at a time when London's population was closer to 15,000–20,000.",
-    "Chinese printers were using movable type by the 1040s — roughly 400 years before Johannes Gutenberg's printing press in Europe.",
-    "The civil service exams were so competitive that some men took them their entire lives without ever passing — and a small number of extremely dedicated (or stubborn) test-takers were still sitting for exams in their 80s."
-  ],
-  "apTips": [
-    "When you see \"Song China\" on the exam, immediately think: civil service exams (meritocracy), Neo-Confucianism, Champa rice → population growth → urbanization, and technological leadership (printing, gunpowder, compass, paper money). Those five ideas connect to almost every question College Board asks about this topic.",
-    "Don't confuse the tributary system with direct political control. The AP exam rewards precise language — Korea, Vietnam, and Japan were culturally and diplomatically influenced by China, not ruled by China. Say \"influence,\" not \"control,\" unless you're specifically talking about a period of direct conquest."
-  ],
-  "illustrativeExamples": [
-    "Civil service examinations based on Confucian classics as a mechanism of elite social mobility.",
-    "Champa rice from Vietnam as a cause of Song-era agricultural and population growth.",
-    "Chinese cultural influence on Japan, Korea, and Vietnam through the tributary system."
-  ],
-  "discussionQuestions": [
+  "themes": [
     {
-      "question": "Was the Song civil service exam system truly a \"meritocracy\"? What advantages might wealthy families still have had, even if the exams were technically open to all men?",
-      "modelAnswer": "It was more merit-based than the hereditary aristocracies common elsewhere in the world at the time, since in theory any man could rise through study rather than birth alone. But it wasn't a level playing field: preparing for the exams required years of expensive tutoring, books, and free time — resources poor farming families rarely had. Wealthy families could also afford to support a son through repeated failed attempts, while a poor family needed every able body working the fields. So the system expanded opportunity beyond the old nobility, but it still favored those who already had money and leisure time."
+      "icon": "🏛️",
+      "label": "Political",
+      "tooltip": "The Song Dynasty (960–1279) governed through a meritocratic civil service exam system, creating a professional bureaucracy of scholar-officials drawn from the gentry class. This was arguably the world's most sophisticated administrative state at the time — and it set patterns that lasted for nearly a thousand years."
     },
     {
-      "question": "How did a change in agriculture (Champa rice) end up changing government, cities, and culture? Walk through the chain of cause and effect.",
-      "modelAnswer": "Champa rice ripened faster and needed less water, so farmers in southern China could grow two or three crops a year instead of one. That produced a large food surplus, which allowed the population to grow rapidly. A bigger population — especially people freed from constant farm labor by the food surplus — moved into cities, driving urbanization and the growth of huge commercial centers like Hangzhou. Denser cities and a wealthier merchant class created demand for innovations like paper money, printed books, and new luxury goods, and gave the government more people and resources to tax, fund a large bureaucracy, and project power abroad. A single agricultural change, in other words, rippled outward into economic, social, and political transformation."
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "Champa rice enabled double harvests, fueling a population boom and China's emergence as the world's most commercially active economy. Paper money, credit networks, and a thriving export trade in silk and porcelain made Song China a global economic powerhouse centuries before Europe's commercial revolution."
+    },
+    {
+      "icon": "🎨",
+      "label": "Culture",
+      "tooltip": "Neo-Confucianism — philosopher Zhu Xi's synthesis of Confucian ethics with Buddhist and Daoist metaphysics — became the dominant intellectual framework of the era. It shaped education, family hierarchy, gender roles, and political philosophy throughout East Asia for centuries."
+    },
+    {
+      "icon": "⚙️",
+      "label": "Technology",
+      "tooltip": "Song China led the world in technological innovation: printing with movable type, gunpowder weapons, the magnetic compass, and paper currency all appeared or matured here. These technologies later spread west via Mongol and Islamic networks and transformed Afro-Eurasia."
+    },
+    {
+      "icon": "🌍",
+      "label": "Interactions",
+      "tooltip": "China organized its relationships with neighboring states — Korea, Japan, Vietnam, and Southeast Asian kingdoms — through the tribute system: foreign rulers performed rituals acknowledging Chinese cultural superiority in exchange for trade rights and diplomatic recognition, creating a China-centered regional order."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Song political system —** The Song (960–1279) selected officials via competitive civil service exams testing Confucian learning — not birth or military rank. This produced a literate professional bureaucracy (the gentry class) capable of governing 100 million people, but left the dynasty militarily weak, ultimately contributing to its fall to the Mongols in 1279.",
+    "**LO-B: Explain causes and effects of Song China's economic… —** **Agricultural and commercial revolution —:** Champa rice (from Vietnam) ripened twice a year, doubling food production. This surplus supported population growth to ~100 million, urbanization, and commercialization. Paper money, the Grand Canal, and Indian Ocean trade networks made Song China the wealthiest economy in the world.",
+    "**LO-C: Explain how Neo-Confucianism shaped Chinese society —** **Neo-Confucianism's social effects —:** Zhu Xi's synthesis became official state ideology, reinforcing patriarchal hierarchies. Elite women's lives became increasingly restricted; foot-binding spread as a physical expression of Neo-Confucian gender ideology — painful, disabling, and a marker of status.",
+    "**LO-D: Explain how Chinese innovations spread and influenced other… —** **Technology with global reach —:** Printing, gunpowder, the compass, and paper money originated or matured in Song China. These technologies spread west via Mongol networks, eventually triggering the European military revolution, the Age of Exploration, and the Reformation — their most transformative effects occurring centuries later and thousands of miles away."
+  ],
+  "learningObjectives": [
+    "Explain how Song Dynasty political systems were maintained and legitimized",
+    "Explain causes and effects of Song China's economic expansion",
+    "Explain how Neo-Confucianism shaped Chinese society",
+    "Explain how Chinese innovations spread and influenced other regions"
+  ],
+  "vocabulary": [
+    {
+      "term": "Song Dynasty",
+      "definition": "Chinese dynasty ruling 960–1279 CE; split into Northern Song (960–1127, capital Kaifeng) and Southern Song (1127–1279, capital Hangzhou) after Jurchen invasion.",
+      "importance": "Peak of pre-modern Chinese economic and technological development; the civil service system, commercial economy, and innovations of this era shaped East Asian history for centuries."
+    },
+    {
+      "term": "Civil Service Exam",
+      "definition": "A competitive written examination testing mastery of Confucian texts, used to select government officials.",
+      "importance": "Created a meritocratic (in theory) bureaucracy from the educated gentry rather than hereditary nobility; reinforced Confucian values throughout Chinese society and governance for nearly a thousand years."
+    },
+    {
+      "term": "Neo-Confucianism",
+      "definition": "A revival and synthesis of Confucian thought incorporating Buddhist metaphysics and Daoist cosmology; associated especially with Zhu Xi (1130–1200 CE).",
+      "importance": "Became official ideology of the Song court and later dynasties; shaped education, gender roles, family structure, and political philosophy throughout East Asia for centuries."
+    },
+    {
+      "term": "Champa Rice",
+      "definition": "A fast-ripening, drought-resistant rice strain from the Champa kingdom (present-day Vietnam), adopted in China during the Song period.",
+      "importance": "Doubled rice yields by enabling two annual harvests; supported China's population growth to ~100 million and fueled commercialization of the economy."
+    },
+    {
+      "term": "Tribute System",
+      "definition": "A diplomatic framework in which neighboring rulers sent missions with gifts and performed rituals of deference to the Chinese emperor, in exchange for trade rights and recognition.",
+      "importance": "Organized China's relationships with Korea, Japan, Vietnam, and Southeast Asian kingdoms; created a China-centered regional order without requiring direct conquest."
+    },
+    {
+      "term": "Gentry",
+      "definition": "China's educated landowning class who staffed the civil bureaucracy; ranked below the imperial family but above merchants and farmers in Confucian hierarchy.",
+      "importance": "Dominated Chinese political and cultural life for centuries; the exam system reinforced their dominance by requiring expensive years of Confucian education to compete successfully."
+    },
+    {
+      "term": "Paper Money (Jiaozi)",
+      "definition": "The world's first government-issued paper currency, introduced in Song China to facilitate large-scale commerce.",
+      "importance": "Reflected the sophistication of Song financial systems; later adopted by the Mongol Yuan Dynasty and influenced global monetary practices. Made large transactions practical without heavy metal coinage."
+    },
+    {
+      "term": "Foot-Binding",
+      "definition": "The practice of tightly wrapping young girls' feet to restrict growth, producing small arched \"lotus feet\" considered beautiful among Song elites.",
+      "importance": "Spread during the Song as a physical expression of Neo-Confucian gender ideology — restricting women's mobility and marking a family's status. Persisted until the early 20th century, affecting hundreds of millions of women."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "The Song Dynasty's civil service exam required mastery of Confucian texts, not military skill. What was the most significant political consequence of this design?",
+      "answer": "The exam produced highly competent civilian administrators but not effective military commanders. The gentry officials who staffed the bureaucracy were trained to govern, not to fight. This left the Song structurally dependent on professional soldiers and vulnerable to nomadic military pressure — the dynasty paid tribute to the Khitan and Jurchen rather than defeat them, and ultimately fell to the Mongols. The exam's strength (professional governance) and weakness (military vulnerability) were two sides of the same design choice."
+    },
+    {
+      "question": "Champa rice enabled double harvests in China. Using a chain of causation, explain how a single agricultural innovation could reshape an entire society's economy and social structure.",
+      "answer": "Champa rice ripened in 60 days (vs. 120–150), enabling two harvests/year → doubled food production → food surplus → larger population AND labor freed from farming → workers moved to cities, specialized in manufacturing and trade → urban demand for goods grew → commercialization of the economy → paper money and credit emerged to facilitate trade. A single agricultural innovation cascaded into urbanization, specialization, and market integration — each effect becoming the cause of the next."
+    },
+    {
+      "question": "Neo-Confucianism is described as both conservative and innovative. What evidence supports each side?",
+      "answer": "Conservative: Neo-Confucianism reaffirmed the five hierarchical relationships (ruler/subject, father/son, husband/wife, etc.) and strengthened patriarchal control over women, reflected in the spread of foot-binding during the Song. Innovative: Philosopher Zhu Xi synthesized classical Confucianism with Buddhist metaphysics (the concept of an underlying cosmic principle, *li*) and Daoist cosmology, creating a philosophically richer system than anything classical Confucianism offered. Conservative in social prescriptions; intellectually creative in philosophical foundations."
+    },
+    {
+      "question": "Chinese innovations — printing, gunpowder, compass, paper money — were produced under the Song but had their most transformative global effects centuries later and thousands of miles away. What historical concept explains this pattern?",
+      "answer": "This illustrates *diffusion with a lag* and *contingency*: technologies transfer across cultural and geographic boundaries over time, and their impact depends on the social conditions at the receiving end. Gunpowder was most disruptive in politically fragmented Europe, where cannon fire shattered feudal castles. Printing disrupted the Church's monopoly on books in Europe but reinforced a unified literate culture in China. The same technology produces different effects in different contexts — and the most transformative effects often occur not at the point of origin but where the technology meets conditions that amplify its disruption."
+    },
+    {
+      "question": "Neighboring rulers performed tribute rituals acknowledging Chinese cultural superiority. Why might a ruler genuinely powerful enough to resist accept this arrangement?",
+      "answer": "The tribute system was a diplomatic transaction, not pure submission. For the Chinese emperor, tribute missions demonstrated universal authority without military campaigns. For neighboring rulers, the ritual cost (symbolic deference) bought access to trade with the world's wealthiest economy, Chinese diplomatic recognition (legitimizing their rule at home), and often gifts from the emperor that matched or exceeded what they sent. The ceremony was theater; the real exchange was economic and political. A ruler could be militarily capable of resisting yet still choose to participate because the material benefits were worth the symbolic concession."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "The Song Dynasty: Governing One of the World's Largest States"
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/1-1-0.jpg",
+      "alt": "Song Dynasty civil service examinations",
+      "caption": "Song-era examinations attracted thousands of candidates competing for a handful of positions. The exams tested mastery of the Confucian classics and literary composition.",
+      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 960 CE, a military commander named Zhao Kuangyin unified a fragmented China and founded the **Song Dynasty**. At its height, Song China was home to approximately 100 million people — the world's largest population — and governed through what was arguably the most sophisticated administrative system on earth."
+    },
+    {
+      "type": "paragraph",
+      "text": "The heart of that system was the **civil service exam**. To become a government official at any level, a man had to pass competitive written examinations testing his mastery of the Confucian classics — the *Analects*, the *Book of Rites*, the *Book of History*, and similar texts. The exams were brutally competitive: pass rates routinely fell below 5 percent, and candidates might spend decades studying and retaking examinations. Yet the system was theoretically open to any literate male Chinese subject, declaring in principle that governance was a matter of learning and virtue rather than birth."
+    },
+    {
+      "type": "paragraph",
+      "text": "In practice, the **gentry** — wealthy landowning families who could afford years of expensive tutoring — dominated the examinations. But the symbolic openness of the system was culturally powerful: it declared that the right to govern derived from Confucian learning, not hereditary privilege. Officials produced by this system staffed a massive, literate bureaucracy managing taxation, public works, law, and military logistics across an enormous empire. The exam also served an ideological function: officials trained on Confucian texts shared a common worldview centered on loyalty, hierarchy, and moral governance — making them reliable servants of the imperial system rather than agents of regional warlords."
+    },
+    {
+      "type": "apTip",
+      "text": "The civil service exam is a classic AP example of how a state *maintains and legitimizes* political authority. The Song used it to (1) select competent administrators, (2) reinforce Confucian ideology as the basis of good governance, and (3) create officials whose identity and loyalty were tied to the state rather than to regional powers. Know both its political benefits and its military limitation — it produced scholars, not soldiers."
+    },
+    {
+      "type": "heading",
+      "text": "The Agricultural and Commercial Revolution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Song China's economic expansion rested on a foundation of rice. During the Song period, farmers across south China widely adopted **Champa rice**, a fast-ripening strain imported from the Champa kingdom in present-day Vietnam. Champa rice matured in 60 days — less than half the time of existing varieties — and was drought-resistant enough to grow on hillsides and less-fertile land previously unsuitable for cultivation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The effects cascaded through Chinese society:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "A farmer who had harvested one crop per year could now harvest two — doubling household income.",
+        "Food surpluses fed a population that climbed toward 100 million — the world's largest at the time.",
+        "Surplus labor flowed into cities, where workers specialized in manufacturing silk, porcelain, and paper goods for domestic and export markets.",
+        "Wealthier, urbanized consumers demanded more goods, driving further commercial expansion."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The Song government supported commerce with infrastructure. The **Grand Canal** — expanded from its Sui Dynasty origins — linked the rice-producing Yangtze River Delta to the capital in the north, enabling enormous volumes of goods to flow via inland waterways. The Song issued the world's first government paper currency — *jiaozi* — enabling merchants to conduct large transactions without carting heavy metal coins. Credit instruments, letters of exchange, and proto-banking networks emerged to support long-distance trade. Chinese merchants exported silk, porcelain, and tea via Indian Ocean networks reaching Southeast Asia, South Asia, and the Persian Gulf."
+    },
+    {
+      "type": "funFact",
+      "text": "Song China's city of Hangzhou — capital of the Southern Song — may have reached 1.5 million inhabitants by the 12th century. For comparison, Paris (Europe's largest city at the time) had roughly 200,000. Marco Polo visited Hangzhou in the late 13th century after the Mongol conquest and described it as \"the finest and noblest city in the world\" — a city so wealthy and refined that his European audience assumed he was exaggerating."
+    },
+    {
+      "type": "heading",
+      "text": "Neo-Confucianism: Philosophy, Society, and Gender"
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/1-1-1.jpg",
+      "alt": "Portrait of Neo-Confucian philosopher Zhu Xi",
+      "caption": "Zhu Xi (1130–1200), whose philosophical synthesis became the official ideology of the Song court and later dynasties across East Asia.",
+      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Song period also produced a philosophical revolution. **Neo-Confucianism**, associated especially with the philosopher **Zhu Xi** (1130–1200), was both a revival of classical Confucian ethics and a creative synthesis incorporating Buddhist and Daoist ideas. Zhu Xi argued that all things — including human moral nature — are governed by an underlying cosmic principle (*li*), and that self-cultivation through study, reflection, and ritual practice aligns the individual with this universal order. The goal was a person of perfect virtue and social harmony."
+    },
+    {
+      "type": "paragraph",
+      "text": "Neo-Confucianism became the official curriculum for the civil service exams, shaping the worldview of every official who governed China for the next six centuries. It spread to Korea, Japan, and Vietnam, where it influenced governance, education, and family life across East Asia. In that sense, Neo-Confucianism was one of the most culturally influential intellectual movements of the pre-modern world."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the core of Confucian ethics was **filial piety** (*xiào*) — deep reverence for parents and ancestors, considered the foundational virtue from which all other social bonds derived. The respect owed to a parent modeled the loyalty owed to a ruler; the care given to elders modeled the benevolence expected of officials. Ancestor veneration rituals were a practical daily expression of filial piety across East Asia. Buddhism also continued to shape the region alongside Confucianism. **Mahayana Buddhism** — dominant in China, Korea, Japan, and Vietnam — emphasized the *bodhisattva* ideal: an enlightened being who delays nirvana to help all sentient beings achieve salvation. In the Himalayan region and Mongolia, **Tibetan Buddhism** developed distinctive practices including a hierarchy of reincarnating lamas. In mainland Southeast Asia, **Theravada Buddhism** (\"Way of the Elders\") focused on individual monastic practice and the monastery as the center of community life. These Buddhist traditions coexisted with Confucian ethics — most educated East Asians drew on both."
+    },
+    {
+      "type": "paragraph",
+      "text": "But Neo-Confucianism also had a restrictive social face. Its emphasis on the five hierarchical relationships — especially the subordination of wife to husband, daughter to father — intensified patriarchal control over women's lives. The Song period saw a dramatic increase in the practice of **foot-binding** among elite families: the tightly wrapping of young girls' feet from age five or six to prevent normal growth. The resulting \"lotus feet\" — just three to four inches long — were considered beautiful and refined within the Neo-Confucian cultural framework, but required breaking the arch and several toes. Bound feet caused permanent disability and chronic pain, yet became a mark of status, femininity, and family honor. The practice eventually spread beyond the elite and persisted in China until the early 20th century."
+    },
+    {
+      "type": "heading",
+      "text": "Manufacturing and Export: Steel, Silk, and Porcelain"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Song commercial revolution was not only agricultural — it was industrial. Song China led the world in manufacturing output, and its goods circulated across Afro-Eurasia through Indian Ocean and overland Silk Road networks."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Iron and steel:** By the early 11th century, ironworks in northern China were processing an estimated 125,000 tons of iron per year — more than all of medieval Europe combined. Iron equipped Song armies, supplied artisan workshops, and provided the tools that sustained agricultural productivity. Song metallurgists also mastered early steel production, creating harder and more durable implements than simple iron alone. This industrial-scale metalwork was a defining feature of Song economic power."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Textiles and ceramics for export:** Chinese silk had traveled Eurasian trade routes for centuries; under the Song, silk and cotton textile production became major urban industries employing thousands of specialized workers. Song porcelain — thin, translucent, and precisely fired — was the most prized ceramic ware in the world, exported across the Indian Ocean to Southeast Asia, the Persian Gulf, East Africa, and the Middle East. The English word \"china\" for fine ceramic ware reflects this product's geographic origin. Together, textiles and ceramics drove Song export commerce and generated enormous merchant wealth."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Printing:** Bi Sheng's movable-type printing (c. 1040) allowed mass production of books — Confucian classics, agricultural manuals, and government records. Printed books helped standardize Neo-Confucian thought and spread Chinese literary culture to Korea, Japan, and Vietnam, reinforcing the shared intellectual framework that bound East Asia together."
+    },
+    {
+      "type": "heading",
+      "text": "The Tribute System: Organizing East Asia's International Order"
+    },
+    {
+      "type": "paragraph",
+      "text": "Song China's relationships with neighboring peoples were organized through the **tribute system**. Foreign rulers — from Korean kings to Japanese emperors to Southeast Asian monarchs — sent periodic missions to the Chinese imperial court bearing gifts and performing rituals acknowledging Chinese cultural superiority. The lead envoy performed the *kowtow* (ritual prostration) before the emperor. In return, the emperor recognized the foreign ruler's legitimacy, granted trade rights, and typically returned gifts of comparable or greater value."
+    },
+    {
+      "type": "paragraph",
+      "text": "The system served both parties. For the Chinese emperor, tribute missions were public theater demonstrating universal authority without military campaigns. For neighboring rulers, participation bought access to trade with the wealthiest economy in the region, formal diplomatic recognition that legitimized their rule at home, and sometimes Chinese protection. The ritual submission was theater; the real exchange was economic and political. This explains why states perfectly capable of resisting Chinese military pressure — like the Goryeo Dynasty of Korea or the various Vietnamese kingdoms — still participated regularly."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the same time, the Song faced constant military pressure from the north. The Khitan people's Liao Dynasty controlled territory north of the Great Wall; the Song paid them annual tribute in silk and silver to maintain a fragile peace. After 1127, the Jurchen Jin Dynasty conquered northern China, forcing the Song court south to Hangzhou — beginning the **Southern Song period**. The dynasty survived in the south for another 150 years, prosperous but territorially diminished, until Kublai Khan's Mongol forces completed their conquest in 1279."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 1.1",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+1.1",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "China",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+China",
+      "creator": "Crash Course · 12 min"
+    },
+    {
+      "title": "Song Dynasty Overview",
+      "url": "https://www.youtube.com/results?search_query=YouTube+Song+Dynasty+Overview",
+      "creator": "YouTube · video"
     }
   ],
   "multipleChoice": [
     {
-      "question": "Which of the following most directly contributed to the rapid population growth in Song China?",
-      "options": ["The spread of Neo-Confucian philosophy", "The introduction of fast-ripening Champa rice", "The founding of the tributary system", "The invention of gunpowder weapons"],
-      "correctIndex": 1,
-      "explanation": "Champa rice matured faster and tolerated drought better than traditional rice varieties, allowing farmers to harvest multiple crops per year. The resulting food surplus is the direct cause historians point to for Song China's population boom. The other options relate to Song China but did not directly cause population growth."
+      "stimulus": "\"Candidates who fail the examinations in any province return home and study more — they do not consider it shameful to fail and try again. Those who succeed feel their achievement honors their family and their village.\" — Song-era account of the examination system",
+      "question": "Which of the following best explains why the Song court promoted the civil service examination system described in the passage?",
+      "options": [
+        "To create loyal, educated officials who governed according to Confucian principles",
+        "To ensure that government positions were equally distributed among all social classes",
+        "To limit the military's influence over civilian governance",
+        "To generate revenue for the imperial treasury through examination fees"
+      ],
+      "correctIndex": 0,
+      "explanation": "The exam selected officials based on Confucian learning, producing a bureaucracy aligned with the court's ideology and trained to govern according to Confucian principles of order, loyalty, and moral governance. This served the Song's political interest in reliable, ideologically committed administrators. (B) is wrong — the system heavily favored the wealthy gentry. (C) is true in effect but not the primary stated purpose. (D) is not supported by evidence."
     },
     {
-      "question": "The Song dynasty civil service examination system primarily served to",
-      "options": ["guarantee political power to the hereditary aristocracy", "select government officials based on knowledge of Confucian texts", "convert the population to Buddhism", "distribute land equally among peasant farmers"],
-      "correctIndex": 1,
-      "explanation": "The exams tested mastery of Confucian classics and were used to select officials for the imperial bureaucracy — the scholar-gentry class. They were explicitly designed as an alternative to inherited aristocratic power, not a guarantee of it."
-    },
-    {
-      "question": "Which best describes the relationship between Song/Ming China and neighboring states like Korea and Vietnam under the tributary system?",
-      "options": ["Direct military occupation and political annexation", "Complete diplomatic and economic isolation", "Formal recognition of Chinese superiority in exchange for trade access and legitimacy, without full political control", "An equal alliance with no hierarchy implied"],
+      "stimulus": null,
+      "question": "The adoption of Champa rice during the Song Dynasty contributed most directly to which of the following?",
+      "options": [
+        "The expansion of China's tributary relationships with Southeast Asian states",
+        "The spread of Buddhism throughout the Yangtze River Delta",
+        "Population growth and increased commercialization of the Chinese economy",
+        "Increased military conflicts with nomadic groups on the northern frontier"
+      ],
       "correctIndex": 2,
-      "explanation": "The tributary system involved neighboring states sending embassies and gifts that symbolically acknowledged Chinese superiority, in return for trade privileges and political legitimacy — while generally retaining their own independent governments, unlike direct conquest."
+      "explanation": "Faster-ripening Champa rice enabled double harvests, dramatically increasing food production. This supported population growth to ~100 million and freed labor for urban manufacturing and trade, commercializing the economy. The other options are not directly caused by this agricultural change — tribute relations involved separate political calculations (A), Buddhism's spread preceded Champa rice adoption (B), and northern military pressure was a pre-existing problem (D)."
     },
     {
-      "question": "A historian arguing that Song China was the most economically advanced society in the world circa 1200 would most likely cite which of the following as evidence?",
-      "options": ["The size of the Song military compared to European kingdoms", "The use of paper money, movable-type printing, and large cities like Hangzhou", "The strict enforcement of Neo-Confucian gender roles", "The Mongol conquest of the Song dynasty"],
+      "stimulus": "\"The Song government issued paper currency called 'jiaozi' — certificates of deposit originally created by merchants — which the state eventually took over and printed in large quantities to pay its expenses. By the 12th century, paper money had largely replaced copper coin in large commercial transactions across urban China.\"",
+      "question": "The development described in the passage most directly illustrates which of the following about the Song Dynasty?",
+      "options": [
+        "The Song state successfully eliminated private merchant activity by nationalizing currency",
+        "The commercialization of the Song economy produced financial innovations that increased the state's fiscal capacity",
+        "Paper currency caused economic instability that weakened the Song government's ability to fund its military",
+        "Song commercial innovations spread rapidly to other Eurasian civilizations through overland trade routes"
+      ],
       "correctIndex": 1,
-      "explanation": "Government-issued paper currency, movable-type printing, and enormous commercial cities are direct evidence of economic sophistication and urbanization. The other options either aren't about economic advancement or (in the case of the Mongol conquest) mark the end of Song rule rather than evidence of its strength."
+      "explanation": "The passage shows a feedback loop between commercial growth and state capacity: merchants invented financial instruments to serve trade, the state adopted and scaled them, and the result was a more efficient fiscal system. This illustrates how economic development and state development reinforced each other under the Song. (A) is wrong — the state expanded currency, it didn't eliminate merchants. (C) may have happened eventually, but is not what the passage describes. (D) is not supported by the passage."
     },
     {
-      "question": "Which of the following is the best example of continuity between the Song and Ming dynasties, despite the intervening period of Mongol Yuan rule?",
-      "options": ["Both dynasties abolished the civil service examination system", "Both dynasties restored Confucian scholar-gentry bureaucracy after periods of disruption", "Both dynasties were founded by Mongol conquerors", "Both dynasties rejected agricultural innovation"],
-      "correctIndex": 1,
-      "explanation": "The Ming dynasty, founded in 1368 after the collapse of Mongol Yuan rule, deliberately restored the civil service exam system and Confucian scholar-gentry authority that had flourished under the Song — a clear continuity in how China organized its government, even though the exams had been sidelined under the Yuan."
+      "stimulus": "\"Zhu Xi wrote: 'The woman's duty is to care for the household, to be obedient to her husband, and not to meddle in outside affairs. Only by confining herself to the inner quarters and fulfilling her proper role can she be considered virtuous.' These teachings were incorporated into the civil service curriculum and became the standard for educated men's expectations of women.\"",
+      "question": "The passage best supports which of the following conclusions about Neo-Confucianism in Song China?",
+      "options": [
+        "Neo-Confucian ideology reduced women's legal rights, eliminating protections that had existed under earlier Tang Dynasty law",
+        "Neo-Confucianism's emphasis on female virtue led directly to the practice of foot-binding as a symbol of elite status",
+        "Zhu Xi's personal views on gender were rejected by Song emperors, who preferred more egalitarian Daoist alternatives",
+        "The state's promotion of Neo-Confucian texts through the civil service exam reinforced patriarchal social structures across all levels of society"
+      ],
+      "correctIndex": 3,
+      "explanation": "The key mechanism here is institutional: Neo-Confucian texts became the curriculum for the civil service exam, which all aspiring officials had to pass. This meant that patriarchal gender expectations were not just private opinions but state-endorsed ideology instilled in every member of the administrative class — and thus spread throughout society through governance and education. (A) makes a specific legal claim not supported by the passage. (C) is historically inaccurate — Song emperors promoted Neo-Confucianism. (B) may have historical connections but goes beyond what the passage supports."
+    },
+    {
+      "stimulus": "\"Song Chinese engineers developed gunpowder weapons including fire arrows, bombs, and early cannons by the 10th century — primarily for use against nomadic cavalry on the northern frontier. Despite this military innovation, the Song Dynasty ultimately fell to the Mongols in 1279, unable to prevent the conquest of their capital.\"",
+      "question": "The situation described in the passage best illustrates which of the following historical arguments?",
+      "options": [
+        "Technological innovation in warfare consistently determines the outcome of conflicts between sedentary and nomadic peoples",
+        "The Song Dynasty's civilian-dominated government systematically under-invested in military technology, explaining its eventual defeat",
+        "Military technology alone is insufficient to guarantee state survival when facing a strategically superior opponent with larger resources",
+        "Gunpowder weapons were ineffective against cavalry armies until European improvements in the 15th century"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage shows a paradox: the Song had the most advanced gunpowder weapons of their era but still fell to the Mongols. This directly supports the argument that technology is one factor among many — strategy, manpower, logistics, and political cohesion also matter. The Mongols adapted their tactics to counter Song defenses and maintained overwhelming military pressure over decades. (A) is falsified by the passage itself. (B) is not supported — the Song invested significantly in military technology. (D) is historically inaccurate; Song gunpowder weapons were effective in many engagements."
     }
   ],
   "saq": {
-    "prompt": "Using the passage above, answer parts A, B, and C.\n(A) Describe ONE way the Song dynasty civil service examination system affected Chinese society.\n(B) Explain ONE cause of population growth in Song China.\n(C) Explain ONE way China's tributary system affected a neighboring society between 1200 and 1450.",
-    "sampleAnswer": "(A) The civil service exam system created a scholar-gentry class whose social and political status came from education and exam success rather than inherited noble birth, opening a path to power for some families outside the traditional aristocracy.\n(B) The introduction of fast-ripening, drought-resistant Champa rice from Vietnam allowed farmers to grow multiple rice crops per year instead of one, producing a large food surplus that supported rapid population growth.\n(C) Through the tributary system, Korea adopted Confucian-style administrative structures and Chinese writing, deepening Chinese cultural and political influence over the Korean court even though Korea remained politically independent."
+    "context": "\"The Song Dynasty represents one of the most sophisticated civilizations of the pre-modern world — its bureaucratic system, commercial economy, and technological achievements stood without parallel in their time. Yet it fell to the Mongols in 1279, unable to defend against nomadic military power despite its administrative and economic strength.\"",
+    "directions": "Answer parts A, B, and C with direct, specific responses. Do not write an essay.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Briefly describe ONE specific way the civil service examination system served the Song Dynasty's political interests.",
+        "sampleAnswer": "The exam produced officials deeply educated in Confucian ideology, making them loyal to the imperial state's Confucian principles rather than to regional warlords. Officials derived their identity and status from the dynasty's exam system, giving them strong personal incentives to maintain it. This created a bureaucracy ideologically aligned with the court rather than with local aristocratic families who might challenge central authority."
+      },
+      {
+        "label": "Part B",
+        "task": "Briefly explain ONE cause of the Song Dynasty's military vulnerability to the Mongols.",
+        "sampleAnswer": "The civil service exam system's emphasis on literary and Confucian skills over military expertise meant that the scholar-officials staffing the government were not trained military commanders. The Song relied on separate professional soldier classes, and civilian oversight of military affairs often hampered tactical decision-making. The Mongols, by contrast, built their entire society and identity around mounted warfare. When the Mongols achieved military supremacy in Central Asia and destroyed the Jin Dynasty in northern China, the Song lacked the military culture and leadership to mount an effective counter-strategy."
+      },
+      {
+        "label": "Part C",
+        "task": "Briefly explain ONE way Chinese innovations from the Song period influenced developments in another world region.",
+        "sampleAnswer": "Chinese gunpowder technology, weaponized during the Song, spread westward via Mongol networks in the 13th century and reached Europe by the 14th century. By the 15th century, European rulers were deploying cannons capable of destroying the stone walls of feudal castles — making fortified aristocratic strongholds obsolete. This military revolution contributed to the political centralization of early modern European states, as kings with cannon could defeat previously autonomous nobles. An innovation born in Song China thus reshaped the political structure of a continent half a world away."
+      }
+    ]
   },
   "leq": {
-    "prompt": "Evaluate the extent to which the civil service examination system changed Chinese society in the period c. 1200 to c. 1450.",
-    "modelThesis": "While the Song and Ming civil service examination system opened new avenues of political power to a broader (if still limited) group of talented men and reinforced Confucian values throughout the government, it changed the mechanism of elite selection far more than it changed the underlying social hierarchy itself, since wealth, family support, and traditional gender roles continued to determine who could realistically compete for power."
+    "outline": [
+      {
+        "label": "Contextualization",
+        "text": "Describe the politically fragmented Five Dynasties period (907–960) before the Song to establish what changed when the dynasty unified China under a stable central government."
+      },
+      {
+        "label": "Evidence — Body paragraph 1 (Champa rice)",
+        "text": "Double harvests → food surplus → population growth to ~100 million → labor freed for urban manufacturing and trade → commercialization of economy → paper money and credit emerge."
+      },
+      {
+        "label": "Evidence — Body paragraph 2 (supporting factors)",
+        "text": "Grand Canal infrastructure, paper currency (*jiaozi*), maritime trade networks via Indian Ocean; civil service system created stable governance that protected commerce."
+      },
+      {
+        "label": "Complexity (counter-argument)",
+        "text": "Address that technological innovations (printing, iron production) also contributed — but argue these depended on the surplus labor and capital generated by the agricultural revolution to scale up."
+      },
+      {
+        "label": "Historical reasoning",
+        "text": "Causation — argue that Champa rice was a *necessary precondition* for other causes, making it more fundamental. Without the agricultural surplus, there would have been no urbanization, no freed labor for manufacturing, and no commercial demand to stimulate further development."
+      }
+    ],
+    "prompt": "Evaluate the most significant cause of the Song Dynasty's economic expansion during the period c. 960–1279 CE.",
+    "note": "Write a full essay with thesis, contextualization, evidence, and historical reasoning. This prompt rewards a strong causal argument — pick one cause and defend it as most significant relative to others. Targeted historical reasoning skill: Causation.",
+    "thesisExample": "Strong thesis: \"Although political stability and technological innovation contributed to Song economic growth, the agricultural transformation driven by Champa rice was the most significant cause of the Song Dynasty's economic expansion because it generated the food surpluses that enabled population growth, urbanization, and labor specialization — the fundamental preconditions for all other economic developments.\""
   },
-  "images": [
+  "discussionQuestions": [
     {
-      "type": "public_domain_historical",
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg",
-      "alt": "Detail from the 12th-century Chinese handscroll painting Along the River During the Qingming Festival, showing a crowded riverside street in a Song dynasty city with merchants, boats, and multi-story buildings.",
-      "caption": "Detail from \"Along the River During the Qingming Festival,\" attributed to Zhang Zeduan, a Song-dynasty court painter (11th–12th century). The scroll captures the bustling commercial life of a Song Chinese city in extraordinary detail.",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg",
-      "attribution": "Zhang Zeduan (attributed), Northern Song dynasty, via Wikimedia Commons",
-      "license": "Public domain (original work created centuries ago; author died over 100 years ago)"
+      "question": "How did the civil service exam system both strengthen and weaken the Song Dynasty?",
+      "modelAnswer": "**Strength:** The exam produced a highly competent, ideologically unified civilian bureaucracy. Officials shared Confucian values, were literate, and governed according to consistent principles across a 100-million-person empire. This administrative capacity was without parallel in the world at the time.\n\n**Weakness:** By prioritizing literary and Confucian skills, the exam selected scholars rather than military commanders. The dynasty repeatedly paid tribute to nomadic powers (Khitan, Jurchen) rather than defeat them. The same system that made Song governance exceptional made Song military strategy conservative and often inadequate — and ultimately contributed to the dynasty's fall to the Mongols in 1279."
     },
     {
-      "type": "ai_generated",
-      "src": null,
-      "alt": "AI-generated illustration of a Song dynasty civil service examination hall, with candidates in individual writing cubicles under the watch of an examiner.",
-      "caption": "An artist's reconstruction of a Song dynasty examination hall, where candidates sat for days in individual cubicles writing their responses to Confucian-classics questions.",
-      "regenPrompt": "A wide, detailed historical illustration of a Chinese Song dynasty (11th century) civil service examination hall: rows of small individual wooden writing cubicles (kaoshi cubicles), young male candidates in Song-era scholar robes writing intently by candlelight, a stern robed examiner walking the aisle, warm lantern lighting, historically accurate Song dynasty architecture and clothing, painterly educational illustration style, no modern elements, no text or watermarks",
-      "attributionNote": "AI-generated illustration — not a real historical photograph or artwork. Generated for illustrative purposes only; regenerate anytime using the prompt above."
+      "question": "What was the relationship between Champa rice and the commercialization of the Song economy?",
+      "modelAnswer": "Champa rice's faster ripening cycle doubled food production, creating the agricultural surplus that made everything else possible. Surplus food fed a larger population and freed workers from subsistence farming — they could now specialize in manufacturing, trade, and urban services. A wealthier, urbanized population demanded more goods, stimulating further commercial development. The Song government supported this with infrastructure (Grand Canal) and financial innovation (paper money). The agricultural revolution was the foundation on which the commercial economy was built — without it, there would have been neither the population nor the released labor to sustain Song China's commercial dynamism."
+    },
+    {
+      "question": "How did Neo-Confucianism affect women's lives in Song China?",
+      "modelAnswer": "Neo-Confucianism intensified patriarchal control. Its emphasis on the hierarchical five relationships placed women in subordinate positions: wife obeys husband, daughter obeys father. Neo-Confucian scholars emphasized female modesty, virtue, and confinement to domestic spaces as ideals. The most physically visible consequence was the spread of foot-binding: from age five or six, girls' feet were tightly wrapped to prevent growth. The resulting three-to-four-inch \"lotus feet\" were considered beautiful and refined — but broke the arch and several toes, causing permanent disability and chronic pain. Foot-binding spread from elite women to broader classes over subsequent centuries and persisted until the early 20th century. It demonstrates how an intellectual ideology can be physically inscribed on bodies and used to restrict the mobility and independence of an entire gender."
+    },
+    {
+      "question": "Why did Chinese technological innovations transform other world regions more dramatically than they transformed China itself?",
+      "modelAnswer": "The same technology has different effects in different social contexts. In China, gunpowder was used by an already centralized state that had other tools for maintaining order — it reinforced existing power rather than disrupting it. In politically fragmented Europe, cannon fire could shatter feudal castles and the decentralized aristocratic power they represented, contributing to political centralization. Similarly, printing in China reinforced a unified literate culture the state already controlled. In Europe, printing disrupted the Church's monopoly on book production and knowledge, enabling the Protestant Reformation. Technologies are not inherently revolutionary — their disruptive potential is unlocked (or contained) by the social conditions they encounter. Song China invented the tools; different conditions in other regions made them revolutionary."
+    },
+    {
+      "question": "What was the tribute system, and why did neighboring rulers participate despite its demands for ritual deference?",
+      "modelAnswer": "The tribute system required neighboring rulers to send periodic missions to the Chinese imperial court, bearing gifts and performing rituals — including the *kowtow* (ritual prostration) — acknowledging Chinese cultural superiority. In exchange, the Chinese emperor recognized the foreign ruler's legitimacy, granted trade access, and typically returned gifts of comparable or greater value. Neighboring rulers participated because the benefits outweighed the symbolic costs: access to the world's wealthiest trading economy, formal diplomatic recognition that legitimized their rule domestically, and sometimes implicit Chinese protection. The ceremony was theater — the real transaction was economic and political. States militarily capable of defying China (like Korea or Vietnam) still participated because the material gains were simply too valuable to refuse."
     }
   ],
-  "videoResources": [
-    {"title": "Developments in EAST ASIA [AP World Review — Unit 1 Topic 1.1]", "creator": "Heimler's History", "url": "https://www.youtube.com/watch?v=HfIWZhXt7fY"}
-  ],
+  "images": [],
+  "illustrativeExamples": [],
   "notebookLmResources": [],
   "teacherNotes": ""
 }

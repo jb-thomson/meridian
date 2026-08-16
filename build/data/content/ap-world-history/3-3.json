@@ -1,0 +1,416 @@
+{
+  "course": "ap-world-history",
+  "num": "3.3",
+  "title": "Empires: Belief Systems",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "🏛️",
+      "label": "Political",
+      "tooltip": "The Protestant Reformation (1517) fractured the religious unity of Western Christianity, producing over a century of religious warfare in Europe. Political authority and religious identity became deeply intertwined — rulers chose their subjects' religion (cuius regio, eius religio) and religious minorities faced persecution or exile. The Catholic Counter-Reformation rebuilt and strengthened the Church's institutional capacity."
+    },
+    {
+      "icon": "🌍",
+      "label": "Interactions",
+      "tooltip": "The Ottoman-Safavid rivalry drove a permanent institutionalization of the Sunni-Shi'a divide. What had been a theological dispute within Islam became a geopolitical fault line — the boundary between Sunni Ottoman and Shi'a Safavid territories was enforced through war, expulsion, and forced conversion. The modern Iran-Iraq border roughly follows this 16th-century religious boundary."
+    },
+    {
+      "icon": "🎨",
+      "label": "Culture",
+      "tooltip": "Sikhism emerged in 15th-century Punjab at the intersection of Hindu and Islamic cultures, developing a distinct theology that drew on both traditions while rejecting caste hierarchy and religious exclusivity. Its founding by Guru Nanak and development through ten Gurus represents one of the most important new religious traditions of the early modern period, now with over 25 million followers worldwide."
+    },
+    {
+      "icon": "⚙️",
+      "label": "Technology",
+      "tooltip": "The Protestant Reformation was enabled in part by the printing press (Gutenberg, c. 1440). Luther's 95 Theses spread across Germany within weeks because printers could produce thousands of copies cheaply. This is an important case study in how technology enables the diffusion of ideas — and explains why the Reformation happened in the 16th century rather than earlier, when similar complaints about the Church had existed for centuries."
+    },
+    {
+      "icon": "👥",
+      "label": "Social",
+      "tooltip": "Social hierarchies were challenged by multiple religious reform movements of the period. The Protestant Reformation questioned the Church's monopoly on salvation and elevated literacy (Bible reading). The Bhakti movement in South Asia (covered in Unit 1) challenged caste. Sikhism explicitly rejected caste hierarchy and the subordination of women. These religious movements had significant social equality dimensions alongside their theological content."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Protestant Reformation —** In 1517, German monk Martin Luther published his 95 Theses challenging the Catholic Church's sale of indulgences. The printing press spread his ideas across Europe faster than the Church could respond. The result: Western Christianity permanently split into Catholic and Protestant branches; a century of religious wars followed; and the Catholic Church reformed itself in response (Counter-Reformation). **Catholic Counter-Reformation —:** The Council of Trent (1545–1563) reformed Church practices, clarified doctrine, and launched the Jesuit order as an intellectual and missionary force. The Counter-Reformation successfully recovered parts of Europe for Catholicism and drove Catholic missionary expansion into the Americas, Asia, and Africa.",
+    "**LO-B: Understand the Protestant Reformation, the Sunni-Shi'a split's intensification,… —** **Sunni-Shi'a split deepened —:** The Ottoman-Safavid conflict transformed the Sunni-Shi'a religious divide from a theological dispute into a geopolitical fault line. The Safavids forcibly converted Persia to Twelver Shi'a Islam; the Ottomans positioned themselves as defenders of Sunni Islam. Their wars defined the religious map of the Middle East for centuries. **Sikhism emerges —:** In 15th-century Punjab, where Hindu and Muslim cultures met and often clashed, Guru Nanak (1469–1539) developed a new religious teaching emphasizing the oneness of God, rejection of caste hierarchy, and the equality of all people regardless of religion. The Sikh community (*Panth*) developed through ten Gurus into a distinct religion with its own scriptures, practices, and identity."
+  ],
+  "learningObjectives": [
+    "Explain continuity and change within various belief systems during the period from 1450 to 1750 Understand the Protestant Reformation, the Sunni-Shi'a split's intensification, and the development of Sikhism as specific examples of religious change in this period"
+  ],
+  "vocabulary": [
+    {
+      "term": "Protestant Reformation",
+      "definition": "A 16th-century religious movement beginning with Martin Luther's 95 Theses (1517) that challenged Catholic Church authority, doctrine, and practices, ultimately producing lasting splits in Western Christianity into Catholic and Protestant denominations.",
+      "importance": "One of the most consequential events in European history; produced over a century of religious wars; drove the Catholic Counter-Reformation; transformed European political structure (religious wars led to the Peace of Westphalia 1648 and the concept of state sovereignty); enabled global missionary expansion by both Catholic and Protestant churches."
+    },
+    {
+      "term": "Martin Luther",
+      "definition": "German Augustinian monk and theology professor (1483–1546) who published 95 Theses in 1517 challenging the Catholic practice of selling indulgences, triggering the Protestant Reformation.",
+      "importance": "Argued for salvation by faith alone ( sola fide ), Scripture alone ( sola scriptura ), and the \"priesthood of all believers\" — doctrines that eliminated the need for priestly mediation and challenged Church institutional authority; protected by German princes who saw religious and political advantage in supporting him."
+    },
+    {
+      "term": "Indulgences",
+      "definition": "In Catholic teaching, certificates that reduced time in purgatory for the buyer or their deceased relatives; by the early 16th century, the Church was actively selling them to fund construction projects (including St. Peter's Basilica in Rome).",
+      "importance": "The immediate trigger for Luther's 95 Theses; symbolized broader corruption of Church practices; Luther's objection was both financial (Church profiting from fear) and theological (the idea that sin's consequences could be purchased contradicted his understanding of grace and faith)."
+    },
+    {
+      "term": "Counter-Reformation (Catholic Reformation)",
+      "definition": "The Catholic Church's response to Protestantism, including the Council of Trent (1545–1563), the founding of the Jesuit order, the Roman Inquisition, and internal reforms of clerical education and practice.",
+      "importance": "Successfully recovered parts of central Europe from Protestantism; launched the Jesuit order, which became the most effective Catholic missionary force worldwide; clarified Catholic doctrine in ways that made it more internally coherent; strengthened the papacy's institutional authority."
+    },
+    {
+      "term": "Sunni-Shi'a Split",
+      "definition": "The division within Islam between Sunni Muslims (who follow the first four caliphs as legitimate successors to Muhammad) and Shi'a Muslims (who believe Ali, Muhammad's cousin and son-in-law, should have been the first successor).",
+      "importance": "Began in the 7th century over succession disputes; intensified in the 16th century when the Safavid Empire made Shi'a Islam its state religion, creating a territorial boundary between Sunni and Shi'a populations; the Ottoman-Safavid wars of 1514–1639 turned this religious division into a geopolitical fault line."
+    },
+    {
+      "term": "Twelver Shi'a Islam",
+      "definition": "The largest branch of Shi'a Islam, believing in a line of twelve Imams descended from Ali as the legitimate leaders of the Muslim community; the Twelfth Imam is believed to be in occultation (hidden) and will return as the Mahdi (messianic figure) at the end of times.",
+      "importance": "Made the state religion of the Safavid Empire (Persia/Iran) in 1501; Iran remains the world's largest Twelver Shi'a majority nation; the Shi'a clerical establishment in Iran developed a distinctive political theology that has shaped modern Iranian politics."
+    },
+    {
+      "term": "Sikhism",
+      "definition": "A monotheistic religion founded in 15th-century Punjab by Guru Nanak (1469–1539), teaching the oneness of God ( Waheguru ), rejection of caste hierarchy, equality of all people, and service to others ( seva ).",
+      "importance": "Developed through ten Gurus; the tenth Guru, Gobind Singh, established the Khalsa (community of initiated Sikhs) and compiled the Guru Granth Sahib (holy scripture); now one of the world's major religions with approximately 25–30 million adherents; exemplifies a new religion emerging from cross-cultural religious interaction."
+    },
+    {
+      "term": "Guru Nanak",
+      "definition": "The founder of Sikhism (1469–1539), born in the Punjab region of present-day Pakistan, who preached the unity of God, the equality of all humans regardless of caste or religion, and a path of devotion, honest living, and service.",
+      "importance": "His travels across South Asia, the Middle East, and Central Asia spread his teachings broadly; his compositions are included in the Guru Granth Sahib (Sikh scripture); his teaching explicitly incorporated elements from both Hindu Bhakti devotion and Sufi Islamic mysticism while establishing a distinct tradition."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "The Catholic Church had faced criticism and internal reform movements for centuries before 1517 — earlier reformers like Jan Hus (1369–1415) had raised similar complaints to Luther. Why did Luther's Reformation succeed where earlier movements had failed?",
+      "answer": "Several factors made 1517 different. First, the printing press (invented c. 1440) allowed Luther's 95 Theses to be reproduced and distributed across Germany within weeks — earlier reformers had to spread ideas through hand-copied manuscripts, which could be suppressed. Second, Luther had political protection: Frederick the Wise of Saxony refused to hand him over to the Church, providing the critical time needed for Lutheran ideas to spread beyond the point where they could be suppressed. Jan Hus, who lacked this protection, was burned at the stake in 1415 despite a promise of safe conduct. Third, the Renaissance humanist movement had primed educated Europeans to question authority and return to original sources (including the Bible in Hebrew and Greek). Fourth, genuine popular resentment of Church corruption (particularly the sale of indulgences) made Luther's message resonate widely. The confluence of technology, political protection, intellectual context, and popular grievance made 1517 the tipping point."
+    },
+    {
+      "question": "If you were a peasant in rural Germany in 1520, why might Luther's teaching that Christians can read and interpret the Bible for themselves (the \"priesthood of all believers\") be theologically and socially radical?",
+      "answer": "Before the Reformation, the Catholic Church maintained a monopoly on biblical interpretation: Scripture was in Latin (which most people couldn't read), and only trained clergy could authoritatively interpret it. Salvation depended on receiving sacraments administered by priests. Luther's teaching upended this in several ways. First, it required literacy — and therefore drove Protestant communities to establish schools and promote Bible reading, raising literacy rates dramatically in Protestant regions. Second, it eliminated the priest as a necessary intermediary between the individual and God, flattening the hierarchical structure that gave clergy their special authority. Third, it implicitly challenged all hierarchies that claimed authority through tradition rather than Scripture. Peasants who applied the \"priesthood of all believers\" logic to social hierarchy (why should nobles rule if Scripture doesn't support it?) produced the German Peasants' War of 1525 — which Luther himself condemned, revealing the tension between religious and social radicalism."
+    },
+    {
+      "question": "The Ottoman-Safavid conflict was driven by both territorial and religious rivalry. Why might religious difference make a territorial rivalry more intense and difficult to resolve through compromise?",
+      "answer": "Pure territorial disputes can be resolved by drawing borders, exchanging territory, or signing treaties that both sides accept as legitimate. Religious conflicts add a dimension that makes compromise more difficult: if the Ottoman sultan believes Shi'a Islam is heresy and that God requires its suppression, no territorial compromise can satisfy this obligation. Similarly, if the Safavid shah sees himself as the defender of the true faith against Sunni oppression, compromise feels like religious betrayal. Religious framing also motivates soldiers in ways that pure nationalism or dynastic loyalty cannot — dying in a religious war is a path to paradise; dying in a border dispute is just dying. Furthermore, religious minorities on the wrong side of a border face existential questions: Shi'a communities in Ottoman territory were not just inconvenienced by Ottoman rule, they faced potential persecution, forced conversion, or death. This gives religious conflicts a zero-sum quality that makes compromise harder than in purely territorial disputes."
+    },
+    {
+      "question": "Guru Nanak, founder of Sikhism, was born in Punjab in an area where Hinduism and Islam had coexisted and interacted for centuries. How might this specific cultural environment have shaped the religious ideas he developed?",
+      "answer": "Punjab was one of the most religiously mixed regions in South Asia — Hindu majority, significant Muslim minority (following centuries of Delhi Sultanate rule), with Sufi mystical traditions deeply embedded in popular religious life alongside Bhakti devotional Hinduism. Growing up in this environment, Nanak was exposed to both traditions and could observe both their insights and their limitations. The caste hierarchy of Hinduism, which excluded lower-caste communities from full religious participation, and the sectarian exclusivity of orthodox Islam, which classified non-Muslims as inferior, were both available targets for critique. The Sufi emphasis on personal devotion to God and the Bhakti emphasis on equality before the divine were available resources for building something new. Nanak's synthesis — one God, accessible to all regardless of caste or religion, requiring no priests or rituals beyond sincere devotion — drew on both traditions while rejecting what he found most objectionable in each. The specific religious ecology of Punjab made this synthesis possible and meaningful."
+    },
+    {
+      "question": "The Catholic Counter-Reformation is often described as both a response to Protestantism and an independently-driven reform of the Church. What does this tell us about how to think about causation — can a reaction to an external threat also be genuinely internally motivated?",
+      "answer": "This is an important historical thinking question about causation and complexity. The Catholic Church's self-reform in the mid-16th century was unquestionably triggered partly by the Protestant challenge — the Council of Trent was convened after decades of Protestant success, and many of its reforms directly addressed Protestant criticisms. But many of the reforms had been advocated by Catholic humanists (Erasmus, for example) before Luther emerged, and the Church had internal critics of corruption long before 1517. The question of whether the Counter-Reformation was \"caused by\" Protestantism or \"independently motivated\" is somewhat false: external pressure and internal motivation aren't mutually exclusive. More precisely, the Protestant threat provided the urgency and political pressure that transformed decades of internal calls for reform into actual institutional change. This is a common pattern in historical causation — an external shock enables or accelerates changes that internal forces alone could not produce."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "The Protestant Reformation: Christianity Divided"
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/3-3-0.jpg",
+      "alt": "Portrait of Martin Luther, Protestant reformer",
+      "caption": "Martin Luther (1483–1546), Augustinian monk and professor of theology whose 95 Theses (1517) challenged the Catholic Church's sale of indulgences — and whose writings, spread by the printing press, permanently fractured Western Christianity.",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1517, a 33-year-old German monk named Martin Luther nailed a document to the door of the Castle Church in Wittenberg — or, more likely, simply mailed it to his bishop. The **95 Theses** challenged the Catholic Church's practice of selling **indulgences** — certificates that supposedly reduced time in purgatory for the buyer or their deceased family members. The Church was selling them aggressively to fund the construction of St. Peter's Basilica in Rome."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luther's argument was both financial and theological. Financially: the Church was profiting from people's fear of hell. Theologically: the whole idea of purchasing forgiveness contradicted his reading of Paul's letters in the New Testament, which taught that salvation came through faith alone (*sola fide*), not through purchasing certificates or performing acts of penance. If Luther was right, the Church's entire sacramental system — and the power of priests to mediate salvation — was built on a theological error."
+    },
+    {
+      "type": "paragraph",
+      "text": "The printing press transformed what might have been another internal Church dispute into a continent-wide crisis. Within weeks, the 95 Theses had been printed and distributed across Germany. Within months, the debate had engaged the greatest minds in Europe. The Church called Luther to recant; he refused, famously declaring at the Diet of Worms (1521): *\"Here I stand; I cannot do otherwise.\"*"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lutheran teaching rested on three core principles that fundamentally challenged the Church's authority:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "***Sola fide* (Faith alone):** Salvation is by faith in God's grace, not earned through good works, sacraments, or purchases. This eliminated the theological basis for indulgences, pilgrimages, and much of the Church's intermediary role.",
+        "***Sola scriptura* (Scripture alone):** The Bible is the sole authority for Christian teaching — not Church tradition, papal decrees, or councils. This required every Christian to be able to read Scripture, driving Luther to translate the Bible into German.",
+        "**Priesthood of all believers:** Every Christian has direct access to God; no specially ordained priest is necessary as intermediary. This flattened the hierarchical structure that gave clergy their special authority."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Luther's movement was just the beginning. **John Calvin** in Geneva developed a more systematic theology emphasizing predestination. **Henry VIII** of England broke with Rome over his divorce dispute, creating the Church of England (Anglicanism). **Anabaptists** in the Netherlands and Switzerland pushed for more radical separation from state churches. By 1600, Western Christianity was permanently divided into dozens of Protestant denominations alongside Catholicism."
+    },
+    {
+      "type": "funFact",
+      "text": "The German Peasants' War of 1525 was partly inspired by Lutheran ideas about Christian freedom and the equality of believers. Peasants quoted Luther's writings to justify demands for an end to serfdom and reduction of noble privileges. Luther was horrified and wrote a pamphlet titled *Against the Murderous, Thieving Hordes of Peasants*, calling on the German princes to crush the rebellion. The princes did — killing an estimated 100,000 peasants. Luther's theology was spiritually radical but socially conservative, and this tension defined the Reformation's political limits."
+    },
+    {
+      "type": "heading",
+      "text": "The Catholic Counter-Reformation: Renewal from Within"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Catholic Church's response to Protestantism — the **Counter-Reformation** or Catholic Reformation — was both a reaction to external challenge and a genuine internal renewal. Catholic reformers had complained about clerical corruption, poorly educated priests, and theological confusion for decades before Luther. The Protestant challenge provided the political urgency that converted these complaints into action."
+    },
+    {
+      "type": "paragraph",
+      "text": "The **Council of Trent** (1545–1563) was the Catholic Church's most important response. It met in three sessions over 18 years, producing comprehensive reforms:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Clarified Catholic doctrine on justification, Scripture, and the sacraments — explicitly rejecting Lutheran positions while also addressing genuine ambiguities",
+        "Required seminaries (schools for priestly training) in every diocese, dramatically improving the education of Catholic clergy",
+        "Prohibited the sale of indulgences and other corrupt practices that had given Luther his initial ammunition",
+        "Affirmed the authority of Church tradition alongside Scripture — a direct rejection of *sola scriptura*",
+        "Standardized the Latin Mass as the universal Catholic worship form"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The most significant institutional creation of the Counter-Reformation was the **Society of Jesus** — the **Jesuits**, founded by Ignatius of Loyola in 1540. The Jesuits were an intellectual and missionary order of exceptional discipline and education. In Europe, they founded schools and universities that became the finest in the Catholic world, recovering significant populations from Protestantism through superior education. Globally, they were the most important Catholic missionary force in Asia, Africa, and the Americas — Francis Xavier brought Christianity to Japan; Matteo Ricci reached the Chinese imperial court; Jesuit missionaries traveled to India, Ethiopia, Brazil, and beyond. Their global reach made them central to the diffusion of both Christianity and European knowledge across the world."
+    },
+    {
+      "type": "apTip",
+      "text": "The AP exam says the Protestant and Catholic reformations both \"contributed to the growth of Christianity.\" This is the key phrase for AP purposes: both movements expanded Christianity globally. Protestantism drove European religious migration and later Protestant missionary movements. Catholicism drove Jesuit and other missionary orders into the Americas, Asia, and Africa simultaneously with European colonial expansion. When the AP asks about \"spread of Christianity\" in the early modern period, you need to account for BOTH reformations driving it."
+    },
+    {
+      "type": "heading",
+      "text": "The Sunni-Shi'a Split: Ottoman-Safavid Rivalry Deepens a Divide"
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/3-3-1.jpg",
+      "alt": "Ottoman and Safavid armies facing each other, representing the Sunni-Shia religious and political divide",
+      "caption": "The Ottoman-Safavid conflict (1514–1639) was simultaneously a territorial dispute and a religious war between the Sunni Ottoman Empire and the Shi'a Safavid Empire. Their wars drew the Sunni-Shi'a boundary in the Middle East that roughly corresponds to the modern Iran-Iraq border.",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "The division between **Sunni** and **Shi'a** Muslims dates to the 7th century, when the Prophet Muhammad died without leaving clear instructions about succession. The majority supported Abu Bakr, Muhammad's close companion, as the first caliph (successor). The minority believed the leadership should pass to Ali, Muhammad's cousin and son-in-law. This succession dispute grew into the most lasting schism in Islamic history."
+    },
+    {
+      "type": "paragraph",
+      "text": "For most of the medieval period, the Sunni-Shi'a divide was a theological and community distinction, not a geopolitical boundary. Shi'a minorities lived within Sunni-majority states across the Islamic world; there was no state that was defined by Shi'a identity. The **Safavid Empire** changed this fundamentally."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Shah Ismail established the Safavid Empire in 1501 and declared Twelver Shi'a Islam the state religion, he drew a territorial line that had not previously existed: Persian territory became Shi'a; Ottoman territory was Sunni. This had several consequences:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Sunni Muslims in Persian territories were forcibly converted to Shi'a Islam or expelled — the population of Persia was Sunni at the Safavid founding but became predominantly Shi'a within a century through state-directed conversion",
+        "Shi'a clerics from Lebanon, Bahrain, and Iraq were brought to Persia to staff the new Shi'a religious establishment, building institutions (seminaries, shrines, legal courts) that made Shi'a identity deep and durable",
+        "The Ottoman Empire, claiming the caliphate as protector of all Sunni Muslims, had a religious obligation to oppose the Safavids — making territorial disputes into religious wars",
+        "Shi'a populations within Ottoman territories (particularly in Anatolia) became potential fifth columns — suspected of loyalty to the Safavid enemy — and faced persecution"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The resulting Ottoman-Safavid wars (most importantly the campaigns of 1514, 1534–1555, and 1578–1590) failed to resolve the underlying conflict. The **Peace of Zuhab (1639)** finally established a border between the two empires that roughly corresponds to the modern boundary between Iran and Iraq. This border effectively drew the Sunni-Shi'a demographic line in the sand: populations west of it were predominantly Sunni (Iraq in the Ottoman Empire); populations east of it were predominantly Shi'a (Persia). The modern religious geography of the Middle East — the source of ongoing sectarian conflict — is in large measure a legacy of the Ottoman-Safavid wars of the 16th–17th centuries."
+    },
+    {
+      "type": "funFact",
+      "text": "The Ottoman-Safavid wars created a massive refugee crisis: Shi'a scholars and communities in Ottoman territory fled to Safavid Persia, while Sunni scholars and merchant communities in Persia fled to Ottoman lands. This cross-migration actually strengthened both traditions — Shi'a scholarship in Persia deepened, and Sunni institutions in Ottoman territory consolidated. Religious persecution created diaspora communities that carried their traditions more intensely precisely because they had to defend them."
+    },
+    {
+      "type": "heading",
+      "text": "Sikhism: A New Faith from the Meeting of Hinduism and Islam"
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/3-3-2.jpg",
+      "alt": "The Golden Temple (Harmandir Sahib) in Amritsar, India",
+      "caption": "The Harmandir Sahib (Golden Temple) in Amritsar, Punjab — the holiest site in Sikhism, built in the 16th century. The temple's four doors (facing all four directions) symbolize its openness to people of all religions and castes.",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 15th-century Punjab — the region of present-day northern India and Pakistan where Hindu and Muslim cultures had coexisted, interacted, and sometimes clashed for centuries — a new religious tradition emerged that drew on both while fully belonging to neither."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Guru Nanak** (1469–1539) was born in a Hindu family in a region deeply influenced by Sufi Islamic mysticism and Bhakti devotional Hinduism. According to Sikh tradition, at age 30 he disappeared into a river and emerged three days later transformed, announcing: *\"There is no Hindu, there is no Muslim.\"* The teaching that followed this experience would become the foundation of Sikhism."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nanak's core teachings drew from and challenged both surrounding traditions:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**One God (*Waheguru*):** God is One, formless, beyond all images or representations — consistent with Islamic monotheism but also with Hindu Bhakti's emphasis on the divine unity behind all forms. Nanak rejected both idol worship (criticizing some Hindu practices) and excessive legalism (criticizing some Islamic practices).",
+        "**Rejection of caste:** Nanak explicitly taught that caste distinctions were spiritually irrelevant — all humans are equal before God. The *langar* (community kitchen) at Sikh gurdwaras (temples), where everyone eats together regardless of caste, social status, or religion, remains one of the most distinctive Sikh practices and a direct embodiment of this principle.",
+        "**Rejection of ritual intermediaries:** Like the Protestant reformers across the world (and independently of them), Nanak taught that direct personal devotion to God — not priests, sacrifices, or purchased merit — was the path to spiritual liberation.",
+        "***Seva* (Service):** Service to others, particularly the poor, was a spiritual obligation equal in importance to prayer and devotion — grounding spirituality in social action."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sikhism developed through a succession of ten Gurus after Nanak, each deepening and institutionalizing the tradition. The **fifth Guru, Arjan Dev**, compiled the *Adi Granth* (now called the *Guru Granth Sahib*) — Sikhism's holy scripture — incorporating compositions from Nanak and other Gurus alongside devotional poetry from Hindu Bhakti saints and Muslim Sufi poets, embodying Sikhism's cross-cultural origins. He also built the Harmandir Sahib (Golden Temple) in Amritsar as the faith's spiritual center."
+    },
+    {
+      "type": "paragraph",
+      "text": "The **tenth Guru, Gobind Singh** (r. 1675–1708), established the *Khalsa* — the community of initiated Sikhs — and gave Sikhs the distinctive Five K's (*panj kakars*): uncut hair (*kesh*), a wooden comb (*kangha*), a steel bracelet (*kara*), a small sword (*kirpan*), and a specific undergarment (*kachera*). These markers of Sikh identity were both spiritual and practical — they made Sikhs visually identifiable and created a community of equals committed to defending the faith and serving others. Gobind Singh also declared that after him, the Guru Granth Sahib would serve as the eternal, living Guru — a decision that gave Sikhism a permanent textual foundation without dependence on human succession."
+    },
+    {
+      "type": "apTip",
+      "text": "The College Board describes Sikhism as developing \"in South Asia in a context of interactions between Hinduism and Islam\" — this is the core AP argument. Know these specific connections: Nanak's teaching of one God echoes Islamic monotheism; his rejection of caste draws on Bhakti tradition; his rejection of ritual intermediaries parallels both Bhakti and Sufi emphases; the Guru Granth Sahib includes compositions from Bhakti poets and Sufi figures. Sikhism is not a simple \"blend\" of Hinduism and Islam — it is a distinct tradition that emerged from that interaction — but its origins are inseparable from both contexts."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 3.3",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+3.3",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "The Protestant Reformation",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+The+Protestant+Reformation",
+      "creator": "Crash Course · 12 min"
+    },
+    {
+      "title": "3.3 Empires Belief Systems",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+3.3+Empires+Belief+Systems",
+      "creator": "Heimler's History · 7 min"
+    },
+    {
+      "title": "Sikhism",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Sikhism",
+      "creator": "Crash Course · 12 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "\"Luther declared before the Imperial Diet: 'Unless I am convinced by the testimony of the Scriptures or by clear reason — for I do not trust either in the pope or in councils alone, since it is well known that they have often erred and contradicted themselves — I am bound by the Scriptures I have quoted and my conscience is captive to the Word of God. I cannot and will not recant anything, since it is neither safe nor right to go against conscience.'\"",
+      "question": "Luther's statement at the Diet of Worms (1521) most directly reflects which of the following theological positions of the Protestant Reformation?",
+      "options": [
+        "The belief that salvation requires both faith and good works performed through the Church's sacramental system",
+        "The authority of Scripture and individual conscience over Church tradition and papal authority",
+        "The doctrine of predestination, which held that God had chosen the elect before birth regardless of their faith",
+        "The view that Christian communities should be governed democratically rather than by bishops and priests"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage explicitly shows Luther privileging \"the testimony of the Scriptures\" over popes and councils, and invoking his individual conscience as bound by Scripture. This is the core Reformation principle of *sola scriptura* (Scripture alone) and the priesthood of all believers — the individual conscience before God is the final authority, not institutional Church hierarchy. (A) is the Catholic position he is rejecting. (C) is Calvin's distinctive doctrine, not Luther's core argument here. (D) describes Anabaptist church governance ideas, not the main principle expressed in this statement."
+    },
+    {
+      "stimulus": "\"The Council of Trent decreed that seminaries must be established in each diocese to train priests in theology, Scripture, and moral conduct. It also required bishops to reside in their dioceses (not in Rome) and to personally oversee the parishes under their care. The sale of indulgences for financial gain was prohibited. Latin was confirmed as the universal language of the Mass.\"",
+      "question": "The Council of Trent's decrees as described in the passage most directly illustrate which of the following about the Catholic Counter-Reformation?",
+      "options": [
+        "The Catholic Church's effort to reform internal practices that had drawn Protestant criticism while reaffirming core Catholic distinctives",
+        "The Catholic Church's adoption of Protestant theological doctrines to reunite Western Christianity",
+        "The Catholic Church's decision to abandon Latin as a barrier to lay understanding of Scripture, following Protestant example",
+        "The Council's rejection of papal authority in favor of bishops' collective governance of the Church"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage shows reforms that address Protestant criticisms (banning sale of indulgences, requiring bishops to be present in their dioceses — both Protestant grievances about corruption) while also reaffirming Catholic distinctives (Latin Mass confirmed, not abandoned). This is exactly the Counter-Reformation strategy: reform corrupt practices while rejecting Protestant theology. (B) is wrong — Trent rejected Protestant doctrines explicitly. (C) is wrong — Latin was confirmed, not abandoned. (D) is wrong — Trent strongly reaffirmed papal authority."
+    },
+    {
+      "stimulus": "\"Shah Ismail's declaration that Twelver Shi'a Islam would be the religion of his empire forced the predominantly Sunni population of Persia to convert under threat of death. Sunni scholars were expelled or killed. Shi'a clerics were imported from the Arab lands. Within a generation, a population that had been majority Sunni had become majority Shi'a — the only case in Islamic history of a mass population-wide conversion from one branch of Islam to another.\"",
+      "question": "The Safavid religious transformation described in the passage most directly contributed to which of the following developments?",
+      "options": [
+        "The reunification of the Islamic world under a single caliphate by resolving the long-standing Sunni-Shi'a theological dispute",
+        "The weakening of the Safavid Empire by reducing the population available for military service",
+        "The intensification of the Sunni-Shi'a split as a geopolitical and military divide between the Ottoman and Safavid empires",
+        "The spread of Shi'a Islam to new regions outside Persia through Safavid missionary activity"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage describes a state-directed mass conversion of Persia to Shi'a Islam — a process that created a geographically defined Shi'a state (Persia) in direct conflict with the Sunni Ottoman Empire. By creating a Shi'a territorial identity, the Safavids transformed a theological dispute into a geopolitical boundary, intensifying the Sunni-Shi'a split as a military and territorial divide. (A) is wrong — the conversion deepened the split, not resolved it. (B) is not supported by the passage. (D) is not directly supported — the passage describes conversion within Persia, not missionary expansion."
+    },
+    {
+      "stimulus": "\"Guru Nanak declared: 'There is no Hindu, there is no Muslim.' He traveled across South Asia, the Middle East, and Central Asia, visiting both Hindu temples and Muslim mosques, disputing with Brahmin priests and Sufi mystics alike, teaching that God is One — beyond all religious labels — and that caste distinctions are spiritually irrelevant. He composed hymns in Punjabi, Hindi, and Persian for all people to sing regardless of religious background.\"",
+      "question": "Guru Nanak's teachings as described in the passage most directly reflect which of the following?",
+      "options": [
+        "The influence of European Enlightenment ideals of universal human reason and religious tolerance on South Asian intellectual life",
+        "The adoption of a syncretic theology that incorporated the theological positions of Hinduism and Islam without developing any distinct religious identity",
+        "The attempt by a Muslim Sufi mystic to reform orthodox Islamic practice in the direction of greater tolerance for Hinduism",
+        "The development of a new religious tradition in a context of interaction between Hindu and Islamic cultures in South Asia"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage shows Nanak engaging with and drawing from both Hindu (\"Brahmin priests\") and Muslim (\"Sufi mystics\") traditions while declaring a teaching that transcends both (\"There is no Hindu, there is no Muslim\"). His multilingual compositions, travel to both traditions' holy sites, and rejection of both caste (Hindu) and religious exclusivity (common to both) all show the development of a new tradition in the specific context of Hindu-Muslim interaction in South Asia. (A) is wrong — the Enlightenment was a European phenomenon; Nanak predates it. (C) is wrong — Nanak was not Muslim; he was critiquing both traditions equally. (B) goes too far — Sikhism did develop a distinct religious identity, as evidenced by its unique scripture, temple traditions, and community practices."
+    },
+    {
+      "stimulus": "\"The Jesuits founded schools across Europe where the curriculum combined classical learning with Catholic theology. In Japan, Francis Xavier converted thousands to Christianity within years. In China, Matteo Ricci presented himself at the imperial court as a scholar of mathematics and astronomy, engaging Confucian scholars on intellectual grounds. In India, Roberto de Nobili adopted Brahmin dress and customs to preach among upper-caste Hindus.\"",
+      "question": "The Jesuit mission strategies described in the passage best illustrate which of the following?",
+      "options": [
+        "The use of cultural adaptation and intellectual engagement as missionary strategies to spread Christianity across diverse societies",
+        "The Catholic Church's preference for military force over peaceful missionary activity in spreading Christianity during this period",
+        "The Protestant churches' successful global missionary expansion following the teachings of Calvin and Luther",
+        "The failure of Catholic missionary activity in Asia, which remained entirely resistant to Christian influence throughout this period"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each example in the passage shows cultural adaptation: Ricci presents himself as a mathematician (not a preacher), Nobili adopts Brahmin customs, Xavier achieves mass conversions in Japan. These are all examples of missionaries adapting their methods to local cultural contexts rather than demanding cultural submission as a precondition of conversion. This is cultural adaptation as missionary strategy. (B) is wrong — the passage shows peaceful intellectual and cultural engagement, not military force. (C) is wrong — the Jesuits were Catholic, not Protestant; the passage explicitly says so in the context (Counter-Reformation). (D) is wrong — the passage describes successful missions in Japan and interactions in China."
+    }
+  ],
+  "saq": {
+    "context": "\"The period 1450–1750 was one of dramatic religious transformation across the world. In Europe, the Protestant Reformation shattered the unity of Western Christianity, produced a century of religious wars, and drove both Protestant and Catholic churches into global missionary expansion. In the Islamic world, the Ottoman-Safavid rivalry intensified the Sunni-Shi'a divide from a theological dispute into a geopolitical fault line. In South Asia, the encounter between Hindu and Islamic cultures gave birth to Sikhism — a new religious tradition that drew on both while belonging wholly to neither.\"",
+    "directions": "Answer parts A, B, and C. Each part requires a separate, direct response. Do not write an essay.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Briefly describe ONE cause of the Protestant Reformation beyond Martin Luther's personal theology.",
+        "sampleAnswer": "The printing press, invented by Gutenberg around 1440, was a critical enabling cause of the Protestant Reformation. Earlier reformers — Jan Hus, John Wycliffe — had raised similar criticisms of the Church decades or centuries before Luther but had been suppressed before their ideas could spread beyond small communities. Luther's 95 Theses, printed and distributed across Germany within weeks of their composition, reached an audience of thousands before the Church could organize a response. The printing press converted an academic theological dispute into a mass movement, ensuring that Lutheran ideas could not be contained by arresting or silencing one man. Without print technology, the Reformation might have remained another failed reform movement suppressed by Church authority, as previous challenges had been."
+      },
+      {
+        "label": "Part B",
+        "task": "Briefly explain ONE way the Ottoman-Safavid rivalry intensified the Sunni-Shi'a divide beyond its pre-existing theological form.",
+        "sampleAnswer": "The Ottoman-Safavid rivalry transformed the Sunni-Shi'a split from a theological distinction between communities into a geopolitical boundary enforced by state power. Before the Safavids, Sunni and Shi'a Muslims lived as minority-majority communities within the same political entities across the Islamic world. After the Safavids declared Shi'a Islam the state religion of Persia in 1501, the religious divide became territorial: to be Persian was to be Shi'a; to be Ottoman-governed was to be Sunni. The repeated Ottoman-Safavid wars (1514–1639) enforced this boundary militarily, displacing religious minorities on both sides and drawing a demographic line in the Middle East. The Peace of Zuhab (1639) formalized a border that roughly corresponds to the modern Iran-Iraq boundary — a geopolitical consequence of theological rivalry."
+      },
+      {
+        "label": "Part C",
+        "task": "Briefly explain how the development of Sikhism demonstrates the broader pattern of new religious traditions emerging from cross-cultural interactions during the period 1450–1750.",
+        "sampleAnswer": "Sikhism exemplifies the broader pattern of religious innovation emerging when different cultural and religious traditions interact intensively. Guru Nanak developed his teachings in 15th-century Punjab, where Hindu Bhakti devotional traditions and Islamic Sufi mysticism had coexisted and interacted for centuries. His teaching of one formless God (resonating with Islamic monotheism), his rejection of caste (building on Bhakti egalitarianism), and his emphasis on direct personal devotion (parallel to both Bhakti and Sufi practice) all drew on the resources of both surrounding traditions. But Sikhism was not simply a mixture — it developed distinct scriptures (the Guru Granth Sahib), institutions (the gurdwara, the langar), a distinct community identity (the Khalsa), and theological positions that cannot be reduced to either parent tradition. This pattern — new religious synthesis emerging from cross-cultural contact, developing into a distinct tradition — also explains the emergence of syncretic religions elsewhere in this period, such as Vodou in the Caribbean (African and Christian elements) and various syncretic Buddhist-Confucian traditions in East Asia."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Contextualization",
+        "text": "Describe the pre-1450 religious landscape — European Christianity's institutional unity under Rome, the Islamic world's Sunni-majority framework, South Asia's Hindu-Muslim coexistence — establishing the baseline from which 1450–1750 changes departed."
+      },
+      {
+        "label": "Evidence — political rivalry as significant",
+        "text": "Safavid-Ottoman conflict transformed Sunni-Shi'a theological division into geopolitical boundary; state-enforced conversion of Persia to Shi'a Islam; Henry VIII's political dispute with Rome creating the Church of England; German princes' political interests in adopting Lutheranism to seize Church properties."
+      },
+      {
+        "label": "Evidence — other factors more significant",
+        "text": "Printing press as technological driver of Reformation spread; popular resentment of clerical corruption driving Luther's mass appeal; Guru Nanak's religious innovations emerging from cultural encounter rather than political rivalry; Jesuit missions driven by religious zeal and intellectual engagement, not political direction."
+      },
+      {
+        "label": "Complexity",
+        "text": "Political and religious causation were often intertwined — the Peace of Augsburg (1555) gave German princes the right to determine their subjects' religion, making political and religious decisions identical. Consider whether this means politics \"caused\" religion or religion \"caused\" politics in these cases."
+      }
+    ],
+    "prompt": "Evaluate the extent to which political rivalries between states were the most significant cause of religious change in the period 1450 to 1750.",
+    "note": "Write a full essay with thesis, contextualization, evidence, and historical reasoning. Consider both the Protestant Reformation and the Sunni-Shi'a split as evidence. Historical reasoning skill: Causation / Argumentation.",
+    "thesisExample": "Strong thesis: \"Although political rivalries — particularly the Ottoman-Safavid conflict — intensified existing religious divisions, political factors were not the most significant cause of religious change in 1450–1750; intellectual and social forces, including the printing press's transformation of religious communication and widespread popular resentment of Church corruption, were more consequential drivers because they created entirely new religious traditions rather than merely hardening existing divisions.\""
+  },
+  "discussionQuestions": [
+    {
+      "question": "How did the printing press enable the Protestant Reformation in a way that earlier reform movements had not experienced?",
+      "modelAnswer": "The printing press transformed the social conditions of information transmission. Before print, ideas spread through hand-copied manuscripts — an expensive, slow process that reached small audiences. The Church could suppress a new idea by confiscating manuscripts or arresting the author before distribution reached a critical mass. Luther's 95 Theses were printed and distributed across Germany within weeks of being written — they reached thousands of readers before the Church could organize a response. By the time the Church summoned Luther to Rome and eventually to Worms, his ideas had spread beyond the possibility of suppression. Earlier reformers like Jan Hus (executed 1415) and John Wycliffe had raised similar theological arguments but lived in a pre-print world: their ideas could be controlled by controlling them. Luther, in a print world, could not be silenced by being silenced. His ideas had left him and taken on a life of their own."
+    },
+    {
+      "question": "Why did the Sunni-Shi'a divide intensify in the 16th century rather than earlier, given that it dated to the 7th century?",
+      "modelAnswer": "The Sunni-Shi'a theological dispute had existed since the 7th century, but for most of Islamic history, it remained a minority-majority community distinction within shared political entities — not a geopolitical fault line. The Abbasid Caliphate governed both Sunni and Shi'a subjects; the Fatimid Caliphate was Shi'a but ruled Sunni populations; the Ottoman Empire by 1500 included significant Shi'a populations in Anatolia. What changed in 1501 was the creation of a Shi'a state. When Ismail Shah declared Persia officially Shi'a and used state power to enforce conversion, he created a territorial identity: Shi'a = Persian. This gave the Ottoman Empire a religious rationale for permanent hostility (the Safavids were promoting heresy within their borders) and gave the Safavids an identity defined by opposition to Sunni Ottomans. State power transformed theological diversity into geopolitical conflict. The lesson: religious divisions that exist within pluralistic political structures can coexist for centuries; the same divisions, when institutionalized in rival states, become military conflicts."
+    },
+    {
+      "question": "In what ways was Sikhism both a product of and a response to the Hindu-Muslim interactions of its time?",
+      "modelAnswer": "Sikhism emerged from the specific religious ecology of Punjab — a region deeply marked by both Hindu and Sufi Islamic traditions. Guru Nanak's teaching was a product of this context: the Bhakti tradition of direct devotion to a personal God had been spreading through northern India for centuries, challenging Brahmin ritual authority; Sufi Islam had established a deeply rooted tradition of mystical devotion, personal relationship with God, and social service across the same region. Nanak drew on both: the Bhakti emphasis on devotional poetry accessible to ordinary people, the Sufi emphasis on inner spiritual experience over ritual form, and both traditions' questioning of elite intermediaries (Brahmin priests, Islamic ulama). But Sikhism was also a response — a critique of what Nanak found insufficient in both. He rejected caste (which Bhakti partially challenged but did not abolish), rejected the exclusivity of Islamic law that classified non-Muslims as inferior, and rejected both the polytheistic imagery of popular Hinduism and the legalistic formalism of orthodox Islam. The result was a new tradition that could only have emerged in this specific cultural intersection — neither Hindu nor Muslim, yet formed entirely by the encounter of both."
+    },
+    {
+      "question": "Compare the Protestant Reformation and the Sunni-Shi'a split as examples of religious change in this period. What do they have in common, and how do they differ?",
+      "modelAnswer": "Both involve major schisms within existing religious traditions that had political as well as theological dimensions. Both produced lasting divisions that persist today — Western Christianity remains divided into Catholic and Protestant branches; the Islamic world remains divided between Sunni and Shi'a communities. Both were intensified by political rivalries (German princes vs. the Holy Roman Emperor; Ottoman vs. Safavid empires). Both created religious minorities who faced persecution: Protestants in Catholic lands, Shi'a in Ottoman lands. Key differences: The Protestant Reformation involved genuine theological innovation — Luther's sola fide represented a new position that broke with centuries of Catholic teaching. The Sunni-Shi'a split involved the hardening of a very old theological division (7th century) through the new Safavid state's institutional power — it was intensification of an existing division, not the creation of a new theology. Another difference: the Reformation produced dozens of denominations (Lutherans, Calvinists, Anglicans, Anabaptists, eventually Baptists, Methodists, Quakers, and hundreds more), showing how doctrinal innovation can become self-multiplying; the Safavid-Ottoman conflict produced two sharper territorial blocs but did not generate new theological positions within Islam."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

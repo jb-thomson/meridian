@@ -1,0 +1,344 @@
+{
+  "course": "ap-world-history",
+  "num": "6.1",
+  "title": "Rationales for Imperialism from 1750 to 1900",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "💡",
+      "label": "Ideas & Beliefs",
+      "tooltip": "Enlightenment ideas about racial hierarchy, Social Darwinism, and the civilizing mission created an ideological framework that made imperialism appear scientifically and morally justified rather than simply exploitative."
+    },
+    {
+      "icon": "🏛️",
+      "label": "Political",
+      "tooltip": "European nationalism transformed colonial expansion into a competitive race for national prestige. Colonies became symbols of national greatness — nations that lacked empires were seen as falling behind in the struggle for global power."
+    },
+    {
+      "icon": "🌍",
+      "label": "Cultural Interactions",
+      "tooltip": "The civilizing mission and Christian missionary movements claimed to spread culture and religion as a benefit to colonized peoples — while simultaneously suppressing indigenous cultures, languages, and religious practices."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Social Darwinism — pseudo-science of empire —** Herbert Spencer misapplied Darwin’s evolution to human societies, arguing that “survior of the fittest” proved “superior” races were naturally destined to dominate “inferior” ones. This gave imperialism the appearance of biological law — not conquest, but destiny. Know it as KC-5.2.III. **The Civilizing Mission — racism dressed as charity —** Europeans claimed colonialism was justified by the duty to bring education, Christianity, and “civilization” to peoples they considered primitive. Rudyard Kipling’s “White Man’s Burden” (1899) captured the paternalistic logic. In practice it meant cultural destruction, forced labor, and extraction disguised as uplift. **Nationalism and competition — colonies as scorecards —** European powers competed for prestige and strategic advantage. Colonies signaled national greatness. Missing out meant falling behind rivals. The Berlin Conference (1884–85) reflected this competitive logic: nations claimed territory not always because they valued it, but because they feared someone else would take it first. **Religious conversion — missionary zeal —** Christian missionaries saw empire as the vehicle for spreading the Gospel. Their genuine religious conviction gave imperialism moral cover, while church schools and hospitals built institutional infrastructure that colonial governments later used for their own purposes."
+  ],
+  "learningObjectives": [
+    "Explain how ideologies contributed to the development of imperialism from 1750 to 1900"
+  ],
+  "vocabulary": [
+    {
+      "term": "Imperialism",
+      "definition": "The policy of extending a nation’s power through military conquest, economic control, or political domination over other territories.",
+      "importance": "Describes the 19th-century wave of European, American, and Japanese expansion that by 1914 left most of the world under some form of foreign control."
+    },
+    {
+      "term": "Social Darwinism",
+      "definition": "The misapplication of Darwin’s evolutionary theory to human societies, arguing that “stronger” races and nations are naturally destined to dominate “weaker” ones.",
+      "importance": "Provided pseudo-scientific justification for racial hierarchy and imperial conquest; associated with Herbert Spencer and the phrase “survival of the fittest.”"
+    },
+    {
+      "term": "Civilizing Mission",
+      "definition": "The ideology that European colonialism was morally justified by the goal of bringing Western education, Christianity, and “civilization” to non-European peoples.",
+      "importance": "Framed conquest as charity; disguised economic extraction and political control behind paternalistic language of improvement and uplift."
+    },
+    {
+      "term": "White Man’s Burden",
+      "definition": "Phrase from Rudyard Kipling’s 1899 poem arguing that white Europeans had a racial duty to govern and “uplift” non-white peoples.",
+      "importance": "Became a shorthand for the paternalistic racism underlying the civilizing mission; written specifically to encourage the U.S. to colonize the Philippines."
+    },
+    {
+      "term": "Nationalism",
+      "definition": "Intense pride in and loyalty to one’s nation; belief that nations should be sovereign and compete for power and prestige.",
+      "importance": "Fueled European competition for colonies as markers of national greatness; nations feared being left behind if rivals acquired more territory."
+    },
+    {
+      "term": "Racial Hierarchy",
+      "definition": "The ideological belief that human races can be ranked from superior to inferior based on alleged biological differences.",
+      "importance": "Provided the pseudoscientific foundation for Social Darwinism and the civilizing mission; used to argue that European domination of non-European peoples was both natural and beneficial."
+    },
+    {
+      "term": "Settler Colony",
+      "definition": "A colony where large numbers of colonizers permanently relocate and displace indigenous populations (e.g., New Zealand, Australia, South Africa, the Americas).",
+      "importance": "Distinguished from exploitation colonies; settler colonialism involved land seizure, indigenous displacement, and permanent demographic transformation of colonized territories."
+    },
+    {
+      "term": "Scramble for Africa",
+      "definition": "The rapid partition of almost all of Africa by European powers between approximately 1880 and 1914, formalized at the Berlin Conference (1884–85).",
+      "importance": "By 1914 only Ethiopia and Liberia remained independent; demonstrates how ideological justifications enabled rapid territorial seizure regardless of African peoples’ wishes or existing political structures."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Herbert Spencer coined “survival of the fittest” in 1864 to describe market competition, before it was applied to races and nations. Why might powerful industrial nations have found this idea particularly appealing in the late 19th century?",
+      "answer": "Industrial nations were already winners in the economic competition — they had factories, railroads, and gunboats that less-industrialized societies lacked. Social Darwinism gave that existing advantage a flattering interpretation: it wasn’t the result of geography, resources, or historical contingency, but of inherent racial or national “fitness.” This transformed conquest from something requiring moral justification into something that was simply the natural order. Powerful nations embraced it because it told them what they wanted to hear about themselves."
+    },
+    {
+      "question": "Rudyard Kipling wrote “The White Man’s Burden” in 1899 specifically as the United States was debating whether to annex the Philippines after the Spanish-American War. What argument does the poem make, and how does it reveal the ideology behind it?",
+      "answer": "Kipling argues that white Europeans (and Americans) have a racial duty to govern non-white peoples — not for the colonizers’ benefit, but ostensibly for the colonized. The poem frames this as a burden: hard, thankless work done out of duty. This framing reveals the civilizing mission ideology: it defines non-white peoples as childlike, irrational, and incapable of self-governance, while defining white Europeans as self-sacrificing administrators. The ideology disguises economic and political domination as philanthropy — which is precisely why critics found it so offensive."
+    },
+    {
+      "question": "Between 1880 and 1914, European powers colonized nearly all of Africa despite most African territories having limited immediate economic value. What does this suggest about the relationship between economics and ideology in driving imperial expansion?",
+      "answer": "If economics alone drove imperialism, European nations would have colonized only profitable territories. The fact that they raced to claim even barren or sparsely populated land suggests that ideology and geopolitics mattered independently. Nationalism fueled competition: even if a territory wasn’t valuable now, allowing a rival to take it was seen as a defeat. The prestige of empire, the strategic logic of controlling territory “just in case,” and the ideological commitment to spreading “civilization” all pushed expansion beyond what pure economic calculation would justify."
+    },
+    {
+      "question": "Christian missionaries built schools and hospitals in colonized regions. A critic argues these were tools of cultural imperialism; a defender argues they were genuine acts of charity. How might both be right at the same time?",
+      "answer": "Both claims can be simultaneously true because the missionaries’ intentions and the structural effects of their work were different things. Many missionaries genuinely believed they were saving souls and improving lives — and the schools and hospitals they built provided real services. But the same institutions taught European languages, imposed Christian values, discouraged indigenous practices, and produced compliant colonial subjects. Whatever the missionaries’ motives, mission schools functionally served colonial governance by creating an educated class loyal to European institutions. Good intentions do not prevent harmful structural effects."
+    },
+    {
+      "question": "How did European nationalism and Social Darwinism reinforce each other in justifying imperialism?",
+      "answer": "Social Darwinism argued that stronger races naturally dominate weaker ones. Nationalism defined the nation as the primary unit of competition and loyalty. Combined, they produced the idea that nations were competing in a Darwinian struggle for survival and dominance — and that falling behind in that competition (by failing to acquire colonies) was a sign of national weakness or racial inferiority. Both ideas turned empire from a policy choice into a perceived necessity: you had to expand or be dominated. This logic made aggressive imperial expansion appear not just justified but obligatory."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🌎 The Age of Imperialism: What It Was and Why It Happened"
+    },
+    {
+      "type": "paragraph",
+      "text": "Between roughly 1750 and 1900, European nations — joined eventually by the United States and Japan — expanded their control over most of the world. By 1914, Europe and its former colonies controlled approximately 84% of the earth’s land surface. This process is called **imperialism**: the extension of one nation’s power over other territories through military, economic, or political domination."
+    },
+    {
+      "type": "paragraph",
+      "text": "What made the 19th century’s wave of imperialism different from earlier periods of conquest? Two things: scale and ideology. The scale was unprecedented — railroads, steamships, and industrial weapons gave European powers a military advantage they had never previously enjoyed. But the ideology was equally important. To sustain public support for empire, European governments needed to convince their own citizens — and themselves — that conquest was not just profitable but *right*. That’s where the ideological justifications came in. Four major ideologies drove the development of imperialism: Social Darwinism, the civilizing mission, nationalism, and religious conversion. The AP exam requires you to know all four."
+    },
+    {
+      "type": "funFact",
+      "text": "At the Berlin Conference of 1884–85, European powers formally divided Africa into colonial territories. The conference lasted 3 months and produced 38 articles governing African colonization. Not a single African representative was invited or consulted. By 1914, the continent had been divided into 50 territories controlled by 7 European nations — leaving only Ethiopia and Liberia independent."
+    },
+    {
+      "type": "heading",
+      "text": "🧬 Social Darwinism: When Science Becomes Ideology"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1859, Charles Darwin published *On the Origin of Species*, arguing that species evolve through natural selection: organisms better adapted to their environment survive and reproduce at higher rates than less-adapted ones. Darwin was describing biology. But within a decade, others had applied his ideas to human societies — a move Darwin himself largely rejected."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Herbert Spencer**, a British philosopher, coined the phrase “survival of the fittest” in 1864 to describe economic competition. By the 1880s, thinkers across Europe and America were applying evolutionary language to race and empire: some races were “fitter” than others; the dominance of European civilization over “lower races” was simply nature at work. This ideology is called **Social Darwinism**."
+    },
+    {
+      "type": "paragraph",
+      "text": "The appeal of Social Darwinism to imperialists was obvious: it transformed conquest from a moral question into a scientific fact. If the “stronger” race naturally dominated the “weaker,” then colonialism wasn’t something Europeans were choosing — it was something nature was demanding. Resistance to imperialism, by this logic, was resistance to natural law itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course, Social Darwinism was scientific nonsense. Biological evolution has nothing to say about the moral worth or capacities of different human groups. The “superiority” of European technology in 1880 reflected centuries of specific geographical, economic, and historical advantages — not biological destiny. But in the late 19th century, Social Darwinism had the appearance of science, and that appearance was politically powerful."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/6-1-0.jpg",
+      "alt": "19th-century colonial propaganda imagery representing Social Darwinism and the civilizing mission",
+      "caption": "European colonial ideology framed imperialism as the natural triumph of “superior” civilization over “primitive” peoples — Social Darwinism gave this racism the appearance of scientific fact (Google Gemini, 2025), commercially licensed.",
+      "attribution": "European colonial ideology framed imperialism as the natural triumph of “superior” civilization over “primitive” peoples — Social Darwinism gave this racism the appearance of scientific fact (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "heading",
+      "text": "🏛️ The “Civilizing Mission”: Charity or Control?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most widespread ideological justification for imperialism was what the French called the *mission civilisatrice* — the **civilizing mission**. The argument was straightforward: European civilization was more advanced than those of Africa, Asia, and the Pacific. Europeans therefore had a *moral obligation* to bring their civilization — their education systems, their legal codes, their technology, their Christianity — to “less developed” peoples."
+    },
+    {
+      "type": "paragraph",
+      "text": "The British poet Rudyard Kipling captured this ideology most memorably in his 1899 poem “**The White Man’s Burden**,” written to encourage the United States to colonize the Philippines after the Spanish-American War. The poem instructs white Europeans to:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Take up the White Man’s burden — / Send forth the best ye breed — / Go bind your sons to exile / To serve your captives’ need.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The framing is revealing: colonialism is a *burden*, not a benefit to the colonizer. The colonized are “captives” who “need” European governance. This paternalistic logic — we know what’s best for you, even if you resist — was the ideological heart of the civilizing mission."
+    },
+    {
+      "type": "paragraph",
+      "text": "In practice, the civilizing mission justified taking land, suppressing indigenous languages and religions, and imposing European legal systems — all in the name of “improvement.” It did not prevent horrific violence. Belgian king Leopold II cited the civilizing mission while overseeing a regime in the Congo that killed an estimated 10 million people."
+    },
+    {
+      "type": "apTip",
+      "text": "KC-5.2.III lists four ideologies that justified imperialism: Social Darwinism, nationalism, the civilizing mission, and the desire to religiously convert indigenous populations. The AP exam may ask you to identify, describe, or compare any of these. Know a specific example for each: Social Darwinism (Spencer, “survival of the fittest”); civilizing mission (Kipling, “White Man’s Burden”); nationalism (Berlin Conference competition); religious conversion (missionary schools and hospitals)."
+    },
+    {
+      "type": "heading",
+      "text": "🏁 Nationalism and the Race for Empire"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Nationalism** — the belief that nations are distinct, unified communities with legitimate claims to sovereignty and greatness — became one of the most powerful political forces of the 19th century. In the context of imperialism, nationalism turned colonial expansion into a matter of national honor and survival."
+    },
+    {
+      "type": "paragraph",
+      "text": "European powers were intensely aware of each other’s imperial acquisitions. When Britain annexed Egypt in 1882, France felt threatened. When Germany began building a colonial empire in the 1880s, Britain and France accelerated their own expansion to stay ahead. The result was a self-reinforcing competitive spiral: each new colony seized by one power motivated rivals to seize more. This dynamic drove the **Scramble for Africa**, during which European powers claimed territory so rapidly that they needed the Berlin Conference (1884–85) to negotiate who got what without going to war with each other."
+    },
+    {
+      "type": "paragraph",
+      "text": "Importantly, nationalism made empire appear necessary even when it wasn’t economically rational. Some colonies cost more to administer than they generated in profit. But the prestige of the empire — the sense that a great nation needed a great empire — made the calculation political rather than purely economic."
+    },
+    {
+      "type": "heading",
+      "text": "⛪ Religious Justifications: Missionaries and Empire"
+    },
+    {
+      "type": "paragraph",
+      "text": "The fourth ideological pillar of imperialism was religious. Christian missionaries — Catholic and Protestant — believed they had a divine mandate to spread the Gospel to people who had never heard it. In their view, empire opened doors that would otherwise remain closed. Colonial governments provided security; missionaries provided schools and hospitals; both expanded European influence simultaneously."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relationship between missionaries and colonial governments was complex. Some missionaries genuinely opposed colonial abuses — Bartolomé de las Casas had protested the Spanish treatment of indigenous Americans in the 16th century; later missionaries like David Livingstone drew attention to the East African slave trade. But even missionaries who criticized colonial violence rarely questioned the underlying assumption that Christianizing indigenous peoples was inherently beneficial."
+    },
+    {
+      "type": "paragraph",
+      "text": "The institutional legacy was also complex. Mission schools became some of the first formal educational institutions in many colonized regions. But they also taught European languages and values, discouraging indigenous ones — a form of cultural imperialism even when undertaken by people who genuinely believed they were helping."
+    },
+    {
+      "type": "funFact",
+      "text": "The phrase “Dr. Livingstone, I presume?” — reportedly said by journalist Henry Morton Stanley when he found the missionary-explorer David Livingstone in central Africa in 1871 — became one of the most famous phrases of the Victorian era. Livingstone had been missing for years while mapping Africa and documenting the slave trade. His fame helped make European engagement with Africa a popular cause — and gave imperialists a heroic narrative to exploit."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 6.1",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+6.1",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Imperialism",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Imperialism",
+      "creator": "Crash Course · 12 min"
+    },
+    {
+      "title": "Ideas that Justified Imperialism",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+Ideas+that+Justified+Imperialism",
+      "creator": "Heimler's History · 7 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "“Take up the White Man’s burden — / Send forth the best ye breed — / Go bind your sons to exile / To serve your captives’ need; / To wait in heavy harness, / On fluttered folk and wild — / Your new-caught, sullen peoples, / Half-devil and half-child.” — Rudyard Kipling, “The White Man’s Burden,” 1899",
+      "question": "The ideology expressed in the poem most directly reflects which of the following justifications for imperialism?",
+      "options": [
+        "Social Darwinism, which argued that stronger nations would naturally dominate weaker ones",
+        "Economic imperialism, which argued that colonies were necessary sources of raw materials",
+        "Nationalism, which argued that great nations required large colonial empires to maintain their prestige",
+        "The civilizing mission, which argued that Europeans had a duty to govern and uplift non-European peoples"
+      ],
+      "correctIndex": 3,
+      "explanation": "The poem frames imperialism as a duty to “serve your captives’ need” — the colonized are described as “half-devil and half-child,” incapable of self-governance and requiring European guidance. This is the civilizing mission’s paternalistic logic: colonialism benefits the colonized, even though they may resist it. (A) Social Darwinism would focus on the natural dominance of the strong, not on duty or service. (B) Economic motivations are absent from the poem. (C) Nationalism focuses on national prestige, not on obligations to the colonized."
+    },
+    {
+      "stimulus": "“The struggle for existence is universal, and the progress of civilization depends upon the survival and multiplication of those individuals who are best adapted to their environment… It is not to be regretted that the contact of a higher civilization with a lower one generally means the extinction or absorption of the inferior race.” — British imperialist writer, c. 1890",
+      "question": "The argument in the passage most directly reflects which ideology?",
+      "options": [
+        "Nationalism",
+        "Social Darwinism",
+        "The civilizing mission",
+        "Christian missionary ideology"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage applies evolutionary language (“struggle for existence,” “survival,” “adapted”) to human societies and concludes that the dominance of “higher” civilizations over “lower” ones is natural and not regrettable. This is the defining feature of Social Darwinism: misapplying Darwin’s biological theory to justify racial hierarchy and imperial conquest. (A) Nationalism focuses on national competition, not biological fitness. (C) The civilizing mission frames imperialism as uplift, not extinction. (D) Missionaries sought conversion, not extinction."
+    },
+    {
+      "stimulus": "\"Between 1880 and 1914, European powers acquired approximately 10 million square miles of territory in Africa and Asia — roughly one-fifth of the world’s land surface. During this same period, European powers spent far more administering and defending their new colonies than they received in direct economic returns from most of them.\"",
+      "question": "The information in the passage most directly challenges which explanation for 19th-century imperialism?",
+      "options": [
+        "That economic profit was the primary driver of imperial expansion",
+        "That the civilizing mission provided ideological justification for conquest",
+        "That nationalism and prestige motivated imperial expansion",
+        "That Social Darwinism convinced Europeans that expansion was natural"
+      ],
+      "correctIndex": 0,
+      "explanation": "If colonies cost more to administer than they returned in profit, the argument that pure economic interest drove expansion is weakened. The passage suggests that other factors — prestige, ideology, strategic competition — motivated expansion even when it was economically irrational. (C) is not challenged — in fact the passage supports nationalism as an alternative explanation. (B) and (D) are not challenged by cost-benefit calculations."
+    },
+    {
+      "stimulus": "“We must remember that in the competition of nations, as in the competition of individuals, it is the strong who survive and the weak who perish. England has become great by the energy, intelligence, and enterprise of her people. If we are to remain great, we must carry those qualities forward into the competition of nations for dominance in Asia and Africa.” — British politician, c. 1895",
+      "question": "The argument in the passage best reflects which combination of ideologies?",
+      "options": [
+        "The civilizing mission and religious conversion",
+        "Economic imperialism and Social Darwinism",
+        "Social Darwinism and nationalism",
+        "Nationalism and the civilizing mission"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage combines two ideological threads: the evolutionary language of “competition,” “survival,” “strong,” and “weak” (Social Darwinism) with the explicitly nationalist framing of “England’s” greatness, national competition, and “remain[ing] great” (nationalism). Social Darwinism provides the framework; nationalism provides the specific application to Britain’s empire. (A) and (D) are wrong because the passage doesn’t mention duty to uplift colonized peoples or Christianity. (B) is wrong because the passage is about national prestige, not extracting raw materials."
+    },
+    {
+      "stimulus": "“I am not going to stand here and tell you that the French Republic, by taking possession of Algeria, Senegal, and Madagascar, has done a wrong thing. I tell you that the higher races have a right and a duty to civilize the inferior races.” — Jules Ferry, French Prime Minister, speech to the French National Assembly, 1884",
+      "question": "Jules Ferry’s argument in this speech was most likely intended to accomplish which of the following?",
+      "options": [
+        "Persuade French citizens to emigrate to African territories as settler colonists",
+        "Counter Social Darwinist arguments that justified British imperial expansion",
+        "Respond to African resistance movements that challenged French colonial rule",
+        "Build domestic political support for continued French colonial expansion in Africa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ferry was the French Prime Minister speaking to the National Assembly — the legislative body that controlled funding for colonial ventures. His audience was French legislators and, through them, the French public. The speech frames colonial expansion in morally flattering terms (“civilize the inferior races”) precisely to justify the expense and risk of colonial policy to a domestic audience that might question it. (A) is not what Ferry is arguing. (C) addresses African resistance but not what Ferry’s speech was designed to do. (B) is wrong — Ferry is using a similar argument to the Social Darwinists, not countering them."
+    }
+  ],
+  "saq": {
+    "context": "“By 1914, European powers controlled approximately 84% of the world’s land surface. The rapidity of this expansion — most of Africa and much of Asia had been colonized within a single generation after 1880 — required new ideological frameworks to make sense of it. Four overlapping ideologies provided that framework: Social Darwinism, the civilizing mission, nationalism, and religious conversion.”",
+    "directions": "Answer parts A, B, and C. Each part requires a separate short response. Do not write a full essay.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Briefly describe ONE specific way Social Darwinism was used to justify European imperialism in the period 1750–1900.",
+        "sampleAnswer": "Social Darwinism argued that the dominance of European nations over African and Asian societies was not the result of specific historical advantages (geography, industrialization, capital) but of natural racial superiority — the “fitter” race naturally dominated the “weaker.” British imperialists like Cecil Rhodes used this logic to argue that British expansion in Africa was simply nature’s work: a biologically superior civilization fulfilling its evolutionary destiny by governing peoples who were not yet capable of self-governance. This framework made resistance to colonialism appear not just futile but contrary to natural law."
+      },
+      {
+        "label": "Part B",
+        "task": "Briefly explain ONE way the civilizing mission ideology differed from Social Darwinism as a justification for imperialism.",
+        "sampleAnswer": "While Social Darwinism justified imperialism by arguing it was natural and inevitable (stronger races dominate weaker ones regardless of moral considerations), the civilizing mission justified it on moral grounds: Europeans had a positive duty to improve the lives of non-European peoples by sharing their civilization. Kipling’s “White Man’s Burden” frames this as self-sacrifice rather than exploitation. Social Darwinism says empire is right because nature demands it; the civilizing mission says empire is right because it benefits the colonized. The two could be used together but they made different moral arguments."
+      },
+      {
+        "label": "Part C",
+        "task": "Briefly explain ONE way nationalism contributed to the pace and scope of European imperial expansion in the period 1880–1914.",
+        "sampleAnswer": "European nationalism created a competitive dynamic in which each colonial acquisition by one power motivated rivals to acquire more. When Germany began building a colonial empire in the 1880s, Britain and France accelerated their own expansions to prevent being left behind. The Berlin Conference of 1884–85 was itself a product of this competitive nationalism: European powers needed to negotiate the Scramble for Africa without going to war with each other. This nationalist competition helps explain why colonization proceeded so rapidly — far faster than economic logic alone would dictate — since nations claimed territory partly to deny it to rivals rather than because they immediately needed it."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Contextualization",
+        "text": "Industrialization (Unit 5) created the technological means for empire — steamships, railways, quinine for malaria, repeating rifles — and the economic demand for raw materials. Without industrialization, 19th-century imperialism on this scale would have been impossible. But the timing and distribution of colonial acquisitions suggest ideology mattered independently."
+      },
+      {
+        "label": "Evidence — ideology as primary driver",
+        "text": "Many colonies (e.g., sub-Saharan Africa in the 1880s) cost more to administer than they returned in immediate economic profit — yet were still acquired; The Berlin Conference’s speed and scope reflect competitive nationalism, not economic planning; Kipling’s “White Man’s Burden” and Jules Ferry’s speeches frame empire in terms of duty, not profit; Social Darwinism provided a framework that made expansion feel obligatory regardless of cost-benefit analysis"
+      },
+      {
+        "label": "Evidence — economic interests also mattered (qualification)",
+        "text": "Indian cotton and tea, Central African rubber, West African palm oil, South African diamonds and gold were major economic assets; British investment in Argentine railroads and infrastructure = economic imperialism without formal colonization; Opium Wars demonstrate economic interest driving expansion (force China open for trade)"
+      },
+      {
+        "label": "Complexity",
+        "text": "Ideology and economics reinforced each other: ideological justifications made the public and legislators willing to fund expensive colonial ventures; economic interests gave colonial governments the resources to sustain empire; each fed the other in a mutually reinforcing cycle."
+      }
+    ],
+    "prompt": "Evaluate the extent to which ideology, rather than economic interest, drove European imperial expansion from 1750 to 1900.",
+    "note": "Write a full essay with a thesis that makes a historically defensible claim. Use specific evidence from Unit 6 (and earlier units for contextualization). Apply causation as your historical reasoning skill. A strong response will acknowledge evidence on both sides and argue a qualified claim about the relative importance of ideology vs. economics.",
+    "thesisExample": "Strong thesis: “Although economic interests — raw materials, markets, and investment opportunities — provided the underlying material conditions for imperial expansion, ideology was the more significant driver of the scale and pace of 19th-century imperialism, because Social Darwinism, nationalism, and the civilizing mission created moral and political imperatives that pushed expansion well beyond what pure economic calculation would have justified.”"
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. Social Darwinism claimed to be scientific. Why was this particularly powerful as political propaganda, even though the science was wrong?",
+      "modelAnswer": "Science carries enormous authority in modern societies — it claims to describe objective reality, not personal preference or political interest. If imperialism was simply what nature demanded — the stronger race doing what evolution required — it was difficult to argue against without appearing to argue against science itself. This made Social Darwinism more powerful than a purely moral or religious justification: those can be disputed on value grounds, but scientific “facts” seem non-negotiable. The fact that it was bad science — confusing technological advantage with biological destiny, ignoring the role of geography and history — didn’t matter politically because most people lacked the tools to evaluate the argument."
+    },
+    {
+      "question": "2. Compare the civilizing mission and religious conversion as justifications for imperialism. How were they similar? How were they different?",
+      "modelAnswer": "Both justified imperialism as beneficial to the colonized rather than to the colonizer — a form of selfless service rather than exploitation. Both presumed that European culture (secular or Christian) was superior to indigenous cultures. The key difference is scope and specificity: religious conversion focused specifically on spiritual salvation and the spread of Christianity, with missionaries often building genuine relationships with local communities. The civilizing mission was broader — it encompassed legal systems, education, and “progress” — and was more explicitly governmental. In practice they overlapped: colonial governments used missionary schools as instruments of colonial administration, and missionaries depended on colonial security to operate."
+    },
+    {
+      "question": "3. Rudyard Kipling framed imperialism as a “burden” for white Europeans. What does this framing reveal about the ideology’s assumptions — and its contradictions?",
+      "modelAnswer": "The framing reveals two key assumptions: (1) that non-white peoples are incapable of self-governance and need European guidance, and (2) that the work of colonizing them is hard, thankless, and done out of duty rather than self-interest. Both are ideologically convenient fictions. The first denies indigenous peoples’ agency and historical complexity. The second ignores the enormous economic profits, natural resources, and strategic advantages that European powers extracted from their colonies. The contradiction is stark: if empire was truly a burden, why did nations compete so ferociously to acquire more colonies? The “burden” framing disguised what was actually a race for power and wealth behind the language of sacrifice."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

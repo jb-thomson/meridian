@@ -1,0 +1,288 @@
+{
+  "course": "ap-world-history",
+  "num": "8.3",
+  "title": "Effects of the Cold War",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "⚔️",
+      "label": "Proxy Wars",
+      "tooltip": "Rather than fighting directly, the US and USSR backed opposing sides in local conflicts — Korea, Vietnam, Angola, Afghanistan — turning regional disputes into Cold War proxy wars with superpower backing."
+    },
+    {
+      "icon": "☢️",
+      "label": "Nuclear",
+      "tooltip": "The nuclear arms race meant both superpowers built enough weapons to destroy civilization many times over — the doctrine of Mutually Assured Destruction (MAD) maintained a terrifying peace."
+    },
+    {
+      "icon": "🏛️",
+      "label": "Military Alliances",
+      "tooltip": "NATO (Western alliance) and the Warsaw Pact (Eastern bloc) formalized the division of Europe and committed member states to collective defense — making any local conflict potentially global."
+    },
+    {
+      "icon": "🌍",
+      "label": "Postcolonial States",
+      "tooltip": "Newly independent postcolonial states became Cold War battlegrounds — both superpowers offered military and economic aid to win their allegiance, often supporting corrupt or authoritarian regimes in the process."
+    }
+  ],
+  "tldr": [
+    "**LO-A: NATO and the Warsaw Pact divided Europe into two armed camps —** NATO (1949) aligned Western democracies under US leadership; the Warsaw Pact (1955) aligned Eastern European communist states under Soviet leadership. These military alliances institutionalized the Cold War divide and made any European conflict potentially nuclear. **Nuclear proliferation created a new kind of terror —** By 1949 both superpowers had nuclear weapons. By the 1960s, both had thermonuclear (hydrogen) bombs capable of destroying entire cities. The doctrine of \"Mutually Assured Destruction\" (MAD) kept the peace between superpowers — but made every conflict a potential trigger for annihilation. **Proxy wars were the Cold War's actual battlegrounds —** Because direct superpower conflict risked nuclear war, the US and USSR fought through local forces — the Korean War, Angolan Civil War, and Sandinista-Contras conflict in Nicaragua. These are all required CED illustrative examples. Millions of people died in proxy wars. **The US and USSR used different tools to maintain influence —** The US relied on economic aid (Marshall Plan model), military alliances, CIA covert operations, and support for pro-Western governments including authoritarian ones. The USSR relied on military aid, Soviet advisors, support for communist parties, and direct intervention in Eastern Europe."
+  ],
+  "learningObjectives": [
+    "Compare the ways in which the United States and the Soviet Union sought to maintain influence over the course of the Cold War — including NATO, Warsaw Pact, nuclear proliferation, and proxy wars. CED Illustrative Examples: Korean War, Angolan Civil War, Sandinista-Contras conflict in Nicaragua."
+  ],
+  "vocabulary": [
+    {
+      "term": "NATO (1949)",
+      "definition": "North Atlantic Treaty Organization — a military alliance of Western democracies (US, Canada, Western Europe) with a collective defense commitment: an attack on one is an attack on all.",
+      "importance": "Institutionalized the US commitment to defending Western Europe and created the Western Cold War bloc."
+    },
+    {
+      "term": "Warsaw Pact (1955)",
+      "definition": "Soviet-led military alliance of the USSR and Eastern European communist states, created in response to West Germany joining NATO.",
+      "importance": "Institutionalized Soviet military dominance in Eastern Europe and formalized the Cold War's military division of Europe."
+    },
+    {
+      "term": "Nuclear Proliferation",
+      "definition": "The spread of nuclear weapons beyond the original atomic powers (US 1945, USSR 1949, UK 1952, France 1960, China 1964).",
+      "importance": "Made the Cold War uniquely dangerous — by the 1960s, both superpowers had enough weapons to destroy civilization multiple times over."
+    },
+    {
+      "term": "Mutually Assured Destruction (MAD)",
+      "definition": "The doctrine that nuclear war between the US and USSR would destroy both sides, making rational that neither would initiate nuclear conflict.",
+      "importance": "Paradoxically, the threat of total destruction kept the Cold War \"cold\" — but required constant tension management and made every proxy conflict potentially dangerous."
+    },
+    {
+      "term": "Korean War (1950–53)",
+      "definition": "War between communist North Korea (backed by China and USSR) and South Korea (backed by US-led UN forces), ending in armistice with Korea divided at the 38th parallel.",
+      "importance": "CED required proxy war example; demonstrated that Cold War competition could produce hot wars with massive casualties (approx. 2.5 million dead)."
+    },
+    {
+      "term": "Angolan Civil War (1975–2002)",
+      "definition": "Post-independence civil war in Angola between the US-backed UNITA/FNLA and the Soviet/Cuban-backed MPLA.",
+      "importance": "CED required proxy war example; Cuba directly sent troops to support the MPLA at Soviet request — showing how proxy wars could involve third parties, not just the two superpowers."
+    },
+    {
+      "term": "Sandinista-Contras Conflict (Nicaragua)",
+      "definition": "Conflict in which the Sandinista government (Marxist, backed by USSR and Cuba) was opposed by US-funded and trained Contra rebels throughout the 1980s.",
+      "importance": "CED required proxy war example; the Reagan administration's secret funding of the Contras despite a Congressional ban led to the Iran-Contra scandal."
+    },
+    {
+      "term": "Cuban Missile Crisis (1962)",
+      "definition": "A 13-day standoff in which the US discovered Soviet nuclear missiles being installed in Cuba, bringing the world closer to nuclear war than at any other Cold War moment.",
+      "importance": "Resolved diplomatically (Soviets removed missiles; US pledged not to invade Cuba and secretly removed missiles from Turkey) — showed that nuclear deterrence could work but was terrifyingly fragile."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "What is a \"proxy war\" and why did the Cold War produce so many of them?",
+      "answer": "A proxy war is a conflict where two major powers support opposing sides in a third country's war rather than fighting each other directly. The Cold War produced proxy wars because: (1) nuclear weapons made direct US-Soviet conflict potentially suicidal; (2) both superpowers had strong strategic interests in the outcome of conflicts in developing countries; (3) local conflicts — civil wars, independence struggles — provided opportunities for superpowers to advance their positions. The US and USSR could pursue their competition aggressively through proxy forces without triggering nuclear war. The cost was borne by people in Korea, Vietnam, Angola, Nicaragua, Afghanistan, and dozens of other countries."
+    },
+    {
+      "question": "How did NATO and the Warsaw Pact differ from previous military alliances in history?",
+      "answer": "Traditional military alliances were formed for specific conflicts and dissolved afterward (like WWI's Triple Alliance/Triple Entente). NATO and the Warsaw Pact were permanent peacetime alliances that committed members to collective defense indefinitely. They also had integrated military commands, joint exercises, and standardized equipment — creating genuinely unified military structures rather than just mutual defense promises. Most importantly, both operated under the \"nuclear umbrella\" of their respective superpowers: an attack on any NATO member was a potential trigger for US nuclear retaliation; an attack on any Warsaw Pact member could trigger Soviet nuclear response. This made every minor conflict in Europe potentially civilization-ending."
+    },
+    {
+      "question": "Compare the US and Soviet approaches to maintaining influence over \"postcolonial states.\" What did each do?",
+      "answer": "The US typically combined economic aid (tied to market-friendly policies), military assistance to pro-Western governments, and covert CIA operations — supporting and sometimes installing governments that were anti-communist even when they were authoritarian (Iran 1953, Guatemala 1954, Chile 1973). The US also used formal military alliances (SEATO in Asia, CENTO in the Middle East) and military bases worldwide. The USSR provided military equipment, advisors, and ideological support to communist and leftist movements, sometimes directly intervening (Korea, Angola via Cuban proxy, Ethiopia). Both superpowers prioritized strategic outcomes over the welfare of local populations — a pattern that often prolonged conflicts and entrenched authoritarian regimes."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🏛️ Military Alliances: NATO and the Warsaw Pact — KC-6.2.IV.D"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Cold War's first major institutional effect was the creation of permanent, peacetime military alliances that divided Europe (and the world) into armed camps. The **North Atlantic Treaty Organization (NATO)**, founded in 1949, committed the US, Canada, and Western European democracies to collective defense: an armed attack against one member was an attack against all. This formalized the American nuclear \"umbrella\" over Western Europe — Soviet attack on any NATO member could trigger US nuclear response."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Soviet Union responded in 1955 by creating the **Warsaw Pact** — a military alliance of the USSR and its Eastern European satellite states (Poland, East Germany, Czechoslovakia, Hungary, Romania, Bulgaria, Albania). The Warsaw Pact institutionalized Soviet military command over Eastern Europe, allowing the USSR to station troops in member countries and intervene if communist governments were threatened — as it did in Hungary (1956) and Czechoslovakia (1968)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The result was a militarized Europe where any local conflict risked escalating to nuclear war. The phrase \"trip wire\" captured the danger: Soviet troops were so close to NATO forces in Germany that even a minor incident could trigger a catastrophic chain reaction. Both alliances invested massively in conventional and nuclear weapons, creating the arms race that consumed enormous economic resources throughout the Cold War."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/8-3-0.jpg",
+      "alt": "Cold War military alliances and proxy conflicts",
+      "caption": "",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "heading",
+      "text": "☢️ Nuclear Proliferation and the Bomb's Shadow"
+    },
+    {
+      "type": "paragraph",
+      "text": "The United States had used atomic bombs against Japan in August 1945. By August 1949, the USSR had tested its own nuclear weapon — years earlier than American analysts had predicted, partly due to Soviet espionage. By the early 1950s, both sides had tested thermonuclear (hydrogen) bombs, far more powerful than the atomic bombs used on Japan. By the 1960s, both superpowers had enough weapons to kill all of humanity many times over."
+    },
+    {
+      "type": "paragraph",
+      "text": "The resulting doctrine of **Mutually Assured Destruction (MAD)** was grimly logical: if either side launched a nuclear first strike, the other side had enough surviving weapons to retaliate and destroy the attacker. Both sides would be annihilated. Therefore, rational leaders would never initiate nuclear war. The problem was that deterrence required rational actors and perfect communication — conditions that didn't always hold. The **Cuban Missile Crisis** of October 1962 brought the world the closest to nuclear war: for 13 terrifying days, the US and USSR faced off over Soviet nuclear missiles in Cuba, and the outcome depended as much on luck and individual judgment as on strategic calculation."
+    },
+    {
+      "type": "funFact",
+      "text": "During the Cuban Missile Crisis, a Soviet submarine — cut off from communication and believing war had begun — came within one officer's vote of launching a nuclear torpedo that would almost certainly have triggered global nuclear war. Soviet officer **Vasili Arkhipov** refused to authorize the launch, overriding his captain. Soviet protocol required unanimous agreement from three officers; Arkhipov's \"no\" prevented the launch. He is sometimes called \"the man who saved the world.\" The entire episode illustrates how nuclear deterrence was never as stable as theorists believed — it depended on individuals making correct decisions under extreme stress."
+    },
+    {
+      "type": "heading",
+      "text": "⚔️ Proxy Wars: The Cold War's Hot Fronts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because direct superpower conflict risked nuclear annihilation, the US and USSR fought the Cold War through **proxy wars** — supporting opposing sides in conflicts in third countries. The CED identifies three required illustrative examples: the Korean War, the Angolan Civil War, and the Sandinista-Contras conflict in Nicaragua. Know all three."
+    },
+    {
+      "type": "paragraph",
+      "text": "**The Korean War (1950–1953):** After WWII, Korea was divided at the 38th parallel — communist North Korea (backed by USSR, then China) and US-aligned South Korea. In June 1950, North Korea invaded South Korea. The US led a UN coalition that pushed North Korea back, then advanced toward the Chinese border — triggering a massive Chinese intervention. The war settled back near the original dividing line and ended in armistice (1953). Korea remains divided today. Approximately 2.5 million people died, including 36,000 Americans. The Korean War established that the US would fight militarily to contain communism — and that China was a major military power."
+    },
+    {
+      "type": "paragraph",
+      "text": "**The Angolan Civil War (1975–2002):** Angola gained independence from Portugal in 1975, but multiple nationalist factions immediately went to war. The US backed UNITA (led by Jonas Savimbi) and the FNLA; the USSR backed the MPLA (Movimento Popular de Libertação de Angola), which also received direct military support from Cuba — tens of thousands of Cuban troops fought in Angola on the MPLA's behalf. The MPLA won control of the capital and was recognized internationally, but the civil war continued for decades, killing hundreds of thousands. Angola became a classic Cold War proxy battleground played out in an African postcolonial setting."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Sandinista-Contras Conflict in Nicaragua:** In 1979, the Sandinista movement overthrew the US-backed Somoza dictatorship in Nicaragua and established a Marxist government aligned with Cuba and the USSR. The Reagan administration responded by funding, training, and arming \"Contra\" rebels to fight the Sandinistas — even after the US Congress banned such aid (leading to the Iran-Contra scandal, in which the Reagan administration illegally sold weapons to Iran and used the proceeds to fund the Contras). The conflict killed tens of thousands of Nicaraguans throughout the 1980s."
+    },
+    {
+      "type": "apTip",
+      "text": "The LO for Topic 8.3 asks you to **compare** how the US and USSR maintained influence. On the AP exam, \"compare\" means identifying both similarities AND differences. Similarities: both used military alliances, economic aid, and proxy forces. Differences: the US relied more on economic instruments (Marshall Plan model) and worked through multilateral institutions (UN, NATO), while the USSR relied more on direct military presence and communist party networks. Both supported authoritarian governments when it served strategic interests — a key similarity that complicates the \"democracy vs. communism\" framing."
+    },
+    {
+      "type": "heading",
+      "text": "🌍 The Cold War in Postcolonial States"
+    },
+    {
+      "type": "paragraph",
+      "text": "The three proxy war examples — Korea, Angola, Nicaragua — illustrate a crucial pattern: the Cold War's most violent effects were felt not in Europe (where nuclear deterrence kept the peace) but in *postcolonial states* in Asia, Africa, and Latin America. These countries became battlegrounds for superpower competition, often against the wishes of their own peoples."
+    },
+    {
+      "type": "paragraph",
+      "text": "The consequences were devastating: millions of civilians killed; infrastructure destroyed; development distorted by military spending; governments chosen for Cold War alignment rather than popular legitimacy. Local conflicts that might have been resolved regionally were instead prolonged by superpower support for opposing factions. The Cold War logic that \"the enemy of my enemy is my friend\" meant the US and USSR both supported deeply repressive governments — as long as they were on the right side of the ideological divide."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 8.3",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+8.3",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Korean War Summary: HISTORY",
+      "url": "https://www.youtube.com/results?search_query=YouTube+Korean+War+Summary%3A+HISTORY",
+      "creator": "YouTube · video"
+    },
+    {
+      "title": "The Cuban Missile Crisis",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+The+Cuban+Missile+Crisis",
+      "creator": "Crash Course · 12 min"
+    },
+    {
+      "title": "Effects of the Cold War",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+Effects+of+the+Cold+War",
+      "creator": "Heimler's History · 8 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": null,
+      "question": "The Korean War (1950–53), Angolan Civil War (1975–2002), and Sandinista-Contras conflict in Nicaragua are all CED-required examples of Cold War proxy wars because they all:",
+      "options": [
+        "Directly involved US and Soviet ground troops fighting each other",
+        "Occurred in postcolonial states where the US and USSR supported opposing sides to advance Cold War interests without direct superpower military confrontation",
+        "Were resolved through United Nations peacekeeping operations that ended the Cold War competition in each country",
+        "Resulted in communist victory in all three cases, demonstrating Soviet Cold War success"
+      ],
+      "correctIndex": 1,
+      "explanation": "All three were proxy conflicts in postcolonial states where superpower competition was waged through local forces, avoiding direct superpower military confrontation."
+    },
+    {
+      "stimulus": null,
+      "question": "The doctrine of Mutually Assured Destruction (MAD) is paradoxical because it:",
+      "options": [
+        "Required massive military spending that ultimately destroyed the US economy",
+        "Guaranteed that smaller nations could not develop nuclear weapons because the superpowers controlled all nuclear materials",
+        "Prevented the development of conventional military forces, making both superpowers dependent solely on nuclear weapons",
+        "Maintained peace between the superpowers by making nuclear war so catastrophic that rational leaders would not initiate it, while simultaneously making every Cold War conflict a potential trigger for civilization-ending war"
+      ],
+      "correctIndex": 3,
+      "explanation": "MAD's paradox: it kept superpower peace through the threat of mutual annihilation, but required both sides to maintain massive arsenals and made deterrence fragile in any crisis."
+    },
+    {
+      "stimulus": null,
+      "question": "The Warsaw Pact (1955) was created primarily in response to:",
+      "options": [
+        "The Soviet Union's desire to establish formal communist governance throughout Eastern Europe",
+        "The United States' deployment of nuclear weapons to Western Europe",
+        "West Germany's admission to NATO, which the USSR viewed as a direct threat requiring a counterbalancing military alliance",
+        "The Korean War's demonstration that communist forces could be defeated without allied support"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Warsaw Pact was directly triggered by West Germany joining NATO in 1955, formalizing what had been informal Soviet military dominance in Eastern Europe."
+    },
+    {
+      "stimulus": null,
+      "question": "A historian argues that \"Cold War proxy wars caused far more human suffering than any direct US-Soviet confrontation would have.\" Which evidence best supports this argument?",
+      "options": [
+        "Proxy wars in Korea, Vietnam, Angola, Nicaragua, Afghanistan, and elsewhere killed millions of civilians, destroyed infrastructure, and prolonged conflicts that might otherwise have been resolved regionally",
+        "The Cuban Missile Crisis lasted 13 days and was resolved without any casualties",
+        "The Berlin Wall was built without violence and stood for 28 years",
+        "Nuclear weapons were never actually used during the Cold War, proving deterrence was perfectly effective"
+      ],
+      "correctIndex": 0,
+      "explanation": "The cumulative human cost of proxy wars — millions killed across multiple continents — far exceeded the direct casualties of superpower confrontations, most of which were diplomatic crises rather than military conflicts."
+    },
+    {
+      "stimulus": null,
+      "question": "Cuba's military intervention in the Angolan Civil War on behalf of the Soviet-backed MPLA illustrates which aspect of Cold War proxy war dynamics?",
+      "options": [
+        "The Soviet Union's inability to project military power beyond Eastern Europe without relying on allies",
+        "The Non-Aligned Movement's inability to prevent Cold War intervention in African affairs",
+        "The failure of US Cold War strategy in Africa due to budget constraints",
+        "How proxy wars could involve multiple layers — a superpower (USSR) backing a regional power (Cuba) that deployed troops in a third country (Angola) — extending the reach of Cold War competition"
+      ],
+      "correctIndex": 3,
+      "explanation": "The USSR-Cuba-Angola dynamic illustrates how proxy war structures could be multi-layered, with the superpower working through an aligned regional power that provided the actual manpower."
+    }
+  ],
+  "saq": {
+    "parts": [],
+    "prompt": "**a)** Briefly explain ONE similarity in how the United States and Soviet Union sought to maintain influence during the Cold War.",
+    "sampleAnswer": "**Sample Answers:** **a)** Both the US and USSR were willing to support authoritarian governments that aligned with their Cold War interests, regardless of whether those governments respected human rights or democratic principles. The US backed South Korean dictator Syngman Rhee, Chilean general Augusto Pinochet after the 1973 coup, and Shah Mohammad Reza Pahlavi in Iran. The USSR backed communist dictatorships throughout Eastern Europe and supported Mengistu Haile Mariam's brutal regime in Ethiopia. Both superpowers prioritized Cold War strategic alignment over principles of freedom or democracy. **b)** The United States primarily used economic instruments — the Marshall Plan, foreign aid programs, and trade relationships — to create dependency on and goodwill toward the US economic system, while the USSR relied more on direct military presence and the stationing of Soviet troops in allied countries. The US model tried to make alignment economically attractive; the Soviet model enforced alignment through military threat, as demonstrated when Soviet tanks crushed the Hungarian uprising (1956) and the Prague Spring (1968). **c)** The Korean War demonstrated the global reach of Cold War conflict by transforming a local civil conflict between communist North Korea and US-aligned South Korea into an international war involving Chinese military forces and a US-led United Nations coalition with troops from 21 nations. The war also established that the US would commit military forces anywhere communism threatened, not just in Europe — extending the Truman Doctrine of containment to Asia and setting the precedent for US intervention in Vietnam."
+  },
+  "leq": {
+    "outline": [],
+    "prompt": "Evaluate the extent to which the United States and Soviet Union used similar methods to maintain influence during the Cold War.",
+    "modelThesis": "**Model Thesis:** Although the United States and Soviet Union pursued Cold War influence through different primary tools — the US emphasizing economic aid and multilateral alliances, the USSR relying on military presence and communist party networks — both superpowers ultimately employed similar strategies of supporting proxy forces in third-country conflicts, backing authoritarian governments that served their strategic interests, and extending their competition into every domain of global life from culture and science to economics and military affairs, making their methods more similar in practice than Cold War ideological framing suggested."
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. Why did the Cold War's most violent effects occur in postcolonial states in Asia, Africa, and Latin America rather than in Europe?",
+      "modelAnswer": "Europe was the Cold War's primary theater of ideological confrontation — but nuclear deterrence and the presence of massive NATO and Warsaw Pact forces actually prevented hot war there. Both superpowers were acutely aware that any European conflict risked escalating to nuclear exchange, which made direct military confrontation too dangerous. In contrast, proxy wars in Asia, Africa, and Latin America offered opportunities to advance Cold War positions at lower risk of nuclear escalation. Additionally, postcolonial states were often politically unstable — struggling with poverty, weak institutions, and competing nationalist factions — creating openings for superpower influence that stable, wealthy Western European democracies didn't offer. The result was that people in Korea, Vietnam, Angola, Nicaragua, and Afghanistan bore the actual human costs of the Cold War competition."
+    },
+    {
+      "question": "2. How was Cuba's role in the Angolan Civil War an example of Cold War proxy dynamics?",
+      "modelAnswer": "Cuba's intervention in Angola demonstrated how proxy war dynamics could extend beyond the two superpowers to involve third parties acting as proxies themselves. Cuba was already a Soviet ally and had its own ideological commitment to communist movements in Africa — Che Guevara had attempted to spark revolution in Africa in the 1960s. When the MPLA requested help, Cuba dispatched tens of thousands of troops, providing the manpower the MPLA needed to defeat UNITA and the FNLA (which were backed by the US and, embarrassingly for the US, by apartheid South Africa). Cuba was acting as a Soviet proxy, but also had independent motivations. This multi-layered proxy structure — superpower backing a regional power acting in a third country — became a model for Cold War intervention across the developing world."
+    },
+    {
+      "question": "3. In what ways was NATO a continuity with earlier alliance systems, and in what ways was it a departure?",
+      "modelAnswer": "NATO was continuous with earlier alliance systems in that it committed members to mutual defense — similar in principle to the Entente and Alliance systems before WWI. Like those earlier alliances, it created the risk of a \"trip wire\" effect where a minor incident could drag all members into war. It was a departure in several key ways: it was a permanent peacetime alliance rather than a crisis-triggered one; it integrated military commands, standardized equipment, and conducted joint exercises — creating genuine military unity; and it operated under the nuclear umbrella of a single dominant power (the US), meaning the alliance's deterrence relied on the credibility of US nuclear threats. NATO also survived its founding crisis (unlike the pre-WWI alliances, which collapsed in the war they were meant to deter or fought it catastrophically) — it lasted from 1949 to the present."
+    },
+    {
+      "question": "4. Compare how the Korean War and the Angolan Civil War illustrate similarities and differences in Cold War proxy war dynamics.",
+      "modelAnswer": "Both were proxy wars in which the US and USSR supported opposing sides to advance Cold War positions without direct superpower confrontation. Both involved newly decolonized or newly divided countries whose internal conflicts became Cold War battlegrounds. Differences: The Korean War involved direct US military intervention under UN authorization and prompted direct Chinese military intervention — making it a \"hot war\" between major powers, not just proxy forces. The Angolan conflict was more indirect: neither the US nor USSR deployed their own troops; instead, they supplied money, weapons, and in the USSR's case, Cuban proxy forces. The Korean War was resolved (in armistice) relatively quickly (3 years); the Angolan civil war lasted 27 years. The Korean War created a permanent division that persists today; Angola eventually reunified under the MPLA after the civil war ended in 2002."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

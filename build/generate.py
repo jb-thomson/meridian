@@ -43,6 +43,21 @@ def slug_num(num):
     return num.replace(".", "-")
 
 
+def normalize_callouts(items):
+    """Fun facts / AP tips can be a plain string (old format, always renders
+    at the end of the reading) or a {"text": ..., "afterParagraph": N} dict
+    (new format, renders inline right after narrative paragraph N, 0-indexed).
+    Normalize everything to the dict shape so templates only deal with one
+    representation."""
+    norm = []
+    for it in items or []:
+        if isinstance(it, str):
+            norm.append({"text": it, "afterParagraph": None})
+        else:
+            norm.append({"text": it.get("text", ""), "afterParagraph": it.get("afterParagraph")})
+    return norm
+
+
 def load_course(slug):
     with open(os.path.join(DATA_DIR, "courses", slug + ".json")) as f:
         course = json.load(f)
@@ -56,6 +71,10 @@ def load_course(slug):
                     content = json.load(cf)
                 t.update(content)
                 t["status"] = content.get("status", "complete")
+                t["funFacts"] = normalize_callouts(t.get("funFacts"))
+                t["apTips"] = normalize_callouts(t.get("apTips"))
+                for img in t.get("images") or []:
+                    img.setdefault("afterParagraph", None)
             else:
                 t["status"] = "coming-soon"
             t["unitNum"] = unit["num"]

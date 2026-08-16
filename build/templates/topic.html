@@ -25,42 +25,123 @@
 <div class="reading-head">
   <span class="kicker">{{ course.shortName }} · Unit {{ unit.num }}: {{ unit.title }}</span>
   <h1>{{ topic.num }} {{ topic.title }}</h1>
+  {% if topic.themes %}
+  <div class="theme-chip-row reveal">
+    {% for th in topic.themes %}<span class="theme-chip" title="{{ th.tooltip }}">{{ th.icon }} {{ th.label }}</span>{% endfor %}
+  </div>
+  {% else %}
+  <div class="tag-row reveal">
+    <span class="tag-pill">Unit {{ topic.num }}</span>
+    {% if topic.standard %}<span class="tag-pill standard">Standard {{ topic.standard }}</span>{% endif %}
+  </div>
+  {% endif %}
   {% if topic.dateRange %}<div class="daterange">{{ topic.dateRange }}</div>{% endif %}
+  {% if topic.readingMinutes %}<div class="reading-time">🕐 {{ topic.readingMinutes }} min read</div>{% endif %}
 </div>
 
-<div class="action-row">
-  <button class="btn btn-primary" type="button" data-complete-course="{{ course.slug }}" data-complete-num="{{ topic.num }}">Mark as read</button>
-  <button class="btn" data-action="print" data-print-mode="reading-only" type="button">🖨️ Print: Reading Only</button>
-  <button class="btn" data-action="print" data-print-mode="full" type="button">🖨️ Print: Full (+ Practice)</button>
+<div class="util-bar reveal">
+  <div class="util-bar-left">
+    <button class="btn btn-primary btn-sm" type="button" data-complete-course="{{ course.slug }}" data-complete-num="{{ topic.num }}">Mark as read</button>
+    <button class="btn btn-sm" data-action="print" data-print-mode="reading-only" type="button">🖨️ Reading only</button>
+    <button class="btn btn-sm" data-action="print" data-print-mode="full" type="button">🖨️ Full (+ practice)</button>
+  </div>
+  {% if topic.tldr or topic.preTest %}
+  <div class="util-bar-right">
+    {% if topic.tldr %}<button class="util-pill" type="button" data-util-toggle="tldr">📋 TL;DR</button>{% endif %}
+    {% if topic.preTest %}<button class="util-pill" type="button" data-util-toggle="pretest">🧠 Pre-Test</button>{% endif %}
+  </div>
+  {% endif %}
 </div>
 
 {% if topic.tldr %}
-<div class="callout callout-tldr reveal">
-  <button class="callout-toggle" type="button">TL;DR<span class="plus">+</span></button>
-  <div class="callout-body-wrap"><div class="callout-body-inner"><div class="callout-body">{{ topic.tldr|md }}</div></div></div>
+<div class="util-panel" data-util-panel="tldr" hidden>
+  {% if topic.tldr is string %}
+  <p>{{ topic.tldr|md }}</p>
+  {% else %}
+  <ul class="util-panel-list">{% for item in topic.tldr %}<li>{{ item|md }}</li>{% endfor %}</ul>
+  {% endif %}
+</div>
+{% endif %}
+
+{% if topic.preTest %}
+<div class="util-panel" data-util-panel="pretest" hidden>
+  <p class="hint">Try each question before revealing the answer.</p>
+  {% for q in topic.preTest %}
+  <details class="pretest-item">
+    <summary>{{ loop.index }}. {{ q.question|md }}</summary>
+    <div class="pretest-answer">{{ q.answer|md }}</div>
+  </details>
+  {% endfor %}
 </div>
 {% endif %}
 
 {% if topic.learningObjectives %}
-<div class="section-label reveal">Learning Objectives</div>
+<div class="section-label reveal">Learning Objective{{ 's' if topic.learningObjectives|length > 1 else '' }}</div>
 <ul class="reading-body">
   {% for lo in topic.learningObjectives %}<li>{{ lo|md }}</li>{% endfor %}
 </ul>
 {% endif %}
 
+{% if topic.vocabulary %}
+<div class="vocab-box reveal">
+  <div class="vocab-box-title">Key Vocabulary</div>
+  <p class="vocab-box-hint">Tap a term for its definition.</p>
+  <ul class="vocab-list">
+    {% for v in topic.vocabulary %}
+    <li class="vocab-item">
+      <button class="vocab-term-btn" type="button">{{ v.term|md }}<span class="plus">+</span></button>
+      <div class="vocab-body-wrap">
+        <div class="vocab-def">
+          <span class="vocab-extra-label">Definition:</span> {{ v.definition|md }}
+          {% if v.importance %}<span class="vocab-extra"><span class="vocab-extra-label">Significance:</span> {{ v.importance|md }}</span>{% endif %}
+          {% if v.example %}<span class="vocab-extra"><span class="vocab-extra-label">Example:</span> {{ v.example|md }}</span>{% endif %}
+        </div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
 <div class="section-label reveal">The Reading</div>
 <div class="reading-body">
-  {% for para in topic.narrative %}<p>{{ para|md }}</p>{% endfor %}
-</div>
-
-{% if topic.images %}
-  {% for img in topic.images %}
+{% if topic.blocks %}
+  {% for b in topic.blocks %}
+    {% if b.type == 'heading' %}
+  <h3 class="reading-subhead">{{ b.text|md }}</h3>
+    {% elif b.type == 'paragraph' %}
+  <p>{{ b.text|md }}</p>
+    {% elif b.type == 'list' %}
+  <ul class="reading-list">{% for it in b['items'] %}<li>{{ it|md }}</li>{% endfor %}</ul>
+    {% elif b.type == 'funFact' %}
+  <div class="info-box fun-fact reveal">
+    <div class="info-box-label">💡 Fun Fact</div>
+    <div class="info-box-body">{{ b.text|md }}</div>
+  </div>
+    {% elif b.type == 'apTip' %}
+  <div class="info-box ap-tip reveal">
+    <div class="info-box-label">📝 {{ course.tipLabel|default('AP Exam Tip') }}</div>
+    <div class="info-box-body">{{ b.text|md }}</div>
+  </div>
+    {% elif b.type == 'image' %}
   <figure class="reading-figure reveal">
-    {% if img.type == 'ai_generated' and img.src %}
-    <img src="{{ img.src }}" alt="{{ img.alt }}">
-    {% elif img.type == 'public_domain_historical' %}
-    <img src="{{ img.src }}" alt="{{ img.alt }}">
+    {% if b.src %}<img src="{{ root }}{{ b.src }}" alt="{{ b.alt }}">{% endif %}
+    <figcaption>
+      {% if b.imageType == 'ai_generated' %}<span class="img-badge ai">AI-Generated Illustration</span>{% else %}<span class="img-badge hist">Real Historical Image</span>{% endif %}
+      <br>{{ b.caption|md }}
+      <span class="img-attribution">{{ b.attribution }}</span>
+      {% if not b.src %}<div class="ai-pending-note">Image not yet generated for this build.</div>{% endif %}
+    </figcaption>
+  </figure>
     {% endif %}
+  {% endfor %}
+{% else %}
+  {% for para in topic.narrative %}
+  {% set pidx = loop.index0 %}
+  <p>{{ para|md }}</p>
+  {% for img in topic.images if img.afterParagraph == pidx %}
+  <figure class="reading-figure reveal">
+    {% if img.src %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endif %}
     <figcaption>
       {% if img.type == 'ai_generated' %}<span class="img-badge ai">AI-Generated Illustration</span>{% else %}<span class="img-badge hist">Real Historical Image</span>{% endif %}
       <br>{{ img.caption|md }}
@@ -72,48 +153,68 @@
       {% else %}
       <span class="img-attribution">{{ img.attributionNote }}</span>
       {% if not img.src %}<div class="ai-pending-note">Image not yet generated for this build.</div>{% endif %}
+      {% if img.regenPrompt %}
       <div class="regen-row">
         <button class="btn btn-sm regen-toggle" type="button" data-target="regen-{{ loop.index }}-{{ topic.num.replace('.', '-') }}">View regeneration prompt</button>
         <div class="regen-prompt" id="regen-{{ loop.index }}-{{ topic.num.replace('.', '-') }}">{{ img.regenPrompt }}</div>
       </div>
       {% endif %}
+      {% endif %}
     </figcaption>
   </figure>
   {% endfor %}
-{% endif %}
-
-{% if topic.vocabulary %}
-<div class="section-label reveal">Key Vocabulary <span style="text-transform:none;font-weight:400;">(tap a term)</span></div>
-<ul class="vocab-list">
-  {% for v in topic.vocabulary %}
-  <li class="vocab-item">
-    <button class="vocab-term-btn" type="button">{{ v.term|md }}<span class="plus">+</span></button>
-    <div class="vocab-body-wrap"><div class="vocab-body-inner">
-      <div class="vocab-def">
-        {{ v.definition|md }}
-        {% if v.importance %}<span class="vocab-extra"><span class="vocab-extra-label">Why it matters:</span> {{ v.importance|md }}</span>{% endif %}
-        {% if v.example %}<span class="vocab-extra"><span class="vocab-extra-label">Example:</span> {{ v.example|md }}</span>{% endif %}
-      </div>
-    </div></div>
-  </li>
+  {% for f in topic.funFacts if f.afterParagraph == pidx %}
+  <div class="info-box fun-fact reveal">
+    <div class="info-box-label">💡 Fun Fact</div>
+    <div class="info-box-body">{{ f.text|md }}</div>
+  </div>
   {% endfor %}
-</ul>
+  {% for tp in topic.apTips if tp.afterParagraph == pidx %}
+  <div class="info-box ap-tip reveal">
+    <div class="info-box-label">📝 {{ course.tipLabel|default('AP Exam Tip') }}</div>
+    <div class="info-box-body">{{ tp.text|md }}</div>
+  </div>
+  {% endfor %}
+  {% endfor %}
 {% endif %}
+</div>
 
-{% if topic.funFacts %}
-{% for f in topic.funFacts %}
-<div class="callout callout-fun reveal">
-  <button class="callout-toggle" type="button">Fun Fact<span class="plus">+</span></button>
-  <div class="callout-body-wrap"><div class="callout-body-inner"><div class="callout-body">{{ f|md }}</div></div></div>
+{# anything without an afterParagraph (old-format content only) renders here #}
+{% if not topic.blocks %}
+{% for img in topic.images if img.afterParagraph is none %}
+<figure class="reading-figure reveal">
+  {% if img.src %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endif %}
+  <figcaption>
+    {% if img.type == 'ai_generated' %}<span class="img-badge ai">AI-Generated Illustration</span>{% else %}<span class="img-badge hist">Real Historical Image</span>{% endif %}
+    <br>{{ img.caption|md }}
+    {% if img.type == 'public_domain_historical' %}
+    <div class="regen-row">
+      <button class="btn btn-sm regen-toggle" type="button" data-target="src-end-{{ loop.index }}-{{ topic.num.replace('.', '-') }}">Source &amp; license</button>
+      <div class="regen-prompt" id="src-end-{{ loop.index }}-{{ topic.num.replace('.', '-') }}">Source: <a href="{{ img.sourceUrl }}" target="_blank" rel="noopener">{{ img.attribution }}</a><br>License: {{ img.license }}</div>
+    </div>
+    {% else %}
+    <span class="img-attribution">{{ img.attributionNote }}</span>
+    {% if not img.src %}<div class="ai-pending-note">Image not yet generated for this build.</div>{% endif %}
+    {% if img.regenPrompt %}
+    <div class="regen-row">
+      <button class="btn btn-sm regen-toggle" type="button" data-target="regen-end-{{ loop.index }}-{{ topic.num.replace('.', '-') }}">View regeneration prompt</button>
+      <div class="regen-prompt" id="regen-end-{{ loop.index }}-{{ topic.num.replace('.', '-') }}">{{ img.regenPrompt }}</div>
+    </div>
+    {% endif %}
+    {% endif %}
+  </figcaption>
+</figure>
+{% endfor %}
+{% for f in topic.funFacts if f.afterParagraph is none %}
+<div class="info-box fun-fact reveal">
+  <div class="info-box-label">💡 Fun Fact</div>
+  <div class="info-box-body">{{ f.text|md }}</div>
 </div>
 {% endfor %}
-{% endif %}
-
-{% if topic.apTips %}
-{% for t in topic.apTips %}
-<div class="callout callout-tip reveal">
-  <button class="callout-toggle" type="button">{{ course.tipLabel|default('AP Tip') }}<span class="plus">+</span></button>
-  <div class="callout-body-wrap"><div class="callout-body-inner"><div class="callout-body">{{ t|md }}</div></div></div>
+{% for tp in topic.apTips if tp.afterParagraph is none %}
+<div class="info-box ap-tip reveal">
+  <div class="info-box-label">📝 {{ course.tipLabel|default('AP Exam Tip') }}</div>
+  <div class="info-box-body">{{ tp.text|md }}</div>
 </div>
 {% endfor %}
 {% endif %}
@@ -133,7 +234,7 @@
   <button class="expand-toggle" type="button">Watch: video resources<span class="plus">+</span></button>
   <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">
     <ul style="margin:0;padding-left:1.1em;">
-      {% for v in topic.videoResources %}<li><a href="{{ v.url }}" target="_blank" rel="noopener">{{ v.title }}</a> — {{ v.creator }}</li>{% endfor %}
+      {% for v in topic.videoResources %}<li><a href="{{ v.url }}" target="_blank" rel="noopener">{{ v.title }}</a>{% if v.creator %} — {{ v.creator }}{% endif %}</li>{% endfor %}
     </ul>
   </div></div></div>
 </div>
@@ -150,52 +251,102 @@
   {% endif %}
 </div>
 
-{% if topic.discussionQuestions %}
-<div class="section-label reveal practice-block">Discussion Questions</div>
-{% for dq in topic.discussionQuestions %}
-<div class="expand-item practice-block">
-  <button class="expand-toggle" type="button">{{ dq.question|md }}<span class="plus">+</span></button>
-  <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body"><strong class="ui-font">Model answer:</strong> {{ dq.modelAnswer|md }}</div></div></div>
-</div>
-{% endfor %}
-{% endif %}
-
 {% if topic.multipleChoice %}
-<div class="section-label reveal practice-block">Check Your Understanding</div>
-{% for q in topic.multipleChoice %}
-<div class="mcq practice-block" data-correct="{{ q.correctIndex }}">
-  <button class="mcq-header" type="button">Question {{ loop.index }}<span class="plus">+</span></button>
-  <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
-    <div class="mcq-q">{{ q.question|md }}</div>
-    <ul class="mcq-opts">
-      {% for opt in q.options %}<li class="mcq-opt">{{ opt|md }}</li>{% endfor %}
-    </ul>
-    <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
-    <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">{{ q.explanation|md }}</div></div></div>
+<div class="practice-group practice-block reveal" data-group="mcq">
+  <button class="practice-group-toggle" type="button"><span>📝 Multiple Choice Questions</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    {% for q in topic.multipleChoice %}
+    <div class="mcq" data-correct="{{ q.correctIndex }}">
+      <button class="mcq-header" type="button">Question {{ loop.index }}<span class="plus">+</span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        {% if q.stimulus %}<div class="mcq-stimulus">{{ q.stimulus|md }}</div>{% endif %}
+        <div class="mcq-q">{{ q.question|md }}</div>
+        <ul class="mcq-opts">
+          {% for opt in q.options %}<li class="mcq-opt">{{ opt|md }}</li>{% endfor %}
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">{{ q.explanation|md }}</div></div></div>
+      </div></div></div>
+    </div>
+    {% endfor %}
   </div></div></div>
 </div>
-{% endfor %}
 {% endif %}
 
 {% if topic.saq %}
-<div class="section-label reveal practice-block">Short Answer Practice (SAQ)</div>
-<div class="frq-block practice-block">
-  <div class="frq-prompt">{{ topic.saq.prompt|md }}</div>
-  <div class="expand-item">
-    <button class="expand-toggle" type="button">Show sample answer<span class="plus">+</span></button>
-    <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ topic.saq.sampleAnswer|md }}</div></div></div>
-  </div>
+<div class="practice-group practice-block reveal" data-group="saq">
+  <button class="practice-group-toggle" type="button"><span>✍️ Short Answer Questions</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    {% if topic.saq.parts %}
+    <div class="frq-block" style="margin:0;border:none;padding:0;">
+      {% if topic.saq.context %}<div class="saq-context">{{ topic.saq.context|md }}</div>{% endif %}
+      {% if topic.saq.directions %}<p class="hint">{{ topic.saq.directions|md }}</p>{% endif %}
+      {% for part in topic.saq.parts %}
+      <div class="saq-part">
+        <p class="saq-part-label">{{ part.label }}</p>
+        <p class="saq-task">{{ part.task|md }}</p>
+        <div class="expand-item">
+          <button class="expand-toggle" type="button">Show sample answer<span class="plus">+</span></button>
+          <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ part.sampleAnswer|md }}</div></div></div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% else %}
+    <div class="frq-block" style="margin:0;border:none;padding:0;">
+      <div class="frq-prompt">{{ topic.saq.prompt|md }}</div>
+      <div class="expand-item">
+        <button class="expand-toggle" type="button">Show sample answer<span class="plus">+</span></button>
+        <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ topic.saq.sampleAnswer|md }}</div></div></div>
+      </div>
+    </div>
+    {% endif %}
+  </div></div></div>
 </div>
 {% endif %}
 
 {% if topic.leq %}
-<div class="section-label reveal practice-block">Long Essay Practice (LEQ)</div>
-<div class="frq-block practice-block">
-  <div class="frq-prompt">{{ topic.leq.prompt|md }}</div>
-  <div class="expand-item">
-    <button class="expand-toggle" type="button">Show model thesis<span class="plus">+</span></button>
-    <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ topic.leq.modelThesis|md }}</div></div></div>
-  </div>
+<div class="practice-group practice-block reveal" data-group="leq">
+  <button class="practice-group-toggle" type="button"><span>📄 Long Essay Question</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    {% if topic.leq.outline %}
+    <div class="frq-block" style="margin:0;border:none;padding:0;">
+      <div class="frq-prompt">{{ topic.leq.prompt|md }}</div>
+      {% if topic.leq.note %}<p class="hint">{{ topic.leq.note|md }}</p>{% endif %}
+      <div class="expand-item">
+        <button class="expand-toggle" type="button">Show thesis example &amp; essay outline<span class="plus">+</span></button>
+        <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">
+          {% if topic.leq.thesisExample %}<p><strong class="ui-font">{{ topic.leq.thesisExample|md }}</strong></p>{% endif %}
+          <ul class="leq-outline">
+            {% for pt in topic.leq.outline %}<li><span class="leq-outline-label">{{ pt.label }}:</span> {{ pt.text|md }}</li>{% endfor %}
+          </ul>
+        </div></div></div>
+      </div>
+    </div>
+    {% else %}
+    <div class="frq-block" style="margin:0;border:none;padding:0;">
+      <div class="frq-prompt">{{ topic.leq.prompt|md }}</div>
+      <div class="expand-item">
+        <button class="expand-toggle" type="button">Show model thesis<span class="plus">+</span></button>
+        <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ topic.leq.modelThesis|md }}</div></div></div>
+      </div>
+    </div>
+    {% endif %}
+  </div></div></div>
+</div>
+{% endif %}
+
+{% if topic.discussionQuestions %}
+<div class="practice-group practice-block reveal" data-group="cyu">
+  <button class="practice-group-toggle" type="button"><span>📖 Check Your Understanding</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    {% for dq in topic.discussionQuestions %}
+    <div class="expand-item">
+      <button class="expand-toggle" type="button">{{ dq.question|md }}<span class="plus">+</span></button>
+      <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body"><strong class="ui-font">Model answer:</strong> {{ dq.modelAnswer|md }}</div></div></div>
+    </div>
+    {% endfor %}
+  </div></div></div>
 </div>
 {% endif %}
 
@@ -225,8 +376,8 @@
 {% endif %}
 
 <div class="teacher-notes">
-  <h3>My Notes (edit this yourself — no AI)</h3>
-  <p class="hint">This box is yours. Open this page's HTML file directly (in GitHub's editor or any text editor), find the <code>&lt;!-- MY-NOTES-START --&gt;</code> comment below, and type between the markers. Changes show up as soon as you save and re-publish the file — nothing else on the page will change.</p>
+  <h3>📝 My Notes <span style="font-weight:400;">(edit this yourself — no AI needed)</span></h3>
+  <p class="hint">This box is yours. Open this page's HTML file directly (in GitHub's editor or any text editor), find the <code>&lt;!-- MY-NOTES-START --&gt;</code> comment below, and type between the markers — corrections, extra context for this year's students, a link, anything. Changes show up as soon as you save and re-publish the file — nothing else on the page will change.</p>
   <!-- MY-NOTES-START -->
   <p>{{ (topic.teacherNotes if topic.teacherNotes else "(Add your own notes, corrections, or extra context here.)")|md }}</p>
   <!-- MY-NOTES-END -->
