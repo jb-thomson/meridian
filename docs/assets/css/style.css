@@ -59,6 +59,69 @@ img { max-width: 100%; height: auto; display: block; }
 .brand small { display: block; font-weight: 500; font-size: 0.62rem; color: var(--ink-soft); letter-spacing: 0.04em; text-transform: uppercase; }
 .topbar-actions { display: flex; gap: 8px; align-items: center; }
 
+.sidebar-toggle {
+  display: flex; flex-direction: column; justify-content: center; gap: 4px;
+  width: 34px; height: 34px; border: 1px solid var(--line); border-radius: 8px;
+  background: var(--paper-raised); cursor: pointer; padding: 0 7px; margin-right: 4px; flex-shrink: 0;
+}
+.sidebar-toggle span { display: block; height: 2px; border-radius: 2px; background: var(--ink); }
+
+/* ---------- App shell: sidebar + main content ---------- */
+.app-shell { display: block; }
+main.container.with-sidebar { max-width: var(--max-width); }
+
+.course-sidebar {
+  background: var(--paper-raised); border-right: 1px solid var(--line);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+.sidebar-course-link { display: block; text-decoration: none; padding: 16px; border-bottom: 1px solid var(--line); }
+.sidebar-kicker { display: block; font-size: 0.66rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--course-color, var(--accent)); }
+.sidebar-course-name { display: block; font-weight: 800; font-size: 1.05rem; color: var(--ink); margin-top: 2px; }
+.sidebar-units { list-style: none; margin: 0; padding: 6px 0 20px; }
+.sidebar-unit-toggle {
+  width: 100%; text-align: left; background: none; border: none; cursor: pointer;
+  padding: 11px 16px; display: flex; align-items: flex-start; justify-content: space-between; gap: 8px;
+}
+.sidebar-unit-label { font-size: 0.86rem; font-weight: 700; color: var(--ink); line-height: 1.3; }
+.sidebar-unit-num { display: block; font-size: 0.66rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--course-color, var(--accent)); margin-bottom: 2px; }
+.sidebar-unit-toggle .chevron { color: var(--ink-soft); flex-shrink: 0; margin-top: 2px; transition: transform .15s ease; }
+.sidebar-unit.open .sidebar-unit-toggle .chevron { transform: rotate(90deg); }
+.sidebar-topics { list-style: none; margin: 0; padding: 0 0 6px; display: none; }
+.sidebar-unit.open .sidebar-topics { display: block; }
+.sidebar-topic-link {
+  display: flex; align-items: baseline; gap: 8px; padding: 8px 16px 8px 22px; text-decoration: none;
+  color: var(--ink-soft); font-size: 0.82rem; border-left: 3px solid transparent;
+}
+.sidebar-topic-link:hover { background: var(--accent-soft); color: var(--ink); }
+.sidebar-topic-link .tnum { font-weight: 700; color: var(--course-color, var(--accent)); min-width: 2.4em; flex-shrink: 0; }
+.sidebar-topic-link.active { background: var(--accent-soft); color: var(--ink); border-left-color: var(--course-color, var(--accent)); font-weight: 700; }
+.sidebar-topic-link.is-soon { font-style: italic; opacity: .65; }
+
+.sidebar-overlay { display: none; }
+
+@media (max-width: 899.98px) {
+  .course-sidebar {
+    position: fixed; top: 0; left: 0; bottom: 0; width: 280px; max-width: 84vw; z-index: 70;
+    transform: translateX(-100%); transition: transform .25s ease; overflow-y: auto;
+    box-shadow: 4px 0 24px rgba(20,17,14,.25);
+  }
+  .course-sidebar.open { transform: translateX(0); }
+  .sidebar-overlay.open {
+    display: block; position: fixed; inset: 0; background: rgba(20,17,14,.45); z-index: 65;
+  }
+}
+
+@media (min-width: 900px) {
+  .sidebar-toggle { display: none; }
+  .app-shell { display: flex; align-items: flex-start; }
+  .course-sidebar {
+    width: 268px; flex-shrink: 0; position: sticky; top: 61px;
+    height: calc(100vh - 61px); overflow-y: auto;
+  }
+  main.container.with-sidebar { flex: 1; max-width: none; padding: 0 40px; margin: 0; }
+  main.container.with-sidebar > * { max-width: 720px; }
+}
+
 .btn {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-size: 0.85rem; font-weight: 600;
@@ -72,24 +135,41 @@ img { max-width: 100%; height: auto; display: block; }
 .btn-sm { padding: 5px 10px; font-size: 0.75rem; }
 
 /* ---------- Landing page ---------- */
-.hero { padding: 40px 0 24px; text-align: center; }
-.hero h1 { font-size: 2rem; margin: 0 0 6px; }
-.hero p { color: var(--ink-soft); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 46ch; margin: 0 auto; }
+.hero {
+  padding: 64px 0 40px; text-align: center; margin: 0 -16px 8px; padding-left: 16px; padding-right: 16px;
+  background:
+    radial-gradient(circle at 15% 20%, rgba(138,75,47,.10), transparent 45%),
+    radial-gradient(circle at 85% 0%, rgba(47,107,79,.10), transparent 45%),
+    var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+.hero .eyebrow {
+  display: inline-block; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.74rem; font-weight: 800;
+  text-transform: uppercase; letter-spacing: .1em; color: var(--accent); background: var(--accent-soft);
+  padding: 5px 14px; border-radius: 999px; margin-bottom: 16px;
+}
+.hero h1 { font-size: 2.6rem; margin: 0 0 10px; letter-spacing: -0.01em; }
+.hero p { color: var(--ink-soft); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 48ch; margin: 0 auto; font-size: 1.02rem; }
 
-.course-grid { display: grid; grid-template-columns: 1fr; gap: 14px; padding: 8px 0 40px; }
+.course-grid { display: grid; grid-template-columns: 1fr; gap: 16px; padding: 28px 0 48px; }
 @media (min-width: 640px) { .course-grid { grid-template-columns: 1fr 1fr; } }
 
 .course-card {
-  display: block; text-decoration: none; color: var(--ink);
-  background: var(--paper-raised); border: 1px solid var(--line); border-radius: var(--radius);
-  padding: 20px; border-top: 5px solid var(--card-color, var(--accent));
-  transition: transform .1s ease;
+  display: block; text-decoration: none; color: var(--ink); position: relative;
+  background: var(--paper-raised); border: 1px solid var(--line); border-radius: 16px;
+  padding: 24px 22px; overflow: hidden;
+  transition: transform .15s ease, box-shadow .15s ease;
 }
-.course-card:hover { transform: translateY(-2px); }
+.course-card::before {
+  content: ''; position: absolute; inset: 0 0 auto 0; height: 6px;
+  background: linear-gradient(90deg, var(--card-color, var(--accent)), color-mix(in srgb, var(--card-color, var(--accent)) 55%, #fff));
+}
+.course-card .card-icon { font-size: 1.8rem; margin-bottom: 10px; display: block; }
+.course-card:hover { transform: translateY(-3px); box-shadow: 0 10px 28px rgba(28,26,23,.10); }
 .course-card .kicker { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--card-color, var(--accent)); }
-.course-card h2 { font-size: 1.2rem; margin: 4px 0 6px; }
-.course-card p { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.88rem; color: var(--ink-soft); margin: 0 0 10px; }
-.course-card .progress-line { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.78rem; color: var(--ink-soft); }
+.course-card h2 { font-size: 1.28rem; margin: 4px 0 6px; }
+.course-card p { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.9rem; color: var(--ink-soft); margin: 0 0 14px; }
+.course-card .progress-line { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.78rem; font-weight: 600; color: var(--card-color, var(--accent)); }
 
 /* ---------- Progress bar ---------- */
 .progress-track { background: var(--line); border-radius: 999px; height: 7px; overflow: hidden; margin: 6px 0; }
@@ -137,6 +217,29 @@ img { max-width: 100%; height: auto; display: block; }
 
 .action-row { display: flex; flex-wrap: wrap; gap: 8px; padding: 10px 0 6px; }
 
+/* ---------- Utility bar: PDF buttons + TL;DR / Pre-Test toggle pills,
+   all in one row, matching the reference design's compact "top utility
+   bar" layout. ---------- */
+.util-bar { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; background: var(--accent-soft); border: 1px solid var(--line); border-radius: var(--radius); padding: 9px 12px; margin: 10px 0 18px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+.util-bar-left, .util-bar-right { display: flex; align-items: center; gap: 7px; flex-wrap: wrap; }
+.util-pill {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.8rem; font-weight: 700; color: var(--course-color, var(--accent));
+  background: #fff; border: 1.5px solid var(--line); border-radius: 999px; padding: 5px 14px; cursor: pointer;
+  display: inline-flex; align-items: center; gap: 5px; transition: background .12s, border-color .12s, color .12s;
+}
+.util-pill:hover { background: var(--accent-soft); border-color: var(--course-color, var(--accent)); }
+.util-pill-active { background: var(--course-color, var(--accent)) !important; color: #fff !important; border-color: var(--course-color, var(--accent)) !important; }
+.util-panel { background: var(--paper-raised); border: 1.5px solid var(--line); border-radius: var(--radius); padding: 16px 18px; margin: 0 0 18px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.9rem; }
+.util-panel-list { margin: 0; padding-left: 1.2em; }
+.util-panel-list li { margin-bottom: 10px; line-height: 1.55; }
+.util-panel-list li:last-child { margin-bottom: 0; }
+.pretest-item { border: 1px solid var(--line); border-radius: 8px; margin-bottom: 8px; overflow: hidden; background: var(--paper); }
+.pretest-item:last-child { margin-bottom: 0; }
+.pretest-item summary { padding: 11px 14px; cursor: pointer; font-family: "Georgia", serif; font-size: 0.92rem; line-height: 1.5; }
+.pretest-item summary::-webkit-details-marker { display: none; }
+.pretest-item[open] { border-color: var(--course-color, var(--accent)); }
+.pretest-answer { padding: 0 14px 12px; font-size: 0.86rem; color: var(--ink-soft); border-top: 1px solid var(--line); padding-top: 10px; }
+
 /* Callouts (TL;DR, Fun Fact, AP/Study Tip) are collapsed-by-default tap targets,
    built on the same .expand-item mechanics as everything else so they share
    one smooth-transition system. */
@@ -155,31 +258,72 @@ img { max-width: 100%; height: auto; display: block; }
 .callout-body { padding: 0 16px 14px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.92rem; }
 .callout-tldr { background: var(--accent-soft); border: 1px solid var(--course-color); }
 .callout-tldr .callout-toggle { color: var(--course-color); }
-.callout-fun { background: #fff8e1; border: 1px solid #e8c86b; }
-.callout-fun .callout-toggle { color: #8a6d1f; }
-.callout-tip { background: #e8f3ee; border: 1px solid #7fb89c; }
-.callout-tip .callout-toggle { color: var(--good); }
+
+/* Fun Fact / AP Exam Tip: always-visible inline info boxes (not click-to-reveal
+   — they're short and meant to be read in the flow of the paragraph they
+   follow), placed inline via topic.afterParagraph rather than stacked at
+   the end of the reading. */
+.info-box { border-radius: var(--radius); margin: 16px 0; padding: 14px 16px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+.info-box-label { display: flex; align-items: center; gap: 7px; font-size: 0.72rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; margin-bottom: 6px; }
+.info-box-body { font-size: 0.92rem; line-height: 1.55; }
+.info-box.fun-fact { background: #e6f4f0; border: 1px solid #7fb89c; }
+.info-box.fun-fact .info-box-label { color: #1f6b4a; }
+.info-box.ap-tip { background: #e8f0fb; border: 1px solid #8fb3e0; }
+.info-box.ap-tip .info-box-label { color: #1f5fa8; }
+
+/* ---------- Tag row (unit + standard badges) + reading-time line ---------- */
+.tag-row { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 4px; }
+.tag-pill {
+  display: inline-block; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.72rem; font-weight: 700;
+  padding: 4px 11px; border-radius: 999px; background: var(--accent-soft); color: var(--course-color, var(--accent));
+  letter-spacing: .02em;
+}
+.tag-pill.standard { background: #eef1f5; color: #445; }
+.reading-time { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.85rem; color: var(--ink-soft); margin-top: 8px; display: flex; align-items: center; gap: 6px; }
+
+/* Theme chips (Political / Economics / Culture / Technology / Interactions,
+   etc.) -- each carries a tooltip explaining why that theme applies here. */
+.theme-chip-row { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 6px; }
+.theme-chip {
+  display: inline-flex; align-items: center; gap: 5px; background: var(--accent-soft); border: 1px solid var(--line);
+  border-radius: 999px; padding: 4px 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.78rem;
+  font-weight: 700; color: var(--course-color, var(--accent)); cursor: help;
+}
 
 .section-label { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.75rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-soft); margin: 30px 0 10px; }
 
 .reading-body p { margin: 0 0 1.1em; font-size: 1.02rem; }
+.reading-subhead { font-size: 1.12rem; margin: 32px 0 12px; padding-bottom: 6px; border-bottom: 2px solid var(--line); }
+.reading-body .reading-list { margin: 0 0 1.1em; padding-left: 1.3em; }
+.reading-body .reading-list li { margin-bottom: 0.5em; font-size: 1.02rem; }
 
-/* Vocabulary — tap a term to reveal definition / importance / example */
-.vocab-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
-.vocab-item { border: 1px solid var(--line); border-radius: 10px; background: var(--paper-raised); overflow: hidden; }
+/* Vocabulary — a bordered box of pills; tap a pill to reveal its
+   definition / importance / example right underneath the pill row. */
+.vocab-box { border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper-raised); padding: 16px; margin: 14px 0; }
+.vocab-box-title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 1rem; margin: 0 0 4px; }
+.vocab-box-hint { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.76rem; color: var(--ink-soft); margin: 0 0 10px; }
+.vocab-list { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; position: relative; }
+.vocab-item { position: relative; }
 .vocab-term-btn {
-  width: 100%; text-align: left; background: none; border: none; cursor: pointer; padding: 11px 13px;
-  font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.92rem;
-  display: flex; justify-content: space-between; align-items: center; gap: 10px; color: var(--ink);
+  border: 1.5px solid var(--line); background: #fff; cursor: pointer; padding: 6px 14px;
+  font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.85rem;
+  border-radius: 999px; color: var(--course-color, var(--accent)); display: inline-flex; align-items: center; gap: 6px;
 }
-.vocab-term-btn .plus { color: var(--course-color); font-weight: 800; transition: transform .2s ease; flex-shrink: 0; }
+.vocab-item.open .vocab-term-btn { background: var(--course-color, var(--accent)); color: #fff; border-color: var(--course-color, var(--accent)); }
+.vocab-term-btn .plus { font-weight: 800; transition: transform .2s ease; }
 .vocab-item.open .vocab-term-btn .plus { transform: rotate(45deg); }
-.vocab-body-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .3s ease; }
-.vocab-item.open .vocab-body-wrap { grid-template-rows: 1fr; }
-.vocab-body-inner { overflow: hidden; }
-.vocab-def { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.88rem; color: var(--ink-soft); padding: 0 13px 12px; }
-.vocab-def .vocab-extra { display: block; margin-top: 6px; padding-top: 6px; border-top: 1px dashed var(--line); }
+/* Popover: floats over the pill row instead of pushing content down,
+   matching the reference design's click-a-term tooltip card. */
+.vocab-body-wrap {
+  display: none; position: absolute; top: calc(100% + 6px); left: 0; z-index: 20;
+  width: 300px; max-width: min(86vw, 340px);
+  background: #fff; border: 1.5px solid var(--course-color, var(--accent)); border-radius: 10px;
+  box-shadow: 0 10px 28px rgba(20,17,14,.18);
+}
+.vocab-item.open .vocab-body-wrap { display: block; }
+.vocab-def { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.86rem; line-height: 1.5; color: var(--ink-soft); padding: 13px 15px; }
 .vocab-def .vocab-extra-label { font-weight: 700; color: var(--ink); }
+.vocab-def .vocab-extra { display: block; margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--line); }
 
 /* images */
 figure.reading-figure { margin: 20px 0; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; background: var(--paper-raised); }
@@ -200,6 +344,26 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .lightbox.open { display: flex; }
 .lightbox img { max-height: 90vh; border-radius: 8px; }
 .lightbox-close { position: absolute; top: 16px; right: 16px; background: #fff; border: none; border-radius: 999px; width: 40px; height: 40px; font-size: 1.2rem; cursor: pointer; }
+
+/* ---------- Practice section groups: one colored bar per section type
+   (Multiple Choice / Short Answer / Long Essay / Check Your Understanding),
+   each expanding to reveal everything inside via "Show" / "Collapse". ---------- */
+.practice-group { border-radius: var(--radius); margin: 16px 0; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+.practice-group-toggle {
+  width: 100%; text-align: left; border: none; cursor: pointer; padding: 14px 18px;
+  display: flex; align-items: center; justify-content: space-between; gap: 10px; color: #fff;
+  font-weight: 800; font-size: 0.92rem; letter-spacing: .02em;
+}
+.practice-group-toggle .group-action { font-size: 0.76rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; opacity: .9; }
+.practice-group[data-group="mcq"] .practice-group-toggle { background: #1e4a72; }
+.practice-group[data-group="saq"] .practice-group-toggle { background: #2f6b4f; }
+.practice-group[data-group="leq"] .practice-group-toggle { background: #7a4a1f; }
+.practice-group[data-group="cyu"] .practice-group-toggle { background: #4a3728; }
+.practice-group-body-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .32s ease; background: var(--paper-raised); }
+.practice-group.open .practice-group-body-wrap { grid-template-rows: 1fr; }
+.practice-group-body-inner { overflow: hidden; }
+.practice-group-body { padding: 16px; border: 1px solid var(--line); border-top: none; border-radius: 0 0 var(--radius) var(--radius); }
+.practice-group-body > *:first-child { margin-top: 0; }
 
 /* discussion / expandables (also used by SAQ/LEQ/essay "show answer" reveals) */
 .expand-item { border: 1px solid var(--line); border-radius: var(--radius); margin: 10px 0; background: var(--paper-raised); overflow: hidden; }
@@ -230,6 +394,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .mcq.open .mcq-body-wrap { grid-template-rows: 1fr; }
 .mcq-body-inner { overflow: hidden; }
 .mcq-body { padding: 0 15px 15px; border-top: 1px solid var(--line); padding-top: 12px; }
+.mcq-stimulus { font-style: italic; font-size: 0.86rem; color: var(--ink-soft); background: var(--paper); border-left: 3px solid var(--line); padding: 8px 12px; margin-bottom: 10px; }
 .mcq-q { font-weight: 600; font-size: 0.92rem; margin-bottom: 10px; }
 .mcq-opts { list-style: none; padding: 0; margin: 0 0 10px; display: grid; gap: 6px; }
 .mcq-opt {
@@ -250,6 +415,14 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .frq-block { border: 1px solid var(--line); border-radius: var(--radius); padding: 15px; margin: 14px 0; background: var(--paper-raised); font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
 .frq-block .frq-type-label { display: inline-block; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: var(--course-color); background: var(--accent-soft); padding: 3px 8px; border-radius: 999px; margin-bottom: 8px; }
 .frq-prompt { font-size: 0.92rem; white-space: pre-line; margin-bottom: 10px; }
+.saq-context { font-style: italic; font-size: 0.88rem; color: var(--ink-soft); background: var(--paper); border-left: 3px solid var(--line); padding: 9px 13px; margin-bottom: 10px; }
+.saq-part { border-top: 1px solid var(--line); padding-top: 12px; margin-top: 12px; }
+.saq-part:first-of-type { border-top: none; padding-top: 0; margin-top: 0; }
+.saq-part-label { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.72rem; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: var(--course-color, var(--accent)); margin: 0 0 4px; }
+.saq-task { font-size: 0.92rem; margin: 0 0 8px; }
+.leq-outline { margin: 10px 0 0; padding-left: 1.2em; }
+.leq-outline li { margin-bottom: 8px; font-size: 0.88rem; }
+.leq-outline-label { font-weight: 700; color: var(--ink); }
 
 /* interactive econ model slot */
 .econ-model { border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; margin: 18px 0; background: var(--paper-raised); }
@@ -302,9 +475,14 @@ html.js-anim .reveal.in-view {
    ========================================================================== */
 @media print {
   :root { font-size: 10.5pt; }
-  .topbar, .topic-nav, .action-row, .complete-row, footer.site-footer,
+  .topbar, .topic-nav, .action-row, .util-bar, .complete-row, footer.site-footer,
   .btn, .unit-toggle .chevron, .lightbox, .notebooklm-slot, .econ-model, .econ-model-controls,
+  .sidebar-toggle, .course-sidebar, .sidebar-overlay, .practice-group-toggle .group-action,
   .callout-toggle .plus, .expand-toggle .plus, .vocab-term-btn .plus, .mcq-header .plus, .mcq-reveal-btn { display: none !important; }
+  .app-shell { display: block !important; }
+  main.container.with-sidebar { max-width: 100% !important; padding: 0 !important; }
+  .util-panel[hidden] { display: block !important; }
+  details.pretest-item:not([open]) > *:not(summary) { display: block !important; }
   body { background: #fff; color: #000; }
   html.js-anim .reveal { opacity: 1 !important; transform: none !important; }
   .container { max-width: 100%; padding: 0; }
@@ -312,8 +490,10 @@ html.js-anim .reveal.in-view {
   .reading-head h1 { font-size: 15pt; margin: 2pt 0; }
   .callout { padding: 0; margin: 8pt 0; border-width: 1px; page-break-inside: avoid; }
   .callout-toggle { padding: 4pt 6pt; }
-  .callout-body-wrap, .expand-body-wrap, .mcq-body-wrap, .vocab-body-wrap, .mcq-explain-wrap { display: block !important; }
+  .callout-body-wrap, .expand-body-wrap, .mcq-body-wrap, .vocab-body-wrap, .mcq-explain-wrap,
+  .practice-group-body-wrap { display: block !important; }
   .callout-body { padding: 0 6pt 6pt; }
+  .practice-group-toggle { background: #eee !important; color: #000 !important; }
   .section-label { margin: 10pt 0 4pt; font-size: 8pt; }
   .reading-body p { margin: 0 0 6pt; font-size: 10pt; line-height: 1.35; }
   .expand-body { display: block !important; border-top: none; padding-top: 2pt; }
@@ -321,6 +501,7 @@ html.js-anim .reveal.in-view {
   .mcq-body { padding-top: 2pt; border-top: none; }
   figure.reading-figure { page-break-inside: avoid; margin: 8pt 0; }
   figure.reading-figure img { max-height: 2.6in; }
+  .info-box { border: 1px solid #999; page-break-inside: avoid; }
   .vocab-item { border: none; }
   .vocab-list li, .vocab-item { padding: 2pt 0; }
   .vocab-body-wrap, .vocab-def { padding-left: 0; }

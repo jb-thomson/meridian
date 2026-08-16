@@ -1,0 +1,312 @@
+{
+  "course": "ap-world-history",
+  "num": "8.5",
+  "title": "Decolonization After 1900",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "🌍",
+      "label": "Decolonization",
+      "tooltip": "Topic 8.5 examines how over 50 new nations gained independence from European colonial powers between 1945 and 1975 — one of the defining transformations of 20th-century history."
+    },
+    {
+      "icon": "🏛️",
+      "label": "Nationalism",
+      "tooltip": "Mass nationalist movements led by Western-educated elites (Gandhi, Nkrumah, Ho Chi Minh, Sukarno) organized popular opposition to colonial rule across Asia and Africa."
+    },
+    {
+      "icon": "⚔️",
+      "label": "Armed Struggle",
+      "tooltip": "Some decolonization was peaceful (India, Ghana); others required violent armed struggle (Algeria, Kenya, Vietnam, Angola) — the difference often reflected how invested the colonial power was in remaining."
+    },
+    {
+      "icon": "🕌",
+      "label": "Religion & Ethnicity",
+      "tooltip": "Decolonization created new states whose borders often ignored ethnic and religious divisions drawn by colonial powers — leading to partition (India/Pakistan) and post-independence civil wars."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Decolonization was massive — 50+ new nations in 30 years —** Between roughly 1945 and 1975, most of Asia and Africa gained independence. This was one of the most rapid geopolitical transformations in world history. The AP CED organizes it around three paths: negotiated independence, armed struggle, and regional/ethnic/religious movements. **Nationalist leaders are required CED examples — know all four —** Indian National Congress (India), Ho Chi Minh in French Indochina, Kwame Nkrumah in British Gold Coast (Ghana), Gamal Abdel Nasser in Egypt. Each pursued independence through different methods. **Three paths to independence —** Negotiated: India from Britain, Gold Coast from Britain, French West Africa. Armed struggle: Algeria from France, Angola from Portugal, Vietnam from France. Regional/ethnic/religious movements: Muslim League (India), Québécois (Canada), Biafra (Nigeria). **Colonial borders created post-independence problems —** Imperial powers drew borders that ignored ethnic, religious, and linguistic realities — then bequeathed those borders to new nations. The Muslim League's demand for Pakistan and the Biafra secessionist movement in Nigeria both arose from these inherited border problems."
+  ],
+  "learningObjectives": [
+    "Compare the processes by which various peoples pursued independence after 1900 — nationalist leaders and parties, negotiated vs. armed independence, and regional/religious/ethnic movements. CED Examples: Indian National Congress, Ho Chi Minh (Vietnam), Kwame Nkrumah (Ghana), Gamal Abdel Nasser (Egypt); India, Gold Coast, French West Africa (negotiated); Algeria, Angola, Vietnam (armed); Muslim League, Québécois, Biafra (regional movements)."
+  ],
+  "vocabulary": [
+    {
+      "term": "Indian National Congress (INC)",
+      "definition": "The primary nationalist organization in British India, founded 1885; led by figures including Gandhi and Nehru; pursued independence through non-violent mass civil disobedience and negotiation.",
+      "importance": "CED illustrative example; led India to independence in 1947 through one of history's most successful mass political movements."
+    },
+    {
+      "term": "Gamal Abdel Nasser",
+      "definition": "Egyptian military officer who led a coup against the Egyptian monarchy (1952) and became president; nationalized the Suez Canal (1956); champion of Arab nationalism.",
+      "importance": "CED illustrative example; Suez Crisis forced Britain and France to accept they could no longer act imperially without superpower approval, marking a decisive moment in decolonization."
+    },
+    {
+      "term": "Suez Crisis (1956)",
+      "definition": "Egypt nationalized the Suez Canal; Britain, France, and Israel invaded; US and USSR both pressured withdrawal.",
+      "importance": "Demonstrated that European imperial powers could no longer act without superpower approval; humiliated Britain and France and accelerated decolonization globally."
+    },
+    {
+      "term": "FLN / Algerian War (1954–62)",
+      "definition": "The Front de Libération Nationale fought an eight-year independence war against France using urban terrorism and rural guerrilla warfare; France deployed over 400,000 troops and used torture.",
+      "importance": "CED illustrative example of independence through armed struggle; Algeria finally gained independence in 1962 after 1.5 million Algerians died."
+    },
+    {
+      "term": "Muslim League / Partition of India",
+      "definition": "The All-India Muslim League, led by Muhammad Ali Jinnah, demanded a separate Muslim state (Pakistan); Indian independence (1947) was accompanied by partition, creating India and Pakistan.",
+      "importance": "CED illustrative example of regional/religious movement; partition triggered massive population displacement (12–20 million) and communal violence (estimated 200,000–2 million dead)."
+    },
+    {
+      "term": "Biafra Secessionist Movement",
+      "definition": "The Igbo people of southeastern Nigeria attempted to secede as the Republic of Biafra (1967–70); the resulting civil war killed 1–3 million people, many from famine.",
+      "importance": "CED illustrative example; showed how post-independence Nigeria struggled with colonial-era borders that had combined incompatible ethnic groups into a single state."
+    },
+    {
+      "term": "Pan-Africanism",
+      "definition": "Political and cultural movement asserting solidarity among all peoples of African descent and advocating for African unity and independence from colonial rule.",
+      "importance": "Intellectual foundation for many African independence movements; associated with Kwame Nkrumah, who dreamed of a \"United States of Africa.\""
+    },
+    {
+      "term": "Québécois Separatist Movement",
+      "definition": "Movement in the French-speaking province of Quebec, Canada, seeking greater autonomy or independence from English-dominated Canada, beginning in the 1960s.",
+      "importance": "CED illustrative example of a regional/ethnic movement within a formally independent state — showing that decolonization-era separatist movements could occur even in prosperous democracies."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Why did some colonies achieve independence through negotiation while others required armed struggle? What factors determined which path was taken?",
+      "answer": "The path to independence was shaped by several factors: (1) The attitude and capacity of the colonial power — Britain, after WWII, generally recognized it could not afford to hold its empire by force and was more willing to negotiate; France, Portugal, and the Netherlands resisted more strongly. (2) The strength, unity, and methods of the independence movement — Gandhi's mass civil disobedience in India created an untenable situation for Britain without open warfare; Algeria's FLN was willing to use violence and France was willing to suppress it with equal violence. (3) Cold War context — if the independence movement had communist leanings, the US might support the colonial power's resistance; if it was broadly nationalist, both superpowers might support independence. (4) Settler populations — colonies with large European settler populations (Algeria, Angola, Kenya) were much harder to decolonize peacefully because settlers had their own stake in maintaining colonial rule."
+    },
+    {
+      "question": "What was Gamal Abdel Nasser's significance beyond Egyptian independence? Why is he important for AP World History?",
+      "answer": "Nasser's significance extended far beyond Egypt for several reasons: (1) He nationalized the Suez Canal in 1956 — a British and French-owned waterway crucial to European trade — triggering the Suez Crisis, in which Britain and France (and Israel) attacked Egypt but were forced to withdraw by US and Soviet pressure. This demonstrated that European imperial power could no longer operate without superpower approval, effectively signaling the end of European imperial authority. (2) Nasser became a symbol of Arab nationalism and pan-Arabism — the idea that Arab peoples should unite against Western imperialism. (3) His approach — using nationalization of foreign-owned resources as a tool of independence — became a model for other newly independent states. (4) His non-alignment (accepting aid from both superpowers) was an early model of the NAM approach."
+    },
+    {
+      "question": "The Muslim League (British India) and the Biafra secessionist movement (Nigeria) are both examples of \"regional, religious, and ethnic movements\" that \"challenged colonial rule and inherited imperial boundaries.\" What does this tell us about the legacy of colonial borders?",
+      "answer": "Colonial borders were drawn for administrative convenience and imperial strategy — not to reflect the ethnic, religious, linguistic, or cultural realities of the populations within them. British India contained hundreds of millions of Hindus and Muslims who had complex histories of coexistence and conflict; when independence came, the Muslim League under Muhammad Ali Jinnah argued that Muslims needed their own state (Pakistan) because a Hindu-majority India would not protect Muslim interests. Nigeria was similarly an artificial British construction containing hundreds of ethnic groups — the Igbo people of the southeast eventually attempted to secede as \"Biafra\" in 1967, resulting in a devastating civil war. Both cases illustrate how colonial border-drawing created post-independence conflicts by forcing incompatible communities into single political units — a \"time bomb\" left by colonial rule that exploded after independence."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🌍 The Scale of Decolonization"
+    },
+    {
+      "type": "paragraph",
+      "text": "The decolonization of Asia and Africa after WWII was one of the most rapid geopolitical transformations in human history. At the beginning of 1945, most of Asia and virtually all of Africa were under European colonial control. By 1975, the vast majority of the world's people lived in formally independent states. Over 50 new nations joined the international community in this period — more new states created in 30 years than in any comparable period in modern history."
+    },
+    {
+      "type": "paragraph",
+      "text": "This transformation happened at different speeds and through different processes in different places. The CED organizes it into three overlapping categories: nationalist leaders and parties, negotiated independence, and independence through armed struggle — with a fourth category of regional, religious, and ethnic movements that complicated the picture further."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/8-5-0.jpg",
+      "alt": "Decolonization movements in Asia and Africa",
+      "caption": "",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "heading",
+      "text": "👤 Nationalist Leaders and Parties — KC-6.2.II.A"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CED identifies four key nationalist leaders as required illustrative examples. Know them all:"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Indian National Congress (INC) — India:** Founded in 1885, the INC became the primary vehicle for Indian independence under leaders including Mohandas Gandhi and Jawaharlal Nehru. Gandhi's strategy of *satyagraha* (non-violent civil disobedience) — mass campaigns like the Non-Cooperation Movement (1920–22), the Salt March (1930), and Quit India (1942) — mobilized millions of Indians and made British rule unsustainable. India achieved independence on August 15, 1947 — though it came with the painful partition creating Pakistan (covered below)."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Ho Chi Minh in French Indochina (Vietnam):** Ho Chi Minh combined communism with Vietnamese nationalism to lead the Viet Minh independence movement (covered in Topic 8.4). The CED lists him here as a nationalist leader — his significance being that he created the organizational capacity that ultimately defeated both France (1954) and the United States (1975). He declared Vietnamese independence in 1945 but had to fight for it for three decades."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Kwame Nkrumah in British Gold Coast (Ghana):** Nkrumah organized mass popular politics in the Gold Coast through his Convention People's Party, using strikes, protests, and political organizing. He was imprisoned by the British (1950) but his party won elections while he was in jail — forcing Britain to negotiate. The Gold Coast became Ghana on March 6, 1957 — the first sub-Saharan African colony to achieve independence, inspiring movements across the continent. Nkrumah's famous declaration: \"Ghana, your beloved country is free forever!\""
+    },
+    {
+      "type": "paragraph",
+      "text": "**Gamal Abdel Nasser in Egypt:** Nasser led a military coup that overthrew Egypt's monarchy in 1952 and became president. His most consequential act was nationalizing the Suez Canal in 1956 — ending British and French control of this crucial waterway. The resulting Suez Crisis (Britain, France, and Israel invaded Egypt) ended in humiliation for the colonial powers when the US and USSR both demanded withdrawal. Nasser became a hero of Arab nationalism and the Non-Aligned Movement, demonstrating that a former colony could stand up to imperial powers and win."
+    },
+    {
+      "type": "funFact",
+      "text": "In 1960, 17 African nations gained independence — so many that historians call it the \"**Year of Africa**.\" France's colonies in West and Equatorial Africa all became independent in rapid succession, many in the same year. Many of these new nations had no trained civil servants, few university graduates, and were inheriting borders that bore no relation to their actual ethnic and linguistic geographies. The speed of decolonization in Africa — often faster than either the colonial powers or independence movements had planned — created both enormous hope and enormous challenges."
+    },
+    {
+      "type": "heading",
+      "text": "🤝 Negotiated Independence — KC-6.2.I.C"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some colonies achieved independence through negotiation with their colonial powers, avoiding large-scale armed conflict. The CED identifies three examples:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**India from the British Empire (1947):** After decades of mass nationalist organizing, WWII, and British exhaustion, Britain negotiated Indian independence with the Indian National Congress and the Muslim League. The negotiation was accompanied by violence — partition created Pakistan and triggered massive communal bloodshed — but the formal transfer of power itself was negotiated rather than militarily forced.",
+        "**The Gold Coast from the British Empire (1957, becoming Ghana):** Britain, after experiencing Nkrumah's successful mass mobilization and recognizing it could not maintain control without unacceptable cost, negotiated independence. This set a precedent Britain followed across much of Africa — \"winds of change,\" as Prime Minister Harold Macmillan called it in 1960.",
+        "**French West Africa:** France negotiated the independence of its West African territories through the 1958 referendum on the French Community and subsequent agreements. Most of French West Africa became independent in 1960, generally with closer ongoing ties to France than British colonies maintained with Britain — a system sometimes called \"Françafrique.\""
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "⚔️ Independence Through Armed Struggle — KC-6.2.I.C"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other colonies achieved independence only through prolonged military conflict. The CED identifies three examples:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Algeria from the French Empire (1954–62):** Algeria was legally part of France (not just a colony) and home to over a million European settlers (pieds-noirs) who had lived there for generations. The FLN (National Liberation Front) fought an eight-year war characterized by urban bombings, rural guerrilla warfare, and French counter-insurgency including systematic torture. An estimated 1.5 million Algerians died. France finally granted independence in 1962, and virtually all European settlers left within a year.",
+        "**Angola from the Portuguese Empire (1975):** Portugal, under the authoritarian Salazar/Caetano regime, refused to decolonize while Britain and France did. Angola's independence movement fought for over a decade; Portugal only granted independence after a military coup in Lisbon (1974) overthrew the authoritarian regime. Angola's independence immediately triggered the civil war described in Topic 8.3.",
+        "**Vietnam from the French Empire (1946–54):** The First Indochina War ended French colonial rule after the decisive Battle of Dien Bien Phu (1954). Vietnam was then temporarily divided, leading to US involvement and the Vietnam War."
+      ]
+    },
+    {
+      "type": "apTip",
+      "text": "The LO for 8.5 asks you to **compare** the processes by which peoples pursued independence. The most powerful comparisons contrast the factors that led to negotiated vs. armed independence. Key variables: the colonial power's willingness to negotiate (Britain generally yes after WWII; France and Portugal much less so); the presence of settler populations (made peaceful decolonization much harder); Cold War context (communist independence movements faced more resistance); and the strength and organization of the independence movement. Practice building comparative arguments using these variables."
+    },
+    {
+      "type": "heading",
+      "text": "🕌 Regional, Religious, and Ethnic Movements — KC-6.2.II.B"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond the main independence movements, the CED identifies regional, religious, and ethnic movements that \"challenged colonial rule and inherited imperial boundaries.\" Know these three examples:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Muslim League in British India:** The All-India Muslim League, led by Muhammad Ali Jinnah, argued that Muslims could not be guaranteed rights and security in a Hindu-majority independent India. The League demanded a separate Muslim state — Pakistan. The Partition of India (1947) created India and Pakistan, but the violence that accompanied partition — communal massacres, mass rape, and 12–20 million refugees — was one of the 20th century's worst humanitarian disasters.",
+        "**Québécois separatist movement in Canada:** French-speaking Quebec had been part of British Canada since 1763, but French Canadians maintained their distinct language, culture, and Catholic identity. By the 1960s, a separatist movement emerged demanding independence or greater autonomy for Quebec. The FLQ (Front de Libération du Québec) used terrorism; the mainstream Parti Québécois pursued independence through democratic referendum (1980 and 1995, both failing narrowly). The movement shows that regional separatism could occur within stable democracies, not just colonial contexts.",
+        "**Biafra secessionist movement in Nigeria:** Nigeria was a British colonial creation that combined hundreds of ethnic groups — including the Hausa-Fulani (north), Yoruba (southwest), and Igbo (southeast). After independence (1960), ethnic tensions led the Igbo-dominated eastern region to declare independence as the Republic of Biafra in 1967. The resulting civil war killed 1–3 million people, many from famine. Biafra was reintegrated into Nigeria in 1970. The conflict illustrated how colonial borders that ignored ethnic realities created devastating post-independence conflicts."
+      ]
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 8.5",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+8.5",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Decolonization and Nationalism Triumphant:  #40",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Decolonization+and+Nationalism+Triumphant%3A++%2340",
+      "creator": "Crash Course · 12 min"
+    },
+    {
+      "title": "The Suez Crisis: HISTORY",
+      "url": "https://www.youtube.com/results?search_query=YouTube+The+Suez+Crisis%3A+HISTORY",
+      "creator": "YouTube · video"
+    },
+    {
+      "title": "Decolonization Explained",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+Decolonization+Explained",
+      "creator": "Heimler's History · 10 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": null,
+      "question": "Ghana (formerly the Gold Coast) achieving independence in 1957 was particularly significant in the context of African decolonization because it:",
+      "options": [
+        "Was the first African country to achieve independence through armed struggle, inspiring similar movements",
+        "Established a model of communist economic development that many African nations sought to emulate",
+        "Was the first sub-Saharan African colony to achieve independence, demonstrating that peaceful decolonization was possible and inspiring movements across Africa",
+        "Forced Britain to adopt a policy of immediate decolonization across all its African territories"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ghana's 1957 independence was historic as the first sub-Saharan African colony to gain independence and served as a beacon for pan-African independence movements across the continent."
+    },
+    {
+      "stimulus": null,
+      "question": "The CED distinguishes between \"negotiated independence\" and \"independence through armed struggle.\" Which of the following most accurately explains why Algeria required armed struggle while India achieved negotiated independence?",
+      "options": [
+        "The Indian independence movement had stronger military forces than the Algerian FLN",
+        "India's Hindu majority made compromise with Britain easier, while Algeria's Muslim majority made compromise with France impossible",
+        "The Soviet Union supported the Indian independence movement but not the Algerian one",
+        "France regarded Algeria as part of metropolitan France with a large settler population unwilling to leave, while Britain recognized the unsustainability of empire and was willing to negotiate with the Indian National Congress"
+      ],
+      "correctIndex": 3,
+      "explanation": "The key factors were France's legal conception of Algeria as \"France\" plus settler population resistance vs. Britain's post-WWII recognition that empire was economically and politically unsustainable."
+    },
+    {
+      "stimulus": null,
+      "question": "The Muslim League's demand for the creation of Pakistan (1947) is identified in the CED as an example of a \"regional, religious, and ethnic movement\" that \"challenged colonial rule and inherited imperial boundaries.\" This is most significant because it demonstrates:",
+      "options": [
+        "That religious differences always made unified independence impossible in colonial states",
+        "How colonial states that encompassed multiple religious and ethnic communities often fragmented along those lines at independence, creating new states out of inherited colonial units",
+        "That the British deliberately divided India to weaken the independence movement",
+        "That Islam was incompatible with secular democratic governance, requiring a separate state"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Muslim League illustrates how the inherited colonial unit of \"British India\" fragmented at independence along religious lines, creating the new state of Pakistan out of colonial boundaries that had grouped incompatible communities together."
+    },
+    {
+      "stimulus": null,
+      "question": "Nasser's nationalization of the Suez Canal (1956) and the subsequent Suez Crisis demonstrate which of the following about decolonization?",
+      "options": [
+        "Newly independent nations could challenge economic aspects of colonialism, but the outcome depended on the Cold War context — specifically whether the superpowers would support or oppose the colonial power's response",
+        "European colonial powers retained sufficient military strength to enforce their economic interests in former colonies throughout the Cold War era",
+        "Newly independent nations could only assert economic sovereignty when they had military support from the Soviet Union",
+        "The United Nations was the primary institution that protected newly independent nations from continued European imperialism"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nasser's nationalization succeeded not primarily because of Egypt's military strength but because both the US and USSR opposed the British-French-Israeli invasion, forcing their withdrawal — showing how Cold War dynamics shaped decolonization outcomes."
+    },
+    {
+      "stimulus": null,
+      "question": "The Biafra secessionist movement (1967–70) in Nigeria most directly illustrates which long-term consequence of European colonialism?",
+      "options": [
+        "The economic underdevelopment of African nations prevented them from maintaining political stability after independence",
+        "European nations continued to interfere in African politics after independence to protect economic interests",
+        "Colonial borders drawn without regard to ethnic, religious, or linguistic realities created post-independence conflicts as incompatible groups struggled for power within artificially unified states",
+        "Cold War superpower competition caused the vast majority of post-independence conflicts in Africa"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Biafra conflict arose directly from Nigeria's colonial-era borders that grouped the Hausa-Fulani, Yoruba, and Igbo peoples into a single political unit, creating ethnic and regional tensions that exploded into civil war after independence."
+    }
+  ],
+  "saq": {
+    "parts": [],
+    "prompt": "**a)** Briefly explain ONE way that Kwame Nkrumah's approach to achieving independence differed from Ho Chi Minh's approach.",
+    "sampleAnswer": "**Sample Answers:** **a)** Kwame Nkrumah pursued independence through mass political organizing and democratic elections — his Convention People's Party won legislative elections in the Gold Coast, forcing Britain to negotiate independence that came peacefully in 1957. Ho Chi Minh, by contrast, pursued independence through armed revolutionary struggle — the Viet Minh fought France militarily in the First Indochina War (1946–54) and ultimately defeated France at the Battle of Dien Bien Phu. Both were successful, but through fundamentally different methods — political mobilization versus military force. **b)** France regarded Algeria not as a colony but as part of metropolitan France — three departments of France itself — and over one million European settlers (pieds-noirs) had lived there for generations and had no intention of accepting Algerian independence. These settlers had enormous political influence in France and blocked any negotiated solution. The FLN's decision to use violence (urban bombings, rural guerrilla warfare) was a response to the reality that France had no intention of negotiating independence voluntarily; only sustained military pressure and the political costs of maintaining brutal counter-insurgency operations eventually forced France to the negotiating table after eight years of war. **c)** Britain drew the boundaries of \"British India\" to administer a territory containing hundreds of millions of people of diverse religions, languages, and ethnicities as a single colonial unit. When independence came, this artificial unity fragmented: the Muslim League's demand for a separate Muslim homeland (Pakistan) reflected the reality that the colonial boundary had grouped enormous Hindu and Muslim populations together without mechanisms for genuinely shared governance. The resulting Partition triggered one of the worst humanitarian disasters of the 20th century — an estimated 12–20 million people were displaced and up to 2 million killed in communal violence — demonstrating that colonial borders had created a time bomb that exploded at independence."
+  },
+  "leq": {
+    "outline": [],
+    "prompt": "Evaluate the extent to which the processes of decolonization after 1945 were shaped by the attitudes and actions of colonial powers rather than by the independence movements themselves.",
+    "modelThesis": "**Model Thesis:** While independence movements provided the essential organizational capacity and popular mobilization that made decolonization possible, the process — especially whether it was negotiated or required armed struggle — was significantly shaped by colonial powers' attitudes: Britain's post-WWII recognition that empire was economically unsustainable led to negotiated independence in India and Ghana, while France's legal and psychological attachment to Algeria and Portugal's authoritarian refusal to decolonize forced movements like the FLN and MPLA to pursue armed struggle — demonstrating that the colonial power's response was often the decisive variable in determining decolonization's form and cost in human life."
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. Compare the paths to independence taken by India and Algeria. What factors explain why India achieved negotiated independence while Algeria required armed struggle?",
+      "modelAnswer": "Several factors explain the difference: (1) Colonial power attitude: Britain, after WWII, generally recognized that maintaining empire by force was economically unsustainable and politically untenable; France regarded Algeria as legally part of France, not a colony, making independence psychologically much harder to accept. (2) Settler populations: Over a million European settlers in Algeria had their own stake in maintaining French rule; the Indian independence negotiations didn't involve displacing a large settler population. (3) Independence movement methods: The INC under Gandhi used non-violent mass mobilization that was very difficult to suppress without appearing brutal — British public opinion gradually came to support independence. The FLN used armed violence that France felt it could and must respond to with military force. (4) WWII exhaustion affected Britain more immediately — Britain granted Indian independence within 2 years of WWII ending; France was determined to rebuild its imperial prestige, not surrender it."
+    },
+    {
+      "question": "2. How did the Suez Crisis (1956) mark a turning point in the history of decolonization?",
+      "modelAnswer": "The Suez Crisis was a turning point because it demonstrated clearly that European imperial powers could no longer act independently in the world — they required superpower approval for major actions. When Britain and France (with Israel) invaded Egypt to retake the Suez Canal after Nasser's nationalization, both the US and USSR condemned the invasion and demanded withdrawal. The US threatened to crash the British pound by withholding IMF support; the Soviets threatened rocket attacks. Britain and France had to withdraw, humiliated, despite military success. The message to the entire world was unmistakable: European imperial power was over — it was now constrained by the two superpowers. This accelerated decolonization across Africa in the late 1950s and 1960s, as colonial powers recognized that the era of independent imperial action was finished. Nasser became a hero of anti-colonial movements worldwide."
+    },
+    {
+      "question": "3. Why were \"inherited imperial boundaries\" such a significant problem for newly independent states?",
+      "modelAnswer": "Imperial boundaries were drawn to serve colonial administrative purposes: they divided territories between competing European powers at conferences like Berlin (1884), grouped diverse peoples together for administrative convenience, and split ethnic groups across multiple colonial territories. African colonial borders in particular were often straight lines drawn on maps in European capitals by people who had never been there. When independence came, new nations inherited these artificial borders. In some cases (Nigeria, India, the Congo), borders enclosed dozens of ethnic groups with little in common and long histories of rivalry. Leaders faced an impossible choice: accepting inherited borders (and the internal conflicts they created) or redrawing them (which would create boundary conflicts with every neighbor). The Organization of African Unity (OAU) decided in 1963 to accept colonial borders as permanent — but internal ethnic conflicts continued to destabilize states from Nigeria to Rwanda to the Democratic Republic of Congo."
+    },
+    {
+      "question": "4. What does the Québécois separatist movement reveal about the limits of the concept of \"decolonization\"?",
+      "modelAnswer": "Quebec's inclusion in the CED alongside Asian and African independence movements reveals that the concept of \"regional, religious, and ethnic movements challenging inherited imperial boundaries\" extends beyond the obvious cases of Asian and African decolonization into stable, prosperous Western democracies. French Canadians had been part of British Canada since the Conquest of 1763 — over two centuries of cultural subordination within a political unit they had not chosen. Their separatist movement arose from many of the same dynamics as colonial independence movements: desire for cultural survival, resentment of political and economic marginalization by the dominant group, and assertion of a distinct national identity. But Quebec's case also shows the limits of \"decolonization\" as a concept: Quebec had full democratic rights, representation in the federal government, and legal protection for its language and culture — making it very different from colonized Algerians or Kenyans who had no political rights. The comparison illuminates both similarities and profound differences."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

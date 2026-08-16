@@ -1,0 +1,315 @@
+{
+  "course": "ap-world-history",
+  "num": "6.5",
+  "title": "Economic Imperialism from 1750 to 1900",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "Industrialized nations used economic power — debt, investment, trade agreements, and military threats — to control markets and resources in politically independent nations, creating a form of empire without formal colonization."
+    },
+    {
+      "icon": "🏛️",
+      "label": "Political",
+      "tooltip": "Unequal treaties like the Treaty of Nanking imposed extraterritoriality, indemnities, and forced market access on China and other nations through military coercion — ‘gunboat diplomacy’ at its most explicit."
+    },
+    {
+      "icon": "🌍",
+      "label": "Interactions",
+      "tooltip": "British economic dominance in China and Latin America connected distant economies to the global industrial capitalist system, drawing raw materials and markets into a network centered on industrial Britain."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Economic imperialism — control without conquest —** Industrialized nations didn’t always need to formally colonize a territory to dominate it economically. They used unequal treaties, foreign investment, debt traps, and “gunboat diplomacy” to control markets and resources while leaving local governments nominally in power. The Opium Wars and British investment in Argentina are the CED’s key examples (KC-5.2.I.E). **The Opium Wars — forcing a market open —** Britain illegally exported opium from India and the Middle East to China to correct a trade imbalance. When China’s emperor tried to stop the trade, Britain launched the First Opium War (1839–42), forcing China to sign the Treaty of Nanking: open treaty ports, extraterritoriality for British citizens, the cession of Hong Kong, and a massive indemnity. The Second Opium War (1856–60) brought France in and expanded the concessions. China was not formally colonized — but its economy was controlled by Western powers. **Commodity trade and structural advantage —** The trade in specific commodities — opium, cotton, palm oil, copper — was organized in ways that gave European and American merchants structural economic advantages (KC-5.1.II.C). British and French firms controlled the financing, shipping, and pricing of these commodities, capturing profits even when the actual production occurred elsewhere. **Latin America — British economic empire without formal colonization —** After Latin American nations gained independence in the early 19th century, Britain developed deep economic relationships without formal colonization. British firms built and owned Argentine railways. British banks provided loans. British investors owned meatpacking plants and port facilities. Argentina was politically independent but economically integrated into the British system — a model of “informal empire.”."
+  ],
+  "learningObjectives": [
+    "Explain how various economic factors contributed to the development of the global economy from 1750 to 1900"
+  ],
+  "vocabulary": [
+    {
+      "term": "Economic Imperialism",
+      "definition": "The extension of economic control by industrialized nations over politically independent nations through investment, debt, trade terms, and military threats, without formal colonization.",
+      "importance": "Britain’s relationships with China and Argentina are the CED’s primary examples; demonstrates that formal political colonization was not necessary to achieve economic domination."
+    },
+    {
+      "term": "Opium Wars",
+      "definition": "Two wars fought between Britain (and France in the Second Opium War) and China. First Opium War (1839–42): China tried to stop British opium trade; Britain won and imposed the Treaty of Nanking. Second Opium War (1856–60): expanded concessions further.",
+      "importance": "Forced China into the unequal treaty system; symbolized Western economic imperialism in Asia; deeply shaped modern Chinese nationalism."
+    },
+    {
+      "term": "Unequal Treaty",
+      "definition": "A treaty signed under military coercion that gave industrialized nations extraordinary privileges in non-industrialized nations, including extraterritoriality, forced market access, and indemnity payments.",
+      "importance": "The Treaty of Nanking (1842) and subsequent treaties “opened” China’s market; similar treaties were imposed on Japan (1854), Korea, and other Asian nations."
+    },
+    {
+      "term": "Extraterritoriality",
+      "definition": "The right of foreign citizens (especially Europeans and Americans) to be tried in their own nation’s consular courts rather than local courts. Established through unequal treaties.",
+      "importance": "Gave Western merchants a legal advantage in Asian markets; prevented Chinese courts from applying Chinese law to British traders, deeply resented as a violation of sovereignty."
+    },
+    {
+      "term": "Gunboat Diplomacy",
+      "definition": "The use or threat of naval military force to compel political or commercial concessions from a nation that cannot militarily resist.",
+      "importance": "Made possible by the industrial military technology gap; exemplified by British warships forcing open Chinese and Japanese ports; a core tool of economic imperialism."
+    },
+    {
+      "term": "Informal Empire",
+      "definition": "Economic domination of politically independent nations through investment, trade, and debt rather than formal political colonization. Associated primarily with British economic relationships in Latin America.",
+      "importance": "Britain controlled significant portions of the Argentine economy — railways, banks, meatpacking — without governing Argentina; demonstrates that “empire” can exist without formal political annexation."
+    },
+    {
+      "term": "Indemnity",
+      "definition": "A financial penalty imposed on a defeated nation, requiring it to pay war reparations to the victor.",
+      "importance": "Unequal treaties forced China to pay enormous indemnities after the Opium Wars, straining Chinese government finances and increasing Chinese dependence on Western loans."
+    },
+    {
+      "term": "Treaty Port",
+      "definition": "A Chinese port city opened to Western trade and residence by unequal treaties, where Western merchants lived under extraterritoriality and conducted business outside Chinese legal jurisdiction.",
+      "importance": "By 1900, over 90 treaty ports existed in China; they became centers of Western commercial and cultural influence — and symbols of Chinese national humiliation."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Britain forced China to accept opium imports through war. Why would a government wage war to protect the right to sell a drug that was destroying the health of its trading partner’s population?",
+      "answer": "The answer is economic. Britain imported enormous quantities of Chinese tea, silk, and porcelain, but China had little interest in British manufactured goods — Chinese consumers preferred Chinese products. This created a serious trade deficit for Britain: silver was flowing out of Britain to pay for Chinese goods, weakening the British economy. Opium was the solution: grown in British India and the Middle East, it found an enormous Chinese market because it was highly addictive. The illegal opium trade reversed the trade balance, drawing silver back to Britain. When China tried to stop this economically destructive (for China) but profitable (for Britain) trade, Britain went to war to protect its commercial interests. The ideology was about markets and profits; morality about the health effects of opium was irrelevant to the calculation."
+    },
+    {
+      "question": "How is “economic imperialism” different from formal colonialism? Why might a powerful nation prefer economic imperialism over formal colonization in some cases?",
+      "answer": "Formal colonialism involves direct political control: the colonizing nation appoints governors, collects taxes, and exercises sovereignty. Economic imperialism achieves similar economic goals — access to markets, resources, and cheap labor — without the costs and responsibilities of formal governance. Formal colonialism requires military occupation, administration of millions of people, courts, police, infrastructure investment, and dealing with resistance movements. Economic imperialism achieves market access and resource extraction through debt, investment, and commercial relationships — leaving local governments to bear the costs of governance while the external power captures the economic benefits. For industrialized nations with limited administrative capacity, economic imperialism was often more cost-effective than formal colonization. Britain’s “informal empire” in Latin America is the classic example."
+    },
+    {
+      "question": "What is “gunboat diplomacy” and why was it particularly effective in the 19th century?",
+      "answer": "Gunboat diplomacy is the use or threat of naval military force to compel a foreign nation to accept commercial or political concessions. It was particularly effective in the 19th century because of the extreme military technology gap between industrialized and non-industrialized nations. A British gunboat could shell coastal cities with impunity because local forces had no equivalent weapons. Nations like China, which were previously militarily formidable against land-based armies, were helpless against naval bombardment. This asymmetry allowed Britain, France, and later the U.S. to force commercial concessions through the credible threat of violence without having to fight prolonged land campaigns. The Treaty of Nanking (1842) was signed under the guns of British warships anchored in Chinese harbors."
+    },
+    {
+      "question": "British firms built and owned most of Argentina’s railway network in the late 19th century. How could this represent a form of economic imperialism even though Argentina was a politically independent nation?",
+      "answer": "Railway ownership gave British firms structural economic power in Argentina regardless of Argentine political independence. British railways were built primarily to move beef and grain from the pampas to the Port of Buenos Aires (also developed with British investment) for export to Britain — not to serve Argentine internal development needs. British firms set freight rates, determined which regions were connected to markets, and captured profits from the entire export supply chain. Argentine governments were politically independent but economically dependent on British capital and structurally oriented toward serving British economic needs. When economic interests align with formal political sovereignty, the result is what historians call “informal empire”: the substance of economic control without the legal form of colonization."
+    },
+    {
+      "question": "Extraterritoriality — the right of British citizens to be tried in British courts rather than Chinese courts — was a key provision of the Treaty of Nanking. Why would this provision matter economically?",
+      "answer": "Extraterritoriality gave British merchants a legal advantage that made commerce in China much safer and more profitable for them than for their Chinese counterparts. British traders operating in China could not be tried, fined, imprisoned, or executed under Chinese law — they were answerable only to British consular courts, which were far more lenient and invested in protecting British commercial interests. This meant British merchants could enter commercial disputes, default on debts, or engage in practices illegal under Chinese law with much lower risk of legal consequences. Extraterritoriality was a structural commercial advantage built into the legal architecture of the unequal treaty system — one reason why it was so deeply resented by Chinese governments and nationalists throughout the 19th and early 20th centuries."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🌏 What Is Economic Imperialism?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Formal colonialism — the kind described in Topic 6.2, where European governments directly ruled colonized territories — was expensive, administratively demanding, and sometimes met with fierce resistance. But industrialized nations didn’t always need formal political control to achieve their economic goals: access to markets, cheap raw materials, and investment opportunities."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Economic imperialism** describes the extension of economic control over politically independent nations through investment, debt, trade terms, and the threat of military force. The CED identifies this pattern in KC-5.2.I.E: industrialized states and businesses within those states practiced economic imperialism primarily in **Asia** and **Latin America**. The two key examples are the Opium Wars in China and British economic domination of Argentina."
+    },
+    {
+      "type": "paragraph",
+      "text": "The AP exam also requires you to know KC-5.1.II.C: trade in some commodities was organized in ways that gave merchants and companies based in Europe and the U.S. a structural economic advantage. The commodities listed in the CED include opium (from the Middle East or South Asia, exported to China), cotton (from South Asia and Egypt, exported to Britain), palm oil (from sub-Saharan Africa, exported to Europe), and copper (from Chile). Know these pairings."
+    },
+    {
+      "type": "heading",
+      "text": "😮 The Opium Wars: Forcing a Market Open"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Opium Wars are the most dramatic example of economic imperialism in 19th-century Asia, and they profoundly shaped modern Chinese national identity. To understand them, you need to understand the trade problem they were designed to solve."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the early 19th century, Britain imported enormous quantities of Chinese goods — tea, silk, porcelain — but China had little interest in British manufactured goods. Chinese consumers preferred Chinese products. The result was a structural trade imbalance: British silver was flowing to China, which was economically draining for Britain. The East India Company found a solution: **opium**, grown in British India (and the Middle East). Chinese demand for opium was enormous and growing — by the 1830s, millions of Chinese were addicted."
+    },
+    {
+      "type": "paragraph",
+      "text": "The problem was that opium importation was illegal in China. In 1839, the Chinese emperor appointed Commissioner Lin Zexu to suppress the trade. Lin confiscated and destroyed over 20,000 chests of British opium at Canton and famously wrote a letter to Queen Victoria asking her to stop: “Let us ask, where is your conscience? I have heard that the smoking of opium is very strictly forbidden by your country.” Britain responded by launching the **First Opium War** (1839–42). Chinese forces were no match for British naval firepower. The war ended with the **Treaty of Nanking** (1842): Britain got Hong Kong, five open treaty ports, extraterritoriality, and a massive indemnity. China was forced to continue accepting opium."
+    },
+    {
+      "type": "paragraph",
+      "text": "The **Second Opium War** (1856–60) brought France in alongside Britain and expanded the unequal treaty system: more ports opened, more concessions granted, and the opium trade legalized. By 1900, over 90 treaty ports existed in China. Western powers each carved out “spheres of influence” where their citizens lived under extraterritoriality and their companies operated without Chinese legal oversight."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/6-5-0.jpg",
+      "alt": "Opium Wars — British gunboats on the Pearl River, Canton trading scene",
+      "caption": "The Opium Wars (1839–42, 1856–60): British gunboats forced China to accept opium imports and sign unequal treaties that opened Chinese markets to Western commercial domination (Google Gemini, 2025), commercially licensed.",
+      "attribution": "The Opium Wars (1839–42, 1856–60): British gunboats forced China to accept opium imports and sign unequal treaties that opened Chinese markets to Western commercial domination (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "funFact",
+      "text": "Commissioner Lin Zexu’s 1839 letter to Queen Victoria is one of the most remarkable documents of the era. He asked her to stop the opium trade on moral grounds: “Wherever the poison has passed, it has brought destruction and death.” He correctly pointed out that Britain outlawed opium at home while exporting it to China. Queen Victoria never replied. Lin’s letter is studied in Chinese schools today as a symbol of Chinese sovereignty and the injustice of the unequal treaty system."
+    },
+    {
+      "type": "apTip",
+      "text": "KC-5.1.II.C lists specific commodities whose trade gave Western merchants a structural advantage. The CED examples: opium (Middle East or South Asia → China); cotton (South Asia and Egypt → Britain and Europe); palm oil (sub-Saharan Africa → Europe); copper (Chile). Know these pairings. Also note: economic imperialism (Topic 6.5) is a form of state expansion (Topic 6.2) — it belongs in the same cluster of key concepts around KC-5.2."
+    },
+    {
+      "type": "heading",
+      "text": "🇬🇧 Britain in Latin America: Informal Empire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Latin American nations gained independence from Spain and Portugal in the early 19th century — but political independence did not mean economic independence. Britain, the world’s leading industrial and financial power, moved rapidly to establish deep economic relationships with the newly independent states. The CED specifically mentions the construction of the **Port of Buenos Aires** with the support of British firms as an illustrative example of economic imperialism."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scale of British economic involvement in Argentina was extraordinary. British firms built and owned most of Argentina’s railway network, which was designed to move beef and grain from the pampas to the coast for export to Britain — not to serve Argentine internal development. British banks provided loans to the Argentine government. British meatpacking companies built and operated the refrigerated plants that processed Argentine beef. British investors owned utility companies, dock facilities, and telegraph lines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Argentina was politically independent, but economically it was deeply integrated into the British imperial system. When Britain experienced financial crises, it affected Argentine credit. When British consumers wanted beef, Argentine ranchers prospered; when demand fell, Argentine economies suffered. Historians call this relationship **informal empire**: the economic substance of imperialism without the legal form of colonization. Argentina’s experience was replicated across Latin America — Chile (copper and nitrates, British and later American investment), Brazil (coffee, British and American capital), Mexico (silver and oil, American investment)."
+    },
+    {
+      "type": "heading",
+      "text": "⛏️ Copper, Cotton, and Commodity Advantage"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond opium and the Latin American informal empire, the CED identifies two additional commodity examples where trade was organized to give Western merchants structural advantages:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Cotton** grown in South Asia and Egypt: As discussed in Topic 6.4, Indian and Egyptian cotton was exported to British mills. British merchants controlled the financing, shipping, insurance, and pricing of this trade, capturing the commercial profits even while the physical production occurred in India and Egypt. Indian and Egyptian farmers received commodity prices set by British buyers; British textile manufacturers and merchants captured the manufacturing and commercial profits.",
+        "**Copper** extracted in Chile: Chilean copper mining expanded rapidly in the 19th century, driven by industrial demand for copper wire (essential for telegraph and later electrical systems). British and later American firms provided capital, technology, and market connections. Chilean copper was priced and sold in London markets where Chilean producers had little bargaining power. The structural pattern mirrors the other examples: non-industrialized producers captured raw material prices; industrialized buyers and merchants captured the higher-value processing and commercial profits."
+      ]
+    },
+    {
+      "type": "funFact",
+      "text": "At the height of its informal empire in Argentina, Britain invested more capital in Argentina than anywhere else in the world except the United States. The Buenos Aires railway terminal built with British investment — the Retiro station, opened 1915 — was modeled on London’s St. Pancras station, complete with British architectural style and British materials. It still stands today as a monument to British economic imperialism in Latin America."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 6.5",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+6.5",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Economic Imperialism",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+Economic+Imperialism",
+      "creator": "Heimler's History · 7 min"
+    },
+    {
+      "title": "The Opium Wars",
+      "url": "https://www.youtube.com/results?search_query=Khan+Academy+The+Opium+Wars",
+      "creator": "Khan Academy · 9 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "“Let us ask, where is your conscience? I have heard that the smoking of opium is very strictly forbidden by your country; that is because the harm caused by opium is clearly understood. Since it is not permitted to do harm to your own country, then even less should you let it be passed on to the harm of other countries.” — Commissioner Lin Zexu, letter to Queen Victoria, 1839",
+      "question": "The main argument Commissioner Lin Zexu makes in this letter is that:",
+      "options": [
+        "China is willing to negotiate a new trade agreement that would include opium if Britain compensates China for its harmful effects",
+        "Britain and China should resolve the opium dispute through an international arbitration process",
+        "The Qing Dynasty’s inability to stop opium smuggling reflects the weakness of Chinese imperial governance",
+        "Britain’s own moral standards, which prohibit opium at home, oblige it to stop exporting opium to China"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lin Zexu appeals directly to Britain’s own values: Britain knew opium was harmful (it was banned at home) and therefore had no moral justification for exporting it to cause the same harm to China. His argument is a moral appeal to consistency. (A) is wrong — Lin is demanding an end to the trade, not negotiating its terms. (C) is wrong — Lin is not admitting weakness; he destroyed 20,000 chests of opium. (B) is wrong — there was no international arbitration body at the time."
+    },
+    {
+      "stimulus": "“The Treaty of Nanking (1842) required China to: cede Hong Kong to Britain; open five ports (Canton, Amoy, Foochow, Ningpo, and Shanghai) to British trade and residence; allow British citizens in China to be tried only in British consular courts; and pay an indemnity of 21 million silver dollars. It made no mention of restricting the opium trade.”",
+      "question": "Which of the following most directly explains why the Treaty of Nanking was described by Chinese nationalists as an “unequal treaty”?",
+      "options": [
+        "It was signed in a foreign language (English) that Chinese negotiators could not read",
+        "It imposed obligations on China without providing equivalent benefits or protections to Chinese citizens in Britain",
+        "It established a permanent British military presence in China that violated Chinese territorial sovereignty",
+        "It required China to adopt the British legal system throughout the country"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unequal treaties were structurally asymmetrical: China had to open ports, pay indemnities, cede territory, and allow extraterritoriality for British citizens — but Britain gave nothing equivalent in return. There was no reciprocal provision for Chinese citizens in Britain to be tried in Chinese courts, no compensation for the harm caused by opium, no opening of British markets to Chinese goods on equivalent terms. The treaty was dictated by military force rather than negotiated between equals. (A) is not the definition of “unequal.” (C) partially true but not why it was called “unequal.” (D) is not what the treaty required."
+    },
+    {
+      "stimulus": "\"By 1900, British investors had financed and owned more than 60% of Argentina’s railway network. The railways were designed to move beef and grain from Argentina’s interior to the Port of Buenos Aires for shipment to Britain. British companies also operated the port facilities, meatpacking plants, and the banks that financed the trade.\"",
+      "question": "The relationship described between Britain and Argentina in the passage is BEST characterized as:",
+      "options": [
+        "A formal colonial relationship in which Britain governed Argentina as part of the British Empire",
+        "A mutually beneficial trade partnership in which both nations contributed equally to economic development",
+        "Economic imperialism, in which British investment gave Britain structural economic control over a nominally independent nation",
+        "An example of settler colonialism, in which British migrants permanently relocated to Argentina"
+      ],
+      "correctIndex": 2,
+      "explanation": "Argentina was politically independent but economically controlled through British investment in railways, ports, banks, and meatpacking. The infrastructure was designed to serve British export needs, not Argentine internal development. Profits flowed to British shareholders. This is the definition of economic imperialism (KC-5.2.I.E) and the “informal empire” model. (A) is wrong — Argentina was not a British colony. (B) is wrong — the relationship structurally favored British interests. (D) is wrong — the British presence was commercial, not a settler migration."
+    },
+    {
+      "stimulus": "\"The palm oil trade in West Africa was organized so that European trading firms provided financing, ships, and market access, while West African producers grew and harvested the oil palm fruit. European firms set purchase prices in Liverpool and paid West African producers accordingly. The difference between the London market price and the producer price was captured by European commercial firms.\"",
+      "question": "The commercial arrangement described in the passage BEST illustrates which of the following?",
+      "options": [
+        "The way trade in certain commodities was organized to give European merchants and companies a structural economic advantage (KC-5.1.II.C)",
+        "A fair trade system that compensated African producers for the full value of their agricultural labor",
+        "The transition from slave labor to free labor in West African export agriculture",
+        "An example of direct colonial extraction in which the British government controlled palm oil production"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage describes exactly the pattern in KC-5.1.II.C: trade in commodities was organized to give European merchants a structural advantage. European firms controlled financing, transportation, and market access — the highest-value parts of the supply chain — while African producers received prices set by European market conditions. The difference between producer prices and market prices (the commercial profit) was captured by European firms. (B) is the opposite of what the passage describes. (C) is not mentioned. (D) misidentifies this as direct government colonialism — it’s commercial/economic imperialism."
+    },
+    {
+      "stimulus": "“The Qing court, after two military defeats at the hands of Western powers, found itself committed to a series of indemnity payments that consumed an increasing share of government revenue. To meet these obligations, it borrowed from Western banks at high interest rates. By 1900, debt service consumed approximately 30% of the Chinese imperial government’s annual revenue.”",
+      "question": "The fiscal situation described in the passage BEST illustrates which long-term consequence of economic imperialism?",
+      "options": [
+        "Economic imperialism led directly to the industrialization of China as foreign investment stimulated manufacturing",
+        "Unequal treaty obligations created fiscal dependency that reduced the Chinese government’s capacity to govern and develop the country independently",
+        "Western banks provided loans to China on favorable terms to support Chinese economic development",
+        "The Chinese government used indemnity payments as an opportunity to reform its tax collection system"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage describes a debt trap: military defeat → indemnities → borrowing from Western banks → debt service consuming government revenue → reduced capacity to fund governance, military modernization, and development. By 1900, China’s fiscal position was severely compromised by debt obligations to Western creditors, reducing the Qing government’s policy autonomy. This fiscal dependency is a key mechanism of economic imperialism. (A) is wrong — the passage describes resource drain, not industrialization stimulus. (C) is wrong — the loans were commercial, not development loans. (D) is not supported by the passage."
+    }
+  ],
+  "saq": {
+    "context": "“Industrialized states and businesses within those states practiced economic imperialism primarily in Asia and Latin America.” — KC-5.2.I.E",
+    "directions": "Answer parts A, B, and C. Each requires a separate short response. Do not write a full essay.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Briefly describe ONE specific way Britain practiced economic imperialism in China in the period 1839–1900.",
+        "sampleAnswer": "Britain used military force in the First Opium War (1839–42) to compel China to sign the Treaty of Nanking, which forced China to open five treaty ports to British trade, cede Hong Kong, accept extraterritoriality for British citizens, and pay a large indemnity. This unequal treaty gave British merchants the right to trade in Chinese ports under British legal protection, outside Chinese jurisdiction — a structural commercial advantage that no market negotiation could have achieved. The treaty was economic imperialism: Britain used military power to force market access and commercial privileges that benefited British merchants at China’s expense."
+      },
+      {
+        "label": "Part B",
+        "task": "Briefly explain ONE way economic imperialism differed from formal colonial rule (as discussed in Topic 6.2).",
+        "sampleAnswer": "Formal colonial rule involved direct political sovereignty: the colonizing nation appointed governors, collected taxes, administered courts, and exercised legal authority over the colonized territory. Economic imperialism achieved economic goals — market access, commodity extraction, commercial profits — without the costs and legal responsibilities of direct governance. In Argentina, Britain controlled the railway network, banking system, and export supply chain without governing Argentina: the Argentine government remained in power and was responsible for maintaining order, building roads, and administering justice. Britain captured economic benefits while Argentina bore governance costs. This “informal empire” model was less expensive and politically less provocative than formal colonization."
+      },
+      {
+        "label": "Part C",
+        "task": "Briefly explain how the trade in one specific commodity (other than opium) gave European merchants a structural economic advantage in the period 1750–1900 (KC-5.1.II.C).",
+        "sampleAnswer": "The palm oil trade in West Africa was organized so that European commercial firms controlled financing, shipping, and market access, while West African producers grew and harvested the commodity. Palm oil purchase prices were set in London markets rather than negotiated locally. European firms captured the commercial profit (the difference between the price paid to African producers and the London market price) while African producers received only the commodity price. This structural advantage — Europeans controlling the most profitable parts of the supply chain while non-European producers supplied labor and natural resources — exemplifies how trade in specific commodities systematically benefited Western merchants regardless of whether formal colonization had occurred (KC-5.1.II.C)."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Evidence for economic imperialism’s significance",
+        "text": "China: not formally colonized, but debt, extraterritoriality, and unequal treaties created de facto external control of major economic decisions; Argentina: British owned railways, banks, meatpacking — economic structure served British interests without formal colonization; Chile, Brazil, Mexico: American and British capital controlled copper, coffee, and oil extraction; Structural effects persisted: Latin American debt dependency, commodity export reliance continued into 20th century"
+      },
+      {
+        "label": "Evidence for formal colonialism’s greater significance",
+        "text": "Formal colonies lost political sovereignty entirely — more profound than economic dependency; Settler colonialism caused demographic transformation and permanent indigenous displacement; Colonial education, legal systems, and administrative structures remade societies; Decolonization after WWII was about recovering political sovereignty, not just economic autonomy"
+      }
+    ],
+    "prompt": "Evaluate the extent to which economic imperialism was as significant as formal colonialism in shaping global power relationships from 1750 to 1900.",
+    "note": "Write a full essay with a thesis, contextualization, evidence, and historical reasoning. Use comparison or argumentation as your primary skill. A strong response will make a clear claim about the relative significance of economic vs. formal imperialism with specific evidence for both.",
+    "thesisExample": "Strong thesis: “Although formal colonialism produced more dramatic political transformations — new state boundaries, direct governance, and settler displacement — economic imperialism was equally significant in shaping global power because it created structural economic dependencies that persisted long after formal colonial rule ended, as demonstrated by China’s century of humiliation and Latin America’s persistent underdevelopment under British and later American informal empire.”"
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. China was not formally colonized but was subjected to economic imperialism through the unequal treaty system. Was the distinction between formal colonialism and economic imperialism meaningful for ordinary Chinese people? Why or why not?",
+      "modelAnswer": "For ordinary Chinese people, the distinction between formal colonialism and economic imperialism was arguably less meaningful than it appeared on paper. Extraterritoriality meant that Western merchants operated in China outside Chinese law. The opium trade addicted millions. Indemnity payments drained government finances and led to tax increases. The opening of treaty ports created enclaves where Western powers exercised de facto sovereignty. Unequal trade terms impoverished Chinese producers who competed with industrially produced Western goods. Chinese sovereignty was nominal in the treaty port areas; Chinese courts could not touch Western citizens; Chinese fiscal policy was constrained by debt and indemnity obligations. From the perspective of someone living in Shanghai or Canton, the economic imperialism was experienced as foreign domination — whatever its formal legal status. This is why Chinese nationalism in the early 20th century focused so intensely on abolishing the “unequal treaties.”"
+    },
+    {
+      "question": "2. Britain built railways in Argentina that moved beef to port cities for export to Britain. Did this count as “improving” Argentina, as the civilizing mission ideology would claim? What was it primarily designed to do?",
+      "modelAnswer": "The railways did create real infrastructure that Argentinians used, and in the short term they contributed to Argentine economic growth. But their design reveals their primary purpose: British Argentine railways radiated from the interior to Buenos Aires — the export port — not in patterns that would connect Argentine cities to each other for internal development. They were built to serve British export needs, not Argentine national development priorities. The profits from the railways flowed to British shareholders. The freight rates were set by British companies and prioritized export commodities. This distinction matters: infrastructure that serves foreign export needs is structurally different from infrastructure that serves domestic development. Argentina got railways; Britain got the export supply chain and the profits. Calling this a “gift” of civilization is ideological; its primary function was economic extraction."
+    },
+    {
+      "question": "3. How did the Opium Wars reflect the relationship between military power and economic interests in the era of imperialism?",
+      "modelAnswer": "The Opium Wars are a particularly clear case because the military action was explicitly undertaken to protect an illegal commercial interest. Britain went to war specifically to force China to accept a trade that Britain’s own laws would have outlawed at home. This reveals the fundamental relationship between military power and economic interests in the imperial era: military force was an instrument of commercial policy. When market access could not be achieved through negotiation or mutual agreement, industrialized nations were willing and able to use military force to impose it. The treaty port system that emerged from the Opium Wars — extraterritoriality, indemnities, forced market access — became the template for “gunboat diplomacy” throughout Asia. Economic interests defined the goals; military power enforced them."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

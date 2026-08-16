@@ -1,0 +1,464 @@
+{
+  "course": "ap-world-history",
+  "num": "2.2",
+  "title": "The Mongol Empire and the Making of the Modern World",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "🏛️",
+      "label": "Political",
+      "tooltip": "Genghis Khan unified the Mongol tribes in 1206 and built the largest contiguous land empire in history. After his death it fractured into four khanates, each governing a key region of Afro-Eurasia."
+    },
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "The Pax Mongolica made Silk Road trade safer than ever before, dramatically increasing volume and range. The Yam postal system connected markets from China to Eastern Europe under one political umbrella."
+    },
+    {
+      "icon": "🎨",
+      "label": "Culture",
+      "tooltip": "The Mongols facilitated the westward transfer of Hindu-Arabic numerals, Greco-Islamic medicine, and paper money. Marco Polo's documented travels brought detailed knowledge of China to European readers."
+    },
+    {
+      "icon": "⚙️",
+      "label": "Technology",
+      "tooltip": "Mongols rapidly adopted Chinese siege weapons and Persian military tactics from conquered peoples. Their Yam postal relay — horse stations every 25 miles — was the world's fastest communication network for 500 years."
+    }
+  ],
+  "tldr": [
+    "**LO-A: LO: How the Mongol Empire was built —** Genghis Khan unified fragmented Mongol tribes in 1206 using a combination of military genius and deliberate terror: cities that surrendered were spared; those that resisted were destroyed and their populations massacred. This was strategy, not random cruelty — it forced future opponents to calculate whether resistance was worth the cost. The resulting empire was the largest contiguous land empire in history, held together by the Yam postal relay (horse stations every 25 miles, enabling empire-wide communication in days). **LO: How the Mongol Empire declined —:** After Genghis Khan's death, the empire split into four khanates (Yuan/China, Ilkhanate/Persia, Chagatai/Central Asia, Golden Horde/Russia). Decline came from overextension (too large to govern centrally), cultural assimilation (Mongol rulers in China and Persia adopted local cultures), and the Black Death (~1340s), which spread along their own Pax Mongolica trade routes and killed millions — including Mongol populations.",
+    "**LO-B: Explain how Mongol expansion influenced trade and communication —** **LO: How Mongol expansion influenced trade and communication —:** The Pax Mongolica (c. 1250–1350) made it safe for merchants to travel from China to Eastern Europe under a single political system for the first time in history — Marco Polo's journey (1271–1295) was only possible because of this. The Yam relay system was the world's fastest communication network for over 500 years.",
+    "**LO-C: Explain the Mongols' significance in larger patterns of… —** **LO: Mongols' significance in larger patterns of change —:** Mongol networks facilitated massive transfers of knowledge between East and West: gunpowder, papermaking, the compass, and Chinese administrative practices all moved through Mongol-controlled routes. Unintended consequence: the Pax Mongolica enabled the Black Death's westward spread. Long-term consequence: Mongol decline pushed Europeans to fund maritime expeditions to Asia, directly contributing to the Age of Exploration."
+  ],
+  "learningObjectives": [
+    "Explain how the Mongol Empire was built and declined",
+    "Explain how Mongol expansion influenced trade and communication",
+    "Explain the Mongols' significance in larger patterns of change"
+  ],
+  "vocabulary": [
+    {
+      "term": "Genghis Khan",
+      "definition": "Born Temüjin (~1162 CE); founder and supreme ruler of the Mongol Empire.",
+      "importance": "Unified warring Mongol tribes in 1206 and launched conquests that created the largest contiguous land empire in history."
+    },
+    {
+      "term": "Khanate",
+      "definition": "A regional subdivision of the Mongol Empire, ruled by a khan (leader).",
+      "importance": "After Genghis Khan's death, the empire split into four khanates — Yuan, Ilkhanate, Chagatai, and Golden Horde — each controlling key sections of Afro-Eurasian trade routes."
+    },
+    {
+      "term": "Pax Mongolica",
+      "definition": "\"Mongol Peace\" — a period of relative stability across the Mongol Empire (~1250–1350 CE) during which long-distance trade flourished.",
+      "importance": "For the first time, merchants could travel from China to Eastern Europe under a single political system, dramatically expanding trade volume and cultural exchange."
+    },
+    {
+      "term": "Yam",
+      "definition": "The Mongol imperial postal relay system — a network of horse stations roughly every 25 miles across the empire.",
+      "importance": "The fastest long-distance communication system in the world until the electric telegraph; essential for governing a vast empire and coordinating military campaigns."
+    },
+    {
+      "term": "Tribute",
+      "definition": "Payments made by weaker states or peoples to a more powerful ruler in exchange for peace or protection.",
+      "importance": "The Mongols extracted tribute from conquered peoples (including Russian princes for 200+ years), funding the empire and demonstrating political dominance without always requiring direct administration."
+    },
+    {
+      "term": "Yuan Dynasty",
+      "definition": "The Mongol-ruled dynasty of China, founded by Kublai Khan in 1271 and lasting until 1368.",
+      "importance": "Connected China to the broader Mongol trade network; the destination of Marco Polo's famous journey and a key node in Silk Road commerce."
+    },
+    {
+      "term": "Pastoral Nomadism",
+      "definition": "A way of life based on moving with herds rather than settling.",
+      "importance": "The Mongols were pastoral nomads — their mobility was their greatest military asset, allowing armies to cover distances that sedentary armies could not match."
+    },
+    {
+      "term": "Cultural Diffusion",
+      "definition": "The spread of ideas, technologies, and practices from one culture to another.",
+      "importance": "The Pax Mongolica accelerated cultural diffusion on a massive scale — spreading the Hindu-Arabic number system, Greco-Islamic medicine, gunpowder, and papermaking from East to West."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "A historian claims \"the Pax Mongolica was built on destruction.\" Which of the following reasoning best evaluates this claim?",
+      "answer": "The claim is well-supported: the Mongols used systematic violence — destroying any city that resisted — as deliberate psychological strategy to terrorize future opponents into surrendering without a fight. The \"peace\" of the Pax Mongolica existed because the Mongols had already made clear what resistance cost. Stability came not from peaceful governance but from the world's fear of what would happen if they didn't comply."
+    },
+    {
+      "question": "The Mongol Empire split into four separate khanates after Genghis Khan's death, yet trade across Afro-Eurasia expanded during this period. Which of the following best explains why political fragmentation did not stop commercial growth?",
+      "answer": "All four khanates were ruled by branches of Genghis Khan's family, maintained diplomatic relationships with each other, and all had strong financial incentives to keep trade flowing — because customs revenue required active commerce. Political divisions at the top didn't disrupt the economic logic driving trade: every khanate profited from merchants moving through their territory, so all had reason to maintain the routes."
+    },
+    {
+      "question": "Marco Polo's account of his journey to China (c. 1271–1295) describes regular meals, official escorts, and consistent rules across thousands of miles. What broader historical context made this kind of experience possible?",
+      "answer": "The Pax Mongolica — the Mongol unification of Central Asia under a single political system — provided the security and infrastructure (relay stations, official diplomatic protections, standardized laws) that made Marco Polo's journey feasible. Before or after the Pax Mongolica, that same journey would have been fragmented, unpredictable, and far more dangerous. His comfortable travel was a direct product of Mongol political control."
+    },
+    {
+      "question": "Both the Roman Pax Romana and the Mongol Pax Mongolica are associated with expanded trade. What did these two historical situations have most in common as explanations for trade growth?",
+      "answer": "In both cases, a dominant military power imposed political stability across a large geographic area — and that stability, by reducing the risk and cost of traveling and trading, was the primary driver of commercial expansion. Both empires also profited directly from taxing the trade they protected, creating a financial incentive to maintain order. Security, not geography or commercial innovation alone, was the key variable."
+    },
+    {
+      "question": "After the Mongol Empire weakened in the mid-14th century, European rulers began funding voyages to find sea routes to Asia. Which of the following best explains the connection between these two developments?",
+      "answer": "The decline of Mongol political control over Central Asia made the Silk Roads more dangerous, fragmented, and unpredictable — raising the cost and risk of overland trade. This increased the relative attractiveness of maritime alternatives. Since European states were already capable of ocean navigation and had strong commercial demand for Asian goods, they had powerful incentive to fund expeditions that could bypass the now-unstable overland routes."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🏕️ Who Were the Mongols?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1200 CE, if you asked a Chinese scholar, a Persian king, or a European knight what they thought of the Mongols, they'd probably laugh. The Mongols were nomadic herders living on the vast, windswept grasslands of Central Asia — no cities, no written language, no standing army. By most measures of the time, they were considered backward."
+    },
+    {
+      "type": "paragraph",
+      "text": "Within 100 years, those same Mongols controlled the largest contiguous land empire in human history — stretching from the Pacific Ocean to Eastern Europe. How does that happen? It starts with one man."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-2-0.gif",
+      "alt": "",
+      "caption": "The Mongol Empire at its greatest extent (c. 1279 CE) — stretching from Korea to Poland, the largest contiguous land empire in human history. The empire's four successor khanates are also shown.",
+      "attribution": "Public domain, Wikimedia Commons."
+    },
+    {
+      "type": "heading",
+      "text": "🏛️ Genghis Khan and the Rise of the Empire"
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/2-2-1.jpg",
+      "alt": "Yuan Dynasty portrait of Genghis Khan, c. 1278–1294 CE",
+      "caption": "Yuan Dynasty-style portrait of Genghis Khan (c. 1162–1227), founder of the Mongol Empire — the largest contiguous land empire in history.",
+      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-2-2.jpg",
+      "alt": "",
+      "caption": "Portrait of Genghis Khan (Yuan dynasty, 14th century). National Palace Museum, Taipei, Taiwan. The portrait was commissioned after his death; Genghis Khan forbade portraits during his lifetime.",
+      "attribution": "Public domain, Wikimedia Commons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Born into a minor clan around 1162 CE and named **Temüjin**, the man who would become **Genghis Khan** had a brutal early life — his father was poisoned, he was enslaved as a teenager, and his wife was kidnapped. None of this slowed him down."
+    },
+    {
+      "type": "paragraph",
+      "text": "Through a combination of military genius, ruthless ambition, and shrewd alliance-building, Temüjin unified the constantly warring Mongol tribes. In 1206 CE, the tribes formally declared him **Genghis Khan** — meaning \"Universal Ruler.\" Then the conquering started."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Mongols were terrifyingly effective in battle for several reasons:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Mobility** — Every soldier rode a horse (often several, so they could swap between them). Mongol armies moved faster than any enemy expected, covering distances that seemed impossible.",
+        "**Psychological warfare** — Cities that surrendered immediately were treated relatively well. Cities that resisted were often completely destroyed as a warning to others. Word spread fast. Many cities surrendered without a fight.",
+        "**Adaptability** — The Mongols were nomads with no tradition of siege warfare, but they quickly learned from the engineers and specialists they conquered, incorporating Chinese siege technology, Persian military tactics, and more."
+      ]
+    },
+    {
+      "type": "funFact",
+      "text": "Genghis Khan killed so many people — historians estimate 40 million, roughly 10% of the world's entire population at the time — that forests regrew over abandoned farmland across Asia and Europe. Those new forests absorbed so much carbon dioxide that scientists believe the Mongol conquests may have actually *cooled the Earth's temperature*. His campaigns were so devastating they left a measurable mark on the global climate."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-2-3.jpg",
+      "alt": "Mongol cavalry charging across the steppe",
+      "caption": "Mongol cavalry were unlike anything their enemies had faced — faster, more coordinated, and trained from childhood to fight on horseback.",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "heading",
+      "text": "🏛️ The Four Khanates — After Genghis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Genghis Khan died in 1227. His empire didn't die with him — it kept expanding for another 50 years under his sons and grandsons. But eventually, the empire was too vast to govern as one unit. It split into four regional kingdoms called **khanates**, each ruled by a branch of Genghis's family:"
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/2-2-4.jpg",
+      "alt": "Map of the Mongol Empire divided into four khanates",
+      "caption": "The Mongol Empire at its height — divided into khanates after Genghis Khan's death.",
+      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Yuan Dynasty** — ruled China, founded by Genghis's grandson Kublai Khan. This is where Marco Polo famously traveled.",
+        "**Ilkhanate** — ruled Persia and parts of the Middle East.",
+        "**Chagatai Khanate** — controlled Central Asia, the heart of the Silk Roads.",
+        "**Golden Horde** — ruled Russia and the western steppe, exacting tribute from Russian princes for over 200 years."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The khanates sometimes fought each other, but they shared something crucial: they all sat along or near major trade routes, and they all had an interest in keeping commerce moving."
+    },
+    {
+      "type": "apTip",
+      "text": "You don't need to memorize all four khanates' names for the AP exam, but you should know that the Mongol Empire *split* after Genghis Khan and was governed by multiple successor states. More importantly, know that these states collectively controlled the trade routes connecting Afro-Eurasia — that's what made the Pax Mongolica possible."
+    },
+    {
+      "type": "heading",
+      "text": "💰 The Pax Mongolica — When Violence Created Peace"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's one of history's great ironies: the Mongols were extraordinarily violent conquerors, yet their rule produced one of the safest periods for trade in world history. Historians call this the **Pax Mongolica** — Latin for \"Mongol Peace,\" roughly 1250–1350 CE."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the Mongols controlled a region, they had a strong incentive to keep it stable. Stable territory meant tax revenue. Merchants moving goods meant customs duties. A merchant robbed on your road was money you didn't collect. So the Mongols actively *protected* trade routes, built rest stops, and punished banditry severely."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-2-5.jpg",
+      "alt": "Merchants trading freely along the Silk Roads under Mongol protection",
+      "caption": "During the Pax Mongolica, merchants could travel from China to Europe under a single political umbrella for the first time in history — a transformation for global trade.",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "The result was remarkable. For roughly 100 years, a merchant could travel from China to Eastern Europe under a single political system with consistent laws and protections. Regions that had never been connected before were suddenly drawn into the same trade network. New peoples, new goods, and new ideas entered the global exchange for the first time."
+    },
+    {
+      "type": "funFact",
+      "text": "The Mongols created a postal relay system called the **Yam** — a network of stations spaced about 25 miles apart across the entire empire, each stocked with fresh horses. A message could travel from China to Eastern Europe in just a few weeks. For comparison, a letter sent by ship from England to America in the 1600s took 6–8 weeks just to cross the Atlantic. The Yam was the fastest long-distance communication system in the world until the electric telegraph, 500 years later."
+    },
+    {
+      "type": "apTip",
+      "text": "The **Pax Mongolica** is one of the most important concepts in this unit. The AP exam loves to ask about it because it requires nuanced thinking: the Mongols were violent conquerors who also enabled peaceful trade. That's not a contradiction — it's cause and effect. Know that Mongol expansion *facilitated* Afro-Eurasian trade by bringing new regions into existing trade networks and making routes safer."
+    },
+    {
+      "type": "heading",
+      "text": "🎨 ⚙️ What Traveled Across the Empire — Cultural and Tech Transfers"
+    },
+    {
+      "type": "paragraph",
+      "text": "With people, goods, and merchants moving freely across the largest empire the world had ever seen, ideas and technologies traveled too. The Mongol Empire became a giant pipeline for cultural exchange."
+    },
+    {
+      "type": "paragraph",
+      "text": "Three specific transfers the College Board wants you to know:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Greco-Islamic medical knowledge transferred to western Europe** — The Islamic world had preserved and built upon ancient Greek medical texts for centuries. Through Mongol-connected trade networks, this knowledge — including advanced understandings of anatomy, disease, and treatment — began reaching European scholars who had lost access to it.",
+        "**Numbering systems transferred to Europe** — The Hindu-Arabic numeral system (the 1, 2, 3 system you use every day) spread through Mongol-era trade networks into Europe, eventually replacing the far more cumbersome Roman numerals. Try doing long division in Roman numerals and you'll understand why this mattered.",
+        "**The Mongols adopted the Uyghur script** — Since Mongols had no written language, Genghis Khan commissioned the adoption of the Uyghur script to administer his empire. This let them create written laws, keep records, and communicate across vast distances — turning a band of nomads into a functioning bureaucratic empire."
+      ]
+    },
+    {
+      "type": "funFact",
+      "text": "Genghis Khan had so many children — historians estimate he fathered hundreds — that today approximately **16 million men alive on Earth are his direct descendants**. That's about 0.5% of the entire male population of the planet. A 2003 genetics study traced a specific Y-chromosome lineage back to him. He may be the most reproductively successful individual in recorded human history."
+    },
+    {
+      "type": "heading",
+      "text": "☠️ The Dark Side — The Black Death"
+    },
+    {
+      "type": "paragraph",
+      "text": "The same trade networks that moved silk, porcelain, and ideas also moved something far more deadly. The **Black Death** — bubonic plague caused by the bacterium *Yersinia pestis* — originated in Central Asia (likely in the Mongol heartland) and traveled westward along Silk Road trade routes in the 1340s."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-2-6.jpg",
+      "alt": "The Black Death spreading through medieval cities",
+      "caption": "The Black Death killed an estimated 30–60% of Europe's population between 1347 and 1351 — one of the deadliest events in human history, carried westward along Mongol trade routes.",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fleas on rats. Rats on trade ships and caravan animals. Merchants moving from city to city. The plague spread with terrifying speed — reaching the Middle East, North Africa, and Europe within years. By the time it slowed, an estimated **30–60% of Europe's population was dead**. China and Central Asia lost millions more."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a critical lesson about trade networks: connectivity is a double-edged sword. The same routes that enriched civilizations and spread knowledge also spread disease. The more connected the world becomes, the faster everything travels — good and bad."
+    },
+    {
+      "type": "apTip",
+      "text": "The Black Death is a perfect AP exam example of an *unintended consequence* of trade network expansion. When you're asked about the effects of the Silk Roads or the Mongol Empire, the plague is exactly the kind of nuanced, complex effect the AP exam rewards. It also shows continuity and change: the plague didn't just kill people — it reshaped European labor systems, the Church's authority, and eventually contributed to conditions that made the Renaissance possible."
+    },
+    {
+      "type": "heading",
+      "text": "📉 The Decline of the Mongol Empire"
+    },
+    {
+      "type": "paragraph",
+      "text": "By the late 1300s, the Mongol Empire was collapsing. Several forces combined to bring it down:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Overextension** — The empire was simply too large to govern effectively. Communication across thousands of miles was slow; local rebellions were hard to suppress; the khanates increasingly acted as independent states.",
+        "**The plague** — The Black Death devastated Mongol populations too, weakening military capacity and destabilizing governance.",
+        "**Assimilation** — In many regions, Mongol rulers adopted local customs, languages, and religions so thoroughly that they lost their distinct Mongol identity. The Yuan Dynasty in China, for example, was eventually overthrown by a Chinese rebellion (founding the Ming Dynasty in 1368).",
+        "**New powers rising** — As Mongol control weakened, successor states emerged — including the Ottoman Empire, the Ming Dynasty, and others that would shape the next chapter of world history."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The Mongol Empire lasted less than 200 years. But its effects — on trade, technology transfer, cultural exchange, and even disease — shaped the world for centuries afterward. It's one of history's clearest examples of how a single political force can permanently alter the direction of human civilization."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 2.2",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+2.2",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "The Mongols",
+      "url": "https://www.youtube.com/results?search_query=AP+Review+The+Mongols",
+      "creator": "AP Review · 10 min"
+    },
+    {
+      "title": "History vs. Genghis Khan",
+      "url": "https://www.youtube.com/results?search_query=TED-Ed+History+vs.+Genghis+Khan",
+      "creator": "TED-Ed · 6 min"
+    },
+    {
+      "title": "Genghis Khan & the Mongols",
+      "url": "https://www.youtube.com/results?search_query=YouTube+Genghis+Khan+%26+the+Mongols",
+      "creator": "YouTube · 10 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "\"A Persian scholar writing in 1260 CE described the aftermath of the Mongol siege of Baghdad: 'The Tigris ran black with the ink of a thousand libraries and red with the blood of scholars. Of the city that was once the jewel of civilization, nothing remained but silence.'\"",
+      "question": "The account most directly illustrates which of the following about the Mongol Empire?",
+      "options": [
+        "A) The Mongols specifically targeted centers of Islamic learning to prevent future intellectual resistance",
+        "B) The destruction of Baghdad permanently ended the Islamic world's role in Afro-Eurasian trade",
+        "C) Mongol warriors were primarily motivated by religious opposition to Islamic scholarship",
+        "D) The extreme violence of Mongol conquest could destroy established cultural centers while simultaneously creating the conditions for later commercial expansion"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Baghdad sack (1258) illustrates the core paradox of the Mongol Empire: the same force that created the Pax Mongolica's commercial prosperity did so through unprecedented violence. Destruction and trade facilitation were two faces of the same imperial project."
+    },
+    {
+      "stimulus": "\"The Yam — the Mongol postal relay system — consisted of stations spaced roughly every 25 miles across the entire empire, each stocked with fresh horses, food, and shelter. Official messengers could cross the empire in weeks rather than months.\"",
+      "question": "The Yam system described in the passage most directly contributed to which of the following?",
+      "options": [
+        "A) The expansion of trade by giving merchants access to reliable official communication channels",
+        "B) The Mongols' ability to maintain political and military coordination across the largest contiguous land empire in history",
+        "C) The cultural integration of diverse peoples within the Mongol Empire through shared infrastructure",
+        "D) The Mongols' ability to tax merchants who relied on the postal relay system for delivery"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Yam's primary purpose was political and military coordination — enabling the Mongol central government to receive information from and issue orders to all parts of the empire within days or weeks, which was essential for governing such a vast territory."
+    },
+    {
+      "stimulus": "\"Marco Polo, a Venetian merchant who spent nearly two decades in Mongol-controlled China, wrote: 'No bandit dared approach us, for we carried the Great Khan's tablet of authority. At every station, fresh horses awaited, and the roads were well supplied.'\"",
+      "question": "Marco Polo's account most directly supports which of the following conclusions about the Pax Mongolica?",
+      "options": [
+        "A) European merchants regularly traveled to China before the Mongol period for commercial purposes",
+        "B) The Mongol Empire completely eliminated all danger from trade routes between Europe and China",
+        "C) Mongol political control created practical conditions — consistent protections and infrastructure — that made intercontinental travel feasible for the first time",
+        "D) The Pax Mongolica primarily benefited European merchants rather than Asian or Middle Eastern ones"
+      ],
+      "correctIndex": 2,
+      "explanation": "Marco Polo's journey shows that Mongol political authority created genuinely new conditions — official protections, relay infrastructure, consistent enforcement — that made Europe-to-China travel practically feasible for a Venetian merchant in a way it had never been before."
+    },
+    {
+      "stimulus": "\"Historians estimate that Mongol military campaigns in the 13th century resulted in the deaths of roughly 40 million people — approximately 10% of the world's population. Some scientists have calculated that abandoned farmland growing back into forest absorbed significant amounts of atmospheric carbon dioxide.\"",
+      "question": "The scenario described in the passage best illustrates which of the following historical concepts?",
+      "options": [
+        "A) Historical events frequently produce unintended consequences across multiple domains simultaneously",
+        "B) The Mongol Empire's conquests were ultimately beneficial because of their positive environmental effects",
+        "C) Population decline consistently and directly produces positive environmental outcomes",
+        "D) Military conflict is more historically significant than commercial development in shaping long-term change"
+      ],
+      "correctIndex": 0,
+      "explanation": "The carbon-absorption consequence of Mongol-caused depopulation illustrates that historical events produce complex, unintended effects across economic, environmental, and demographic domains simultaneously — effects the Mongols neither intended nor understood."
+    },
+    {
+      "stimulus": "\"After the Black Death swept across Eurasia in the 1340s–1350s and Mongol political control fragmented, European rulers began funding maritime exploration. By the 1490s, Portuguese and Spanish ships had established sea routes to Asia and reached the Americas.\"",
+      "question": "Which of the following best explains the relationship between the events described in the passage?",
+      "options": [
+        "A) The plague directly motivated European sailors to seek Asia by sea because overland routes were sealed off by disease-infected populations",
+        "B) The decline of Mongol power and the disruption of the plague made sea routes relatively more attractive as overland routes became less reliable and more dangerous",
+        "C) European maritime technology was specifically developed in direct response to the political collapse of the Mongol Empire",
+        "D) The discovery of sea routes to the Americas was primarily motivated by European desire to escape plague conditions"
+      ],
+      "correctIndex": 1,
+      "explanation": "The combination of Mongol political fragmentation (reducing overland security) and plague disruption (reducing overland populations and reliability) shifted the cost-benefit calculation in favor of maritime alternatives — which European states then had strong commercial incentive to develop."
+    }
+  ],
+  "saq": {
+    "context": "\"The Mongol Empire, established by Genghis Khan in the early 13th century, became the largest contiguous land empire in history, stretching from China to Eastern Europe. Under Mongol rule, the period c. 1250–1350 CE is known as the Pax Mongolica — a time when merchants could travel safely across Central Asia under a single political system, dramatically expanding the volume and diversity of Afro-Eurasian trade.\"",
+    "directions": "Answer all three parts (A, B, C). Write your response before clicking to see sample answers.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Identify ONE way the Mongol Empire created conditions that facilitated trade in the period 1200–1450.",
+        "sampleAnswer": "**Sample answer (1 sentence):** The Mongols established the Yam relay system — a network of horse stations every 25 miles across the empire — that provided merchants with official protections, fresh horses, food, and shelter, making sustained intercontinental travel practically feasible for the first time in history.\n\n**Other possible responses include:**"
+      },
+      {
+        "label": "Part B",
+        "task": "Explain ONE reason the Mongol conquests had devastating consequences for specific populations in the period 1200–1450.",
+        "sampleAnswer": "**Sample answer (3 sentences):** The Mongols employed systematic, deliberate violence as a military strategy — cities that surrendered were typically spared, but those that resisted were destroyed and their populations massacred to terrorize future opponents into compliance without a fight. The 1258 siege and sack of Baghdad killed hundreds of thousands of people, destroyed the Abbasid Caliphate which had governed the Islamic world for five centuries, and burned irreplaceable libraries containing centuries of accumulated scholarship in mathematics, medicine, and philosophy. These conquests demonstrate that the same political force that created the Pax Mongolica's commercial prosperity was built on a foundation of deliberate and unprecedented destruction, illustrating that the benefits of Mongol connectivity came at enormous permanent human cost to conquered peoples.\n\n**Other possible responses include:**"
+      },
+      {
+        "label": "Part C",
+        "task": "Explain ONE way the Mongol Empire contributed to the spread of disease in the period 1200–1450.",
+        "sampleAnswer": "**Sample answer (3 sentences):** The Pax Mongolica created the conditions for the catastrophic spread of the Black Death by establishing safe, busy trade routes connecting Central Asia — where the plague bacterium Yersinia pestis was endemic in rodent populations — to the major cities of the Middle East, Europe, and North Africa. As merchants traveled Mongol-protected routes, infected fleas living on rats accompanying their caravans carried the plague westward at unprecedented speed, reaching the Black Sea coast by the mid-1340s and Europe by 1347. This demonstrates a devastating unintended consequence of the Pax Mongolica: the very connectivity that made it commercially transformative also created efficient disease transmission pathways that killed tens of millions across Afro-Eurasia — proof that the costs and benefits of connectivity are inseparable.\n\n**Other possible responses include:**"
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Alternative thesis approaches",
+        "text": "\"…to a limited extent, because the Silk Roads had functioned as major trade arteries for centuries before the Mongols, and the empire's violent conquests destroyed as much commercial infrastructure — cities, populations, irrigation systems — as the Pax Mongolica ultimately protected.\"; \"…to a significant extent, because while pre-existing routes already connected Afro-Eurasia, the Pax Mongolica reduced risk and friction enough to dramatically increase both the volume of trade and the range of peoples who could participate.\""
+      },
+      {
+        "label": "Evidence for Body Paragraph 1 — Mongols as transformative force for trade facilitation",
+        "text": "Pax Mongolica created consistent laws and protections for merchants across an enormous geographic area; Yam relay system revolutionized communication speed, enabling coordination across thousands of miles; Paiza (diplomatic passport) system gave merchants official legal standing across multiple khanates; Elimination of many internal tolls and tariffs reduced the cost of goods passing across the empire; Marco Polo's successful journey (1271–1295) demonstrates the practical feasibility of Europe-to-China travel under Mongol protection"
+      },
+      {
+        "label": "Evidence for Body Paragraph 2 — Limitations, destruction, and complications",
+        "text": "Mongol conquests destroyed major trading cities including Baghdad, Zhongdu, and Samarkand; Destruction of Persian irrigation systems caused centuries of agricultural decline, reducing trade surpluses; Black Death spread along Pax Mongolica routes, killing tens of millions and ultimately disrupting trade; Empire fragmented into competing khanates by the late 13th century, gradually reducing unified political protection; Maritime routes eventually replaced overland routes as safer and cheaper alternatives — suggesting the Pax Mongolica's transformation was temporary"
+      }
+    ],
+    "prompt": "\"Evaluate the extent to which the Mongol Empire transformed networks of exchange in Afro-Eurasia in the period 1200–1450.\"",
+    "note": "Write a thesis before revealing. A strong thesis: restates the prompt's verb phrase, adds a quantifier (\"to a great/significant extent\"), and ends with *because [A] and [B]* — where A and B are your two body paragraph arguments, not specific pieces of evidence.",
+    "thesisExample": "\"The Mongol Empire transformed networks of exchange in Afro-Eurasia to a great extent in the period 1200–1450 because it unified Central Asian trade routes under a single political system and dramatically expanded the volume and geographic reach of cross-cultural contact and commerce.\""
+  },
+  "discussionQuestions": [
+    {
+      "question": "How did the Mongols go from a small group of nomadic tribes to rulers of the largest land empire in history?",
+      "modelAnswer": "Genghis Khan unified the warring Mongol tribes in 1206 CE through military skill and political strategy. The Mongols then conquered through a combination of unmatched mobility (every soldier on horseback), psychological warfare (surrendering cities were spared; resistant ones were destroyed as a warning), and adaptability (quickly learning siege technology and tactics from conquered peoples). Their speed and ferocity overwhelmed enemies who had no experience fighting a fully mounted army."
+    },
+    {
+      "question": "What was the Pax Mongolica, and why is it historically significant?",
+      "modelAnswer": "The **Pax Mongolica** (\"Mongol Peace,\" roughly 1250–1350 CE) was a period of relative stability across the Mongol Empire during which trade flourished. Because the Mongols controlled territory stretching from China to Eastern Europe, merchants could travel across an enormous distance under a single political system, with consistent protections and enforced law. This allowed Afro-Eurasian trade to expand dramatically and drew new regions and peoples into existing trade networks. The irony — and what makes it historically significant — is that this peaceful period for trade was created by one of history's most violent conquests."
+    },
+    {
+      "question": "Name two specific technological or cultural transfers that happened because of the Mongol Empire, and explain why each mattered.",
+      "modelAnswer": "**1. Hindu-Arabic numerals reached Europe.** The 1, 2, 3 number system we use today spread through Mongol-connected networks to replace Roman numerals. This enabled far more complex mathematics, accounting, and science — foundational to the Scientific Revolution and modern economics.\n\n**2. Greco-Islamic medical knowledge reached western Europe.** Islamic scholars had preserved and expanded on ancient Greek medicine for centuries. As this knowledge moved westward through Mongol trade networks, it gave European scholars access to far more advanced understandings of anatomy and disease than they had previously."
+    },
+    {
+      "question": "How did the Mongol Empire contribute to the spread of the Black Death?",
+      "modelAnswer": "The plague originated in Central Asia — the Mongol heartland — and traveled westward along the same Silk Road trade routes the Mongols had made safer and more active during the Pax Mongolica. Infected fleas on rats spread via caravans and trade ships, carrying plague from city to city at unprecedented speed. The very connectivity that enriched Afro-Eurasia also made it catastrophically vulnerable to pandemic disease. By the time the Black Death slowed, it had killed an estimated 30–60% of Europe's population."
+    },
+    {
+      "question": "What caused the Mongol Empire to decline, and what does that tell us about how empires fall?",
+      "modelAnswer": "The Mongol Empire declined due to a combination of overextension (too large to govern effectively), the devastation of the Black Death on their own populations, assimilation into local cultures (Mongol rulers in China and Persia became culturally indistinguishable from the people they ruled), and the rise of new regional powers who filled the vacuum. This pattern — overextension, internal weakening, external pressure, fragmentation — is common to many empires throughout history. The Mongol collapse, like the fall of Rome or the decline of the Han Dynasty, shows that size alone doesn't guarantee survival; effective governance and adaptability matter just as much."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

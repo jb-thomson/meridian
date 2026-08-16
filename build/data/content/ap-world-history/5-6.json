@@ -1,0 +1,351 @@
+{
+  "course": "ap-world-history",
+  "num": "5.6",
+  "title": "Industrialization: Government's Role, 1750–1900",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "🗳️",
+      "label": "Governance",
+      "tooltip": "Later industrializers used state power to direct, finance, and accelerate industrial development — contrasting with Britain's primarily private-enterprise model and demonstrating that there was more than one path to industrialization."
+    },
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "The expansion of U.S. and European industrial power into Asia created pressure on Japan and other states to modernize their own economies and militaries or face domination. The threat of imperialism drove state-directed modernization."
+    },
+    {
+      "icon": "⚙️",
+      "label": "Technology",
+      "tooltip": "State-sponsored industrialization in Meiji Japan, Egypt, and Russia took different forms — government-owned factories, foreign expertise, infrastructure investment — reflecting different political and economic contexts."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Japan's Meiji Restoration (key case) —** In 1853–1854, American naval commander Matthew Perry forced Japan to open its ports to trade, demonstrating that Japan's traditional military was no match for Western industrial power. The Meiji government that took power in 1868 responded by deliberately adopting Western industrial and military technology, sending students to study in Europe and America, hiring foreign technical experts, building government model factories (and then selling them to private investors), constructing a national railroad network, and reorganizing the military on Western lines. By 1905, Japan defeated Russia in war — the first non-Western country to defeat a major European power in the industrial era, demonstrating the success of state-led industrialization. Britain industrialized primarily through private enterprise. But most later industrializers used significant government direction because they lacked the private capital accumulation and entrepreneurial networks Britain had developed over centuries. The CED requires knowledge of three cases: (1) Muhammad Ali's Egypt — government-built cotton textile industry in the 1820s–1840s, ultimately unsuccessful against British competition; (2) Meiji Japan — after 1868, the government built model factories, sent students abroad, hired foreign experts, and constructed railroads and shipyards; (3) implied: Russia under Finance Minister Witte in the 1890s — massive state investment in the Trans-Siberian Railroad and industrial development. **Muhammad Ali's Egypt (illustrative example) —** Muhammad Ali became ruler of Egypt (nominally under Ottoman authority) in 1805 and pursued an ambitious modernization program, including establishing government-owned cotton textile mills using European machinery and expertise. His goal was to break Egypt's dependence on European finished goods. Initially promising, the program was undermined by the Anglo-Ottoman Commercial Convention of 1838, which opened Egypt to cheap British goods without tariff protection. Unable to compete, the Egyptian textile industry collapsed. This is a cautionary example of state-sponsored industrialization that failed due to political constraints on trade policy."
+  ],
+  "learningObjectives": [
+    "Explain the causes and effects of economic strategies of different states and empires."
+  ],
+  "vocabulary": [
+    {
+      "term": "State-Sponsored Industrialization",
+      "definition": "Government-directed and financed industrial development, in which the state plays an active role in building factories, infrastructure, and industries rather than leaving development to private investors.",
+      "importance": "The characteristic model of late industrializers (Japan, Russia, Egypt) who needed to catch up quickly and lacked the private capital base that Britain had built over decades."
+    },
+    {
+      "term": "Muhammad Ali",
+      "definition": "Ottoman viceroy (ruler) of Egypt from 1805 to 1848 who pursued ambitious military and economic modernization, including establishing government-owned cotton textile factories.",
+      "importance": "The CED's required illustrative example of state-sponsored industrialization — his program partially succeeded but ultimately failed when the 1838 commercial treaty with Britain removed Egypt's ability to protect its industries with tariffs."
+    },
+    {
+      "term": "Meiji Restoration (Japan, 1868)",
+      "definition": "The overthrow of Japan's Tokugawa shogunate and restoration of imperial rule in 1868, followed by a deliberate government program to modernize Japan along Western industrial and military lines.",
+      "importance": "The most successful example of state-directed industrialization in the 19th century; transformed Japan from a feudal agricultural society to an industrial power within a single generation."
+    },
+    {
+      "term": "Defensive Modernization",
+      "definition": "A government strategy of adopting Western industrial and military technology in order to resist Western political domination, rather than because of internal economic development.",
+      "importance": "The motivation behind Meiji Japan's industrialization, Ottoman Tanzimat reforms, and Russia's industrial push — all driven by the threat that industrialized Western powers posed to non-Western states."
+    },
+    {
+      "term": "Zaibatsu",
+      "definition": "Large, government-connected family-owned industrial and financial conglomerates that dominated Japan's industrialization in the late 19th and early 20th centuries (e.g., Mitsubishi, Mitsui).",
+      "importance": "The private sector that took over government model factories after the Meiji government sold them; combined government connections with private entrepreneurship in a distinctive Japanese form of industrial capitalism."
+    },
+    {
+      "term": "Unequal Treaties",
+      "definition": "Agreements forced on Asian states by Western powers that granted Western nations special trading privileges, extraterritoriality (exemption from local laws), and control over customs tariffs.",
+      "importance": "Both Japan and China were subjected to these; the threat of such treaties (and the example of China's subjugation) was a key motivation for Meiji Japan's modernization."
+    },
+    {
+      "term": "Witte System (Russia)",
+      "definition": "The industrialization program directed by Sergei Witte, Russia's Finance Minister (1892–1903), which used protective tariffs, foreign investment, and state-directed railroad construction (especially the Trans-Siberian Railroad) to accelerate Russian industrialization.",
+      "importance": "Made Russia one of the world's larger industrial economies by 1900, though still far behind Britain, Germany, and the United States."
+    },
+    {
+      "term": "Extraterritoriality",
+      "definition": "A provision in unequal treaties that exempted foreign nationals from the laws of the host country, placing them instead under the jurisdiction of their home country's courts.",
+      "importance": "A major grievance for Japan and China; it symbolized Western assumptions that Asian legal systems were inferior and that Westerners could operate above local law."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Britain industrialized primarily through private enterprise. Why would later industrializing countries (Japan, Russia, Egypt) need to use government direction instead?",
+      "answer": "Britain industrialized first, which meant it had decades to build private capital, entrepreneurial networks, technical knowledge, and financial institutions before other countries. When Japan, Russia, or Egypt looked at Britain's factories, they saw the end product of 80 years of private development. To catch up quickly, they couldn't wait for private capital to accumulate organically — they needed government to invest, coordinate, and direct the process. The government could build infrastructure (railroads), establish model factories to demonstrate techniques, send students abroad to learn, and hire foreign experts. Private enterprise followed government leadership rather than driving it."
+    },
+    {
+      "question": "When American warships appeared in Tokyo Bay in 1853 and forced Japan to open its ports, how would this event have appeared to Japanese leaders, and what would it suggest about what Japan needed to do?",
+      "answer": "To Japanese leaders, Perry's \"Black Ships\" demonstrated that the industrialized West had a military and technological advantage that Japan could not match with traditional weapons and tactics. American steam-powered warships with cannon were simply beyond anything Japan's samurai warriors could fight effectively. The lesson was stark: Japan's existing system would leave it vulnerable to Western domination — either as a colony or as an unequal trading partner. The choice was between being dominated by Western industrial power or becoming industrially powerful yourself. The Meiji reformers chose the latter — deliberately adopting Western industrial and military technology to ensure Japan's independence."
+    },
+    {
+      "question": "Muhammad Ali's Egypt tried to industrialize its cotton textile industry in the 1820s–1840s, but the program ultimately failed. What do you think might cause a government industrialization program to fail even if it starts well?",
+      "answer": "Several factors can undermine government industrialization: (1) competition from more efficient foreign producers who undercut prices — if your factories can't produce as cheaply as British mills, and your government can't protect you with tariffs, the program fails; (2) lack of skilled workers and technical knowledge that takes time to develop; (3) the financial cost of subsidizing inefficient state enterprises becomes unsustainable; (4) political constraints — in Muhammad Ali's case, the Anglo-Ottoman Commercial Convention of 1838 forced Egypt to open its market to British goods, removing tariff protection and exposing Egyptian factories to competition they couldn't survive."
+    },
+    {
+      "question": "Japan's Meiji government built factories and then sold them to private investors rather than keeping them as permanent government enterprises. What is the logic of this \"model factory\" strategy?",
+      "answer": "The government builds and operates model factories to demonstrate that industrial production is profitable, to train workers, and to establish the technical knowledge base. Once the factory is running successfully, the government sells it to private investors — transferring the knowledge and infrastructure to the private sector while recovering some of the initial investment. This works better than permanent government ownership because private investors have stronger incentives to keep improving efficiency (they keep the profits). The government's role is to absorb the risk and uncertainty of the initial investment that private investors wouldn't take, then hand off to private enterprise once the model is proven."
+    },
+    {
+      "question": "Japan defeated Russia in the Russo-Japanese War of 1905. What does this military outcome reveal about the success of Japan's industrialization program?",
+      "answer": "Military power in the industrial era required industrial capacity: modern weapons, railroads to move troops and supplies, ships built in modern shipyards. Russia was a European great power with a large army. Japan's ability to defeat Russia militarily in 1905 demonstrated that its 37-year industrialization program under the Meiji government had succeeded in building the industrial base needed for modern military power. It was the first time a non-Western country had defeated a major European power in a war in the industrial era — a signal that European military dominance was not inevitable and that deliberate, state-led industrialization could succeed."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🏛️ Two Models of Industrialization: Private vs. State-Led"
+    },
+    {
+      "type": "paragraph",
+      "text": "Britain industrialized primarily through private enterprise. Individual entrepreneurs — Watt, Arkwright, Stephenson — drove innovation and factory-building. The government provided a legal framework (patents, property rights) and built some infrastructure, but did not own factories or directly finance industrial production. Private capital, accumulated through trade, financed the machines and factories of the First Industrial Revolution."
+    },
+    {
+      "type": "paragraph",
+      "text": "This model worked for Britain because Britain was first. It had decades to accumulate private wealth, develop financial institutions, and build a culture of innovation before anyone else. But countries that wanted to industrialize in the 1830s–1890s faced a different situation: they were looking at an established industrial power that had a massive head start. Waiting for private capital to accumulate organically while Britain's factories churned out cheaper goods year after year was not a practical strategy."
+    },
+    {
+      "type": "paragraph",
+      "text": "The alternative was state-directed industrialization — governments taking an active role in building industry: investing in infrastructure, establishing model factories, hiring foreign experts, sending students abroad, and protecting domestic industries with tariffs. Several states adopted versions of this model, with very different degrees of success."
+    },
+    {
+      "type": "apTip",
+      "text": "The CED says \"a small number of states and governments promoted their own state-sponsored visions of industrialization.\" The two required examples are Muhammad Ali's Egypt and Meiji Japan (specifically cited in the CED: \"The expansion of U.S. and European influence in Asia led to internal reform in Japan that supported industrialization and led to the growing regional power of Japan in the Meiji Era\"). Know both. Know which succeeded and which didn't, and why."
+    },
+    {
+      "type": "heading",
+      "text": "🇪🇬 Muhammad Ali and Egypt: Ambition Meets the British Trade System"
+    },
+    {
+      "type": "paragraph",
+      "text": "Muhammad Ali came to power in Egypt in 1805 — nominally as the Ottoman viceroy but effectively as an independent ruler. He was a brilliant military and political strategist who understood that Egypt's future depended on modernization. Over three decades, he transformed Egypt's military and attempted to transform its economy."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the 1820s–1840s, Muhammad Ali established a government-owned cotton textile industry — one of the first state-directed industrial programs outside Europe. He imported European machinery, hired European technical experts, and set up factories to spin and weave Egypt's long-staple cotton (some of the finest in the world). The goal was to add value domestically: instead of exporting raw cotton to British mills and importing finished cloth, Egypt would manufacture cloth itself and sell the finished product."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/5-6-0.jpg",
+      "alt": "Muhammad Ali's government cotton mills in Egypt, 1830s",
+      "caption": "Muhammad Ali's state-owned cotton textile factories in Egypt were among the first government-directed industrial enterprises outside of Europe — an early example of a non-Western state attempting to industrialize to compete with Britain (Google Gemini, 2025), commercially licensed.",
+      "attribution": "Muhammad Ali's state-owned cotton textile factories in Egypt were among the first government-directed industrial enterprises outside of Europe — an early example of a non-Western state attempting to industrialize to compete with Britain (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The program showed real promise in its early years. But it ran into a decisive obstacle in 1838: the Anglo-Ottoman Commercial Convention, which forced Egypt (as an Ottoman province) to open its markets to British goods on free-trade terms, with no protective tariffs. Egyptian factories, still less efficient than British ones, could not compete on price with British machine-made cloth. Without tariff protection, the market for Egyptian-made cloth collapsed. The factories shut down or contracted severely."
+    },
+    {
+      "type": "paragraph",
+      "text": "Muhammad Ali's experience illustrates a fundamental challenge for late industrializers: if you cannot protect your developing industries from established competitors, you cannot give them the time they need to become efficient. Industrial development requires a learning period during which factories are less competitive than the industry leaders — and without trade protection, that learning period is interrupted by foreign competition before it can produce results."
+    },
+    {
+      "type": "funFact",
+      "text": "Muhammad Ali also built a military school, a school of medicine (staffed by French doctors), a translation bureau, a printing press, and Egypt's first modern newspaper. He was one of the 19th century's most energetic modernizers. He sent Egyptian students to study in France and Italy — one of them, Rifa'a al-Tahtawi, came back with detailed descriptions of French society and government that became enormously influential in Egyptian intellectual life. Muhammad Ali wanted Egypt to compete with Europe on its own terms. The British trade system made this nearly impossible."
+    },
+    {
+      "type": "heading",
+      "text": "🇯🇵 Meiji Japan: Defensive Modernization That Worked"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japan's story is dramatically different from Egypt's — and its success makes it one of the most remarkable cases of state-directed industrialization in history."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1853, American Commodore Matthew Perry arrived in Tokyo Bay with steam-powered warships and demanded that Japan open its ports to American trade. Japan had been effectively closed to most foreign contact since the 1630s. The sight of Perry's \"Black Ships\" — iron-hulled, steam-powered, carrying superior cannon — was a shock. Japan's traditional military was simply no match for American industrial power. A second visit in 1854 forced Japan to sign a trade treaty, followed by similar \"unequal treaties\" with European powers."
+    },
+    {
+      "type": "paragraph",
+      "text": "This humiliation triggered an internal crisis that resulted in the overthrow of the Tokugawa shogunate in 1868 and the establishment of the Meiji government. The new government's guiding principle was clear: industrialize or be dominated. Their slogan was \"Fukoku Kyōhei\" — \"Rich country, strong military.\""
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/5-6-1.jpg",
+      "alt": "A Meiji-era Japanese factory combining Western industrial machinery with Japanese workers",
+      "caption": "Meiji Japan's government-built factories combined imported Western machinery with Japanese workers — an early stage before private zaibatsu conglomerates took over as the government sold off model enterprises (Google Gemini, 2025), commercially licensed.",
+      "attribution": "Meiji Japan's government-built factories combined imported Western machinery with Japanese workers — an early stage before private zaibatsu conglomerates took over as the government sold off model enterprises (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Meiji government's industrialization program included:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Government model factories:** The government built silk-reeling factories, cotton mills, shipyards, and iron foundries — demonstrating that modern production was feasible in Japan and training the first generation of Japanese industrial workers. It then sold most of these to private investors (the zaibatsu families — Mitsubishi, Mitsui, Sumitomo) who continued operating and expanding them.",
+        "**Education and expertise:** The government sent hundreds of Japanese students to study in Britain, France, Germany, and the United States. It hired over 3,000 foreign technical experts (called *oyatoi gaikokujin* — \"hired foreigners\") to work in Japan, training Japanese workers and engineers directly.",
+        "**Infrastructure:** A national railroad network was built, starting in the 1870s, connecting Japan's major cities and industrial centers. A modern postal and telegraph system followed.",
+        "**Military modernization:** The army was reorganized on Prussian lines; the navy on British lines. Modern weapons and warships were purchased and then manufactured domestically.",
+        "**Constitutional and legal reform:** A constitutional government (1889) and modern legal codes gave Japan the institutional framework of a modern state, which was also necessary for Western powers to treat Japan as an equal."
+      ]
+    },
+    {
+      "type": "funFact",
+      "text": "The Meiji government's approach to learning from the West was systematic and deliberate. The Iwakura Mission (1871–1873) sent 107 top Japanese government officials — nearly the entire cabinet — on a nearly two-year tour of the United States, Britain, France, Germany, and other European countries to study their institutions. They visited factories, schools, courts, military bases, and government buildings, taking detailed notes. When they returned, they applied what they had learned to redesigning Japanese institutions. No other non-Western government undertook such a systematic study of Western industrialization."
+    },
+    {
+      "type": "heading",
+      "text": "⚡ The Results: Japan Becomes a Regional Power"
+    },
+    {
+      "type": "paragraph",
+      "text": "By 1895, Japan defeated China in the First Sino-Japanese War, gaining control of Taiwan. By 1905, it defeated Russia in the Russo-Japanese War — the first time in the industrial era that a non-Western country had defeated a major European power. Japan had become an industrial and military power in just 37 years of deliberate modernization."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Meiji success stood in stark contrast to Egypt's failure. The key differences: Japan had political independence and could control its own trade policy (protecting domestic industries with tariffs); Japan had a literate, highly organized society that could learn and implement new technologies quickly; and Japan's government had a clear, consistent vision that survived across decades rather than being disrupted by external treaty obligations as Muhammad Ali's program was."
+    },
+    {
+      "type": "apTip",
+      "text": "The CED directly states: \"The expansion of U.S. and European influence in Asia led to internal reform in Japan that supported industrialization and led to the growing regional power of Japan in the Meiji Era.\" This is almost a direct exam answer. The cause is Western pressure (Perry's arrival); the response is Meiji reform; the effect is Japan's growing regional power. Know all three parts of this chain."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 5.6",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+5.6",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Meiji Restoration",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Meiji+Restoration",
+      "creator": "Crash Course · 10 min"
+    },
+    {
+      "title": "Unit 5.6",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+Unit+5.6",
+      "creator": "Heimler's History · 8 min"
+    },
+    {
+      "title": "Muhammad Ali and Egyptian Modernization",
+      "url": "https://www.youtube.com/results?search_query=YouTube+Muhammad+Ali+and+Egyptian+Modernization",
+      "creator": "YouTube · 9 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "In 1853, American Commodore Matthew Perry arrived in Tokyo Bay with four steam-powered warships and demanded that Japan open its ports to American trade. After initial refusal, a treaty was signed in 1854. Similar treaties followed with Britain, France, Russia, and the Netherlands. The treaties gave these countries' citizens extraterritorial rights and set low tariffs on their goods.",
+      "question": "The Japanese government's response to the events described was most directly to",
+      "options": [
+        "A) seek military alliances with China and Korea to collectively resist Western demands",
+        "B) pursue an isolationist policy, increasing restrictions on foreign contact",
+        "C) appeal to international law and treaties to limit Western economic privileges in Japan",
+        "D) undertake a deliberate program of industrial and military modernization to build the capacity to resist Western domination"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Meiji Restoration (1868) was directly triggered by the demonstration of Western military-industrial superiority represented by Perry's fleet. Japan's government concluded that the only path to maintaining independence was to become industrially and militarily competitive with the West — leading to the comprehensive modernization program that transformed Japan within a generation. This is the CED's required example of Western expansion in Asia leading to \"internal reform in Japan that supported industrialization.\""
+    },
+    {
+      "stimulus": "Between 1868 and 1900, the Meiji government built and operated silk reeling factories, a shipyard at Yokosuka, an iron foundry at Kamaishi, cotton spinning mills, and a model machine tool factory. It then sold most of these enterprises to private family conglomerates at low prices, while retaining strategic industries like railroads and the military shipyard.",
+      "question": "The Meiji government's strategy of building and then selling industrial enterprises most directly illustrates",
+      "options": [
+        "A) the failure of state ownership to produce profitable industrial enterprises in Japan",
+        "B) the use of government model factories to establish industrial capacity and knowledge before transferring to private enterprise",
+        "C) the Meiji government's commitment to free market principles over state ownership of production",
+        "D) the government's lack of capital to maintain state-owned enterprises in the long term"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Meiji strategy was deliberate: build model factories to demonstrate viability, train workers, and establish technical knowledge, then sell to private investors who could operate and expand them more efficiently. The government absorbed the initial risk and uncertainty; private enterprise (the zaibatsu) scaled up the proven models. This is a classic template for state-sponsored industrialization."
+    },
+    {
+      "stimulus": "Muhammad Ali established Egypt's first cotton textile factories in the 1820s, importing European machinery and hiring European technicians. The Anglo-Ottoman Commercial Convention of 1838 required Egypt to admit British manufactured goods at a tariff of only 3%. Within a decade, Egypt's textile factories had closed or dramatically contracted.",
+      "question": "The sequence of events described best illustrates which of the following historical patterns?",
+      "options": [
+        "A) That state-sponsored industrialization is inherently less efficient than private enterprise",
+        "B) That Middle Eastern societies lacked the technical capacity to operate European industrial machinery",
+        "C) That developing industries need tariff protection to survive competition from established industrial producers",
+        "D) That the British government deliberately targeted Egypt's textile industry as a trade competitor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Egypt's textile factories failed not because of inherent inefficiency but because they were denied the tariff protection that developing industries typically need to survive during their formative period. At 3% tariffs, cheap British cloth competed directly with Egypt's learning-stage factories and won on price. This is the \"infant industry\" problem: developing industries need temporary protection until they become efficient enough to compete without help."
+    },
+    {
+      "stimulus": "Russia's Finance Minister Sergei Witte wrote in 1899: \"International competition does not wait. If we do not take energetic and decisive measures so that in the course of the next decades our industry will be able to satisfy the needs of Russia and of the Asiatic countries which are — or should be — under our influence, then the rapidly growing foreign industries will break through our tariff barriers and establish themselves in our fatherland and the Asiatic markets.\"",
+      "question": "Witte's argument most directly reflects which of the following motivations for state-sponsored industrialization?",
+      "options": [
+        "A) The need to use government direction to compete economically and maintain political influence against established industrial powers",
+        "B) The desire to improve living standards for Russian industrial workers",
+        "C) Ideological opposition to private ownership of industrial enterprises",
+        "D) The goal of creating a socialist planned economy in Russia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Witte's argument is about economic and political competition — if Russia doesn't industrialize quickly, foreign (especially German and British) goods will capture Russian and Asian markets, reducing Russian economic and political influence. This is defensive modernization: industrialize because industrial power is necessary for national competition and sovereignty, not for ideological or social reasons."
+    },
+    {
+      "stimulus": "Japan's victory over Russia in the Russo-Japanese War (1904–1905) produced immediate reactions across Asia. Indian nationalist Bal Gangadhar Tilak wrote: \"Japan has proved that the East is equal to the West.\" Egyptian nationalist Mustafa Kamil wrote that the victory proved that \"freedom can be obtained by those who struggle for it.\" In Persia and China, reformers pointed to Japan as a model of successful modernization.",
+      "question": "The reactions described most directly illustrate which of the following effects of Japan's industrialization?",
+      "options": [
+        "A) Japan's military victory led directly to political independence for Asian colonies",
+        "B) Japan's success as a non-Western industrial power inspired nationalist movements across Asia by demonstrating that Western military dominance was not inevitable",
+        "C) Japan used its victory to establish a pan-Asian alliance against European colonialism",
+        "D) Japan's industrialization model was immediately adopted by China and India following the war"
+      ],
+      "correctIndex": 1,
+      "explanation": "Japan's defeat of Russia demonstrated that European military and industrial dominance was not inevitable — a non-Western country that industrialized could compete and win. This was deeply inspiring to nationalist movements across Asia that were resisting European colonial rule. The psychological impact of Japan's victory on Asian nationalism is one of its most significant historical effects, independent of any direct political outcomes."
+    }
+  ],
+  "saq": {
+    "context": "\"As the influence of the Industrial Revolution grew, a small number of states and governments promoted their own state-sponsored visions of industrialization. The expansion of U.S. and European influence in Asia led to internal reform in Japan that supported industrialization and led to the growing regional power of Japan in the Meiji Era.\" — AP World History CED, Unit 5",
+    "directions": "Answer all three parts (A, B, C). Write your response before clicking to see sample answers.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Identify ONE way the Meiji government promoted industrialization in Japan after 1868.",
+        "sampleAnswer": "**Sample answer:** The Meiji government constructed a national railroad network beginning in the 1870s, using it both to connect industrial centers and to move troops for national defense. Railroads reduced transportation costs between Japan's major manufacturing cities and ports, enabling regional economic specialization and making factory production economically viable across the country. The government also built telegraph lines alongside the railroads, providing the communication infrastructure that modern industry required. This infrastructure investment — funded by the state rather than by private investors — demonstrated how state-sponsored industrialization could rapidly build the physical systems that private enterprise depended on."
+      },
+      {
+        "label": "Part B",
+        "task": "Explain ONE reason why Muhammad Ali's industrialization program in Egypt ultimately failed.",
+        "sampleAnswer": "**Sample answer:** Muhammad Ali's cotton textile factories failed primarily because the Anglo-Ottoman Commercial Convention of 1838 required Egypt to admit British manufactured goods at very low tariffs (3%), removing the trade protection that Egypt's developing factories needed to survive. Egyptian factories were in the early stages of development — still less efficient than established British mills — and needed time to learn, improve, and reduce costs before facing full international competition. Without tariff protection, cheap British cloth entered the Egyptian market at prices Egyptian factories could not match, and customers shifted to the cheaper imported product. The factories collapsed not because the strategy was wrong but because the political constraints imposed by the treaty denied Egypt the ability to implement it fully. This contrasts sharply with Japan, which retained control of its trade policy and could protect its developing industries."
+      },
+      {
+        "label": "Part C",
+        "task": "Explain ONE way the expansion of U.S. or European industrial power created pressure on non-Western states to modernize in the period 1750–1900.",
+        "sampleAnswer": "**Sample answer:** When American Commodore Perry arrived in Tokyo Bay in 1853 with steam-powered warships, he demonstrated that Japan's traditional military was no match for Western industrial power. Japan was forced to sign unequal treaties granting Western nations extraterritorial rights and low tariffs — the same pattern of forced commercial opening that had subjected China to Western influence. This demonstration of military-industrial superiority created immediate pressure on Japan's government: accept domination on Western terms or build the industrial and military capacity to resist. The Meiji Restoration (1868) and the comprehensive modernization program that followed were a direct response to this pressure. Japan's experience shows how Western industrial power created \"defensive modernization\" responses — non-Western states industrializing not for internal economic development but to preserve their political independence."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Evidence for Body Paragraph 1 — Japan as successful case",
+        "text": "Meiji government built model factories, hired foreign experts, sent students abroad, built railroads; Japan retained political independence and could control trade policy (tariff protection for developing industries); Defeated China (1895) and Russia (1905), demonstrating genuine military-industrial power; By 1905, Japan was recognized as a great power — unique among non-Western states"
+      },
+      {
+        "label": "Evidence for Body Paragraph 2 — Egypt as failed case",
+        "text": "Muhammad Ali's program showed initial promise — government factories, foreign experts, imported machinery; Anglo-Ottoman Commercial Convention (1838) removed tariff protection, exposing developing factories to British competition; Factories collapsed unable to compete on price with established British producers; Egypt's political dependency (as Ottoman province subject to treaty obligations) was the decisive difference from Japan"
+      }
+    ],
+    "prompt": "\"Evaluate the extent to which state-sponsored industrialization succeeded in helping non-Western countries resist Western economic and political dominance in the period 1750–1900.\"",
+    "note": "Write a thesis before revealing. A strong thesis restates the verb phrase, adds a quantifier, and ends with *because [A] and [B]*.",
+    "thesisExample": "\"State-sponsored industrialization succeeded in helping non-Western countries resist Western dominance to a limited but significant extent, because Japan's Meiji program achieved genuine industrial and military parity with Western powers within a single generation, but Egypt's program failed when denied tariff protection, demonstrating that success depended on the degree of political independence a state could maintain from Western economic systems.\""
+  },
+  "discussionQuestions": [
+    {
+      "question": "Why did later industrializing countries need government direction, while Britain industrialized primarily through private enterprise?",
+      "modelAnswer": "Britain was first, which gave it time to develop private capital, entrepreneurial networks, financial institutions, and technical knowledge organically over decades. By the time Japan or Russia looked at industrialization, they were competing against Britain's established industrial system — private entrepreneurs couldn't wait 80 years to accumulate capital while British factories undercut them. Government could direct investment, build infrastructure quickly, absorb the risk of initial investments that private investors wouldn't take, and coordinate across sectors in a way that fragmented private enterprise couldn't. Government direction was the practical response to the need for speed in catching up to an established industrial leader."
+    },
+    {
+      "question": "Why did Muhammad Ali's industrialization program ultimately fail, even though it started well?",
+      "modelAnswer": "The 1838 Anglo-Ottoman Commercial Convention forced Egypt to open its market to British goods without protective tariffs. Muhammad Ali's factories were still in the early stages of development — not yet as efficient as British mills — and they needed time to develop before facing full competition from established British producers. Tariff protection would have given them that time. Without it, cheap British cloth flooded the Egyptian market at prices Egyptian factories couldn't match, and the factories collapsed. This illustrates a fundamental economic principle: developing industries need protection during their learning period. Muhammad Ali had the right strategy but was denied the policy tool (tariffs) that would have made it work."
+    },
+    {
+      "question": "How was Japan's experience with Western pressure similar to Egypt's, and how did Japan respond differently?",
+      "modelAnswer": "Both Egypt and Japan faced Western pressure — the threat of being economically dominated by industrialized powers. Muhammad Ali responded to the broader Ottoman situation by attempting to industrialize from above. Japan's Meiji government, after Perry's 1853 arrival, also responded with deliberate industrialization. The key difference: Japan had political independence and could control its own trade policy, while Egypt as an Ottoman province was subjected to trade treaties it couldn't refuse. Japan could set tariffs to protect developing industries; Egypt could not. Japan also had a more consistent long-term government commitment — the Meiji program continued for decades — while Egypt's was disrupted by political constraints. The result: Japan succeeded and became a regional power; Egypt's program collapsed."
+    },
+    {
+      "question": "What was the significance of Japan defeating Russia in 1905, beyond just the military outcome?",
+      "modelAnswer": "The Russo-Japanese War victory was significant in several ways beyond military terms: (1) It demonstrated that a non-Western country, through deliberate state-directed modernization, could build the industrial base needed for modern military power — that Western military dominance was not inevitable or permanent. (2) It was a major psychological and political shock across the colonized world — nationalist movements in India, Egypt, China, and Persia all took note that European powers could be defeated by non-Western countries. (3) It confirmed Japan as a recognized great power, forcing Western powers to treat Japan as an equal rather than a target for potential colonization. (4) It demonstrated the success of the Meiji model of state-led industrialization, which other countries later studied as a template."
+    },
+    {
+      "question": "Compare the Meiji government's approach to learning from the West with Muhammad Ali's Egypt. What was similar and what differed?",
+      "modelAnswer": "Both governments hired European experts, sent students abroad, imported European machinery and technical knowledge, and built government model enterprises. Both were driven by the threat that Western industrial and military power posed to their independence. The differences: (1) scale and consistency — Japan's Meiji program was larger, longer, more systematic, and more politically stable; (2) trade policy — Japan could protect its developing industries with tariffs; Egypt could not after 1838; (3) outcomes — Japan's program transformed the country into a major industrial power; Egypt's collapsed under competitive pressure. The same basic strategy (state-directed modernization, learning from the West) produced vastly different results depending on the political context in which it operated."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

@@ -1,0 +1,312 @@
+{
+  "course": "ap-world-history",
+  "num": "8.8",
+  "title": "End of the Cold War",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "🏛️",
+      "label": "Governance",
+      "tooltip": "The Cold War ended because Soviet governance failed — Gorbachev's reforms (glasnost, perestroika) unleashed demands for change that the Soviet system couldn't accommodate without collapsing."
+    },
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "The Soviet economy couldn't sustain the arms race with the US — military spending consumed 25%+ of GDP, leaving chronic shortages of consumer goods that eroded popular legitimacy."
+    },
+    {
+      "icon": "📉",
+      "label": "Collapse",
+      "tooltip": "Between 1989 and 1991, communist regimes fell in rapid succession — Poland, Hungary, East Germany (Berlin Wall), Czechoslovakia, Romania, then the Soviet Union itself — the fastest geopolitical collapse in modern history."
+    },
+    {
+      "icon": "🌍",
+      "label": "Post-Cold War World",
+      "tooltip": "The end of the Cold War created a \"unipolar moment\" with the US as sole superpower — but also released frozen ethnic and religious conflicts that the Cold War had suppressed, leading to the Yugoslav wars, Chechen wars, and others."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Three CED-specified causes of the Cold War's end — know all three —** (1) US military and technological advances; (2) Soviet's costly failed invasion of Afghanistan; (3) public discontent and economic weakness in communist countries. The CED bundles these as KC-6.2.IV.E — you need all three for full credit on the exam. **The Soviet invasion of Afghanistan (1979–89) was the USSR's Vietnam —** Just as the US was drained by Vietnam, the USSR was drained by Afghanistan — 10 years, massive casualties, enormous cost, no victory, and a demoralized military. It exposed Soviet weakness to the world and contributed to Gorbachev's reform agenda. **Gorbachev's reforms were meant to save the USSR — they ended it —** Glasnost (openness) and perestroika (restructuring) were intended to revitalize Soviet communism. Instead, glasnost allowed public criticism that couldn't be contained, and perestroika exposed how dysfunctional the Soviet economy was. The reforms unleashed forces that destroyed the system they were meant to save. **The Fall of the Berlin Wall (1989) and collapse of the USSR (1991) ended 45 years of Cold War —** The Wall's fall symbolized communism's collapse in Eastern Europe. The USSR itself dissolved in December 1991 — 15 new independent states emerged. The Cold War ended not with war but with the peaceful implosion of one side."
+  ],
+  "learningObjectives": [
+    "Explain the causes of the end of the Cold War — US military and technological advances; Soviet Union's costly failed invasion of Afghanistan; public discontent and economic weakness in communist countries — leading to the collapse of the Soviet Union"
+  ],
+  "vocabulary": [
+    {
+      "term": "Reagan Doctrine",
+      "definition": "Reagan administration's strategy of providing military and financial support to anti-communist insurgencies worldwide, including in Afghanistan, Nicaragua, and Angola.",
+      "importance": "Part of the intensified US military and technological pressure that the CED identifies as contributing to the Cold War's end."
+    },
+    {
+      "term": "Strategic Defense Initiative (SDI / \"Star Wars\")",
+      "definition": "Reagan's 1983 proposal for a space-based missile defense system that could intercept Soviet nuclear missiles.",
+      "importance": "Alarmed Soviet leaders who feared the US was trying to create a first-strike capability; the prospect of competing with this technology strained the Soviet economy and contributed to Gorbachev's reform decisions."
+    },
+    {
+      "term": "Soviet-Afghan War (1979–89)",
+      "definition": "Soviet military intervention to support a communist government in Afghanistan against Islamic mujahideen resistance; after 10 years and massive losses, the Soviets withdrew in defeat.",
+      "importance": "CED-required cause of the Cold War's end; exposed Soviet military limits, drained resources, demoralized Soviet society — the USSR's equivalent of America's Vietnam."
+    },
+    {
+      "term": "Mikhail Gorbachev",
+      "definition": "Last leader of the Soviet Union (1985–1991); introduced glasnost (openness) and perestroika (restructuring) to reform the Soviet system; his reforms accelerated the USSR's collapse.",
+      "importance": "His willingness to allow Eastern European countries to reform without Soviet military intervention was the key decision that enabled the peaceful fall of communist governments in 1989."
+    },
+    {
+      "term": "Glasnost",
+      "definition": "Gorbachev's policy of \"openness\" — allowing greater freedom of press, speech, and political discussion; intended to expose and fix systemic problems.",
+      "importance": "Released decades of suppressed criticism that couldn't be controlled once unleashed, contributing to the legitimacy crisis of Soviet communism."
+    },
+    {
+      "term": "Perestroika",
+      "definition": "Gorbachev's policy of \"restructuring\" the Soviet economy — introducing limited market elements and reducing central planning.",
+      "importance": "Exposed the inefficiencies of the planned economy without providing a functional alternative, contributing to economic chaos in the late Soviet period."
+    },
+    {
+      "term": "Fall of the Berlin Wall (1989)",
+      "definition": "On November 9, 1989, East Germany announced that citizens could freely cross the Berlin Wall; crowds demolished it.",
+      "importance": "The most iconic symbol of the Cold War's end; within months, communist governments across Eastern Europe had fallen peacefully (\"Velvet Revolutions\")."
+    },
+    {
+      "term": "Dissolution of the Soviet Union (1991)",
+      "definition": "On December 25, 1991, Gorbachev resigned and the Soviet Union formally dissolved into 15 independent states, including Russia, Ukraine, Kazakhstan, and the Baltic states.",
+      "importance": "Ended the Cold War and the bipolar world order that had structured international relations since 1945; created an unprecedented period of US unipolar dominance."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Why did the Soviet invasion of Afghanistan (1979–89) prove so costly and ultimately contribute to the end of the Cold War?",
+      "answer": "The Soviet invasion of Afghanistan (December 1979) was intended to prop up a friendly communist government that was losing a civil war. Instead, it became a 10-year quagmire. The Afghan mujahideen (resistance fighters), backed by US aid, Pakistani intelligence, and Saudi money, fought the Soviets with modern weapons (especially US Stinger anti-aircraft missiles) that negated Soviet air superiority. The conflict cost the USSR an estimated $50 billion and tens of thousands of casualties. More importantly, it demoralized Soviet society — news of coffins returning from an unwinnable war became impossible to suppress. Gorbachev's decision to withdraw (1989) was both an admission of defeat and a recognition that the USSR could no longer afford such commitments. The Afghan defeat exposed Soviet military limits in a way that shook confidence in the communist system's superiority."
+    },
+    {
+      "question": "How could Gorbachev's reforms (glasnost and perestroika) — intended to strengthen the Soviet system — end up destroying it?",
+      "answer": "Gorbachev faced a fundamental paradox: the Soviet system was dysfunctional (stagnant economy, corruption, military overextension, demoralized population) but held together by political repression (no free press, no open criticism, no political competition). His reforms tried to fix the dysfunction without destroying the system: glasnost (openness) would allow honest discussion of problems so they could be fixed; perestroika (restructuring) would make the economy more efficient. But once glasnost permitted free expression, decades of suppressed criticism exploded — people publicly questioned not just specific policies but the entire legitimacy of communist rule and Soviet control over non-Russian republics. Once perestroika reduced central economic control, the dysfunctions of the planned economy became even more visible. Gorbachev had unlocked a pressure valve on a system that couldn't be reformed — only replaced. The reforms that were supposed to save Soviet communism instead accelerated its collapse by removing the repression that had kept it together."
+    },
+    {
+      "question": "The CED identifies \"public discontent and economic weakness in communist countries\" as a cause of the Cold War's end. How were these two factors connected?",
+      "answer": "Economic weakness and public discontent reinforced each other in a destructive cycle. Communist planned economies were increasingly unable to deliver rising living standards — shortages of basic goods, outdated technology, environmental degradation, and stagnant wages characterized Soviet-bloc economies by the 1980s. People could compare their lives to Western prosperity (visible through smuggled consumer goods, Western radio broadcasts, and increasing contact with foreigners) and found communist promises of superiority hollow. This economic failure generated public discontent — erosion of belief in communist ideology's promises. The communist political system, which depended on both coercion AND some degree of popular legitimacy based on economic promises, was undermined when it could no longer deliver. In Poland, the Solidarity trade union movement grew from economic grievances (food price increases) into a broad political challenge; in East Germany, people left en masse for the West; in the USSR itself, the legitimacy of communist rule was increasingly questioned. Economic weakness created the discontent; discontent made maintaining political control more costly and ultimately unsustainable."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🌍 How Did the Cold War End?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Cold War ended in a way almost no one predicted: not with a bang — a nuclear exchange, a direct military confrontation — but with the quiet implosion of one side. The Soviet Union simply ceased to exist on December 25, 1991, when Gorbachev resigned and the red flag over the Kremlin was lowered for the last time. Fifteen new independent republics emerged from the ruins of the world's largest communist state."
+    },
+    {
+      "type": "paragraph",
+      "text": "The AP CED identifies three interconnected causes: (1) \"Advances in U.S. military and technological development,\" (2) \"the Soviet Union's costly and ultimately failed invasion of Afghanistan,\" and (3) \"public discontent and economic weakness in communist countries.\" All three are required for the exam. They worked together — each reinforcing the others — to overwhelm the Soviet system's ability to sustain itself."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/8-8-0.jpg",
+      "alt": "Fall of the Berlin Wall and end of the Cold War",
+      "caption": "",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "heading",
+      "text": "🚀 US Military and Technological Advances — KC-6.2.IV.E"
+    },
+    {
+      "type": "paragraph",
+      "text": "By the early 1980s, the US military was going through a significant modernization under President Ronald Reagan. The Reagan administration dramatically increased defense spending — from $300 billion to $500+ billion annually — investing in new weapons systems, advanced electronics, and military technology. This spending created a technological and military challenge that the Soviet economy, already strained by the arms race, struggled to match."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most alarming development for the Soviets was Reagan's proposed **Strategic Defense Initiative (SDI)**, announced in 1983 — popularly called \"Star Wars.\" SDI proposed developing space-based laser and missile defense systems that could destroy Soviet nuclear missiles before they reached American soil. Whether SDI was technically feasible or not, it posed a terrifying prospect from the Soviet perspective: if the US could build an effective missile shield, it could launch nuclear weapons first and not fear Soviet retaliation. Soviet leaders were convinced (incorrectly) that the US had the technology to actually build such a system, and they knew they couldn't match it economically. The prospect of this technological leap drove Soviet leaders to reconsider whether they could sustain the arms race at all."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, the Reagan Doctrine provided military and financial support to anti-communist insurgencies worldwide — most significantly to the Afghan mujahideen — raising the cost of Soviet military commitments globally. US economic pressure also played a role: coordinating with Saudi Arabia to keep oil prices low hurt the Soviet economy, which depended heavily on oil export revenues."
+    },
+    {
+      "type": "funFact",
+      "text": "The CIA's covert operation supporting the Afghan mujahideen — code-named **Operation Cyclone** — was the largest covert CIA operation in history, eventually reaching approximately $630 million per year. The US provided the mujahideen with **Stinger anti-aircraft missiles** that could shoot down Soviet helicopters — the Soviets' main tactical advantage. The appearance of Stingers in 1986 fundamentally changed the war: Soviet helicopter gunships that had ruled the battlefield became vulnerable, and Soviet casualty rates increased dramatically. The irony: many of these same weapons later ended up in the hands of the Taliban and Al-Qaeda after the Soviet withdrawal. The Cold War victory in Afghanistan planted the seeds of 9/11."
+    },
+    {
+      "type": "heading",
+      "text": "🏔️ The Soviet-Afghan War: The USSR's Vietnam — KC-6.2.IV.E"
+    },
+    {
+      "type": "paragraph",
+      "text": "In December 1979, Soviet troops invaded Afghanistan to support a faltering communist government facing a growing Islamic insurgency. Soviet leaders expected a quick stabilization operation — they got a 10-year quagmire that drained resources, demoralized society, and exposed the limits of Soviet military power."
+    },
+    {
+      "type": "paragraph",
+      "text": "The mujahideen resistance — deeply motivated by religion and Afghan nationalism, supported by US weapons and Pakistani logistics — proved impossible to defeat. Soviet tactics (burning crops, destroying villages, millions of landmines) created a humanitarian catastrophe and millions of refugees but couldn't suppress the insurgency. An estimated 15,000 Soviet soldiers died; hundreds of thousands of Afghans died; millions more fled as refugees. The war cost an estimated $50 billion that the Soviet economy could ill afford."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most importantly, the war broke the myth of Soviet military invincibility. The army that had defeated Nazi Germany couldn't defeat Afghan tribesmen. When Soviet veterans returned home — physically and psychologically damaged — their honest accounts of the war's futility contradicted the state's propaganda. Gorbachev, who came to power in 1985, recognized the war as a catastrophic mistake and arranged the Soviet withdrawal by 1989."
+    },
+    {
+      "type": "apTip",
+      "text": "The CED bundles three causes of the Cold War's end into KC-6.2.IV.E. On the AP exam, if asked to \"explain the causes\" of the Cold War's end, you should address ALL THREE categories: US military/technological advances, the Afghan War, AND economic weakness/public discontent. One or two alone won't earn full HAPP (historical argumentation and process and practice) credit. The three causes are interconnected — US military pressure raised the cost of competing; Afghan failure drained resources; economic weakness prevented effective competition. Build your answer to show how they reinforced each other."
+    },
+    {
+      "type": "heading",
+      "text": "📉 Economic Weakness and Public Discontent — KC-6.2.IV.E"
+    },
+    {
+      "type": "paragraph",
+      "text": "While US pressure and Afghan defeat were important, the Cold War's end was ultimately driven from within the communist world by economic failure and popular loss of faith in the system."
+    },
+    {
+      "type": "paragraph",
+      "text": "By the 1980s, Soviet-bloc economies were in serious trouble. The planned economy had worked reasonably well in the 1950s–60s for building heavy industry, but it was structurally incapable of producing the consumer goods, technological innovation, and quality of life improvements that citizens increasingly expected. Shelves in Soviet stores were regularly empty. Consumer electronics — televisions, refrigerators, cars — were inferior to Western products and often unavailable. Environmental degradation (particularly stark after the **Chernobyl nuclear disaster** of 1986, a catastrophic failure of a Soviet-designed reactor that released radiation across Europe) demonstrated the human cost of the planned economy's priorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Citizens in communist countries could see — through Western radio broadcasts, contacts with tourists, and smuggled consumer goods — that the capitalist West was delivering higher living standards. The gap between communist promises (workers' paradise, inevitable socialist victory over capitalism) and communist reality (shortages, corruption, surveillance, environmental disaster) was becoming impossible to maintain."
+    },
+    {
+      "type": "paragraph",
+      "text": "In **Poland**, the Solidarity trade union movement (founded 1980) — the first legal independent trade union in a communist country — grew from economic grievances into a massive political opposition movement with 10 million members. In **Hungary**, reformers within the Communist Party began dismantling border controls. In **East Germany**, citizens voted with their feet — hundreds of thousands fled to the West through Hungary when that border opened in 1989."
+    },
+    {
+      "type": "heading",
+      "text": "🧱 Gorbachev, Glasnost, and the Collapse"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mikhail Gorbachev became Soviet leader in 1985 and quickly recognized that the system needed fundamental reform. His two key policies — **glasnost** (openness) and **perestroika** (restructuring) — were intended to revitalize Soviet communism by exposing and fixing its problems. Instead, they unintentionally accelerated its collapse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Glasnost allowed unprecedented public criticism of the Soviet system — newspapers reported on corruption, Chernobyl's true scope, the Afghan war's costs, and the crimes of Stalin. This transparency, intended to mobilize public support for reform, instead revealed how dysfunctional and dishonest the system had been. Once public criticism was permitted, it couldn't be controlled: people questioned not just specific policies but the legitimacy of communist rule itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most critically, Gorbachev announced that the USSR would no longer intervene militarily in Eastern Europe to maintain communist governments — reversing the **Brezhnev Doctrine** that had justified Soviet invasions of Hungary (1956) and Czechoslovakia (1968). Without the Soviet military threat, Eastern European communist governments had no credible basis for maintaining power against popular opposition. In 1989, communist governments fell one after another in the \"Velvet Revolutions\" — peaceful transitions in Poland, Hungary, Czechoslovakia, Bulgaria, and Romania (Romania alone saw violence). The **Berlin Wall** fell on November 9, 1989 — the most iconic image of the Cold War's end."
+    },
+    {
+      "type": "paragraph",
+      "text": "The collapse of Eastern European communism accelerated demands for independence within the Soviet Union itself — particularly from Baltic republics (Estonia, Latvia, Lithuania) and later Ukraine and other republics. Gorbachev tried to negotiate a new union treaty, but hardliners staged a coup attempt in August 1991 (which failed). The failed coup accelerated the dissolution: republic after republic declared independence. On December 25, 1991, Gorbachev resigned and the Soviet Union formally ceased to exist."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 8.8",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+8.8",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "The Fall of the Soviet Union: HISTORY",
+      "url": "https://www.youtube.com/results?search_query=YouTube+The+Fall+of+the+Soviet+Union%3A+HISTORY",
+      "creator": "YouTube · video"
+    },
+    {
+      "title": "Soviet Collapse: What Really Happened — DW Documentary",
+      "url": "https://www.youtube.com/results?search_query=YouTube+Soviet+Collapse%3A+What+Really+Happened+%E2%80%94+DW+Documentary",
+      "creator": "YouTube · video"
+    },
+    {
+      "title": "The End of the Cold War",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+The+End+of+the+Cold+War",
+      "creator": "Heimler's History · 9 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": null,
+      "question": "The CED identifies \"the Soviet Union's costly and ultimately failed invasion of Afghanistan\" as a cause of the Cold War's end. This example most directly supports which argument about why the USSR collapsed?",
+      "options": [
+        "The USSR was destroyed by US military action rather than internal weakness",
+        "The Cold War ended primarily because Soviet military power could not sustain the level of global commitments the USSR had undertaken, draining resources and morale needed to maintain the system domestically",
+        "Islamic extremism was the primary force that ended communist rule in the Soviet Union",
+        "The Afghan War caused the Soviet economy to collapse overnight, immediately ending the Cold War"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Afghan War exemplifies how overextension — the gap between Soviet military commitments and economic capacity — drained the system, contributing to the broader collapse."
+    },
+    {
+      "stimulus": null,
+      "question": "Gorbachev's glasnost policy was intended to strengthen Soviet communism by allowing criticism of specific problems. Why did it instead accelerate the system's collapse?",
+      "options": [
+        "Glasnost allowed US propaganda to be broadcast directly into Soviet households, turning public opinion against communism",
+        "Glasnost was implemented too slowly to address the USSR's problems before public discontent had already reached a crisis point",
+        "Glasnost encouraged economic reforms that disrupted central planning without creating effective markets, causing immediate economic collapse",
+        "By permitting public expression after decades of suppression, glasnost released critiques that challenged not just specific policies but the entire legitimacy of communist rule, creating a crisis of legitimacy the system couldn't survive"
+      ],
+      "correctIndex": 3,
+      "explanation": "Glasnost's paradox: it was intended to fix the system through transparency, but the transparency it enabled revealed that the system was fundamentally illegitimate, generating criticism that couldn't be contained without reimposing the repression glasnost had relaxed."
+    },
+    {
+      "stimulus": null,
+      "question": "The Fall of the Berlin Wall (November 1989) is the most iconic symbol of the Cold War's end because it represented:",
+      "options": [
+        "The direct result of US military pressure on East Germany that forced the wall's demolition",
+        "The completion of German reunification, which had been negotiated secretly between the US and USSR for decades",
+        "The moment when the most visible physical symbol of Cold War division — a wall built to keep people from fleeing communism — was dismantled by popular demand, demonstrating that communist governments could no longer maintain themselves without Soviet military support",
+        "The failure of Soviet economic policy, which could no longer maintain the cost of the wall's operation"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Berlin Wall's fall symbolized the collapse of communist governments across Eastern Europe after Gorbachev's non-intervention decision removed the Soviet military threat that had sustained them."
+    },
+    {
+      "stimulus": null,
+      "question": "The CED states that \"public discontent and economic weakness in communist countries led to the end of the Cold War.\" Which evidence most directly supports this claim?",
+      "options": [
+        "The growth of the Solidarity trade union movement in Poland, which grew from economic grievances into a 10-million member political opposition that the communist government ultimately could not suppress",
+        "The Reagan administration's military spending increase, which forced the Soviet Union to match US expenditures",
+        "The Chernobyl nuclear disaster, which demonstrated Soviet technological inferiority to the United States",
+        "The Soviet withdrawal from Afghanistan, which freed resources that could have been used to address economic problems"
+      ],
+      "correctIndex": 0,
+      "explanation": "Poland's Solidarity movement is the clearest example of public discontent arising from economic weakness (food price increases triggered the initial strikes) growing into a massive political opposition that ultimately contributed to communism's peaceful fall — directly illustrating the CED's causal claim."
+    },
+    {
+      "stimulus": null,
+      "question": "The dissolution of the Soviet Union in December 1991 resulted in which of the following geopolitical changes?",
+      "options": [
+        "The United States and Russia immediately formed a military alliance to address common security threats",
+        "The United Nations took over administration of former Soviet territories to ensure peaceful transition to independence",
+        "The Warsaw Pact was replaced by a new Eastern European military alliance excluding Russia",
+        "Fifteen new independent states emerged from the former Soviet Union, ending the bipolar Cold War world order and creating a period of US unipolar dominance"
+      ],
+      "correctIndex": 3,
+      "explanation": "The USSR's dissolution produced 15 independent states and ended the bipolar structure that had defined world politics since 1945, leaving the US as the sole superpower in a transformed international order."
+    }
+  ],
+  "saq": {
+    "parts": [],
+    "prompt": "**a)** Briefly explain ONE way that US military and technological advances contributed to the end of the Cold War.",
+    "sampleAnswer": "**Sample Answers:** **a)** Reagan's proposed Strategic Defense Initiative (SDI, 1983) — a space-based missile defense system — alarmed Soviet leaders who feared the US was developing a first-strike nuclear capability. Whether SDI was technically feasible or not, Soviet leaders believed it might be, and matching it would require enormous technological and financial investment the Soviet economy could not sustain. The prospect of this US technological advance forced Soviet leaders to question whether they could maintain the arms race, contributing to Gorbachev's willingness to pursue arms reduction negotiations and systemic reform. **b)** The Soviet invasion of Afghanistan (1979–89) cost the USSR approximately $50 billion and 15,000 soldiers' lives over 10 years without achieving its objective of stabilizing the communist Afghan government. US-supplied Stinger anti-aircraft missiles neutralized Soviet helicopter gunships — the key tactical advantage — raising Soviet casualties significantly. Beyond the financial and human cost, the war demoralized Soviet society: veterans returned with honest accounts of a futile war that contradicted state propaganda, eroding public trust in communist leadership's competence and honesty. Gorbachev later called it a \"bleeding wound\" that had to be closed to preserve the USSR's ability to pursue reform. **c)** Poland's Solidarity trade union movement (founded 1980) demonstrates how economic weakness generated public discontent that threatened communist political control. Solidarity began when workers at the Gdańsk shipyards struck against food price increases — a direct economic grievance. But it rapidly expanded into a 10-million member movement demanding not just economic reform but free trade unions, freedom of speech, and political pluralism. The Polish communist government's inability to suppress Solidarity (both because of its size and because Soviet military intervention would have been politically and economically catastrophic) showed that communist political control was becoming unsustainable when economic failure generated mass opposition. By 1989, the Polish communist government negotiated free elections — which it then lost decisively."
+  },
+  "leq": {
+    "outline": [],
+    "prompt": "Evaluate the relative importance of external pressures versus internal weaknesses in causing the end of the Cold War and the collapse of the Soviet Union.",
+    "modelThesis": "**Model Thesis:** Although US military advances and the Reagan administration's intensified pressure created serious external challenges for the Soviet Union, the end of the Cold War was driven primarily by internal weaknesses — economic stagnation that could not deliver rising living standards, public discontent that eroded ideological legitimacy, and Gorbachev's reforms that unintentionally released political forces the system could not control — making the Soviet collapse fundamentally an implosion from within rather than a defeat from without, with US pressure serving as an accelerant rather than the primary cause."
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. The CED identifies three causes of the Cold War's end. How did these three factors (US military advances, Afghan War, economic weakness) reinforce each other?",
+      "modelAnswer": "The three factors formed a mutually reinforcing crisis. US military and technological advances (SDI, Reagan Doctrine, Afghan weapons support) raised the cost of Soviet military competition — maintaining military parity with a technologically advancing US required enormous economic investment the USSR couldn't afford. The Afghan War simultaneously drained resources ($50 billion, 10+ years) and demoralized society, while demonstrating that Soviet military power had limits. Both of these external pressures intensified the internal problem: economic weakness meant the USSR couldn't sustain military competition or deliver rising living standards, generating public discontent. This discontent made political reform necessary (Gorbachev), but reform (glasnost) unleashed the criticism that delegitimized the system, while perestroika disrupted economic management without providing a functional alternative. US pressure made the crisis more acute; the Afghan War exposed its limits; economic weakness and popular discontent were the underlying structural problem that neither could be solved without also undermining communist political control."
+    },
+    {
+      "question": "2. Why was Gorbachev's decision not to intervene militarily in Eastern Europe in 1989 the single most consequential decision in ending the Cold War?",
+      "modelAnswer": "Communist governments in Eastern Europe rested on a foundation of Soviet military power — everyone knew the Soviets had invaded Hungary (1956) and Czechoslovakia (1968) when those governments were threatened. Without the Soviet military backstop, these governments had no legitimate popular support. When Gorbachev announced the USSR would not intervene militarily, he effectively removed the only support holding up communist regimes across Eastern Europe. Popular movements in Poland, Hungary, Czechoslovakia, and East Germany — which had been building for years but were constrained by fear of Soviet tanks — immediately recognized that the threat was gone and intensified their pressure. Communist governments, recognizing they couldn't maintain power through their own military force against popular opposition and without Soviet support, negotiated their transitions or simply collapsed. The Berlin Wall's fall was the dramatic symbol, but it was Gorbachev's non-intervention decision that made it possible. Without that decision, 1989 might have been another 1956 or 1968 — reform movements crushed by Soviet tanks."
+    },
+    {
+      "question": "3. In what ways was the Soviet-Afghan War similar to the American experience in Vietnam? What do both wars suggest about the limits of superpower military power?",
+      "modelAnswer": "Both wars share striking structural similarities: a superpower intervened in a developing-country conflict to prevent a government from falling to an ideologically hostile force; faced an insurgency fighting for territory they knew intimately against a technologically superior foreign army; discovered that conventional military superiority was insufficient against guerrilla tactics; sustained significant casualties and financial costs without achieving military victory; experienced domestic demoralization and loss of public confidence as the war's true costs became known; and ultimately withdrew without achieving their objectives. Both wars demonstrated that military technological superiority could not overcome popular resistance in familiar terrain — a lesson that repeated in both Afghanistan (2001–2021) and Iraq after 2003. Both suggest that the limits of superpower military power lay not in battlefield capability but in the difficulty of achieving political objectives through force when the local population is opposed. Technology can win battles; it cannot manufacture legitimate governance or popular acceptance of foreign-backed regimes."
+    },
+    {
+      "question": "4. Some historians argue the Cold War ended because of US pressure (Reagan's military buildup); others argue it ended because of internal Soviet failure. Which explanation does the CED seem to favor?",
+      "modelAnswer": "The CED's KC-6.2.IV.E gives roughly equal weight to both by including all three factors as causes: US military and technological advances (the external pressure argument), the Soviet Afghan failure (a combination of both external and internal factors), and public discontent and economic weakness (the internal collapse argument). This balanced framing reflects the genuine historical debate: \"triumphalists\" who credit Reagan's military pressure as decisive against \"revisionists\" who argue the Soviet system was collapsing internally regardless of US policy. The CED's approach is more nuanced — implying that both factors were necessary and that the end of the Cold War resulted from the interaction of external pressure with internal weakness. For AP exam purposes, you should present all three causes and, when asked to evaluate, note that the three were interconnected: US pressure was most costly because the Soviet economy was already weak; the Afghan war was most damaging because it combined military failure with economic drain at a moment of internal discontent. Neither US pressure alone nor internal weakness alone would have ended the Cold War as quickly as their combination did."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

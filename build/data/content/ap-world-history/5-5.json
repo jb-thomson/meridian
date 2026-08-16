@@ -1,0 +1,362 @@
+{
+  "course": "ap-world-history",
+  "num": "5.5",
+  "title": "Technology of the Industrial Age",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "⚙️",
+      "label": "Technology",
+      "tooltip": "Steam engines, the internal combustion engine, and electrical technologies fundamentally changed what humans could produce and how quickly they could do it — replacing muscle power with machine power."
+    },
+    {
+      "icon": "🌍",
+      "label": "Environment",
+      "tooltip": "Fossil fuels — coal and oil — stored millions of years of solar energy. Unlocking them gave industrial societies access to energy on a scale no previous civilization had achieved."
+    },
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "Railroads and steamships opened up continental interiors and made ocean travel more reliable; the telegraph enabled instant long-distance communication — all three shrank the world and enabled global trade at new scales."
+    }
+  ],
+  "tldr": [
+    "**LO-A: The fossil fuels revolution —** Before steam, humans relied on human muscle, animal power, water wheels, and windmills for energy. All of these were limited in power output and unpredictable. Coal-fired steam engines were the first energy source that could be (1) scaled up indefinitely, (2) used anywhere (not just near water), and (3) made more powerful on demand. Oil, discovered in Pennsylvania in 1859, added another fossil fuel that eventually powered the internal combustion engine — enabling automobiles and a new wave of industry in the 20th century. Two waves of industrial technology. First Industrial Revolution (c. 1760–1850): the steam engine (Watt's 1769 patent) ran on coal and powered factory machinery, mine pumps, and eventually locomotives. Coal replaced human muscle and animal power as the primary energy source for manufacturing. Second Industrial Revolution (c. 1850–1900): new materials and energy sources — cheap steel (Bessemer process, 1856), synthetic chemicals, electricity (Edison's light bulb 1879, electric motors), and precision machinery. The second wave expanded what industry could make and how efficiently it could make it. **Railroads, steamships, and the telegraph —** These three technologies connected the world in ways that had never been possible before. Railroads opened the interiors of continents to trade and settlement. Steamships made ocean voyages faster and more predictable. The telegraph (1837) enabled instant long-distance communication — the first time information could travel faster than a person. Together they shrank the world, enabled global trade and migration at new scales, and made imperial administration of distant territories practical."
+  ],
+  "learningObjectives": [
+    "Explain how technology shaped economic production over time."
+  ],
+  "vocabulary": [
+    {
+      "term": "Steam Engine",
+      "definition": "A machine that converts the heat energy from burning coal into mechanical motion, typically by heating water to produce steam that drives a piston or turbine.",
+      "importance": "James Watt's improved steam engine (1769) became the primary power source of the First Industrial Revolution, running textile mills, pumping mines, and driving locomotives."
+    },
+    {
+      "term": "Internal Combustion Engine",
+      "definition": "An engine that burns fuel (initially gasoline) inside the engine itself to produce power, rather than using external heat as steam engines do.",
+      "importance": "Developed in the late 19th century; enabled automobiles, airplanes, and other machines. Powered by oil rather than coal."
+    },
+    {
+      "term": "Fossil Fuels",
+      "definition": "Fuels formed from the ancient remains of plants and animals — coal, oil, and natural gas — storing concentrated chemical energy from millions of years ago.",
+      "importance": "The energy source of industrialization; coal powered steam engines, oil powered internal combustion engines. The fossil fuels revolution gave human societies access to energy on an entirely new scale."
+    },
+    {
+      "term": "Bessemer Process",
+      "definition": "A method for mass-producing steel from molten iron by blowing air through it, removing impurities. Invented by Henry Bessemer in 1856.",
+      "importance": "Reduced the cost of steel by 80–90%, making steel cheap enough for mass use in railroads, ships, buildings, and machinery — the core of the Second Industrial Revolution."
+    },
+    {
+      "term": "Second Industrial Revolution",
+      "definition": "A phase of industrialization from roughly 1850–1914 marked by new industries: steel, chemicals, electricity, and precision machinery.",
+      "importance": "Extended and deepened the First Industrial Revolution; new industries like electrical engineering, chemical manufacturing, and precision machine tools defined this period."
+    },
+    {
+      "term": "Telegraph",
+      "definition": "A communication system that sends electrical signals through wires to transmit coded messages over long distances instantaneously. Developed by Samuel Morse and others in the 1830s–1840s.",
+      "importance": "The first technology to separate communication from physical transportation — for the first time, information could travel faster than a person."
+    },
+    {
+      "term": "Railroads",
+      "definition": "Networks of iron/steel tracks on which steam-powered locomotives pulled passenger and freight cars.",
+      "importance": "Dramatically reduced the cost and time of overland travel and freight movement; opened continental interiors to settlement and trade; enabled national economies to develop around regional specialization."
+    },
+    {
+      "term": "Steamships",
+      "definition": "Ships powered by steam engines rather than sails, able to travel against wind and current and on more predictable schedules.",
+      "importance": "Made ocean travel faster and more reliable; enabled more regular global trade; facilitated mass migration and imperial administration of distant territories."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Before the steam engine, factories had to be built near rivers to use water wheels for power. How did steam power change where factories could be built?",
+      "answer": "Water wheels required a fast-moving river — factories had to be located wherever suitable rivers existed, which was often remote from cities, markets, and labor pools. The steam engine ran on coal, which could be transported. A steam-powered factory could be built anywhere coal could be delivered — including in the middle of a city, near a railroad station, or anywhere else that was economically convenient. This dramatically expanded where industry could locate, enabling the growth of large industrial cities that were not necessarily near rivers."
+    },
+    {
+      "question": "The telegraph was invented in 1837 and by 1866 an undersea cable connected Britain and North America. Before the telegraph, how long did it take news to travel between continents, and why did this matter for trade and empire?",
+      "answer": "Before the telegraph, news traveled only as fast as a ship could sail — weeks or months across an ocean. A merchant in London waiting for news from an agent in India would wait months for a reply. A government trying to administer a colony across the ocean could not quickly communicate new orders or receive urgent reports. The telegraph changed this to near-instantaneous communication. Merchants could send orders and receive prices in hours rather than months. Governments could react to colonial crises quickly. This made global trade more efficient and colonial administration more centralized — both crucial for the expansion of empires in the late 19th century."
+    },
+    {
+      "question": "Steel is much stronger and more versatile than iron. Why couldn't factories use steel in large quantities before the Bessemer process of 1856?",
+      "answer": "Before 1856, making steel required a slow, expensive process of heating and working iron to remove impurities and add exactly the right amount of carbon. It took days to make a small amount, and it was very expensive. The Bessemer converter (1856) could convert a large batch of molten iron into steel in 20 minutes by blowing air through it. This reduced the cost of steel by about 80-90% almost overnight. Suddenly, steel was cheap enough to use for railroad tracks, structural beams in buildings, ships, and machinery — uses that had previously required cast or wrought iron, which was weaker and heavier."
+    },
+    {
+      "question": "Railroads dramatically increased trade within countries. How would this affect the kind of economy a country could develop?",
+      "answer": "Before railroads, moving heavy goods overland was very expensive — goods could only travel economically by water or (slowly and expensively) by road. This meant that regions without navigable rivers were economically isolated — they could only trade locally. Railroads connected every region to every other, regardless of rivers. Farmers in the interior could now sell to distant markets; factories in cities could receive raw materials from anywhere in the country; coal from one region could reach iron foundries in another. This allowed regional specialization — each region producing what it was best suited for and trading — which dramatically increased overall economic output. Railroads essentially created national economies."
+    },
+    {
+      "question": "What is a \"fossil fuel\" and why was the shift to fossil fuels significant for human history?",
+      "answer": "Fossil fuels (coal, oil, natural gas) are the compressed remains of ancient plants and animals, storing millions of years of solar energy in chemical form. Before fossil fuels, humans relied on current solar energy — food grown this year, wood cut this year, wind blowing today — which set natural limits on energy production. Fossil fuels unlocked millions of years of stored energy. A single pound of coal contains more energy than a human worker can produce in a day. This meant that machines powered by coal or oil could do work on a scale impossible with any previous energy source, enabling the massive productivity gains of industrialization."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🔥 The Energy Revolution: From Muscle to Coal"
+    },
+    {
+      "type": "paragraph",
+      "text": "For almost all of human history, the energy available to do work was limited: human muscle, animal muscle (oxen, horses), flowing water, and blowing wind. All of these had natural limits. You could not get more work from a horse than the horse could physically do. You could not run a water wheel without a river. You could not sail without wind."
+    },
+    {
+      "type": "paragraph",
+      "text": "The steam engine broke these limits. By burning coal — a fossil fuel storing millions of years of concentrated solar energy — a steam engine could produce mechanical power on demand, at any scale, anywhere coal could be delivered. The energy contained in a pound of coal exceeded what a human worker could produce in an entire day. One steam engine could do the work of dozens of horses, indefinitely, without rest."
+    },
+    {
+      "type": "paragraph",
+      "text": "**James Watt's improved steam engine (1769)** was the key breakthrough. Earlier steam engines existed, but they were inefficient and only practical for pumping water out of mines. Watt's innovations made the engine practical for running factory machinery. He patented his design in 1769, and within decades, steam engines were powering textile mills, iron foundries, and eventually locomotives across Britain."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/5-5-0.jpg",
+      "alt": "James Watt's improved steam engine with condenser",
+      "caption": "Watt's steam engine included a separate condenser — the key innovation that dramatically improved efficiency.",
+      "attribution": "It became the standard power source for British factories and mines and later for railroads worldwide (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "funFact",
+      "text": "We still measure engine power in \"horsepower\" because James Watt invented the unit to help sell steam engines. To convince customers their horses could be replaced, Watt calculated how much work a horse could do in a minute and used that as a standard unit. His steam engines could do the work of 10, 20, or 50 horses continuously — a compelling sales pitch. The unit stuck, and we still use it today for cars and engines, 250 years later."
+    },
+    {
+      "type": "heading",
+      "text": "⚙️ The First Industrial Revolution: Steam and Textiles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The First Industrial Revolution (roughly 1760–1850) was built on two foundations: the steam engine and the textile industry. Water wheels (and then steam engines) powered spinning and weaving machines — the spinning jenny (1764), the water frame (1769), and the power loom (1784). These machines could spin and weave cotton into cloth faster than any human hands, at a fraction of the cost."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/5-5-1.jpg",
+      "alt": "",
+      "caption": "The Crystal Palace, Hyde Park, London (1851) — built for the Great Exhibition, the world's first international industrial fair. Joseph Paxton's iron-and-glass structure itself demonstrated the power of industrial manufacturing.",
+      "attribution": "Public domain, Wikimedia Commons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Coal was essential. Steam engines needed coal to run; iron foundries needed coal to smelt iron. Britain's accessible coal fields — and the canal and later railroad systems that moved coal cheaply — were the physical infrastructure of early industrialization. By 1800, Britain was using more coal than the rest of the world combined."
+    },
+    {
+      "type": "paragraph",
+      "text": "The steam engine also had a direct military application: it could pump water out of deep mines, allowing miners to dig deeper for more coal. This made coal production self-reinforcing — more coal powered more steam engines that allowed mining of more coal that powered more factories."
+    },
+    {
+      "type": "apTip",
+      "text": "The CED specifically connects the steam engine and internal combustion engine to fossil fuels (coal and oil). Know this sequence: coal powers steam engines → steam engines power factories and railroads; oil powers internal combustion engines → automobiles and new machinery. Also note the CED phrase \"fossil fuels revolution greatly increased the energy available to human societies\" — that phrasing appears on exams."
+    },
+    {
+      "type": "heading",
+      "text": "🏗️ The Second Industrial Revolution: Steel, Electricity, Chemicals"
+    },
+    {
+      "type": "paragraph",
+      "text": "By the mid-19th century, the First Industrial Revolution had transformed Britain and was spreading across Europe and America. But a second wave of technological change, beginning around 1850, opened entirely new industries:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Steel (Bessemer process, 1856):** Henry Bessemer's converter could produce steel from iron in 20 minutes, reducing costs by roughly 80%. Steel is stronger, lighter, and more versatile than iron — making it ideal for railroad tracks (which needed to bear enormous weight), structural beams in tall buildings, ships, and precision machinery. Cheap steel made skyscrapers, modern bridges, and ocean liners possible.",
+        "**Chemicals:** The 19th century saw the creation of a synthetic chemical industry. Chemists developed synthetic dyes (replacing expensive natural dyes), fertilizers (enabling more productive agriculture), explosives (both military and industrial — for mining and construction), pharmaceuticals, and dozens of other products. Germany led the world in chemical industry by 1900.",
+        "**Electricity:** Thomas Edison's light bulb (1879) and the development of practical electric generators made electricity commercially viable. Electric motors replaced steam engines in factories (they were cleaner, quieter, and could be placed anywhere). Electric lighting extended the working day. Telegraph and later telephone networks used electricity for communication. By 1900, electricity was reshaping daily life in industrialized cities.",
+        "**Precision machinery:** The development of machine tools — lathes, milling machines, and the like — that could make identical, interchangeable parts at scale enabled mass production of complex goods. Interchangeable parts meant that a broken clock or a gun could be repaired by replacing a standard part rather than having a craftsperson remake it by hand."
+      ]
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/5-5-2.jpg",
+      "alt": "A late 19th-century steel mill and electrical generating station side by side",
+      "caption": "The Second Industrial Revolution added steel, electricity, and chemicals to the industrial toolkit.",
+      "attribution": "By 1900, a new type of factory was possible — electrically lit, steel-framed, producing complex goods from standardized interchangeable parts (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "funFact",
+      "text": "Thomas Edison didn't just invent the light bulb — he invented the entire electric power distribution system needed to make it useful. His Pearl Street Station in New York City (1882) was the world's first commercial electrical power plant, lighting 82 customers in lower Manhattan. Edison also had to invent the meters to measure electricity use, the fuses to prevent fires, and the sockets and switches that made appliances practical. The light bulb was only part of the invention; the system was the real achievement."
+    },
+    {
+      "type": "heading",
+      "text": "🚂 Railroads, Steamships, and the Telegraph: Shrinking the World"
+    },
+    {
+      "type": "paragraph",
+      "text": "Three technologies did more than any others to connect the world in the 19th century: railroads, steamships, and the telegraph. Together, they made distance less of a barrier than it had ever been in human history."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Railroads:** The first practical steam locomotive was demonstrated by George Stephenson in 1825. By 1850, Britain had over 6,000 miles of railroad tracks; by 1900, the world had over 500,000 miles. Railroads transformed economies: they opened the interiors of continents (the American West, Siberia, India) to trade and settlement, allowed regional specialization in agriculture and manufacturing, and dramatically cut the cost of overland freight movement. A journey that took weeks by horse-drawn wagon took days by train."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Steamships:** Steam-powered ships replaced sailing vessels as the dominant ocean transport by the mid-19th century. Steamships were faster, more reliable (not dependent on wind), and could travel routes that sailing ships could not (including upriver, against the current). The opening of the Suez Canal (1869) — which cut the journey from Europe to Asia by weeks — combined with steamships to dramatically speed up global trade. Ocean voyages that had taken three months now took three weeks."
+    },
+    {
+      "type": "paragraph",
+      "text": "**The telegraph:** Samuel Morse demonstrated the electric telegraph in 1837. By 1844 there was a line from Washington to Baltimore; by 1866, a transatlantic cable connected Britain and North America. The telegraph was revolutionary because it separated communication from physical travel for the first time in human history. A message that previously took weeks to cross an ocean now took minutes. Business, government, journalism, and military command were all transformed."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/5-5-3.jpg",
+      "alt": "A telegraph operator at work beside a railroad line",
+      "caption": "Railroads and the telegraph developed together — telegraph lines typically followed railroad tracks. Railroads needed telegraphs to coordinate train schedules safely; telegraph companies needed railroad rights-of-way.",
+      "attribution": "The two technologies reinforced each other (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "apTip",
+      "text": "The CED specifically states that railroads, steamships, and the telegraph \"made exploration, development, and communication possible in interior regions globally, which led to increased trade and migration.\" This is a direct quote you should know. The key phrase is \"interior regions\" — these technologies opened up landlocked areas that had been economically isolated. This also connects to Unit 6: railroads helped European powers control large colonial territories."
+    },
+    {
+      "type": "funFact",
+      "text": "The first transatlantic telegraph cable was laid in 1858 after enormous effort and expense — and then failed after just three weeks. The signal degraded until it was unusable. A better cable was laid in 1866 and worked properly. Before the cable, news from Europe to America took at least 10 days by the fastest steamship. After it, news traveled in minutes. The New York Times reported that the first message sent confirmed a ceasefire in a European war — news that, without the cable, wouldn't have reached America for two weeks."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 5.5",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+5.5",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Coal, Steam & the Industrial Revolution",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Coal%2C+Steam+%26+the+Industrial+Revolution",
+      "creator": "Crash Course · 11 min"
+    },
+    {
+      "title": "Unit 5.5",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+Unit+5.5",
+      "creator": "Heimler's History · 7 min"
+    },
+    {
+      "title": "The Second Industrial Revolution",
+      "url": "https://www.youtube.com/results?search_query=YouTube+The+Second+Industrial+Revolution",
+      "creator": "YouTube · 8 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "\"Before the steam engine, a mine could only be dug as deep as water could be kept out by pumps powered by horses. James Watt's steam engine could pump water from depths that no horse-powered pump could reach, allowing miners to access coal seams previously unavailable.\"",
+      "question": "The development described most directly illustrates which of the following about the steam engine?",
+      "options": [
+        "A) That the steam engine was developed primarily to improve textile production rather than mining",
+        "B) That steam engines made coal mining less dependent on human labor than any previous technology",
+        "C) That the steam engine removed physical limits on how deep mines could be dug, enabling access to deeper coal deposits",
+        "D) That Watt's steam engine was the first machine to use coal as a fuel source"
+      ],
+      "correctIndex": 2,
+      "explanation": "The steam engine's ability to pump water from deep underground removed the practical limit on mine depth, allowing access to coal seams that had been unreachable. This is an example of how one technology enables another: better steam pumps → deeper mines → more coal → more steam engines. The technologies were mutually reinforcing."
+    },
+    {
+      "stimulus": "Henry Bessemer's 1856 patent described a process in which a blast of air was forced through molten iron, burning off impurities and producing steel in under 20 minutes. Before this process, producing the same amount of steel took several days and skilled labor. The Bessemer process reduced the cost of steel by approximately 80% within two decades.",
+      "question": "The Bessemer process most directly contributed to which of the following developments?",
+      "options": [
+        "A) The decline of the coal industry as steel became an alternative fuel source",
+        "B) The end of the First Industrial Revolution as steel replaced textiles as the primary manufactured good",
+        "C) The replacement of steam power by electrical power in British factories",
+        "D) The rapid expansion of railroad networks, urban construction, and shipbuilding that required large quantities of affordable steel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cheap steel (80% cost reduction) enabled mass use in infrastructure — railroad tracks needed to bear enormous loads required steel rather than iron; steel-frame construction enabled taller buildings; iron-hulled ships were replaced by steel ships. The Bessemer process essentially enabled the Second Industrial Revolution's infrastructure expansion."
+    },
+    {
+      "stimulus": "\"When the transatlantic telegraph cable was completed in 1866, the London Times wrote: 'Since the discovery of Columbus, nothing has been done in any degree comparable to the vast enlargement which has thus been given to the sphere of human activity.'\"",
+      "question": "The *Times* editorial most directly supports which of the following claims about the telegraph?",
+      "options": [
+        "A) That the telegraph represented a fundamental change in human capability — separating communication from physical travel for the first time",
+        "B) That the telegraph was more historically significant than the railroad in connecting the world economically",
+        "C) That the telegraph threatened to undermine national sovereignty by enabling global communication",
+        "D) That Europe's leading newspapers viewed technological change with suspicion and concern"
+      ],
+      "correctIndex": 0,
+      "explanation": "The *Times* comparison to Columbus — who physically connected the Old and New Worlds — frames the telegraph as similarly world-changing because it connected continents through communication rather than travel. The editorial recognizes that the ability to communicate instantly across an ocean represented a fundamental shift in what humans could do."
+    },
+    {
+      "stimulus": "The completion of the transcontinental railroad in the United States (1869) and the Trans-Siberian Railroad in Russia (largely complete by 1904) each connected vast interior regions of their respective countries to coastal ports and international trade networks.",
+      "question": "The developments described most directly resulted in which of the following?",
+      "options": [
+        "A) The end of migration to interior regions as coastal cities became economically dominant",
+        "B) Increased settlement, resource extraction, and trade in continental interiors that had previously been economically isolated",
+        "C) Military conflicts between railroad companies competing for government land grants in frontier regions",
+        "D) A decline in oceanic trade as overland routes became faster and cheaper"
+      ],
+      "correctIndex": 1,
+      "explanation": "Both transcontinental railroads opened vast interior regions to economic integration — the American West to settlement and agricultural development, Siberia to resource extraction and Russian colonization. This directly matches the CED's statement that railroads \"made exploration, development, and communication possible in interior regions globally, which led to increased trade and migration.\""
+    },
+    {
+      "stimulus": "The opening of the Suez Canal in 1869, combined with the spread of steam-powered shipping, reduced the journey time from Britain to India from approximately 3 months by sailing ship around Africa to approximately 3 weeks by steamship through the canal.",
+      "question": "The development described most directly contributed to which of the following?",
+      "options": [
+        "A) The decline of British investment in Indian railroads as ocean shipping became more efficient",
+        "B) Competition between Britain and France for control of the Indian Ocean trade network",
+        "C) The shift from steam-powered ships back to sailing vessels as the Suez route required different navigation",
+        "D) Increased volume of global trade and tighter integration of colonial and metropolitan economies through faster, more reliable shipping"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cutting three months to three weeks dramatically reduced the cost and time of trade between Europe and Asia, enabling more frequent trade voyages and tighter commercial connections. It also tightened imperial administration — news and orders from London could now reach India in weeks rather than months. This is a direct example of how steamships increased global trade and strengthened imperial connections."
+    }
+  ],
+  "saq": {
+    "context": "\"The development of machines, including steam engines and the internal combustion engine, made it possible to take advantage of both existing and vast newly discovered resources of energy stored in fossil fuels. Railroads, steamships, and the telegraph made exploration, development, and communication possible in interior regions globally, which led to increased trade and migration.\" — AP World History CED, Unit 5",
+    "directions": "Answer all three parts (A, B, C). Write your response before clicking to see sample answers.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Identify ONE technological innovation of the First Industrial Revolution (c. 1760–1850) and explain its significance for economic production.",
+        "sampleAnswer": "**Sample answer:** James Watt's improved steam engine (patented 1769) was the central technological innovation of the First Industrial Revolution. By using coal to generate steam that could power factory machinery, Watt's engine freed manufacturing from dependence on waterways (which limited where factories could be located) and from the limits of animal and human muscle power. Steam engines could produce far more mechanical power than any previous energy source, continuously and on demand. This allowed factories to operate at scales impossible before — powering hundreds of spinning machines or hammers simultaneously — dramatically increasing the volume and reducing the cost of manufactured goods."
+      },
+      {
+        "label": "Part B",
+        "task": "Explain ONE way the Second Industrial Revolution (c. 1850–1914) differed from the First Industrial Revolution in terms of technology or industries.",
+        "sampleAnswer": "**Sample answer:** The Second Industrial Revolution introduced electricity as a new power source, distinguishing it from the First Industrial Revolution's reliance on steam and coal. Thomas Edison's development of a practical electrical system — including generators, distribution lines, meters, and the light bulb (1879–1882) — made electricity commercially viable. Electric motors were cleaner, quieter, and more precisely controllable than steam engines, and they could be installed anywhere in a factory without requiring a central steam boiler. Electrification of factories in the late 19th century dramatically increased manufacturing efficiency and also transformed daily life in industrial cities through electric lighting, streetcars, and eventually household appliances."
+      },
+      {
+        "label": "Part C",
+        "task": "Explain ONE way railroads, steamships, or the telegraph contributed to increased global connections in the period 1750–1900.",
+        "sampleAnswer": "**Sample answer:** The electric telegraph, combined with undersea cables completed in the 1860s, enabled near-instantaneous communication between continents for the first time in history, dramatically accelerating global economic connections. Before the telegraph, merchants doing business between London and New York had to wait weeks for a reply to any communication. After the transatlantic cable (1866), they could exchange price information, orders, and responses in minutes. This enabled the development of globally integrated financial markets, where commodity prices in London immediately affected trading in New York and Bombay, and it allowed multinational businesses to coordinate operations across continents in real time — laying the foundation for the global economy of the late 19th and early 20th centuries."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Evidence for Body Paragraph 1 — Energy technology as driver",
+        "text": "Watt's steam engine (1769) enabled factory production on a scale impossible with water or animal power; Bessemer process (1856) made cheap steel, enabling railroads, skyscrapers, and modern ships; Coal-fired industrialization increased British manufacturing output by factors of 10–100 over the century; Electricity (1880s) further increased efficiency and opened new industries"
+      },
+      {
+        "label": "Evidence for Body Paragraph 2 — Communication and transportation as market-expanders",
+        "text": "Railroads opened continental interiors, enabling regional specialization and national markets; Steamships cut ocean voyage times, increasing trade frequency and volume; Suez Canal (1869) + steamships cut Europe-Asia journey from 3 months to 3 weeks; Telegraph enabled real-time global financial markets and coordinated multinational business"
+      }
+    ],
+    "prompt": "\"Evaluate the extent to which technological change drove economic development in the period 1750–1900.\"",
+    "note": "Write a thesis before revealing. A strong thesis restates the verb phrase, adds a quantifier, and ends with *because [A] and [B]*.",
+    "thesisExample": "\"Technological change drove economic development to a great extent in the period 1750–1900 because the steam engine and fossil fuels removed the energy limits that had previously constrained manufacturing, and because railroads, steamships, and the telegraph created global networks of trade and communication that expanded markets well beyond what pre-industrial transportation allowed.\""
+  },
+  "discussionQuestions": [
+    {
+      "question": "Why was the shift to fossil fuels historically significant — not just as an energy source, but as a change in the human relationship with energy?",
+      "modelAnswer": "Before fossil fuels, human societies were limited to current energy — the muscle power of humans and animals today, the water flowing in rivers today, the wind blowing today. These set a natural ceiling on production. Fossil fuels (coal, oil) are stored energy from millions of years of biological accumulation. Burning them releases far more energy per unit than any current energy source. This meant industrial societies had access to an effectively unlimited energy supply compared to anything before — steam engines could do the work of dozens of horses indefinitely. The ceiling was removed, and production could scale up without natural limits. This is why the industrial period enabled unprecedented population growth, production volumes, and economic complexity."
+    },
+    {
+      "question": "What changed between the First and Second Industrial Revolutions? What were the key differences in technology and industries?",
+      "modelAnswer": "The First Industrial Revolution (roughly 1760–1850) was centered on textiles, iron, and steam power — replacing human labor with machines in manufacturing, powered by coal. The Second Industrial Revolution (roughly 1850–1914) added three new industrial sectors: (1) steel, enabled by the Bessemer process (1856), which made steel cheap enough for mass use in infrastructure and machinery; (2) chemicals — synthetic dyes, fertilizers, pharmaceuticals, explosives; (3) electricity — electric power generation, electric motors, and eventually electrified homes and factories. The second wave also featured more systematic application of science to industry — laboratories producing planned innovations, not just individual inventors having breakthroughs."
+    },
+    {
+      "question": "How did railroads change economic life within nations? Give at least two specific effects.",
+      "modelAnswer": "Two important effects: (1) **Regional specialization:** Before railroads, every region had to produce most of what it needed locally because transporting goods was too expensive. Railroads made it economical to ship goods long distances, so regions could specialize in what they did best — the American Midwest in grain, the South in cotton, the industrial Northeast in manufactured goods — and trade. This specialization increased overall productivity. (2) **National markets:** Railroads created genuinely national markets for the first time. A manufacturer in Manchester could sell goods in Scotland, Wales, and southern England as easily as locally. This allowed factories to scale up production to meet national rather than just local demand, driving further industrialization."
+    },
+    {
+      "question": "Why was the telegraph more historically important than just a faster way to send messages?",
+      "modelAnswer": "The telegraph was the first technology in human history to separate communication from physical travel. Before 1837, information could only travel as fast as a person or a ship — weeks across continents, months across oceans. This meant that business decisions, government orders, and military commands were always delayed by geography. The telegraph allowed instantaneous communication over any distance that wires could reach (and eventually, with undersea cables, across oceans). This transformed: business (merchants could respond to market prices in real time); journalism (news spread globally within hours); government (colonial administrations could receive orders from home quickly); and military command (generals could coordinate with distant units). It was the foundation of all subsequent global communications technology."
+    },
+    {
+      "question": "Why did railroads and the telegraph develop together, and what does this connection tell us about how technologies interact?",
+      "modelAnswer": "Railroads needed telegraphs for safety: with trains moving in both directions on shared tracks, a collision was inevitable unless dispatchers could communicate instantly about train locations. Telegraph lines were strung along railroad rights-of-way because the railroad companies already had the legal right to that land — telegraph companies piggybacked on the railroad infrastructure. In turn, railroads used telegraph lines to coordinate schedules. This mutual dependency accelerated both technologies' spread — neither would have developed as rapidly in isolation. It illustrates how technologies often develop in clusters, each enabling and accelerating the others, rather than in isolation."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

@@ -3,19 +3,19 @@
   "name": "Economics",
   "shortName": "Economics",
   "isAP": false,
-  "tagline": "One-semester course \u2014 aligned to CEE/NCEE national economics standards & the DoDEA/C3 Framework",
+  "tagline": "One-semester course — aligned to CEE/NCEE national economics standards & the DoDEA/C3 Framework",
   "color": "#2f6b4f",
   "assessmentTypes": [
     "mcq",
     "reflection"
   ],
-  "standardsNote": "Not an AP course. Mapped to the CEE/NCEE Voluntary National Content Standards in Economics, the CEE National Standards for Personal Financial Education, and the DoDEA social studies standards (built on the NCSS C3 Framework, indicators D2.Eco.1\u201315).",
+  "standardsNote": "Not an AP course. Mapped to the CEE/NCEE Voluntary National Content Standards in Economics, the CEE National Standards for Personal Financial Education, and the DoDEA social studies standards (built on the NCSS C3 Framework, indicators D2.Eco.1–15).",
   "units": [
     {
       "num": 1,
       "title": "Scarcity, Choice & Economic Reasoning",
       "range": null,
-      "standards": "CEE Std 1\u20134 \u00b7 DoDEA/C3 D2.Eco.1\u20132",
+      "standards": "CEE Std 1–4 · DoDEA/C3 D2.Eco.1–2",
       "topics": [
         {
           "num": "1.1",
@@ -39,7 +39,7 @@
       "num": 2,
       "title": "Supply, Demand & Market Equilibrium",
       "range": null,
-      "standards": "CEE Std 5\u20138 \u00b7 DoDEA/C3 D2.Eco.3",
+      "standards": "CEE Std 5–8 · DoDEA/C3 D2.Eco.3",
       "topics": [
         {
           "num": "2.1",
@@ -67,7 +67,7 @@
       "num": 3,
       "title": "Market Structures, Competition & the Role of Government",
       "range": null,
-      "standards": "CEE Std 9\u201310, 13\u201314, 16\u201317 \u00b7 DoDEA/C3 D2.Eco.4\u20139",
+      "standards": "CEE Std 9–10, 13–14, 16–17 · DoDEA/C3 D2.Eco.4–9",
       "topics": [
         {
           "num": "3.1",
@@ -95,7 +95,7 @@
       "num": 4,
       "title": "Macroeconomics: Measuring the Economy",
       "range": null,
-      "standards": "CEE Std 15, 18 \u00b7 DoDEA/C3 D2.Eco.11, 13",
+      "standards": "CEE Std 15, 18 · DoDEA/C3 D2.Eco.11, 13",
       "topics": [
         {
           "num": "4.1",
@@ -115,7 +115,7 @@
       "num": 5,
       "title": "Money, Banking & the Federal Reserve",
       "range": null,
-      "standards": "CEE Std 11\u201312 \u00b7 DoDEA/C3 D2.Eco.10",
+      "standards": "CEE Std 11–12 · DoDEA/C3 D2.Eco.10",
       "topics": [
         {
           "num": "5.1",
@@ -135,7 +135,7 @@
       "num": 6,
       "title": "Fiscal & Monetary Policy, Unemployment & Inflation",
       "range": null,
-      "standards": "CEE Std 19\u201320 \u00b7 DoDEA/C3 D2.Eco.12",
+      "standards": "CEE Std 19–20 · DoDEA/C3 D2.Eco.12",
       "topics": [
         {
           "num": "6.1",
@@ -159,7 +159,7 @@
       "num": 7,
       "title": "International Trade & the Global Economy",
       "range": null,
-      "standards": "CEE Std 5\u20136 (global) \u00b7 DoDEA/C3 D2.Eco.14\u201315",
+      "standards": "CEE Std 5–6 (global) · DoDEA/C3 D2.Eco.14–15",
       "topics": [
         {
           "num": "7.1",
@@ -204,5 +204,6 @@
       ]
     }
   ],
-  "tipLabel": "Study Tip"
+  "tipLabel": "Study Tip",
+  "icon": "💵"
 }

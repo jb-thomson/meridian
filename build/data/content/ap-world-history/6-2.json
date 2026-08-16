@@ -1,0 +1,352 @@
+{
+  "course": "ap-world-history",
+  "num": "6.2",
+  "title": "State Expansion from 1750 to 1900",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "🏛️",
+      "label": "Political",
+      "tooltip": "European, American, and Japanese states expanded their formal political control over vast territories through military conquest, treaty diplomacy, and the formalization of previously informal commercial relationships."
+    },
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "Imperial expansion was driven by competition for raw materials, markets, and investment opportunities created by industrial capitalism. Trading companies that had previously operated with limited state support were replaced by direct government administration."
+    },
+    {
+      "icon": "🌍",
+      "label": "Interactions",
+      "tooltip": "The Scramble for Africa, the formalization of British India, and Japanese expansion in East Asia all fundamentally transformed political boundaries and power relationships across the globe, creating a world order defined by European and Western dominance."
+    }
+  ],
+  "tldr": [
+    "**LO-A: From company to state control — corporations give way to governments —** The British East India Company governed India for nearly two centuries before the 1857 Rebellion prompted Britain to transfer control to the Crown. Similarly, Leopold II’s personal Congo Free State became Belgian state property in 1908 after international outrage. This transition — non-state to state control — is KC-5.2.I.A. **The Scramble for Africa and the Berlin Conference (1884–85) —** European powers carved up Africa so rapidly that they needed a formal conference in Berlin to divide territory without triggering war among themselves. By 1914, only Ethiopia and Liberia remained independent. Britain dominated West Africa and East Africa; France controlled West and Central Africa; Belgium held the Congo. **Asia and the Pacific — European, American, and Japanese expansion —** Britain formalized control over India after 1857. The U.S. acquired the Philippines, Guam, and Puerto Rico after the 1898 Spanish-American War. Japan, after the Meiji Restoration, seized Taiwan (1895) and Korea (1910). Russia expanded eastward across Siberia to the Pacific. Settler colonies in New Zealand and Australia displaced indigenous peoples permanently. **US and Russian land empires — continent-spanning expansion —** American Manifest Destiny drove westward expansion across North America: the Mexican-American War (1846–48) added Texas, California, and the Southwest; the Indian Removal Act forced indigenous nations from their lands. Russia’s Trans-Siberian Railroad (completed 1916) bound its continental empire together. Both used warfare, diplomacy, and mass settlement to consolidate vast territories."
+  ],
+  "learningObjectives": [
+    "Compare processes by which state power shifted in various parts of the world from 1750 to 1900"
+  ],
+  "vocabulary": [
+    {
+      "term": "Berlin Conference (1884–85)",
+      "definition": "A meeting of 14 European nations hosted by Otto von Bismarck in Berlin that established the rules for European colonization of Africa, including the principle of “effective occupation.”",
+      "importance": "Formalized the Scramble for Africa; divided the continent into European spheres of influence without African representation or consent."
+    },
+    {
+      "term": "Scramble for Africa",
+      "definition": "The rapid colonization of almost all of Africa by European powers between approximately 1880 and 1914.",
+      "importance": "By 1914 only Ethiopia and Liberia remained independent; transformed African political geography and disrupted thousands of existing African states and societies."
+    },
+    {
+      "term": "Settler Colony",
+      "definition": "A colony where large numbers of colonizers permanently relocate, often seizing indigenous land and displacing local populations. Examples: New Zealand, Australia, South Africa, Algeria.",
+      "importance": "Distinguished from exploitation colonies by permanent demographic transformation; indigenous peoples face dispossession rather than simply foreign political control."
+    },
+    {
+      "term": "Sepoy Rebellion (1857)",
+      "definition": "A major uprising against British East India Company rule in India, sparked by multiple grievances including the introduction of cartridges rumored to be greased with animal fat, offending both Hindu and Muslim soldiers.",
+      "importance": "Led Britain to dissolve the East India Company and transfer India to direct Crown control (British Raj), exemplifying the transition from non-state to state colonial administration."
+    },
+    {
+      "term": "Direct vs. Indirect Rule",
+      "definition": "Direct rule: colonial power governs through its own administrators, replacing indigenous governance. Indirect rule: colonial power governs through existing indigenous leaders, who become agents of colonial authority.",
+      "importance": "Britain favored indirect rule in many African and Asian colonies; France preferred direct rule. Both ultimately serve colonial interests but have different impacts on indigenous institutions."
+    },
+    {
+      "term": "Manifest Destiny",
+      "definition": "The 19th-century American ideology that U.S. expansion across the North American continent was divinely ordained and inevitable.",
+      "importance": "Justified the displacement of indigenous nations, the Mexican-American War (1846–48), and the annexation of vast territories from the Pacific to the Gulf; a form of ideological imperialism applied to continental expansion."
+    },
+    {
+      "term": "Meiji Restoration (1868)",
+      "definition": "The political revolution that restored imperial rule to Japan and initiated rapid industrialization and Westernization to resist European colonization.",
+      "importance": "Within decades, Japan industrialized sufficiently to become an imperial power itself, seizing Taiwan (1895) and Korea (1910) — demonstrating that non-Western nations could adopt imperial methods against their neighbors."
+    },
+    {
+      "term": "Congo Free State",
+      "definition": "A personal colony of Belgian King Leopold II (1885–1908), where rubber extraction was enforced through extreme violence, including mutilation and murder.",
+      "importance": "International outrage over Leopold’s atrocities forced Belgium to take control as a formal state colony (Belgian Congo) in 1908; an extreme example of non-state to state transition in colonial administration."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Why might a private trading company (like the British East India Company) eventually need to be replaced by direct government control?",
+      "answer": "Trading companies prioritize profit; governments must consider security, diplomacy, and political stability. A company might exploit a colony so aggressively that it provokes rebellion — exactly what happened in India in 1857, when the East India Company’s practices sparked the Sepoy Rebellion. A company also lacks the legitimacy and resources of a sovereign state when it comes to suppressing large-scale uprisings, negotiating international treaties, or making long-term infrastructure investments. As colonies grew more complex and contested, the limited mandate of a trading company became inadequate — full state power was needed."
+    },
+    {
+      "question": "The Berlin Conference of 1884–85 divided Africa among European powers. Why would European nations agree to divide Africa peacefully rather than fight over it?",
+      "answer": "European nations agreed to divide Africa at the conference because the alternative — war between industrial powers over colonial territory — would have been far more costly than negotiating shares. Bismarck (who hosted the conference) understood that European peace depended on managing colonial competition through diplomacy. Each power got something; no power got everything; conflict was avoided. The irony is that this “peaceful” division was only possible because African peoples’ interests were entirely ignored — the conference treated the continent as uninhabited, unclaimed territory despite the presence of hundreds of millions of people with their own political structures."
+    },
+    {
+      "question": "How was Japanese imperial expansion in Asia similar to and different from European imperial expansion in Africa?",
+      "answer": "Similar: Japan used military force and unequal treaties to seize territory from weaker neighbors, just as European powers did in Africa. Japan also used ideological justifications (a “Greater East Asia” narrative) to present expansion as regional leadership. Different: Japan was an Asian nation that industrialized rapidly and successfully competed with European powers — it was not itself colonized. Japan’s empire was geographically adjacent (Korea, Taiwan, Manchuria) rather than transoceanic. European expansion also involved settler colonialism on a much larger scale; Japanese expansion focused more on political and economic control over neighboring territories."
+    },
+    {
+      "question": "American expansion across North America is sometimes not called “imperialism.” What arguments support or challenge that description?",
+      "answer": "Arguments that it was imperialism: the U.S. used military force to displace indigenous populations, signed treaties it then violated, conducted the Trail of Tears and similar forced removals, and seized half of Mexico’s territory in the Mexican-American War. These are structural equivalents to what European powers did in Africa. Arguments against calling it imperialism: the U.S. expansion was contiguous (not transoceanic), and Americans framed it as national destiny rather than foreign conquest. However, the framing matters less than the structure: conquest of indigenous peoples, seizure of territory, and displacement of existing inhabitants are the defining features of imperialism regardless of geography."
+    },
+    {
+      "question": "What is the difference between a settler colony and an exploitation colony? Why does this distinction matter?",
+      "answer": "A settler colony (e.g., New Zealand, Australia, South Africa, Algeria) is one where large numbers of colonizers permanently relocate, often displacing indigenous populations from their land. An exploitation colony (e.g., British Nigeria, French Indochina) is one where a small colonial administration governs a large indigenous population primarily for economic extraction, without mass permanent settlement. The distinction matters because settler colonies produce permanent demographic transformation — indigenous peoples are not just governed but displaced and sometimes eliminated — while exploitation colonies maintain a larger indigenous population under foreign political control. The long-term consequences are different: settler colonial societies continue to wrestle with indigenous land rights and demographic displacement in ways exploitation colonies do not."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🏢 From Company to Crown: The Transition from Private to State Empire"
+    },
+    {
+      "type": "paragraph",
+      "text": "European expansion did not begin as a government project. For much of the 17th and 18th centuries, it was managed by **joint-stock trading companies**: the British East India Company, the Dutch East India Company (VOC), and similar enterprises that held royal charters granting monopoly trading rights. These companies were private corporations with their own armies, courts, and administrative systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "By the mid-19th century, this arrangement was breaking down. The CED identifies this transition as **KC-5.2.I.A**: some states strengthened their control over existing colonies, including the transition from non-state actor control to direct state governance. The two most important examples are India and the Congo."
+    },
+    {
+      "type": "paragraph",
+      "text": "In India, the British East India Company had gradually extended control over the subcontinent since the Battle of Plassey (1757). By 1857, it governed 200 million people. But the **Sepoy Rebellion** of 1857 — a massive uprising by Indian soldiers (sepoys) and civilians against Company rule — shocked the British government into action. Parliament dissolved the Company and transferred India to direct Crown control in 1858, beginning the era of the British Raj. India became the “jewel in the crown” of the British Empire."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Congo, the transition went the other direction: King Leopold II of Belgium acquired the Congo Free State as a personal possession (not a Belgian colony) at the Berlin Conference of 1885. Leopold’s regime used forced labor and extreme violence to extract rubber, killing an estimated 10 million people. International outrage — documented by journalist E.D. Morel and human rights activist Roger Casement — forced Leopold to cede the Congo to the Belgian state in 1908, making it the Belgian Congo."
+    },
+    {
+      "type": "funFact",
+      "text": "The British East India Company had its own private army — at its peak, it commanded over 260,000 soldiers, twice the size of the British Army itself. The Company governed India for nearly 200 years, collecting taxes, administering courts, and fighting wars on behalf of profit. When the Sepoy Rebellion exposed the limits of corporate governance, Britain had to step in with its actual government."
+    },
+    {
+      "type": "heading",
+      "text": "🌍 The Scramble for Africa: The Berlin Conference"
+    },
+    {
+      "type": "paragraph",
+      "text": "Between 1880 and 1914, European powers colonized almost all of Africa in what historians call the **Scramble for Africa**. The speed was astonishing: in 1880, Europeans controlled about 10% of Africa; by 1914, they controlled about 90%, with only **Ethiopia** and **Liberia** maintaining independence."
+    },
+    {
+      "type": "paragraph",
+      "text": "To manage this explosive competition without triggering a European war, Otto von Bismarck of Germany hosted the **Berlin Conference** in 1884–85. Fourteen European nations (and the United States as an observer) participated. Zero African representatives were invited or consulted. The conference established the principle of “effective occupation”: a nation could claim African territory only if it established actual administrative presence — not merely a flag on a coast. This accelerated the rush to send troops, administrators, and missionaries inland."
+    },
+    {
+      "type": "paragraph",
+      "text": "The resulting map bore almost no relationship to existing African political boundaries. European borders sliced through ethnic communities, separated related peoples, and lumped together groups with different languages, religions, and histories. These arbitrary borders remain one of the most lasting legacies of colonialism in Africa today."
+    },
+    {
+      "type": "paragraph",
+      "text": "Key acquisitions included: **Britain** in Nigeria, Kenya, Uganda, Egypt, and South Africa; **France** in West Africa and Central Africa; **Belgium** in the Congo; **Germany** in Namibia, Tanzania, and Cameroon; **Portugal** in Angola and Mozambique."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/6-2-0.jpg",
+      "alt": "",
+      "caption": "The Berlin Conference, 1884–85 (*Kongokonferenz*). Fourteen European powers divided Africa among themselves — without a single African representative present.",
+      "attribution": "Public domain, Wikimedia Commons."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/6-2-1.jpg",
+      "alt": "European diplomats at the Berlin Conference dividing Africa",
+      "caption": "The Berlin Conference (1884–85): European statesmen divided the African continent into colonial territories at a conference in which no African representative participated (Google Gemini, 2025), commercially licensed.",
+      "attribution": "The Berlin Conference (1884–85): European statesmen divided the African continent into colonial territories at a conference in which no African representative participated (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "apTip",
+      "text": "Know the two major types of state expansion identified in KC-5.2.I: (1) European states expanded into Africa and Asia, often replacing existing company or local rule with direct state administration; and (2) the U.S., Russia, and Japan expanded by conquering neighboring territories (KC-5.2.II.B) — this is a separate pattern. The AP exam may ask you to compare colonial expansion in Africa with continental expansion in the Americas or Eurasia."
+    },
+    {
+      "type": "heading",
+      "text": "🌏 Asia and the Pacific: Multiple Powers Compete"
+    },
+    {
+      "type": "paragraph",
+      "text": "While Europe scrambled for Africa, imperial expansion in Asia and the Pacific involved more complex competition. The CED identifies KC-5.2.I.B: European states, the U.S., and Japan acquired territories in Asia and the Pacific."
+    },
+    {
+      "type": "paragraph",
+      "text": "**British India** became the model of colonial governance after 1858. Britain governed 300 million people through a combination of British administrators and Indian civil servants, building an extensive railway network (built with Indian labor for British benefit), and extracting cotton, tea, and opium. India was the foundation of British global power."
+    },
+    {
+      "type": "paragraph",
+      "text": "In **Southeast Asia**, the Dutch consolidated control over the Netherlands East Indies (Indonesia), France conquered Indochina (Vietnam, Cambodia, Laos), Britain took Burma and Malaya, and the U.S. acquired the Philippines after defeating Spain in 1898. The Spanish-American War transformed the U.S. from a continental republic into a Pacific empire almost overnight."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Japan** was the most remarkable case. After the Meiji Restoration (1868), Japan deliberately industrialized and adopted Western military technology to avoid colonization. It then used those same methods to build its own empire: winning the First Sino-Japanese War (1894–95) and seizing Taiwan; defeating Russia in the Russo-Japanese War (1904–05), which stunned the world by showing a non-Western nation defeating a European power; and annexing Korea in 1910."
+    },
+    {
+      "type": "heading",
+      "text": "🇺🇸 Settler Colonies: New Zealand and Beyond"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CED specifically identifies **New Zealand** as an example of a settler colony (KC-5.2.I.D). Unlike exploitation colonies that governed large indigenous populations, settler colonies involved the permanent migration of European populations who displaced indigenous peoples from their land."
+    },
+    {
+      "type": "paragraph",
+      "text": "In New Zealand, Britain signed the Treaty of Waitangi (1840) with Māori chiefs, promising to protect Māori land rights. Within decades, however, European settlers flooded in, and the colonial government found pretexts to seize Māori land through the Land Wars (1845–1872). Māori lost about 95% of their land. Similar patterns played out in Australia (Aboriginal Australians), South Africa (Zulu, Xhosa, and other peoples), and of course throughout North America."
+    },
+    {
+      "type": "paragraph",
+      "text": "Settler colonialism differed fundamentally from other forms of empire in its long-term consequences: it permanently transformed the demographic makeup of colonized territories, leaving indigenous peoples as minorities in lands their ancestors had inhabited for millennia."
+    },
+    {
+      "type": "heading",
+      "text": "🛤️ Continental Empires: U.S. and Russia Expand"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CED also recognizes the expansion of the U.S. and Russia as forms of imperial state expansion (KC-5.2.II.B): these states expanded by conquering neighboring territories, building land-based continental empires."
+    },
+    {
+      "type": "paragraph",
+      "text": "American **Manifest Destiny** drove expansion from the Atlantic to the Pacific. The Louisiana Purchase (1803) doubled U.S. territory. The Indian Removal Act (1830) forced the Five Civilized Tribes west of the Mississippi on the infamous **Trail of Tears**. The Mexican-American War (1846–48) added California, Texas, and the Southwest. By the 1890s, Frederick Jackson Turner declared the frontier “closed.” The U.S. then looked outward: Hawaii (1898), Puerto Rico and Guam (1898), the Philippines (1898)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Russia’s expansion moved eastward through Siberia and southward into Central Asia. The **Trans-Siberian Railroad**, begun in 1891 and completed in 1916, bound the vast Russian empire together and enabled the projection of military power to the Pacific. Russia’s expansion brought it into conflict with Japan — the Russo-Japanese War (1904–05) — and established its control over Muslim-majority Central Asian khanates like Bukhara and Khiva."
+    },
+    {
+      "type": "funFact",
+      "text": "When the Russo-Japanese War ended in 1905 with a Japanese victory, it was the first time in modern history that a non-Western nation had defeated a major European power in a war. The shock waves reached colonized peoples across Asia and Africa: if Japan could do it, why couldn’t they resist European domination? The war inspired nationalist movements from Egypt to India to Korea."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 6.2",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+6.2",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "State Expansion",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+State+Expansion",
+      "creator": "Heimler's History · 6 min"
+    },
+    {
+      "title": "Imperialism in Africa · Tom Richey",
+      "url": "https://www.youtube.com/results?search_query=AP+World+History+Imperialism+in+Africa+%C2%B7+Tom+Richey",
+      "creator": "AP World History · 9 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "“In 1857, Indian soldiers in the service of the East India Company refused orders that they believed required them to use cartridges greased with pig and cow fat — offensive to both Muslims and Hindus. The mutiny that followed spread beyond the army to encompass peasants, landlords, and princes who had accumulated grievances against Company rule over generations.”",
+      "question": "The 1857 Rebellion described in the passage most directly led to which of the following outcomes?",
+      "options": [
+        "India gained independence from British control and established a constitutional republic",
+        "Britain granted India limited self-governance through a new legislative assembly",
+        "The British East India Company was dissolved and India came under direct British Crown administration",
+        "The rebellion inspired similar uprisings across other British colonies in Africa and the Pacific"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1857 Rebellion demonstrated that the East India Company could not adequately govern a colony of India’s size and complexity. Parliament responded by dissolving the Company and transferring control to the British Crown (the “British Raj”). This is the classic example of the non-state to state transition in colonial administration (KC-5.2.I.A). India did not gain independence (A) — that happened in 1947. Britain did not grant self-governance (B) — in fact direct Crown control was more centralized than Company rule. (D) is not a direct outcome described by the historical record."
+    },
+    {
+      "stimulus": "\"At the Berlin Conference, it was agreed that any power seeking to colonize African territory must establish 'effective occupation' — meaning actual administrative presence, not merely a coastal trading post or flag. This principle accelerated the penetration of the African interior by European powers, each racing to establish outposts before rivals could claim the same territory.\"",
+      "question": "The “effective occupation” rule established at Berlin most directly encouraged which of the following?",
+      "options": [
+        "European powers to build more extensive transportation networks in existing colonies",
+        "The rapid deployment of European troops, administrators, and missionaries into previously uncolonized African interior regions",
+        "African rulers to formally negotiate treaties with multiple European nations simultaneously",
+        "The formation of international courts to mediate disputes between European and African governments"
+      ],
+      "correctIndex": 1,
+      "explanation": "“Effective occupation” required actual administrative presence in the interior — not just coastal trading posts. This meant each European power had to rapidly send troops, government officials, and often missionaries deep into Africa to establish the physical presence needed to claim territory. The rule accelerated the Scramble for Africa by turning territorial claims from symbolic gestures into logistical operations. (A) is a later consequence of colonization, not the immediate effect of the Berlin rule. (C) and (D) misrepresent the conference’s dynamics."
+    },
+    {
+      "stimulus": "\"Japan’s defeat of Russia in the war of 1904–05 sent tremors through the colonial world. In Egypt, nationalists celebrated. In India, Bal Gangadhar Tilak wrote that the Japanese victory proved that ‘Asia can defeat Europe.’ In China, reformers pointed to Japan as the model for national regeneration.\"",
+      "question": "The reactions described in the passage most directly support which historical argument?",
+      "options": [
+        "Japan’s victory demonstrated that industrialization was the key variable in military competition, not racial characteristics",
+        "The Russo-Japanese War caused European powers to abandon their colonial possessions in Asia",
+        "Asian nationalist movements had been dormant before 1905 and were directly created by Japan’s victory",
+        "Russia’s defeat triggered a European alliance against Japan to prevent further Asian imperial expansion"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reactions described show colonized peoples interpreting Japan’s victory as evidence that Asian nations could defeat European powers — meaning European dominance was not the product of racial superiority but of industrial and military development. Japan had industrialized and won; if others industrialized, they could do the same. This challenged the Social Darwinist narrative that European dominance was natural and permanent. (B) is false — European powers did not abandon Asia after 1905. (C) is too strong — Asian nationalism predated 1905. (D) did not happen."
+    },
+    {
+      "stimulus": "\"By 1840, European settlers in New Zealand had established a formal treaty relationship with Māori chiefs. By 1870, the Māori population had declined by approximately 60%, and Māori held less than 5% of the land their ancestors had owned three decades earlier.\"",
+      "question": "The situation described in the passage best illustrates which of the following patterns of imperialism?",
+      "options": [
+        "Economic imperialism, in which foreign investment rather than military conquest transformed local societies",
+        "Social Darwinism in practice, as the Māori population decline was the result of deliberate genocide",
+        "Indirect rule, in which Māori leaders became agents of British colonial administration",
+        "Settler colonialism, in which permanent migration by colonizers displaced indigenous populations from their land"
+      ],
+      "correctIndex": 3,
+      "explanation": "The data — dramatic population decline, permanent land loss, permanent settler presence — defines settler colonialism. New Zealand is explicitly cited in KC-5.2.I.D as an example of a settler colony. (A) is wrong: the passage describes demographic displacement, not foreign investment patterns. (C) indirect rule would have maintained Māori political structures as colonial intermediaries. (B) misidentifies the cause: Māori population decline resulted primarily from disease, land loss, and warfare, not a deliberate genocide program, and Social Darwinism was an ideology, not a program of deliberate killing."
+    },
+    {
+      "stimulus": "\"The United States had, by 1890, completed its continental expansion. In an influential 1893 essay, historian Frederick Jackson Turner argued that the frontier had ‘closed’ — there was no more uninhabited land to settle. Within a decade, the U.S. had fought the Spanish-American War (1898), acquiring Puerto Rico, Guam, and the Philippines, and had annexed Hawaii.\"",
+      "question": "The continuity most directly illustrated by the pattern described in the passage is:",
+      "options": [
+        "The U.S. consistently opposed imperial expansion by European powers throughout the 19th century",
+        "The drive for territorial expansion that had characterized American continental growth extended into overseas imperialism once the continent was “filled”",
+        "Economic stagnation in the 1890s forced the U.S. to seek overseas markets through military conquest",
+        "American expansion was primarily motivated by the desire to spread democracy to the Philippines and Pacific islands"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage shows a clear continuity: the same expansion impulse that drove American continental growth (Manifest Destiny, frontier settlement, military conquest of indigenous peoples) continued outward when the continent was “full.” Turner’s “closed frontier” thesis itself was interpreted by many Americans as an argument for overseas expansion as the next phase of national growth. (A) is historically inaccurate. (C) is not supported by the passage. (D) is the ideological justification the U.S. used, not the structural explanation for the pattern."
+    }
+  ],
+  "saq": {
+    "context": "“By 1914, the British Empire alone covered approximately 25% of the world’s land surface and governed 400 million people. France, Belgium, Germany, Portugal, and the Netherlands held additional territories. Japan had acquired Taiwan and Korea. The United States controlled the Philippines, Puerto Rico, and Hawaii. Russia stretched from Poland to the Pacific.”",
+    "directions": "Answer parts A, B, and C. Each part requires a separate short response. Do not write a full essay.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Briefly describe ONE specific way in which state expansion in Africa differed from state expansion in Asia in the period 1750–1900.",
+        "sampleAnswer": "In Africa, expansion was primarily new territorial acquisition by European powers, formalized through the Berlin Conference (1884–85), which divided the continent into European spheres without prior significant colonial presence in the interior. In Asia, many regions already had established colonial presences that were deepened and formalized rather than newly created: Britain had been operating in India through the East India Company since the 1600s, and the 1857 Rebellion simply transferred that existing control from a company to the Crown. Asian expansion was often the formalization and intensification of existing relationships; African expansion was the rapid creation of new ones."
+      },
+      {
+        "label": "Part B",
+        "task": "Briefly explain ONE way Japan’s imperial expansion was similar to European imperial expansion in the period 1850–1910.",
+        "sampleAnswer": "Like European imperial powers, Japan used industrialized military force backed by unequal treaties to seize territory from neighbors. After defeating China in the First Sino-Japanese War (1894–95), Japan imposed the Treaty of Shimonoseki, forcing China to cede Taiwan and grant Japan economic concessions — exactly the kind of unequal treaty European powers had imposed on China through the Opium Wars. Like European powers, Japan also used ideological justification for expansion, framing its empire as a “Greater East Asia” project that would modernize and protect Asian peoples — a regional civilizing mission."
+      },
+      {
+        "label": "Part C",
+        "task": "Briefly explain ONE way U.S. expansion across North America (1800–1890) can be compared to European imperial expansion in Africa or Asia.",
+        "sampleAnswer": "American expansion used military force to dispossess indigenous peoples of their land and integrate their territories into the expanding state — the same structural process as European colonization in Africa and Asia. The Indian Removal Act (1830) and the Trail of Tears forced the Cherokee and other nations from their ancestral territories into designated “Indian Territory,” just as European powers forced African peoples off their lands to make room for settler colonists. The ideological justification (Manifest Destiny) performed the same function as the civilizing mission: it framed conquest as destiny or duty rather than dispossession."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Contextualization",
+        "text": "Industrial Revolution (Unit 5) created the military-technological gap that made large-scale empire feasible; nationalism and Social Darwinism (Topic 6.1) provided the ideological frameworks."
+      },
+      {
+        "label": "Similarities (Europe and Japan)",
+        "text": "Both used industrialized military force (rifles, artillery, steamships) against less-industrialized neighbors; Both used unequal treaties to formalize conquest (Treaty of Nanking for Britain; Treaty of Shimonoseki for Japan); Both developed ideological justifications (civilizing mission; “Greater East Asia”); Both extracted economic resources from colonized territories"
+      },
+      {
+        "label": "Differences",
+        "text": "European expansion was global and transoceanic; Japanese expansion was regional (East Asia); Japan had itself been a target of Western imperialism before becoming a colonizer; European expansion predated and created the global system; Japanese expansion occurred within that system; Scale: British Empire covered 25% of earth’s land surface; Japan’s empire was limited to East Asia"
+      }
+    ],
+    "prompt": "Compare the processes by which European states expanded their power in Africa with the processes by which the United States or Japan expanded their power in the period 1750–1900.",
+    "note": "Write a full essay with a thesis, contextualization, evidence, and historical reasoning. Use comparison as your primary skill. A strong response will identify both similarities and differences and explain their significance.",
+    "thesisExample": "Strong thesis (comparing Europe and Japan): “Although both European powers and Japan used industrialized military force and ideological justifications to build empires in the period 1850–1910, they differed fundamentally in geographic scope and in their relationship to the global imperial order: European expansion was transoceanic and built a world system of colonial domination, while Japan’s expansion was regional and represented a non-Western nation adopting imperial methods to survive within — and eventually challenge — that system.”"
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. The Berlin Conference of 1884–85 prevented war among European powers by peacefully dividing Africa. Does preventing a European war justify the process? Why or why not?",
+      "modelAnswer": "The conference’s success at preventing a European war came entirely at Africa’s expense. European nations were only able to “peacefully” divide Africa because they treated the continent as unclaimed, uninhabited territory — despite the fact that hundreds of millions of Africans lived there within thousands of distinct political, social, and cultural communities. The conference prevented European violence by enabling colonial violence. From a strictly European diplomatic perspective, it was a success; from a perspective that takes African peoples’ rights and sovereignty into account, it was one of the largest acts of political dispossession in history. Whether “preventing war” justifies the outcome depends entirely on whose interests you prioritize in making that judgment."
+    },
+    {
+      "question": "2. Japan both resisted colonization and became a colonial power itself. What does this tell us about the relationship between industrialization and imperial expansion?",
+      "modelAnswer": "Japan’s dual role reveals that imperialism was not specifically European — it was a strategy available to any nation that industrialized sufficiently to gain military and economic advantages over its neighbors. Japan recognized this early: the Meiji Restoration deliberately borrowed European industrialization methods to avoid the fate of China and India. Having successfully industrialized, Japan used the same tools — military force, unequal treaties, economic extraction — to build its own empire in Korea and Taiwan. This demonstrates that the core dynamic driving imperialism was the military and economic power gap created by industrialization, not European race or culture."
+    },
+    {
+      "question": "3. American expansion across North America is typically called Manifest Destiny rather than imperialism. Is this distinction meaningful, or is it just different terminology for the same process?",
+      "modelAnswer": "The distinction is largely rhetorical rather than structural. The process — military conquest of indigenous peoples, seizure of their lands, forced displacement, and integration of their territories into the expanding state — is structurally identical to what European powers did in Africa and Asia. The difference is framing: “Manifest Destiny” presented expansion as divinely ordained national destiny; “imperialism” was what other nations did. But indigenous nations like the Cherokee, Sioux, and Comanche experienced U.S. expansion in exactly the same way African and Asian peoples experienced European expansion: loss of sovereignty, land, and cultural autonomy at the point of superior military force. Calling it Manifest Destiny rather than imperialism is itself a product of the ideology that justified it."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

@@ -3,7 +3,7 @@
   "name": "AP World History: Modern",
   "shortName": "AP World History",
   "isAP": true,
-  "tagline": "c. 1200 to the present \u2014 71 topics across 9 units, College Board CED-aligned",
+  "tagline": "c. 1200 to the present — 71 topics across 9 units, College Board CED-aligned",
   "color": "#8a4b2f",
   "assessmentTypes": [
     "mcq",
@@ -359,5 +359,6 @@
       ]
     }
   ],
-  "tipLabel": "AP Tip"
+  "tipLabel": "AP Tip",
+  "icon": "🌍"
 }

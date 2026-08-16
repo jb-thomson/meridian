@@ -1,0 +1,372 @@
+{
+  "course": "ap-world-history",
+  "num": "2.7",
+  "title": "Comparison of Economic Exchange",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "All three networks — Silk Roads, Indian Ocean, trans-Saharan — moved luxury goods. All created commercial wealth for middlemen. All depended on merchants willing to risk capital across long distances for profit."
+    },
+    {
+      "icon": "🔍",
+      "label": "Comparison Skill",
+      "tooltip": "The historical thinking skill of comparison asks you to identify meaningful similarities and differences between historical developments and explain what those patterns reveal about a period."
+    },
+    {
+      "icon": "🕌",
+      "label": "Religion",
+      "tooltip": "Islam spread along all three networks through peaceful merchant contact. This is the clearest similarity across all three trade systems — and a direct refutation of the idea that Islam spread by conquest alone."
+    },
+    {
+      "icon": "⚙️",
+      "label": "Technology",
+      "tooltip": "Technology determined which networks were possible: the North African camel saddle enabled trans-Saharan trade; monsoon-adapted ships powered the Indian Ocean; pack animals and caravanserais sustained the Silk Roads."
+    }
+  ],
+  "tldr": [
+    "**LO-A: LO: Comparing the three networks —** The Silk Roads, Indian Ocean, and trans-Saharan networks all relied on relay trading (no single merchant traveled the full route), all spread Islam peacefully through merchant contact, and all created permanent diasporic merchant communities in foreign cities. The key differences are in technology (ships vs. camels), cost and speed (maritime was cheapest, overland most expensive per unit), and dependence on political stability (Silk Roads required political unity; Indian Ocean did not). **LO: What comparison reveals —** Putting the three networks side by side reveals a broader pattern: commercial exchange in c. 1200–1450 was driven by geographic specialization (each region had something others wanted), enabled by specific technologies suited to the terrain, and sustained by diasporic communities who bridged cultural and linguistic gaps. The networks look different on the surface — desert routes vs. ocean routes vs. mountain passes — but they share a common logic: move high-value, low-weight goods across long distances using specialized middlemen. **For the AP exam —** The comparison skill requires more than listing similarities and differences. A strong AP comparison argument explains *why* the similarities or differences exist and what they reveal about the period. \"All three networks spread Islam\" is a similarity. \"All three spread Islam because Muslim merchants dominated long-distance trade, and merchants who shared a legal and cultural framework could trust each other across cultural boundaries\" is an analysis — and that's what earns points on the AP exam."
+  ],
+  "learningObjectives": [
+    "Using the historical thinking skill of comparison, explain the similarities and differences among the various networks of exchange in the period c. 1200–1450."
+  ],
+  "vocabulary": [
+    {
+      "term": "Monsoon Trade Winds",
+      "definition": "Seasonal, predictable wind patterns over the Indian Ocean that blow northeast in winter and southwest in summer; Indian Ocean merchants timed their voyages to harness these winds for reliable, faster travel.",
+      "importance": "The technology enabling Indian Ocean trade — contrast with Silk Roads (overland caravans) and Trans-Saharan trade (camels across desert) to see how geography shaped each network."
+    },
+    {
+      "term": "Relay Trading",
+      "definition": "A system in which goods pass through multiple middlemen rather than being carried by a single merchant from origin to destination.",
+      "importance": "All three major trade networks of c. 1200–1450 operated on the relay model. This is why trading cities — Samarkand, Malacca, Timbuktu — grew wealthy as middlemen, even when they produced nothing themselves."
+    },
+    {
+      "term": "Luxury Goods",
+      "definition": "High-value, low-weight goods — silk, spices, porcelain, gold, precious stones — that could justify the high cost of long-distance transportation.",
+      "importance": "All three networks were fundamentally built on luxury goods. Heavy, bulky staples (grain, timber) couldn't bear the cost of overland transport across thousands of miles, so trade networks selected for light, expensive goods that maintained their value across the journey."
+    },
+    {
+      "term": "Diasporic Community",
+      "definition": "A group of people living permanently outside their homeland who maintain cultural identity and connections to their origin.",
+      "importance": "Arab merchants in East African ports, Indian merchants in Southeast Asian city-states, Chinese merchants in Malacca — these diasporic communities were the human infrastructure that made intercontinental trade possible. They provided language skills, legal knowledge, and commercial relationships that allowed strangers from different cultures to do business reliably."
+    },
+    {
+      "term": "Geographic Specialization",
+      "definition": "The economic pattern in which different regions produce goods that are scarce elsewhere, creating mutual dependence and the incentive to trade.",
+      "importance": "Geographic specialization drove all three networks: West Africa had gold but needed salt; China had silk but needed spices; India had cotton and spices but wanted Chinese porcelain. Without geographic specialization, long-distance trade has no economic logic."
+    },
+    {
+      "term": "Pax Mongolica",
+      "definition": "The period of relative peace and stability across the Mongol Empire (c. 1250–1350) that allowed merchants, diplomats, and travelers to move safely across the Eurasian landmass.",
+      "importance": "A key continuity-and-change point — the Pax Mongolica temporarily expanded Silk Road trade, then the empire's collapse disrupted it, while Indian Ocean and Trans-Saharan networks continued independently."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "**Comparison:** What did the Silk Roads, Indian Ocean trade, and trans-Saharan routes have in common?",
+      "answer": "All three: (1) relied on relay trading — goods changed hands multiple times rather than being carried by one merchant from origin to destination; (2) spread Islam peacefully through sustained merchant contact rather than military conquest; (3) created permanent diasporic communities of merchants who settled in foreign cities and served as cultural and commercial bridges; (4) moved luxury goods that could bear the high cost of long-distance transportation; (5) transmitted disease as well as goods."
+    },
+    {
+      "question": "**Comparison:** What was the most significant difference in the technology used by each network?",
+      "answer": "The key technological difference was in transportation: the Indian Ocean relied on monsoon-adapted sailing ships (Arab dhows, Chinese junks) that could carry enormous cargo volumes cheaply; the trans-Saharan relied almost entirely on the camel (specifically the North African camel saddle that allowed heavy loads across waterless terrain); the Silk Roads used camels for the Central Asian desert sections but also relied on pack horses and mules for mountain terrain. These technological differences reflected the geographic environments each network had to cross."
+    },
+    {
+      "question": "**Causation:** Why were maritime trade routes (Indian Ocean) generally cheaper per unit than overland routes (Silk Roads)?",
+      "answer": "Ships can carry dramatically more cargo per voyage than land animals. A single large Chinese junk could carry hundreds of tons of cargo. A camel carries roughly 300–600 lbs. Even a large caravan of hundreds of camels couldn't match a single ship's capacity. The cost of transporting goods by sea per unit weight was therefore much lower — which is why spices, cotton, and ceramics (heavy, bulky goods) dominated maritime trade, while silk, spices, and luxury items dominated overland routes where weight constraints were binding."
+    },
+    {
+      "question": "**Comparison:** Which network was most dependent on political stability, and why?",
+      "answer": "The Silk Roads were most dependent on political stability. The overland routes passed through multiple distinct political territories in Central Asia — if any of them were unstable (banditry, warfare, hostile rulers), the entire route became dangerous. The Silk Roads flourished under Mongol rule (the Pax Mongolica provided unified political protection) and contracted when Mongol power fragmented. The Indian Ocean, by contrast, was less dependent on any single political power — multiple competing port cities could all participate, and merchants could route around hostile powers by using different ports."
+    },
+    {
+      "question": "**Argumentation:** Which of the three trade networks had the most lasting historical impact? Defend your answer.",
+      "answer": "This is a genuinely debatable question — historians disagree. Arguments for the Indian Ocean: it carried more total volume, lasted longest, and eventually connected to the European maritime expansion of the 1400s–1500s. Arguments for the Silk Roads: they facilitated the most dramatic cultural transfers (Buddhism, Islam, papermaking, gunpowder moving East-West) and connected the most distant civilizations. Arguments for trans-Saharan: it created the wealth that built Mali and Timbuktu, whose Islamic scholarship profoundly influenced North and West Africa. The AP exam rewards any answer that is specific, arguable, and supported by concrete evidence — not just \"all three were important.\""
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🔍 Why Historians Compare"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before we put the three networks side by side, it's worth understanding why historians bother comparing at all. Comparison isn't just an academic exercise — it reveals patterns that individual examples conceal."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you study the Silk Roads alone, you might think that relay trading was a feature of overland routes caused by the difficulty of crossing Central Asian deserts. When you discover that the Indian Ocean network also used relay trading — even though ships could technically carry a merchant much farther than any caravan — you realize the relay model is a *structural feature of long-distance trade*, not a consequence of any particular terrain. That insight only becomes visible through comparison."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, when you notice that Islam spread along all three networks, you're forced to ask: what about Muslim merchants specifically enabled this? The answer — that Islam provided a shared legal framework, language, and credit system that made transactions between strangers more reliable — illuminates something about religion and commerce that no single network could reveal on its own."
+    },
+    {
+      "type": "apTip",
+      "text": "On the AP exam, comparison questions appear in the MCQ (as stimulus-based questions), the SAQ (Part B or C often asks you to compare), and the DBQ and LEQ (where comparison is embedded in prompts about \"similarities and differences\" or \"to what extent\"). A strong comparison does three things: (1) identifies a specific similarity or difference; (2) explains *why* it exists; and (3) uses it to draw a conclusion about the broader period. Weak comparison: \"Both the Silk Roads and Indian Ocean trade spread Islam.\" Strong comparison: \"Both the Silk Roads and Indian Ocean trade spread Islam because Muslim merchants dominated both networks and their shared religious-legal framework enabled commercial trust across cultural boundaries.\""
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-7-0.jpg",
+      "alt": "Map showing the three major trade networks: Silk Roads, Indian Ocean routes, and trans-Saharan routes",
+      "caption": "The three major trade networks of c. 1200–1450: the overland Silk Road (green), the Indian Ocean maritime routes (blue), and the trans-Saharan routes (not shown, but running north-south across Africa). All three operated simultaneously and competed for the same luxury goods and merchant populations.",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "heading",
+      "text": "📊 The Three Networks: Side by Side"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is a structured comparison of the three major trade networks. Study each row carefully — the patterns across columns are more important than any individual cell."
+    },
+    {
+      "type": "heading",
+      "text": "✅ Similarities: What All Three Networks Shared"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beneath their surface differences, all three networks operated on the same basic logic. Understanding these structural similarities is as important as cataloguing the differences."
+    },
+    {
+      "type": "paragraph",
+      "text": "No merchant traveled the full length of any network. Silk changed hands a dozen times between its Chinese manufacturer and its Roman consumer. Gold was traded at oases, at trans-Saharan crossing points, and at North African ports before reaching Mediterranean buyers. Spices moved from Southeast Asian growers to Indian merchants to Arab traders to Venetian buyers over months or years. **The relay model was not a flaw — it was the system.** Each segment was managed by specialists who knew their stretch of the route, its dangers, its seasonal patterns, and its buyer-seller relationships."
+    },
+    {
+      "type": "paragraph",
+      "text": "Islam spread along every major trade network in this period — not through conquest, but through commerce. Muslim merchants were disproportionately active on all three networks, for a practical reason: Islamic law provided a shared legal and commercial framework that made transactions between strangers more reliable. The *hawala* credit system, the legal validity of contracts made between Muslims in different countries, and the shared language of Arabic for record-keeping all gave Muslim merchants a competitive advantage. Where Muslim merchants went, mosques followed, and local elites often converted — not because they were forced to, but because conversion connected them to the Islamic commercial and legal world."
+    },
+    {
+      "type": "paragraph",
+      "text": "Every network produced permanent communities of merchants who settled in foreign cities and maintained cultural ties to their homelands. Arab merchants in Kilwa and Malacca. Indian merchants in Hormuz and Calicut. Chinese merchants in the ports of Southeast Asia. These weren't tourists — they were permanent residents who spoke multiple languages, understood local customs and legal systems, and served as essential bridges between their home trading networks and their adopted cities. Without diasporic communities, long-distance trade would have required rebuilding trust and legal frameworks from scratch at every transaction."
+    },
+    {
+      "type": "paragraph",
+      "text": "All three networks moved high-value, low-weight goods — silk, spices, gold, porcelain, gems, ivory. Heavy bulk goods (grain, timber) couldn't justify the cost and risk of long-distance transportation. This created a structural pattern: the farther a good traveled, the more valuable it had to be to remain profitable. Goods that were common at home became luxuries abroad, and vice versa — creating the price differentials that made trade profitable in the first place."
+    },
+    {
+      "type": "paragraph",
+      "text": "As Topic 2.6 established, all three networks transmitted disease as well as goods. The Black Death traveled along Silk Road routes. Other epidemics moved through Indian Ocean and trans-Saharan networks. Connectivity is not selective — it transmits everything that can be transmitted, including pathogens. This is not unique to any one network; it is a structural feature of all high-volume commercial exchange systems."
+    },
+    {
+      "type": "heading",
+      "text": "⚡ Key Differences: What Made Each Network Distinct"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most obvious difference: the Indian Ocean network used ships; the Silk Roads and trans-Saharan routes used land animals. This wasn't a choice — it was a geographical necessity. You can't sail across the Sahara or the Central Asian steppe. You can't drive a camel caravan across the Indian Ocean. Each network's technology was an adaptation to its environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "But technology also determined economic structure. A large Chinese junk could carry hundreds of tons of cargo. A camel carries 300–600 lbs. Even a large caravan of 1,000 camels couldn't match a single large ship's capacity. This means maritime trade was far cheaper per unit of cargo — which is why heavy, bulky spices and cotton moved efficiently across the Indian Ocean, while the Silk Roads selected for lightweight, ultra-high-value goods (silk) that could justify the cost of land transport."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Silk Roads were uniquely dependent on political stability. The overland routes passed through dozens of different territories — any one of which, if unstable or hostile, could close the route. This is why the Silk Roads flourished under the Pax Mongolica and contracted during periods of political fragmentation. Merchants couldn't reroute around a hostile Central Asian power the way a ship captain could route around a hostile port city."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Indian Ocean was far more politically resilient. If one port city became hostile or corrupt, merchants could shift to a competitor. Malacca's rise was partly the result of merchants seeking a more stable alternative to earlier ports. No single political power could block the entire Indian Ocean network the way fragmentation of Central Asian power could cripple the Silk Roads."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Silk Roads ran primarily east-west, connecting East Asia to the Mediterranean. The Indian Ocean network was roughly circular — driven by the monsoon cycle, it moved trade in a seasonal loop connecting East Africa, Arabia, India, Southeast Asia, and China. The trans-Saharan routes ran primarily north-south, connecting sub-Saharan West Africa to North Africa and the Mediterranean world. These directional differences meant that each network connected different civilizations and moved different goods."
+    },
+    {
+      "type": "paragraph",
+      "text": "Control structures differed significantly. The Silk Roads were controlled by a series of empires and powerful states that taxed transit trade (Abbasid Caliphate, Mongol khanates). The Indian Ocean was more decentralized — port cities like Kilwa, Calicut, and Malacca accumulated wealth by taxing trade but competed with each other. The trans-Saharan routes were controlled primarily by West African empires (Mali being the peak example) that taxed caravans on both ends — goldfields at one end, termini at the other — without needing to produce either gold or salt themselves."
+    },
+    {
+      "type": "funFact",
+      "text": "When the AP exam asks you to compare trade networks, the most commonly tested comparison is **Silk Roads vs. Indian Ocean**. The key insight to demonstrate: both moved luxury goods and spread Islam, but they differed fundamentally in their dependence on political stability. The Silk Roads required unified political control to function efficiently; the Indian Ocean was more resilient because its decentralized structure meant no single political disruption could close the whole network. That's a comparison with analytical depth — and that's what scores points."
+    },
+    {
+      "type": "heading",
+      "text": "✏️ Mastering the Comparison Skill for the AP Exam"
+    },
+    {
+      "type": "paragraph",
+      "text": "The AP exam rewards analysis, not just knowledge. Here's the difference between a fact-based response and a comparison-based response:"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Weak:** \"The Silk Roads and the Indian Ocean trade both spread Islam.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "**Strong:** \"Both the Silk Roads and the Indian Ocean trade spread Islam through peaceful merchant contact rather than military conquest, because Muslim merchants dominated both networks and their shared religious-legal framework — including the hawala credit system and standardized contract law — made commercial transactions between culturally distant strangers more reliable than they would have been without a shared institutional framework.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The weak version is a fact. The strong version is an analysis. Both start from the same observation, but only the strong version explains *why* the similarity exists and what it reveals about the period."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you write a comparison thesis, aim for this structure: *\"While [networks] shared [similarity], they differed in [difference], demonstrating that [conclusion about the period].\"*"
+    },
+    {
+      "type": "apTip",
+      "text": "\"While the Silk Roads, Indian Ocean, and trans-Saharan trade networks all facilitated the spread of Islam through peaceful merchant contact — demonstrating that commercial connectivity, not military conquest, was the primary mechanism of Islamic expansion in this period — they differed fundamentally in their dependence on political stability: the Silk Roads required unified imperial control to function efficiently, while the Indian Ocean's decentralized structure made it more resilient to political disruption, and the trans-Saharan routes depended on the political power of West African empires to tax and protect caravan trade.\" This thesis: (1) identifies a similarity, (2) explains why it exists, (3) identifies key differences, (4) explains what each difference reveals. That's a full comparison argument in one sentence."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 2.7",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+2.7",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Comparison of Economic Exchange",
+      "url": "https://www.youtube.com/results?search_query=AP+Review+Comparison+of+Economic+Exchange",
+      "creator": "AP Review · 10 min"
+    },
+    {
+      "title": "Silk Roads",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Silk+Roads",
+      "creator": "Crash Course · 11 min"
+    },
+    {
+      "title": "Indian Ocean Trade",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Indian+Ocean+Trade",
+      "creator": "Crash Course · 12 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "*\"Arab merchants who settled in the port cities of East Africa built mosques, married local women, and slowly introduced Islamic practices into coastal communities. Within two centuries, the rulers of Kilwa and other Swahili cities were Muslim. A similar pattern unfolded in the port cities of Southeast Asia, where Arab and Indian Muslim merchants settled and local rulers converted.\"*",
+      "question": "This passage most directly supports which of the following comparisons?",
+      "options": [
+        "A) Both the Indian Ocean and the Silk Roads spread Buddhism through sustained merchant contact",
+        "B) Arab merchants were exclusively responsible for Islamic expansion in both East Africa and South Asia",
+        "C) East Africa and Southeast Asia had identical social and political structures before the arrival of Muslim merchants",
+        "D) The Indian Ocean and trans-Saharan networks both spread Islam through peaceful commercial contact rather than military conquest"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage describes peaceful spread through merchant settlement and voluntary ruler conversion in two different regions (East Africa and Southeast Asia), both connected by the Indian Ocean network. This directly illustrates how Islam spread along trade routes through commercial contact rather than military force. Choice A is wrong — the passage is about Islam, not Buddhism. Choice C overclaims — the passage doesn't address social structures before Islam. Choice B is too narrow — Indian (not just Arab) Muslim merchants were also central."
+    },
+    {
+      "stimulus": "*A table showing the primary goods traded on each network: Silk Roads — silk, porcelain, spices, paper, horses; Indian Ocean — spices, cotton, porcelain, ivory, gold; Trans-Saharan — gold, salt, enslaved people, copper, textiles.*",
+      "question": "Which of the following best explains why all three networks focused on high-value luxury goods rather than heavy bulk commodities?",
+      "options": [
+        "A) Merchants along all three networks lacked the organizational capacity to move heavy goods",
+        "B) Religious restrictions in both Islam and Buddhism prohibited the trade of agricultural staples",
+        "C) The high cost and risk of long-distance transportation meant only goods that could maintain high value across the journey were economically viable to trade",
+        "D) Governments along all three routes taxed only luxury goods, leaving staple goods untaxed and therefore unprofitable"
+      ],
+      "correctIndex": 2,
+      "explanation": "This is the economic logic of all long-distance trade: the cost of transportation (risk, time, middlemen) is fixed regardless of what you're carrying. A bale of wheat that doubles in value over 3,000 miles is still cheap wheat. A bolt of silk that doubles in value over 3,000 miles is still luxury silk worth enormous profit. This economic constraint explains why all long-distance networks select for high-value, low-weight goods. Choice A is wrong — merchants had significant organizational capacity (caravans, fleets). Choices C and D are not supported by historical evidence."
+    },
+    {
+      "stimulus": "*\"The Mongol Empire's collapse in the 14th century disrupted Silk Road trade significantly, as merchants could no longer travel safely from China to the Mediterranean under unified political protection. By contrast, the Indian Ocean trade network continued to expand through the same period, largely unaffected by Mongol fragmentation.\"*",
+      "question": "The contrast described in the passage most directly illustrates which of the following differences between the two networks?",
+      "options": [
+        "A) The Indian Ocean network was larger and more economically significant than the Silk Roads",
+        "B) The Silk Roads required unified political control to function efficiently, while the Indian Ocean was more resilient to political disruption",
+        "C) Mongol merchants were the primary traders on the Silk Roads but had no presence in Indian Ocean commerce",
+        "D) Maritime technology was inherently superior to overland transportation for all types of goods"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage describes the Silk Roads contracting when Mongol political unity collapsed, while the Indian Ocean continued expanding — directly illustrating the different political dependencies of the two systems. The Silk Roads required unified political control; the Indian Ocean's decentralized structure made it resilient. Choice A is a separate argument not made in the passage. Choice C is factually incorrect and not in the passage. Choice D overclaims — overland transport was better for some goods and routes."
+    },
+    {
+      "stimulus": "*\"In Timbuktu, Arab and Berber merchants lived permanently in separate quarters of the city, maintaining their own mosques, legal courts, and commercial networks. Similar communities of Arab merchants existed in Kilwa on the East African coast, and of Indian merchants in the ports of Southeast Asia. Each community maintained ties to its homeland while adapting to local conditions.\"*",
+      "question": "The communities described in the passage illustrate which of the following features shared by the major trade networks of c. 1200–1450?",
+      "options": [
+        "A) The role of diasporic merchant communities in sustaining long-distance commercial exchange",
+        "B) The dominance of Arab political power over all three trade networks",
+        "C) The tendency of foreign merchants to assimilate completely into host societies",
+        "D) The exclusive use of Arabic as the commercial language across all trade networks"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage describes Arab/Berber communities in Timbuktu (trans-Saharan), Arab communities in Kilwa (Indian Ocean), and Indian communities in Southeast Asia (Indian Ocean) — all maintaining their cultural identity while living permanently in foreign cities. This directly illustrates the role of diasporic communities in sustaining exchange. Choice B overclaims — Arab merchants were prominent but did not politically dominate all networks. Choice C is the opposite of what the passage describes (they maintained distinct identities). Choice D is factually incorrect — multiple commercial languages were in use."
+    },
+    {
+      "stimulus": "*\"No single merchant carried Chinese silk from Xi'an to Rome. Instead, the silk changed hands a dozen times — at Kashgar, at Samarkand, at Baghdad, at Constantinople — each time generating profit for a new middleman. The same logic applied to the Saharan gold trade: from the goldfields of Mali to the markets of Cairo, the metal passed through multiple hands at desert oases and northern trading cities.\"*",
+      "question": "The pattern described in the passage best illustrates which of the following comparisons between the Silk Roads and the trans-Saharan network?",
+      "options": [
+        "A) Both networks were monopolized by a single merchant culture that controlled all trade from origin to destination",
+        "B) Both networks were exclusively overland, avoiding maritime routes entirely",
+        "C) Both networks operated on a relay trading model in which goods passed through multiple middlemen rather than being carried by one merchant the full distance",
+        "D) Both networks traded identical goods — silk and gold — making them direct economic competitors"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage explicitly describes goods (silk on the Silk Roads, gold on the trans-Saharan) changing hands multiple times rather than being carried by one merchant from origin to destination. This is the definition of relay trading, and the passage uses it as a direct comparison between the two networks. Choice A is wrong — no single merchant culture monopolized either route. Choice B is wrong — the passage doesn't address whether either was maritime (though the trans-Saharan was indeed overland, the Silk Roads had some maritime sections). Choice D is wrong — the networks traded different goods, not identical ones."
+    }
+  ],
+  "saq": {
+    "context": "*\"Despite their vast geographic differences, the major trade networks of c. 1200–1450 operated according to a common commercial logic: they moved luxury goods across cultural boundaries using specialized middlemen, and in doing so, they transformed the societies they connected.\"*",
+    "directions": "Use the passage and your knowledge of AP World History to answer parts A, B, and C.",
+    "parts": [
+      {
+        "label": "",
+        "task": "**(A)** Briefly explain ONE specific similarity between the Silk Roads and the Indian Ocean trade networks in the period c. 1200–1450.",
+        "sampleAnswer": "Both the Silk Roads and the Indian Ocean trade networks spread Islam through peaceful merchant contact rather than military conquest. Muslim merchants were disproportionately active on both networks, and wherever they settled permanently in foreign cities, they built mosques and maintained Islamic commercial practices. Over time, local rulers often converted voluntarily — not because they were conquered, but because conversion provided access to the Islamic legal and commercial framework that Muslim merchants used to conduct reliable long-distance business. This pattern of peaceful Islamic expansion through commerce, shared by both networks, demonstrates that the dominance of Muslim merchants in international trade was itself a mechanism of religious spread."
+      },
+      {
+        "label": "",
+        "task": "**(B)** Briefly explain ONE significant difference between the trans-Saharan trade network and the Indian Ocean trade network in the period c. 1200–1450.",
+        "sampleAnswer": "The trans-Saharan and Indian Ocean networks differed fundamentally in how political power shaped commercial control. In the trans-Saharan system, West African empires — particularly Mali — accumulated wealth primarily by controlling the territory through which trade passed and taxing every caravan at both ends of the route. Political power over land was the commercial asset; Mali grew rich without producing gold or salt itself. In the Indian Ocean, no single political power controlled the network — it was organized around competing port cities (Kilwa, Calicut, Malacca) that accumulated wealth through harbor fees and market access, and merchants could route around hostile ports. This decentralized structure made the Indian Ocean far more resilient to political disruption than the trans-Saharan network, which contracted when West African empires weakened."
+      },
+      {
+        "label": "",
+        "task": "**(C)** Briefly explain how comparing the three major trade networks of c. 1200–1450 reveals something about the nature of long-distance trade in this period that studying only one network would not reveal.",
+        "sampleAnswer": "Comparing all three networks reveals that relay trading — the system in which goods change hands multiple times rather than being carried by one merchant from origin to destination — was a structural feature of long-distance trade in this period, not a coincidence specific to any one route or technology. The Silk Roads used relay trading through Central Asian caravanserais; the Indian Ocean used it at port-city transfer points; the trans-Saharan used it at desert oases. Since all three networks independently developed the same commercial structure, studying only one might lead a student to attribute relay trading to the specific geography of that route (e.g., \"the Silk Roads used relay trading because Central Asian deserts were impassable\"). Comparison reveals instead that relay trading was an economically rational response to the universal constraints of long-distance trade — capital limitations, geographic specialization, and the value of local commercial expertise — regardless of terrain or technology."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Similarity 1 (with evidence)",
+        "text": "Both used relay trading — silk changed hands at Samarkand and Baghdad; Indian Ocean spices changed hands at Calicut and Hormuz. Cite specific cities as evidence."
+      },
+      {
+        "label": "Similarity 2 (with evidence)",
+        "text": "Both spread Islam through merchant contact — Arab merchants in East Africa and Southeast Asia built mosques and local rulers converted voluntarily; same pattern on Silk Roads as Muslim merchants moved into Central Asian cities."
+      },
+      {
+        "label": "Difference 1 (with evidence)",
+        "text": "Political dependence — Silk Roads flourished under Pax Mongolica, contracted after Mongol fragmentation; Indian Ocean continued expanding even as Mongols declined."
+      },
+      {
+        "label": "Difference 2 (with evidence)",
+        "text": "Technology and cost — ships (junks, dhows) vs. camels and pack animals; maritime trade could carry far larger volumes at lower cost per unit, enabling trade in heavier goods (cotton, bulk spices) that overland routes couldn't support economically."
+      },
+      {
+        "label": "Complexity / synthesis",
+        "text": "Both networks were interdependent — goods that moved east on the Indian Ocean were often the same goods that continued westward on the Silk Roads (Chinese porcelain, for example, moved by sea to India, then overland to Persia, then by sea again to Egypt). The networks weren't separate — they were nodes in a single interconnected Afro-Eurasian exchange system."
+      }
+    ],
+    "prompt": "📄 Long Essay Practice **Prompt:** Compare the methods by which TWO of the following trade networks expanded and sustained long-distance exchange in the period c. 1200–1450: the Silk Roads, the Indian Ocean trade network, the trans-Saharan trade routes.",
+    "note": "This is a full comparison LEQ. Sketch a thesis and evidence outline — then check the model.",
+    "thesisExample": "**Model Thesis:** While both the Silk Roads and the Indian Ocean trade network sustained long-distance exchange through relay trading and the spread of Islam via diasporic merchant communities, they differed fundamentally in their dependence on political stability — the Silk Roads required unified imperial control (as demonstrated by the Pax Mongolica's role in the network's peak) while the Indian Ocean's decentralized structure made it resilient to political fragmentation, demonstrating that the organizational logic of maritime trade was fundamentally different from that of overland trade."
+  },
+  "discussionQuestions": [
+    {
+      "question": "Why did relay trading develop on all three networks, even when the technology (ships, camels, etc.) could theoretically carry merchants farther?",
+      "modelAnswer": "Relay trading developed not because merchants couldn't travel farther, but because specialization was more efficient. A merchant who deeply knew one segment of a route — its seasonal dangers, its language and customs, its buyer-seller relationships — could navigate that segment far more profitably than a generalist who tried to manage the entire route. Additionally, capital constraints played a role: merchants typically invested their capital in one trading voyage and needed to convert goods back to capital at the end of each segment, rather than tying up capital for years in a full-route journey. The relay model was an efficient economic response to these constraints, which is why it appeared independently across all three networks."
+    },
+    {
+      "question": "Why was the Indian Ocean trade network more politically resilient than the Silk Roads?",
+      "modelAnswer": "The Indian Ocean's resilience came from its decentralized structure and the geographic flexibility of maritime navigation. If one port city became hostile, corrupt, or unstable, merchants could shift to a competitor — Malacca's rise was partly the result of merchants seeking alternatives to earlier dominant ports. No single political power controlled the entire ocean, and the monsoon system ran regardless of who sat on which throne. The Silk Roads, by contrast, were a linear route through territorial space — any gap in political control could close the route entirely, and there were limited geographic alternatives in Central Asian terrain. Political fragmentation that hurt the Silk Roads (such as the collapse of Mongol unity) had far less effect on the Indian Ocean."
+    },
+    {
+      "question": "What does the spread of Islam along all three networks reveal about how religions spread in the pre-modern world?",
+      "modelAnswer": "The spread of Islam across all three networks reveals that commercial contact — not military conquest — was the dominant mechanism of religious spread in the pre-modern world for Islam (and also for Buddhism along the Silk Roads). Islam spread wherever Muslim merchants went because: (1) merchants settled permanently in port cities and built mosques; (2) local rulers and elites converted voluntarily, attracted by the commercial and diplomatic advantages of connection to the Islamic world; (3) Islamic legal frameworks (contract law, credit systems) were genuinely useful for facilitating trade, making Islam an attractive package for commercially engaged societies. This pattern — religion following commerce rather than armies — is a fundamental insight about how cultural exchange worked in this period."
+    },
+    {
+      "question": "A student argues: \"The Indian Ocean network was clearly more important than the Silk Roads because maritime trade was cheaper.\" Evaluate this argument.",
+      "modelAnswer": "The student's claim is partially correct but analytically incomplete. Maritime trade was indeed cheaper per unit, and the Indian Ocean moved larger volumes. But \"importance\" is not the same as \"volume\" or \"cost efficiency.\" The Silk Roads facilitated transfers of ideas, technologies, and religions that the Indian Ocean did not — gunpowder, papermaking, Buddhism, and eventually Islam all traveled overland before they traveled by sea. The Silk Roads also connected civilizations (China, Persia, Mediterranean) that had almost no maritime alternative in the 1200s–1400s. The better argument is that the two networks were complementary rather than competing — they connected different civilizations, moved different goods, and played different roles in the broader Afro-Eurasian exchange system."
+    },
+    {
+      "question": "How did the trans-Saharan trade network differ from the other two in terms of who controlled it and who profited?",
+      "modelAnswer": "The trans-Saharan network was distinctive in that its most powerful players were not merchants but empire-builders who controlled the territory through which trade passed. The Mali Empire grew wealthy not by producing gold or salt but by taxing every caravan that crossed its territory — a toll-road model that extracted revenue from exchange without requiring participation in it. This was different from the Silk Roads, where the most powerful middlemen were merchant communities (Sogdian, Persian, Arab) who actually handled goods, and from the Indian Ocean, where port cities accumulated wealth through harbor fees and market access. In the trans-Saharan system, political control of territory was itself the commercial asset."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

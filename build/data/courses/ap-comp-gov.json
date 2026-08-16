@@ -3,7 +3,7 @@
   "name": "AP Comparative Government and Politics",
   "shortName": "AP Comparative Gov",
   "isAP": true,
-  "tagline": "43 topics across 5 units \u2014 China, Iran, Mexico, Nigeria, Russia & the UK",
+  "tagline": "43 topics across 5 units — China, Iran, Mexico, Nigeria, Russia & the UK",
   "color": "#4b3f72",
   "assessmentTypes": [
     "mcq",
@@ -226,5 +226,6 @@
       ]
     }
   ],
-  "tipLabel": "AP Tip"
+  "tipLabel": "AP Tip",
+  "icon": "🌐"
 }

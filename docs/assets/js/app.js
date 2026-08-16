@@ -51,6 +51,65 @@
     var firstUnit = document.querySelector(".unit");
     if (firstUnit && !document.querySelector(".unit.open")) firstUnit.classList.add("open");
 
+    /* ---- persistent course sidebar: unit accordion + mobile drawer ---- */
+    document.querySelectorAll(".sidebar-unit-toggle").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        btn.closest(".sidebar-unit").classList.toggle("open");
+      });
+    });
+    var sidebar = document.getElementById("courseSidebar");
+    if (sidebar && !sidebar.querySelector(".sidebar-unit.open")) {
+      var activeUnit = sidebar.querySelector(".sidebar-topic-link.active");
+      var toOpen = activeUnit ? activeUnit.closest(".sidebar-unit") : sidebar.querySelector(".sidebar-unit");
+      if (toOpen) toOpen.classList.add("open");
+    }
+    var sidebarToggle = document.getElementById("sidebarToggle");
+    var sidebarOverlay = document.getElementById("sidebarOverlay");
+    function closeSidebar() {
+      if (sidebar) sidebar.classList.remove("open");
+      if (sidebarOverlay) sidebarOverlay.classList.remove("open");
+      if (sidebarToggle) sidebarToggle.setAttribute("aria-expanded", "false");
+    }
+    if (sidebarToggle && sidebar) {
+      sidebarToggle.addEventListener("click", function () {
+        var open = sidebar.classList.toggle("open");
+        if (sidebarOverlay) sidebarOverlay.classList.toggle("open", open);
+        sidebarToggle.setAttribute("aria-expanded", open ? "true" : "false");
+      });
+    }
+    if (sidebarOverlay) sidebarOverlay.addEventListener("click", closeSidebar);
+
+    /* ---- utility bar: TL;DR / Pre-Test toggle pills, one panel open at a
+       time (matches the reference design's toggleTubPanel behavior) ---- */
+    document.querySelectorAll("[data-util-toggle]").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var key = btn.getAttribute("data-util-toggle");
+        var panel = document.querySelector("[data-util-panel='" + key + "']");
+        if (!panel) return;
+        var wasOpen = !panel.hidden;
+        document.querySelectorAll("[data-util-panel]").forEach(function (p) { p.hidden = true; });
+        document.querySelectorAll("[data-util-toggle]").forEach(function (b) { b.classList.remove("util-pill-active"); });
+        if (!wasOpen) {
+          panel.hidden = false;
+          btn.classList.add("util-pill-active");
+        }
+      });
+    });
+
+    /* ---- practice-group accordions (Multiple Choice / Short Answer /
+       Long Essay / Check Your Understanding) — one colored bar per type,
+       label swaps between "Show" and "Collapse". ---- */
+    document.querySelectorAll(".practice-group-toggle").forEach(function (btn) {
+      var actionLabel = btn.querySelector(".group-action");
+      btn.setAttribute("aria-expanded", "false");
+      btn.addEventListener("click", function () {
+        var item = btn.closest(".practice-group");
+        var open = item.classList.toggle("open");
+        btn.setAttribute("aria-expanded", open ? "true" : "false");
+        if (actionLabel) actionLabel.textContent = open ? "Collapse" : "Show";
+      });
+    });
+
     /* ---- generic expand/collapse (discussion Qs, SAQ/LEQ/essay reveal, etc.) ---- */
     document.querySelectorAll(".expand-toggle").forEach(function (btn) {
       btn.setAttribute("aria-expanded", "false");

@@ -12,15 +12,46 @@
 <body>
 <div class="topbar">
   <div class="topbar-inner">
+    {% if course %}<button class="sidebar-toggle" id="sidebarToggle" type="button" aria-label="Toggle course navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>{% endif %}
     <a class="brand" href="{{ root }}index.html">Meridian<small>Jennifer Thomson, Ph.D.</small></a>
     <div class="topbar-actions">
       {% block topbar_actions %}{% endblock %}
     </div>
   </div>
 </div>
-<main class="container">
+<div class="app-shell">
+{% if course %}
+<nav class="course-sidebar" id="courseSidebar" style="--course-color:{{ course.color }};">
+  <a class="sidebar-course-link" href="{{ root }}courses/{{ course.slug }}/index.html">
+    <span class="sidebar-kicker">{{ 'AP Course' if course.isAP else 'Semester Course' }}</span>
+    <span class="sidebar-course-name">{{ course.shortName }}</span>
+  </a>
+  <ul class="sidebar-units">
+    {% for u in course.units %}
+    <li class="sidebar-unit{{ ' open' if (unit and unit.num == u.num) else '' }}">
+      <button class="sidebar-unit-toggle" type="button">
+        <span class="sidebar-unit-label"><span class="sidebar-unit-num">Unit {{ u.num }}</span>{{ u.title }}</span>
+        <span class="chevron">&#9656;</span>
+      </button>
+      <ul class="sidebar-topics">
+        {% for t in u.topics %}
+        <li><a class="sidebar-topic-link{{ ' active' if (topic and topic.num == t.num) else '' }}{{ ' is-soon' if t.status != 'complete' else '' }}" href="{{ root }}courses/{{ course.slug }}/{{ t.num.replace('.', '-') }}.html">
+          <span class="tnum">{{ t.num }}</span>{{ t.title }}
+        </a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
+<div class="sidebar-overlay" id="sidebarOverlay"></div>
+{% endif %}
+<main class="container{{ ' with-sidebar' if course else '' }}">
 {% block content %}{% endblock %}
 </main>
+</div>
 <footer class="site-footer">
   <p>© 2026 Jennifer Thomson, Ph.D. These readings are authorized commercial course materials prepared for enrolled students and may not be redistributed, republished, or reproduced without permission.</p>
   <p>AP® and College Board® are trademarks registered by the College Board, which is not affiliated with, and does not endorse, this site.</p>

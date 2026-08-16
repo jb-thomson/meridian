@@ -1,0 +1,355 @@
+{
+  "course": "ap-world-history",
+  "num": "5.7",
+  "title": "Economic Developments and Innovations in the Industrial Age",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "Industrial capitalism replaced mercantilism as the dominant economic system, driven by Adam Smith's free-market ideas and the needs of an industrial economy for large-scale investment and global trade."
+    },
+    {
+      "icon": "⚙️",
+      "label": "Innovation",
+      "tooltip": "New financial institutions — stock markets, limited-liability corporations, and transnational banks — made it possible to pool the large amounts of capital that industrial enterprises required."
+    },
+    {
+      "icon": "👥",
+      "label": "Social",
+      "tooltip": "Industrial capitalism increased the availability and affordability of consumer goods, but distributed the gains unevenly — a core tension that drove the reform movements in Topic 5.8."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Industrial capitalism and new financial institutions —** Industrial capitalism required moving large amounts of money efficiently across borders and between investors. Two innovations made this possible: (1) stock markets — allowed many investors to pool capital in a company, sharing risk and return; (2) limited-liability corporations — investors could lose no more than their investment, even if the company failed, which encouraged investment in risky ventures. HSBC (Hong Kong and Shanghai Banking Corporation) and Unilever are the CED's required examples of transnational businesses that operated across multiple countries using these new financial structures. Before industrialization, Western European governments followed mercantilism: the belief that national wealth depended on accumulating gold and silver through a controlled, favorable trade balance. Colonies existed to supply raw materials cheaply and buy finished goods expensively. Adam Smith's *Wealth of Nations* (1776) argued that this was wrong — free markets, specialization, and competition produced more wealth for everyone than government control. Britain adopted free trade policies in the 1840s (Corn Laws repealed 1846), betting that its industrial efficiency would win in open markets. It did. **Consumer goods and rising (uneven) living standards —** Industrial capitalism increased the availability and variety of goods and reduced their cost. A working-class family in 1900 could afford cotton clothing, canned food, cheap dishes, and other manufactured goods that their grandparents could not have bought. This was real improvement. But the distribution of industrial wealth was very uneven — factory owners and investors benefited far more than workers, at least in the early decades. The question of who benefited and who was left behind is the subject of Topic 5.8."
+  ],
+  "learningObjectives": [
+    "Explain the development of economic systems, ideologies, and institutions and how they contributed to change in the period from 1750 to 1900."
+  ],
+  "vocabulary": [
+    {
+      "term": "Mercantilism",
+      "definition": "An economic system in which governments controlled trade to accumulate gold and silver, using colonies as sources of raw materials and markets for finished goods.",
+      "importance": "The dominant economic theory before industrialization; gradually replaced by free-trade capitalism in the 19th century."
+    },
+    {
+      "term": "Laissez-faire Capitalism",
+      "definition": "From French meaning \"let it be\" — the economic theory that markets work best when governments do not interfere. Associated with Adam Smith's Wealth of Nations (1776).",
+      "importance": "The ideological basis for British free-trade policy in the 19th century; argued that government control of markets reduces overall wealth."
+    },
+    {
+      "term": "Free Trade",
+      "definition": "An economic policy removing tariffs, quotas, and other restrictions on imports and exports, allowing goods to flow freely between countries based on price competition.",
+      "importance": "Britain adopted free trade in the 1840s; as the world's most efficient industrial producer, Britain benefited enormously from open markets."
+    },
+    {
+      "term": "Industrial Capitalism",
+      "definition": "An economic system in which private investors own factories and industrial enterprises, employ wage workers, and reinvest profits to expand production.",
+      "importance": "The economic system of the Industrial Revolution; transformed the relationship between producers and workers, and created the class structures of modern industrial society."
+    },
+    {
+      "term": "Stock Market",
+      "definition": "A marketplace where shares of corporations are bought and sold, allowing many investors to pool capital in companies.",
+      "importance": "CED illustrative example; made it possible to raise large amounts of capital for industrial enterprises by spreading investment and risk across many shareholders."
+    },
+    {
+      "term": "Limited-Liability Corporation",
+      "definition": "A legal business structure in which investors cannot lose more than their invested amount, even if the company fails and owes debts.",
+      "importance": "CED illustrative example; dramatically expanded investment by protecting investors from unlimited personal financial exposure, making industrial investment accessible to middle-class savers."
+    },
+    {
+      "term": "HSBC (Hong Kong & Shanghai Banking Corporation)",
+      "definition": "A British bank founded in 1865 to facilitate trade between Europe and Asia, operating across multiple countries and currencies.",
+      "importance": "CED required example of a transnational business that relied on new banking and finance practices to operate across the global industrial trade network."
+    },
+    {
+      "term": "Consumerism",
+      "definition": "An economic and cultural system in which the purchase of goods becomes a central activity of ordinary life, enabled by mass production making goods affordable to working and middle classes.",
+      "importance": "Industrial capitalism increased the variety and affordability of consumer goods; the emergence of consumer culture was a major social change of the late 19th century."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Mercantilism held that nations competed for a fixed amount of global wealth. Adam Smith argued this was wrong. What did Smith say instead, and why did it matter for trade policy?",
+      "answer": "Smith argued that trade creates wealth — it doesn't just redistribute a fixed supply. When two parties trade voluntarily, both gain something they value more than what they gave up. Therefore, the total amount of wealth in the world grows through exchange. If this is true, then government restrictions on trade (tariffs, monopolies, colonial exclusions) reduce total wealth by preventing mutually beneficial exchanges from happening. Free markets — where buyers and sellers transact without interference — produce more wealth for everyone than controlled mercantilist systems. For trade policy, this meant Britain should remove tariffs and let markets determine what it produced and imported."
+    },
+    {
+      "question": "A stock market allows many investors to each buy a small share of a company. How does this financial innovation solve the problem of funding large industrial enterprises?",
+      "answer": "Building a factory, railroad, or industrial enterprise requires large amounts of capital upfront. No single person might have enough — or might not want to risk their entire fortune on one venture. A stock market allows a company to divide itself into thousands of small shares and sell them to many different investors. Each investor contributes a modest amount and owns a proportional share of the company. Together, thousands of small investors provide the large capital sum the company needs. The risk is also divided — if the company fails, each investor loses only their small portion, not their entire wealth. This made it possible to fund enterprises far too large for individual investors to finance alone."
+    },
+    {
+      "question": "What does \"limited liability\" mean, and why would it encourage more people to invest in industrial companies?",
+      "answer": "Limited liability means that if a company goes bankrupt, investors can only lose the money they invested — they are not personally liable for the company's debts beyond that. Before limited liability, investing in a company meant you could be sued for all the company's debts if it failed, potentially losing your house, savings, and everything else. This made most middle-class people unwilling to invest in risky enterprises. With limited liability, the worst case is losing your investment — which people are more willing to risk. This dramatically expanded the pool of potential investors, making it easier for industrial companies to raise capital."
+    },
+    {
+      "question": "The Hong Kong and Shanghai Banking Corporation (HSBC) was founded in 1865 to finance trade between Europe and Asia. Why would a bank that operated across multiple countries be necessary for global industrial trade?",
+      "answer": "Industrial trade operated on a global scale — a British cotton mill might buy raw cotton from India, use British machines to process it, and sell finished cloth in China or Africa. Each transaction crossed multiple currency systems and legal jurisdictions. A bank that only operated in Britain couldn't easily handle a transaction that began in India and ended in Hong Kong. HSBC operated in multiple countries and understood multiple legal and currency systems, allowing it to facilitate the complex multi-country financial transactions that global industrial trade required. It could accept deposits in one country, make loans in another, and handle currency exchange across the whole network — services that purely national banks couldn't provide."
+    },
+    {
+      "question": "Industrial capitalism increased the availability of consumer goods. Why might this benefit not be equally distributed across all parts of society?",
+      "answer": "The benefits of industrial capitalism flowed primarily through two channels: profits (to business owners and investors) and wages (to workers). Business owners and investors received profits proportional to the company's success — potentially large rewards. Workers received wages, which increased somewhat over time but remained modest relative to the wealth being created. Early industrial wages were often barely enough for subsistence. The owners of factories, railroads, and banks accumulated enormous wealth, creating the new industrial capitalist class. Workers could afford more cheap manufactured goods than before, which was a real improvement, but their share of industrial wealth was a fraction of what factory owners accumulated."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "📖 From Mercantilism to Free Trade: A Revolution in Economic Ideas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before the 19th century, most European governments operated on mercantilist principles: the goal of economic policy was to accumulate gold and silver (the basis of national power) by exporting more than you imported. Colonies existed specifically to serve the mother country — supplying raw materials cheaply and buying finished goods without competition. Trade was tightly controlled. Tariffs, monopolies, and colonial restrictions were normal."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1776 — the same year as the American Declaration of Independence — a Scottish economist named Adam Smith published *The Wealth of Nations*, one of the most influential books in the history of economics. Smith attacked mercantilism at its foundations:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Nations don't compete for a fixed amount of wealth — trade creates new wealth through specialization and exchange",
+        "Markets, when left to operate freely, naturally direct resources to their most productive uses through price signals — what Smith called the \"invisible hand\"",
+        "Government interference (tariffs, monopolies, colonial restrictions) reduces efficiency and makes everyone poorer",
+        "The division of labor — workers specializing in specific tasks — vastly increases productivity"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These ideas took time to become policy. Britain's Corn Laws (tariffs protecting domestic grain producers) were not repealed until 1846. But when they were, Britain fully committed to free trade — and its dominant industrial position meant it benefited enormously. The world's most efficient manufacturer in an open-market system sells everywhere; its competitors struggle to survive."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/5-7-0.jpg",
+      "alt": "Adam Smith and the concept of the 'invisible hand' of the market",
+      "caption": "Adam Smith's *Wealth of Nations* (1776) argued that free markets — not government control — produced the most wealth.",
+      "attribution": "His ideas became the intellectual foundation for 19th-century British trade policy (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "funFact",
+      "text": "Adam Smith's \"invisible hand\" appears only three times in all his writings — and never quite in the way it's usually quoted. He used it as a metaphor, not a central concept. But the metaphor stuck: markets, by aggregating millions of individual decisions driven by self-interest, often produce outcomes that serve society better than any planner could design deliberately. This idea — that individual self-interest, operating through free markets, can serve the common good — became the philosophical foundation of modern capitalism."
+    },
+    {
+      "type": "heading",
+      "text": "🏦 New Financial Institutions: Making Industrial Capital Work"
+    },
+    {
+      "type": "paragraph",
+      "text": "Industrial capitalism required large amounts of capital — money to build factories, buy machinery, and pay workers before goods were sold. Traditional banking (lending to merchants and landowners) was not designed for this scale of investment. New financial institutions evolved to meet the need."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Stock markets** allowed companies to divide ownership into many small shares and sell them to the public. A person with a modest amount of savings could buy a few shares of a railroad or manufacturing company, becoming a part-owner and sharing in its profits. Thousands of small investors pooling resources could collectively finance enterprises far too large for any single investor to fund. London's Stock Exchange, formalized in 1801, became the center of global industrial investment."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Limited-liability corporations** were the legal structure that made stock ownership practical. Before limited liability, investing in a business meant being personally responsible for all its debts — if the business failed, creditors could seize your house, your savings, and everything you owned. This kept most middle-class savers from investing in risky industrial ventures. Limited liability (established in Britain by the Companies Act of 1856) changed this: an investor in a limited-liability company could lose their investment, but nothing more. Their house was safe. This dramatically expanded the pool of investors willing to fund industrial enterprises."
+    },
+    {
+      "type": "apTip",
+      "text": "The CED specifically lists stock markets and limited-liability corporations as illustrative examples of the new financial institutions and practices that supported global industrial trade. Know what each one is and why it mattered: stock markets pooled investment capital; limited liability reduced personal risk and encouraged broader participation in industrial investment. These are directly named in the CED and appear on exams."
+    },
+    {
+      "type": "heading",
+      "text": "🌐 Transnational Businesses: HSBC and Unilever"
+    },
+    {
+      "type": "paragraph",
+      "text": "Industrial capitalism was not just a national phenomenon — it was inherently global. Raw materials came from colonies; finished goods went to global markets; capital flowed across borders. Managing this required businesses that operated in multiple countries simultaneously — transnational businesses that the CED specifically names as examples."
+    },
+    {
+      "type": "paragraph",
+      "text": "**HSBC (Hong Kong and Shanghai Banking Corporation)** — Founded in 1865 by a Scotsman in Hong Kong, HSBC was explicitly designed to finance trade between Europe and Asia. It operated in Hong Kong, Shanghai, Bombay, Calcutta, Singapore, and London simultaneously, handling the complex multi-currency, multi-legal-system financial transactions that global trade required. A British textile firm selling cloth in China needed a bank that could accept payment in Chinese currency, convert it, and transfer it to Britain. HSBC did this. It became one of the world's largest banks and still exists today."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Unilever** — A consumer goods company formed by the merger of a British soap manufacturer and a Dutch margarine producer, Unilever operated across Europe and in colonial territories including British West Africa and the Belgian Congo. It sourced raw materials (palm oil from West Africa, coconut oil from Asia) and sold finished consumer products (soap, cooking fats, later food and personal care products) globally. It represented the full chain of industrial capitalism: raw materials from colonies, processing in industrial centers, consumer goods sold globally."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/5-7-1.jpg",
+      "alt": "A busy 19th-century stock exchange floor with brokers trading industrial shares",
+      "caption": "The London Stock Exchange became the world's center of industrial investment — where capital flowed from thousands of investors into railroads, factories, mines, and transnational businesses operating across multiple continents (Google Gemini, 2025), commercially licensed.",
+      "attribution": "The London Stock Exchange became the world's center of industrial investment — where capital flowed from thousands of investors into railroads, factories, mines, and transnational businesses operating across multiple continents (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "funFact",
+      "text": "Unilever's predecessors sourced palm oil from West Africa — where the oil palm is native — for making soap. But the same company also helped create the demand conditions that eventually led to deforestation for palm oil plantations in Southeast Asia in the 20th century. The same vegetable oil that cleaned 19th-century Europeans is still controversial today because of its environmental and labor practices. Industrial capitalism creates supply chains that can span centuries in their consequences, not just continents in their geography."
+    },
+    {
+      "type": "heading",
+      "text": "🛒 Industrial Capitalism and Consumer Goods"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of industrial capitalism's most visible effects was the transformation of consumer life. Before industrialization, most goods were expensive because they were made by hand. A cotton shirt required many hours of skilled labor and cost more than a day's wages for a typical worker. By 1900, machine-made cotton clothing was affordable on a working-class budget."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industrial capitalism drove down the cost of manufactured goods in several ways:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Machines worked faster than human hands, producing more goods per hour",
+        "Division of labor made production more efficient",
+        "Scale economies — the larger the production run, the lower the cost per unit",
+        "Improved transportation (railroads, steamships) reduced the cost of moving raw materials and finished goods"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The result was what historians call a \"consumer revolution\" — for the first time, ordinary working people could afford a modest range of manufactured goods: cotton clothing, iron cookware, mass-produced pottery, and eventually bicycles, sewing machines, and other complex goods. Department stores appeared in major cities, selling a wide variety of goods to middle-class shoppers."
+    },
+    {
+      "type": "paragraph",
+      "text": "But the benefits were distributed very unevenly. Factory owners, investors, and the new industrial middle class accumulated enormous wealth. Industrial workers earned modest wages that improved slowly. And in the non-industrialized world, local manufacturers were often undercut by cheap industrial goods while seeing little of the prosperity that industrial capitalism created for Western workers. The tensions this created are the subject of Topic 5.8."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 5.7",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+5.7",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Capitalism & Socialism",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Capitalism+%26+Socialism",
+      "creator": "Crash Course · 12 min"
+    },
+    {
+      "title": "Unit 5.7",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+Unit+5.7",
+      "creator": "Heimler's History · 7 min"
+    },
+    {
+      "title": "Adam Smith and Free Market Economics",
+      "url": "https://www.youtube.com/results?search_query=YouTube+Adam+Smith+and+Free+Market+Economics",
+      "creator": "YouTube · 8 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "\"The annual labour of every nation is the fund which originally supplies it with all the necessaries and conveniences of life. The greatest improvement in the productive powers of labour, and the greater part of the skill, dexterity, and judgment with which it is directed or applied, seem to have been the effects of the division of labour.\" — Adam Smith, *The Wealth of Nations*, 1776",
+      "question": "Smith's argument most directly challenged which of the following established economic practices of the 18th century?",
+      "options": [
+        "A) The practice of guilds restricting craftspeople to making complete products by hand",
+        "B) The practice of paying skilled workers more than unskilled workers",
+        "C) The tendency of governments to invest in infrastructure to support commerce",
+        "D) The mercantilist policy of using colonial restrictions and tariffs to control trade"
+      ],
+      "correctIndex": 3,
+      "explanation": "Smith's argument that the division of labor and free markets produce wealth more efficiently than controlled systems directly challenged mercantilism — the dominant practice of using tariffs, colonial monopolies, and government controls to manage trade. Smith argued that government interference in markets reduces efficiency and wealth; mercantilism was based on the opposite assumption."
+    },
+    {
+      "stimulus": "The British Companies Act of 1856 established limited liability for shareholders of registered companies. A parliamentary debate preceding the act included the argument: \"If we want to encourage investment in the new industries, we must protect the small investor from the risk of unlimited ruin. The factory owner should not be made to fear for his home merely because he chose to invest in a railroad.\"",
+      "question": "The argument in the passage most directly supports the conclusion that limited-liability corporations",
+      "options": [
+        "A) transferred the financial risk of industrial investment from investors to the government",
+        "B) allowed corporations to avoid paying their debts by limiting what creditors could claim",
+        "C) encouraged broader participation in industrial investment by protecting investors from losing more than their invested amount",
+        "D) were primarily designed to benefit wealthy factory owners rather than small investors"
+      ],
+      "correctIndex": 2,
+      "explanation": "The quoted argument explicitly states the purpose: protecting investors from \"unlimited ruin\" so they would invest in new industries. By limiting investor liability to their invested amount, limited-liability corporations made industrial investment accessible to people with modest savings who could not afford to risk their entire financial security — expanding the capital available for industrial development."
+    },
+    {
+      "stimulus": "HSBC (the Hong Kong and Shanghai Banking Corporation) was founded in Hong Kong in 1865 by Thomas Sutherland, a Scottish shipping agent. It opened offices in Shanghai, Calcutta, Bombay, Singapore, Yokohama, and London within its first few years of operation, financing trade shipments across Asia and between Asia and Europe.",
+      "question": "The founding and rapid expansion of HSBC most directly illustrates which of the following?",
+      "options": [
+        "A) The British government's policy of subsidizing banks that operated in colonial territories",
+        "B) The development of transnational financial institutions to support the complex global trade networks of industrial capitalism",
+        "C) The replacement of Asian banking systems by British financial institutions in colonial territories",
+        "D) The practice of using banking institutions to enforce political control over colonial populations"
+      ],
+      "correctIndex": 1,
+      "explanation": "HSBC's immediate multi-country expansion reflects the need for financial institutions that could operate across multiple currencies, legal systems, and time zones to support global industrial trade. A purely British bank couldn't easily finance a transaction that involved a British exporter, a Hong Kong port, and a Chinese merchant — HSBC's transnational structure solved this problem."
+    },
+    {
+      "stimulus": "Between 1850 and 1900, the real wages of British industrial workers (wages adjusted for the cost of living) approximately doubled, while the profits of British industrialists increased by a factor of 10 or more. In the same period, consumer goods — including cotton clothing, ironware, and food — became significantly cheaper and more widely available.",
+      "question": "The data in the passage best supports which of the following conclusions about industrial capitalism in Britain?",
+      "options": [
+        "A) Industrial capitalism improved material living standards for workers while distributing its economic gains very unevenly",
+        "B) Industrial capitalism produced broadly equal benefits for workers and investors",
+        "C) The primary beneficiaries of industrial capitalism were workers rather than investors",
+        "D) Industrial capitalism reduced the cost of consumer goods but at the expense of declining wages for workers"
+      ],
+      "correctIndex": 0,
+      "explanation": "The data shows both improvement (real wages doubled, goods became cheaper) and inequality (industrial profits grew 10x faster than wages). Both are true simultaneously. Workers were materially better off than their grandparents; investors were dramatically richer than the workers. Industrial capitalism created more wealth overall but concentrated most of it at the top — the defining tension that drives Topics 5.8 and 5.9."
+    },
+    {
+      "stimulus": "The repeal of Britain's Corn Laws in 1846 removed tariffs on imported grain. Supporters argued it would lower food prices for British workers and open international markets to British manufactured goods. Opponents argued it would destroy British agriculture by exposing farmers to cheap foreign competition.",
+      "question": "The repeal of the Corn Laws most directly reflects which broader economic development of the period?",
+      "options": [
+        "A) The decline of Britain's agricultural sector as a political force compared to industrial manufacturing interests",
+        "B) The government's response to working-class demands for lower food prices through political reform",
+        "C) Britain's shift from mercantilist trade controls toward free-trade policies based on laissez-faire economic principles",
+        "D) The adoption of Adam Smith's principle that agricultural specialization produced more wealth than manufacturing"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Corn Laws were a classic mercantilist protection for domestic agricultural producers. Their repeal in 1846 was Britain's definitive adoption of free-trade policy — removing barriers to allow markets to operate freely. This reflected the influence of Adam Smith's laissez-faire economics and the political influence of industrial manufacturers who wanted cheaper inputs and open foreign markets for their goods."
+    }
+  ],
+  "saq": {
+    "context": "\"Western European countries began abandoning mercantilism and adopting free trade policies, partly in response to the growing acceptance of Adam Smith's theories of laissez-faire capitalism and free markets. The global nature of trade and production contributed to the proliferation of large-scale transnational businesses that relied on new practices in banking and finance.\" — AP World History CED, Unit 5",
+    "directions": "Answer all three parts (A, B, C).",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Identify ONE key argument Adam Smith made in *The Wealth of Nations* that challenged mercantilist economic practices.",
+        "sampleAnswer": "**Sample answer:** Adam Smith argued that free trade — not government control — produced the most national wealth. Mercantilism assumed that national wealth depended on accumulating gold by controlling trade and maintaining a positive trade balance. Smith argued that this was wrong: both parties to a voluntary trade gain from the exchange, so trade creates wealth rather than redistributing a fixed supply. Governments that restricted imports with tariffs and monopolies were therefore reducing the total wealth of their economies, not protecting it. This directly challenged the mercantilist justification for colonial trade restrictions and protective tariffs."
+      },
+      {
+        "label": "Part B",
+        "task": "Explain ONE way new financial institutions or practices supported the growth of industrial capitalism in the period 1750–1900.",
+        "sampleAnswer": "**Sample answer:** Stock markets supported industrial capitalism by enabling companies to raise large amounts of capital from many small investors simultaneously. Industrial enterprises — railroads, factory complexes, mining operations — required more upfront capital than any single investor or small group typically possessed. By selling shares on a stock exchange, a railroad company could raise the necessary millions from thousands of investors, each contributing a modest amount proportional to their means. Each investor became a part-owner, entitled to a share of profits, while the company obtained the large capital sum needed for construction. This innovation democratized investment (making it accessible to middle-class savers, not just wealthy merchants) while solving the fundamental capital problem of industrial enterprise."
+      },
+      {
+        "label": "Part C",
+        "task": "Explain ONE way industrial capitalism contributed to both improved living standards and increased economic inequality in the period 1750–1900.",
+        "sampleAnswer": "**Sample answer:** Industrial capitalism improved living standards by dramatically reducing the cost of consumer goods through machine production and economies of scale — cotton clothing, ironware, and mass-produced pottery that had been too expensive for working-class families became affordable by the late 19th century. At the same time, industrial capitalism concentrated wealth at the top: factory owners and investors received profits that grew far faster than the wages of workers, creating enormous fortunes for a small industrial capitalist class while the majority of workers earned modest wages. In Britain between 1850 and 1900, real wages for workers roughly doubled while industrial profits grew by a factor of 10 or more — the same system that made goods cheaper for workers made a small class of industrialists extraordinarily wealthy, increasing inequality even as it increased material standards for the working class."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Evidence for Body Paragraph 1 — Ideological change",
+        "text": "Adam Smith's *Wealth of Nations* (1776) provided intellectual basis for free-market capitalism; Britain repealed Corn Laws (1846), adopting free trade as national policy; Mercantilism replaced by laissez-faire framework across Western Europe by mid-19th century; Free trade opened global markets to British industrial goods, restructuring global commerce"
+      },
+      {
+        "label": "Evidence for Body Paragraph 2 — Institutional change",
+        "text": "Stock markets (London Stock Exchange, formalized 1801) pooled capital from many investors; Limited-liability corporations (Companies Act 1856) expanded investment pool to middle class; HSBC (1865) exemplified transnational banking enabling complex global trade finance; Unilever exemplified transnational production sourcing raw materials globally and selling consumer goods worldwide"
+      }
+    ],
+    "prompt": "\"Evaluate the extent to which new economic ideologies and institutions caused change in the period 1750–1900.\"",
+    "note": "Write a thesis before revealing. A strong thesis restates the verb phrase, adds a quantifier, and ends with *because [A] and [B]*.",
+    "thesisExample": "\"New economic ideologies and institutions caused change to a great extent in the period 1750–1900 because laissez-faire capitalism and free-trade policy replaced mercantilism as the dominant economic framework of European states, and because new financial institutions — stock markets, limited-liability corporations, and transnational banks — made it possible to mobilize the capital that industrial production required at global scale.\""
+  },
+  "discussionQuestions": [
+    {
+      "question": "What was mercantilism, and how did Adam Smith's ideas challenge it?",
+      "modelAnswer": "Mercantilism held that national wealth was finite and that nations competed to accumulate gold and silver by exporting more than they imported — a \"zero-sum\" view of trade. To maximize exports, governments controlled trade heavily: colonies were forced to buy only from the mother country; protective tariffs discouraged imports; monopolies controlled key commodities. Adam Smith challenged this by arguing that trade was not zero-sum — both parties to a voluntary exchange benefit, creating new wealth. Free markets, by allowing specialization and competition, produce more total wealth than any government planner could achieve through control. If Britain was the most efficient producer of cloth, it should specialize in cloth; if Portugal was best at wine, it should specialize in wine; both would be wealthier through free trade than if each tried to produce everything."
+    },
+    {
+      "question": "How did stock markets and limited-liability corporations solve the capital problem of industrial investment?",
+      "modelAnswer": "Industrial enterprises required large amounts of capital upfront — far more than any individual investor typically possessed. Stock markets solved this by dividing company ownership into many small shares that could be sold to a large number of investors, each contributing a modest amount. Together, these small investors provided the large capital sum the company needed. Limited-liability corporations solved the risk problem that prevented many middle-class people from investing: before limited liability, an investor in a failed company could lose everything — home, savings, all assets — to pay company debts. With limited liability, the maximum loss was the investment itself. This made industrial investment accessible to a much larger pool of capital, dramatically increasing the funds available for industrial development."
+    },
+    {
+      "question": "What were transnational businesses, and how did HSBC and Unilever exemplify them?",
+      "modelAnswer": "Transnational businesses operated across multiple countries — not just exporting goods from one country but actually running operations in multiple countries simultaneously. HSBC exemplified this by operating banks in Hong Kong, Shanghai, India, Singapore, and London at the same time, handling the complex financial transactions of global trade in multiple currencies and legal systems. Unilever exemplified it by sourcing raw materials in Africa and Asia, processing them in Europe, and selling consumer products globally. Both were characteristic of industrial capitalism's global nature: raw materials came from everywhere, production happened where costs were lowest, and markets were worldwide."
+    },
+    {
+      "question": "How did industrial capitalism change everyday life for ordinary consumers in industrialized countries?",
+      "modelAnswer": "Industrial capitalism dramatically reduced the cost and increased the availability of manufactured goods. Before industrialization, a cotton shirt was expensive — hand-made, it required many hours of skilled labor. By the late 19th century, machine-made cotton clothing was affordable for working-class families. Department stores emerged in major cities selling a wide variety of consumer goods to the growing middle class. Food became more affordable as agricultural improvements and better transportation reduced costs. By 1900, working-class families in industrialized countries had access to material goods — clothing, ironware, pottery, cheap furniture — that would have been luxuries for their grandparents. This was a genuine improvement in material life, though it was distributed very unevenly compared to the wealth accumulating at the top of the industrial economy."
+    },
+    {
+      "question": "Britain promoted free trade in the 19th century while the United States and Germany used protective tariffs. What does this difference reveal about who benefits from free trade?",
+      "modelAnswer": "Free trade benefits whoever is the most efficient producer — because in an open market, the most efficient producer wins. In the 19th century, Britain was the world's most efficient industrial producer. An open global market allowed British goods to compete everywhere without barriers — which meant British goods won in almost every market they entered. For countries trying to develop their own industries (Germany, the United States), free trade was a threat: their developing factories would be undercut by cheaper, more efficient British goods before they had time to become competitive. Protective tariffs gave developing industries time to improve. Britain's advocacy of free trade was not purely altruistic — it was in Britain's specific economic interest as the established industrial leader. The US and Germany used tariffs until they were competitive enough not to need them."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

@@ -1,0 +1,312 @@
+{
+  "course": "ap-world-history",
+  "num": "7.6",
+  "title": "Causes of World War II",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "⚔️",
+      "label": "Fascism",
+      "tooltip": "Fascist movements in Italy, Germany, and Japan offered a radical nationalist alternative to liberal democracy and communism — promising national revival through authoritarian leadership, military expansion, and ethnic purity."
+    },
+    {
+      "icon": "🏛️",
+      "label": "Political Crisis",
+      "tooltip": "The Depression discredited liberal democracy in many countries — voters turned to fascist or communist parties that promised decisive action, setting the stage for authoritarian regimes across Europe and Asia."
+    },
+    {
+      "icon": "💰",
+      "label": "Economic Depression",
+      "tooltip": "Mass unemployment and economic humiliation created the political conditions for fascism — Hitler won votes by promising to end unemployment, restore German pride, and overturn Versailles."
+    },
+    {
+      "icon": "🌍",
+      "label": "Imperialism",
+      "tooltip": "Japan's imperial expansion in China (1931–37), Italy's invasion of Ethiopia (1935), and Germany's annexation of Austria and Czechoslovakia (1938) were all enabled by Western appeasement until it was too late."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Four causes of WWII (required by the AP CED) —** (1) **Unsustainable Versailles settlement** — created German resentment and destabilized European security; (2) **Global economic crisis (Great Depression)** — mass unemployment made populations receptive to extremist promises; (3) **Continued imperialist aspirations** — Germany demanded lebensraum (\"living space\"), Japan expanded in Asia; (4) **Rise of fascist and totalitarian regimes** — especially Nazi Germany under Hitler, whose aggressive militarism was the immediate cause of war. **Hitler's rise: Depression + Versailles resentment = political opportunity —** The Nazi Party (NSDAP) won 2.6% of the vote in 1928 when Germany was relatively stable. After the Depression hit (1929), it won 37% in July 1932. Hitler promised to tear up the \"humiliation\" of Versailles, restore German greatness, and provide economic recovery. He became chancellor in January 1933, then consolidated dictatorial power by year's end. **Appeasement: the policy that failed —** Britain and France responded to Hitler's escalating demands with appeasement — making concessions to avoid war. The Munich Agreement (September 1938) gave Hitler the Sudetenland (Czechoslovakia's German-speaking border region) in exchange for a promise of no further territorial demands. Hitler broke the promise within six months. Appeasement failed because it was predicated on Hitler being a normal nationalist seeking limited territorial adjustments — he wasn't. **War begins: Poland, September 1939 —** After annexing Austria (March 1938) and Czechoslovakia (March 1939), Hitler demanded the Polish Corridor. On September 1, 1939, Germany invaded Poland. Britain and France, having finally abandoned appeasement, declared war on Germany two days later. WWII had begun."
+  ],
+  "learningObjectives": [
+    "Explain the causes and consequences of World War II — including the unsustainable Versailles settlement, the Great Depression, continued imperialist aspirations, and the rise of fascist/totalitarian regimes especially Nazi Germany under Hitler"
+  ],
+  "vocabulary": [
+    {
+      "term": "Fascism",
+      "definition": "Ultra-nationalist authoritarian ideology emphasizing national rebirth, state power, anti-communism, racial hierarchy, and the glorification of violence and war.",
+      "importance": "Emerged in Italy (Mussolini, 1922) and Germany (Hitler, 1933); provided the ideological foundation for WWII's most destructive regime."
+    },
+    {
+      "term": "National Socialism (Nazism)",
+      "definition": "Hitler's specific form of fascism combining extreme German nationalism, antisemitism (hatred of Jews as a supposed racial enemy), and belief in German racial superiority and need for \"living space\" in Eastern Europe.",
+      "importance": "The ideology behind Nazi Germany, the Holocaust, and WWII in Europe."
+    },
+    {
+      "term": "Weimar Republic",
+      "definition": "Germany's democratic government established after WWI (1919–1933), burdened from birth by Versailles obligations and undermined by economic crises.",
+      "importance": "Hitler's rise to power occurred within and destroyed the Weimar Republic; its failure demonstrates how economic crisis and political dysfunction can destroy democratic institutions."
+    },
+    {
+      "term": "Lebensraum",
+      "definition": "\"Living space\" — Hitler's term for German racial need to conquer Eastern Europe for agricultural land and resources, displacing or exterminating Slavic populations.",
+      "importance": "Core of Nazi ideological expansionism; explains Hitler's strategic priorities: conquest of Poland, Ukraine, and Russia specifically."
+    },
+    {
+      "term": "Appeasement",
+      "definition": "British and French policy of making territorial concessions to Hitler to avoid war; most associated with the Munich Agreement (1938).",
+      "importance": "Failed because it was based on miscalculating Hitler's goals as limited; emboldened further aggression; became a historical byword for the failure of diplomacy with totalitarian aggressors."
+    },
+    {
+      "term": "Munich Agreement (1938)",
+      "definition": "Agreement in which Britain and France allowed Germany to annex the Sudetenland (Czechoslovakia's German-speaking region) in exchange for Hitler's promise of no further territorial demands.",
+      "importance": "Hitler violated the agreement within six months; Chamberlain's \"peace for our time\" claim is now one of history's most famous diplomatic failures."
+    },
+    {
+      "term": "Anschluss (1938)",
+      "definition": "The annexation of Austria by Nazi Germany in March 1938, uniting the two German-speaking states despite being explicitly prohibited by the Versailles Treaty.",
+      "importance": "First of Hitler's major territorial expansions; met with no military resistance from Britain and France; demonstrated that appeasement would not stop Hitler."
+    },
+    {
+      "term": "Totalitarianism",
+      "definition": "A form of government that seeks to control all aspects of public and private life, using a single-party state, ideology, propaganda, and terror to eliminate opposition.",
+      "importance": "Both Nazi Germany and the Soviet Union were totalitarian states; the AP exam asks you to compare their methods of conducting WWII (Topic 7.7)."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "The AP CED identifies the Great Depression as a cause of WWII. How does an economic crisis lead to a world war?",
+      "answer": "The connection runs through politics: the Great Depression created mass suffering (unemployment reaching 25–30% in Germany and the U.S.) that delegitimized existing governments and made populations receptive to radical alternatives. In Germany, the Weimar Republic — already weakened by postwar humiliation and hyperinflation — collapsed under the Depression's pressure. The Nazi Party, which had won only 2.6% of the vote in 1928, won 37% in 1932 as desperate voters sought a radical solution. Hitler's rise to power — made possible by Depression conditions — then drove the aggressive militarism that caused WWII. The Depression also weakened Britain and France's will and capacity to resist Hitler's early moves (they were focused on economic recovery), enabling appeasement. And in Asia, Japan's Depression-hit military and nationalist politicians used the economic crisis as justification for conquering resource-rich Manchuria and China. Economic crisis → political radicalization → fascist governments → aggressive militarism → war."
+    },
+    {
+      "question": "Britain and France chose appeasement over confrontation when Hitler first violated the Versailles settlement (rearmament, Rhineland, Austria). Were they being cowardly, or was appeasement a reasonable policy given what they knew at the time?",
+      "answer": "Appeasement was more reasonable than it appears in hindsight, given what British and French leaders knew (or believed) at the time. They faced genuine uncertainty about Hitler's goals — was he a revisionist nationalist seeking to correct Versailles injustices (which some regarded as legitimate), or was he an expansionist ideologue seeking unlimited conquest? Chamberlain genuinely believed Hitler would be satisfied with limited territorial adjustments. They also had real military constraints: British rearmament had begun but was not complete; the British public was strongly anti-war (WWI's memory was still raw); France feared another devastating war on its soil. It is also true that some of Hitler's early demands — the Rhineland (German territory), Austrian Anschluss (Germans joining Germany), Sudetenland (Germans who wanted to join Germany) — had superficial legitimacy as self-determination claims. The problem: appeasement was based on a fundamental misreading of Hitler as a normal nationalist leader. Hitler's ideology (Mein Kampf, written 1924) was explicit about unlimited expansionism and racial war. The failure of appeasement is ultimately a failure of information: British and French leaders did not take Hitler's stated ideology seriously."
+    },
+    {
+      "question": "Fascism emerged in Italy before Germany — Mussolini took power in 1922, eleven years before Hitler. What conditions produced fascism's appeal in the interwar period?",
+      "answer": "Fascism appealed in the interwar period because it offered solutions to specific problems that liberal democracy and communism failed to address satisfactorily. The conditions that produced fascist appeal: (1) fear of communist revolution — middle-class property owners, industrialists, and the military feared Bolshevik-style revolution; fascism offered a violent anti-communist movement. (2) Wounded national pride — Italy despite being on the winning side felt cheated at Versailles (\"mutilated victory\"); Germany felt humiliated by war guilt and reparations. Fascism promised national restoration. (3) Economic dislocation — inflation, unemployment, and economic uncertainty made radical solutions attractive to desperate people. (4) Failure of liberal democratic institutions — Weimar Germany's parliamentary system produced constant coalition crises; Italy's government was perceived as incapable of addressing problems. (5) Glorification of violence and youth — fascist aesthetics (mass rallies, uniforms, military pageantry) appealed to young men who found liberal politics boring and bureaucratic. Fascism was not simply about economic grievances; it was also an emotional, aesthetic, and political response to modernization's dislocations."
+    },
+    {
+      "question": "Hitler wrote in Mein Kampf (1924) about his plans for German expansion into Eastern Europe and the elimination of Jews. Why did European leaders not take these stated goals seriously?",
+      "answer": "Several factors explain why European leaders dismissed Hitler's stated goals. First, Mein Kampf was poorly written, repetitive, and often seemed like the ravings of a minor political figure — when it was published, Hitler was a failed coup leader in prison, not a serious political threat. Second, politicians routinely say things in opposition or extreme positions that they then moderate in power; European leaders assumed Hitler was doing the same — that his anti-Semitic rhetoric and expansionist claims were electoral exaggerations. Third, the diplomatic interactions with Hitler in the early years seemed manageable — he made specific demands, received concessions, and signed agreements. The pattern looked like normal nationalist politics, not unlimited expansionism. Fourth, the Holocaust was psychologically almost impossible to predict precisely because nothing like it had ever been done before — genocide as systematic state policy at industrial scale was genuinely novel. The failure to take Hitler's stated goals seriously is partly a failure of historical imagination: leaders couldn't conceive that a political figure would actually implement what he had written, because no one had done so at that scale before."
+    },
+    {
+      "question": "The AP CED specifically identifies \"aggressive militarism of Nazi Germany under Adolf Hitler\" as a cause of WWII. Why is Hitler specifically identified rather than just \"fascism\" or \"totalitarianism\"?",
+      "answer": "Hitler is specifically identified because his personal role in causing WWII was unusually direct and significant. Fascist Italy under Mussolini was aggressive (Ethiopia, 1935; Albania, 1939) but did not initiate world war. The Soviet Union under Stalin was totalitarian and responsible for massive atrocities but did not initiate WWII. Japan's aggression in Asia was a parallel track but a separate war (Second Sino-Japanese War). WWII in Europe was specifically Hitler's war: he set the timetable, made the strategic decisions, overrode military advisors who urged caution, and pursued a war ideology grounded in racial expansionism that required military conquest of Eastern Europe and the elimination of European Jews. The European war was not an inevitable product of fascism as a generic ideology — it required Hitler's specific combination of ideology, political skill, and willingness to risk war at the specific moment when German rearmament gave him military capacity. Other fascist leaders in the same circumstances (Mussolini was much more cautious) might not have triggered WWII."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🌍 The Road to World War II: Four Causes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The AP CED identifies four specific causes of World War II: the unsustainable Versailles peace settlement, the global economic crisis of the Great Depression, continued imperialist aspirations, and the rise of fascist and totalitarian regimes — \"especially the aggressive militarism of Nazi Germany under Adolf Hitler.\" Unlike WWI, where causation is somewhat diffuse, WWII in Europe has a more direct causal chain: all four factors fed into Hitler's rise to power and his willingness to risk a world war to achieve his ideological goals."
+    },
+    {
+      "type": "paragraph",
+      "text": "These causes are interconnected: Versailles created German resentment that fascist nationalism exploited; the Depression created economic desperation that gave fascist parties mass electoral support; imperialist competition created a strategic environment in which expansion seemed both necessary and achievable. Understanding WWII requires understanding all four causes as a system, not a list."
+    },
+    {
+      "type": "heading",
+      "text": "📜 Cause 1: The Unsustainable Versailles Settlement"
+    },
+    {
+      "type": "paragraph",
+      "text": "As discussed in Topic 7.5, the **Treaty of Versailles** (1919) imposed war guilt, massive reparations, and territorial losses on Germany that most Germans regarded as unjust. The crucial phrase in the CED is \"unsustainable\" — the settlement was not just harsh but structurally unstable. It created grievances without breaking Germany's capacity to seek revenge."
+    },
+    {
+      "type": "paragraph",
+      "text": "German political culture in the 1920s was saturated with resentment of Versailles. The \"stab-in-the-back\" myth — the false claim that Germany hadn't really lost WWI militarily but had been \"stabbed in the back\" by socialists and Jews on the home front — provided a politically potent narrative of victimhood. The Weimar Republic, which had signed Versailles, was permanently associated with national humiliation. Hitler's central political promise was to tear up the treaty and restore German greatness — a promise with mass appeal precisely because of Versailles."
+    },
+    {
+      "type": "heading",
+      "text": "📉 Cause 2: The Great Depression"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Great Depression was the Great Depression's political consequences are as important as its economic ones. When unemployment hit 30% in Germany by 1932 — on top of the humiliation of Versailles, the trauma of WWI, and previous economic instability (hyperinflation had wiped out middle-class savings in 1923) — the Weimar Republic's fragile democratic institutions could not survive."
+    },
+    {
+      "type": "paragraph",
+      "text": "The numbers tell the story. In 1928, the **Nazi Party (NSDAP)** won 2.6% of the vote in Germany. In 1930, after the Depression struck, they won 18.3%. In July 1932, at the Depression's depth, they won 37.4% — the largest share of any party. Hitler was appointed Chancellor in January 1933. Within a year, through the Enabling Act and suppression of opposition, he had established a dictatorship. The Depression didn't make Nazism inevitable, but it provided the mass desperation that made Hitler's promises of national restoration, economic recovery, and restored greatness compelling to enough Germans to bring him to power."
+    },
+    {
+      "type": "funFact",
+      "text": "In 1923, Germany experienced one of the worst hyperinflations in history. At its peak, a U.S. dollar was worth 4.2 trillion German marks. People carried wheelbarrows full of banknotes to buy bread. Workers were paid twice a day because by the afternoon the money was worth less than it was in the morning. Middle-class people who had saved their entire lives found their savings literally worthless overnight. This trauma — a decade before Hitler came to power — created a German middle class deeply suspicious of the Weimar Republic's ability to manage the economy. When the Depression hit in 1929 and the Republic again seemed unable to cope, many of those same people turned to Hitler's promises of strong government and economic order."
+    },
+    {
+      "type": "heading",
+      "text": "🌐 Cause 3: Continued Imperialist Aspirations"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CED explicitly identifies \"continued imperialist aspirations\" as a cause of WWII — in both European and Asian theaters. Nazi ideology centered on the concept of **Lebensraum** (\"living space\"): the belief that the German people needed to conquer agricultural land in Eastern Europe (primarily Ukraine and Poland) to secure German racial survival. This was imperialism with an explicitly racial and exterminating dimension: Slavic peoples in conquered territories were to be enslaved, deported, or killed, and the land resettled with German farmers."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Asia, Japan's continued imperialist expansion — begun in Manchuria (1931) and expanded into China (1937) — was driven by the same logic of resource acquisition and racial hierarchy that characterized German imperialism. Japan believed it needed raw materials (oil, rubber, iron ore) that it lacked domestically; Southeast Asia, under Western colonial control, had them. Japan's \"Co-Prosperity Sphere\" ideology justified conquest as liberation from Western imperialism while pursuing Japanese imperial control."
+    },
+    {
+      "type": "heading",
+      "text": "⚡ Cause 4: Rise of Fascist and Totalitarian Regimes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CED identifies this as the most direct cause: fascist and totalitarian regimes' aggressive militarism — \"especially the aggressive militarism of Nazi Germany under Adolf Hitler\" — was the immediate cause of WWII. Understanding Hitler's rise requires understanding both the structural conditions (Versailles, Depression) and the specific character of Nazi ideology."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hitler rose to power through democratic means — the Nazi Party won elections — but immediately dismantled democracy. The **Reichstag Fire** (February 1933, probably set by a lone communist, but used by the Nazis as a pretext for emergency powers) and the **Enabling Act** (March 1933, passed by a Reichstag intimidated by Nazi stormtroopers) gave Hitler dictatorial authority. Within months, all other political parties were banned, trade unions dissolved, the press controlled, and political opponents imprisoned in concentration camps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hitler then systematically dismantled the Versailles restrictions. He reintroduced conscription (1935), remilitarized the Rhineland (1936), and — to French and British inaction — learned that appeasement would allow him to proceed. The pattern of escalating demands and Western concession reached its climax at Munich (1938)."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/7-6-0.jpg",
+      "alt": "Timeline showing the causal chain from Versailles to the Great Depression to Hitler's rise and WWII",
+      "caption": "The road to WWII: Versailles humiliation + Depression desperation + fascist ideology + Western appeasement = Hitler's unchecked expansion until September 1939.",
+      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "heading",
+      "text": "☂️ Appeasement: The Policy That Failed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Britain and France's response to Hitler's escalating violations of Versailles was **appeasement** — making concessions to avoid war. The policy's most controversial moment was the **Munich Agreement** (September 1938). Hitler demanded the Sudetenland — Czechoslovakia's German-speaking border region. Britain and France pressured Czechoslovakia to surrender it, without Czech participation in the negotiations. British Prime Minister Neville Chamberlain returned from Munich waving the agreement and declaring it represented \"peace for our time.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Six months later, in March 1939, Hitler seized the rest of Czechoslovakia — in direct violation of the Munich agreement's explicit terms. Britain and France finally abandoned appeasement. When Hitler invaded Poland on September 1, 1939, they declared war. WWII had begun."
+    },
+    {
+      "type": "apTip",
+      "text": "The AP CED requires you to know the four causes of WWII as a connected system: Versailles → resentment → Nazi appeal; Depression → desperation → Nazi electoral victory; imperialist aspirations → Lebensraum ideology → territorial aggression; fascist/totalitarian regimes → Hitler's aggressive militarism → war. The Munich Agreement is the critical moment that illustrates appeasement's failure. Know: what it was, who agreed to it, what Hitler promised, and that he violated it within six months."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 7.6",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+7.6",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "The Rise of Hitler",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+The+Rise+of+Hitler",
+      "creator": "Crash Course · 12 min"
+    },
+    {
+      "title": "Causes of WWII",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+Causes+of+WWII",
+      "creator": "Heimler's History · 7 min"
+    },
+    {
+      "title": "Appeasement and the Road to WWII",
+      "url": "https://www.youtube.com/results?search_query=Tom+Richey+Appeasement+and+the+Road+to+WWII",
+      "creator": "Tom Richey · 10 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": null,
+      "question": "The Nazi Party's electoral support grew dramatically in Germany between 1928 (2.6% of the vote) and 1932 (37.4%). This change is best explained by",
+      "options": [
+        "Nazi military takeover of German electoral institutions beginning in 1930",
+        "the Great Depression creating mass unemployment and economic desperation that made Hitler's promises of national restoration and economic recovery appealing",
+        "Germany's defeat in the Russo-German border conflicts of 1929–1930",
+        "the death of Hindenburg in 1930, which removed the main barrier to Nazi electoral success"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Nazi Party's dramatic electoral growth coincides precisely with the Great Depression's impact on Germany. Unemployment reached 30% by 1932; the Weimar Republic's economic management was seen as a failure; Hitler's combination of national restoration promises and anti-communist appeal attracted desperate middle-class voters and working-class supporters abandoned by traditional parties. The Depression was the mechanism that converted a fringe movement into a mass one."
+    },
+    {
+      "stimulus": null,
+      "question": "The Munich Agreement (1938) failed to prevent World War II primarily because",
+      "options": [
+        "Germany invaded the Sudetenland before the agreement could be signed",
+        "Britain and France did not consult their military advisors before agreeing to German demands",
+        "it was based on a fundamental misreading of Hitler's goals as limited territorial adjustments rather than unlimited expansionism",
+        "the Soviet Union refused to accept the settlement, beginning a separate war with Germany"
+      ],
+      "correctIndex": 2,
+      "explanation": "The fundamental failure of Munich was a misreading of Hitler's nature and goals. Chamberlain assumed Hitler was a nationalist leader who would be satisfied with limited territorial adjustments (the Sudetenland's German-speaking population). In reality, Hitler's ideology (Lebensraum, racial war) required unlimited expansion; the Sudetenland was a means to weaken Czechoslovakia for total annexation, not an end goal. Hitler violated the agreement within six months, revealing the appeasement strategy's fatal flaw."
+    },
+    {
+      "stimulus": null,
+      "question": "According to the AP CED, \"continued imperialist aspirations\" was a cause of WWII. This is most directly illustrated by",
+      "options": [
+        "Nazi Germany's Lebensraum ideology requiring conquest of Eastern European agricultural land and Japan's expansion in Asia for resources",
+        "Britain and France's decision to impose the mandate system on former German colonies",
+        "Germany's demand that Austria hold a plebiscite on reunification",
+        "the Soviet Union's territorial demands from Finland and the Baltic states in 1939–1940"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lebensraum (Germany's stated need to conquer \"living space\" in Eastern Europe) and Japan's expansion in Asia for raw materials are the clearest examples of imperialist aspirations driving WWII. Both were explicitly about territorial conquest for resources and racial/national expansion — the same logic that drove 19th-century imperialism, now applied with 20th-century industrial weapons."
+    },
+    {
+      "stimulus": null,
+      "question": "Hitler was appointed German chancellor through legal means in January 1933, yet within a year had established a dictatorship. This transition is best explained by",
+      "options": [
+        "a military coup that replaced the Reichstag with Nazi stormtroopers",
+        "a popular referendum in which 90% of Germans voted to abolish the Weimar Republic",
+        "the assassination of Hindenburg, which removed the last constitutional check on Hitler's power",
+        "the Enabling Act, which gave Hitler emergency powers, combined with suppression of all opposition parties"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Reichstag Fire (February 1933) was used as pretext for emergency decrees; the Enabling Act (March 1933) was passed by an intimidated Reichstag and gave Hitler the power to govern by decree without parliamentary approval. Then all opposition parties were banned, trade unions dissolved, press controlled, and political opponents imprisoned. The legal mechanisms of democracy were used to eliminate democracy itself."
+    },
+    {
+      "stimulus": null,
+      "question": "The AP CED identifies WWII's causes as an interconnected system. Which of the following best describes how these causes relate to each other?",
+      "options": [
+        "Each cause operated independently; the war would have occurred even if any one cause had been absent",
+        "The Great Depression was the single root cause; all other factors were secondary effects of economic crisis",
+        "The causes reinforced each other: Versailles created resentment that fascism exploited; the Depression provided the mass support; imperialist ideology drove expansion",
+        "The Versailles settlement was the primary cause; without it, fascism could not have emerged in Europe"
+      ],
+      "correctIndex": 2,
+      "explanation": "The CED causes form a mutually reinforcing system. Versailles created the political grievances that fascist nationalism exploited. The Depression provided the mass economic desperation that gave fascist parties electoral support they couldn't otherwise achieve. Imperialist ideology (Lebensraum, Co-Prosperity Sphere) provided the expansionist goal that converted political extremism into world war. No single cause alone was sufficient; together they created conditions in which aggressive militarism produced the conflict."
+    }
+  ],
+  "saq": {
+    "parts": [],
+    "prompt": "Using specific evidence, explain how TWO of the four causes identified in the AP CED contributed to the outbreak of World War II.",
+    "sampleAnswer": "*Cause 1 — Unsustainable Versailles Settlement:* The Versailles Treaty's \"war guilt\" clause forced Germany to accept sole responsibility for WWI and imposed reparations of $33 billion. Most Germans — across the political spectrum — regarded these terms as unjust. Hitler's central political promise was to tear up the \"humiliation\" of Versailles and restore German greatness. The Versailles resentment gave his message mass appeal and provided the emotional foundation for his revisionist foreign policy that ultimately led to war. *Cause 2 — Rise of Fascist/Totalitarian Regimes:* The Nazi Party won only 2.6% of the German vote in 1928 but 37% in 1932, after the Great Depression created mass unemployment. Hitler was appointed chancellor in 1933 and quickly established a dictatorship through the Enabling Act. His Lebensraum ideology required conquest of Eastern European territory. His systematic dismantling of Versailles restrictions (rearmament, Rhineland, Austria, Czechoslovakia, Poland) — each met with Western appeasement until September 1939 — directly caused WWII."
+  },
+  "leq": {
+    "outline": [],
+    "prompt": "Evaluate the relative importance of structural causes (Versailles, Great Depression) versus individual agency (Hitler's ideology and decision-making) in explaining the outbreak of World War II in Europe.",
+    "modelThesis": "Although structural conditions — especially the Versailles settlement's humiliation of Germany and the Great Depression's economic devastation — were necessary preconditions for Hitler's rise to power, the specific character of WWII as a war of racial conquest and genocide was determined more by Hitler's personal ideology (Lebensraum, eliminationist antisemitism) and his willingness to gamble repeatedly on Western appeasement, making him indispensable as a causal agent rather than interchangeable with any fascist leader operating in the same structural conditions."
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. The AP CED says WWII's causes included \"the unsustainable peace settlement after World War I.\" Why is it important to identify the Versailles treaty as a cause of WWII while also understanding the limits of that argument?",
+      "modelAnswer": "Versailles is genuinely important as a WWII cause: its war guilt clause and reparations created a \"humiliation narrative\" that Hitler's nationalism directly addressed; its territorial arrangements left millions of Germans in states hostile to them; and the economic instability partly connected to reparations contributed to the Depression conditions that enabled Hitler's rise. But the argument has important limits. First, other Versailles-affected nations did not produce fascism: Austria was also required to pay reparations but didn't develop Nazism; Hungary and Bulgaria also lost territory but didn't initiate world war. So Versailles was a necessary but not sufficient condition — something specific to German political culture, economic trajectory, and Hitler's personal role was also required. Second, the \"Versailles caused Hitler\" argument can slide into implicitly blaming WWI Allies for WWII — which lets Hitler off the hook. Versailles created conditions; Hitler exploited them. Third, some Versailles provisions were reasonable given WWI's causes — acknowledging German responsibility was not unreasonable, though making it the basis for unlimited punishment was. The strongest historical position uses Versailles as one factor in a multi-causal explanation rather than as the single determinative cause."
+    },
+    {
+      "question": "2. Hitler promised both economic recovery and national restoration. Which promise was more important in explaining his rise to power, and why?",
+      "modelAnswer": "Both promises were important and were experienced as inseparable by most Germans who supported Hitler. But if forced to rank them, the national restoration promise was arguably more fundamental, because it addressed a wound that predated the Depression. The \"stab-in-the-back\" myth, Versailles humiliation, and national resentment were emotional and cultural facts of German political life from 1919 onward — before the Depression made economic recovery promises urgent. German conservatives and nationalists who helped bring Hitler to power were primarily motivated by anti-communism and national pride, not just economic desperation; many of them were not personally economically desperate. But the Depression was the mechanism that converted a fringe nationalist movement (2.6% in 1928) into a mass movement (37% in 1932). Without the Depression providing desperate voters, Hitler's national restoration message might never have won enough support to reach power. The interaction between the two promises was mutually reinforcing: Hitler would restore national greatness AND fix the economy — the combination was overwhelming for a population that had experienced repeated national and economic disasters."
+    },
+    {
+      "question": "3. Appeasement at Munich (1938) is often cited as a historical lesson: \"never appease a dictator.\" But is this lesson too simple? Are there cases where negotiating with authoritarian governments is appropriate?",
+      "modelAnswer": "The \"never appease\" lesson is too simple if taken as a universal principle, for several reasons. First, diplomacy with authoritarian governments happens all the time and is often necessary and productive — the U.S. negotiated with the Soviet Union throughout the Cold War, including arms control agreements (SALT, START) with a totalitarian state. The question isn't whether to negotiate, but whether the other party's goals are limited or unlimited. Munich failed not because Chamberlain negotiated with Hitler, but because he fundamentally misread what Hitler wanted: Hitler's goals were unlimited, ideologically driven, and explicitly included racial war and genocide, not merely territorial adjustments. Second, not every territorial demand by an authoritarian leader is equivalent to Hitler at Munich. The lesson from Munich is more specific: when a leader has stated explicitly that their goals are unlimited (Mein Kampf), and their violations of agreements are systematic, concessions will be interpreted as weakness and will encourage escalation rather than satisfaction. The relevant question is whether concessions address the other party's core interests (which might produce stability) or simply demonstrate weakness to an expansionist who will take more (which Munich did)."
+    },
+    {
+      "question": "4. Nazi Germany and Imperial Japan both pursued imperialist expansion in the 1930s, yet they are treated somewhat separately in AP World History. What similarities and differences explain their parallel paths to WWII?",
+      "modelAnswer": "Similarities: Both pursued territorial expansion driven by a combination of economic resource needs (Germany needed food and oil; Japan needed oil, rubber, iron) and racist ideological frameworks (Nazi racial hierarchy; Japanese racial superiority ideology over other Asian peoples). Both rejected the post-WWI international order and withdrew from the League of Nations. Both used military aggression to seize territories in defiance of international protest. Both had political systems in which nationalist militarists dominated government. Both ultimately ended up fighting the United States, Britain, and the Soviet Union. Key differences: Germany's expansion was explicitly driven by a coherent ideological framework (Nazism, Lebensraum) authored by a single dictator; Japan's expansion was more institutionally driven (military factions, industrial interests) without equivalent single-ideology leadership. Germany's war was specifically a war of racial extermination alongside territorial conquest (the Holocaust); Japan's atrocities were brutal but more instrumentally motivated. They were allied (Axis Powers, Tripartite Pact 1940) but operated largely independently — their wars only intersected when both attacked Allied powers."
+    },
+    {
+      "question": "5. Historians debate whether WWII was \"Hitler's war\" (meaning it wouldn't have happened without him specifically) or whether the structural conditions (Versailles, Depression, fascism) made it nearly inevitable. Which interpretation is more convincing?",
+      "modelAnswer": "The most defensible position combines structural conditions with individual agency without fully reducing causation to either. The structural argument: without the specific combination of Versailles humiliation, Depression-driven desperation, and fascism's rise across Europe, Hitler probably couldn't have come to power and certainly couldn't have reearmed Germany, militarized the Rhineland, and annexed Austria without military confrontation. The structural conditions created the possibility space for someone like Hitler. The individual agency argument: not all Depression-era fascists caused world war — Mussolini, Franco, and others were fascist leaders without initiating wars of conquest at Hitler's scale. Hitler's specific ideology (Lebensraum requiring Eastern European conquest; eliminationist antisemitism) and his personal willingness to gamble on war at specific moments (reoccupying the Rhineland with just three battalions, betting France wouldn't respond) shaped outcomes that weren't predetermined. A different leader in the same structural position might have settled for German predominance in Central Europe rather than world war. The most historically honest answer is: the structural conditions made a serious European conflict very likely; Hitler's specific ideology and decision-making made it the war it actually was."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

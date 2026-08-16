@@ -1,0 +1,329 @@
+{
+  "course": "ap-world-history",
+  "num": "6.4",
+  "title": "Global Economic Development from 1750 to 1900",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "💰",
+      "label": "Economics",
+      "tooltip": "Industrialization created demand for raw materials and food that drove the development of export economies worldwide. Industrial capitalism reorganized global economic relationships around the extraction and trade of commodities."
+    },
+    {
+      "icon": "🌳",
+      "label": "Environment",
+      "tooltip": "Commodity extraction — rubber, cotton, guano, palm oil — had profound environmental effects: deforestation, soil exhaustion, biodiversity loss, and the collapse of entire ecosystems in regions converted to monoculture production."
+    },
+    {
+      "icon": "🌍",
+      "label": "Interactions",
+      "tooltip": "Export economies connected distant regions — West Africa, Peru, Egypt, Argentina — to industrial centers in Europe and North America, creating a global economic system that distributed profits and costs very unequally."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Export economies and raw material extraction —** Industrialization created an enormous appetite for raw materials. Non-industrialized regions responded — or were forced to respond — by developing economies centered on extracting and exporting a single commodity: rubber in the Amazon and Congo, cotton in Egypt and South Asia, palm oil in West Africa, guano in Peru and Chile, meat in Argentina and Uruguay, diamonds in South Africa. KC-5.1.II.A is the key concept. **The global division of labor — core vs. periphery —** The 19th-century global economy created a structural division: industrialized nations (Britain, France, Germany, U.S.) manufactured finished goods and exported capital; non-industrialized regions supplied raw materials and food. The profits from raw material exports were used to buy finished goods from industrial nations — a pattern that enriched industrial economies and kept export economies dependent. **Cotton, guano, rubber, palm oil — all CED examples —** Know these specific commodity-to-region pairings: cotton (Egypt → Britain; South Asia → Britain); rubber (Amazon, Congo basin); guano (Peru, Chile → Europe); palm oil (West Africa → Europe); meat (Argentina, Uruguay → Europe); diamonds (South Africa). The AP exam may ask you to identify which region produced which commodity. **Environmental consequences —** Export economies relying on a single commodity (monoculture) created environmental risks: soil exhaustion from cotton monoculture in Egypt, deforestation from rubber extraction, collapse of guano islands after intensive mining. The global economy of the 19th century extracted wealth from ecosystems in ways that created lasting environmental damage."
+  ],
+  "learningObjectives": [
+    "Explain how various environmental factors contributed to the development of the global economy from 1750 to 1900"
+  ],
+  "vocabulary": [
+    {
+      "term": "Export Economy",
+      "definition": "An economy structured around the production and export of commodities — raw materials, agricultural products, or natural resources — for consumption by industrialized nations.",
+      "importance": "Non-industrialized regions developed export economies in the 19th century that supplied industrial factories with inputs, creating a global economic division between raw material producers and manufactured goods producers."
+    },
+    {
+      "term": "Monoculture",
+      "definition": "Agricultural production focused on a single crop, typically for export.",
+      "importance": "Monoculture maximizes short-term yields for export markets but creates economic vulnerability (single commodity dependence), environmental damage (soil exhaustion), and food security risks (if the crop fails, populations may starve)."
+    },
+    {
+      "term": "Guano",
+      "definition": "Accumulated seabird and bat droppings, rich in nitrogen and phosphorus, used as fertilizer. Found in massive quantities on islands off the coasts of Peru and Chile.",
+      "importance": "The guano trade made Peru one of the wealthiest nations in Latin America by the 1860s; when deposits were exhausted and synthetic fertilizers replaced it, Peru’s economy collapsed — a classic commodity boom-bust cycle."
+    },
+    {
+      "term": "Rubber",
+      "definition": "An elastic material derived from the latex of tropical rubber trees, essential for industrial belts, hoses, tires, and electrical insulation.",
+      "importance": "Demand for rubber drove brutal labor exploitation in the Amazon basin and the Congo Free State; also explains why the Congo region was so valuable to Leopold II."
+    },
+    {
+      "term": "Palm Oil",
+      "definition": "Vegetable oil extracted from the fruit of oil palm trees, used in soap manufacturing, lubricants, and food products. Produced primarily in West Africa.",
+      "importance": "The palm oil trade made West African producers important commercial partners before formal colonization; after colonization, palm oil extraction became a tool of colonial exploitation."
+    },
+    {
+      "term": "Terms of Trade",
+      "definition": "The ratio of export prices to import prices; how much manufactured goods a nation can buy per unit of raw material exported.",
+      "importance": "Non-industrialized export economies typically faced deteriorating terms of trade — raw materials became relatively cheaper while manufactured goods became more expensive — systematically enriching industrial nations at the expense of producers."
+    },
+    {
+      "term": "Cash Crop",
+      "definition": "A crop grown for commercial sale rather than for local consumption; typically produced for export to industrialized nations.",
+      "importance": "Colonial governments often forced or incentivized the conversion from subsistence agriculture to cash crop production, creating commodity dependence and food security vulnerabilities in colonized regions."
+    },
+    {
+      "term": "Core-Periphery",
+      "definition": "An economic framework describing the relationship between industrialized “core” nations (that manufacture and export finished goods) and non-industrialized “peripheral” regions (that supply raw materials).",
+      "importance": "Captures the structural inequality of 19th-century global trade: industrial nations captured manufacturing profits while peripheral regions remained dependent on commodity exports."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Why would industrialization in Britain and Europe create demand for raw materials from distant regions like Egypt, West Africa, and South America?",
+      "answer": "Industrial factories required inputs that Europe often didn’t produce in sufficient quantities. Cotton mills needed cotton fiber; soap manufacturers needed palm oil; fertilizer producers needed nitrogen-rich guano; steel mills needed iron ore. As industrialization scaled up production, the demand for these inputs grew far beyond what European agriculture and mining could supply. Global trade networks, enabled by steamships and undersea telegraph cables, made it possible to source these materials from wherever they were cheapest. The Americas, Africa, and Asia had land, climates, and resources that could produce what European factories needed. Industrial demand created the economic incentive for export economies; colonial power often enforced it."
+    },
+    {
+      "question": "Why would specializing in a single commodity export (like guano or cotton) be economically risky for a country in the long run?",
+      "answer": "Specializing in a single export creates several long-term vulnerabilities: (1) Price risk: commodity prices fluctuate dramatically; a collapse in cotton prices could devastate an entire economy overnight. (2) Resource exhaustion: guano islands were completely stripped within decades; rubber trees were overexploited. (3) Dependency: economies that sell raw materials and buy finished goods from industrial nations never develop their own manufacturing sectors, remaining permanently dependent on the price set by wealthier buyers. (4) Political vulnerability: powerful industrial nations could use economic leverage to control export economies politically — see Topic 6.5 (Economic Imperialism). Economists call this the “resource curse.”"
+    },
+    {
+      "question": "The guano trade made Peru one of the wealthiest nations in Latin America in the mid-19th century. Yet by 1900 Peru had experienced economic collapse and a devastating war. What does this pattern suggest about commodity-dependent development?",
+      "answer": "Peru’s guano boom and bust is a classic example of commodity dependency. Guano (seabird droppings used as fertilizer) was enormously profitable while the deposits lasted — Peru earned over $2 billion between 1840 and 1880. But governments spent the income rather than investing it in industrialization or diversification, and when guano islands were exhausted, the economy collapsed. The War of the Pacific (1879–84) against Chile was partly fought over control of the remaining guano and nitrate deposits. A commodity windfall without economic diversification leads to boom-bust cycles, not sustainable development — a pattern that repeated itself across Latin America and Africa throughout the 19th and 20th centuries."
+    },
+    {
+      "question": "The global economy of the 19th century was organized so that non-industrialized regions sold raw materials cheaply and bought finished goods expensively. Who benefited from this arrangement, and who was disadvantaged?",
+      "answer": "Industrial nations benefited: they bought cheap raw material inputs, added value through manufacturing, and sold expensive finished goods back to the world. This “terms of trade” arrangement meant that the same physical quantity of cotton that left Egypt bought fewer and fewer manufactured goods over time as industrial productivity grew. Export economies were disadvantaged because they captured only the lowest-value part of the production chain. A pound of cotton sold for a few cents; the cotton shirt made from it sold for dollars. The economic surplus from manufacturing accumulated in industrial nations; the physical cost — land degradation, labor exploitation, lost biodiversity — was borne by the producing regions. This structural inequality is the economic foundation of what economists now call the “core-periphery” relationship."
+    },
+    {
+      "question": "Why might a colonial government force local people to grow a cash crop (like cotton or rubber) rather than allowing them to continue subsistence farming?",
+      "answer": "Colonial governments converted subsistence farmers to cash-crop producers for several reasons: (1) Revenue: cash crops generated taxes and customs duties that funded colonial administration. (2) Supply: colonial industries needed reliable quantities of specific commodities at predictable prices, which market forces alone might not deliver. (3) Labor discipline: forcing people to grow cash crops (rather than their own food) made them dependent on colonial economic structures and more easily exploited. (4) “Civilizing mission” ideology: colonial officials often genuinely believed that commercial agriculture was more “advanced” than subsistence farming. The human cost was significant: communities that shifted to cash crops became vulnerable to famine when harvests failed or prices fell, as they no longer grew their own food."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "🏭 Why the Global Economy Needed the World’s Resources"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Industrial Revolution that began in Britain in the late 18th century created an insatiable demand for two things: **raw materials** to feed factories, and **food** to feed the growing urban populations that worked in those factories. British cotton mills could spin enormous quantities of thread — but they needed cotton fiber to do it. European soap factories could produce thousands of tons of soap — but they needed palm oil as an ingredient. European farms couldn’t grow enough food to feed rapidly urbanizing populations — they needed grain, beef, and other food imports."
+    },
+    {
+      "type": "paragraph",
+      "text": "The CED identifies this dynamic as **KC-5.1.II.A**: the need for raw materials for factories and increased food supplies for growing urban populations led to the development of **export economies** around the world that specialized in the commercial extraction of natural resources and the production of food and industrial crops. Crucially, the CED notes that the profits from these raw material exports were used to purchase finished goods from industrial nations — a pattern that systematically favored industrial economies over raw material producers."
+    },
+    {
+      "type": "paragraph",
+      "text": "This created what we now call the **core-periphery** structure of the global economy: industrial nations at the “core” captured manufacturing profits and exported expensive finished goods; non-industrialized regions on the “periphery” supplied cheap raw materials and bought those finished goods with their commodity earnings. The exchange looked like free trade; structurally, it kept peripheral economies dependent."
+    },
+    {
+      "type": "heading",
+      "text": "🌿 Cotton: The Fiber That Drove Industrial Capitalism"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cotton was the most important raw material of the Industrial Revolution. British cotton mills in Lancashire and Manchester transformed raw cotton into thread and cloth — the first mass-produced industrial commodity. By 1860, cotton textiles accounted for nearly half of Britain’s total exports."
+    },
+    {
+      "type": "paragraph",
+      "text": "But Britain couldn’t grow cotton. Two regions were developed as major cotton suppliers: **Egypt** and **South Asia**. In Egypt, the ruler Muhammad Ali launched large-scale cotton cultivation in the Nile Delta in the 1820s, using forced labor to build irrigation canals. Egyptian cotton was prized for its long fibers, ideal for fine textiles. The American Civil War (1861–65) dramatically increased demand for Egyptian cotton when Southern U.S. supplies were cut off."
+    },
+    {
+      "type": "paragraph",
+      "text": "In South Asia, the East India Company and later the British Raj converted large areas of the Deccan Plateau to cotton monoculture. Indian weavers, who had once produced some of the world’s finest cotton textiles, found their products undercut by cheaper British machine-made cloth and were forced into growing raw cotton for British mills instead. India went from textile exporter to raw material supplier — a deindustrialization imposed by colonial policy."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/6-4-0.jpg",
+      "alt": "Colonial extraction workers in rubber plantation or similar extraction economy",
+      "caption": "Workers in colonial export economies extracted rubber, cotton, palm oil, and other commodities under conditions of coerced or exploitative labor.",
+      "attribution": "Profits flowed to industrial nations; physical costs were borne by the producing regions (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "funFact",
+      "text": "In 1800, Indian textile exports dominated global trade — Indian muslin and calico were prized across Europe and Asia. By 1850, British machine-made cotton cloth had flooded Indian markets, and India had been converted from a textile exporter to a raw cotton supplier for British mills. This deindustrialization of India is one of the most dramatic examples of how colonial economic policy could reverse a region’s development trajectory."
+    },
+    {
+      "type": "heading",
+      "text": "💨 Rubber: Boom, Bust, and Brutality"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rubber became one of the most sought-after commodities of the late 19th century as industrial machinery required rubber belts and hoses, and the bicycle and early automobile created demand for rubber tires. Two regions became major rubber suppliers: the **Amazon basin** in South America and the **Congo basin** in Central Africa."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Amazon, the rubber boom (1850s–1910s) produced spectacular wealth for rubber barons in cities like Manáus, where an opulent opera house was built in the middle of the jungle. Indigenous Amazon peoples were forced into brutal debt peonage to tap rubber trees. The boom ended when Henry Wickham smuggled rubber tree seeds out of Brazil to Kew Gardens in London, enabling efficient rubber plantations in British Malaya that outcompeted Amazon wild rubber."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Congo, Leopold II’s Congo Free State used systematic terror to force rubber collection: villages that failed to meet rubber quotas had hands cut off as punishment. The hands of workers and children became a kind of currency of colonial terror. This regime killed an estimated 10 million people and provoked one of the first international human rights campaigns, led by journalist E.D. Morel and writer Joseph Conrad (whose *Heart of Darkness* drew on Congo atrocities)."
+    },
+    {
+      "type": "heading",
+      "text": "🐦 Guano, Palm Oil, Meat, and Diamonds"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CED specifically lists these additional commodity examples, and the AP exam may test them directly. Know the commodity, the region, and the connection to industrial demand."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Guano** (Peru and Chile): Seabird droppings — enormously nitrogen-rich — were the world’s best natural fertilizer before synthetic fertilizers existed. Peruvian and Chilean coastal islands held deposits hundreds of feet deep from millennia of seabird nesting. European farmers desperately needed fertilizer as population growth demanded higher agricultural yields. Peru earned over $2 billion from guano exports (1840–1880) but failed to industrialize or diversify — when the deposits were exhausted, the economy collapsed. The War of the Pacific (1879–84) between Peru, Bolivia, and Chile was partly driven by competition for remaining nitrate deposits.",
+        "**Palm oil** (West Africa): Used in soap manufacturing, lubricants, and food products. West African producers — especially in what is now Nigeria — had traded palm oil with Europeans since the 18th century. As industrialization increased soap demand and colonization reduced African bargaining power, palm oil became a major colonial export commodity. The palm oil trade was one reason Britain was particularly interested in West African territories.",
+        "**Meat** (Argentina and Uruguay): The development of refrigerated steamships in the 1870s–1880s made it possible for the first time to ship frozen beef from South America to Europe. Argentina and Uruguay had vast grasslands ideal for cattle ranching. British investment in Argentine railways and meatpacking plants fueled the beef export boom, making the River Plate region one of the most economically dynamic areas of the world by 1900 — see also Topic 6.5.",
+        "**Diamonds** (South Africa): The discovery of diamonds near Kimberley in 1867 and gold on the Rand in 1886 transformed South Africa from a marginal British colonial concern into the most economically valuable territory in sub-Saharan Africa. Cecil Rhodes built the De Beers diamond company and used his wealth to pursue British imperial expansion northward (Rhodesia). The Anglo-Boer Wars (1880–81, 1899–1902) were fundamentally about British control over South Africa’s mineral wealth."
+      ]
+    },
+    {
+      "type": "apTip",
+      "text": "KC-5.1.II.A requires you to know the specific commodity-to-region pairings listed in the CED. Practice the list: cotton (Egypt, South Asia); rubber (Amazon, Congo); guano (Peru, Chile); palm oil (West Africa); meat (Argentina, Uruguay); diamonds (South Africa). The AP exam may present you with a stimulus about one of these commodities and ask you to explain its connection to global economic development or to the relationship between industrialized and non-industrialized societies."
+    },
+    {
+      "type": "heading",
+      "text": "🌳 Environmental Consequences of Export Economies"
+    },
+    {
+      "type": "paragraph",
+      "text": "The transformation of global ecosystems to serve industrial demand had lasting environmental consequences. Cotton monoculture exhausted soils in Egypt and India. Rubber extraction required clearing vast forest areas in the Amazon. Guano islands were completely stripped within decades, their ecosystems permanently disrupted. Sugar plantations in the Caribbean had deforested entire islands by the 18th century; similar patterns followed wherever commercial agriculture replaced diverse ecosystems."
+    },
+    {
+      "type": "paragraph",
+      "text": "The global division between industrial core and raw material periphery also had a political-ecological dimension: environmental costs — deforestation, soil erosion, biodiversity loss, water depletion — were concentrated in producing regions, while industrial benefits were concentrated in consuming regions. This pattern of externalizing environmental costs to the periphery has continued into the 21st century."
+    },
+    {
+      "type": "funFact",
+      "text": "The opera house in Manáus, Brazil — built in the middle of the Amazon jungle during the rubber boom — had Italian marble floors, European chandeliers, and hosted performances by world-famous opera companies. The rubber barons who built it made their fortunes from forced indigenous labor. When rubber prices collapsed after 1912 (because of Malayan rubber plantations), Manáus’ economy collapsed overnight. The opera house sat empty and crumbling for decades."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 6.4",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+6.4",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Imperialism",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Imperialism",
+      "creator": "Crash Course · 12 min"
+    },
+    {
+      "title": "Imperialism in Africa · Tom Richey",
+      "url": "https://www.youtube.com/results?search_query=AP+World+History+Imperialism+in+Africa+%C2%B7+Tom+Richey",
+      "creator": "AP World History · 9 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "“The need for raw materials for factories and increased food supplies for the growing population in urban centers led to the growth of export economies around the world that specialized in commercial extraction of natural resources and the production of food and industrial crops. The profits from these raw materials were used to purchase finished goods.” — AP World History CED, KC-5.1.II.A",
+      "question": "Which of the following developments BEST explains the emergence of the pattern described in the excerpt?",
+      "options": [
+        "The spread of the Black Death disrupted European agricultural production and created demand for imported food",
+        "The Industrial Revolution in Britain and Europe created demand for raw material inputs and food for urban factory workers",
+        "The Columbian Exchange introduced new crops to Europe that required tropical growing conditions unavailable in Europe",
+        "European nations sought to reduce their dependence on Asian luxury goods by developing alternative supply chains"
+      ],
+      "correctIndex": 1,
+      "explanation": "KC-5.1.II.A directly identifies industrialization as the driver: factories needed raw material inputs (cotton, rubber, palm oil), and the urban populations created by industrialization needed imported food. This created the demand that generated export economies in non-industrialized regions. (A) is wrong chronologically — the Black Death was the 14th century. (C) is partially true but explains specific crops (tobacco, sugar), not the general pattern of industrial-era commodity trade. (D) misidentifies the driver — the pattern was about industrial inputs, not replacing Asian luxuries."
+    },
+    {
+      "stimulus": "[Map showing major 19th-century commodity flows: arrows from Peru and Chile labeled “Guano” pointing to Europe; from West Africa labeled “Palm Oil” pointing to Britain and France; from Egypt labeled “Cotton” pointing to Britain; from Argentina labeled “Beef” pointing to Europe. Return arrows show “Manufactured Goods” flowing back to all producing regions.]",
+      "question": "The pattern of trade shown in the map is best characterized as:",
+      "options": [
+        "A reciprocal exchange of equal value between industrialized and non-industrialized nations",
+        "A system of barter exchange that bypassed monetary markets entirely",
+        "An early example of fair trade agreements designed to compensate producers in developing nations",
+        "A core-periphery relationship in which industrial nations received raw materials and non-industrial regions received manufactured goods"
+      ],
+      "correctIndex": 3,
+      "explanation": "The map shows the classic core-periphery pattern: non-industrialized regions (Peru, West Africa, Egypt, Argentina) exported raw materials to industrialized Europe, which returned manufactured goods. This is structurally unequal because manufactured goods carry far more value-added content than raw materials, systematically enriching industrial nations. (A) is wrong — the exchange was not equal in value. (C) is anachronistic and historically inaccurate. (B) is wrong — these were monetary markets."
+    },
+    {
+      "stimulus": "“In 1800, Indian cotton textiles dominated global trade. By 1850, British machine-made cloth had flooded Indian markets at prices Indian handloom weavers could not match. Indian textile workers, once among the world’s most skilled, turned increasingly to agricultural labor — often growing raw cotton for British mills at prices set by British buyers.”",
+      "question": "The transformation described in the passage is best explained by which of the following?",
+      "options": [
+        "Indian textile workers chose to abandon their craft in favor of the better wages available in agricultural labor",
+        "New agricultural technologies made cotton farming far more profitable in India than traditional textile manufacturing",
+        "The Industrial Revolution gave Britain a manufacturing cost advantage that, combined with colonial policies removing trade protections, converted India from a textile exporter to a raw material supplier",
+        "The East India Company actively promoted Indian textile production to generate export revenue for the British Crown"
+      ],
+      "correctIndex": 2,
+      "explanation": "Two factors combined to deindustrialize India: (1) machine production made British cloth cheaper than handloom cloth; (2) colonial policy removed tariff protection that had previously sheltered Indian textiles from British competition. The result was structural: India couldn’t compete with industrial production, and colonial policy ensured it didn’t have protection against that competition. (A) describes a voluntary choice that was not actually available to weavers who had lost their markets. (B) is not historically supported. (D) is the opposite of what happened — the Company and later Crown actively promoted British textiles."
+    },
+    {
+      "stimulus": "“Between 1840 and 1880, Peru earned over $2 billion from guano exports — the richest windfall in South American history to that date. By 1883, Peru had lost a major war, ceded its southern provinces, and entered a debt spiral from which it took decades to recover.”",
+      "question": "Peru’s experience with the guano trade BEST illustrates which of the following historical patterns?",
+      "options": [
+        "Economic dependence on a single commodity export created vulnerability to boom-and-bust cycles that undermined long-term development",
+        "Wars of national liberation successfully freed Latin American nations from European economic control",
+        "European nations deliberately destroyed Latin American commodity economies to prevent regional competition",
+        "Industrial nations provided development loans to raw material producers that stabilized their economies over time"
+      ],
+      "correctIndex": 0,
+      "explanation": "Peru’s story is the textbook commodity boom-bust: enormous short-term wealth from a single export, failure to diversify or industrialize, then collapse when the resource was exhausted and a war destroyed what remained. This “resource curse” pattern — where commodity wealth paradoxically hinders long-term development — is one of the defining features of peripheral export economies. (B) is incorrect — the war described (War of the Pacific) was between Peru, Bolivia, and Chile, not against European control. (C) is not what happened. (D) is the opposite of Peru’s experience — foreign loans contributed to the debt spiral."
+    },
+    {
+      "stimulus": "“King Leopold II of Belgium, who held the Congo Free State as his personal possession rather than a Belgian colony, established a system of rubber extraction quotas enforced by village hostage-taking and the severing of hands as punishment for failure to meet production targets. International investigators estimated that the Congo’s population fell by approximately 10 million people between 1880 and 1920.”",
+      "question": "The Congo Free State’s rubber extraction system best represents which of the following connections between the global economy and imperialism?",
+      "options": [
+        "Colonial administrations developed humanitarian programs to improve living standards in commodity-producing regions",
+        "The rubber trade was primarily organized through free market mechanisms that benefited producers and consumers equally",
+        "Private companies rather than governments were primarily responsible for the development of export economies in Africa",
+        "Industrial demand for commodities like rubber created economic incentives for extreme coercion and violence in extraction regions"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage shows the direct connection between industrial demand (rubber was essential for belts, hoses, and tires in industrial machinery) and extreme violence: meeting production quotas required terror because voluntary free labor would not produce at the rates industrial demand required. This is the dark underside of the global commodity economy — industrial demand didn’t care where rubber came from or how it was produced, and without any legal or moral constraint, producers like Leopold maximized extraction through coercion. (A) is directly contradicted by the passage. (C) is partially true but misses that the question asks about the broader connection. (B) is directly contradicted by the coercive system described."
+    }
+  ],
+  "saq": {
+    "context": "“The need for raw materials for factories and increased food supplies for the growing population in urban centers led to the growth of export economies around the world that specialized in commercial extraction of natural resources and the production of food and industrial crops. The profits from these raw materials were used to purchase finished goods.” — AP World History CED, KC-5.1.II.A",
+    "directions": "Answer parts A, B, and C. Each requires a separate short response. Do not write a full essay.",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Briefly describe ONE specific commodity export economy that developed between 1750 and 1900, identifying the commodity, the producing region, and the industrial nation that consumed it.",
+        "sampleAnswer": "The guano export economy of Peru and Chile developed in the mid-19th century to supply European agriculture with fertilizer. Guano — accumulated seabird droppings rich in nitrogen and phosphorus — was found in massive deposits on coastal islands off Peru and Chile. European and North American farmers, under pressure to feed rapidly urbanizing industrial populations, desperately needed fertilizer to increase crop yields. Peru earned over $2 billion in guano exports between 1840 and 1880, primarily to British and European agricultural markets. The profits were used to purchase manufactured goods from Britain. This is a direct example of KC-5.1.II.A: industrial demand for food production inputs drove the development of a raw material export economy in a non-industrialized region."
+      },
+      {
+        "label": "Part B",
+        "task": "Briefly explain ONE way the exchange pattern described in the excerpt — raw materials exported, finished goods imported — was economically disadvantageous for non-industrialized producing regions in the long run.",
+        "sampleAnswer": "The exchange was structurally disadvantageous because it concentrated the most profitable economic activities in industrial nations. Manufactured goods incorporate far more value-added content than raw materials — a pound of raw cotton sold for a few cents, while the cotton shirt made from it sold for many times more. Over time, the terms of trade deteriorated for raw material exporters: the same quantity of guano or cotton bought fewer and fewer manufactured goods as industrial productivity improved but commodity prices stagnated or fell. This meant that export economies transferred economic surplus to industrial nations while bearing the environmental and labor costs of extraction locally. Export economies also failed to develop their own manufacturing sectors, remaining permanently dependent on the buying power of industrial consumers."
+      },
+      {
+        "label": "Part C",
+        "task": "Briefly explain ONE way the development of export economies was connected to or enabled by European colonial expansion in the period 1750–1900.",
+        "sampleAnswer": "European colonial expansion enabled export economies by providing the political coercion necessary to convert subsistence agricultural communities into commercial producers. In India, the East India Company and later the British Raj imposed land taxes payable only in cash, forcing farmers to grow cotton for export rather than food for subsistence. In the Congo Free State, Leopold II’s agents used hostage-taking and mutilation to enforce rubber extraction quotas that voluntary labor would never have met. Without colonial political power — the ability to tax, imprison, and punish — the scale of commodity extraction that the global economy required would have been impossible to achieve purely through market incentives."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Evidence that non-industrialized regions received some benefits",
+        "text": "Peru earned $2 billion from guano; Argentina’s economy grew rapidly from beef exports; Brazil’s rubber boom funded urbanization; British investment in Argentine railways and meatpacking created real infrastructure; Palm oil trade gave West African producers access to European consumer goods before formal colonization"
+      },
+      {
+        "label": "Evidence that industrial nations benefited disproportionately",
+        "text": "India’s deindustrialization: converted from textile exporter to raw cotton supplier by colonial policy; Guano boom collapsed; Congo rubber extraction killed 10 million people; Commodity dependence prevented manufacturing development in most export economies; Terms of trade systematically deteriorated for raw material exporters"
+      },
+      {
+        "label": "Contextualization",
+        "text": "Industrial Revolution (Unit 5) created the demand; colonialism provided the political coercion to enforce extraction (Topic 6.2)."
+      }
+    ],
+    "prompt": "Evaluate the extent to which the development of global commodity trade from 1750 to 1900 benefited both industrialized and non-industrialized societies.",
+    "note": "Write a full essay with a thesis, contextualization, evidence, and historical reasoning. Apply causation or argumentation. A strong response will acknowledge short-term benefits while arguing about the long-term structural disadvantages for non-industrialized regions.",
+    "thesisExample": "Strong thesis: “Although the expansion of global commodity trade from 1750 to 1900 generated short-term economic growth and infrastructure investment in some non-industrialized regions, it was primarily beneficial to industrialized nations because it created structural economic dependencies — through monoculture, deteriorating terms of trade, and the failure to develop domestic manufacturing — that systematically transferred wealth from peripheral producers to industrial consumers.”"
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. The CED says profits from raw material exports “were used to purchase finished goods” from industrial nations. Why does this exchange pattern favor industrial nations over raw material producers in the long run?",
+      "modelAnswer": "Raw material prices are set by global commodity markets and tend to fall over time as more producers enter the market and as technology improves extraction efficiency. Meanwhile, manufactured goods incorporate increasing amounts of value-added labor, technology, and capital. The result is deteriorating terms of trade for raw material exporters: over time, the same quantity of cotton buys fewer cotton shirts, not more. Industrial nations also capture the entire manufacturing supply chain — the most profitable part. A pound of raw cotton earns a few cents; the finished shirt earns dollars; the brand behind the shirt earns even more. Export economies that sell raw materials and buy finished goods remain permanently dependent on industrial nations that control the high-value parts of the production chain."
+    },
+    {
+      "question": "2. Peru’s guano boom made it one of Latin America’s wealthiest nations in the 1860s. By 1900, it had experienced economic collapse and a devastating war. What does this boom-and-bust cycle reveal about commodity-dependent development?",
+      "modelAnswer": "Commodity booms are inherently temporary: resources are finite, technology eventually creates substitutes, and new producers enter the market and drive prices down. Peru’s guano boom reflected all these risks: deposits were exhausted by the 1880s; synthetic nitrogen fertilizers developed by German chemists in the early 20th century made guano obsolete; and the War of the Pacific (1879–84) destroyed Peru’s economy and cost it its southern nitrate provinces to Chile. The deeper problem was structural: Peru used guano revenues for government expenditure and debt service rather than investing in manufacturing or diversifying the economy. When the commodity disappeared, the economic foundation collapsed. This pattern — the “resource curse” — has repeated itself across commodity-dependent economies worldwide from the 19th century to the present."
+    },
+    {
+      "question": "3. India went from a major textile exporter to a raw cotton supplier for British mills. What does this reversal tell us about the relationship between colonialism and economic development?",
+      "modelAnswer": "India’s deindustrialization was not the result of market forces alone — it was the product of deliberate colonial policy. British India imposed high tariffs on imported British goods until the 1840s; after colonization was consolidated, tariff protection for Indian textiles was removed, allowing cheap British machine-made cloth to undercut Indian handloom weavers. At the same time, the colonial government converted Indian agricultural land to raw cotton production for British mills. India was converted from a manufacturing economy to a raw material supplier through the political power of the colonial state. This demonstrates that the core-periphery structure of the global economy was not simply the natural result of comparative advantage; it was actively created and enforced through colonial power."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

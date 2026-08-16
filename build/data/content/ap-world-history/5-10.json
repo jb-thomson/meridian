@@ -1,0 +1,331 @@
+{
+  "course": "ap-world-history",
+  "num": "5.10",
+  "title": "Continuity and Change in the Industrial Age",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "📝",
+      "label": "Argumentation",
+      "tooltip": "This topic develops the argumentation skill: evaluating the extent of change by identifying both what changed and what stayed the same, then making a precise claim about the overall degree of change in the period."
+    },
+    {
+      "icon": "⚖️",
+      "label": "Continuity & Change",
+      "tooltip": "Industrialization changed economics, technology, social structure, and political ideas dramatically — while leaving many aspects of inequality, political authority, and global structure in recognizable continuity with the pre-industrial world."
+    },
+    {
+      "icon": "🔗",
+      "label": "Synthesis",
+      "tooltip": "Unit 5 synthesis: connect the Enlightenment, Atlantic revolutions, industrialization, and global reactions into a coherent argument about the extent of change in the period 1750–1900."
+    }
+  ],
+  "tldr": [
+    "**LO-A: What changed (evidence of significant change) —** Economic system: from mercantilism and agriculture to industrial capitalism and free trade. Social structure: new middle and working classes. Technology: steam power → fossil fuels → electricity; railroads, steamships, telegraph. Political landscape: republics, constitutions, nationalism, labor parties, socialist ideas. Living standards: cheaper goods, longer life expectancy in industrialized countries by 1900. Global trade: expanded enormously, connected the world as never before. The pace of change itself accelerated — more changed in 1750–1900 than in any previous 150-year period. The AP exam's argumentation skill asks you to evaluate the *extent* of change — not just describe what changed, but make a claim about how much changed and what stayed the same. For Unit 5, the question is: how much did industrialization change the world by 1900? The answer requires weighing significant changes (new economic system, new classes, new technology, new political ideas) against significant continuities (inequality persisted in new forms, most of the world was still agrarian, women's subordination continued, political authority remained concentrated). **What stayed the same (evidence of continuity) —** Inequality: new forms replaced old ones (landed aristocracy → industrial capitalists). Most of humanity: still lived in agrarian societies outside the industrializing West. Women's rights: still denied in most industrialized countries in 1900 (US women's suffrage 1920, UK 1918–1928). Political authority: monarchies still governed Germany, Russia, Austria-Hungary, China, the Ottoman Empire. The gap between rich and poor: grew within industrialized countries and between industrialized and non-industrialized regions. Key continuity for the exam: industrialization reshaped *who* was on top, but inequality itself — between classes, between nations, between genders — persisted."
+  ],
+  "learningObjectives": [
+    "Explain the extent to which industrialization brought change from 1750 to 1900."
+  ],
+  "vocabulary": [
+    {
+      "term": "The Great Divergence",
+      "definition": "The 19th-century widening of economic and industrial capacity between Western industrialized nations and the rest of the world — including the decline of Asian manufacturing share and the rise of European/American economic dominance. AP relevance: Key evidence of change at the global scale; the most dramatic single economic shift of the period.",
+      "importance": ""
+    },
+    {
+      "term": "Industrial Capitalism",
+      "definition": "An economic system in which factory owners (capitalists) invest in machinery and hire wage laborers to produce goods for sale in competitive markets; profit is reinvested to expand production.",
+      "importance": "The CED identifies industrial capitalism as the central economic development of Unit 5; it created new class structures, changed living standards, and drove European imperialism."
+    },
+    {
+      "term": "Working Class (Proletariat)",
+      "definition": "Industrial wage workers who owned no means of production and sold their labor for wages; the class created by factory industrialization, distinct from craft artisans or agricultural laborers.",
+      "importance": "The CED requires analyzing how industrialization created new social hierarchies; the working class became the basis for socialist and labor movements that reshaped 19th-century politics."
+    },
+    {
+      "term": "Colonial Resource Extraction",
+      "definition": "The systematic removal of raw materials (cotton, rubber, coal, metals, food crops) from colonized regions to supply industrializing European factories, creating economic dependency in the colonized world.",
+      "importance": "Essential for explaining the Great Divergence — European industrial wealth was partly built on cheap colonial inputs, while colonies were kept as raw-material exporters rather than allowed to industrialize."
+    },
+    {
+      "term": "Defensive Modernization",
+      "definition": "The strategy of selectively adopting Western industrial and military technologies to resist European imperialism, while preserving existing political and cultural structures; pursued by Japan (Meiji), Russia (Witte system), Egypt (Muhammad Ali), and the Ottoman Empire (Tanzimat).",
+      "importance": "Key comparison point for 5.10: some non-Western states succeeded (Japan), others failed (Egypt, Ottomans) — why? The CED asks students to analyze the extent of change industrialization produced globally."
+    },
+    {
+      "term": "Urbanization",
+      "definition": "The mass migration of people from rural areas to cities driven by factory employment; industrializing Britain went from 20% urban (1800) to over 50% urban (1850) — the first country in history to be majority urban.",
+      "importance": "The CED explicitly mentions urbanization as a major social change produced by industrialization; it created new public health crises, new class identities, and new political demands."
+    },
+    {
+      "term": "Free Trade vs. Protectionism",
+      "definition": "Free trade (Britain's policy after 1846) = removing tariffs to allow open global commerce, benefiting the most industrialized producer; Protectionism (US, Germany, Russia, Japan) = using tariffs to shield domestic industries from cheaper British competition during their development phase.",
+      "importance": "The CED requires analysis of how industrialization spread; this policy debate explains why some nations industrialized successfully while others fell behind."
+    },
+    {
+      "term": "Global Inequality",
+      "definition": "The widening gap in wealth, living standards, and industrialization between Western Europe/North America and the rest of the world during the 19th century, measured by income, manufacturing output, and life expectancy.",
+      "importance": "The central CCOT outcome of Unit 5 — industrialization increased wealth overall but distributed it very unequally, producing a world divided between industrial core and raw-material periphery that still shapes today's global economy."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "A historian argues that industrialization was \"the most significant rupture in human history since the Neolithic Revolution.\" What evidence would support this claim?",
+      "answer": "The Neolithic Revolution (roughly 10,000 BCE) was when humans shifted from hunting and gathering to farming — fundamentally changing how most people lived, how societies organized, and how many people the earth could support. If industrialization is comparably significant, the evidence would be: (1) it produced a comparable shift in the basic economic system (from agricultural to industrial); (2) it enabled a comparable population growth (world population grew from ~1 billion in 1800 to ~1.6 billion by 1900 and ~7 billion by 2000); (3) it fundamentally changed social organization (new classes, urbanization); (4) it accelerated historical change so dramatically that the pace of change itself became historically significant. The comparison is defensible because industrialization fundamentally altered the human relationship to energy, production, and nature on a scale not seen since farming."
+    },
+    {
+      "question": "A different historian argues that industrialization produced \"change within continuity — new forms of the same old inequalities.\" What evidence would support this more skeptical view?",
+      "answer": "The skeptical view would point to: (1) inequality persisted and in some ways worsened — the gap between the richest and poorest in industrialized societies grew in the 19th century; (2) the gap between industrialized and non-industrialized nations widened dramatically, creating new forms of global hierarchy; (3) women remained politically excluded in all industrialized countries through most of the period; (4) monarchies still governed the major European powers in 1900; (5) most of humanity outside the industrializing West continued to live in largely agrarian societies. The core claim: industrialization replaced landed aristocracy with industrial capitalists, but the basic pattern of concentrated power and wealth remained. New elites replaced old elites; the structure of inequality persisted even as its form changed."
+    },
+    {
+      "question": "The period 1750–1900 saw both the spread of Enlightenment ideas about human equality and rights AND the expansion of European empires over non-Western peoples. How does this contradiction affect your assessment of how much the world changed?",
+      "answer": "This contradiction is central to assessing the period: the same intellectual framework that produced ideas about natural rights, democracy, and human equality also accompanied and sometimes justified the conquest and domination of non-European peoples. European powers declared all men created equal while colonizing Africa and Asia. This suggests that ideological change was real but limited in who it applied to: Enlightenment ideals changed politics within European societies (more democracy, more rights for some), while simultaneously being used to justify new forms of domination of non-European peoples. The \"change\" of political liberalization was partly offset by the \"continuity\" of European domination taking new (colonial) forms. The extent of change depends on whose perspective you take."
+    },
+    {
+      "question": "In 1750, China and India together produced about half of all global manufactured goods. By 1900, Britain, the United States, and Germany together produced more than half. How does this shift affect your assessment of how much the world changed?",
+      "answer": "This shift is one of the most dramatic changes in economic history — the global center of manufacturing moved from Asia to Europe and North America in 150 years, reversing a pattern that had existed for centuries. It represents a genuine and massive change in global economic power. But it's also important to note what didn't change: the basic fact of some regions producing and others consuming, of trade networks connecting the globe, of economic inequality between regions. What changed was which regions were on top. The Great Divergence accelerated global inequality even as it created new kinds of prosperity — a mixed verdict on the extent of change."
+    },
+    {
+      "question": "The AP exam uses the skill of \"argumentation\" — making a defensible claim and supporting it with evidence. Why is it important to acknowledge what DIDN'T change, even in an essay arguing that industrialization produced great change?",
+      "answer": "Acknowledging continuity (what didn't change) makes your argument stronger, not weaker — it shows historical nuance and prevents oversimplification. An argument that ignores continuity is vulnerable to counterevidence. By acknowledging that inequality persisted, that most of the world remained agrarian, and that political authority remained concentrated in many countries, and then explaining why the changes that did occur were still \"great\" despite these continuities, you demonstrate that you have considered the full picture. This is what distinguishes a sophisticated AP argument from a simple one: not just claiming \"a lot changed,\" but specifying exactly what changed, what didn't, and making a precise claim about the overall extent of change."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "📊 The Argumentation Skill: What Does \"Extent\" Mean?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the final topic in Unit 5, and the AP CED treats it differently from other topics. It is not primarily about new content — it is about developing the **argumentation skill**: the ability to make a precise, defensible claim about how much something changed."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the AP exam asks \"Evaluate the extent to which industrialization brought change from 1750 to 1900,\" it is asking you to do three things:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Neither the \"great change\" argument nor the \"limited change\" argument is inherently wrong. What matters is whether your evidence is accurate, your reasoning is logical, and your acknowledgment of the counterargument (continuity) is thoughtful."
+    },
+    {
+      "type": "apTip",
+      "text": "A sophisticated AP argument does not just list changes. It specifies the *type* of change, the *scope* of change (who it affected and where), and the *limits* of change (what stayed the same). Example: \"Industrialization brought great change to economic systems in Europe and North America, but limited change to political equality for women or to the economic conditions of most people in Asia and Africa.\" This kind of nuance is what earns full points."
+    },
+    {
+      "type": "heading",
+      "text": "✅ What Changed: The Evidence for Significant Change"
+    },
+    {
+      "type": "paragraph",
+      "text": "The case for significant change in the period 1750–1900 is strong. Across multiple dimensions, the world of 1900 was radically different from the world of 1750:"
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/5-10-0.jpg",
+      "alt": "Before and after comparison showing agricultural village in 1750 versus industrial city in 1900",
+      "caption": "The contrast between 1750 and 1900 was visible everywhere in industrialized countries — from the landscape (farms → factories) to the cityscape (small towns → metropolises) to the technologies of daily life (candles → electric lights) (Google Gemini, 2025), commercially licensed.",
+      "attribution": "The contrast between 1750 and 1900 was visible everywhere in industrialized countries — from the landscape (farms → factories) to the cityscape (small towns → metropolises) to the technologies of daily life (candles → electric lights) (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "funFact",
+      "text": "The pace of change itself was new. For most of human history, a person's grandchild lived very much as their grandparent had — using similar tools, working in similar occupations, living in similar communities. A British person born in 1750 and living until 1820 would have witnessed the beginning of the railroad era, the steam engine, the American and French Revolutions, the abolition of the slave trade, and the growth of industrial cities. Their grandchild, born in 1820 and living until 1890, would add the telegram, transatlantic steamships, the Second Industrial Revolution, the American Civil War and emancipation, Italian and German unification, and the emergence of socialist parties. The acceleration of change was itself one of the most significant changes of the period."
+    },
+    {
+      "type": "heading",
+      "text": "⏸️ What Stayed the Same: The Evidence for Continuity"
+    },
+    {
+      "type": "paragraph",
+      "text": "The case for significant continuity is also strong. Despite all the changes above, much of the world in 1900 would have looked recognizable to a person from 1750:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Inequality persisted in new forms:** The landed aristocracy of 1750 was replaced by the industrial capitalist class of 1900 — but the basic pattern of concentrated wealth and power at the top remained. The gap between the richest and the poorest in industrialized societies grew in the 19th century, even as average living standards rose. New elites replaced old ones; the structure of elite domination continued.",
+        "**Most of humanity remained agrarian:** In 1900, most of the world's people — in China, India, sub-Saharan Africa, Latin America, Russia — still lived primarily in agricultural societies, working the land much as their ancestors had. The Industrial Revolution was, in 1900, still primarily a Western European, American, and Japanese phenomenon. The majority of humans were not yet living in industrial societies.",
+        "**Women's political exclusion continued:** In 1900, women could not vote in most industrialized countries — the United States (1920), Britain (1918 partially, 1928 fully), France (1944), Japan (1945). Despite the women's rights movement that had been building since the 1790s, political equality for women was still decades away in 1900. The Enlightenment's promise of universal rights had not been extended to women.",
+        "**Monarchies still governed major powers:** In 1900, Germany, Russia, Austria-Hungary, the Ottoman Empire, China, and Japan were all governed by emperors, tsars, or hereditary monarchs. Only France and the United States were functioning republics among major powers. Democracy was spreading but was not dominant.",
+        "**Global inequality between regions widened:** The Great Divergence meant that the gap between industrialized and non-industrialized regions was *greater* in 1900 than in 1750. Industrialization produced new global hierarchies — industrialized nations dominated non-industrialized ones economically and increasingly politically (imperialism, Unit 6)."
+      ]
+    },
+    {
+      "type": "apTip",
+      "text": "For continuity/change essays, the most common error is ignoring one side. An essay that lists 10 changes and no continuities will lose the complexity point. An essay that spends equal time on change and continuity but then claims \"great change\" overall is sophisticated — it shows you considered both and still concluded that the changes outweigh the continuities. The key word in the thesis is always the quantifier: \"to a great extent,\" \"to a significant but limited extent,\" \"to a limited extent.\" Choose one and defend it with both change AND continuity evidence."
+    },
+    {
+      "type": "heading",
+      "text": "⚖️ Making the Argument: Putting It Together"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is how to structure your thinking for any \"evaluate the extent\" prompt about Unit 5:"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Step 1: Pick your position.** Was industrialization's change great, significant, or limited? You don't have to agree with the majority view. A well-argued \"limited extent\" thesis can earn as many points as a \"great extent\" thesis — as long as it's supported."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Step 2: Identify your two strongest arguments for your position.** These become your two body paragraphs. Example for \"great extent\": (1) economic transformation from mercantilism to industrial capitalism; (2) political transformation through Atlantic revolutions and new ideologies. Example for \"significant but limited extent\": (1) industrialization dramatically changed technology, economics, and social structure in the West; (2) continuity in global inequality, most of the world's population, and political exclusion of women limited the extent of change."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Step 3: Acknowledge the counterargument — and respond to it.** This is the \"complexity\" requirement. If you argue for great change, acknowledge what stayed the same — and explain why this doesn't change your overall verdict. If you argue for limited change, acknowledge what did change and explain why you still consider the overall change limited."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Step 4: Connect to a broader context.** The period 1750–1900 is Unit 5, but it connects to what comes before (Units 1–4: how did the pre-industrial world set up conditions for industrialization?) and what comes after (Unit 6: how did industrial power enable European imperialism?). Connecting your argument to these broader contexts shows sophisticated historical thinking."
+    },
+    {
+      "type": "funFact",
+      "text": "The question of how much industrialization changed the world is still actively debated by historians. Economic historians debate \"the standard of living controversy\" — did early industrialization improve or worsen working-class living standards? (Answer: probably worse initially, then better after ~1850.) Historians of gender debate whether industrialization liberated or further constrained women. Historians of global development debate whether industrialization caused the gap between rich and poor nations or just accelerated a divergence that had earlier roots. These ongoing debates are a reminder that historical arguments are not settled facts — they are interpretations of evidence, subject to revision as new evidence emerges."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 5.10",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+5.10",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Unit 5 Review",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Unit+5+Review",
+      "creator": "Crash Course · 11 min"
+    },
+    {
+      "title": "Unit 5 Review",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+Unit+5+Review",
+      "creator": "Heimler's History · 12 min"
+    },
+    {
+      "title": "AP World: Continuity and Change Skill",
+      "url": "https://www.youtube.com/results?search_query=YouTube+AP+World%3A+Continuity+and+Change+Skill",
+      "creator": "YouTube · 8 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": "In 1750, the per capita income of Britain and India was roughly equal — both were about $1,000 in 2011 dollars by one estimate. By 1900, British per capita income had grown to approximately $4,500; India's remained near $1,000.",
+      "question": "The data most directly illustrates which of the following?",
+      "options": [
+        "A) Industrialization produced dramatic increases in wealth in industrializing nations while non-industrializing nations saw little or no improvement",
+        "B) Industrialization's benefits were broadly shared across the global economy",
+        "C) India's failure to industrialize was primarily a result of poor governance rather than the effects of colonialism",
+        "D) The gap between British and Indian per capita income in 1750 was primarily the result of geographic differences"
+      ],
+      "correctIndex": 0,
+      "explanation": "The data shows the Great Divergence at the individual level: British per capita income grew 4.5x while India's stayed flat. This illustrates that industrialization's economic benefits were not globally distributed — they concentrated in industrializing nations while non-industrializing nations (especially those under colonial control) saw little growth. This is key continuity-of-inequality evidence: global economic gaps grew, not shrank, in this period."
+    },
+    {
+      "stimulus": "In 1900, women lacked the right to vote in the United States, Britain, France, Germany, Japan, and virtually every other industrialized nation. Despite the Enlightenment's declaration that all humans possessed natural rights, and despite the women's rights movement that had been building since the 1790s, women's political equality remained unachieved.",
+      "question": "This evidence is best used to support which of the following arguments?",
+      "options": [
+        "A) Industrialization had no effect on women's social and economic roles in the period 1750–1900",
+        "B) The political changes of the period 1750–1900 were limited in extent because they consistently excluded women from formal political participation",
+        "C) Enlightenment ideas about natural rights were completely irrelevant to actual political development in the period 1750–1900",
+        "D) Women in industrialized countries had no access to formal education or professional employment by 1900"
+      ],
+      "correctIndex": 1,
+      "explanation": "The evidence of universal women's exclusion from formal political participation in 1900 — despite 150 years of Enlightenment rights discourse — is strong evidence that political change was limited in extent along gender lines. This is a key continuity: while male political participation expanded through the period, women's political equality remained unachieved, qualifying the extent of democratic change."
+    },
+    {
+      "stimulus": "A historian argues: \"The Industrial Revolution did not produce a more equal world — it produced a more efficiently unequal one. The landed aristocracy of 1750 was replaced by the industrial capitalist class of 1900, but the basic structure of concentrated wealth and power at the top of society remained remarkably constant.\"",
+      "question": "Which of the following evidence would most directly support the historian's argument?",
+      "options": [
+        "A) The emergence of labor unions and socialist political parties in industrialized countries",
+        "B) The abolition of slavery across the Atlantic world during the 19th century",
+        "C) Statistics showing that income and wealth inequality within industrialized countries grew in the 19th century even as average living standards rose",
+        "D) The growing literacy rates among working-class populations in industrialized countries"
+      ],
+      "correctIndex": 2,
+      "explanation": "The historian's argument is about the persistence of structural inequality despite changing forms. Statistics showing growing wealth concentration within industrialized countries (inequality increasing even as average wealth rises) directly support the \"efficiently unequal\" claim — the pie got bigger, but the distribution became more, not less, concentrated at the top."
+    },
+    {
+      "stimulus": "A student writes: \"Industrialization brought great change to the period 1750–1900 because it transformed economic systems, social structures, and technology across multiple continents, while the continuity of inequality and political exclusion was overcome by the end of the period.\"",
+      "question": "Which of the following best identifies a flaw in the student's argument?",
+      "options": [
+        "A) The student overstates the extent of economic change, since mercantilism remained dominant in most countries",
+        "B) The student should not mention continuity in an argument about the extent of change",
+        "C) The student's argument would be stronger if it focused only on technological change rather than social and economic change",
+        "D) The claim that \"inequality and political exclusion were overcome by the end of the period\" is historically inaccurate — both persisted in 1900"
+      ],
+      "correctIndex": 3,
+      "explanation": "The student's factual claim is wrong: inequality had not been overcome by 1900 (it had grown in some measures), and political exclusion had not been overcome (women still couldn't vote anywhere). This is the most significant flaw — historical arguments must be supported by accurate evidence. A thesis about \"great change\" can acknowledge that inequality and exclusion persisted; it just has to argue that the other changes outweigh these continuities."
+    },
+    {
+      "stimulus": "In 1750, approximately 90% of the world's population lived in agricultural societies. By 1900, that figure remained approximately 80% — despite the dramatic industrialization of Western Europe, the United States, and Japan.",
+      "question": "This evidence most directly challenges which of the following claims?",
+      "options": [
+        "A) That industrialization brought about change on a global scale by 1900",
+        "B) That industrialization was the single most important development of the period 1750–1900",
+        "C) That industrialization changed the economic systems of Western European countries",
+        "D) That railroads and steamships increased global trade in the period 1750–1900"
+      ],
+      "correctIndex": 0,
+      "explanation": "If 80% of humanity still lived in agricultural societies in 1900, industrialization's change was not yet global — it was geographically concentrated in a small number of countries. This is powerful continuity evidence that qualifies any claim of sweeping global change by 1900: most of the world was still rural and agrarian, experiencing industrialization primarily through its disruptive effects (deindustrialization, colonial extraction) rather than through participation in industrial production."
+    }
+  ],
+  "saq": {
+    "context": "\"The development of industrial capitalism led to increased standards of living for some, and to continued improvement in manufacturing methods that increased the availability, affordability, and variety of consumer goods. The rise and diffusion of Enlightenment thought questioned established traditions in all areas of life. Nationalism also became a major force shaping the historical development of states and empires.\" — AP World History CED, Unit 5 Key Concepts",
+    "directions": "Answer all three parts (A, B, C).",
+    "parts": [
+      {
+        "label": "Part A",
+        "task": "Identify ONE specific piece of evidence that supports the argument that industrialization brought great change to the period 1750–1900.",
+        "sampleAnswer": "**Sample answer:** The dramatic reversal of global manufacturing shares between 1750 and 1900 represents one of the most significant economic changes in history. In 1750, India and China together produced approximately half of all global manufactured goods; Europe produced roughly 23%. By 1900, Europe and North America accounted for approximately 84% of global manufacturing, while Asia's share had fallen to around 13%. This reversal — from Asian dominance to European and American dominance — represents a fundamental reshaping of global economic power within 150 years, driven directly by industrialization's productivity advantages. It is strong evidence of great change at the global level."
+      },
+      {
+        "label": "Part B",
+        "task": "Identify ONE specific piece of evidence that supports the argument that industrialization brought limited or qualified change to the period 1750–1900.",
+        "sampleAnswer": "**Sample answer:** In 1900, women could not vote in any major industrialized nation — not in the United States, Britain, France, Germany, or Japan. Despite 150 years of Enlightenment rhetoric about universal natural rights and a women's rights movement that had been active since Wollstonecraft (1792) and Seneca Falls (1848), political equality for women remained completely unachieved. This is strong evidence for limited change along the dimension of political rights: the period's political revolutions and Enlightenment ideals produced expanding rights for men in many countries but left women systematically excluded from formal political participation. The extent of political change was real but circumscribed by the consistent exclusion of half of humanity."
+      },
+      {
+        "label": "Part C",
+        "task": "Explain how the changes of the period 1750–1900 (industrialization, political revolution, or new economic systems) contributed to the development of imperialism and colonial expansion in the same period.",
+        "sampleAnswer": "**Sample answer:** The Industrial Revolution directly enabled the wave of European imperial expansion that characterized the late 19th century in three specific ways. First, industrialization produced a massive military technology gap: steam-powered gunboats, breech-loading rifles, and railroads gave European powers decisive advantages over non-industrialized societies that could not be overcome with traditional weapons and tactics. Second, industrial capitalism created economic demand for colonial territories as sources of raw materials (rubber, cotton, oil, minerals) for factories and as markets for manufactured goods — giving industrial nations powerful economic incentives to seek political control of resource-rich regions. Third, railroads and steamships made it logistically possible to administer large colonial territories efficiently — an empire in Africa or Asia could now be controlled from London, Paris, or Brussels through telegraph and steamship in ways that had been logistically impractical before. The changes of Unit 5 directly produced the imperialism of Unit 6."
+      }
+    ]
+  },
+  "leq": {
+    "outline": [
+      {
+        "label": "Evidence for Change Body Paragraph",
+        "text": "Steam engine + fossil fuels replaced human/animal power — energy revolution; Global manufacturing share shifted from Asia to Europe/North America (73% → 13% for Asia); Atlantic revolutions produced republics, constitutions, nationalist movements; New social classes (middle class, industrial working class) replaced old aristocracy/peasant structure; Railroads, steamships, telegraph connected interior regions globally; Adam Smith → free trade replaced mercantilism as economic framework"
+      },
+      {
+        "label": "Evidence for Continuity Body Paragraph",
+        "text": "Women excluded from formal political participation in every industrialized nation in 1900; 80% of world population still in agricultural societies by 1900; Inequality within industrialized nations grew even as average living standards rose; Monarchies still governed major powers (Germany, Russia, Austria-Hungary, China, Japan); Global economic inequality widened — Great Divergence produced new hierarchies; India, Egypt deindustrialized — industrialization's change was harmful, not beneficial, for many"
+      }
+    ],
+    "prompt": "\"Evaluate the extent to which industrialization brought change to the period 1750–1900.\"",
+    "note": "This is a synthesis prompt — the goal is to draw evidence from across Unit 5 (and beyond) to make a supported argument. Write a complete thesis before revealing. Focus on selecting your strongest evidence for the quantifier you choose.",
+    "thesisExample": "\"Industrialization brought change to the period 1750–1900 to a great extent because it fundamentally transformed the economic and technological foundations of human society in industrialized nations — replacing agricultural production and animal power with factory production and fossil fuels — and because it restructured global economic relationships in ways that shifted manufacturing dominance from Asia to Europe and North America, even though inequality persisted and most of humanity remained outside industrialized economies by 1900.\""
+  },
+  "discussionQuestions": [
+    {
+      "question": "Make an argument: In what ONE domain did industrialization bring the greatest change from 1750 to 1900? Explain why that domain matters more than others.",
+      "modelAnswer": "Strong answers will name a specific domain and explain why it is more significant than alternatives. Example: **Technology and energy** — the shift from human/animal/water power to fossil fuel-powered machines was the most fundamental change because it underpins all the other changes. Without the energy revolution (steam engine, fossil fuels, electricity), there would have been no factories, no railroads, no telegraph, no industrial economy, no industrial class structure. Every other change of the period flows from the energy revolution. Alternative strong answers: the economic system (from mercantilism to industrial capitalism restructured global trade and power); or political ideas (Enlightenment and Atlantic revolutions produced the modern concept of democratic government). All are defensible as long as the reasoning explains why that domain matters more than alternatives."
+    },
+    {
+      "question": "Make a continuity argument: What is the most important thing that did NOT change in the period 1750–1900, and why does this continuity matter for how we assess the overall extent of change?",
+      "modelAnswer": "Strong answers will identify a specific continuity and explain its significance for the overall assessment. Example: **Global economic inequality** — the gap between rich and poor regions actually grew in this period. In 1750, Asia and the Middle East produced about 73% of global manufactured goods; by 1900, that share had fallen to about 13%. Industrial capitalism didn't reduce global inequality — it restructured it, creating a new hierarchy in which industrialized nations dominated non-industrialized ones economically and militarily. This continuity matters because it shows that industrialization's \"change\" was geographically concentrated: it dramatically improved conditions in Western Europe and North America while leaving most of humanity behind and in some ways worse off (deindustrialization of India, Egypt, etc.). An assessment of \"great change\" that ignores this geographic unevenness is incomplete."
+    },
+    {
+      "question": "The period 1750–1900 is defined by industrialization AND political revolution. How do these two sets of changes relate to each other — did one cause the other, or were they independent?",
+      "modelAnswer": "The relationship is complex — both connected and somewhat independent. Political revolutions and industrialization shared a common intellectual root in the Enlightenment (both challenged traditional authority in favor of reason and individual rights) and both involved rejection of the existing order. But they were not simply cause and effect: the American Revolution (1776) preceded the Industrial Revolution's major breakthroughs; the French Revolution (1789) happened in a country that was not yet industrialized. However, industrialization and political change reinforced each other over time: industrial capitalism created the middle class that demanded political rights; the industrial working class created labor and socialist movements that pushed for further political change; industrial wealth funded the military power that backed the spread of liberal ideas. By the mid-19th century, the two sets of changes were deeply intertwined — you cannot understand 19th-century European politics without understanding industrial economics, and vice versa."
+    },
+    {
+      "question": "A student argues: \"Industrialization changed everything — by 1900 the world was unrecognizable compared to 1750.\" How would you qualify or complicate this claim without rejecting it entirely?",
+      "modelAnswer": "Strong qualification: \"The world was unrecognizable to a middle-class European in 1900 compared to 1750 — but recognizable in many ways to a peasant in rural India or China, where the majority of humanity still lived in agricultural communities using farming methods not drastically different from their great-grandparents.\" In other words, the claim is true for industrialized Western societies but overstated for most of humanity. Additional qualifications: political authority still rested with monarchies in most of the world's major states; women still lacked the vote in every country; inequality within societies had in some measures increased. The world was radically different in the domains that industrialization directly touched; it was more recognizable in the many domains it hadn't yet reached."
+    },
+    {
+      "question": "How does the \"extent of change\" in Unit 5 set up Unit 6 (Consequences of Industrialization / Imperialism)? What connections can you draw?",
+      "modelAnswer": "Unit 5's industrialization directly produced the conditions for Unit 6's imperialism: (1) The Great Divergence — the massive growth of the gap between industrialized and non-industrialized military and economic power — made it possible for a small number of European countries to militarily dominate much larger non-European populations. (2) Industrial capitalism's demand for raw materials and markets drove European powers to seek colonial territories that could supply inputs cheaply and absorb industrial goods. (3) Railroads, steamships, and the telegraph made it possible to administer large colonial territories efficiently in ways previously impossible. (4) The same nationalism that drove Italian and German unification also drove European powers to compete for empire as a symbol of national greatness. Everything in Unit 6 flows from Unit 5: the military power, the economic logic, the transportation technology, and the ideological justifications for imperialism all emerged from industrialization and the political changes it produced."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

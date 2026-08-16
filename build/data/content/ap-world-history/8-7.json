@@ -1,0 +1,300 @@
+{
+  "course": "ap-world-history",
+  "num": "8.7",
+  "title": "Global Resistance to Established Power Structures After 1900",
+  "status": "complete",
+  "themes": [
+    {
+      "icon": "✊",
+      "label": "Nonviolence",
+      "tooltip": "Gandhi's nonviolent civil disobedience (satyagraha) demonstrated that mass peaceful resistance could challenge imperial power — inspiring MLK, Mandela, and resistance movements worldwide."
+    },
+    {
+      "icon": "🏛️",
+      "label": "Authoritarianism",
+      "tooltip": "Topic 8.7 examines resistance to authoritarian regimes — apartheid South Africa, Soviet bloc governments, and military dictatorships in Latin America and East Asia."
+    },
+    {
+      "icon": "💣",
+      "label": "Terrorism",
+      "tooltip": "Some anti-colonial and anti-authoritarian movements used violence — the Mau Mau in Kenya, the FLN in Algeria, the PLO in Palestine — raising questions about when political violence is justified."
+    },
+    {
+      "icon": "⚔️",
+      "label": "State Violence",
+      "tooltip": "States used systematic violence to suppress resistance — massacre of peaceful protesters (Amritsar, Sharpeville), torture of political prisoners, and assassination of opposition leaders."
+    }
+  ],
+  "tldr": [
+    "**LO-A: Two contradictory forces: resistance AND intensification of conflict —** The CED presents Topic 8.7 as showing that the 20th century had both people who challenged conflict (Gandhi, MLK, Mandela) AND people/systems that intensified it (Pinochet, Franco, Idi Amin, Al-Qaeda). Both patterns are required content. **Nonviolent resistance is a major CED theme —** Gandhi (India), Martin Luther King Jr. (US civil rights), and Nelson Mandela (South Africa) all promoted nonviolence as a way to achieve political change. Know all three — what they fought for, how, and what results they achieved. **Militarized states intensified conflict —** Chile under Pinochet, Spain under Franco, Uganda under Idi Amin, and the global military-industrial complex all exemplify how states responded to challenges by intensifying violence rather than reform. These are all CED illustrative examples. **Terrorist movements used violence against civilians —** Shining Path (Peru) and Al-Qaeda are CED examples of movements that used violence against civilians to achieve political aims. These represent a distinct category from state violence."
+  ],
+  "learningObjectives": [
+    "Explain various reactions to existing power structures after 1900 — those that challenged and promoted alternatives and those that intensified conflict through state violence or civilian-targeting terrorism. Illustrative Examples: Nonviolent — Gandhi, Martin Luther King Jr., Nelson Mandela. State intensification — Pinochet (Chile), Franco (Spain), Idi Amin (Uganda), military-industrial complex. Violent movements — Shining Path, Al-Qaeda."
+  ],
+  "vocabulary": [
+    {
+      "term": "Satyagraha",
+      "definition": "Gandhi's philosophy of non-violent resistance — \"truth-force\" or \"soul-force\" — used as a political weapon against colonial rule.",
+      "importance": "Demonstrated that non-violent mass civil disobedience could be more powerful than armed resistance; influenced civil rights movements worldwide."
+    },
+    {
+      "term": "Martin Luther King Jr.",
+      "definition": "American civil rights leader who applied Gandhi's non-violent methods to the struggle for African American equality, leading the Montgomery Bus Boycott (1955–56), March on Washington (1963), and many other campaigns.",
+      "importance": "CED required example; demonstrated that nonviolent resistance could achieve major legal and social change within a democracy through moral force and mass mobilization."
+    },
+    {
+      "term": "Nelson Mandela",
+      "definition": "South African anti-apartheid activist who spent 27 years in prison (1964–1990) before becoming South Africa's first Black president (1994) and championing reconciliation over revenge.",
+      "importance": "CED required example; his eventual embrace of non-violence and reconciliation after emerging from prison became a global model for peaceful political transition."
+    },
+    {
+      "term": "Augusto Pinochet",
+      "definition": "Chilean general who led a US-backed military coup overthrowing democratically elected President Salvador Allende in 1973; ruled as military dictator until 1990.",
+      "importance": "CED illustrative example of response intensifying conflict; his regime \"disappeared\" approximately 3,000 people and tortured tens of thousands while implementing neoliberal economic policies."
+    },
+    {
+      "term": "Francisco Franco",
+      "definition": "Spanish military general who led the Nationalist forces in the Spanish Civil War (1936–39) and ruled as authoritarian dictator until 1975.",
+      "importance": "CED illustrative example; his victory in the Civil War was made possible by Nazi German and Italian fascist military support; his 36-year dictatorship suppressed leftist opposition through mass violence and imprisonment."
+    },
+    {
+      "term": "Idi Amin",
+      "definition": "Ugandan military officer who seized power in a coup (1971) and ruled as a brutal dictator until 1979, killing an estimated 100,000–500,000 people through ethnic persecution and political violence.",
+      "importance": "CED illustrative example of state violence intensifying conflict; his regime expelled Uganda's Asian community, destroyed the economy, and became internationally synonymous with African authoritarian brutality."
+    },
+    {
+      "term": "Shining Path (Sendero Luminoso)",
+      "definition": "Maoist communist insurgent group in Peru (founded 1970, active 1980–present) that used terrorism — bombings, assassinations, massacres — against the Peruvian state and civilian population.",
+      "importance": "CED illustrative example of movements using violence against civilians; killed approximately 30,000 people (majority civilians) during its peak conflict years in the 1980s–90s."
+    },
+    {
+      "term": "Al-Qaeda",
+      "definition": "Transnational jihadist organization founded by Osama bin Laden in the late 1980s; responsible for the September 11, 2001 attacks in the United States.",
+      "importance": "CED illustrative example of movements using violence against civilians; the 9/11 attacks killed approximately 3,000 people and triggered the US \"War on Terror,\" reshaping global politics in the early 21st century."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Why did Gandhi, Martin Luther King Jr., and Nelson Mandela all choose nonviolent resistance rather than armed struggle? Was it purely moral, or were there strategic calculations involved?",
+      "answer": "For all three, nonviolence was both a moral conviction and a strategic choice. Gandhi developed satyagraha (soul-force or truth-force) as a philosophy rooted in Hindu and Jain traditions of non-harm — but it was also strategically brilliant: it denied the colonial power the pretext for brutal suppression that armed resistance would have provided, and it won international moral support that armed revolt would not have. MLK similarly chose nonviolence for moral reasons (Christian theology of love) but also because it exposed the brutality of Southern white supremacy to national and international audiences in ways that made continued resistance politically untenable. For Mandela, nonviolence had a more complicated history: he initially helped found the ANC's armed wing (Umkhonto we Sizwe) after the Sharpeville Massacre showed peaceful protest wasn't working. After 27 years in prison, he emerged embracing reconciliation as the only path to a functional multiracial South Africa. All three recognized that strategic nonviolence could delegitimize their opponents while mobilizing moral authority that armed struggle could not."
+    },
+    {
+      "question": "How were Pinochet (Chile), Franco (Spain), and Idi Amin (Uganda) examples of \"responses that intensified conflict\"? What do they have in common?",
+      "answer": "All three came to power or maintained power through military force and used state violence — torture, imprisonment, execution, and mass repression — to suppress political opposition rather than addressing the social and political grievances that had generated resistance. Pinochet's coup (1973) overthrew the democratically elected socialist Allende and installed a military dictatorship that \"disappeared\" approximately 3,000 people and tortured tens of thousands. Franco's regime (established after the Spanish Civil War 1936–39) used mass executions and imprisonment to suppress Republican opponents. Idi Amin's Ugandan regime (1971–79) killed an estimated 100,000–500,000 people through political violence and ethnic persecution. All three intensified conflict by choosing repression over reform, demonstrating the CED's point that militarized states often responded to conflict in ways that deepened rather than resolved it."
+    },
+    {
+      "question": "Why does the CED include Al-Qaeda and Shining Path as examples of movements that \"used violence against civilians to achieve political aims\"? What distinguishes them from other forms of resistance?",
+      "answer": "Al-Qaeda and Shining Path represent a distinct category of resistance: they deliberately targeted civilians as a primary tactic, not just as collateral damage. The Shining Path (Sendero Luminoso) in Peru killed thousands of Peruvian civilians — including indigenous peasants it claimed to represent — through bombings, assassinations, and massacres, aiming to destabilize the state and create conditions for revolution. Al-Qaeda's attacks (most dramatically 9/11, 2001) targeted civilians specifically to cause maximum psychological impact, spread terror, and provoke reactions it hoped would radicalize Muslim populations. What distinguishes these movements is the deliberate and systematic targeting of non-combatants as a political tool — terrorism, by definition. The CED includes them because they represent a significant and ongoing 20th-21st century phenomenon that shaped global politics, particularly after 9/11, and because they illustrate that not all resistance to established power used non-violent or even conventionally military methods."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "☮️ The Power of Nonviolence: Gandhi, MLK, Mandela — KC-6.2.V.A"
+    },
+    {
+      "type": "paragraph",
+      "text": "The AP CED states that \"groups and individuals challenged the many wars of the century, and some, such as Mohandas Gandhi, Martin Luther King Jr., and Nelson Mandela, promoted the practice of nonviolence as a way to bring about political change.\" All three are required examples — know their contexts, methods, and achievements."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Mohandas Gandhi (1869–1948):** Gandhi developed the philosophy of **satyagraha** (\"truth-force\") through his early work in South Africa (1893–1914) before returning to India to lead the independence movement. His methods included: mass civil disobedience (refusing to follow unjust laws), economic boycotts (of British goods), hunger strikes, and massive peaceful marches — most famously the **Salt March** (1930), in which he led 240 miles on foot to the sea to make salt illegally, defying the British salt tax. Gandhi's genius was to make British repression of peaceful protesters politically costly at home and internationally — British police beating women and children on the Salt March horrified world opinion. Gandhi was assassinated in January 1948, just months after Indian independence. His methods became the global template for nonviolent resistance."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Martin Luther King Jr. (1929–1968):** King applied Gandhi's methods to the African American civil rights movement in the American South. His campaigns — the Montgomery Bus Boycott (1955–56), Birmingham Campaign (1963), March on Washington (1963, \"I Have a Dream\" speech), Selma to Montgomery marches (1965) — used nonviolent mass action to expose the brutality of racial segregation. When Birmingham police used fire hoses and attack dogs against peaceful protesters, the images broadcast nationwide and internationally accelerated federal civil rights legislation. King understood that nonviolence served a dual purpose: it demonstrated the moral superiority of the civil rights movement AND it exposed the moral bankruptcy of segregation's defenders. He was assassinated in Memphis in April 1968."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Nelson Mandela (1918–2013):** Mandela's path to nonviolence was more complex. He initially organized non-violent resistance through the African National Congress (ANC) against South Africa's apartheid system — a system of legalized racial segregation that classified and controlled Black South Africans from birth. After the **Sharpeville Massacre** (1960), in which South African police killed 69 peaceful protesters, Mandela helped found the ANC's armed wing. He was imprisoned in 1964 and sentenced to life on Robben Island. After 27 years in prison, he was released in 1990 and became the face of peaceful transition — negotiating with the apartheid government rather than pursuing violent revolution, becoming South Africa's first Black president in 1994 in a peaceful election. His emphasis on truth, reconciliation, and building a \"Rainbow Nation\" rather than pursuing revenge became a global model."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/8-7-0.jpg",
+      "alt": "Global resistance movements and state responses",
+      "caption": "",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/8-7-1.jpg",
+      "alt": "Leaders marching from the Washington Monument to the Lincoln Memorial at the March on Washington, August 28, 1963",
+      "caption": "",
+      "attribution": "Image credit not specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leaders of the March on Washington march toward the Lincoln Memorial, August 28, 1963 — the day of Dr. King's \"I Have a Dream\" speech. Photo: Rowland Scherman, US Information Agency. Public domain, Wikimedia Commons."
+    },
+    {
+      "type": "funFact",
+      "text": "When Nelson Mandela was released from prison in 1990, South Africa's apartheid government offered him freedom if he would renounce violence. He refused — insisting that as long as apartheid existed, he could not renounce what he considered legitimate resistance. When he did ultimately negotiate a peaceful transition, it was as a free man negotiating from strength, not a prisoner conceding to force. The **Truth and Reconciliation Commission** he supported after becoming president — in which perpetrators of apartheid crimes could receive amnesty in exchange for full public confession — was one of the most innovative approaches to transitional justice in world history, allowing South Africa to confront its past without a cycle of revenge."
+    },
+    {
+      "type": "heading",
+      "text": "🏛️ Responses That Intensified Conflict — KC-6.2.V.C"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CED identifies a contrasting pattern: \"Militaries and militarized states often responded to the proliferation of conflicts in ways that further intensified conflict.\" Four required illustrative examples:"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Chile under Augusto Pinochet:** On September 11, 1973, Chilean General Augusto Pinochet led a US-backed military coup that overthrew the democratically elected socialist President Salvador Allende (who died during the coup, either killed or by suicide). Pinochet established a military dictatorship that lasted until 1990. His regime \"disappeared\" approximately 3,000 people (arrested, tortured, and killed with bodies hidden), detained and tortured an estimated 30,000+ people, and forced approximately 200,000 Chileans into exile. The coup intensified rather than resolved Chile's political conflict, creating decades of trauma. The US role — the CIA had actively worked to destabilize Allende's government — made Chile a Cold War controversy."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Spain under Francisco Franco:** Franco's Nationalist forces won the Spanish Civil War (1939) with crucial military support from Nazi Germany and Fascist Italy. His subsequent 36-year dictatorship (1939–1975) suppressed leftist political parties, trade unions, and regional autonomy movements (particularly in Catalonia and the Basque Country) through mass executions, imprisonment, and censorship. The Civil War itself — in which approximately 500,000 people died — was intensified by foreign intervention from both fascist powers (supporting Franco) and the Soviet Union (supporting the Republic). Franco represents the pattern of authoritarian violence replacing rather than resolving political conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Uganda under Idi Amin:** Idi Amin seized power in Uganda in a 1971 coup and ruled for eight years in a reign of terror. He expelled Uganda's entire Asian community (approximately 80,000 people of South Asian descent, who had lived in Uganda for generations) in 1972, confiscating their businesses and property — destroying much of Uganda's commercial sector in the process. His regime killed an estimated 100,000–500,000 Ugandans through ethnic persecution and political violence, targeting Acholi and Langi peoples and perceived political opponents. He was finally ousted by Tanzanian military intervention in 1979. Amin became internationally synonymous with African authoritarian brutality, though the Cold War context (Uganda shifted between US and Soviet alignment) contributed to the lack of international intervention."
+    },
+    {
+      "type": "paragraph",
+      "text": "**The military-industrial complex:** The CED also identifies \"the buildup of the military-industrial complex and weapons trading\" as an example of responses that intensified conflict. The term \"military-industrial complex\" was coined by US President Dwight Eisenhower in his 1961 farewell address, warning of the dangerous link between military contractors, the armed services, and Congress — a system that had a vested interest in continued military spending and conflict. Both superpowers maintained enormous military establishments that employed millions and drove technological development. The global arms trade — both superpowers selling weapons to developing nations — equipped combatants in proxy wars and local conflicts worldwide, amplifying their lethality."
+    },
+    {
+      "type": "apTip",
+      "text": "Topic 8.7 has four sets of required illustrative examples — nonviolent resisters (Gandhi, MLK, Mandela), state violence intensifiers (Pinochet, Franco, Idi Amin, military-industrial complex), and civilian-targeting movements (Shining Path, Al-Qaeda). On the AP exam, you need to be able to use specific examples from EACH category. The LO asks you to \"explain various reactions\" — plural and varied. A strong response includes both the constructive (nonviolent resistance) and the destructive (state violence and terrorism) ends of the spectrum, showing you understand that the 20th century saw both simultaneously."
+    },
+    {
+      "type": "heading",
+      "text": "💣 Violence Against Civilians — KC-6.2.V.D"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CED identifies a third category: \"Some movements used violence against civilians in an effort to achieve political aims.\" Two required examples:"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Shining Path (Sendero Luminoso) — Peru:** Founded by university professor Abimael Guzmán in the 1970s as a Maoist communist movement, the Shining Path launched an armed insurgency in Peru in 1980. Its strategy included assassinations of government officials, bombings, and — most controversially — massacres of civilian villages it accused of collaborating with the government. Approximately 30,000 people died during the conflict's peak (1980s–90s), with both Shining Path and government forces responsible for atrocities. Guzmán was captured in 1992 and the movement weakened, though it persists at reduced capacity. The Shining Path's willingness to massacre indigenous Peruvian peasants — the very people it claimed to represent — became emblematic of the gap between revolutionary rhetoric and brutal practice."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Al-Qaeda:** Al-Qaeda (\"The Base\") was founded by Osama bin Laden in the late 1980s, drawing on jihadist fighters who had resisted the Soviet invasion of Afghanistan. Its ideology combined Islamic fundamentalism with opposition to US military presence in Muslim-majority countries (particularly Saudi Arabia) and support for authoritarian regimes. Al-Qaeda's attacks on American embassies in Kenya and Tanzania (1998), the USS Cole (2000), and most devastatingly the September 11, 2001 attacks on the World Trade Center and Pentagon (killing approximately 3,000 people) represented the deliberate targeting of civilians to achieve political aims — the definition of terrorism. The 9/11 attacks triggered the US \"War on Terror,\" including the invasion of Afghanistan (2001) and Iraq (2003), reshaping global politics well into the 21st century."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's History: Unit 8.7",
+      "url": "https://www.youtube.com/results?search_query=AP+world+heimler+unit+8.7",
+      "creator": "Heimler's History · 10 min"
+    },
+    {
+      "title": "Gandhi's Salt March: HISTORY",
+      "url": "https://www.youtube.com/results?search_query=YouTube+Gandhi%27s+Salt+March%3A+HISTORY",
+      "creator": "YouTube · video"
+    },
+    {
+      "title": "MLK and the Civil Rights Movement",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+MLK+and+the+Civil+Rights+Movement",
+      "creator": "Crash Course · 12 min"
+    },
+    {
+      "title": "Global Resistance to Power Structures",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+History+Global+Resistance+to+Power+Structures",
+      "creator": "Heimler's History · 8 min"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "stimulus": null,
+      "question": "The CED groups Gandhi, Martin Luther King Jr., and Nelson Mandela together as examples of individuals who \"promoted the practice of nonviolence as a way to bring about political change.\" What do these three figures most significantly share?",
+      "options": [
+        "All three achieved their goals without any confrontation with state authorities",
+        "All three worked within established democratic systems to achieve change through electoral politics alone",
+        "All three eventually abandoned nonviolence in favor of armed struggle when peaceful methods failed",
+        "All three faced imprisonment or persecution for their resistance, demonstrating that nonviolent resistance could expose the violence underlying oppressive systems while maintaining moral authority"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gandhi was imprisoned, MLK was jailed and ultimately assassinated, Mandela spent 27 years in prison. All three faced state repression but maintained moral authority through nonviolent commitment, which delegitimized their oppressors."
+    },
+    {
+      "stimulus": null,
+      "question": "The CED states that \"militaries and militarized states often responded to the proliferation of conflicts in ways that further intensified conflict.\" Pinochet's Chile (1973–1990) best illustrates this pattern because:",
+      "options": [
+        "The military coup created order and stability that ended the political conflict that preceded it",
+        "The coup and subsequent military repression — 3,000 disappeared, 30,000+ tortured — intensified rather than resolved political conflict, creating decades of trauma and a divided society",
+        "Chile under Pinochet became a model for peaceful democratic transition that other countries emulated",
+        "US military intervention in Chile directly caused the political violence that followed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pinochet's military coup and subsequent repression intensified Chile's political conflict rather than resolving it, creating lasting societal divisions and decades of trauma — illustrating how militarized responses can worsen rather than solve political disputes."
+    },
+    {
+      "stimulus": null,
+      "question": "The CED identifies both the Shining Path and Al-Qaeda as illustrative examples of \"movements that used violence against civilians in an effort to achieve political aims.\" The distinction the CED draws here is primarily between:",
+      "options": [
+        "Domestic and international terrorism",
+        "Communist and Islamic fundamentalist ideologies",
+        "Movements that deliberately targeted non-combatants as a political strategy versus state or conventional military violence",
+        "Successful and unsuccessful resistance movements"
+      ],
+      "correctIndex": 2,
+      "explanation": "The CED category identifies movements that specifically targeted civilians — terrorism — as distinct from state violence (Pinochet, Amin) or conventional armed resistance movements."
+    },
+    {
+      "stimulus": null,
+      "question": "Eisenhower's warning about the \"military-industrial complex\" in 1961 is significant for AP World History because it demonstrates that:",
+      "options": [
+        "Even within the US government, there was recognition that the institutional relationships between military contractors, the armed services, and political leaders created systemic incentives to maintain and expand military spending regardless of genuine security needs",
+        "The United States was planning to use nuclear weapons against the Soviet Union during the Cold War",
+        "American democracy was fundamentally incompatible with maintaining a large military force",
+        "The Soviet Union's military spending was less excessive than that of the United States during the Cold War"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eisenhower's warning acknowledged that the military-industrial complex had structural incentives to perpetuate military spending and conflict, representing an internal American critique of how the Cold War intensified conflict beyond genuine security needs."
+    },
+    {
+      "stimulus": null,
+      "question": "Nelson Mandela's significance as a CED illustrative example of nonviolent resistance is most precisely illustrated by:",
+      "options": [
+        "His early advocacy of armed resistance against apartheid, which successfully forced the South African government to negotiate",
+        "His decision to pursue negotiated transition and reconciliation after 27 years of imprisonment rather than pursuing revenge, leading to South Africa's peaceful democratic transition",
+        "His leadership of the ANC's armed wing, which militarily defeated the apartheid government's security forces",
+        "His appeals to the United Nations, which imposed effective sanctions that forced the end of apartheid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mandela's greatest significance for the CED's nonviolence theme is his choice of negotiation and reconciliation over revenge after 27 years of imprisonment, making South Africa's democratic transition peaceful and becoming a global model."
+    }
+  ],
+  "saq": {
+    "parts": [],
+    "prompt": "**a)** Briefly explain ONE way that Gandhi's method of nonviolent resistance was strategically effective, not merely morally principled.",
+    "sampleAnswer": "**Sample Answers:** **a)** Gandhi's Salt March (1930) was strategically effective because it put the British colonial authorities in an impossible position: if they allowed Indians to make salt illegally, the tax law would be defied; if they responded with force against peaceful marchers (as they did at Dharasana salt works), the images of British police beating non-resisting protesters horrified world opinion and delegitimized British rule. The nonviolent method denied the British the moral high ground that suppressing armed revolt might have preserved. It also built international sympathy — particularly in the United States — for Indian independence. Gandhi's genius was recognizing that in an era of mass media and international opinion, nonviolent discipline could be a more powerful political weapon than arms. **b)** Augusto Pinochet's military coup in Chile (1973) intensified rather than resolved Chile's political conflict. The coup overthrew a democratically elected government, which itself intensified political polarization by demonstrating that electoral democracy was vulnerable to military force when elites found the results unacceptable. Pinochet's subsequent campaign of \"disappearing\" approximately 3,000 political opponents — arresting, torturing, and killing them with bodies hidden — created a legacy of trauma and unresolved grief that divided Chilean society for decades. Far from ending political conflict, the coup deepened it, as victims' families and international human rights organizations continued to demand justice decades after Pinochet left power. **c)** Both the Shining Path and Al-Qaeda deliberately targeted civilians as a central tactic rather than as incidental casualties of military operations — both groups defined civilians as legitimate targets in their ideological frameworks. The Shining Path explicitly categorized peasant villages that cooperated with the government as enemies deserving violence. Al-Qaeda's jihadist ideology explicitly justified killing Western civilians as combatants in a civilizational war. Both groups believed that mass civilian casualties would advance their political goals — the Shining Path by demonstrating state weakness and creating chaos conducive to revolution, Al-Qaeda by provoking Western military responses it believed would radicalize Muslim populations. This deliberate civilian targeting — terrorism by definition — distinguishes both from conventional armed resistance movements that target military and state actors."
+  },
+  "leq": {
+    "outline": [],
+    "prompt": "Evaluate the extent to which nonviolent resistance was more effective than other forms of resistance in achieving political change in the period after 1900.",
+    "modelThesis": "**Model Thesis:** Although nonviolent resistance achieved significant political change in specific contexts — Indian independence through Gandhi's campaigns, American civil rights legislation through MLK's methods, and South Africa's democratic transition through Mandela's leadership — its effectiveness depended on structural conditions including an opponent susceptible to moral pressure and international opinion, suggesting that nonviolence was powerfully effective in some contexts while other forms of resistance (armed struggle in Algeria and Vietnam, for example) were necessary where those conditions didn't exist, making effectiveness context-dependent rather than absolute."
+  },
+  "discussionQuestions": [
+    {
+      "question": "1. Why have some historians argued that nonviolent resistance is more effective than armed struggle for achieving lasting political change? Use Gandhi, MLK, or Mandela as evidence.",
+      "modelAnswer": "Historians who favor this argument note several advantages of nonviolent resistance. First, it denies the opponent a pretext for unrestrained violence — if protesters are peaceful and police beat them anyway, public opinion shifts against the authorities. Gandhi's Salt March and MLK's Birmingham campaign both worked this way: British and Southern white authorities responded with disproportionate force that delegitimized their position internationally. Second, nonviolent movements tend to build broader coalitions — they can attract people who support the cause but won't commit to armed struggle. Third, nonviolent change often produces more durable settlements: South Africa's peaceful transition produced a democratic constitution that lasted; countries that achieved change through armed struggle often found themselves in cycles of counter-violence. The counterargument: nonviolent resistance worked partly because Gandhi faced a British Empire that was susceptible to moral pressure and public opinion; MLK faced a US democracy that had to answer to international scrutiny during the Cold War; Mandela's ultimate path was shaped by a South African government that chose negotiation over permanent conflict. Against opponents with no concern for world opinion, nonviolent resistance may be less effective."
+    },
+    {
+      "question": "2. How did the Cold War context shape or enable responses like Pinochet's Chile and Idi Amin's Uganda?",
+      "modelAnswer": "The Cold War created a context in which both superpowers were willing to support or tolerate brutal authoritarian regimes as long as they aligned strategically. Pinochet's coup had direct US involvement: the CIA had worked to destabilize Allende's democratically elected government because Allende was socialist and the US feared Chile \"going communist.\" The Nixon administration recognized Pinochet's junta within days of the coup. This superpower patronage protected Pinochet from serious international consequences. Idi Amin was more complex: he initially received US support, then cultivated Soviet and Libyan ties, then lost both. His ability to maintain power for eight years despite atrocities reflected both Cold War preoccupations (neither superpower wanted to confront him) and African institutional limitations (the OAU principle of non-interference in member states' internal affairs). Without Cold War context, it's unlikely either regime would have survived as long as it did."
+    },
+    {
+      "question": "3. Compare the Shining Path and Al-Qaeda as examples of movements that used violence against civilians. What similarities and differences do you see?",
+      "modelAnswer": "Both groups deliberately targeted civilians as a political strategy — Shining Path through village massacres and bombings in Peru; Al-Qaeda through suicide bombings and large-scale attacks on American and Western targets. Both were ideologically driven: Shining Path by Maoist communist ideology that justified any violence in service of \"the people's war\"; Al-Qaeda by jihadist ideology that justified attacking civilian \"enemies of Islam.\" Both operated transnationally (Al-Qaeda explicitly, Shining Path through influence on other Latin American movements). Key differences: Shining Path was primarily a domestic insurgency with local political goals (seizing state power in Peru); Al-Qaeda was transnational with global ambitions (expelling Western influence from Muslim lands, ultimately creating an Islamic caliphate). Shining Path's violence was more random and rural; Al-Qaeda's was highly planned and symbolic (targeting iconic American sites). Shining Path was effectively suppressed with the capture of its leader; Al-Qaeda's networked structure made decapitation less effective."
+    },
+    {
+      "question": "4. President Eisenhower warned of the \"military-industrial complex\" in 1961. Why is this concept relevant to understanding how conflict was intensified in the 20th century?",
+      "modelAnswer": "The military-industrial complex describes a self-reinforcing system: defense contractors profit from military spending; they fund politicians who vote for defense budgets; the military wants new weapons systems that create more contracts; and the cycle continues. Eisenhower warned that this system created a structural incentive to maintain and expand military budgets regardless of genuine security needs. In the Cold War context, this meant: both superpowers maintained enormously expensive nuclear and conventional arsenals far beyond any rational security need; the arms trade spread weapons globally, making local conflicts more lethal; and the lobbying power of defense industries made it politically difficult to reduce military spending even during periods of reduced tension. The global arms trade — both superpowers selling weapons to developing nations — directly contributed to the lethality of proxy wars: wars in Angola, Nicaragua, Ethiopia, and elsewhere were fought with superpower weapons that would otherwise not have been available to those combatants. The military-industrial complex thus intensified conflict not just within the superpowers but globally through arms sales and proxy war support."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

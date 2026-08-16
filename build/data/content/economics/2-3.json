@@ -18,11 +18,26 @@
     "A shift in demand or supply moves the whole curve and creates a new equilibrium; a change in price alone just moves you along an existing curve."
   ],
   "vocabulary": [
-    {"term": "Equilibrium price", "definition": "The price at which the quantity buyers want to purchase equals the quantity sellers want to sell — the price where the market \"clears.\""},
-    {"term": "Equilibrium quantity", "definition": "The amount bought and sold at the equilibrium price."},
-    {"term": "Shortage", "definition": "A situation where quantity demanded exceeds quantity supplied at the current price — usually because the price is set below equilibrium."},
-    {"term": "Surplus", "definition": "A situation where quantity supplied exceeds quantity demanded at the current price — usually because the price is set above equilibrium."},
-    {"term": "Shift vs. movement", "definition": "A \"shift\" moves an entire supply or demand curve (caused by something other than the good's own price, like income or costs). A \"movement\" is a change in quantity along the same curve, caused only by a change in the good's own price."}
+    {
+      "term": "Equilibrium price",
+      "definition": "The price at which the quantity buyers want to purchase equals the quantity sellers want to sell — the price where the market \"clears.\""
+    },
+    {
+      "term": "Equilibrium quantity",
+      "definition": "The amount bought and sold at the equilibrium price."
+    },
+    {
+      "term": "Shortage",
+      "definition": "A situation where quantity demanded exceeds quantity supplied at the current price — usually because the price is set below equilibrium."
+    },
+    {
+      "term": "Surplus",
+      "definition": "A situation where quantity supplied exceeds quantity demanded at the current price — usually because the price is set above equilibrium."
+    },
+    {
+      "term": "Shift vs. movement",
+      "definition": "A \"shift\" moves an entire supply or demand curve (caused by something other than the good's own price, like income or costs). A \"movement\" is a change in quantity along the same curve, caused only by a change in the good's own price."
+    }
   ],
   "narrative": [
     "Imagine a food truck selling tacos outside your school. If the truck charges $20 a taco, almost nobody buys one — there's a huge surplus of unsold tacos sitting under the heat lamp. If the truck charges $1 a taco, the line wraps around the block and they sell out in ten minutes — a shortage, with plenty of hungry customers left unsatisfied. Somewhere between those two extremes is a price where the number of tacos the truck wants to sell matches the number of tacos people want to buy, with no long line and nothing left over. Economists call that point equilibrium.",
@@ -31,7 +46,10 @@
     "This single idea — equilibrium responding to shifts in supply and demand — explains an enormous amount of everyday economic life: why gas prices jump after a hurricane disrupts oil refineries (a supply decrease), why concert-ticket prices spike right before a sold-out show (a demand increase relative to a fixed supply), and why the price of a hot new video-game console often falls a year after release once more factories are producing it (a supply increase). Try the interactive model below to build your own intuition for how these shifts move the equilibrium point."
   ],
   "funFacts": [
-    "The word \"equilibrium\" comes from Latin for \"equal weight\" — the same root used to describe a balanced scale, which is a pretty good visual for what's happening at the market-clearing price."
+    {
+      "text": "The word \"equilibrium\" comes from Latin for \"equal weight\" — the same root used to describe a balanced scale, which is a pretty good visual for what's happening at the market-clearing price.",
+      "afterParagraph": 1
+    }
   ],
   "apTips": [],
   "illustrativeExamples": [
@@ -47,31 +65,56 @@
   "multipleChoice": [
     {
       "question": "At the equilibrium price, which of the following is true?",
-      "options": ["Quantity supplied exceeds quantity demanded", "Quantity demanded exceeds quantity supplied", "Quantity supplied equals quantity demanded", "Price is always at its lowest possible level"],
+      "options": [
+        "Quantity supplied exceeds quantity demanded",
+        "Quantity demanded exceeds quantity supplied",
+        "Quantity supplied equals quantity demanded",
+        "Price is always at its lowest possible level"
+      ],
       "correctIndex": 2,
       "explanation": "Equilibrium is defined as the price at which the quantity sellers want to supply exactly equals the quantity buyers want to purchase — the market \"clears\" with no shortage or surplus."
     },
     {
       "question": "If the price of a good is set above its equilibrium price, the result is most likely a",
-      "options": ["shortage", "surplus", "shift in demand", "shift in supply"],
+      "options": [
+        "shortage",
+        "surplus",
+        "shift in demand",
+        "shift in supply"
+      ],
       "correctIndex": 1,
       "explanation": "A price above equilibrium means sellers want to sell more than buyers want to buy at that price, creating a surplus of unsold goods."
     },
     {
       "question": "An increase in the cost of raw materials used to make a good will most directly cause",
-      "options": ["a rightward shift of the demand curve", "a rightward shift of the supply curve", "a leftward shift of the supply curve", "a movement along the demand curve only"],
+      "options": [
+        "a rightward shift of the demand curve",
+        "a rightward shift of the supply curve",
+        "a leftward shift of the supply curve",
+        "a movement along the demand curve only"
+      ],
       "correctIndex": 2,
       "explanation": "Higher input costs make sellers willing to supply less at every price, shifting the entire supply curve to the left (a decrease in supply)."
     },
     {
       "question": "Which of the following would cause a movement along the demand curve rather than a shift of the entire curve?",
-      "options": ["A rise in consumer income", "A change in the good's own price", "A change in consumer tastes", "A change in the price of a substitute good"],
+      "options": [
+        "A rise in consumer income",
+        "A change in the good's own price",
+        "A change in consumer tastes",
+        "A change in the price of a substitute good"
+      ],
       "correctIndex": 1,
       "explanation": "Only a change in the good's own price causes a movement along an existing demand curve. Income, tastes, and the price of related goods all shift the entire curve to a new position."
     },
     {
       "question": "If both demand and supply increase (shift right) at the same time, what happens to equilibrium quantity and price?",
-      "options": ["Quantity definitely rises; price change is ambiguous without more information", "Price definitely rises; quantity change is ambiguous without more information", "Both quantity and price definitely fall", "Neither changes"],
+      "options": [
+        "Quantity definitely rises; price change is ambiguous without more information",
+        "Price definitely rises; quantity change is ambiguous without more information",
+        "Both quantity and price definitely fall",
+        "Neither changes"
+      ],
       "correctIndex": 0,
       "explanation": "When both curves shift right, equilibrium quantity unambiguously increases, but the effect on price depends on the relative size of the two shifts — it could rise, fall, or stay about the same."
     }
@@ -82,7 +125,11 @@
   },
   "images": [],
   "videoResources": [
-    {"title": "Supply and Demand: Crash Course Economics #4", "creator": "Crash Course", "url": "https://www.youtube.com/watch?v=3ez10ADR_gM"}
+    {
+      "title": "Supply and Demand: Crash Course Economics #4",
+      "creator": "Crash Course",
+      "url": "https://www.youtube.com/watch?v=3ez10ADR_gM"
+    }
   ],
   "notebookLmResources": [],
   "teacherNotes": ""
