@@ -107,7 +107,7 @@
   /* ── Build sidebar HTML ── */
   var html = '<aside class="ap-nav" id="ap-nav">';
   html += '<a href="index.html" class="ap-nav-brand">AP World History<span>Modern</span></a>';
-  html += '<div class="ap-nav-copyright">\u00a9\u202f2026 Jennifer Thomson, Ph.D.</div>';
+  html += '<div class="ap-nav-copyright">\u00a9\u202f2026 Meridian</div>';
   html += '<nav class="ap-nav-inner">';
 
   NAV.forEach(function (u) {
@@ -332,7 +332,7 @@
   if (page) {
     var footer = document.createElement('footer');
     footer.className = 'reading-footer';
-    footer.innerHTML = '&copy; 2026 Jennifer Thomson, Ph.D. &nbsp;&middot;&nbsp; All rights reserved. &nbsp;&middot;&nbsp; Not for redistribution without permission.';
+    footer.innerHTML = '&copy; 2026 Meridian &nbsp;&middot;&nbsp; All rights reserved. &nbsp;&middot;&nbsp; Not for redistribution without permission.';
     page.appendChild(footer);
   }
 
