@@ -111,7 +111,7 @@ def main():
     tpl = env.get_template("landing.html")
     write("index.html", tpl.render(
         root="",
-        page_title="Home",
+        page_title=None,
         courses=all_courses,
     ))
 
