@@ -17,6 +17,9 @@
     </button>{% endif %}
     <a class="brand" href="{{ root }}index.html">Meridian</a>
     <div class="topbar-actions">
+      {% if course %}
+      <a class="btn btn-sm" href="{{ root }}index.html">&larr; All courses</a>
+      {% endif %}
       {% block topbar_actions %}{% endblock %}
     </div>
   </div>
@@ -24,6 +27,7 @@
 <div class="app-shell">
 {% if course %}
 <nav class="course-sidebar" id="courseSidebar" style="--course-color:{{ course.color }};">
+  <a class="sidebar-back" href="{{ root }}index.html">&larr; All courses</a>
   <a class="sidebar-course-link" href="{{ root }}courses/{{ course.slug }}/index.html">
     <span class="sidebar-kicker">{{ 'AP Course' if course.isAP else 'Semester Course' }}</span>
     <span class="sidebar-course-name">{{ course.shortName }}</span>

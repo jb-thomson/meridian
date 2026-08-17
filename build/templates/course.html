@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 {% block content %}
+<div class="topic-nav">
+  <a class="btn btn-sm" href="{{ root }}index.html">&larr; All courses</a>
+</div>
 <div class="course-header">
   <span class="kicker">{{ 'AP Course · College Board CED-Aligned' if course.isAP else 'Semester Course' }}</span>
   <h1>{{ course.name }}</h1>

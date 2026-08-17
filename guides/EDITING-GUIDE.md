@@ -44,4 +44,4 @@ Each reading has a **"NotebookLM Extras"** box. To fill it in, either:
 
 ## Adding a whole new reading
 
-Fastest path: open a topic in the same course that's already finished (e.g. `1-1.json` for AP World History), copy it as a template, fill in your own content for the new topic number, save it as `{course}/{topic-number}.json` in `build/data/content/`, then run `python3 generate.py` from `build/`. The site will pick it up automatically — the "Coming soon" tag on that topic in the course index disappears once its JSON file exists.
+Fastest path: open a topic in the same course that's already finished (e.g. `1-1.json` for AP World History), copy it as a template, fill in your own content for the new topic number, save it as `{course}/{topic-number}.json` in `build/data/content/` (for AP Human Geography that's `build/data/content/ap-human-geography/1-1.json`), then run `python3 generate.py` from `build/`. The site will pick it up automatically — the "Coming soon" tag on that topic in the course index disappears once its JSON file exists.

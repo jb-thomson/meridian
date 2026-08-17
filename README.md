@@ -1,6 +1,6 @@
 # Meridian
 
-A static, no-backend course reading site for AP World History: Modern, AP U.S. Government and Politics, AP Comparative Government and Politics, and a semester Economics course.
+A static, no-backend course reading site for AP World History: Modern, AP U.S. Government and Politics, AP Comparative Government and Politics, AP Human Geography, and a semester Economics course.
 
 ## What's in here
 
@@ -18,6 +18,6 @@ This repo is already set up for the standard "serve from /docs" pattern:
 
 ## Current status
 
-71 AP World History topics, 60 AP Government topics, 43 AP Comparative Government topics, and 32 Economics topics are all present in the navigation — but only a handful are fully written so far (see `guides/course-structures.md` for exactly which ones). The rest show an honest "Coming soon" page rather than fake placeholder content. Content gets filled in incrementally; re-run `python3 build/generate.py` any time new topic JSON files are added — it regenerates everything in `docs/` from scratch.
+71 AP World History topics, 60 AP Government topics, 43 AP Comparative Government topics, 68 AP Human Geography topics, and 32 Economics topics are all present in the navigation — but only a handful are fully written so far (see `guides/course-structures.md` for exactly which ones). The rest show an honest "Coming soon" page rather than fake placeholder content. Content gets filled in incrementally; re-run `python3 build/generate.py` any time new topic JSON files are added — it regenerates everything in `docs/` from scratch.
 
 No login, no password, no backend, no database — everything (including "mark as read" progress) lives in each visitor's own browser via localStorage. You can add a password later if you want to turn this into a subscription product; that was intentionally left out of this build. The site also carries a `noindex` tag and `robots.txt` so it stays out of Google/Bing search results for now.
