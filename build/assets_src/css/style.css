@@ -433,14 +433,17 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 /* interactive econ model slot */
 .econ-model { border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; margin: 18px 0; background: var(--paper-raised); }
 
-/* teacher notes / editable-by-hand section */
-.teacher-notes { border: 2px dashed var(--course-color); border-radius: var(--radius); padding: 16px; margin: 24px 0; background: var(--accent-soft); font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
-.teacher-notes h3 { margin: 0 0 6px; font-size: 0.95rem; }
-.teacher-notes .hint { font-size: 0.78rem; color: var(--ink-soft); margin-bottom: 10px; }
-
-.notebooklm-slot { border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; margin: 18px 0; background: var(--paper-raised); font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
-.notebooklm-slot .hint { font-size: 0.8rem; color: var(--ink-soft); }
-.notebooklm-slot iframe { width: 100%; border: none; border-radius: 8px; margin-top: 10px; aspect-ratio: 16/9; }
+/* video resources — YouTube-style link cards with a play-button icon */
+.video-resources { border: 1px solid #e3c3b6; border-left: 4px solid #b23a24; border-radius: var(--radius); padding: 14px 16px; margin: 18px 0; background: #fdf3ef; }
+.video-resources-title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.76rem; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: #a5341f; margin-bottom: 4px; }
+.video-resources-hint { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.85rem; color: var(--ink-soft); margin: 0 0 12px; }
+.video-resource-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.video-resource-item { display: flex; align-items: center; gap: 12px; background: var(--paper-raised); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; text-decoration: none; color: inherit; transition: border-color .15s ease, background .15s ease; }
+.video-resource-item:hover { border-color: var(--course-color); background: var(--accent-soft); }
+.video-play-icon { flex-shrink: 0; width: 34px; height: 34px; border-radius: 50%; background: var(--accent-soft); display: flex; align-items: center; justify-content: center; font-size: 0.7rem; color: var(--ink); }
+.video-resource-text { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+.video-resource-title { display: block; font-weight: 700; font-size: 0.92rem; color: var(--ink); }
+.video-resource-meta { display: block; font-size: 0.78rem; color: var(--ink-soft); margin-top: 2px; }
 
 /* mark complete */
 .complete-row { display: flex; align-items: center; gap: 10px; padding: 20px 0; }
@@ -451,9 +454,6 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 /* footer */
 footer.site-footer { border-top: 1px solid var(--line); padding: 30px 16px 50px; margin-top: 40px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.78rem; color: var(--ink-soft); text-align: center; }
 footer.site-footer a { color: var(--ink-soft); }
-
-/* copyright / license notice */
-.legal-notice { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.74rem; color: var(--ink-soft); border-top: 1px solid var(--line); margin-top: 34px; padding-top: 14px; }
 
 /* ==========================================================================
    Scroll-triggered entrance animation
@@ -482,7 +482,7 @@ html.js-anim .reveal.in-view {
 @media print {
   :root { font-size: 10.5pt; }
   .topbar, .topic-nav, .action-row, .util-bar, .complete-row, footer.site-footer,
-  .btn, .unit-toggle .chevron, .lightbox, .notebooklm-slot, .econ-model, .econ-model-controls,
+  .btn, .unit-toggle .chevron, .lightbox, .econ-model, .econ-model-controls,
   .sidebar-toggle, .course-sidebar, .sidebar-overlay, .practice-group-toggle .group-action,
   .callout-toggle .plus, .expand-toggle .plus, .vocab-term-btn .plus, .mcq-header .plus, .mcq-reveal-btn { display: none !important; }
   .app-shell { display: block !important; }
@@ -513,14 +513,13 @@ html.js-anim .reveal.in-view {
   .vocab-body-wrap, .vocab-def { padding-left: 0; }
   .mcq, .frq-block, .expand-item, .vocab-item { border: 1px solid #999; padding: 6pt 8pt; margin: 6pt 0; page-break-inside: avoid; }
   a { color: #000; text-decoration: none; }
-  .legal-notice { font-size: 7pt; }
 
   /* Reading Only print mode: hides practice questions/answers (MCQs, discussion
-     questions, SAQ/LEQ/essay practice) and teacher notes; keeps the narrative,
+     questions, SAQ/LEQ/essay practice, video resources); keeps the narrative,
      images, TL;DR, vocab, and fun facts/tips since those aid comprehension
      rather than being "practice." Each practice section is wrapped in
      .practice-block in topic.html. */
-  body.print-reading-only .practice-block, body.print-reading-only .teacher-notes {
+  body.print-reading-only .practice-block {
     display: none !important;
   }
 }

@@ -230,26 +230,22 @@
 {% endif %}
 
 {% if topic.videoResources %}
-<div class="expand-item practice-block">
-  <button class="expand-toggle" type="button">Watch: video resources<span class="plus">+</span></button>
-  <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">
-    <ul style="margin:0;padding-left:1.1em;">
-      {% for v in topic.videoResources %}<li><a href="{{ v.url }}" target="_blank" rel="noopener">{{ v.title }}</a>{% if v.creator %} — {{ v.creator }}{% endif %}</li>{% endfor %}
-    </ul>
-  </div></div></div>
+<div class="video-resources reveal practice-block">
+  <div class="video-resources-title">&#9654; Watch: video resources for Topic {{ topic.num }}</div>
+  <p class="video-resources-hint">These videos will help you review {{ topic.title }} and solidify key concepts before your exam.</p>
+  <ul class="video-resource-list">
+    {% for v in topic.videoResources %}
+    <li><a class="video-resource-item" href="{{ v.url }}" target="_blank" rel="noopener">
+      <span class="video-play-icon">&#9654;</span>
+      <span class="video-resource-text">
+        <span class="video-resource-title">{{ v.title }}</span>
+        {% if v.creator %}<span class="video-resource-meta">{{ v.creator }}</span>{% endif %}
+      </span>
+    </a></li>
+    {% endfor %}
+  </ul>
 </div>
 {% endif %}
-
-<div class="notebooklm-slot">
-  <div class="section-label" style="margin-top:0;">NotebookLM Extras</div>
-  {% if topic.notebookLmResources %}
-    {% for n in topic.notebookLmResources %}
-      <p><a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }}</a></p>
-    {% endfor %}
-  {% else %}
-  <p class="hint">Nothing added yet. To attach a Google NotebookLM audio overview, video overview, or infographic to this topic: open this file — <code>build/data/content/{{ course.slug }}/{{ topic.num.replace('.', '-') }}.json</code> — and add an entry to <code>notebookLmResources</code> with a title and a shareable link (or paste an embed &lt;iframe&gt; directly into this block in the generated HTML file if you're editing the page by hand instead).</p>
-  {% endif %}
-</div>
 
 {% if topic.multipleChoice %}
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -375,20 +371,8 @@
 </div>
 {% endif %}
 
-<div class="teacher-notes">
-  <h3>📝 My Notes <span style="font-weight:400;">(edit this yourself — no AI needed)</span></h3>
-  <p class="hint">This box is yours. Open this page's HTML file directly (in GitHub's editor or any text editor), find the <code>&lt;!-- MY-NOTES-START --&gt;</code> comment below, and type between the markers — corrections, extra context for this year's students, a link, anything. Changes show up as soon as you save and re-publish the file — nothing else on the page will change.</p>
-  <!-- MY-NOTES-START -->
-  <p>{{ (topic.teacherNotes if topic.teacherNotes else "(Add your own notes, corrections, or extra context here.)")|md }}</p>
-  <!-- MY-NOTES-END -->
-</div>
-
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="{{ course.slug }}" data-complete-num="{{ topic.num }}">Mark as read</button>
-</div>
-
-<div class="legal-notice">
-  © 2026 Meridian This reading is an authorized commercial course material and may not be redistributed without permission.
 </div>
 
 {% endif %}
