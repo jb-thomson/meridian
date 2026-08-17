@@ -14,6 +14,10 @@ Sources: [AP Students](https://apstudents.collegeboard.org/courses/ap-united-sta
 This is the **current, post-2024-25-redesign** structure (six country case studies — China, Iran, Mexico, Nigeria, Russia, UK — studied across five thematic units), confirmed against College Board's official "Course at a Glance" PDF. Do not confuse with the older pre-redesign country-unit structure.
 Sources: [Official Course-at-a-Glance PDF](https://apcentral.collegeboard.org/media/pdf/ap-comparative-government-and-politics-course-at-a-glance.pdf) · [AP Students](https://apstudents.collegeboard.org/courses/ap-comparative-government-and-politics) · [Fiveable](https://fiveable.me/ap-comp-gov)
 
+## AP Human Geography — 7 units, 68 topics (College Board CED)
+Verified against the official College Board CED (effective Fall 2020), the Course at a Glance PDF, the AP Students course page, and UWorld CollegePrep's unit/topic list. Full unit/topic list lives in `build/data/courses/ap-human-geography.json`. Exam weightings shown on each unit are the official multiple-choice section ranges from the CED.
+Sources: [College Board CED PDF](https://apcentral.collegeboard.org/media/pdf/ap-human-geography-course-and-exam-description.pdf) · [Course at a Glance PDF](https://apcentral.collegeboard.org/media/pdf/ap-human-geography-course-at-a-glance.pdf) · [AP Students](https://apstudents.collegeboard.org/courses/ap-human-geography) · [UWorld CollegePrep](https://collegeprep.uworld.com/ap/ap-human-geography/units-topics-and-key-concepts/)
+
 ## Economics — 8 units, 32 topics (not an AP course)
 Not aligned to a single official "common core" for economics (none exists) — instead mapped to:
 - **CEE/NCEE Voluntary National Content Standards in Economics** (20 standards) and the companion **CEE National Standards for Personal Financial Education** (6 categories) — the closest thing to a national economics standard.
@@ -25,4 +29,4 @@ Sources: [CEE Voluntary National Content Standards in Economics](https://www.cou
 
 ## What's fully written vs. structural-only right now
 - **Fully written** (narrative, vocab, TL;DR, fun facts, AP tips, images, discussion Qs, 5 MCQs, SAQ/LEQ or reflection prompt): AP World History 1.1, Economics 2.3 (includes the interactive supply-and-demand model).
-- **Structural only** ("Coming soon" — real page exists, honest placeholder, not fake content): every other topic across all 4 courses. Titles, unit groupings, and numbering are all sourced from the CED/standards above, so the navigation is complete even though the writing isn't yet.
+- **Structural only** ("Coming soon" — real page exists, honest placeholder, not fake content): every other topic across all 5 courses. Titles, unit groupings, and numbering are all sourced from the CED/standards above, so the navigation is complete even though the writing isn't yet.
