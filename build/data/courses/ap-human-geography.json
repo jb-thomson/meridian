@@ -1,0 +1,337 @@
+{
+  "slug": "ap-human-geography",
+  "name": "AP Human Geography",
+  "shortName": "AP Human Geography",
+  "isAP": true,
+  "tagline": "68 topics across 7 units, College Board CED-aligned",
+  "color": "#1a5f6a",
+  "assessmentTypes": [
+    "mcq",
+    "frq"
+  ],
+  "units": [
+    {
+      "num": 1,
+      "title": "Thinking Geographically",
+      "range": "8–10% of the multiple-choice section",
+      "topics": [
+        {
+          "num": "1.1",
+          "title": "Introduction to Maps"
+        },
+        {
+          "num": "1.2",
+          "title": "Geographic Data"
+        },
+        {
+          "num": "1.3",
+          "title": "The Power of Geographic Data"
+        },
+        {
+          "num": "1.4",
+          "title": "Spatial Concepts"
+        },
+        {
+          "num": "1.5",
+          "title": "Human-Environmental Interaction"
+        },
+        {
+          "num": "1.6",
+          "title": "Scales of Analysis"
+        },
+        {
+          "num": "1.7",
+          "title": "Regional Analysis"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Population and Migration Patterns and Processes",
+      "range": "12–17% of the multiple-choice section",
+      "topics": [
+        {
+          "num": "2.1",
+          "title": "Population Distribution"
+        },
+        {
+          "num": "2.2",
+          "title": "Consequences of Population Distribution"
+        },
+        {
+          "num": "2.3",
+          "title": "Population Composition"
+        },
+        {
+          "num": "2.4",
+          "title": "Population Dynamics"
+        },
+        {
+          "num": "2.5",
+          "title": "The Demographic Transition Model"
+        },
+        {
+          "num": "2.6",
+          "title": "Malthusian Theory"
+        },
+        {
+          "num": "2.7",
+          "title": "Population Policies"
+        },
+        {
+          "num": "2.8",
+          "title": "Women and Demographic Change"
+        },
+        {
+          "num": "2.9",
+          "title": "Aging Populations"
+        },
+        {
+          "num": "2.10",
+          "title": "Causes of Migration"
+        },
+        {
+          "num": "2.11",
+          "title": "Forced and Voluntary Migration"
+        },
+        {
+          "num": "2.12",
+          "title": "Effects of Migration"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Cultural Patterns and Processes",
+      "range": "12–17% of the multiple-choice section",
+      "topics": [
+        {
+          "num": "3.1",
+          "title": "Introduction to Culture"
+        },
+        {
+          "num": "3.2",
+          "title": "Cultural Landscapes"
+        },
+        {
+          "num": "3.3",
+          "title": "Cultural Patterns"
+        },
+        {
+          "num": "3.4",
+          "title": "Types of Diffusion"
+        },
+        {
+          "num": "3.5",
+          "title": "Historical Causes of Diffusion"
+        },
+        {
+          "num": "3.6",
+          "title": "Contemporary Causes of Diffusion"
+        },
+        {
+          "num": "3.7",
+          "title": "Diffusion of Religion and Language"
+        },
+        {
+          "num": "3.8",
+          "title": "Effects of Diffusion"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Political Patterns and Processes",
+      "range": "12–17% of the multiple-choice section",
+      "topics": [
+        {
+          "num": "4.1",
+          "title": "Introduction to Political Geography"
+        },
+        {
+          "num": "4.2",
+          "title": "Political Processes"
+        },
+        {
+          "num": "4.3",
+          "title": "Political Power and Territoriality"
+        },
+        {
+          "num": "4.4",
+          "title": "Defining Political Boundaries"
+        },
+        {
+          "num": "4.5",
+          "title": "The Function of Political Boundaries"
+        },
+        {
+          "num": "4.6",
+          "title": "Internal Boundaries"
+        },
+        {
+          "num": "4.7",
+          "title": "Forms of Governance"
+        },
+        {
+          "num": "4.8",
+          "title": "Defining Devolutionary Factors"
+        },
+        {
+          "num": "4.9",
+          "title": "Challenges to Sovereignty"
+        },
+        {
+          "num": "4.10",
+          "title": "Consequences of Centrifugal and Centripetal Forces"
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Agriculture and Rural Land-Use Patterns and Processes",
+      "range": "12–17% of the multiple-choice section",
+      "topics": [
+        {
+          "num": "5.1",
+          "title": "Introduction to Agriculture"
+        },
+        {
+          "num": "5.2",
+          "title": "Settlement Patterns and Survey Methods"
+        },
+        {
+          "num": "5.3",
+          "title": "Agricultural Origins and Diffusions"
+        },
+        {
+          "num": "5.4",
+          "title": "The Second Agricultural Revolution"
+        },
+        {
+          "num": "5.5",
+          "title": "The Green Revolution"
+        },
+        {
+          "num": "5.6",
+          "title": "Agricultural Production Regions"
+        },
+        {
+          "num": "5.7",
+          "title": "Spatial Organization of Agriculture"
+        },
+        {
+          "num": "5.8",
+          "title": "Von Thünen Model"
+        },
+        {
+          "num": "5.9",
+          "title": "The Global System of Agriculture"
+        },
+        {
+          "num": "5.10",
+          "title": "Consequences of Agricultural Practices"
+        },
+        {
+          "num": "5.11",
+          "title": "Challenges of Contemporary Agriculture"
+        },
+        {
+          "num": "5.12",
+          "title": "Women in Agriculture"
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Cities and Urban Land-Use Patterns and Processes",
+      "range": "12–17% of the multiple-choice section",
+      "topics": [
+        {
+          "num": "6.1",
+          "title": "The Origin and Influences of Urbanization"
+        },
+        {
+          "num": "6.2",
+          "title": "Cities Across the World"
+        },
+        {
+          "num": "6.3",
+          "title": "Cities and Globalization"
+        },
+        {
+          "num": "6.4",
+          "title": "The Size and Distribution of Cities"
+        },
+        {
+          "num": "6.5",
+          "title": "The Internal Structure of Cities"
+        },
+        {
+          "num": "6.6",
+          "title": "Density and Land Use"
+        },
+        {
+          "num": "6.7",
+          "title": "Infrastructure"
+        },
+        {
+          "num": "6.8",
+          "title": "Urban Sustainability"
+        },
+        {
+          "num": "6.9",
+          "title": "Urban Data"
+        },
+        {
+          "num": "6.10",
+          "title": "Challenges of Urban Changes"
+        },
+        {
+          "num": "6.11",
+          "title": "Challenges of Urban Sustainability"
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Industrial and Economic Development Patterns and Processes",
+      "range": "12–17% of the multiple-choice section",
+      "topics": [
+        {
+          "num": "7.1",
+          "title": "The Industrial Revolution"
+        },
+        {
+          "num": "7.2",
+          "title": "Economic Sectors and Patterns"
+        },
+        {
+          "num": "7.3",
+          "title": "Measures of Development"
+        },
+        {
+          "num": "7.4",
+          "title": "Women and Economic Development"
+        },
+        {
+          "num": "7.5",
+          "title": "Theories of Development"
+        },
+        {
+          "num": "7.6",
+          "title": "Trade and the World Economy"
+        },
+        {
+          "num": "7.7",
+          "title": "Changes as a Result of the World Economy"
+        },
+        {
+          "num": "7.8",
+          "title": "Sustainable Development"
+        }
+      ]
+    }
+  ],
+  "tipLabel": "AP Tip",
+  "icon": "🗺️"
+}
