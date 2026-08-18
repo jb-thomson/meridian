@@ -1,0 +1,118 @@
+{
+  "course": "ap-gov",
+  "num": "1.2",
+  "title": "Types of Democracy",
+  "status": "complete",
+  "themes": [
+    {"icon": "🏛️", "label": "Political", "tooltip": "Different American institutions were built to reflect different, sometimes competing, theories of what democracy should actually look like in practice."}
+  ],
+  "tldr": [
+    "**Three lenses, one system:** Participatory, pluralist, and elite democratic theory are not rival systems of government; they are three different explanations for why the same American institutions exist and how they should work.",
+    "**Institutions map to theories:** Town meetings and ballot initiatives support participatory theory. Interest groups and lobbying support pluralist theory. The Electoral College and lifetime judicial appointments support elite theory.",
+    "**The real skill is application:** The AP exam rarely asks you to just define these terms. It asks you to take a specific scenario, an institution, a policy debate, a piece of evidence, and correctly match it to the theory it best supports."
+  ],
+  "learningObjectives": [
+    "Explain the value and impact of models of representative democracy on the U.S. political system.",
+    "Explain how models of representative democracy can be used to analyze specific government policies or reforms.",
+    "Compare the effectiveness of participatory, pluralist, and elite theories in explaining specific American political outcomes."
+  ],
+  "vocabulary": [
+    {"term": "Representative Democracy", "definition": "A system in which citizens elect officials to make policy decisions on their behalf, rather than voting directly on every law.", "importance": "The overarching structure of American government; participatory, pluralist, and elite theories are all different accounts of how representative democracy should actually function.", "example": "Voters electing a member of Congress, who then votes on hundreds of bills the voters never see individually."},
+    {"term": "Ballot Initiative", "definition": "A process, used in about half of U.S. states, that lets citizens propose new laws or constitutional amendments directly, to be voted on by the public rather than passed by the legislature.", "importance": "A concrete institutional example of participatory democracy in action at the state level.", "example": "California voters directly approving or rejecting propositions on issues like taxes or marijuana legalization."},
+    {"term": "Interest Group", "definition": "An organization of people who share a common policy goal and work together to influence government, typically through lobbying, donations, and public campaigns.", "importance": "The central institutional actor in pluralist democratic theory; groups, not individuals, are assumed to be the effective unit of political influence.", "example": "The National Rifle Association and the American Civil Liberties Union both lobbying on the same piece of legislation from opposite sides."},
+    {"term": "Electoral College", "definition": "The body of electors, apportioned by state, that formally elects the president and vice president, rather than a direct national popular vote.", "importance": "A textbook example of elite democratic design, since it inserts an intermediate layer of decision-makers between voters and the actual selection of the president.", "example": "A candidate can lose the national popular vote but still win the presidency by winning enough individual states, as happened in 2000 and 2016."},
+    {"term": "Direct Democracy", "definition": "A system in which citizens vote directly on laws themselves, without elected representatives acting as intermediaries.", "importance": "The purest theoretical form of participatory democracy; the U.S. uses it only in narrow cases like state ballot initiatives, not at the national level.", "example": "Ancient Athens, where eligible citizens voted directly on laws in a public assembly."},
+    {"term": "Iron Triangle", "definition": "A stable, mutually beneficial relationship among a congressional committee, a federal agency, and an interest group, all working in the same policy area.", "importance": "A pluralist-theory concept showing how organized groups gain durable, ongoing influence over specific policy areas, not just single votes.", "example": "Defense contractors, the House Armed Services Committee, and the Department of Defense repeatedly working together on military spending bills."}
+  ],
+  "preTest": [
+    {"question": "A state constitutional amendment can be placed directly on the ballot if citizens collect enough signatures, bypassing the state legislature entirely. Which theory of democracy does this process best support?", "answer": "Participatory democracy, since it allows citizens to make law directly rather than only through elected representatives."},
+    {"question": "Why would a pluralist democrat generally see a large number of competing interest groups as a healthy sign for democracy, rather than as corruption?", "answer": "Because pluralist theory assumes that no single group can dominate policy when many organized groups with different, competing interests are all actively pushing for influence, so the competition itself acts as a check on any one group's power."},
+    {"question": "Explain one specific reason the Framers built the Electoral College instead of a direct national popular vote for president.", "answer": "The Framers were wary of direct, unfiltered majority rule at the national level and wanted an intermediate body of electors, presumed to be more informed, to make the final selection, consistent with elite democratic theory."}
+  ],
+  "blocks": [
+    {"type": "heading", "text": "Same System, Three Different Explanations"},
+    {"type": "paragraph", "text": "Topic 1.1 introduced three competing theories of what democracy should look like: participatory, pluralist, and elite. These are not three different systems of government that compete for adoption. They are three different lenses for explaining the same American political system, and different institutions within that system line up with different theories."},
+    {"type": "paragraph", "text": "This matters because the AP exam almost never asks you to simply define \"pluralist democracy.\" It asks you to look at a specific institution, policy, or scenario, and correctly identify which theory that example best supports, and explain why. This topic works through real institutional examples of each theory in practice."},
+    {"type": "image", "imageType": "ai_generated", "src": null, "alt": "Diagram-style illustration of three overlapping circles representing participatory, pluralist, and elite democracy", "caption": "The three models of democracy overlap. Most real institutions blend elements of more than one.", "attribution": "AI-generated illustration (image pending)"},
+    {"type": "heading", "text": "Participatory Democracy in Practice"},
+    {"type": "paragraph", "text": "Participatory democracy holds that democratic legitimacy comes from broad, direct citizen engagement, not just voting for representatives every few years, but actively showing up: town meetings, protests, grassroots organizing, and direct votes on specific laws."},
+    {"type": "paragraph", "text": "The clearest American example is the **ballot initiative**, used in roughly half of U.S. states. Instead of waiting for the state legislature to act, citizens who gather enough signatures can place a proposed law or constitutional amendment directly on the ballot for a public vote. This is about as close to **direct democracy** as the American system gets at scale; the classical model comes from ancient Athens, where eligible citizens voted on laws directly in a public assembly, though it is worth noting that \"eligible citizens\" in Athens excluded women, enslaved people, and foreign residents, a small fraction of the population that actually held any voice."},
+    {"type": "funFact", "text": "Switzerland, not the United States, runs the most active direct democracy in the world today. Swiss voters go to the polls several times a year to vote directly on national referenda covering everything from immigration policy to minimum wage laws, a level of direct participatory democracy far beyond anything practiced in any U.S. state."},
+    {"type": "heading", "text": "Pluralist Democracy in Practice"},
+    {"type": "paragraph", "text": "Pluralist democracy assumes that individuals rarely move government policy on their own. Instead, people join **interest groups**, organizations built around a shared policy goal, and those groups compete with each other for influence. Government's role, in this model, is less about representing \"the people\" as a single unit and more about refereeing fairly among the many organized groups all pushing in different directions."},
+    {"type": "paragraph", "text": "A useful pluralist concept for the exam is the **iron triangle**: a stable, ongoing relationship among a congressional committee, a federal agency, and an interest group, all operating in the same narrow policy area, and all benefiting from working together over time. A classic example pairs defense contractors, the House Armed Services Committee, and the Department of Defense, three actors with a shared interest in sustained military spending, each reinforcing the others' influence year after year."},
+    {"type": "apTip", "text": "Iron triangles show up constantly in released FRQs about interest groups and bureaucracy. If a prompt describes an agency, a committee, and a group all repeatedly cooperating on the same issue, that is your cue: this is pluralist theory in action, and \"iron triangle\" is the term the rubric is looking for."},
+    {"type": "heading", "text": "Elite Democracy in Practice"},
+    {"type": "paragraph", "text": "Elite democracy holds that most citizens lack the time, information, or specialized expertise to make good policy decisions directly, so government works best when capable, often more educated or experienced, representatives make decisions on the public's behalf, with popular control limited mostly to choosing those representatives."},
+    {"type": "paragraph", "text": "The single clearest elite-theory institution in American government is the **Electoral College**. Rather than electing the president through a direct national popular vote, the Constitution created a body of electors, apportioned by state, to make the final selection. This design deliberately inserts a layer of intermediaries between ordinary voters and the actual choice of president. It has real consequences: in both 2000 and 2016, a candidate won the presidency while losing the national popular vote, an outcome that is structurally impossible under a pure participatory model but entirely consistent with elite democratic design."},
+    {"type": "paragraph", "text": "Lifetime appointment of federal judges is another elite-theory institution, arguably the purest one in the entire Constitution. Federal judges are never elected and, once confirmed, cannot be removed by voters at all, an intentional design meant to insulate legal judgment from short-term popular pressure entirely."},
+    {"type": "heading", "text": "Weighing the Three Theories Against Each Other"},
+    {"type": "paragraph", "text": "No single theory fully explains American government, and the exam rewards recognizing that tension rather than picking one \"correct\" theory. A reform that strengthens one model often weakens another. Direct primaries, where party voters rather than party officials choose nominees, shifted power from elite-style party insiders toward participatory-style voter control. The Seventeenth Amendment (1913), which moved Senate elections from state legislatures to direct popular vote, did the same thing to an entire branch of Congress. Meanwhile, the continued existence of the Electoral College and lifetime judicial tenure shows that elite-theory design has never been fully replaced, only partially rolled back in specific places."}
+  ],
+  "videoResources": [
+    {"title": "Heimler's Government: Unit 1.2", "url": "https://www.youtube.com/results?search_query=Heimler%27s+Government+Unit+1.2+Types+of+Democracy", "creator": "Heimler's Government · 9 min"},
+    {"title": "Pluralism, Elitism, and Participatory Democracy", "url": "https://www.youtube.com/results?search_query=Mr+Sinn+APGOV+Pluralism+Elitism+Participatory+Democracy", "creator": "Mr. Sinn APGOV · video"},
+    {"title": "How the Electoral College Works", "url": "https://www.youtube.com/results?search_query=Crash+Course+Government+Electoral+College", "creator": "Crash Course Government and Politics · 10 min"}
+  ],
+  "multipleChoice": [
+    {
+      "question": "A city allows residents to vote directly on whether to approve a new local sales tax, rather than leaving the decision to the city council. This practice is the clearest example of",
+      "options": ["elite democracy", "direct democracy", "confederal democracy", "representative bureaucracy"],
+      "correctIndex": 1,
+      "explanation": "Voting directly on a specific policy, rather than through elected representatives, is the defining feature of direct democracy, the purest form of participatory theory. (A) is the opposite pattern. (C) is not a theory of democratic participation. (D) refers to whether a bureaucracy reflects the demographics of the population it serves, an unrelated concept."
+    },
+    {
+      "question": "Which of the following best illustrates pluralist democratic theory?",
+      "options": ["A citizen personally attending a city council meeting to speak during public comment", "A federal judge issuing a ruling that is not subject to voter approval", "Two competing interest groups both spending heavily to influence the same piece of legislation", "A state legislature drawing new congressional district boundaries"],
+      "correctIndex": 2,
+      "explanation": "Competing organized groups actively working to influence the same policy is the core mechanism of pluralist theory. (A) is an example of individual participatory engagement, not group competition. (B) illustrates elite theory, since judges are insulated from voters. (D) describes a legislative process (redistricting) without directly illustrating any single democratic theory."
+    },
+    {
+      "question": "The lifetime tenure of federal judges is best explained by which democratic theory, and for which reason?",
+      "options": ["Participatory theory, because judges interpret laws that citizens directly voted on", "Pluralist theory, because judges referee disputes between competing interest groups", "Elite theory, because it insulates judicial decision-making from short-term popular pressure", "Direct democracy, because judges are chosen by popular vote in most states"],
+      "correctIndex": 2,
+      "explanation": "Lifetime tenure exists precisely to remove electoral accountability from judges so their legal judgment is not swayed by momentary public opinion, the core logic of elite democratic design. (A) misdescribes what judges actually do. (B) describes a possible effect of judicial rulings, not the reason for lifetime tenure. (D) is factually incorrect for federal judges, who are appointed, not elected."
+    },
+    {
+      "question": "An \"iron triangle\" describes a stable relationship among which three actors?",
+      "options": ["The president, the Senate, and the Supreme Court", "A congressional committee, a federal agency, and an interest group", "A state, its citizens, and the federal government", "A political party, its voters, and its donors"],
+      "correctIndex": 1,
+      "explanation": "An iron triangle specifically refers to the durable, mutually reinforcing relationship among a congressional committee, the federal agency it oversees, and an interest group active in that same policy area. (A) describes separation of powers among the three branches, an unrelated concept. (C) and (D) describe other real political relationships, but neither is what \"iron triangle\" refers to."
+    },
+    {
+      "question": "The Seventeenth Amendment (1913), which replaced state legislature selection of U.S. senators with direct popular election, represents a shift", "options": ["away from participatory democracy and toward elite democracy", "away from elite democracy and toward participatory democracy", "away from pluralist democracy and toward direct democracy", "away from federalism and toward a unitary system"],
+      "correctIndex": 1,
+      "explanation": "Removing state legislatures (an elite-style intermediary) and letting voters choose senators directly moved the Senate toward participatory democratic design. (A) reverses the direction of the change. (C) misidentifies the theories involved; this change is about elite versus participatory design, not pluralist versus direct. (D) is unrelated; this amendment did not change the federal-state division of power itself."
+    }
+  ],
+  "saq": {
+    "prompt": "Political scientists often describe the U.S. Senate before 1913 as an example of elite democratic theory, and the same Senate after the Seventeenth Amendment as reflecting more participatory democratic theory.",
+    "sampleAnswer": "This is not used with a stimulus in this version; see the parts-based SAQ format used elsewhere on this site for a fully worked example.",
+    "parts": [
+      {"label": "Part A", "task": "Describe one feature of the pre-1913 Senate that reflected elite democratic theory.", "sampleAnswer": "Before 1913, U.S. senators were chosen by state legislatures rather than directly by voters, inserting a layer of elected intermediaries between ordinary citizens and the selection of senators, a hallmark of elite theory."},
+      {"label": "Part B", "task": "Explain how the Seventeenth Amendment changed the Senate's relationship to participatory democratic theory.", "sampleAnswer": "By requiring direct popular election of senators, the amendment let voters choose senators themselves rather than through state legislatures, moving the institution closer to the participatory model of direct citizen control over representation."},
+      {"label": "Part C", "task": "Explain why a supporter of elite democratic theory might have opposed the Seventeenth Amendment.", "sampleAnswer": "An elite theorist might argue that state legislators, being more informed and less swayed by short-term popular sentiment than the general electorate, were better positioned to select senators who would make sound, deliberate policy decisions, and that removing this filter risked making the Senate more vulnerable to popular pressure and less deliberative."}
+    ]
+  },
+  "leq": {
+    "prompt": "Evaluate the extent to which pluralist democratic theory better explains the influence of interest groups on U.S. policy than does participatory democratic theory.",
+    "note": "Write a full essay with thesis, contextualization, evidence, and historical reasoning. This prompt rewards clearly distinguishing the two theories rather than treating them as interchangeable.",
+    "thesisExample": "Strong thesis: \"Pluralist democratic theory more accurately explains the influence of interest groups on U.S. policy than participatory theory does, because organized groups, not individual citizen activism, are what actually determine which voices reach lawmakers on most issues.\"",
+    "outline": [
+      {"label": "Contextualization", "text": "Describe the growth of organized interest groups and lobbying in American politics since the late 19th and 20th centuries, alongside the constitutional right to petition government."},
+      {"label": "Evidence, pluralist theory", "text": "Iron triangles linking committees, agencies, and interest groups; competing interest group spending on the same legislation; the sheer number of registered lobbying organizations in Washington, D.C."},
+      {"label": "Evidence, participatory theory", "text": "Grassroots organizing and mass protest movements that succeeded without well-funded interest group backing; ballot initiatives that bypass organized lobbying entirely."},
+      {"label": "Historical reasoning: causation or comparison", "text": "Argue that organized groups usually have more sustained access and resources than unorganized individual citizens, giving pluralist theory greater explanatory power for policy outcomes over time, while still acknowledging cases where participatory mobilization mattered."}
+    ]
+  },
+  "discussionQuestions": [
+    {"question": "Can an institution reflect more than one democratic theory at once? Use the Electoral College as an example to explain your answer.", "modelAnswer": "Yes. The Electoral College is mostly an elite-theory institution, since it inserts electors between voters and the president, but it also has a participatory element, since electors are apportioned based on each state's population and the people do still vote to select those electors."},
+    {"question": "Why might interest group influence be described by pluralists as a strength of American democracy but described by critics as a weakness?", "modelAnswer": "Pluralists see competing organized groups as a healthy check on any single interest dominating policy. Critics argue that not all groups have equal resources, so wealthier or better-organized groups can gain outsized influence, undermining the pluralist assumption that the competition is genuinely fair."},
+    {"question": "If you had to redesign one American institution to make it more participatory, which would you choose, and what specific change would you make?", "modelAnswer": "Answers will vary, but a strong response names a specific institution (such as the Electoral College or lifetime judicial tenure), proposes a specific, realistic reform, and explains how that reform would shift the institution toward direct citizen control."},
+    {"question": "Is it possible for a democracy to be too participatory, in the sense that direct citizen control produces worse policy outcomes than representative decision-making would? Defend your position.", "modelAnswer": "A strong answer engages seriously with both sides: it might cite concerns about low information voters directly deciding complex technical policy through ballot initiatives, while also acknowledging the elite-theory risk of decision-makers becoming unaccountable and out of touch with the people they represent."}
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}
