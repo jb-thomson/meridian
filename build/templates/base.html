@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="{{ root }}assets/css/style.css">
 {% if course_color %}<style>:root{--course-color:{{ course_color }};}</style>{% endif %}
 </head>
-<body>
+<body{% if is_landing %} class="is-landing"{% endif %}>
 <div class="topbar">
   <div class="topbar-inner">
     {% if course %}<button class="sidebar-toggle" id="sidebarToggle" type="button" aria-label="Toggle course navigation" aria-expanded="false">
@@ -52,7 +52,7 @@
 </nav>
 <div class="sidebar-overlay" id="sidebarOverlay"></div>
 {% endif %}
-<main class="container{{ ' with-sidebar' if course else '' }}">
+<main class="container{{ ' with-sidebar' if course else '' }}{{ ' landing-main' if is_landing else '' }}">
 {% block content %}{% endblock %}
 </main>
 </div>

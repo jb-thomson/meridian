@@ -112,6 +112,7 @@ def main():
     write("index.html", tpl.render(
         root="",
         page_title=None,
+        is_landing=True,
         courses=all_courses,
     ))
 

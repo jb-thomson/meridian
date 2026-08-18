@@ -4,7 +4,11 @@
   "title": "Federalist No. 10 and Brutus No. 1",
   "status": "complete",
   "themes": [
-    {"icon": "🏛️", "label": "Political", "tooltip": "The ratification debate between Federalists and Anti-Federalists produced two of the most important documents in American political thought, and both are required reading for the AP exam."}
+    {
+      "icon": "🏛️",
+      "label": "Political",
+      "tooltip": "The ratification debate between Federalists and Anti-Federalists produced two of the most important documents in American political thought, and both are required reading for the AP exam."
+    }
   ],
   "tldr": [
     "**Federalist No. 10 (Madison):** A large republic controls the dangers of faction better than a small direct democracy, because a bigger, more diverse society makes it harder for any single majority faction to form and dominate everyone else.",
@@ -17,103 +21,287 @@
     "Explain how the perspectives in Federalist No. 10 and Brutus No. 1 reflect a divide over the ideal size and scope of the federal government."
   ],
   "vocabulary": [
-    {"term": "Faction", "definition": "A group of citizens, whether a majority or a minority, united by a shared interest or passion that Madison believed was often adverse to the rights of others or the interests of the community as a whole.", "importance": "The entire argument of Federalist No. 10 is built around how to control the dangers factions pose without destroying liberty.", "example": "Madison's own examples include groups organized around debtors versus creditors, or landed versus manufacturing interests."},
-    {"term": "Federalist Papers", "definition": "A series of 85 essays written by Alexander Hamilton, James Madison, and John Jay under the pen name \"Publius\" to persuade New York voters to ratify the Constitution.", "importance": "Federalist No. 10, written by Madison, is one of the most frequently cited primary sources on the AP exam.", "example": "Federalist No. 10 and Federalist No. 51 are the two Federalist Papers most likely to appear as an exam stimulus."},
-    {"term": "Anti-Federalists", "definition": "Opponents of ratifying the Constitution who feared it created a national government too powerful and too distant from the people, at the expense of the states and individual liberty.", "importance": "Brutus No. 1, one of the most important Anti-Federalist essays, is Federalist No. 10's required counterpart on the exam.", "example": "Anti-Federalist pressure during ratification is a major reason the Bill of Rights was added in 1791."},
-    {"term": "Republic", "definition": "A system of government in which power is held by the people but exercised through elected representatives, rather than directly by citizens themselves.", "importance": "Madison's central claim in Federalist No. 10 is that a large republic, not a small direct democracy, is the best defense against the dangers of faction.", "example": "Madison distinguishes a \"pure democracy,\" where citizens govern directly, from a \"republic,\" where they govern through representatives."},
-    {"term": "Tyranny of the Majority", "definition": "The risk that in a democracy, a majority faction can use its numbers to pass laws that violate the rights of a minority or work against the public good.", "importance": "This is the exact danger Madison sets out to solve in Federalist No. 10 without simply abolishing majority rule.", "example": "Madison worried that in a small democracy, a majority faction could easily coordinate to seize power and oppress everyone else."},
-    {"term": "Necessary and Proper Clause", "definition": "The constitutional clause (Article I, Section 8) giving Congress the power to pass laws needed to carry out its other enumerated powers.", "importance": "Brutus No. 1 specifically warned this clause, combined with the supremacy clause, would let the federal government expand its power almost without limit.", "example": "Brutus argued the clause was written so broadly that state governments would eventually be swallowed by it."}
+    {
+      "term": "Faction",
+      "definition": "A group of citizens, whether a majority or a minority, united by a shared interest or passion that Madison believed was often adverse to the rights of others or the interests of the community as a whole.",
+      "importance": "The entire argument of Federalist No. 10 is built around how to control the dangers factions pose without destroying liberty.",
+      "example": "Madison's own examples include groups organized around debtors versus creditors, or landed versus manufacturing interests."
+    },
+    {
+      "term": "Federalist Papers",
+      "definition": "A series of 85 essays written by Alexander Hamilton, James Madison, and John Jay under the pen name \"Publius\" to persuade New York voters to ratify the Constitution.",
+      "importance": "Federalist No. 10, written by Madison, is one of the most frequently cited primary sources on the AP exam.",
+      "example": "Federalist No. 10 and Federalist No. 51 are the two Federalist Papers most likely to appear as an exam stimulus."
+    },
+    {
+      "term": "Anti-Federalists",
+      "definition": "Opponents of ratifying the Constitution who feared it created a national government too powerful and too distant from the people, at the expense of the states and individual liberty.",
+      "importance": "Brutus No. 1, one of the most important Anti-Federalist essays, is Federalist No. 10's required counterpart on the exam.",
+      "example": "Anti-Federalist pressure during ratification is a major reason the Bill of Rights was added in 1791."
+    },
+    {
+      "term": "Republic",
+      "definition": "A system of government in which power is held by the people but exercised through elected representatives, rather than directly by citizens themselves.",
+      "importance": "Madison's central claim in Federalist No. 10 is that a large republic, not a small direct democracy, is the best defense against the dangers of faction.",
+      "example": "Madison distinguishes a \"pure democracy,\" where citizens govern directly, from a \"republic,\" where they govern through representatives."
+    },
+    {
+      "term": "Tyranny of the Majority",
+      "definition": "The risk that in a democracy, a majority faction can use its numbers to pass laws that violate the rights of a minority or work against the public good.",
+      "importance": "This is the exact danger Madison sets out to solve in Federalist No. 10 without simply abolishing majority rule.",
+      "example": "Madison worried that in a small democracy, a majority faction could easily coordinate to seize power and oppress everyone else."
+    },
+    {
+      "term": "Necessary and Proper Clause",
+      "definition": "The constitutional clause (Article I, Section 8) giving Congress the power to pass laws needed to carry out its other enumerated powers.",
+      "importance": "Brutus No. 1 specifically warned this clause, combined with the supremacy clause, would let the federal government expand its power almost without limit.",
+      "example": "Brutus argued the clause was written so broadly that state governments would eventually be swallowed by it."
+    }
   ],
   "preTest": [
-    {"question": "According to Madison in Federalist No. 10, why is a large republic better than a small direct democracy at controlling the dangers of faction?", "answer": "In a large republic, society contains so many different factions with competing interests that no single majority faction can easily form, coordinate, and dominate everyone else, unlike in a small democracy where a majority faction can organize quickly and oppress the minority."},
-    {"question": "What is the core worry expressed in Brutus No. 1 about a national government covering a territory as large as the United States?", "answer": "Brutus argues that representatives in a government that large will be too few and too distant to genuinely understand or reflect the interests of ordinary citizens, and that a strong central government will inevitably absorb power that should belong to the states."},
-    {"question": "Both Madison and Brutus worry about the same underlying danger. What is it, and how do their proposed solutions differ?", "answer": "Both worry about government power being abused against the people. Madison's solution is to make the republic large and structurally divided so no single faction can dominate it, while Brutus's solution is to keep government small, local, and closely watched by the people it governs."}
+    {
+      "question": "According to Madison in Federalist No. 10, why is a large republic better than a small direct democracy at controlling the dangers of faction?",
+      "answer": "In a large republic, society contains so many different factions with competing interests that no single majority faction can easily form, coordinate, and dominate everyone else, unlike in a small democracy where a majority faction can organize quickly and oppress the minority."
+    },
+    {
+      "question": "What is the core worry expressed in Brutus No. 1 about a national government covering a territory as large as the United States?",
+      "answer": "Brutus argues that representatives in a government that large will be too few and too distant to genuinely understand or reflect the interests of ordinary citizens, and that a strong central government will inevitably absorb power that should belong to the states."
+    },
+    {
+      "question": "Both Madison and Brutus worry about the same underlying danger. What is it, and how do their proposed solutions differ?",
+      "answer": "Both worry about government power being abused against the people. Madison's solution is to make the republic large and structurally divided so no single faction can dominate it, while Brutus's solution is to keep government small, local, and closely watched by the people it governs."
+    }
   ],
   "blocks": [
-    {"type": "heading", "text": "Two Essays, One Argument About Size"},
-    {"type": "paragraph", "text": "During the ratification debate of 1787 to 1788, Americans split into two camps. **Federalists** supported ratifying the new Constitution and its stronger national government. **Anti-Federalists** opposed it, fearing it concentrated too much power too far from the people. Each side produced influential written arguments, and the AP exam expects you to know two of them by name: **Federalist No. 10**, written by James Madison, and **Brutus No. 1**, an Anti-Federalist essay usually attributed to Robert Yates."},
-    {"type": "paragraph", "text": "Both essays worry about the same danger: a government, or a majority within that government, abusing its power against the rights of citizens. Where they sharply disagree is on the solution. Madison argues that a large, structurally complex republic is the safest design. Brutus argues that only a small, closely accountable government can be trusted at all."},
-    {"type": "image", "imageType": "ai_generated", "src": null, "alt": "Illustration of two colonial-era writers at desks, representing the Federalist and Anti-Federalist debate", "caption": "The ratification debate was fought largely through published essays, most famously the Federalist Papers and their Anti-Federalist replies.", "attribution": "AI-generated illustration (image pending)"},
-    {"type": "heading", "text": "Federalist No. 10: The Problem of Faction"},
-    {"type": "paragraph", "text": "Madison opens Federalist No. 10 by naming the danger he intends to solve: **faction**, which he defines as any group of citizens, majority or minority, united by a shared interest or passion that works against the rights of others or the good of the community. Madison saw factions as an unavoidable feature of free societies; as he put it, the causes of faction are \"sown in the nature of man,\" and the only way to eliminate faction entirely would be to eliminate liberty itself, a cure Madison considered far worse than the disease."},
-    {"type": "paragraph", "text": "Since faction cannot be removed, Madison argues it must instead be controlled. His solution rests on two structural choices already built into the proposed Constitution. First, a **republic**, where citizens govern through elected representatives rather than directly, refines and filters public opinion through those representatives rather than acting on raw, unmediated passion. Second, and more distinctively, Madison argues that a **large** republic is safer than a small one. In a small democracy, a single faction can more easily become a majority, coordinate quickly, and oppress everyone else. In a large republic covering many states and containing many competing economic, religious, and regional interests, so many different factions exist that no single one can easily dominate the rest. Faction is not eliminated. It is diluted until it becomes manageable."},
-    {"type": "apTip", "text": "If a released FRQ or MCQ stimulus quotes Madison arguing that \"extend the sphere\" (his phrase for enlarging the republic) makes it \"less probable\" that a majority faction will form, that is Federalist No. 10, and the answer they want is almost always some version of: a large, diverse republic contains so many competing factions that none can dominate."},
-    {"type": "funFact", "text": "Madison originally intended Federalist No. 10 mainly to answer a specific, well-known objection: the widely accepted political theory of the time, drawn largely from Montesquieu, held that republics could only survive in small territories, since a large one would be too diverse to govern as a single political community. Madison's essay flips that conventional wisdom on its head, arguing that size is a strength, not a weakness."},
-    {"type": "heading", "text": "Brutus No. 1: The Case Against a Large Republic"},
-    {"type": "paragraph", "text": "Brutus No. 1 makes almost the opposite argument. Brutus agreed with the conventional wisdom Madison was trying to overturn: a republic can only function well in a small territory, where representatives are close enough to the people to actually understand and reflect their interests. A republic as large and diverse as the proposed United States, Brutus warned, would inevitably produce a government too distant from ordinary citizens to represent them faithfully."},
-    {"type": "paragraph", "text": "Brutus's second major concern was about the scope of national power itself. He focused specifically on the **necessary and proper clause**, which gives Congress power to pass laws needed to carry out its other constitutional powers, combined with the Constitution's supremacy clause, which makes federal law superior to conflicting state law. Brutus argued this combination was written so broadly that the national government would inevitably expand its own power over time, gradually absorbing authority that properly belonged to the states, until state governments existed in name only."},
-    {"type": "paragraph", "text": "Brutus was not simply predicting tyranny for its own sake. His underlying assumption was the same one held by most republican theorists of the era: government works best, and stays most accountable, when it stays small and close to the people it governs. A representative who lives among the people he represents, and who must return to ordinary life among them, will govern differently than one who sits in a distant capital, overseeing a vast and diverse population he can never fully know."},
-    {"type": "apTip", "text": "A common exam trap is treating Brutus No. 1 as simply \"anti-government\" in a generic sense. It is more precise, and will earn more credit, to say Brutus specifically opposed a large, centralized national government, not government in general; Brutus was entirely comfortable with strong state governments, which he saw as small enough to remain accountable."},
-    {"type": "heading", "text": "Comparing the Two Arguments"},
-    {"type": "paragraph", "text": "The clearest way to hold both essays in your head at once is through a single shared question: how big should a republic be, and why? Madison answers: as large as possible, because size itself is the safeguard against faction. Brutus answers: as small as possible, because only smallness keeps representatives accountable and prevents the national government from swallowing the states."},
-    {"type": "list", "items": [
-      "Madison trusted structural complexity, many factions, many branches, many levels of government, to check power. Brutus trusted direct accountability, representatives who personally know and live among their constituents, to check power.", "Madison saw a large, diverse republic as a strength that prevented any single faction from dominating. Brutus saw the same size and diversity as a weakness that made representation shallow and unreliable.", "Both essays ultimately shaped the finished Constitution: Madison's structural arguments are reflected in federalism and separation of powers, while Anti-Federalist pressure like Brutus's is widely credited as a major reason the Bill of Rights was added in 1791."
-    ]},
-    {"type": "paragraph", "text": "History did not fully vindicate either writer. The federal government has grown far larger than Brutus feared, partly through the necessary and proper clause he warned about, yet the United States has also avoided the kind of majority-faction tyranny Madison worried about, at least at the scale Madison feared, largely through the structural checks, elections, courts, a free press, that both writers, in different ways, helped build into the American constitutional order."}
+    {
+      "type": "heading",
+      "text": "Two Essays, One Argument About Size"
+    },
+    {
+      "type": "paragraph",
+      "text": "During the ratification debate of 1787 to 1788, Americans split into two camps. **Federalists** supported ratifying the new Constitution and its stronger national government. **Anti-Federalists** opposed it, fearing it concentrated too much power too far from the people. Each side produced influential written arguments, and the AP exam expects you to know two of them by name: **Federalist No. 10**, written by James Madison, and **Brutus No. 1**, an Anti-Federalist essay usually attributed to Robert Yates."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both essays worry about the same danger: a government, or a majority within that government, abusing its power against the rights of citizens. Where they sharply disagree is on the solution. Madison argues that a large, structurally complex republic is the safest design. Brutus argues that only a small, closely accountable government can be trusted at all."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": null,
+      "alt": "Illustration of two colonial-era writers at desks, representing the Federalist and Anti-Federalist debate",
+      "caption": "The ratification debate was fought largely through published essays, most famously the Federalist Papers and their Anti-Federalist replies.",
+      "attribution": "AI-generated illustration (image pending)"
+    },
+    {
+      "type": "heading",
+      "text": "Federalist No. 10: The Problem of Faction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Madison opens Federalist No. 10 by naming the danger he intends to solve: **faction**, which he defines as any group of citizens, majority or minority, united by a shared interest or passion that works against the rights of others or the good of the community. Madison saw factions as an unavoidable feature of free societies; as he put it, the causes of faction are \"sown in the nature of man,\" and the only way to eliminate faction entirely would be to eliminate liberty itself, a cure Madison considered far worse than the disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since faction cannot be removed, Madison argues it must instead be controlled. His solution rests on two structural choices already built into the proposed Constitution. First, a **republic**, where citizens govern through elected representatives rather than directly, refines and filters public opinion through those representatives rather than acting on raw, unmediated passion. Second, and more distinctively, Madison argues that a **large** republic is safer than a small one. In a small democracy, a single faction can more easily become a majority, coordinate quickly, and oppress everyone else. In a large republic covering many states and containing many competing economic, religious, and regional interests, so many different factions exist that no single one can easily dominate the rest. Faction is not eliminated. It is diluted until it becomes manageable."
+    },
+    {
+      "type": "apTip",
+      "text": "If a released FRQ or MCQ stimulus quotes Madison arguing that \"extend the sphere\" (his phrase for enlarging the republic) makes it \"less probable\" that a majority faction will form, that is Federalist No. 10, and the answer they want is almost always some version of: a large, diverse republic contains so many competing factions that none can dominate."
+    },
+    {
+      "type": "funFact",
+      "text": "Madison originally intended Federalist No. 10 mainly to answer a specific, well-known objection: the widely accepted political theory of the time, drawn largely from Montesquieu, held that republics could only survive in small territories, since a large one would be too diverse to govern as a single political community. Madison's essay flips that conventional wisdom on its head, arguing that size is a strength, not a weakness."
+    },
+    {
+      "type": "heading",
+      "text": "Brutus No. 1: The Case Against a Large Republic"
+    },
+    {
+      "type": "paragraph",
+      "text": "Brutus No. 1 makes almost the opposite argument. Brutus agreed with the conventional wisdom Madison was trying to overturn: a republic can only function well in a small territory, where representatives are close enough to the people to actually understand and reflect their interests. A republic as large and diverse as the proposed United States, Brutus warned, would inevitably produce a government too distant from ordinary citizens to represent them faithfully."
+    },
+    {
+      "type": "paragraph",
+      "text": "Brutus's second major concern was about the scope of national power itself. He focused specifically on the **necessary and proper clause**, which gives Congress power to pass laws needed to carry out its other constitutional powers, combined with the Constitution's supremacy clause, which makes federal law superior to conflicting state law. Brutus argued this combination was written so broadly that the national government would inevitably expand its own power over time, gradually absorbing authority that properly belonged to the states, until state governments existed in name only."
+    },
+    {
+      "type": "paragraph",
+      "text": "Brutus was not simply predicting tyranny for its own sake. His underlying assumption was the same one held by most republican theorists of the era: government works best, and stays most accountable, when it stays small and close to the people it governs. A representative who lives among the people he represents, and who must return to ordinary life among them, will govern differently than one who sits in a distant capital, overseeing a vast and diverse population he can never fully know."
+    },
+    {
+      "type": "apTip",
+      "text": "A common exam trap is treating Brutus No. 1 as simply \"anti-government\" in a generic sense. It is more precise, and will earn more credit, to say Brutus specifically opposed a large, centralized national government, not government in general; Brutus was entirely comfortable with strong state governments, which he saw as small enough to remain accountable."
+    },
+    {
+      "type": "heading",
+      "text": "Comparing the Two Arguments"
+    },
+    {
+      "type": "paragraph",
+      "text": "The clearest way to hold both essays in your head at once is through a single shared question: how big should a republic be, and why? Madison answers: as large as possible, because size itself is the safeguard against faction. Brutus answers: as small as possible, because only smallness keeps representatives accountable and prevents the national government from swallowing the states."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Madison trusted structural complexity, many factions, many branches, many levels of government, to check power. Brutus trusted direct accountability, representatives who personally know and live among their constituents, to check power.",
+        "Madison saw a large, diverse republic as a strength that prevented any single faction from dominating. Brutus saw the same size and diversity as a weakness that made representation shallow and unreliable.",
+        "Both essays ultimately shaped the finished Constitution: Madison's structural arguments are reflected in federalism and separation of powers, while Anti-Federalist pressure like Brutus's is widely credited as a major reason the Bill of Rights was added in 1791."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "History did not fully vindicate either writer. The federal government has grown far larger than Brutus feared, partly through the necessary and proper clause he warned about, yet the United States has also avoided the kind of majority-faction tyranny Madison worried about, at least at the scale Madison feared, largely through the structural checks, elections, courts, a free press, that both writers, in different ways, helped build into the American constitutional order."
+    }
   ],
   "videoResources": [
-    {"title": "Heimler's Government: Unit 1.3", "url": "https://www.youtube.com/results?search_query=Heimler%27s+Government+Unit+1.3+Federalist+10+Brutus+1", "creator": "Heimler's Government · 10 min"},
-    {"title": "Federalist No. 10 Explained", "url": "https://www.youtube.com/results?search_query=Federalist+No+10+explained+AP+Gov", "creator": "Crash Course Government and Politics · 11 min"},
-    {"title": "Brutus No. 1 Explained", "url": "https://www.youtube.com/results?search_query=Mr+Sinn+APGOV+Brutus+No+1", "creator": "Mr. Sinn APGOV · video"}
+    {
+      "title": "Heimler's Government: Unit 1.3",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+Government+Unit+1.3+Federalist+10+Brutus+1",
+      "creator": "Heimler's Government · 10 min"
+    },
+    {
+      "title": "Federalist No. 10 Explained",
+      "url": "https://www.youtube.com/results?search_query=Federalist+No+10+explained+AP+Gov",
+      "creator": "Crash Course Government and Politics · 11 min"
+    },
+    {
+      "title": "Brutus No. 1 Explained",
+      "url": "https://www.youtube.com/results?search_query=Mr+Sinn+APGOV+Brutus+No+1",
+      "creator": "Mr. Sinn APGOV · video"
+    }
   ],
   "multipleChoice": [
     {
       "stimulus": "\"Extend the sphere, and you take in a greater variety of parties and interests; you make it less probable that a majority of the whole will have a common motive to invade the rights of other citizens.\" (James Madison, Federalist No. 10)",
       "question": "The argument in this passage is best supported by which of the following?",
-      "options": ["A small New England town where all residents vote directly on the town budget every year", "A large, diverse national republic where hundreds of competing economic and regional interests exist", "A monarchy in which a single ruler holds all governing power", "A confederation in which the national government has no power to tax"],
+      "options": [
+        "A small New England town where all residents vote directly on the town budget every year",
+        "A large, diverse national republic where hundreds of competing economic and regional interests exist",
+        "A monarchy in which a single ruler holds all governing power",
+        "A confederation in which the national government has no power to tax"
+      ],
       "correctIndex": 1,
       "explanation": "Madison's argument depends specifically on a large, diverse republic containing many competing factions so that no single majority faction can easily form. (A) describes the small, direct democracy Madison argues against. (C) removes majority rule from the equation entirely, so it is not what Madison is describing. (D) describes a structural feature (national taxing power) unrelated to the size-and-faction argument in this passage."
     },
     {
       "question": "Which of the following best describes the central argument of Brutus No. 1?",
-      "options": ["A republic can only remain accountable to its citizens if it is kept small, but the proposed Constitution creates a national government too large and distant to represent the people faithfully", "A large republic is the best protection against the dangers of majority faction", "The Articles of Confederation gave the national government too much power over the states", "The Constitution should be ratified immediately to prevent foreign invasion"],
+      "options": [
+        "A republic can only remain accountable to its citizens if it is kept small, but the proposed Constitution creates a national government too large and distant to represent the people faithfully",
+        "A large republic is the best protection against the dangers of majority faction",
+        "The Articles of Confederation gave the national government too much power over the states",
+        "The Constitution should be ratified immediately to prevent foreign invasion"
+      ],
       "correctIndex": 0,
       "explanation": "Brutus No. 1's central claim is that a republic this large cannot be genuinely representative or accountable, and that the national government's power will inevitably grow at the states' expense. (B) is Madison's argument in Federalist No. 10, the opposite position. (C) misdescribes the Articles, which gave the national government too little power, not too much. (D) is not a claim found in Brutus No. 1 at all."
     },
     {
-      "question": "Brutus No. 1 specifically criticizes which two provisions of the proposed Constitution as most likely to expand federal power at the expense of the states?", "options": ["The Third Amendment and the Tenth Amendment", "The necessary and proper clause and the supremacy clause", "The commerce clause and the establishment clause", "The Electoral College and the Senate's equal state representation"],
+      "question": "Brutus No. 1 specifically criticizes which two provisions of the proposed Constitution as most likely to expand federal power at the expense of the states?",
+      "options": [
+        "The Third Amendment and the Tenth Amendment",
+        "The necessary and proper clause and the supremacy clause",
+        "The commerce clause and the establishment clause",
+        "The Electoral College and the Senate's equal state representation"
+      ],
       "correctIndex": 1,
       "explanation": "Brutus specifically names the necessary and proper clause and the supremacy clause, together, as the mechanism he believed would let the national government expand almost without limit. (A) describes amendments not yet written or debated in Brutus No. 1's argument. (C) names other real constitutional clauses, but not the ones Brutus's essay focuses on. (D) describes institutions unrelated to Brutus's federal-power argument."
     },
     {
-      "question": "Madison and Brutus most fundamentally disagree about which of the following?", "options": ["Whether individual liberty is worth protecting", "Whether the ideal republic should be large or small", "Whether the United States should have a written constitution at all", "Whether elections should be held regularly"],
+      "question": "Madison and Brutus most fundamentally disagree about which of the following?",
+      "options": [
+        "Whether individual liberty is worth protecting",
+        "Whether the ideal republic should be large or small",
+        "Whether the United States should have a written constitution at all",
+        "Whether elections should be held regularly"
+      ],
       "correctIndex": 1,
       "explanation": "Both writers value liberty and support regular elections and a written constitution; their sharpest disagreement is over size, with Madison favoring a large republic and Brutus favoring a small one. (A), (C), and (D) describe points on which the two writers actually agree, not where they diverge."
     },
     {
-      "question": "A political scientist argues that widespread public pressure from writers like Brutus is a major reason the Bill of Rights was added to the Constitution in 1791. This argument suggests that", "options": ["Anti-Federalist concerns had no lasting influence on the final constitutional system", "Anti-Federalist concerns, even though the Constitution was ultimately ratified, still shaped the finished document", "Federalist No. 10 was written specifically to justify the Bill of Rights", "The Bill of Rights weakened the powers Brutus warned the national government would gain"],
+      "question": "A political scientist argues that widespread public pressure from writers like Brutus is a major reason the Bill of Rights was added to the Constitution in 1791. This argument suggests that",
+      "options": [
+        "Anti-Federalist concerns had no lasting influence on the final constitutional system",
+        "Anti-Federalist concerns, even though the Constitution was ultimately ratified, still shaped the finished document",
+        "Federalist No. 10 was written specifically to justify the Bill of Rights",
+        "The Bill of Rights weakened the powers Brutus warned the national government would gain"
+      ],
       "correctIndex": 1,
       "explanation": "The scenario describes the Bill of Rights as a direct response to Anti-Federalist pressure, showing that opponents of ratification still meaningfully shaped the Constitution even after losing the ratification fight itself. (A) contradicts the premise of the question. (C) is factually backwards; Federalist No. 10 predates the Bill of Rights debate and does not address it. (D) overstates the claim; the Bill of Rights limited government power generally, but the scenario does not claim it eliminated the specific expansion Brutus feared."
     }
   ],
-  "saq": {
-    "context": "\"The powers, rights, and authorities, are therefore given to be exercised... In every free government, the people must give up some natural rights, to secure the rest; but in a republic of so great extent as the United States, the number of those who will be included in the government will be so small... that but a very small proportion of the people can be represented.\" (Brutus No. 1, 1787)",
-    "directions": "Respond to Parts A, B, and C. Each response should be a complete sentence; bullet points alone are not acceptable.",
-    "parts": [
-      {"label": "Part A", "task": "Describe the argument Brutus makes in the passage above about representation in a large republic.", "sampleAnswer": "Brutus argues that in a republic as large as the proposed United States, there will be too few representatives relative to the population for the government to genuinely represent more than a small proportion of the people."},
-      {"label": "Part B", "task": "In the context of the scenario, explain how Madison's argument in Federalist No. 10 directly responds to the concern raised in the passage.", "sampleAnswer": "Madison argues the opposite: that a large republic is actually safer, because its size and diversity make it harder for any single majority faction to dominate, directly countering Brutus's claim that largeness itself is the core problem."},
-      {"label": "Part C", "task": "Explain how a specific feature of the ratified Constitution reflects an attempt to address Brutus's concern about distant, unaccountable representation.", "sampleAnswer": "The requirement that members of the House of Representatives be elected every two years, directly by the people of relatively small districts, reflects an attempt to keep representatives closely accountable to their constituents despite the republic's overall size."}
-    ]
-  },
-  "leq": {
-    "prompt": "Evaluate the extent to which the debate between Federalist No. 10 and Brutus No. 1 reflects a broader, lasting tension in American political thought between the size and scope of the federal government.",
-    "note": "Write a full essay with thesis, contextualization, evidence, and historical reasoning. This prompt rewards using specific textual evidence from both documents, not just a general summary of each side.",
-    "thesisExample": "Strong thesis: \"The debate between Federalist No. 10 and Brutus No. 1 established a lasting tension in American political thought, between trusting a large, structurally complex national government to contain faction and trusting a small, closely accountable government to protect liberty, a tension still visible in later debates over federal power.\"",
-    "outline": [
-      {"label": "Contextualization", "text": "Describe the ratification debate of 1787 to 1788 and the practical stakes: whether the states would adopt the newly drafted Constitution in place of the Articles of Confederation."},
-      {"label": "Evidence, Federalist No. 10", "text": "Madison's argument that extending the sphere of the republic dilutes faction; his distinction between a pure democracy and a republic; his trust in structural, large-scale solutions to political danger."},
-      {"label": "Evidence, Brutus No. 1", "text": "Brutus's warning about the necessary and proper clause and supremacy clause; his argument that representatives in a large republic cannot know or reflect the people; his preference for small, accountable government."},
-      {"label": "Historical reasoning: continuity", "text": "Connect the Madison-versus-Brutus tension to a later or ongoing debate over federal power (such as debates over the size of the federal government, states' rights, or the scope of federal regulation), arguing that the same underlying question, how much to trust a large central government, persists well beyond 1787 to 1788."}
-    ]
-  },
   "discussionQuestions": [
-    {"question": "Madison argues that eliminating faction entirely would require eliminating liberty itself. Do you agree that this trade-off is unavoidable? Why or why not?", "modelAnswer": "A strong answer engages directly with Madison's logic: since faction arises from differing opinions and interests, which are a natural byproduct of free thought and free association, suppressing faction would require suppressing those freedoms too, though a student could reasonably argue other tools, like campaign finance limits, attempt to reduce faction's harms without eliminating liberty outright."},
-    {"question": "Brutus argued that representatives in a large republic could not truly know the people they represented. Is this concern more or less valid in the age of instant digital communication than it was in 1787?", "modelAnswer": "A strong answer could argue either direction: that modern communication (social media, email, town halls) lets representatives stay closely informed about constituent views despite distance, weakening Brutus's original concern, or that the sheer scale of modern districts and the influence of money in politics have made representatives even more distant from ordinary constituents than Brutus feared."},
-    {"question": "If you had been a delegate in 1787, would you have found Madison's or Brutus's argument more persuasive? Defend your answer using evidence from both texts.", "modelAnswer": "Answers will vary, but a strong response cites specific claims from both essays (not just general impressions) and explains clearly why the chosen argument's underlying assumption about human nature or government power is more convincing."},
-    {"question": "The Bill of Rights is often credited to Anti-Federalist pressure even though the Anti-Federalists lost the overall fight against ratification. What does this suggest about how political influence works even for the losing side of a major debate?", "modelAnswer": "It suggests that losing a specific political fight does not mean losing all influence over the outcome; sustained public pressure and credible arguments can still reshape the winning side's final product, even without changing the ultimate result."}
+    {
+      "question": "Madison argues that eliminating faction entirely would require eliminating liberty itself. Do you agree that this trade-off is unavoidable? Why or why not?",
+      "modelAnswer": "A strong answer engages directly with Madison's logic: since faction arises from differing opinions and interests, which are a natural byproduct of free thought and free association, suppressing faction would require suppressing those freedoms too, though a student could reasonably argue other tools, like campaign finance limits, attempt to reduce faction's harms without eliminating liberty outright."
+    },
+    {
+      "question": "Brutus argued that representatives in a large republic could not truly know the people they represented. Is this concern more or less valid in the age of instant digital communication than it was in 1787?",
+      "modelAnswer": "A strong answer could argue either direction: that modern communication (social media, email, town halls) lets representatives stay closely informed about constituent views despite distance, weakening Brutus's original concern, or that the sheer scale of modern districts and the influence of money in politics have made representatives even more distant from ordinary constituents than Brutus feared."
+    },
+    {
+      "question": "If you had been a delegate in 1787, would you have found Madison's or Brutus's argument more persuasive? Defend your answer using evidence from both texts.",
+      "modelAnswer": "Answers will vary, but a strong response cites specific claims from both essays (not just general impressions) and explains clearly why the chosen argument's underlying assumption about human nature or government power is more convincing."
+    },
+    {
+      "question": "The Bill of Rights is often credited to Anti-Federalist pressure even though the Anti-Federalists lost the overall fight against ratification. What does this suggest about how political influence works even for the losing side of a major debate?",
+      "modelAnswer": "It suggests that losing a specific political fight does not mean losing all influence over the outcome; sustained public pressure and credible arguments can still reshape the winning side's final product, even without changing the ultimate result."
+    }
   ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],
-  "teacherNotes": ""
+  "teacherNotes": "",
+  "examFrqs": [
+    {
+      "type": "Concept Application",
+      "context": "\"The powers, rights, and authorities, are therefore given to be exercised... In every free government, the people must give up some natural rights, to secure the rest; but in a republic of so great extent as the United States, the number of those who will be included in the government will be so small... that but a very small proportion of the people can be represented.\" (Brutus No. 1, 1787)",
+      "directions": "Respond to parts A, B, and C.",
+      "parts": [
+        {
+          "label": "A",
+          "task": "Describe Brutus's argument in the passage about representation in a large republic.",
+          "sampleAnswer": "Brutus argues that in a republic as large as the United States, there will be too few representatives relative to the population, so only a small share of the people can actually be represented."
+        },
+        {
+          "label": "B",
+          "task": "Explain how Madison's argument in Federalist No. 10 responds to that concern.",
+          "sampleAnswer": "Madison argues the opposite: a large republic is safer because its size and diversity make it harder for any one majority faction to dominate, so largeness is a solution to faction, not the core problem Brutus describes."
+        },
+        {
+          "label": "C",
+          "task": "Explain how one feature of the ratified Constitution tried to keep representatives accountable despite the country's size.",
+          "sampleAnswer": "House members are elected every two years, directly by the people, from districts much smaller than a whole state, which keeps them closer to constituents than a distant national elite would be."
+        }
+      ]
+    },
+    {
+      "type": "Argument Essay",
+      "prompt": "Develop an argument that explains whether a large republic or a small republic is a better safeguard of liberty in the United States.",
+      "directions": "In your essay: state a defensible thesis; support it with at least one piece of evidence from a required foundational document and one additional piece of evidence; use reasoning to explain how your evidence supports your thesis; and respond to an alternate perspective.",
+      "foundationalDocuments": [
+        "Federalist No. 10",
+        "Brutus No. 1",
+        "The U.S. Constitution"
+      ],
+      "thesisExample": "A large republic is a better safeguard of liberty, because as Madison argues in Federalist No. 10, extending the sphere makes it harder for any single faction to capture the whole government, a danger Brutus underestimates when he treats size itself as the threat.",
+      "outline": [
+        {
+          "label": "Thesis",
+          "text": "Take Madison's side or Brutus's side. Do not only summarize both essays."
+        },
+        {
+          "label": "Evidence from a foundational document",
+          "text": "Quote or closely paraphrase Federalist No. 10 (extend the sphere; representatives refine public views) or Brutus No. 1 (necessary and proper clause, supremacy clause, representatives too distant)."
+        },
+        {
+          "label": "Additional evidence",
+          "text": "Use a constitutional feature (House elections, Senate, Bill of Rights) or a later example of federal power versus local control."
+        },
+        {
+          "label": "Alternate perspective",
+          "text": "If you side with Madison, answer Brutus's fear of a distant national government. If you side with Brutus, answer Madison's claim that a large republic controls faction better than a small one."
+        }
+      ]
+    }
+  ]
 }
