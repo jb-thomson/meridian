@@ -7,7 +7,7 @@
     {
       "icon": "🌍",
       "label": "Environment",
-      "tooltip": "Geographic factors — coal, rivers, canals, iron — determined where industrialization first took root. Britain's physical geography was uniquely suited to industrial production in the late 18th century."
+      "tooltip": "Geographic factors, coal, rivers, canals, iron, determined where industrialization first took root. Britain's physical geography was uniquely suited to industrial production in the late 18th century."
     },
     {
       "icon": "⚙️",
@@ -21,7 +21,7 @@
     }
   ],
   "tldr": [
-    "**LO-A: The factory system —** Before factories, most goods were made in homes (\"cottage industry\") or small workshops. The factory system concentrated production in a single large building with specialized workers, machines, and a set schedule. This produced goods faster and more cheaply than the old system. Division of labor — each worker doing one specific task repeatedly — made factories far more efficient than any individual craftsperson. Britain's textile industry was the first to industrialize, using water and then steam power to run spinning and weaving machines. Seven environmental and institutional factors combined uniquely in Britain: (1) rivers and canals for cheap transportation; (2) abundant coal in Wales and northern England; (3) accessible iron ore; (4) timber; (5) improving agricultural productivity that freed up rural labor for factory work; (6) legal protection of private property and patent rights, which rewarded inventors; (7) accumulated capital from trade and colonial wealth, plus access to colonial raw materials (particularly cotton from India and the American South). No other country had all seven at once. **Urbanization was both a cause and an effect —** Growing cities provided a labor pool for factories AND a market for manufactured goods. The enclosure movement in Britain's countryside pushed rural peasants off common land, forcing many into cities looking for work — which conveniently supplied factories with workers. This connection between agricultural change, urbanization, and industrialization is a key historical process the AP exam tests."
+    "**LO-A: The factory system:** Before factories, most goods were made in homes (\"cottage industry\") or small workshops. The factory system concentrated production in a single large building with specialized workers, machines, and a set schedule. This produced goods faster and more cheaply than the old system. Division of labor, each worker doing one specific task repeatedly, made factories far more efficient than any individual craftsperson. Britain's textile industry was the first to industrialize, using water and then steam power to run spinning and weaving machines. Seven environmental and institutional factors combined uniquely in Britain: (1) rivers and canals for cheap transportation; (2) abundant coal in Wales and northern England; (3) accessible iron ore; (4) timber; (5) improving agricultural productivity that freed up rural labor for factory work; (6) legal protection of private property and patent rights, which rewarded inventors; (7) accumulated capital from trade and colonial wealth, plus access to colonial raw materials (particularly cotton from India and the American South). No other country had all seven at once. **Urbanization was both a cause and an effect:** Growing cities provided a labor pool for factories AND a market for manufactured goods. The enclosure movement in Britain's countryside pushed rural peasants off common land, forcing many into cities looking for work, which conveniently supplied factories with workers. This connection between agricultural change, urbanization, and industrialization is a key historical process the AP exam tests."
   ],
   "learningObjectives": [
     "Explain how environmental factors contributed to industrialization from 1750 to 1900."
@@ -40,7 +40,7 @@
     {
       "term": "Division of Labor",
       "definition": "The organization of production so that each worker performs one specialized task repeatedly, rather than one worker making an entire product.",
-      "importance": "Central to factory efficiency; Adam Smith described it in Wealth of Nations (1776) — workers who specialize become much faster and more efficient than generalists."
+      "importance": "Central to factory efficiency; Adam Smith described it in Wealth of Nations (1776), workers who specialize become much faster and more efficient than generalists."
     },
     {
       "term": "Cottage Industry",
@@ -70,24 +70,24 @@
   ],
   "preTest": [
     {
-      "question": "Why did the Industrial Revolution begin in Britain rather than France, Germany, or China — all of which were also major powers in the 18th century?",
+      "question": "Why did the Industrial Revolution begin in Britain rather than France, Germany, or China, all of which were also major powers in the 18th century?",
       "answer": "Britain had a unique combination of geographic, economic, and institutional advantages that no other country shared simultaneously: coal and iron deposits near navigable rivers and canals, agricultural improvements that freed up labor, a strong tradition of private property and patent law that rewarded inventors, accumulated merchant capital from global trade, and access to colonial raw materials. France had some of these; China had others; but Britain had all of them together at the right historical moment."
     },
     {
-      "question": "Before factories existed, most manufactured goods were produced through \"cottage industry\" — workers making goods in their homes. What were the advantages and disadvantages of this system compared to the factory system?",
+      "question": "Before factories existed, most manufactured goods were produced through \"cottage industry\", workers making goods in their homes. What were the advantages and disadvantages of this system compared to the factory system?",
       "answer": "Cottage industry's advantages: workers could set their own pace, combine manufacturing with farming, and work at home. Disadvantages: production was slow, quality was inconsistent, and output couldn't be easily increased. The factory system's advantages: machines could produce goods much faster than human hands, quality was standardized, and output could scale up quickly. Disadvantages: workers had to follow factory schedules, work long hours in dangerous conditions, and give up the flexibility of home-based work. Factories won economically because they were dramatically more efficient."
     },
     {
       "question": "The \"enclosure movement\" in Britain pushed peasants off common land they had farmed for generations. How did this agricultural change connect to the rise of factories?",
-      "answer": "Common lands had been shared by peasant communities for centuries — peasants grazed animals and grew food on them. Enclosure converted these common lands into private property, forcing peasants who depended on them to find other work. Many moved to cities looking for jobs — and found them in factories. The enclosure movement thus created the urban working class that industrialization needed. It's a classic example of how agricultural changes directly shaped industrial ones."
+      "answer": "Common lands had been shared by peasant communities for centuries, peasants grazed animals and grew food on them. Enclosure converted these common lands into private property, forcing peasants who depended on them to find other work. Many moved to cities looking for jobs, and found them in factories. The enclosure movement thus created the urban working class that industrialization needed. It's a classic example of how agricultural changes directly shaped industrial ones."
     },
     {
       "question": "Britain had strong legal protections for private property and patents in the 18th century. Why would this matter for industrial innovation?",
-      "answer": "Patent law allowed inventors to own and profit from their inventions — no one could copy a patented design without paying the inventor. This created a financial incentive to invent: if you developed a better spinning machine, you could become wealthy by licensing your design rather than having competitors immediately copy it. Without patent protection, inventors would struggle to profit from their work, which reduces the incentive to invest time and money in innovation. Britain's legal system rewarded invention in a way that other countries' systems did not."
+      "answer": "Patent law allowed inventors to own and profit from their inventions, no one could copy a patented design without paying the inventor. This created a financial incentive to invent: if you developed a better spinning machine, you could become wealthy by licensing your design rather than having competitors immediately copy it. Without patent protection, inventors would struggle to profit from their work, which reduces the incentive to invest time and money in innovation. Britain's legal system rewarded invention in a way that other countries' systems did not."
     },
     {
       "question": "Rivers and canals are listed as a key factor in Britain's industrialization. Why would water transportation matter so much for industry?",
-      "answer": "Before railroads (which didn't exist until the 1820s–1830s), moving heavy goods overland was very expensive — roads were poor and horse-drawn wagons were slow and limited in how much they could carry. Water transportation by river or canal was dramatically cheaper and faster for heavy materials like coal, iron ore, and finished goods. Britain's network of navigable rivers, combined with a canal-building boom in the late 18th century, meant raw materials could reach factories cheaply and finished goods could reach markets cheaply. This drastically reduced costs and made factory production profitable."
+      "answer": "Before railroads (which didn't exist until the 1820s–1830s), moving heavy goods overland was very expensive, roads were poor and horse-drawn wagons were slow and limited in how much they could carry. Water transportation by river or canal was dramatically cheaper and faster for heavy materials like coal, iron ore, and finished goods. Britain's network of navigable rivers, combined with a canal-building boom in the late 18th century, meant raw materials could reach factories cheaply and finished goods could reach markets cheaply. This drastically reduced costs and made factory production profitable."
     }
   ],
   "blocks": [
@@ -101,7 +101,7 @@
     },
     {
       "type": "paragraph",
-      "text": "The Industrial Revolution changed this permanently. Beginning in Britain in the mid-18th century, machines powered by water and then steam began doing the work that human hands had always done — spinning thread, weaving cloth, hammering iron. These machines could work faster, longer, and more consistently than any human worker. The result was an explosion in how much goods could be produced, how cheaply they could be sold, and how quickly economies could grow."
+      "text": "The Industrial Revolution changed this permanently. Beginning in Britain in the mid-18th century, machines powered by water and then steam began doing the work that human hands had always done, spinning thread, weaving cloth, hammering iron. These machines could work faster, longer, and more consistently than any human worker. The result was an explosion in how much goods could be produced, how cheaply they could be sold, and how quickly economies could grow."
     },
     {
       "type": "paragraph",
@@ -112,7 +112,7 @@
       "imageType": "ai_generated",
       "src": "assets/images/ap-world-history/5-3-0.jpg",
       "alt": "Interior of an early British cotton textile mill with workers and spinning machines",
-      "caption": "Early British cotton mills combined water power, machine spinning, and large numbers of workers — including many women and children — under one roof.",
+      "caption": "Early British cotton mills combined water power, machine spinning, and large numbers of workers, including many women and children, under one roof.",
       "attribution": "The textile industry was the first to industrialize in Britain (Google Gemini, 2025), commercially licensed."
     },
     {
@@ -126,17 +126,17 @@
     {
       "type": "list",
       "items": [
-        "**Proximity to waterways — rivers and canals:** Before railroads, water transportation was the cheapest way to move heavy goods. Britain had navigable rivers throughout its territory, and entrepreneurs built a canal system in the late 18th century that connected inland areas to ports. Coal, iron, and finished goods could move cheaply from mines to factories to markets. Without cheap transportation, factory production was not profitable.",
-        "**Coal deposits:** Coal was the fuel that powered steam engines — and steam engines powered everything else. Britain had abundant, accessible coal deposits, particularly in Wales, Yorkshire, and the northeast. These were often near rivers, making it practical to mine and transport coal cheaply.",
+        "**Proximity to waterways, rivers and canals:** Before railroads, water transportation was the cheapest way to move heavy goods. Britain had navigable rivers throughout its territory, and entrepreneurs built a canal system in the late 18th century that connected inland areas to ports. Coal, iron, and finished goods could move cheaply from mines to factories to markets. Without cheap transportation, factory production was not profitable.",
+        "**Coal deposits:** Coal was the fuel that powered steam engines, and steam engines powered everything else. Britain had abundant, accessible coal deposits, particularly in Wales, Yorkshire, and the northeast. These were often near rivers, making it practical to mine and transport coal cheaply.",
         "**Iron ore:** Iron was the material that machines were made from. Britain had iron ore deposits that could be processed (using coal-fired furnaces) into the iron and later steel that machinery required. The combination of coal and iron in close proximity was critical.",
         "**Timber:** Wood was still needed for construction, ships, and early machinery. Britain's forests, though diminishing, provided this resource.",
-        "**Improved agricultural productivity:** New farming techniques — crop rotation, selective breeding, and the enclosure movement — made British agriculture more productive, which meant fewer people were needed to grow food. Surplus rural workers moved to cities, providing the labor pool that factories required. Agricultural improvement and industrialization were connected.",
-        "**Access to foreign resources:** Britain's colonial empire gave it access to raw materials — particularly cotton from India and the American South — that fueled its textile industry. Without cheap cotton imports, British cotton mills would not have had the raw material to process."
+        "**Improved agricultural productivity:** New farming techniques, crop rotation, selective breeding, and the enclosure movement, made British agriculture more productive, which meant fewer people were needed to grow food. Surplus rural workers moved to cities, providing the labor pool that factories required. Agricultural improvement and industrialization were connected.",
+        "**Access to foreign resources:** Britain's colonial empire gave it access to raw materials, particularly cotton from India and the American South, that fueled its textile industry. Without cheap cotton imports, British cotton mills would not have had the raw material to process."
       ]
     },
     {
       "type": "funFact",
-      "text": "By 1800, Britain was consuming more coal annually than all the rest of the world combined. The country sat on some of the world's most accessible coal seams, and the growing demand for steam power kept mines working around the clock. Coal was so central to Britain's industrialization that historians sometimes say the Industrial Revolution was really a \"coal revolution\" — without cheap, abundant coal, none of the machinery that powered it would have worked."
+      "text": "By 1800, Britain was consuming more coal annually than all the rest of the world combined. The country sat on some of the world's most accessible coal seams, and the growing demand for steam power kept mines working around the clock. Coal was so central to Britain's industrialization that historians sometimes say the Industrial Revolution was really a \"coal revolution\", without cheap, abundant coal, none of the machinery that powered it would have worked."
     },
     {
       "type": "heading",
@@ -148,15 +148,15 @@
     },
     {
       "type": "paragraph",
-      "text": "**Legal protection of private property:** British law strongly protected property rights — including the right to own machines, land, and the profits of your business. The patent system gave inventors a legal monopoly on their inventions for a set period, meaning they could profit from their ideas before competitors could copy them. James Watt patented his improved steam engine in 1769. Richard Arkwright patented his water frame (a cotton-spinning machine) in 1769 as well. These patents made both men wealthy and incentivized further invention. Other countries had inventors too; Britain uniquely had a legal system that rewarded them financially."
+      "text": "**Legal protection of private property:** British law strongly protected property rights, including the right to own machines, land, and the profits of your business. The patent system gave inventors a legal monopoly on their inventions for a set period, meaning they could profit from their ideas before competitors could copy them. James Watt patented his improved steam engine in 1769. Richard Arkwright patented his water frame (a cotton-spinning machine) in 1769 as well. These patents made both men wealthy and incentivized further invention. Other countries had inventors too; Britain uniquely had a legal system that rewarded them financially."
     },
     {
       "type": "paragraph",
-      "text": "**Capital accumulation:** Factories are expensive to build. Machines are expensive to buy. Running a factory means paying wages before the goods are sold. All of this requires money upfront — capital. Britain had it. Centuries of international trade, colonial profits, and a well-developed banking system meant that British merchants and landowners had accumulated wealth that they could invest in new manufacturing ventures. The same merchant networks that financed global trade financed early factories."
+      "text": "**Capital accumulation:** Factories are expensive to build. Machines are expensive to buy. Running a factory means paying wages before the goods are sold. All of this requires money upfront, capital. Britain had it. Centuries of international trade, colonial profits, and a well-developed banking system meant that British merchants and landowners had accumulated wealth that they could invest in new manufacturing ventures. The same merchant networks that financed global trade financed early factories."
     },
     {
       "type": "apTip",
-      "text": "The AP CED lists all seven factors contributing to industrialization. Know them: (1) proximity to waterways, (2) coal and iron deposits, (3) timber, (4) urbanization, (5) improved agricultural productivity, (6) access to foreign resources, (7) capital accumulation. When an FRQ asks why industrialization began in Britain, you should be able to name and explain at least three of these. Don't just say \"Britain had coal\" — explain *why* coal mattered (it powered steam engines, which powered factories)."
+      "text": "The AP CED lists all seven factors contributing to industrialization. Know them: (1) proximity to waterways, (2) coal and iron deposits, (3) timber, (4) urbanization, (5) improved agricultural productivity, (6) access to foreign resources, (7) capital accumulation. When an FRQ asks why industrialization began in Britain, you should be able to name and explain at least three of these. Don't just say \"Britain had coal\", explain *why* coal mattered (it powered steam engines, which powered factories)."
     },
     {
       "type": "heading",
@@ -164,18 +164,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Before factories, most manufacturing happened in homes or small workshops — the \"putting-out\" or cottage industry system. A merchant would deliver raw materials (raw wool, raw cotton) to rural workers who would spin or weave at home, then the merchant would collect and sell the finished goods. This system was flexible but slow and inconsistent."
+      "text": "Before factories, most manufacturing happened in homes or small workshops, the \"putting-out\" or cottage industry system. A merchant would deliver raw materials (raw wool, raw cotton) to rural workers who would spin or weave at home, then the merchant would collect and sell the finished goods. This system was flexible but slow and inconsistent."
     },
     {
       "type": "paragraph",
-      "text": "The factory system changed everything. Factories brought workers together in one place, with specialized machines and a set schedule. The key innovation was not just machines — it was the **division of labor**. Instead of one skilled craftsperson making an entire product from start to finish, each worker in a factory performed one specific task, over and over. One person fed raw cotton into a machine; another operated the spinning machine; another the loom. Each worker became very fast at their one task."
+      "text": "The factory system changed everything. Factories brought workers together in one place, with specialized machines and a set schedule. The key innovation was not just machines. It was the **division of labor**. Instead of one skilled craftsperson making an entire product from start to finish, each worker in a factory performed one specific task, over and over. One person fed raw cotton into a machine; another operated the spinning machine; another the loom. Each worker became very fast at their one task."
     },
     {
       "type": "image",
       "imageType": "ai_generated",
       "src": "assets/images/ap-world-history/5-3-1.jpg",
       "alt": "Cross-section diagram of an early factory showing specialized workers at different stations",
-      "caption": "The factory's key innovation was the division of labor — each worker specialized in one task, making production far faster and more consistent than the cottage industry it replaced.",
+      "caption": "The factory's key innovation was the division of labor, each worker specialized in one task, making production far faster and more consistent than the cottage industry it replaced.",
       "attribution": "This model, described by Adam Smith in 1776, became the basis of industrial manufacturing worldwide (Google Gemini, 2025), commercially licensed."
     },
     {
@@ -183,16 +183,16 @@
       "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/5-3-2.jpg",
       "alt": "",
-      "caption": "The spinning jenny (improved design by John Hargreaves, c. 1770) — one of the key inventions of the Industrial Revolution. A single spinner could now manage 8, then 16, then 80 spindles simultaneously. This engraving is from *The History of the Cotton Manufacture* (1835).",
+      "caption": "The spinning jenny (improved design by John Hargreaves, c. 1770), one of the key inventions of the Industrial Revolution. A single spinner could now manage 8, then 16, then 80 spindles simultaneously. This engraving is from *The History of the Cotton Manufacture* (1835).",
       "attribution": "Public domain, Wikimedia Commons."
     },
     {
       "type": "paragraph",
-      "text": "Adam Smith described this in *The Wealth of Nations* (1776) using the example of pin-making: one worker working alone might make 20 pins a day. Ten workers dividing the task into specialized steps could collectively make 48,000 pins a day. The math is staggering — and it explains why factories so rapidly outcompeted traditional craftspeople."
+      "text": "Adam Smith described this in *The Wealth of Nations* (1776) using the example of pin-making: one worker working alone might make 20 pins a day. Ten workers dividing the task into specialized steps could collectively make 48,000 pins a day. The math is staggering, and it explains why factories so rapidly outcompeted traditional craftspeople."
     },
     {
       "type": "funFact",
-      "text": "The first true \"factory\" is generally considered to be Richard Arkwright's cotton mill at Cromford, Derbyshire, built in 1771. It used water power to run spinning machines and employed hundreds of workers — including many children — working in shifts around the clock. Arkwright became one of the richest men in Britain from it. He was not an inventor — his water frame was largely the work of others — but he was a brilliant organizer who figured out how to run a large factory profitably. The organizational innovation mattered as much as the mechanical one. Licensed stock photo, commercially available. A historic cotton spinning loom of the type used in early British textile mills. Machines like Arkwright's water frame replaced cottage-industry hand-spinning, concentrating production under one factory roof and creating the factory model that transformed industrial capitalism."
+      "text": "The first true \"factory\" is generally considered to be Richard Arkwright's cotton mill at Cromford, Derbyshire, built in 1771. It used water power to run spinning machines and employed hundreds of workers, including many children, working in shifts around the clock. Arkwright became one of the richest men in Britain from it. He was not an inventor, his water frame was largely the work of others, but he was a brilliant organizer who figured out how to run a large factory profitably. The organizational innovation mattered as much as the mechanical one. Licensed stock photo, commercially available. A historic cotton spinning loom of the type used in early British textile mills. Machines like Arkwright's water frame replaced cottage-industry hand-spinning, concentrating production under one factory roof and creating the factory model that transformed industrial capitalism."
     },
     {
       "type": "heading",
@@ -204,11 +204,11 @@
     },
     {
       "type": "paragraph",
-      "text": "Manchester — a small market town in 1750 — grew to 300,000 people by 1850, becoming the heart of the cotton textile industry. Birmingham grew around metalworking. Leeds around wool textiles. Sheffield around cutlery and steel. Each city's growth was powered by a particular industry."
+      "text": "Manchester, a small market town in 1750, grew to 300,000 people by 1850, becoming the heart of the cotton textile industry. Birmingham grew around metalworking. Leeds around wool textiles. Sheffield around cutlery and steel. Each city's growth was powered by a particular industry."
     },
     {
       "type": "paragraph",
-      "text": "The workers who filled these cities came from two main sources: rural migrants displaced by the enclosure movement, and immigrants from Ireland (fleeing poverty and famine). They arrived to find cheap, crowded housing; dangerous factory work; and cities that had grown faster than their infrastructure could handle. The consequences of this rapid urbanization — pollution, poverty, disease — are covered in Topic 5.9."
+      "text": "The workers who filled these cities came from two main sources: rural migrants displaced by the enclosure movement, and immigrants from Ireland (fleeing poverty and famine). They arrived to find cheap, crowded housing; dangerous factory work; and cities that had grown faster than their infrastructure could handle. The consequences of this rapid urbanization, pollution, poverty, disease, are covered in Topic 5.9."
     },
     {
       "type": "apTip",
@@ -248,7 +248,7 @@
         "D) The competition from French manufactured goods that threatened British markets"
       ],
       "correctIndex": 2,
-      "explanation": "Canals solved the transportation problem that made industrial production uneconomical: moving heavy coal, iron, and finished goods overland was expensive with 18th-century roads and horse-drawn wagons. Canals dramatically reduced transportation costs, making it profitable to move coal from mines to factories and finished goods to markets — a precondition for industrial growth."
+      "explanation": "Canals solved the transportation problem that made industrial production uneconomical: moving heavy coal, iron, and finished goods overland was expensive with 18th-century roads and horse-drawn wagons. Canals dramatically reduced transportation costs, making it profitable to move coal from mines to factories and finished goods to markets, a precondition for industrial growth."
     },
     {
       "stimulus": "The 18th-century British Parliament passed hundreds of Enclosure Acts, converting village common lands into privately owned fields. Historians estimate that between 1760 and 1820, approximately 6 million acres of common land were enclosed. Many peasants who had depended on these commons for subsistence farming and grazing were displaced.",
@@ -263,7 +263,7 @@
       "explanation": "The primary industrial consequence of enclosure was displacement of rural workers who then sought employment in cities. Their arrival in cities provided the labor supply that factory production required. While A (food output) and C (capital) are also historically true, the CED connection between enclosure and industrialization is specifically about the creation of an urban labor pool."
     },
     {
-      "stimulus": "\"The great invention of the late 18th century was not any particular machine — it was the factory system itself. By bringing workers, raw materials, and machines together under one roof, with each worker performing a single repeated task, the factory achieved a level of output that no collection of individual craftspeople could match.\"",
+      "stimulus": "\"The great invention of the late 18th century was not any particular machine. It was the factory system itself. By bringing workers, raw materials, and machines together under one roof, with each worker performing a single repeated task, the factory achieved a level of output that no collection of individual craftspeople could match.\"",
       "question": "The argument in the passage most directly supports which of the following conclusions about the Industrial Revolution?",
       "options": [
         "A) The factory system's most important innovation was the division of labor, not machinery alone",
@@ -272,7 +272,7 @@
         "D) The factory system was initially adopted more slowly in Britain than in France or Germany"
       ],
       "correctIndex": 0,
-      "explanation": "The passage explicitly argues that the factory system's great innovation was organizational — bringing workers together and organizing their tasks — not just the individual machines themselves. Division of labor is the key concept: multiple specialized workers outperform any individual craftsperson, regardless of machinery."
+      "explanation": "The passage explicitly argues that the factory system's great innovation was organizational, bringing workers together and organizing their tasks, not just the individual machines themselves. Division of labor is the key concept: multiple specialized workers outperform any individual craftsperson, regardless of machinery."
     },
     {
       "stimulus": "Britain's Parliament passed the Statute of Monopolies in 1624, establishing the patent system. By the mid-18th century, inventors who registered patents received 14-year exclusive rights to their inventions. Between 1760 and 1800, the number of patents granted annually in Britain increased fivefold.",
@@ -284,7 +284,7 @@
         "D) Legal protections for private property created incentives that accelerated technological innovation"
       ],
       "correctIndex": 3,
-      "explanation": "The fivefold increase in patents during the critical decades of industrialization shows that patent protection created incentives for innovation. Inventors could profit from their designs, which motivated more people to invest in mechanical improvement. Legal protection of private property — specifically intellectual property through patents — was one of the CED's listed factors contributing to industrialization."
+      "explanation": "The fivefold increase in patents during the critical decades of industrialization shows that patent protection created incentives for innovation. Inventors could profit from their designs, which motivated more people to invest in mechanical improvement. Legal protection of private property, specifically intellectual property through patents, was one of the CED's listed factors contributing to industrialization."
     },
     {
       "stimulus": "In 1750, Manchester, England was a small market town with a population of about 18,000. By 1800 it had grown to approximately 90,000, and by 1850 to over 300,000. This growth was driven by the concentration of cotton textile mills in and around the city.",
@@ -300,34 +300,34 @@
     }
   ],
   "saq": {
-    "context": "\"A variety of factors contributed to the growth of industrial production and eventually resulted in the Industrial Revolution, including proximity to waterways, geographical distribution of coal, iron, and timber, urbanization, improved agricultural productivity, legal protection of private property, access to foreign resources, and accumulation of capital.\" — AP World History CED, Unit 5",
+    "context": "\"A variety of factors contributed to the growth of industrial production and eventually resulted in the Industrial Revolution, including proximity to waterways, geographical distribution of coal, iron, and timber, urbanization, improved agricultural productivity, legal protection of private property, access to foreign resources, and accumulation of capital.\", AP World History CED, Unit 5",
     "directions": "Answer all three parts (A, B, C). Write your response before clicking to see sample answers.",
     "parts": [
       {
         "label": "Part A",
         "task": "Identify ONE geographic or environmental factor that contributed to Britain's early industrialization.",
-        "sampleAnswer": "**Sample answer:** Britain's abundant and accessible coal deposits — particularly in Wales, Yorkshire, and the northeast of England — were a critical geographic factor enabling early industrialization. Coal was the fuel source for steam engines, which powered factory machinery, pumped water from mines, and later drove locomotives. Without cheap, accessible coal, the steam engine would have been impractical, and the entire mechanized factory system that depended on steam power could not have developed as it did in Britain."
+        "sampleAnswer": "**Sample answer:** Britain's abundant and accessible coal deposits, particularly in Wales, Yorkshire, and the northeast of England, were a critical geographic factor enabling early industrialization. Coal was the fuel source for steam engines, which powered factory machinery, pumped water from mines, and later drove locomotives. Without cheap, accessible coal, the steam engine would have been impractical, and the entire mechanized factory system that depended on steam power could not have developed as it did in Britain."
       },
       {
         "label": "Part B",
         "task": "Explain ONE way the factory system changed how goods were produced compared to the cottage industry system it replaced.",
-        "sampleAnswer": "**Sample answer:** The factory system replaced the cottage industry's model of individual or small-group production with a system of division of labor — each worker in a factory performed one specific, repeated task rather than making an entire product from start to finish. In cottage industry, a weaver would handle raw cotton from start to finished cloth, requiring skill at every stage and producing modest output. In a factory, the process was divided into dozens of steps, each performed by a different specialized worker (often operating a machine), dramatically increasing the speed and volume of production. Adam Smith calculated that this specialization could increase output per worker by a factor of hundreds compared to individual craftwork."
+        "sampleAnswer": "**Sample answer:** The factory system replaced the cottage industry's model of individual or small-group production with a system of division of labor, each worker in a factory performed one specific, repeated task rather than making an entire product from start to finish. In cottage industry, a weaver would handle raw cotton from start to finished cloth, requiring skill at every stage and producing modest output. In a factory, the process was divided into dozens of steps, each performed by a different specialized worker (often operating a machine), dramatically increasing the speed and volume of production. Adam Smith calculated that this specialization could increase output per worker by a factor of hundreds compared to individual craftwork."
       },
       {
         "label": "Part C",
         "task": "Explain ONE way agricultural changes in Britain contributed to industrialization.",
-        "sampleAnswer": "**Sample answer:** The enclosure movement — in which British Parliament converted common lands that peasant communities had shared for generations into private property — displaced large numbers of rural workers who could no longer subsist on agriculture. Many of these displaced peasants moved to cities and towns where they became available as wage laborers for factories. This rural-to-urban migration provided the labor supply that factory owners needed: a large pool of workers who had no land of their own and were therefore willing to work for wages in factories. Without this source of urban workers, the rapid expansion of industrial production would have been constrained by labor shortages."
+        "sampleAnswer": "**Sample answer:** The enclosure movement, in which British Parliament converted common lands that peasant communities had shared for generations into private property, displaced large numbers of rural workers who could no longer subsist on agriculture. Many of these displaced peasants moved to cities and towns where they became available as wage laborers for factories. This rural-to-urban migration provided the labor supply that factory owners needed: a large pool of workers who had no land of their own and were therefore willing to work for wages in factories. Without this source of urban workers, the rapid expansion of industrial production would have been constrained by labor shortages."
       }
     ]
   },
   "leq": {
     "outline": [
       {
-        "label": "Evidence for Body Paragraph 1 — Geographic factors as cause",
+        "label": "Evidence for Body Paragraph 1. Geographic factors as cause",
         "text": "Britain's coal fields in Wales, Yorkshire, and northeast England provided cheap fuel for steam engines; River and canal networks lowered transportation costs for heavy materials to near-nothing; Iron ore deposits combined with coal enabled cheap iron production for machinery; Access to colonial cotton (India, American South) gave the textile industry its raw material"
       },
       {
-        "label": "Evidence for Body Paragraph 2 — Institutional factors as equally necessary cause",
+        "label": "Evidence for Body Paragraph 2. Institutional factors as equally necessary cause",
         "text": "Patent system (Statute of Monopolies 1624) gave inventors financial incentive to innovate; Capital accumulation from centuries of Atlantic trade gave investors money to build factories; Enclosure movement (agricultural policy, not geography) created urban labor pool; Strong private property rights generally created a business-friendly legal environment"
       }
     ],
@@ -338,23 +338,23 @@
   "discussionQuestions": [
     {
       "question": "The CED lists seven factors that contributed to industrialization. Which three do you think mattered most, and why?",
-      "modelAnswer": "Strong answers will explain the logic behind the factors chosen, not just list them. Example: **Coal deposits** mattered most because coal was the fuel for steam engines, which powered all other machinery — without coal, there is no steam power. **Rivers and canals** mattered because cheap transportation was essential for moving coal to factories and finished goods to markets — without it, factory production was too expensive to compete with cottage industry. **Capital accumulation** mattered because factories required huge upfront investment — without accumulated wealth to invest, the physical infrastructure of industrialization could not have been built. Other answers are defensible as long as the reasoning is clear."
+      "modelAnswer": "Strong answers will explain the logic behind the factors chosen, not just list them. Example: **Coal deposits** mattered most because coal was the fuel for steam engines, which powered all other machinery, without coal, there is no steam power. **Rivers and canals** mattered because cheap transportation was essential for moving coal to factories and finished goods to markets, without it, factory production was too expensive to compete with cottage industry. **Capital accumulation** mattered because factories required huge upfront investment, without accumulated wealth to invest, the physical infrastructure of industrialization could not have been built. Other answers are defensible as long as the reasoning is clear."
     },
     {
       "question": "How did the division of labor make factories so much more productive than cottage industry?",
-      "modelAnswer": "In cottage industry, one or a few workers made an entire product from start to finish — a slow process that required skill at every stage. In the factory system, each worker performed one specific task over and over again. This specialization made each worker extremely fast at their particular task. Combined with machine power, the result was dramatically higher output. Adam Smith's pin-making example shows the scale: individual production = 20 pins/day; factory division of labor = 4,800 pins per worker per day. This efficiency allowed factories to produce goods far more cheaply than any individual craftsperson, which is why factory production rapidly replaced cottage industry."
+      "modelAnswer": "In cottage industry, one or a few workers made an entire product from start to finish, a slow process that required skill at every stage. In the factory system, each worker performed one specific task over and over again. This specialization made each worker extremely fast at their particular task. Combined with machine power, the result was dramatically higher output. Adam Smith's pin-making example shows the scale: individual production = 20 pins/day; factory division of labor = 4,800 pins per worker per day. This efficiency allowed factories to produce goods far more cheaply than any individual craftsperson, which is why factory production rapidly replaced cottage industry."
     },
     {
       "question": "Why was the enclosure movement in British agriculture connected to the rise of factories?",
-      "modelAnswer": "The enclosure movement converted common lands — which peasants had farmed and grazed animals on for generations — into private property. Peasants who had depended on common lands for survival lost access to them and had to find other sources of income. Many moved to cities, where factories were hiring. This connection is crucial: the enclosure movement did not cause industrialization, but it created the mass of urban workers that factories required. Agricultural change and industrial change were interdependent — one produced the other's preconditions."
+      "modelAnswer": "The enclosure movement converted common lands, which peasants had farmed and grazed animals on for generations, into private property. Peasants who had depended on common lands for survival lost access to them and had to find other sources of income. Many moved to cities, where factories were hiring. This connection is crucial: the enclosure movement did not cause industrialization, but it created the mass of urban workers that factories required. Agricultural change and industrial change were interdependent, one produced the other's preconditions."
     },
     {
       "question": "How did Britain's patent system contribute to the Industrial Revolution?",
-      "modelAnswer": "Patent law gave inventors the legal right to profit exclusively from their inventions for a set period — no one could copy a patented design without paying the inventor. This created a direct financial incentive to invent: if you could develop a better spinning machine or a more efficient steam engine, you could become wealthy by licensing your design. James Watt's improved steam engine (1769) made him rich through patent licensing. Without this legal protection, competitors could immediately copy any new invention, removing the profit motive for investing in research and development. Britain's patent system was more developed and more consistently enforced than those of other European countries, which is one reason so many key inventions happened there first."
+      "modelAnswer": "Patent law gave inventors the legal right to profit exclusively from their inventions for a set period, no one could copy a patented design without paying the inventor. This created a direct financial incentive to invent: if you could develop a better spinning machine or a more efficient steam engine, you could become wealthy by licensing your design. James Watt's improved steam engine (1769) made him rich through patent licensing. Without this legal protection, competitors could immediately copy any new invention, removing the profit motive for investing in research and development. Britain's patent system was more developed and more consistently enforced than those of other European countries, which is one reason so many key inventions happened there first."
     },
     {
       "question": "Why couldn't industrialization have started in China or France as easily as in Britain, given that both were major powers at the time?",
-      "modelAnswer": "China and France both had large economies and significant technological capability, but lacked the specific combination of factors that Britain had. France had some coal but less accessible; its agricultural productivity improvements lagged; its legal system was more restrictive for private enterprise. China had coal but in interior regions far from coastal markets; its legal system did not provide the same patent protections; its guild system and state economic policies were less supportive of private industrial investment. More fundamentally, no country except Britain had all seven of the CED's listed factors — coal, iron, rivers, agricultural productivity, capital, foreign resource access, and legal protections — simultaneously and in the same accessible locations."
+      "modelAnswer": "China and France both had large economies and significant technological capability, but lacked the specific combination of factors that Britain had. France had some coal but less accessible; its agricultural productivity improvements lagged; its legal system was more restrictive for private enterprise. China had coal but in interior regions far from coastal markets; its legal system did not provide the same patent protections; its guild system and state economic policies were less supportive of private industrial investment. More fundamentally, no country except Britain had all seven of the CED's listed factors, coal, iron, rivers, agricultural productivity, capital, foreign resource access, and legal protections, simultaneously and in the same accessible locations."
     }
   ],
   "images": [],

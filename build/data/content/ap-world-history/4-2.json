@@ -17,7 +17,7 @@
     {
       "icon": "🌍",
       "label": "Interactions",
-      "tooltip": "European exploration initiated the Columbian Exchange — the first sustained cross-hemispheric contact between the Eastern and Western hemispheres."
+      "tooltip": "European exploration initiated the Columbian Exchange, the first sustained cross-hemispheric contact between the Eastern and Western hemispheres."
     },
     {
       "icon": "🗺️",
@@ -26,8 +26,8 @@
     }
   ],
   "tldr": [
-    "**LO-A: Why states sponsored exploration —** The AP exam's emphasizes that transoceanic exploration was *state-supported*, not the product of independent adventurers. Monarchs funded voyages because they wanted commercial advantages (direct access to Asian spice markets, bypassing Ottoman/Arab middlemen), religious motivations (spreading Christianity, outflanking Muslim states), and competitive pressure (if rival states found sea routes to Asia, you were commercially ruined). The Portuguese royal family sponsored exploration for nearly a century before Vasco da Gama reached India in 1498. **Portugal — the first mover —:** Portugal systematically explored the African coast from the 1420s onward under royal sponsorship. Key milestones: Bartolomeu Dias rounded the Cape of Good Hope (1488); Vasco da Gama reached Calicut, India (1498). Portugal built a network of fortified trading posts (called *feitorias*) around the Indian Ocean, creating the first European maritime empire. Effect: Portuguese spice prices undercut Venice by 80%, destroying the Mediterranean spice trade.",
-    "**LO-B: Explain the economic causes and effects of maritime… —** **Spain — the Atlantic gamble —:** Columbus's 1492 voyage, sponsored by Ferdinand and Isabella, was an attempt to reach Asia by sailing west. He reached the Caribbean instead. The Treaty of Tordesillas (1494) divided the non-European world between Portugal and Spain. Magellan-Elcano's circumnavigation (1519–1522) proved the Earth was round and the Pacific was crossable — and that Asia could be reached from the west. **England, France, and the Dutch —:** Northern European states initially focused on finding alternative routes to Asia (Northwest Passage, Northeast Passage) to avoid Portuguese- and Spanish-dominated southern routes. England sponsored John Cabot (1497) and Francis Drake's circumnavigation (1577–1580). France sponsored Jacques Cartier's exploration of Canada (1534). The Dutch entered the race late (1590s) but used superior commercial organization to dominate global trade by the 1620s. The underlying goal in all cases: accessing Asian markets more cheaply than overland routes allowed."
+    "**LO-A: Why states sponsored exploration:** The AP exam's emphasizes that transoceanic exploration was *state-supported*, not the product of independent adventurers. Monarchs funded voyages because they wanted commercial advantages (direct access to Asian spice markets, bypassing Ottoman/Arab middlemen), religious motivations (spreading Christianity, outflanking Muslim states), and competitive pressure (if rival states found sea routes to Asia, you were commercially ruined). The Portuguese royal family sponsored exploration for nearly a century before Vasco da Gama reached India in 1498. **Portugal, the first mover:** Portugal systematically explored the African coast from the 1420s onward under royal sponsorship. Key milestones: Bartolomeu Dias rounded the Cape of Good Hope (1488); Vasco da Gama reached Calicut, India (1498). Portugal built a network of fortified trading posts (called *feitorias*) around the Indian Ocean, creating the first European maritime empire. Effect: Portuguese spice prices undercut Venice by 80%, destroying the Mediterranean spice trade.",
+    "**LO-B: Explain the economic causes and effects of maritime…:** **Spain, the Atlantic gamble:** Columbus's 1492 voyage, sponsored by Ferdinand and Isabella, was an attempt to reach Asia by sailing west. He reached the Caribbean instead. The Treaty of Tordesillas (1494) divided the non-European world between Portugal and Spain. Magellan-Elcano's circumnavigation (1519–1522) proved the Earth was round and the Pacific was crossable, and that Asia could be reached from the west. **England, France, and the Dutch:** Northern European states initially focused on finding alternative routes to Asia (Northwest Passage, Northeast Passage) to avoid Portuguese- and Spanish-dominated southern routes. England sponsored John Cabot (1497) and Francis Drake's circumnavigation (1577–1580). France sponsored Jacques Cartier's exploration of Canada (1534). The Dutch entered the race late (1590s) but used superior commercial organization to dominate global trade by the 1620s. The underlying goal in all cases: accessing Asian markets more cheaply than overland routes allowed."
   ],
   "learningObjectives": [
     "Describe the role of states in the expansion of maritime exploration from 1450 to 1750",
@@ -37,7 +37,7 @@
     {
       "term": "Prince Henry the Navigator",
       "definition": "Portuguese prince (1394–1460) who sponsored and organized systematic Portuguese exploration of the African coast, establishing a navigation school and funding successive expeditions.",
-      "importance": "Represents state sponsorship of exploration — exploration as a royal policy, not individual adventure. His program laid the foundation for Vasco da Gama's voyage to India forty years later."
+      "importance": "Represents state sponsorship of exploration, exploration as a royal policy, not individual adventure. His program laid the foundation for Vasco da Gama's voyage to India forty years later."
     },
     {
       "term": "Vasco da Gama",
@@ -78,23 +78,23 @@
   "preTest": [
     {
       "question": "The Ottoman conquest of Constantinople in 1453 is often cited as a cause of European exploration. Is this actually accurate? What economic reality better explains European motivation?",
-      "answer": "The Ottoman conquest did not \"block\" the spice trade — it continued, and Ottoman merchants were happy to trade. The real motivation was simpler and more economic: overland routes through the Middle East and Mediterranean required paying multiple layers of middlemen (Arab, Ottoman, Venetian traders), each taking a cut. By the 1400s, spice prices in Lisbon might be five to eight times what they were in Calicut. A direct sea route to Asia would eliminate most of those markups and generate enormous profit. Portugal was already motivated before 1453 — exploration of the African coast began in the 1420s. Economic profit, not route blockage, was the primary driver."
+      "answer": "The Ottoman conquest did not \"block\" the spice trade. It continued, and Ottoman merchants were happy to trade. The real motivation was simpler and more economic: overland routes through the Middle East and Mediterranean required paying multiple layers of middlemen (Arab, Ottoman, Venetian traders), each taking a cut. By the 1400s, spice prices in Lisbon might be five to eight times what they were in Calicut. A direct sea route to Asia would eliminate most of those markups and generate enormous profit. Portugal was already motivated before 1453, exploration of the African coast began in the 1420s. Economic profit, not route blockage, was the primary driver."
     },
     {
       "question": "Why did European monarchs, rather than private merchants, fund the first transoceanic voyages? What advantage did state sponsorship provide?",
-      "answer": "Early transoceanic voyages were extremely expensive, extremely risky, and had no guaranteed return — a private merchant who financed such a voyage might lose everything. Only a state with tax revenue to absorb losses could sustain a decades-long program of exploration without a single profitable voyage. Portuguese royal sponsorship allowed the program to continue through failures that would have bankrupted any private enterprise. State sponsorship also provided legal authority — the right to claim territories and sign treaties on behalf of the crown — which private merchants couldn't do. The early voyages were state investments in infrastructure and geographic knowledge, not commercial ventures in the normal sense."
+      "answer": "Early transoceanic voyages were extremely expensive, extremely risky, and had no guaranteed return, a private merchant who financed such a voyage might lose everything. Only a state with tax revenue to absorb losses could sustain a decades-long program of exploration without a single profitable voyage. Portuguese royal sponsorship allowed the program to continue through failures that would have bankrupted any private enterprise. State sponsorship also provided legal authority, the right to claim territories and sign treaties on behalf of the crown, which private merchants couldn't do. The early voyages were state investments in infrastructure and geographic knowledge, not commercial ventures in the normal sense."
     },
     {
-      "question": "Columbus was seeking a western route to Asia and failed — he found the Americas instead. How did Spain convert this \"failure\" into an advantage over Portugal?",
-      "answer": "Spain quickly recognized that the lands Columbus found, while not Asia, were themselves valuable — for precious metals, agricultural potential, and the possibility of conversion of millions of indigenous people to Christianity. The Treaty of Tordesillas (1494) legally divided the non-European world between Spain and Portugal, giving Spain dominion over the Americas (minus Brazil). When Hernán Cortés conquered the Aztec Empire (1519–1521) and found the gold and silver of Mesoamerica, Spain realized that Columbus's \"mistake\" was worth more than any Asian spice route. The Americas became Spain's primary source of wealth — specifically the silver mines of Potosí."
+      "question": "Columbus was seeking a western route to Asia and failed. He found the Americas instead. How did Spain convert this \"failure\" into an advantage over Portugal?",
+      "answer": "Spain quickly recognized that the lands Columbus found, while not Asia, were themselves valuable, for precious metals, agricultural potential, and the possibility of conversion of millions of indigenous people to Christianity. The Treaty of Tordesillas (1494) legally divided the non-European world between Spain and Portugal, giving Spain dominion over the Americas (minus Brazil). When Hernán Cortés conquered the Aztec Empire (1519–1521) and found the gold and silver of Mesoamerica, Spain realized that Columbus's \"mistake\" was worth more than any Asian spice route. The Americas became Spain's primary source of wealth, specifically the silver mines of Potosí."
     },
     {
       "question": "Why did northern European countries (England, France, the Dutch) enter oceanic exploration later than Portugal and Spain, and what alternative routes did they seek?",
-      "answer": "Portugal and Spain had already claimed the southern routes (Portugal around Africa; Spain across the Atlantic to the Americas and Pacific), and the Treaty of Tordesillas gave them legal authority to exclude others. Northern European states sought alternatives: a Northwest Passage (through the Arctic above North America to Asia) or a Northeast Passage (above Russia). Both were largely ice-blocked and failed to become viable routes. The northern powers eventually succeeded by ignoring the Spanish and Portuguese monopoly claims and competing directly — Dutch and English merchants simply sailed to Asia around Africa or across the Atlantic to the Americas and traded anyway, initially through piracy and eventually through their own trading companies."
+      "answer": "Portugal and Spain had already claimed the southern routes (Portugal around Africa; Spain across the Atlantic to the Americas and Pacific), and the Treaty of Tordesillas gave them legal authority to exclude others. Northern European states sought alternatives: a Northwest Passage (through the Arctic above North America to Asia) or a Northeast Passage (above Russia). Both were largely ice-blocked and failed to become viable routes. The northern powers eventually succeeded by ignoring the Spanish and Portuguese monopoly claims and competing directly. Dutch and English merchants simply sailed to Asia around Africa or across the Atlantic to the Americas and traded anyway, initially through piracy and eventually through their own trading companies."
     },
     {
-      "question": "The Treaty of Tordesillas (1494) divided the non-European world between Spain and Portugal. Why did this document matter — and why did it ultimately fail to achieve its purpose?",
-      "answer": "The treaty formalized Spain's and Portugal's competing claims to newly discovered territories, preventing war between the two Iberian powers by drawing a line 370 leagues west of the Cape Verde Islands (roughly through the middle of the Atlantic). Everything west went to Spain; everything east to Portugal. This is why Brazil (which Portugal \"accidentally\" reached in 1500) is a Portuguese-speaking country in South America. It failed to achieve its purpose long-term because England, France, and the Dutch simply ignored it — they hadn't signed it, didn't recognize its authority, and competed aggressively for the same territories and trade routes. No treaty between two parties can bind the rest of the world."
+      "question": "The Treaty of Tordesillas (1494) divided the non-European world between Spain and Portugal. Why did this document matter, and why did it ultimately fail to achieve its purpose?",
+      "answer": "The treaty formalized Spain's and Portugal's competing claims to newly discovered territories, preventing war between the two Iberian powers by drawing a line 370 leagues west of the Cape Verde Islands (roughly through the middle of the Atlantic). Everything west went to Spain; everything east to Portugal. This is why Brazil (which Portugal \"accidentally\" reached in 1500) is a Portuguese-speaking country in South America. It failed to achieve its purpose long-term because England, France, and the Dutch simply ignored it. They hadn't signed it, didn't recognize its authority, and competed aggressively for the same territories and trade routes. No treaty between two parties can bind the rest of the world."
     }
   ],
   "blocks": [
@@ -104,11 +104,11 @@
     },
     {
       "type": "paragraph",
-      "text": "In 1400, European merchants had a problem. The luxury goods they most wanted — Indian pepper and cinnamon, Indonesian cloves and nutmeg, Chinese silk and porcelain — arrived in Europe through a chain of middlemen. Arab traders carried spices from India across the Indian Ocean to the Persian Gulf or Red Sea. Overland caravans carried them to Ottoman-controlled ports in the eastern Mediterranean. Venetian merchants then sold them across Europe at enormous markups. By the time a sack of pepper reached Lisbon, it had changed hands five or six times, each merchant taking a cut. Prices were five to eight times what the same spices cost at their source."
+      "text": "In 1400, European merchants had a problem. The luxury goods they most wanted, Indian pepper and cinnamon, Indonesian cloves and nutmeg, Chinese silk and porcelain, arrived in Europe through a chain of middlemen. Arab traders carried spices from India across the Indian Ocean to the Persian Gulf or Red Sea. Overland caravans carried them to Ottoman-controlled ports in the eastern Mediterranean. Venetian merchants then sold them across Europe at enormous markups. By the time a sack of pepper reached Lisbon, it had changed hands five or six times, each merchant taking a cut. Prices were five to eight times what the same spices cost at their source."
     },
     {
       "type": "paragraph",
-      "text": "The commercial logic of finding a direct sea route to Asia was irresistible: whoever could trade with Asia directly — without any of those middlemen — would make fortunes while selling goods more cheaply than any competitor. This was not the motivation of individual adventurers. It was the strategic calculation of states."
+      "text": "The commercial logic of finding a direct sea route to Asia was irresistible: whoever could trade with Asia directly, without any of those middlemen, would make fortunes while selling goods more cheaply than any competitor. This was not the motivation of individual adventurers. It was the strategic calculation of states."
     },
     {
       "type": "paragraph",
@@ -136,7 +136,7 @@
     },
     {
       "type": "paragraph",
-      "text": "The effort began under **Prince Henry the Navigator** (1394–1460), who funded expeditions, recruited navigators, collected geographic information, and systematically extended Portuguese knowledge of the African coast. He wasn't interested in Africa for its own sake — he wanted to find how far south the continent went and whether there was a route around it to the Indian Ocean."
+      "text": "The effort began under **Prince Henry the Navigator** (1394–1460), who funded expeditions, recruited navigators, collected geographic information, and systematically extended Portuguese knowledge of the African coast. He wasn't interested in Africa for its own sake. He wanted to find how far south the continent went and whether there was a route around it to the Indian Ocean."
     },
     {
       "type": "paragraph",
@@ -145,23 +145,23 @@
     {
       "type": "list",
       "items": [
-        "**1441:** Portuguese ships reach the area of modern Mauritania; first enslaved Africans brought to Portugal — the beginning of the Atlantic slave trade.",
+        "**1441:** Portuguese ships reach the area of modern Mauritania; first enslaved Africans brought to Portugal, the beginning of the Atlantic slave trade.",
         "**1460s–1480s:** Exploration of the Gulf of Guinea, the Congo River mouth, and the equatorial African coast.",
-        "**1488:** **Bartolomeu Dias** rounds the **Cape of Good Hope** — proving that Africa had a southern tip and that the Indian Ocean was accessible from the Atlantic.",
-        "**1498:** **Vasco da Gama** sails from Lisbon around Africa to Calicut, India — arriving with a cargo of pepper that sold in Lisbon for sixty times what it cost in Calicut. Portugal had found the route."
+        "**1488:** **Bartolomeu Dias** rounds the **Cape of Good Hope**, proving that Africa had a southern tip and that the Indian Ocean was accessible from the Atlantic.",
+        "**1498:** **Vasco da Gama** sails from Lisbon around Africa to Calicut, India, arriving with a cargo of pepper that sold in Lisbon for sixty times what it cost in Calicut. Portugal had found the route."
       ]
     },
     {
       "type": "funFact",
-      "text": "When Vasco da Gama returned from India in 1499, his pepper cargo — which cost almost nothing in Calicut — sold for sixty times its purchase price in Lisbon. After subtracting all voyage costs (four ships, two years, most of the crew dead from scurvy and disease), Portugal still made a 3,000% profit on the cargo. The medieval spice trade was so profitable that a single successful voyage could fund the next ten. This is why European states were willing to invest enormous resources in a decades-long exploration program with no guaranteed payoff."
+      "text": "When Vasco da Gama returned from India in 1499, his pepper cargo, which cost almost nothing in Calicut, sold for sixty times its purchase price in Lisbon. After subtracting all voyage costs (four ships, two years, most of the crew dead from scurvy and disease), Portugal still made a 3,000% profit on the cargo. The medieval spice trade was so profitable that a single successful voyage could fund the next ten. This is why European states were willing to invest enormous resources in a decades-long exploration program with no guaranteed payoff."
     },
     {
       "type": "paragraph",
-      "text": "Portugal's response to reaching India was to build a **trading post empire** — a network of fortified ports (*feitorias*) at key locations around the Indian Ocean. Portugal seized control of Goa (on India's west coast, 1510), Malacca (controlling the strait between the Indian Ocean and the South China Sea, 1511), and Hormuz (controlling the Persian Gulf entrance, 1515). These fortresses allowed Portugal to tax and control the sea lanes connecting Asia, Africa, and eventually Europe — without governing large land territories."
+      "text": "Portugal's response to reaching India was to build a **trading post empire**, a network of fortified ports (*feitorias*) at key locations around the Indian Ocean. Portugal seized control of Goa (on India's west coast, 1510), Malacca (controlling the strait between the Indian Ocean and the South China Sea, 1511), and Hormuz (controlling the Persian Gulf entrance, 1515). These fortresses allowed Portugal to tax and control the sea lanes connecting Asia, Africa, and eventually Europe, without governing large land territories."
     },
     {
       "type": "apTip",
-      "text": "This distinction matters for the AP. Portugal built a *trading post empire* — controlling sea lanes through fortified ports without governing large populations. Spain built a *territorial empire* — conquering and governing large land areas in the Americas. Both are \"maritime empires,\" but they worked differently and had different effects. When the AP asks about Portuguese vs. Spanish imperialism, this is the key structural difference."
+      "text": "This distinction matters for the AP. Portugal built a *trading post empire*, controlling sea lanes through fortified ports without governing large populations. Spain built a *territorial empire*, conquering and governing large land areas in the Americas. Both are \"maritime empires,\" but they worked differently and had different effects. When the AP asks about Portuguese vs. Spanish imperialism, this is the key structural difference."
     },
     {
       "type": "heading",
@@ -169,23 +169,23 @@
     },
     {
       "type": "paragraph",
-      "text": "Spain's path to maritime empire was an accident. In 1492, Christopher Columbus — a Genoese navigator rejected by the Portuguese — successfully pitched King Ferdinand and Queen Isabella of Spain on a different approach: reach Asia by sailing *west* across the Atlantic, which he believed (incorrectly) was a much shorter route than going around Africa."
+      "text": "Spain's path to maritime empire was an accident. In 1492, Christopher Columbus, a Genoese navigator rejected by the Portuguese, successfully pitched King Ferdinand and Queen Isabella of Spain on a different approach: reach Asia by sailing *west* across the Atlantic, which he believed (incorrectly) was a much shorter route than going around Africa."
     },
     {
       "type": "paragraph",
-      "text": "Columbus was wrong about the geography in the most consequential way possible. The Atlantic is far wider than he calculated, and an entire continent — the Americas — stood between Europe and Asia. On October 12, 1492, Columbus's fleet reached the Bahamas, which he believed was an outlying island of Asia. He was wrong, but the consequences of his error were civilization-altering."
+      "text": "Columbus was wrong about the geography in the most consequential way possible. The Atlantic is far wider than he calculated, and an entire continent, the Americas, stood between Europe and Asia. On October 12, 1492, Columbus's fleet reached the Bahamas, which he believed was an outlying island of Asia. He was wrong, but the consequences of his error were civilization-altering."
     },
     {
       "type": "paragraph",
-      "text": "Spain quickly realized that the Americas were not Asia but were themselves enormously valuable. The Treaty of Tordesillas (1494), brokered by Pope Alexander VI, divided the non-European world between Spain and Portugal — Spain got everything west of a line in the Atlantic (essentially the Americas), Portugal got everything east (Africa and Asia). Spain then launched a series of conquest expeditions (*conquistadors*) into the Americas, and by 1521 Hernán Cortés had conquered the Aztec Empire, and by 1533 Francisco Pizarro had conquered the Inca Empire, giving Spain access to the richest silver deposits in the world."
+      "text": "Spain quickly realized that the Americas were not Asia but were themselves enormously valuable. The Treaty of Tordesillas (1494), brokered by Pope Alexander VI, divided the non-European world between Spain and Portugal. Spain got everything west of a line in the Atlantic (essentially the Americas), Portugal got everything east (Africa and Asia). Spain then launched a series of conquest expeditions (*conquistadors*) into the Americas, and by 1521 Hernán Cortés had conquered the Aztec Empire, and by 1533 Francisco Pizarro had conquered the Inca Empire, giving Spain access to the richest silver deposits in the world."
     },
     {
       "type": "funFact",
-      "text": "Columbus died in 1506 believing he had reached islands off the coast of Asia. He never accepted that he had found a previously unknown continent — even though Amerigo Vespucci (whose first name \"America\" was given to the continents) had published accounts in 1503 demonstrating these were new landmasses. Columbus's insistence on calling the indigenous people \"Indians\" (because he thought he was in the Indies) has persisted for 500+ years — one of history's most durable geographical errors."
+      "text": "Columbus died in 1506 believing he had reached islands off the coast of Asia. He never accepted that he had found a previously unknown continent, even though Amerigo Vespucci (whose first name \"America\" was given to the continents) had published accounts in 1503 demonstrating these were new landmasses. Columbus's insistence on calling the indigenous people \"Indians\" (because he thought he was in the Indies) has persisted for 500+ years, one of history's most durable geographical errors."
     },
     {
       "type": "paragraph",
-      "text": "The **Magellan-Elcano circumnavigation** (1519–1522) completed the picture. Ferdinand Magellan (Portuguese, sailing for Spain) sought to reach Asia from the west by sailing around the tip of South America. He found the Pacific Ocean — which was enormously larger than anyone had imagined. Magellan died in the Philippines; Juan Sebastián Elcano brought one surviving ship (out of five that started) back to Spain with a cargo of spices. The circumnavigation proved the Earth was round, that Asia could be reached from the west, and that the Pacific was crossable — just barely, and at terrible cost."
+      "text": "The **Magellan-Elcano circumnavigation** (1519–1522) completed the picture. Ferdinand Magellan (Portuguese, sailing for Spain) sought to reach Asia from the west by sailing around the tip of South America. He found the Pacific Ocean, which was enormously larger than anyone had imagined. Magellan died in the Philippines; Juan Sebastián Elcano brought one surviving ship (out of five that started) back to Spain with a cargo of spices. The circumnavigation proved the Earth was round, that Asia could be reached from the west, and that the Pacific was crossable, just barely, and at terrible cost."
     },
     {
       "type": "heading",
@@ -197,11 +197,11 @@
     },
     {
       "type": "paragraph",
-      "text": "The Dutch approach was particularly significant. Rather than seeking new routes, the Dutch competed directly on existing ones — sailing around Africa to Asia exactly as Portugal had, but doing it more cheaply with their fluyt ships and joint-stock company organization. By the 1620s, the Dutch had displaced Portugal as the dominant power in the Indian Ocean spice trade."
+      "text": "The Dutch approach was particularly significant. Rather than seeking new routes, the Dutch competed directly on existing ones, sailing around Africa to Asia exactly as Portugal had, but doing it more cheaply with their fluyt ships and joint-stock company organization. By the 1620s, the Dutch had displaced Portugal as the dominant power in the Indian Ocean spice trade."
     },
     {
       "type": "apTip",
-      "text": "The College Board Learning Objective for 4.2 asks you to \"describe the role of states in the expansion of maritime exploration.\" This means the AP expects you to know that exploration was not driven by heroic individuals acting independently — it was a policy of competing European states seeking economic and religious advantage. When writing about exploration, always connect individual voyages to the state that sponsored them and the state's motives for doing so."
+      "text": "The College Board Learning Objective for 4.2 asks you to \"describe the role of states in the expansion of maritime exploration.\" This means the AP expects you to know that exploration was not driven by heroic individuals acting independently. It was a policy of competing European states seeking economic and religious advantage. When writing about exploration, always connect individual voyages to the state that sponsored them and the state's motives for doing so."
     },
     {
       "type": "heading",
@@ -216,9 +216,9 @@
       "items": [
         "**Portugal's effect on Mediterranean trade:** Portuguese sea routes undercut Venetian spice prices, beginning the decline of Italian city-states as centers of global trade. Venice never fully recovered.",
         "**New colonial empires:** Spain's conquest of the Americas created the first large territorial colonial empire in the Western Hemisphere; Portugal built a trading post empire around the Indian Ocean. Both established patterns of European imperialism that persisted for centuries.",
-        "**The Columbian Exchange:** Permanent contact between the Eastern and Western Hemispheres initiated the greatest biological exchange in human history — covered in Topic 4.3.",
-        "**New labor systems:** European colonies required labor. In the Americas, this produced new coercive labor systems — encomienda, mita, and eventually chattel slavery — that reshaped populations across three continents — covered in Topic 4.4.",
-        "**Silver and global trade:** Spanish mining of Potosí silver (Bolivia) produced so much silver that it became the world's primary currency, linking American mines to Asian markets — covered in Topic 4.5."
+        "**The Columbian Exchange:** Permanent contact between the Eastern and Western Hemispheres initiated the greatest biological exchange in human history, covered in Topic 4.3.",
+        "**New labor systems:** European colonies required labor. In the Americas, this produced new coercive labor systems, encomienda, mita, and eventually chattel slavery, that reshaped populations across three continents, covered in Topic 4.4.",
+        "**Silver and global trade:** Spanish mining of Potosí silver (Bolivia) produced so much silver that it became the world's primary currency, linking American mines to Asian markets, covered in Topic 4.5."
       ]
     }
   ],
@@ -255,10 +255,10 @@
         "D) The use of exploration primarily as a means of spreading Christianity to West African populations"
       ],
       "correctIndex": 2,
-      "explanation": "The passage describes state organization (royal financing), cumulative knowledge building (successive charts of winds and currents), and competitive secrecy (classified state secrets). This is exactly what state-sponsored systematic exploration looks like — treating geographic knowledge as a strategic asset to be accumulated and protected, not individual adventure."
+      "explanation": "The passage describes state organization (royal financing), cumulative knowledge building (successive charts of winds and currents), and competitive secrecy (classified state secrets). This is exactly what state-sponsored systematic exploration looks like, treating geographic knowledge as a strategic asset to be accumulated and protected, not individual adventure."
     },
     {
-      "stimulus": "\"Columbus calculated that Asia lay approximately 3,000 miles west of the Canary Islands. The actual distance to Japan is approximately 12,000 miles, with an entire continent in between. When Columbus reached the Caribbean after 33 days, he believed he had arrived in the East Indies — the islands off the coast of Asia.\"",
+      "stimulus": "\"Columbus calculated that Asia lay approximately 3,000 miles west of the Canary Islands. The actual distance to Japan is approximately 12,000 miles, with an entire continent in between. When Columbus reached the Caribbean after 33 days, he believed he had arrived in the East Indies, the islands off the coast of Asia.\"",
       "question": "Columbus's miscalculation and his subsequent \"discovery\" most directly illustrate which of the following?",
       "options": [
         "A) The reliability of Renaissance-era astronomical charts for transatlantic navigation",
@@ -267,7 +267,7 @@
         "D) The deliberate deception of Spanish monarchs by Columbus to secure funding for an Americas voyage"
       ],
       "correctIndex": 1,
-      "explanation": "Columbus intended to reach Asia and failed. What he actually accomplished — permanent European contact with the Americas — was far more historically consequential than reaching Asia would have been. This illustrates the general principle that unintended consequences are often more significant than intended outcomes in history."
+      "explanation": "Columbus intended to reach Asia and failed. What he actually accomplished, permanent European contact with the Americas, was far more historically consequential than reaching Asia would have been. This illustrates the general principle that unintended consequences are often more significant than intended outcomes in history."
     },
     {
       "stimulus": "\"The Treaty of Tordesillas (1494) granted Spain all lands 370 leagues west of the Cape Verde Islands and Portugal all lands to the east. By 1600, England, France, and the Dutch Republic had established their own trading posts, colonies, and naval presences in regions the treaty had assigned to Portugal and Spain.\"",
@@ -279,10 +279,10 @@
         "D) A formal revision of the Treaty of Tordesillas negotiated at the Council of Trent"
       ],
       "correctIndex": 0,
-      "explanation": "England, France, and the Dutch didn't recognize the treaty because they didn't sign it — and they had the naval and commercial power to compete in territories the treaty had \"assigned\" to Portugal and Spain. International agreements between two parties have no binding force on third parties."
+      "explanation": "England, France, and the Dutch didn't recognize the treaty because they didn't sign it, and they had the naval and commercial power to compete in territories the treaty had \"assigned\" to Portugal and Spain. International agreements between two parties have no binding force on third parties."
     },
     {
-      "stimulus": "\"The Portuguese established fortified trading posts at Goa (1510), Malacca (1511), and Hormuz (1515), positioning them to control the three major entry points to the Indian Ocean trade system. They did not attempt to govern the surrounding territories or populations — only to tax maritime traffic passing through these strategic chokepoints.\"",
+      "stimulus": "\"The Portuguese established fortified trading posts at Goa (1510), Malacca (1511), and Hormuz (1515), positioning them to control the three major entry points to the Indian Ocean trade system. They did not attempt to govern the surrounding territories or populations, only to tax maritime traffic passing through these strategic chokepoints.\"",
       "question": "The Portuguese strategy described in the passage is best characterized as which of the following?",
       "options": [
         "A) A territorial empire similar to Spanish colonization of the Americas",
@@ -303,38 +303,38 @@
         "D) The superiority of Protestant commercial ethics over Catholic Portuguese practices"
       ],
       "correctIndex": 1,
-      "explanation": "Portugal had a 130-year head start and established the route. The Dutch displaced them not through violence but through commercial innovation — cheaper ships, joint-stock risk distribution, lower prices. This illustrates that competitive advantages from early arrival erode when competitors find more efficient commercial models."
+      "explanation": "Portugal had a 130-year head start and established the route. The Dutch displaced them not through violence but through commercial innovation, cheaper ships, joint-stock risk distribution, lower prices. This illustrates that competitive advantages from early arrival erode when competitors find more efficient commercial models."
     }
   ],
   "saq": {
-    "context": "\"In the period 1450–1750, European states sponsored transoceanic maritime exploration driven by the desire to access Asian markets more directly and cheaply than overland routes allowed. The voyages they funded produced consequences far exceeding their commercial intentions — establishing permanent connections between previously isolated hemispheres, creating new colonial empires, and initiating global biological and economic exchanges that reshaped human societies on every continent.\"",
+    "context": "\"In the period 1450–1750, European states sponsored transoceanic maritime exploration driven by the desire to access Asian markets more directly and cheaply than overland routes allowed. The voyages they funded produced consequences far exceeding their commercial intentions, establishing permanent connections between previously isolated hemispheres, creating new colonial empires, and initiating global biological and economic exchanges that reshaped human societies on every continent.\"",
     "directions": "Answer all three parts.",
     "parts": [
       {
         "label": "Part A",
         "task": "Explain ONE economic cause of European maritime exploration in the period 1450–1750.",
-        "sampleAnswer": "European demand for Asian luxury goods — particularly spices, silk, and porcelain — was enormous, but these goods arrived in Europe through multiple layers of Arab, Ottoman, and Venetian middlemen who each added substantial markups. A Portuguese or Spanish merchant could earn profits of several thousand percent by trading directly with Asian suppliers, bypassing these intermediaries. This commercial incentive drove the sustained state investment in ocean exploration that eventually produced direct sea routes to India and the Americas."
+        "sampleAnswer": "European demand for Asian luxury goods, particularly spices, silk, and porcelain, was enormous, but these goods arrived in Europe through multiple layers of Arab, Ottoman, and Venetian middlemen who each added substantial markups. A Portuguese or Spanish merchant could earn profits of several thousand percent by trading directly with Asian suppliers, bypassing these intermediaries. This commercial incentive drove the sustained state investment in ocean exploration that eventually produced direct sea routes to India and the Americas."
       },
       {
         "label": "Part B",
         "task": "Describe the role of states in supporting maritime exploration in the period 1450–1750, using ONE specific example.",
-        "sampleAnswer": "The Portuguese crown funded a decades-long, multigenerational program of exploration under Prince Henry the Navigator and successive monarchs, providing ships, crews, and financial support for successive voyages down the African coast. This state sponsorship was essential because individual merchants could not absorb the cost of exploration voyages that produced no profit for decades while gradually building geographic knowledge. Only a state with tax revenue and long-term strategic interests could sustain such a program — which eventually paid off in Vasco da Gama's arrival in India in 1498 and the establishment of a profitable sea route that bypassed all overland middlemen."
+        "sampleAnswer": "The Portuguese crown funded a decades-long, multigenerational program of exploration under Prince Henry the Navigator and successive monarchs, providing ships, crews, and financial support for successive voyages down the African coast. This state sponsorship was essential because individual merchants could not absorb the cost of exploration voyages that produced no profit for decades while gradually building geographic knowledge. Only a state with tax revenue and long-term strategic interests could sustain such a program, which eventually paid off in Vasco da Gama's arrival in India in 1498 and the establishment of a profitable sea route that bypassed all overland middlemen."
       },
       {
         "label": "Part C",
         "task": "Explain ONE effect of maritime exploration on global trade networks in the period 1450–1750.",
-        "sampleAnswer": "Portuguese sea routes to India undercut Mediterranean spice prices by eliminating multiple layers of overland middlemen, causing the decline of Venice and other Italian city-states that had prospered as intermediaries in the Eurasian spice trade. The new Atlantic and Indian Ocean sea routes bypassed the old land-based routes through the Middle East and Central Asia, shifting the center of global commerce from the Mediterranean to the Atlantic — permanently changing which cities, states, and regions were at the economic heart of the world system."
+        "sampleAnswer": "Portuguese sea routes to India undercut Mediterranean spice prices by eliminating multiple layers of overland middlemen, causing the decline of Venice and other Italian city-states that had prospered as intermediaries in the Eurasian spice trade. The new Atlantic and Indian Ocean sea routes bypassed the old land-based routes through the Middle East and Central Asia, shifting the center of global commerce from the Mediterranean to the Atlantic, permanently changing which cities, states, and regions were at the economic heart of the world system."
       }
     ]
   },
   "leq": {
     "outline": [
       {
-        "label": "Body 1 — Economic motivations as primary driver",
+        "label": "Body 1, Economic motivations as primary driver",
         "text": "Portuguese program motivated by direct access to Indian spice markets; da Gama's voyage profit rate of 3,000%; Columbus seeking Asia to bypass Ottoman/Venetian markups; Dutch VOC organized around commercial efficiency not military conquest."
       },
       {
-        "label": "Body 2 — Other motivations as real but secondary",
+        "label": "Body 2, Other motivations as real but secondary",
         "text": "Religious motives (spreading Christianity, outflanking Islam) present but not sufficient without commercial backing; inter-state rivalry (England/France/Dutch competing with Portugal/Spain) accelerated timelines but competition was ultimately over trade advantages; monarchs combined multiple motives but commercial profit ultimately determined which programs continued and which were abandoned."
       }
     ],
@@ -345,23 +345,23 @@
   "discussionQuestions": [
     {
       "question": "1. The Portuguese exploration program spanned nearly a century, from the 1420s to Vasco da Gama's arrival in India in 1498. What does this long timeline reveal about the nature of state-sponsored exploration compared to commercially driven ventures?",
-      "modelAnswer": "A state can sustain a multigenerational program of investment in geographic knowledge even when individual expeditions produce no profit, because states are not profit-maximizing entities — they are power-maximizing ones with tax revenues to absorb losses. No private merchant could have sustained eighty years of systematically mapping Africa's coastline with no financial return. The Portuguese royal program treated exploration as infrastructure investment — the payoff was the long-term commercial and geopolitical advantage of being the first to find a sea route to Asia. This is an important structural insight: the first major transoceanic voyages required state subsidies because the risks and timelines exceeded what markets could organize independently. Commercial exploitation came later, once the geographic knowledge had been established."
+      "modelAnswer": "A state can sustain a multigenerational program of investment in geographic knowledge even when individual expeditions produce no profit, because states are not profit-maximizing entities. They are power-maximizing ones with tax revenues to absorb losses. No private merchant could have sustained eighty years of systematically mapping Africa's coastline with no financial return. The Portuguese royal program treated exploration as infrastructure investment, the payoff was the long-term commercial and geopolitical advantage of being the first to find a sea route to Asia. This is an important structural insight: the first major transoceanic voyages required state subsidies because the risks and timelines exceeded what markets could organize independently. Commercial exploitation came later, once the geographic knowledge had been established."
     },
     {
       "question": "2. Why is Columbus's voyage considered a breakthrough even though he failed to reach his stated destination (Asia)?",
-      "modelAnswer": "Columbus's \"failure\" created a permanent connection between the Eastern and Western Hemispheres that had been biologically, ecologically, and culturally isolated from each other for approximately 12,000 years. The consequences — the Columbian Exchange, colonization of the Americas, the Atlantic slave trade, the extraction of American silver that funded global trade — were far more historically significant than any direct connection to Asian spice markets could have been. This is a case where the unintended consequences of an action vastly outweigh the intended ones. Columbus matters not because he found Asia, but because he found (for Europeans) a hemisphere that transformed global history in ways that neither he nor anyone alive in 1492 could have anticipated."
+      "modelAnswer": "Columbus's \"failure\" created a permanent connection between the Eastern and Western Hemispheres that had been biologically, ecologically, and culturally isolated from each other for approximately 12,000 years. The consequences, the Columbian Exchange, colonization of the Americas, the Atlantic slave trade, the extraction of American silver that funded global trade, were far more historically significant than any direct connection to Asian spice markets could have been. This is a case where the unintended consequences of an action vastly outweigh the intended ones. Columbus matters not because he found Asia, but because he found (for Europeans) a hemisphere that transformed global history in ways that neither he nor anyone alive in 1492 could have anticipated."
     },
     {
       "question": "3. Compare the Portuguese and Spanish models of overseas empire. What accounts for the differences?",
-      "modelAnswer": "Portugal built a trading post empire — a network of fortified ports at strategic locations controlling sea lanes, without governing large land territories. Spain built a territorial empire — conquering and governing large land areas (Mexico, Peru) and extracting resources through control of populations. The difference reflects their different contexts: Portugal arrived in the Indian Ocean, which already had dense, sophisticated trading networks with existing powerful states (Mughal India, Malay kingdoms). Portugal couldn't realistically conquer these, so it inserted itself into existing trade by controlling chokepoints. Spain arrived in the Americas, where epidemic disease had devastated indigenous populations and where gold and silver could be extracted through labor systems applied to conquered territories. Geography, existing population density, and the presence or absence of epidemic immunity shaped which imperial model was viable in each region."
+      "modelAnswer": "Portugal built a trading post empire, a network of fortified ports at strategic locations controlling sea lanes, without governing large land territories. Spain built a territorial empire, conquering and governing large land areas (Mexico, Peru) and extracting resources through control of populations. The difference reflects their different contexts: Portugal arrived in the Indian Ocean, which already had dense, sophisticated trading networks with existing powerful states (Mughal India, Malay kingdoms). Portugal couldn't realistically conquer these, so it inserted itself into existing trade by controlling chokepoints. Spain arrived in the Americas, where epidemic disease had devastated indigenous populations and where gold and silver could be extracted through labor systems applied to conquered territories. Geography, existing population density, and the presence or absence of epidemic immunity shaped which imperial model was viable in each region."
     },
     {
       "question": "4. The Treaty of Tordesillas (1494) divided the world between Portugal and Spain. What was missing from this agreement, and how did its absence shape subsequent history?",
-      "modelAnswer": "The treaty was missing the consent and recognition of every other European state — England, France, the Dutch Republic, and all the rest. A treaty between two parties cannot bind third parties who didn't sign it, and England, France, and the Dutch simply ignored it. English pirates (formally called \"privateers\") attacked Spanish treasure ships in the Caribbean; Dutch merchants sailed to Asia around Africa without Portuguese permission; French traders established posts in Canada without acknowledging Spanish claims. The treaty's failure demonstrates a persistent problem in international relations: agreements among existing powers to divide resources rarely survive the entry of new competitors who have no stake in the existing arrangement. The 16th and 17th centuries were characterized by violent competition among European states for the territories and trade routes that the Tordesillas agreement had nominally assigned to only two of them."
+      "modelAnswer": "The treaty was missing the consent and recognition of every other European state. England, France, the Dutch Republic, and all the rest. A treaty between two parties cannot bind third parties who didn't sign it, and England, France, and the Dutch simply ignored it. English pirates (formally called \"privateers\") attacked Spanish treasure ships in the Caribbean; Dutch merchants sailed to Asia around Africa without Portuguese permission; French traders established posts in Canada without acknowledging Spanish claims. The treaty's failure demonstrates a persistent problem in international relations: agreements among existing powers to divide resources rarely survive the entry of new competitors who have no stake in the existing arrangement. The 16th and 17th centuries were characterized by violent competition among European states for the territories and trade routes that the Tordesillas agreement had nominally assigned to only two of them."
     },
     {
       "question": "5. Compare Portuguese and Dutch methods of gaining access to Asian markets. What does the comparison reveal about different paths to commercial power?",
-      "modelAnswer": "Portugal achieved Asian market access through military force — building fortified posts, using naval cannons to intimidate or destroy local competitors, and imposing a \"protection\" system that taxed Indian Ocean merchants for the right to sail unmolested. The Dutch achieved the same access through commercial efficiency — building cheaper ships (the fluyt), organizing trade through a joint-stock company (VOC) that could raise capital and manage risk at scale, and undercutting Portuguese prices. Portugal's military model required constant expensive maintenance of fortifications and naval patrols; the Dutch model required constant innovation in commercial organization. By the 1620s, the Dutch had displaced Portugal in Asian trade not through superior military force but through superior commercial organization. This demonstrates that there are multiple paths to commercial power and that economic efficiency can outcompete military coercion in the long run."
+      "modelAnswer": "Portugal achieved Asian market access through military force, building fortified posts, using naval cannons to intimidate or destroy local competitors, and imposing a \"protection\" system that taxed Indian Ocean merchants for the right to sail unmolested. The Dutch achieved the same access through commercial efficiency, building cheaper ships (the fluyt), organizing trade through a joint-stock company (VOC) that could raise capital and manage risk at scale, and undercutting Portuguese prices. Portugal's military model required constant expensive maintenance of fortifications and naval patrols; the Dutch model required constant innovation in commercial organization. By the 1620s, the Dutch had displaced Portugal in Asian trade not through superior military force but through superior commercial organization. This demonstrates that there are multiple paths to commercial power and that economic efficiency can outcompete military coercion in the long run."
     }
   ],
   "images": [],
