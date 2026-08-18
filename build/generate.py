@@ -120,6 +120,20 @@ def main():
     # also carries a <meta name="robots" content="noindex,nofollow"> tag) ----
     write("robots.txt", "User-agent: *\nDisallow: /\n")
 
+    # ---- web app manifest: lets "Add to Home Screen" / browser bookmarking
+    # use the compass-star icon instead of a generic page icon ----
+    write("manifest.json", json.dumps({
+        "name": "Meridian",
+        "short_name": "Meridian",
+        "start_url": "./index.html",
+        "display": "standalone",
+        "background_color": "#241f16",
+        "theme_color": "#241f16",
+        "icons": [
+            {"src": "assets/images/icons/meridian-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any"}
+        ]
+    }, indent=2))
+
     # ---- course + topic pages ----
     course_tpl = env.get_template("course.html")
     topic_tpl = env.get_template("topic.html")

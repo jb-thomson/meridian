@@ -6,6 +6,10 @@
 <title>{% if page_title %}{{ page_title }} - {% endif %}Meridian</title>
 <meta name="description" content="{{ page_description|default('Course readings for AP World History, AP Government, AP Comparative Government and Politics, and Economics.') }}">
 <meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/png" href="{{ root }}assets/images/icons/meridian-icon.png">
+<link rel="apple-touch-icon" href="{{ root }}assets/images/icons/meridian-icon.png">
+<link rel="manifest" href="{{ root }}manifest.json">
+<meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="{{ root }}assets/css/style.css">
 {% if course_color %}<style>:root{--course-color:{{ course_color }};}</style>{% endif %}
 </head>
