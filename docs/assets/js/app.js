@@ -213,8 +213,9 @@
     if (!prefersReducedMotion && "IntersectionObserver" in window) {
       document.documentElement.classList.add("js-anim");
       var revealTargets = document.querySelectorAll(
-        ".reading-head, .callout, .section-label, figure.reading-figure, .course-header, .hero, .course-card, .unit, " +
-        ".theme-chip-row, .util-bar, .vocab-box, .info-box, .practice-group, .video-resources, .econ-model"
+        ".reading-head, .callout, .section-label, figure.reading-figure, .course-header, .unit, " +
+        ".theme-chip-row, .util-bar, .vocab-box, .info-box, .practice-group, .video-resources, .econ-model, " +
+        ".landing-feature, .landing-row"
       );
       revealTargets.forEach(function (el) { el.classList.add("reveal"); });
       var io = new IntersectionObserver(function (entries) {
