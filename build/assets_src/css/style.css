@@ -176,6 +176,7 @@ body.is-landing .landing-hero {
 .landing-body { max-width: 760px; margin: 0 auto; padding: 0 16px; }
 
 @media (min-width: 900px) {
+  body.is-landing .app-shell { display: block; }
   body.is-landing .topbar-inner { max-width: none; padding: 12px 6vw; }
   body.is-landing .landing-hero {
     min-height: 0;
