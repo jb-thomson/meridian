@@ -1,0 +1,16 @@
+{
+  "name": "Meridian",
+  "short_name": "Meridian",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#241f16",
+  "theme_color": "#241f16",
+  "icons": [
+    {
+      "src": "assets/images/icons/meridian-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
