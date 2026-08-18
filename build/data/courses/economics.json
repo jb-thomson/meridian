@@ -3,7 +3,7 @@
   "name": "Economics",
   "shortName": "Economics",
   "isAP": false,
-  "tagline": "One-semester course — aligned to CEE/NCEE national economics standards & the DoDEA/C3 Framework",
+  "tagline": "One-semester course, aligned to CEE/NCEE national economics standards & the DoDEA/C3 Framework",
   "color": "#2f6b4f",
   "assessmentTypes": [
     "mcq",

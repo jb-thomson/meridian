@@ -22,7 +22,7 @@
     {
       "icon": "⚙️",
       "label": "Technology",
-      "tooltip": "Gunpowder weapons — particularly cannons and firearms — were the decisive military innovation enabling imperial expansion. Cannons shattered fortress walls that had resisted armies for centuries. Musket-armed infantry broke the battlefield dominance of cavalry archers. All four empires mastered gunpowder warfare, earning them the label 'gunpowder empires' in the historical literature."
+      "tooltip": "Gunpowder weapons, particularly cannons and firearms, were the decisive military innovation enabling imperial expansion. Cannons shattered fortress walls that had resisted armies for centuries. Musket-armed infantry broke the battlefield dominance of cavalry archers. All four empires mastered gunpowder warfare, earning them the label 'gunpowder empires' in the historical literature."
     },
     {
       "icon": "🌍",
@@ -31,9 +31,9 @@
     }
   ],
   "tldr": [
-    "**LO-A: Gunpowder changes everything —** By 1450, gunpowder weapons — cannons and firearms — had matured into decisive military tools. Empires that mastered them could breach any fortress, defeat cavalry-based opponents, and project power over vast distances. This is why historians call the Ottoman, Safavid, Mughal, and Qing empires the \"gunpowder empires.\" **Ottoman Empire —:** The Ottoman Turks captured Constantinople in 1453 (ending the Byzantine Empire), then expanded to three continents. At its height, the empire stretched from Hungary to Yemen and from Morocco to Mesopotamia — the most powerful state in the 16th-century world, controlling the trade gateway between Europe and Asia.",
-    "**LO-B: Understand the role of gunpowder weapons in enabling… —** **Mughal Empire —:** Babur, a Central Asian warrior who claimed descent from Genghis Khan, invaded India in 1526 and founded the Mughal Empire. His grandson Akbar expanded and consolidated it, eventually controlling most of the Indian subcontinent — the world's most populous and commercially rich region. **Safavid Empire —:** The Safavids established Twelver Shi'a Islam as the state religion of Persia — a decision that defined Persian identity, created lasting conflict with Sunni neighbors, and transformed the religious geography of the Islamic world.",
-    "**LO-C: Identify the four major land-based empires and their… —** **Qing (Manchu) Dynasty —:** The Manchu people of northeastern Asia conquered the Ming Dynasty of China in 1644, establishing the Qing Dynasty. They then expanded aggressively into Mongolia, Central Asia, Tibet, and Xinjiang, making the Qing the largest empire in Chinese history. **State rivalries —:** Expansion inevitably produced conflict. The Ottoman-Safavid rivalry was driven by both religious (Sunni vs. Shi'a) and territorial competition. In West Africa, a Moroccan army armed with firearms crossed the Sahara and shattered the Songhai Empire in 1591 — a dramatic demonstration of how gunpowder advantage could decide imperial fates."
+    "**LO-A: Gunpowder changes everything:** By 1450, gunpowder weapons, cannons and firearms, had matured into decisive military tools. Empires that mastered them could breach any fortress, defeat cavalry-based opponents, and project power over vast distances. This is why historians call the Ottoman, Safavid, Mughal, and Qing empires the \"gunpowder empires.\" **Ottoman Empire:** The Ottoman Turks captured Constantinople in 1453 (ending the Byzantine Empire), then expanded to three continents. At its height, the empire stretched from Hungary to Yemen and from Morocco to Mesopotamia, the most powerful state in the 16th-century world, controlling the trade gateway between Europe and Asia.",
+    "**LO-B: Understand the role of gunpowder weapons in enabling…:** **Mughal Empire:** Babur, a Central Asian warrior who claimed descent from Genghis Khan, invaded India in 1526 and founded the Mughal Empire. His grandson Akbar expanded and consolidated it, eventually controlling most of the Indian subcontinent, the world's most populous and commercially rich region. **Safavid Empire:** The Safavids established Twelver Shi'a Islam as the state religion of Persia, a decision that defined Persian identity, created lasting conflict with Sunni neighbors, and transformed the religious geography of the Islamic world.",
+    "**LO-C: Identify the four major land-based empires and their…:** **Qing (Manchu) Dynasty:** The Manchu people of northeastern Asia conquered the Ming Dynasty of China in 1644, establishing the Qing Dynasty. They then expanded aggressively into Mongolia, Central Asia, Tibet, and Xinjiang, making the Qing the largest empire in Chinese history. **State rivalries:** Expansion inevitably produced conflict. The Ottoman-Safavid rivalry was driven by both religious (Sunni vs. Shi'a) and territorial competition. In West Africa, a Moroccan army armed with firearms crossed the Sahara and shattered the Songhai Empire in 1591, a dramatic demonstration of how gunpowder advantage could decide imperial fates."
   ],
   "learningObjectives": [
     "Explain how and why various land-based empires developed and expanded from 1450 to 1750 Understand the role of gunpowder weapons in enabling imperial expansion",
@@ -42,7 +42,7 @@
   "vocabulary": [
     {
       "term": "Gunpowder Empires",
-      "definition": "A term used by historians to describe the Ottoman, Safavid, and Mughal empires (and sometimes the Qing), all of which used gunpowder weapons — particularly cannons and firearms — to build and maintain large empires in the 15th–18th centuries.",
+      "definition": "A term used by historians to describe the Ottoman, Safavid, and Mughal empires (and sometimes the Qing), all of which used gunpowder weapons, particularly cannons and firearms, to build and maintain large empires in the 15th–18th centuries.",
       "importance": "Highlights the role of military technology in enabling imperial expansion; these empires mastered firearms when rival powers (cavalry-based nomads, fragmented kingdoms) had not yet done so."
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "term": "Devshirme",
-      "definition": "The Ottoman system of conscripting young Christian boys from the Balkans, converting them to Islam, and training them for imperial service — either as soldiers (Janissaries) or as administrators.",
+      "definition": "The Ottoman system of conscripting young Christian boys from the Balkans, converting them to Islam, and training them for imperial service, either as soldiers (Janissaries) or as administrators.",
       "importance": "Produced a loyal class of officials with no independent power base, entirely dependent on the sultan for their status. Paradoxically, devshirme boys often rose to the empire's highest positions; it was a system of forced service but also of social mobility."
     },
     {
@@ -73,7 +73,7 @@
     {
       "term": "Ismail I (Shah Ismail)",
       "definition": "The founder of the Safavid Empire (r. 1501–1524), who declared Twelver Shi'a Islam the state religion and conquered most of Persia.",
-      "importance": "His declaration of Shi'a Islam was a revolutionary political and religious act; he was defeated by the Ottoman sultan Selim I at the Battle of Chaldiran (1514) — partly because his cavalry refused to use firearms as un-Islamic — demonstrating the military consequences of rejecting gunpowder technology."
+      "importance": "His declaration of Shi'a Islam was a revolutionary political and religious act; he was defeated by the Ottoman sultan Selim I at the Battle of Chaldiran (1514), partly because his cavalry refused to use firearms as un-Islamic, demonstrating the military consequences of rejecting gunpowder technology."
     },
     {
       "term": "Qing Dynasty",
@@ -84,23 +84,23 @@
   "preTest": [
     {
       "question": "Why were gunpowder cannons such a decisive military advantage in the 15th–16th centuries, when they had existed in some form for centuries?",
-      "answer": "By the 15th century, cannon technology had matured enough to breach stone walls that had protected cities and castles for millennia. The primary military defense of the medieval world was the fortified city — high walls could stop any conventional army for months. A single battery of large cannons could reduce those walls in days. Armies no longer needed to starve a city into submission; they could blast through its defenses directly. This fundamentally changed the calculus of war: states with artillery could now conquer any fortified position, while states without it could not defend their cities. The Ottoman capture of Constantinople in 1453 was the proof of concept that made every ruler in the world pay attention."
+      "answer": "By the 15th century, cannon technology had matured enough to breach stone walls that had protected cities and castles for millennia. The primary military defense of the medieval world was the fortified city, high walls could stop any conventional army for months. A single battery of large cannons could reduce those walls in days. Armies no longer needed to starve a city into submission; they could blast through its defenses directly. This fundamentally changed the calculus of war: states with artillery could now conquer any fortified position, while states without it could not defend their cities. The Ottoman capture of Constantinople in 1453 was the proof of concept that made every ruler in the world pay attention."
     },
     {
       "question": "What made Constantinople the most strategically valuable city in the world in 1453, and why did the Ottomans make capturing it their priority?",
-      "answer": "Constantinople sat at the intersection of Europe and Asia — controlling the narrow straits between the Black Sea and the Mediterranean, the only water route connecting the two. Whoever held Constantinople controlled the most lucrative trade route in the world (the overland spice and silk route between Asia and Europe passed through its markets), held the symbolic capital of the Eastern Roman Empire (and thus claimed its prestige), and controlled the only naval passage between the Black Sea and the Mediterranean. For the Ottomans, Constantinople was the symbolic and strategic prize that would transform them from a regional Anatolian power into the dominant force of the known world. Its capture also ended the Byzantine Empire — the 1,000-year continuation of Rome — which had enormous symbolic weight in both Christian and Islamic worlds."
+      "answer": "Constantinople sat at the intersection of Europe and Asia, controlling the narrow straits between the Black Sea and the Mediterranean, the only water route connecting the two. Whoever held Constantinople controlled the most lucrative trade route in the world (the overland spice and silk route between Asia and Europe passed through its markets), held the symbolic capital of the Eastern Roman Empire (and thus claimed its prestige), and controlled the only naval passage between the Black Sea and the Mediterranean. For the Ottomans, Constantinople was the symbolic and strategic prize that would transform them from a regional Anatolian power into the dominant force of the known world. Its capture also ended the Byzantine Empire, the 1,000-year continuation of Rome, which had enormous symbolic weight in both Christian and Islamic worlds."
     },
     {
       "question": "The Mughal Empire was founded by a Muslim minority ruling over a vast Hindu majority. What practical challenges did this create, and how might a ruler address them?",
-      "answer": "A Muslim minority ruling a Hindu majority faces legitimacy challenges: why should the Hindu population accept rule by people who share neither their religion, language, nor cultural identity? Enforcing strict Islamic law on a Hindu majority would create constant resistance. Taxing non-Muslims at higher rates (the jizya) would reduce economic productivity. Suppressing Hindu religious practices would require constant military enforcement. The practical solution — adopted brilliantly by Akbar — was a policy of religious tolerance and cultural synthesis: eliminating the jizya, marrying Hindu Rajput princesses (creating dynastic alliances), appointing Hindus to high administrative positions, sponsoring both Islamic and Hindu arts, and developing a syncretic court culture that made the empire feel inclusive to both communities. Legitimacy, not just force, was the sustainable foundation for empire."
+      "answer": "A Muslim minority ruling a Hindu majority faces legitimacy challenges: why should the Hindu population accept rule by people who share neither their religion, language, nor cultural identity? Enforcing strict Islamic law on a Hindu majority would create constant resistance. Taxing non-Muslims at higher rates (the jizya) would reduce economic productivity. Suppressing Hindu religious practices would require constant military enforcement. The practical solution, adopted brilliantly by Akbar, was a policy of religious tolerance and cultural synthesis: eliminating the jizya, marrying Hindu Rajput princesses (creating dynastic alliances), appointing Hindus to high administrative positions, sponsoring both Islamic and Hindu arts, and developing a syncretic court culture that made the empire feel inclusive to both communities. Legitimacy, not just force, was the sustainable foundation for empire."
     },
     {
       "question": "The Safavid Empire declared Twelver Shi'a Islam as its state religion in a region where most Muslims were Sunni. What were the likely consequences of this decision?",
-      "answer": "Declaring Shi'a Islam as the state religion had several major consequences: it created a sharp religious identity for Persia that distinguished it from its Sunni neighbors (Ottoman and Mughal); it generated immediate and lasting conflict with the Ottoman Empire, which saw itself as the defender of Sunni Islam; it transformed Persian religious life (Sunni scholars were expelled or forced to convert; Shi'a clerical institutions were built); and it produced centuries of sectarian tension that continues today. It also had a commercial consequence — Ottoman-Safavid wars repeatedly disrupted the overland Silk Road trade through Persia, diverting trade to sea routes. The decision to establish Shi'a Islam was as much a political act as a religious one: it gave the Safavid state a distinct identity that was neither Ottoman nor Arab, rooted in Persian culture and Shi'a tradition."
+      "answer": "Declaring Shi'a Islam as the state religion had several major consequences: it created a sharp religious identity for Persia that distinguished it from its Sunni neighbors (Ottoman and Mughal); it generated immediate and lasting conflict with the Ottoman Empire, which saw itself as the defender of Sunni Islam; it transformed Persian religious life (Sunni scholars were expelled or forced to convert; Shi'a clerical institutions were built); and it produced centuries of sectarian tension that continues today. It also had a commercial consequence. Ottoman-Safavid wars repeatedly disrupted the overland Silk Road trade through Persia, diverting trade to sea routes. The decision to establish Shi'a Islam was as much a political act as a religious one: it gave the Safavid state a distinct identity that was neither Ottoman nor Arab, rooted in Persian culture and Shi'a tradition."
     },
     {
       "question": "The Manchu people who founded the Qing Dynasty were a small minority governing the world's largest population. What strategies could they use to maintain control without being absorbed by Chinese culture?",
-      "answer": "The Qing used several strategies: they required Chinese men to wear the Manchu queue (a shaved forehead with a long braid at the back) as a symbol of submission, making resistance visually obvious; they banned intermarriage between Manchu and Han Chinese to preserve Manchu identity; they maintained separate Manchu military units (the Eight Banners) that formed the backbone of imperial military power; they positioned Manchu officials alongside Chinese officials in key administrative positions so no Chinese official had autonomous power; and they cultivated relationships with Mongolian and Tibetan Buddhist leaders to secure their Inner Asian borders through religious legitimacy rather than military force. Yet they also adopted Chinese administrative traditions, supported Confucian scholarship, and patronized Chinese arts — making the dynasty appear legitimate to the Chinese educated class that staffed the bureaucracy."
+      "answer": "The Qing used several strategies: they required Chinese men to wear the Manchu queue (a shaved forehead with a long braid at the back) as a symbol of submission, making resistance visually obvious; they banned intermarriage between Manchu and Han Chinese to preserve Manchu identity; they maintained separate Manchu military units (the Eight Banners) that formed the backbone of imperial military power; they positioned Manchu officials alongside Chinese officials in key administrative positions so no Chinese official had autonomous power; and they cultivated relationships with Mongolian and Tibetan Buddhist leaders to secure their Inner Asian borders through religious legitimacy rather than military force. Yet they also adopted Chinese administrative traditions, supported Confucian scholarship, and patronized Chinese arts, making the dynasty appear legitimate to the Chinese educated class that staffed the bureaucracy."
     }
   ],
   "blocks": [
@@ -118,19 +118,19 @@
     },
     {
       "type": "paragraph",
-      "text": "Before 1450, the world's largest empires faced an insoluble problem: how do you hold together vast territories when the people you've conquered can simply retreat behind walls and wait you out? Siege warfare was the great equalizer — a small city with high walls could resist an enormous army for months or years. The Mongol Empire had solved this partly through sheer scale and terror, but even the Mongols struggled with fortified cities."
+      "text": "Before 1450, the world's largest empires faced an insoluble problem: how do you hold together vast territories when the people you've conquered can simply retreat behind walls and wait you out? Siege warfare was the great equalizer, a small city with high walls could resist an enormous army for months or years. The Mongol Empire had solved this partly through sheer scale and terror, but even the Mongols struggled with fortified cities."
     },
     {
       "type": "paragraph",
-      "text": "By the mid-15th century, gunpowder technology — developed in China and transmitted westward through the Islamic world — had matured into a solution. **Cannons** of sufficient size could breach stone walls in days rather than months. A city that previously could hold off an army indefinitely now had a lifespan measured in cannon shots. Combined with handheld **firearms** (muskets and arquebuses) that made infantry far more deadly than cavalry archers, gunpowder weapons fundamentally altered the mathematics of warfare."
+      "text": "By the mid-15th century, gunpowder technology, developed in China and transmitted westward through the Islamic world, had matured into a solution. **Cannons** of sufficient size could breach stone walls in days rather than months. A city that previously could hold off an army indefinitely now had a lifespan measured in cannon shots. Combined with handheld **firearms** (muskets and arquebuses) that made infantry far more deadly than cavalry archers, gunpowder weapons fundamentally altered the mathematics of warfare."
     },
     {
       "type": "paragraph",
-      "text": "The empires that mastered these technologies first and most effectively became the dominant powers of 1450–1750. Historians sometimes call the Ottoman, Safavid, Mughal, and Qing empires the **\"gunpowder empires\"** — a label that captures how central military-technological mastery was to their rise. These four empires collectively governed the majority of the world's population and controlled most of the world's agricultural wealth, trade routes, and cultural production during this period."
+      "text": "The empires that mastered these technologies first and most effectively became the dominant powers of 1450–1750. Historians sometimes call the Ottoman, Safavid, Mughal, and Qing empires the **\"gunpowder empires\"**, a label that captures how central military-technological mastery was to their rise. These four empires collectively governed the majority of the world's population and controlled most of the world's agricultural wealth, trade routes, and cultural production during this period."
     },
     {
       "type": "apTip",
-      "text": "The term \"gunpowder empires\" is a historians' shorthand, not a neutral description. The AP exam tests whether you can explain *why* gunpowder was important (it changed siege warfare, broke cavalry dominance, enabled centralized armies) and can apply this to specific empires — not just name-drop the term. Also know: the Qing is sometimes excluded from the \"gunpowder empires\" label because their expansion relied less on cannons and more on Manchu cavalry combined with Chinese bureaucratic administration. The AP exam specifically includes \"Manchu in Central and East Asia\" as a required land empire, whether or not you call it a gunpowder empire."
+      "text": "The term \"gunpowder empires\" is a historians' shorthand, not a neutral description. The AP exam tests whether you can explain *why* gunpowder was important (it changed siege warfare, broke cavalry dominance, enabled centralized armies) and can apply this to specific empires, not just name-drop the term. Also know: the Qing is sometimes excluded from the \"gunpowder empires\" label because their expansion relied less on cannons and more on Manchu cavalry combined with Chinese bureaucratic administration. The AP exam specifically includes \"Manchu in Central and East Asia\" as a required land empire, whether or not you call it a gunpowder empire."
     },
     {
       "type": "heading",
@@ -141,27 +141,27 @@
       "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/3-1-1.jpg",
       "alt": "Ottoman forces using massive cannons during a siege",
-      "caption": "Ottoman forces deploying massive bronze cannons during a siege. The largest Ottoman cannon at Constantinople in 1453 fired stone balls weighing over 500 kilograms — and the walls that had protected the city for 1,000 years fell within 7 weeks.",
+      "caption": "Ottoman forces deploying massive bronze cannons during a siege. The largest Ottoman cannon at Constantinople in 1453 fired stone balls weighing over 500 kilograms, and the walls that had protected the city for 1,000 years fell within 7 weeks.",
       "attribution": "Image credit not specified."
     },
     {
       "type": "paragraph",
-      "text": "In the early 14th century, the Ottomans were one of many small Turkic principalities (*beyliks*) in Anatolia — a modest power fighting over the scraps of the crumbling Byzantine Empire. Within 150 years they had become the dominant empire on three continents. How?"
+      "text": "In the early 14th century, the Ottomans were one of many small Turkic principalities (*beyliks*) in Anatolia, a modest power fighting over the scraps of the crumbling Byzantine Empire. Within 150 years they had become the dominant empire on three continents. How?"
     },
     {
       "type": "paragraph",
-      "text": "The decisive moment came on May 29, 1453, when Sultan **Mehmed II** — \"the Conqueror\" — completed the siege of **Constantinople**, capital of the Byzantine Empire. Mehmed's engineers had constructed a battery of enormous bronze cannons, including the legendary \"Basilica\" — a cannon so large it required 60 oxen to move and fired balls weighing over 500 kg. The walls that had protected Constantinople for a thousand years fell within seven weeks. The last Byzantine emperor, Constantine XI, died fighting on the walls."
+      "text": "The decisive moment came on May 29, 1453, when Sultan **Mehmed II**, \"the Conqueror\", completed the siege of **Constantinople**, capital of the Byzantine Empire. Mehmed's engineers had constructed a battery of enormous bronze cannons, including the legendary \"Basilica\", a cannon so large it required 60 oxen to move and fired balls weighing over 500 kg. The walls that had protected Constantinople for a thousand years fell within seven weeks. The last Byzantine emperor, Constantine XI, died fighting on the walls."
     },
     {
       "type": "paragraph",
-      "text": "The strategic and symbolic consequences were enormous. Constantinople controlled the Bosphorus strait — the only water route between the Black Sea and the Mediterranean. It was the world's greatest trade hub, gateway between Europe and Asia. Its capture made the Ottomans the dominant power in the eastern Mediterranean and gave them the prestige of having conquered the heir of Rome. Mehmed moved the empire's capital there and began transforming the great cathedral of Hagia Sophia into a mosque — a powerful statement of imperial and religious authority."
+      "text": "The strategic and symbolic consequences were enormous. Constantinople controlled the Bosphorus strait, the only water route between the Black Sea and the Mediterranean. It was the world's greatest trade hub, gateway between Europe and Asia. Its capture made the Ottomans the dominant power in the eastern Mediterranean and gave them the prestige of having conquered the heir of Rome. Mehmed moved the empire's capital there and began transforming the great cathedral of Hagia Sophia into a mosque, a powerful statement of imperial and religious authority."
     },
     {
       "type": "image",
       "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/3-1-2.jpg",
       "alt": "Hagia Sophia, Istanbul",
-      "caption": "Licensed stock photo, commercially available. The Hagia Sophia in Istanbul — built as a Byzantine Christian basilica in 537 CE, converted into a mosque by Mehmed II after his conquest of Constantinople in 1453, then a museum (1934–2020), and reconverted to a mosque in 2020. Its transformation in 1453 was an iconic symbol of Ottoman imperial and religious authority.",
+      "caption": "Licensed stock photo, commercially available. The Hagia Sophia in Istanbul, built as a Byzantine Christian basilica in 537 CE, converted into a mosque by Mehmed II after his conquest of Constantinople in 1453, then a museum (1934–2020), and reconverted to a mosque in 2020. Its transformation in 1453 was an iconic symbol of Ottoman imperial and religious authority.",
       "attribution": "Image credit not specified."
     },
     {
@@ -171,17 +171,17 @@
     {
       "type": "list",
       "items": [
-        "**Selim I** (r. 1512–1520) conquered the Mamluk Sultanate of Egypt and Syria, adding the holy cities of Mecca and Medina to the empire and claiming the title of Caliph — protector of all Sunni Muslims.",
-        "**Suleiman I \"the Magnificent\"** (r. 1520–1566) led the empire to its greatest extent — besieging Vienna (1529), conquering Hungary, dominating the Mediterranean, and creating a legal and administrative system that governed the empire's diversity with remarkable efficiency."
+        "**Selim I** (r. 1512–1520) conquered the Mamluk Sultanate of Egypt and Syria, adding the holy cities of Mecca and Medina to the empire and claiming the title of Caliph, protector of all Sunni Muslims.",
+        "**Suleiman I \"the Magnificent\"** (r. 1520–1566) led the empire to its greatest extent, besieging Vienna (1529), conquering Hungary, dominating the Mediterranean, and creating a legal and administrative system that governed the empire's diversity with remarkable efficiency."
       ]
     },
     {
       "type": "paragraph",
-      "text": "At its height, the Ottoman Empire stretched from Hungary and Poland in the north to Yemen in the south, from Morocco in the west to Mesopotamia in the east — a territory that encompassed the entire eastern Mediterranean world and governed Christians, Muslims, and Jews across dozens of ethnic groups. It was, by any measure, the most powerful state in the 16th-century world."
+      "text": "At its height, the Ottoman Empire stretched from Hungary and Poland in the north to Yemen in the south, from Morocco in the west to Mesopotamia in the east, a territory that encompassed the entire eastern Mediterranean world and governed Christians, Muslims, and Jews across dozens of ethnic groups. It was, by any measure, the most powerful state in the 16th-century world."
     },
     {
       "type": "funFact",
-      "text": "When the Ottoman Empire fell in 1922 after World War I, it had lasted 623 years — longer than the Western Roman Empire. Suleiman I corresponded regularly with Francis I of France as an equal, and the two empires maintained a diplomatic alliance against their common enemy, the Habsburg Empire of Spain and Austria. European monarchs referring to Ottoman sultans as \"the Great Turk\" captured a mixture of fear, respect, and grudging acknowledgment of power. Portrait of Suleiman the Magnificent (c. 1559–1566), attributed to Titian. Kunsthistorisches Museum, Vienna. Public domain, Wikimedia Commons."
+      "text": "When the Ottoman Empire fell in 1922 after World War I, it had lasted 623 years, longer than the Western Roman Empire. Suleiman I corresponded regularly with Francis I of France as an equal, and the two empires maintained a diplomatic alliance against their common enemy, the Habsburg Empire of Spain and Austria. European monarchs referring to Ottoman sultans as \"the Great Turk\" captured a mixture of fear, respect, and grudging acknowledgment of power. Portrait of Suleiman the Magnificent (c. 1559–1566), attributed to Titian. Kunsthistorisches Museum, Vienna. Public domain, Wikimedia Commons."
     },
     {
       "type": "heading",
@@ -189,11 +189,11 @@
     },
     {
       "type": "paragraph",
-      "text": "India in the early 16th century was divided among dozens of warring sultanates, Hindu kingdoms, and regional powers. The subcontinent was fabulously wealthy — the world's leading producer of cotton textiles, spices, and fine goods — but politically fragmented. **Babur**, a Central Asian prince who had lost his homeland in Samarkand but refused to accept defeat, saw opportunity."
+      "text": "India in the early 16th century was divided among dozens of warring sultanates, Hindu kingdoms, and regional powers. The subcontinent was fabulously wealthy, the world's leading producer of cotton textiles, spices, and fine goods, but politically fragmented. **Babur**, a Central Asian prince who had lost his homeland in Samarkand but refused to accept defeat, saw opportunity."
     },
     {
       "type": "paragraph",
-      "text": "At the **First Battle of Panipat** in 1526, Babur's force of roughly 12,000 men faced Ibrahim Lodi's army of perhaps 100,000 — plus war elephants. Babur's decisive advantages were artillery (cannons that terrified the elephants and broke Lodi's formations) and tactical flexibility. Ibrahim Lodi died on the battlefield. Within a year, Babur controlled Delhi and the Gangetic plain."
+      "text": "At the **First Battle of Panipat** in 1526, Babur's force of roughly 12,000 men faced Ibrahim Lodi's army of perhaps 100,000, plus war elephants. Babur's decisive advantages were artillery (cannons that terrified the elephants and broke Lodi's formations) and tactical flexibility. Ibrahim Lodi died on the battlefield. Within a year, Babur controlled Delhi and the Gangetic plain."
     },
     {
       "type": "paragraph",
@@ -203,18 +203,18 @@
       "type": "list",
       "items": [
         "He eliminated the *jizya* (the tax on non-Muslims), removing a major source of Hindu resentment.",
-        "He married Rajput Hindu princesses and incorporated their families into the empire's governing nobility — creating a class of Hindu-Muslim aristocrats loyal to the Mughal court.",
+        "He married Rajput Hindu princesses and incorporated their families into the empire's governing nobility, creating a class of Hindu-Muslim aristocrats loyal to the Mughal court.",
         "He appointed Hindus, Muslims, and members of other religious communities to administrative positions based on merit.",
-        "He created the *Din-i-Ilahi* (\"Divine Faith\") — a syncretic spiritual movement blending elements of Islam, Hinduism, Zoroastrianism, and Christianity — which served as an imperial ideology above religious sectarianism."
+        "He created the *Din-i-Ilahi* (\"Divine Faith\"), a syncretic spiritual movement blending elements of Islam, Hinduism, Zoroastrianism, and Christianity, which served as an imperial ideology above religious sectarianism."
       ]
     },
     {
       "type": "paragraph",
-      "text": "The result was an empire of extraordinary cultural richness. Mughal court culture blended Persian, Central Asian, and Indian traditions in architecture, painting, music, and literature — producing works like the *Akbarnama* (illustrated biography of Akbar) that remain masterpieces of world art."
+      "text": "The result was an empire of extraordinary cultural richness. Mughal court culture blended Persian, Central Asian, and Indian traditions in architecture, painting, music, and literature, producing works like the *Akbarnama* (illustrated biography of Akbar) that remain masterpieces of world art."
     },
     {
       "type": "apTip",
-      "text": "Akbar is a model AP example for \"how rulers used religious ideas and tolerance to legitimize and consolidate power.\" Know this argument: Akbar didn't practice tolerance out of indifference to religion — he was deeply religious. He practiced tolerance because it was the rational political strategy for governing a religiously diverse empire. This distinction matters for AP argumentation questions: was tolerance a sincere belief or a political tool? The answer for Akbar is likely *both* — and good essays acknowledge complexity."
+      "text": "Akbar is a model AP example for \"how rulers used religious ideas and tolerance to legitimize and consolidate power.\" Know this argument: Akbar didn't practice tolerance out of indifference to religion. He was deeply religious. He practiced tolerance because it was the rational political strategy for governing a religiously diverse empire. This distinction matters for AP argumentation questions: was tolerance a sincere belief or a political tool? The answer for Akbar is likely *both*, and good essays acknowledge complexity."
     },
     {
       "type": "heading",
@@ -222,19 +222,19 @@
     },
     {
       "type": "paragraph",
-      "text": "In 1501, a 14-year-old named Ismail conquered the city of Tabriz and declared himself Shah of Persia. More dramatically, he declared **Twelver Shi'a Islam** the state religion of his new empire — a decision that would define Persian identity for the next five centuries."
+      "text": "In 1501, a 14-year-old named Ismail conquered the city of Tabriz and declared himself Shah of Persia. More dramatically, he declared **Twelver Shi'a Islam** the state religion of his new empire, a decision that would define Persian identity for the next five centuries."
     },
     {
       "type": "paragraph",
-      "text": "Most of Persia's population at the time was Sunni Muslim. **Shah Ismail** forced conversion — Sunni scholars were expelled, executed, or required to publicly recant. Shi'a scholars and clergy were imported from Lebanon and Bahrain to build the new religious establishment. Within a generation, Persia had been transformed into a Shi'a state, creating a distinct Persian-Shi'a identity separate from both the Sunni Arabs and the Sunni Turks of the Ottoman Empire."
+      "text": "Most of Persia's population at the time was Sunni Muslim. **Shah Ismail** forced conversion. Sunni scholars were expelled, executed, or required to publicly recant. Shi'a scholars and clergy were imported from Lebanon and Bahrain to build the new religious establishment. Within a generation, Persia had been transformed into a Shi'a state, creating a distinct Persian-Shi'a identity separate from both the Sunni Arabs and the Sunni Turks of the Ottoman Empire."
     },
     {
       "type": "paragraph",
-      "text": "The consequences were immediately violent. The Ottoman sultan Selim I — a committed Sunni who regarded Shi'a as heretics — launched a devastating invasion. At the **Battle of Chaldiran** (1514), Ottoman artillery and firearms obliterated the Safavid cavalry. The Safavids had refused to use firearms, reportedly considering them un-Islamic or unchivalrous. Shah Ismail barely escaped alive and never recovered psychologically from the defeat — he spent his remaining years in depression and alcoholism."
+      "text": "The consequences were immediately violent. The Ottoman sultan Selim I, a committed Sunni who regarded Shi'a as heretics, launched a devastating invasion. At the **Battle of Chaldiran** (1514), Ottoman artillery and firearms obliterated the Safavid cavalry. The Safavids had refused to use firearms, reportedly considering them un-Islamic or unchivalrous. Shah Ismail barely escaped alive and never recovered psychologically from the defeat. He spent his remaining years in depression and alcoholism."
     },
     {
       "type": "paragraph",
-      "text": "The Safavid Empire recovered under **Shah Abbas I** (r. 1587–1629), arguably the empire's greatest ruler. Abbas modernized his military (importing European gunsmithing expertise, creating a corps of slave soldiers trained in firearms), moved the capital to Isfahan (which he built into one of the most beautiful cities in the world), and conducted a brilliant series of campaigns that recovered lost territory from both the Ottomans and the Uzbeks. Isfahan's royal mosque, palaces, and bazaars — still standing today — are among the finest examples of Islamic architecture ever built."
+      "text": "The Safavid Empire recovered under **Shah Abbas I** (r. 1587–1629), arguably the empire's greatest ruler. Abbas modernized his military (importing European gunsmithing expertise, creating a corps of slave soldiers trained in firearms), moved the capital to Isfahan (which he built into one of the most beautiful cities in the world), and conducted a brilliant series of campaigns that recovered lost territory from both the Ottomans and the Uzbeks. Isfahan's royal mosque, palaces, and bazaars, still standing today, are among the finest examples of Islamic architecture ever built."
     },
     {
       "type": "heading",
@@ -242,14 +242,14 @@
     },
     {
       "type": "paragraph",
-      "text": "The Manchu people of northeastern Asia (Manchuria) were a relatively small, semi-nomadic group who organized themselves under **Nurhaci** in the early 17th century. The Ming Dynasty of China — which had governed for nearly three centuries — was collapsing under the weight of fiscal crisis, peasant rebellions, and natural disasters. In 1644, as a rebel army sacked Beijing, the last Ming emperor hanged himself in the imperial gardens. A Ming general, hoping to use the Manchu as allies to restore order, opened the Great Wall — and the Manchu marched in, never to leave."
+      "text": "The Manchu people of northeastern Asia (Manchuria) were a relatively small, semi-nomadic group who organized themselves under **Nurhaci** in the early 17th century. The Ming Dynasty of China, which had governed for nearly three centuries, was collapsing under the weight of fiscal crisis, peasant rebellions, and natural disasters. In 1644, as a rebel army sacked Beijing, the last Ming emperor hanged himself in the imperial gardens. A Ming general, hoping to use the Manchu as allies to restore order, opened the Great Wall, and the Manchu marched in, never to leave."
     },
     {
       "type": "image",
       "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/3-1-3.jpg",
       "alt": "",
-      "caption": "The Forbidden City (Palace Museum), Beijing — built 1406–1420 by the Yongle Emperor of the Ming Dynasty. With 980 buildings, it served as the imperial palace for both Ming and Qing emperors until 1912.",
+      "caption": "The Forbidden City (Palace Museum), Beijing, built 1406–1420 by the Yongle Emperor of the Ming Dynasty. With 980 buildings, it served as the imperial palace for both Ming and Qing emperors until 1912.",
       "attribution": "Public domain, Wikimedia Commons."
     },
     {
@@ -258,7 +258,7 @@
     },
     {
       "type": "paragraph",
-      "text": "The Qing expansion was the largest in Chinese history. Under the Kangxi and Qianlong emperors (reigning from 1661–1799), the Qing conquered Inner and Outer Mongolia, Tibet, and the vast steppe territories of Xinjiang — almost doubling China's territory. This expansion was achieved through a combination of military campaigns, strategic marriages, and religious diplomacy (the Qing cultivated relationships with Tibetan Buddhist lamas, using religious legitimacy to pacify Inner Asian populations without constant warfare)."
+      "text": "The Qing expansion was the largest in Chinese history. Under the Kangxi and Qianlong emperors (reigning from 1661–1799), the Qing conquered Inner and Outer Mongolia, Tibet, and the vast steppe territories of Xinjiang, almost doubling China's territory. This expansion was achieved through a combination of military campaigns, strategic marriages, and religious diplomacy (the Qing cultivated relationships with Tibetan Buddhist lamas, using religious legitimacy to pacify Inner Asian populations without constant warfare)."
     },
     {
       "type": "heading",
@@ -270,15 +270,15 @@
     },
     {
       "type": "paragraph",
-      "text": "**The Safavid-Mughal conflict** centered on the city of Kandahar in present-day Afghanistan — a strategically vital crossroads between the two empires that changed hands repeatedly through the 16th and 17th centuries. The rivalry had a religious dimension (both were Muslim, but the Safavids were Shi'a and the Mughals officially Sunni) and a dynastic dimension (both ruling families claimed descent from illustrious Central Asian lineages and competed for prestige). Neither empire permanently controlled Kandahar; the struggle illustrated that even powerful empires could not always translate military strength into durable territorial control."
+      "text": "**The Safavid-Mughal conflict** centered on the city of Kandahar in present-day Afghanistan, a strategically vital crossroads between the two empires that changed hands repeatedly through the 16th and 17th centuries. The rivalry had a religious dimension (both were Muslim, but the Safavids were Shi'a and the Mughals officially Sunni) and a dynastic dimension (both ruling families claimed descent from illustrious Central Asian lineages and competed for prestige). Neither empire permanently controlled Kandahar; the struggle illustrated that even powerful empires could not always translate military strength into durable territorial control."
     },
     {
       "type": "paragraph",
-      "text": "**The Songhai Empire and Morocco** illustrates how gunpowder advantage could cross unlikely distances. The Songhai Empire of West Africa was one of the largest states in the world in the 16th century, controlling trans-Saharan trade routes and a vast agricultural hinterland. In 1591, the **Saadian Dynasty of Morocco** sent an army of approximately 4,000 soldiers — including a core of Spanish and Portuguese renegades armed with arquebuses — across 1,500 miles of Sahara desert to attack Songhai. The **Battle of Tondibi** was a catastrophic Songhai defeat. Songhai cavalry, however numerous, could not withstand firearms. The empire fragmented into regional powers that never reassembled. A single technological advantage had destroyed one of Africa's greatest states."
+      "text": "**The Songhai Empire and Morocco** illustrates how gunpowder advantage could cross unlikely distances. The Songhai Empire of West Africa was one of the largest states in the world in the 16th century, controlling trans-Saharan trade routes and a vast agricultural hinterland. In 1591, the **Saadian Dynasty of Morocco** sent an army of approximately 4,000 soldiers, including a core of Spanish and Portuguese renegades armed with arquebuses, across 1,500 miles of Sahara desert to attack Songhai. The **Battle of Tondibi** was a catastrophic Songhai defeat. Songhai cavalry, however numerous, could not withstand firearms. The empire fragmented into regional powers that never reassembled. A single technological advantage had destroyed one of Africa's greatest states."
     },
     {
       "type": "funFact",
-      "text": "The Ottoman-Safavid wars (fought repeatedly between 1514 and 1639) had an unintended commercial consequence: they repeatedly disrupted the overland Silk Road through Persia, making the route unsafe for merchants. This disruption gave European maritime traders — particularly the Portuguese, Dutch, and English — a commercial advantage, as sea routes around Africa became more attractive than war-torn overland routes. Imperial rivalry between gunpowder empires thus inadvertently helped fuel the European Age of Exploration."
+      "text": "The Ottoman-Safavid wars (fought repeatedly between 1514 and 1639) had an unintended commercial consequence: they repeatedly disrupted the overland Silk Road through Persia, making the route unsafe for merchants. This disruption gave European maritime traders, particularly the Portuguese, Dutch, and English, a commercial advantage, as sea routes around Africa became more attractive than war-torn overland routes. Imperial rivalry between gunpowder empires thus inadvertently helped fuel the European Age of Exploration."
     }
   ],
   "videoResources": [
@@ -314,7 +314,7 @@
         "The weakening of Byzantine power primarily caused by the economic consequences of the Black Death"
       ],
       "correctIndex": 2,
-      "explanation": "The passage directly illustrates the decisive role of cannon technology in enabling Ottoman expansion — specifically, how artillery could breach walls that previously made cities impregnable for years. This is the core argument about why gunpowder weapons enabled larger land-based empires. (A) is wrong — the Ottoman conquest of Constantinople represented Islamic expansion, not decline. (B) is wrong — Ottoman cannons were developed and manufactured by Ottoman-employed engineers (Hungarian and others), not acquired through Silk Road trade. (D) may have context but is not what the passage illustrates — the passage focuses on military technology, not economic decline."
+      "explanation": "The passage directly illustrates the decisive role of cannon technology in enabling Ottoman expansion, specifically, how artillery could breach walls that previously made cities impregnable for years. This is the core argument about why gunpowder weapons enabled larger land-based empires. (A) is wrong, the Ottoman conquest of Constantinople represented Islamic expansion, not decline. (B) is wrong, Ottoman cannons were developed and manufactured by Ottoman-employed engineers (Hungarian and others), not acquired through Silk Road trade. (D) may have context but is not what the passage illustrates, the passage focuses on military technology, not economic decline."
     },
     {
       "stimulus": "\"Akbar ordered the abolition of the tax on Hindu pilgrims and on non-Muslim subjects generally. He further ordered that no man should be forcibly converted from his faith. He took Rajput princesses as wives, appointed Hindu nobles to the highest imperial offices, and assembled at his court scholars of every religion for disputation and discussion.\"",
@@ -326,7 +326,7 @@
         "European Enlightenment ideals of religious freedom diffusing into South Asia through the Portuguese colonial presence in Goa"
       ],
       "correctIndex": 1,
-      "explanation": "The passage describes Akbar systematically using tolerance (abolishing the jizya, banning forced conversion) and political integration (Rajput marriages, Hindu appointments) to build loyalty across religious communities — classic methods of legitimizing and consolidating power. (A) goes too far — Akbar remained Muslim and did not formally convert; the Din-i-Ilahi was a spiritual experiment, not a full conversion. (C) is wrong — Mughal governance used a Persian-influenced Islamic administrative system, not Hindu traditions. (D) is anachronistic — Enlightenment ideals were not diffusing to India in the 16th century."
+      "explanation": "The passage describes Akbar systematically using tolerance (abolishing the jizya, banning forced conversion) and political integration (Rajput marriages, Hindu appointments) to build loyalty across religious communities, classic methods of legitimizing and consolidating power. (A) goes too far, Akbar remained Muslim and did not formally convert; the Din-i-Ilahi was a spiritual experiment, not a full conversion. (C) is wrong, Mughal governance used a Persian-influenced Islamic administrative system, not Hindu traditions. (D) is anachronistic. Enlightenment ideals were not diffusing to India in the 16th century."
     },
     {
       "stimulus": "\"When the Safavid cavalry charged at Chaldiran, they met Ottoman artillery and musket fire. Shah Ismail had forbidden the use of firearms in his army, reportedly considering such weapons unworthy of noble warriors. His cavalry, however brave, was destroyed by Ottoman firepower. The Shah barely escaped the battlefield alive and never led another campaign.\"",
@@ -338,10 +338,10 @@
         "The Battle of Chaldiran permanently ended Safavid power and led to the empire's collapse within a generation"
       ],
       "correctIndex": 0,
-      "explanation": "The passage shows that Shah Ismail's decision to prohibit firearms — reportedly on religious/cultural grounds — directly caused his military defeat. This illustrates how religious ideas could shape military strategy with consequential results in the gunpowder age. (B) is contradicted by the passage — the Ottoman advantage was firearms technology, not necessarily army size. (C) is not supported by the passage and is debatable historically. (D) is wrong — the Safavid Empire survived Chaldiran and flourished for another two centuries under Shah Abbas I."
+      "explanation": "The passage shows that Shah Ismail's decision to prohibit firearms, reportedly on religious/cultural grounds, directly caused his military defeat. This illustrates how religious ideas could shape military strategy with consequential results in the gunpowder age. (B) is contradicted by the passage, the Ottoman advantage was firearms technology, not necessarily army size. (C) is not supported by the passage and is debatable historically. (D) is wrong, the Safavid Empire survived Chaldiran and flourished for another two centuries under Shah Abbas I."
     },
     {
-      "stimulus": "\"In 1591, a Moroccan army crossed fifteen hundred miles of Sahara Desert to attack the Songhai Empire. The Moroccan force numbered only about four thousand men, but it included arquebusiers — soldiers with firearms. At the Battle of Tondibi, the much larger Songhai cavalry force was routed. The great empire fragmented into regional powers that never reunited.\"",
+      "stimulus": "\"In 1591, a Moroccan army crossed fifteen hundred miles of Sahara Desert to attack the Songhai Empire. The Moroccan force numbered only about four thousand men, but it included arquebusiers, soldiers with firearms. At the Battle of Tondibi, the much larger Songhai cavalry force was routed. The great empire fragmented into regional powers that never reunited.\"",
       "question": "The Moroccan invasion of Songhai described in the passage best illustrates which of the following?",
       "options": [
         "Trans-Saharan trade networks had weakened to the point that African empires could no longer defend their trade routes",
@@ -350,7 +350,7 @@
         "Gunpowder weapons provided a military advantage sufficient to overcome significant numerical inferiority in the period 1450–1750"
       ],
       "correctIndex": 3,
-      "explanation": "The key detail is that 4,000 Moroccan soldiers with arquebuses defeated a \"much larger Songhai cavalry force\" — this directly illustrates the decisive battlefield advantage of firearms over cavalry in this era. One doesn't need numerical superiority when firearms can stop cavalry charges. (A) is not supported by the passage — trade networks aren't mentioned as the cause. (C) is wrong — Morocco and Songhai were both Muslim; Morocco's motivation was control of trans-Saharan gold trade routes, not religious conflict. (B) is contradicted by the passage, which shows external conquest as the cause of fragmentation."
+      "explanation": "The key detail is that 4,000 Moroccan soldiers with arquebuses defeated a \"much larger Songhai cavalry force\". This directly illustrates the decisive battlefield advantage of firearms over cavalry in this era. One doesn't need numerical superiority when firearms can stop cavalry charges. (A) is not supported by the passage, trade networks aren't mentioned as the cause. (C) is wrong, Morocco and Songhai were both Muslim; Morocco's motivation was control of trans-Saharan gold trade routes, not religious conflict. (B) is contradicted by the passage, which shows external conquest as the cause of fragmentation."
     },
     {
       "stimulus": "\"The Manchu emperors required Chinese men to shave the front of their heads and wear the remaining hair in a queue as a sign of submission to Qing authority. They also banned intermarriage between Manchu and Han Chinese, maintained separate Manchu military units, and positioned Manchu officials alongside Chinese ones at every level of government. At the same time, they continued the civil service examination system and patronized Confucian scholarship.\"",
@@ -362,27 +362,27 @@
         "The adoption of European administrative models to modernize Chinese governance during the early Qing period"
       ],
       "correctIndex": 1,
-      "explanation": "The passage explicitly shows two strategies working simultaneously: Manchu distinctiveness (queue requirement, ban on intermarriage, separate military units, dual officials) alongside Chinese continuity (civil service exams, Confucian patronage). This is exactly a \"dual strategy\" — maintaining Manchu identity as rulers while governing through Chinese institutions. (A) is wrong — the Manchu explicitly resisted assimilation through the policies described. (C) is wrong — the continuation of Chinese institutions shows legitimacy-building alongside force. (D) is wrong — no European influence is mentioned or historically relevant here."
+      "explanation": "The passage explicitly shows two strategies working simultaneously: Manchu distinctiveness (queue requirement, ban on intermarriage, separate military units, dual officials) alongside Chinese continuity (civil service exams, Confucian patronage). This is exactly a \"dual strategy\", maintaining Manchu identity as rulers while governing through Chinese institutions. (A) is wrong, the Manchu explicitly resisted assimilation through the policies described. (C) is wrong, the continuation of Chinese institutions shows legitimacy-building alongside force. (D) is wrong, no European influence is mentioned or historically relevant here."
     }
   ],
   "saq": {
-    "context": "\"The period 1450–1750 saw the rise of powerful land-based empires across Afro-Eurasia. Historians often explain this expansion through the concept of 'gunpowder empires' — states that used firearms and cannons to project military power over vast territories and overcome enemies who lacked these technologies. Yet military technology alone cannot explain the durability of these empires, which also required sophisticated administrative systems to govern diverse populations.\"",
+    "context": "\"The period 1450–1750 saw the rise of powerful land-based empires across Afro-Eurasia. Historians often explain this expansion through the concept of 'gunpowder empires', states that used firearms and cannons to project military power over vast territories and overcome enemies who lacked these technologies. Yet military technology alone cannot explain the durability of these empires, which also required sophisticated administrative systems to govern diverse populations.\"",
     "directions": "Answer parts A, B, and C. Each part requires a separate, direct response. Do not write an essay.",
     "parts": [
       {
         "label": "Part A",
         "task": "Briefly describe ONE specific example of how gunpowder weapons enabled a land-based empire to expand its territory in the period 1450–1750.",
-        "sampleAnswer": "At the Battle of Panipat (1526), Babur used Ottoman-style field artillery against the much larger army of Ibrahim Lodi, Sultan of Delhi. Babur's cannons broke Lodi's massed war elephants and infantry formations, allowing his flanking cavalry to complete the encirclement. Lodi was killed, and Babur captured Delhi, founding the Mughal Empire. Without artillery, Babur's numerically inferior force could not have defeated a defender with home-field advantage and far greater manpower — gunpowder technology was the decisive difference that enabled Mughal expansion across the Indian subcontinent."
+        "sampleAnswer": "At the Battle of Panipat (1526), Babur used Ottoman-style field artillery against the much larger army of Ibrahim Lodi, Sultan of Delhi. Babur's cannons broke Lodi's massed war elephants and infantry formations, allowing his flanking cavalry to complete the encirclement. Lodi was killed, and Babur captured Delhi, founding the Mughal Empire. Without artillery, Babur's numerically inferior force could not have defeated a defender with home-field advantage and far greater manpower, gunpowder technology was the decisive difference that enabled Mughal expansion across the Indian subcontinent."
       },
       {
         "label": "Part B",
         "task": "Briefly explain ONE way a land-based empire maintained control over a religiously or ethnically diverse conquered population beyond the use of military force.",
-        "sampleAnswer": "The Ottoman Empire maintained control over a diverse population that included Orthodox Christians, Catholics, Jews, and many Muslim ethnic groups through the *millet* system — a policy of granting religious communities (millets) autonomy to govern their own internal affairs (family law, education, religious practice) under their own religious leaders, in exchange for loyalty and tax payment to the Ottoman state. This system allowed the empire to govern massive religious diversity without constant conflict over personal law or religious practice. By not forcing religious conversion and instead taxing difference, the Ottomans built a stable multi-ethnic empire that lasted six centuries."
+        "sampleAnswer": "The Ottoman Empire maintained control over a diverse population that included Orthodox Christians, Catholics, Jews, and many Muslim ethnic groups through the *millet* system, a policy of granting religious communities (millets) autonomy to govern their own internal affairs (family law, education, religious practice) under their own religious leaders, in exchange for loyalty and tax payment to the Ottoman state. This system allowed the empire to govern massive religious diversity without constant conflict over personal law or religious practice. By not forcing religious conversion and instead taxing difference, the Ottomans built a stable multi-ethnic empire that lasted six centuries."
       },
       {
         "label": "Part C",
         "task": "Briefly explain ONE political or religious cause of rivalry or conflict between two land-based empires in the period 1450–1750.",
-        "sampleAnswer": "The Ottoman-Safavid conflict was driven by a combination of religious and territorial rivalry. The Ottoman sultans, as the most powerful Sunni rulers in the world, regarded the Safavid declaration of Twelver Shi'a Islam as both heresy and a political threat — the Safavids were actively converting populations in Anatolia that the Ottomans controlled. Ottoman sultan Selim I justified his 1514 invasion with a religious ruling (fatwa) that labeled Shi'a Muslims as heretics deserving death. Territorial competition over Anatolia, Mesopotamia, and the Caucasus compounded the religious dispute. The two empires fought a series of wars across more than a century, defining the Sunni-Shi'a boundary in the Middle East that roughly corresponds to the Iran-Iraq border today."
+        "sampleAnswer": "The Ottoman-Safavid conflict was driven by a combination of religious and territorial rivalry. The Ottoman sultans, as the most powerful Sunni rulers in the world, regarded the Safavid declaration of Twelver Shi'a Islam as both heresy and a political threat, the Safavids were actively converting populations in Anatolia that the Ottomans controlled. Ottoman sultan Selim I justified his 1514 invasion with a religious ruling (fatwa) that labeled Shi'a Muslims as heretics deserving death. Territorial competition over Anatolia, Mesopotamia, and the Caucasus compounded the religious dispute. The two empires fought a series of wars across more than a century, defining the Sunni-Shi'a boundary in the Middle East that roughly corresponds to the Iran-Iraq border today."
       }
     ]
   },
@@ -390,41 +390,41 @@
     "outline": [
       {
         "label": "Contextualization",
-        "text": "Describe the pre-1450 military situation — how siege warfare and cavalry dominated, making large-scale imperial conquest difficult — and how gunpowder weapons' maturation in the 15th century changed this calculus."
+        "text": "Describe the pre-1450 military situation, how siege warfare and cavalry dominated, making large-scale imperial conquest difficult, and how gunpowder weapons' maturation in the 15th century changed this calculus."
       },
       {
-        "label": "Evidence — gunpowder as most significant",
+        "label": "Evidence, gunpowder as most significant",
         "text": "Ottoman artillery at Constantinople (ended 1,000-year fortress in 7 weeks); Babur's cannons at Panipat against larger Indian army; Moroccan arquebuses defeating Songhai cavalry at Tondibi; Safavid defeat at Chaldiran when they lacked firearms."
       },
       {
-        "label": "Counter-evidence — other factors",
+        "label": "Counter-evidence, other factors",
         "text": "Administrative systems (millet system, devshirme, civil service exams) were essential for maintaining conquered territory; religious legitimacy (Ottoman caliphate, Akbar's tolerance, Qing-Buddhist diplomacy) secured loyalty without constant military force; economic control of trade routes sustained the resources needed for armies."
       },
       {
         "label": "Response to complexity",
-        "text": "Gunpowder was necessary to *acquire* territory but not sufficient to *hold* it — the combination of military conquest and administrative/religious consolidation was what made these empires durable. Argue which was more consequential: the initial conquest (gunpowder) or the long-term stability (administration/legitimacy)."
+        "text": "Gunpowder was necessary to *acquire* territory but not sufficient to *hold* it, the combination of military conquest and administrative/religious consolidation was what made these empires durable. Argue which was more consequential: the initial conquest (gunpowder) or the long-term stability (administration/legitimacy)."
       }
     ],
     "prompt": "Evaluate the extent to which the development and use of gunpowder weapons was the most significant factor in the expansion of land-based empires in the period 1450 to 1750.",
-    "note": "Write a full essay with thesis, contextualization, evidence, and historical reasoning. This prompt asks you to evaluate *extent* — you must argue a position and acknowledge other factors. Historical reasoning skill: Argumentation / Causation.",
-    "thesisExample": "Strong thesis: \"Although administrative systems, religious legitimacy, and commercial control also contributed to land-based imperial expansion, gunpowder weapons were the most significant factor because they provided a decisive battlefield advantage that made conquest possible in the first place — as demonstrated by the Ottoman capture of Constantinople (1453), the Mughal victory at Panipat (1526), and the Moroccan destruction of Songhai (1591).\""
+    "note": "Write a full essay with thesis, contextualization, evidence, and historical reasoning. This prompt asks you to evaluate *extent*. You must argue a position and acknowledge other factors. Historical reasoning skill: Argumentation / Causation.",
+    "thesisExample": "Strong thesis: \"Although administrative systems, religious legitimacy, and commercial control also contributed to land-based imperial expansion, gunpowder weapons were the most significant factor because they provided a decisive battlefield advantage that made conquest possible in the first place, as demonstrated by the Ottoman capture of Constantinople (1453), the Mughal victory at Panipat (1526), and the Moroccan destruction of Songhai (1591).\""
   },
   "discussionQuestions": [
     {
       "question": "Why did the Ottoman capture of Constantinople in 1453 matter beyond just winning a battle?",
-      "modelAnswer": "The capture of Constantinople transformed the Ottomans from a regional power into the dominant empire of the known world. Strategically, it gave them control of the Bosphorus — the only route between the Black Sea and Mediterranean — and thus the ability to tax or block the most lucrative east-west trade route. Symbolically, they had conquered the capital of the Eastern Roman Empire, the 1,000-year heir of Rome, giving the Ottoman sultan immense prestige across both the Islamic world and Europe. Claiming Constantinople meant claiming Rome's legacy. Mehmed II began styling himself \"Kaiser-i-Rum\" (Caesar of Rome). It also secured the empire's European holdings by eliminating the Byzantine rump state that had been a constant irritant. For Christian Europe, it was a traumatic loss — the fall of Constantinople sent Greek scholars and manuscripts fleeing to Italy, contributing to the Renaissance."
+      "modelAnswer": "The capture of Constantinople transformed the Ottomans from a regional power into the dominant empire of the known world. Strategically, it gave them control of the Bosphorus, the only route between the Black Sea and Mediterranean, and thus the ability to tax or block the most lucrative east-west trade route. Symbolically, they had conquered the capital of the Eastern Roman Empire, the 1,000-year heir of Rome, giving the Ottoman sultan immense prestige across both the Islamic world and Europe. Claiming Constantinople meant claiming Rome's legacy. Mehmed II began styling himself \"Kaiser-i-Rum\" (Caesar of Rome). It also secured the empire's European holdings by eliminating the Byzantine rump state that had been a constant irritant. For Christian Europe, it was a traumatic loss, the fall of Constantinople sent Greek scholars and manuscripts fleeing to Italy, contributing to the Renaissance."
     },
     {
       "question": "How did the Safavid decision to adopt Shi'a Islam reshape the political and religious geography of the Islamic world?",
-      "modelAnswer": "Before the Safavids, the division between Sunni and Shi'a Muslims existed within most Islamic territories as a minority-majority dynamic. The Safavid declaration of Shi'a Islam as Persia's state religion (1501) created a territorial boundary: from 1501 onward, Persia/Iran became an identifiably Shi'a state in a Sunni-majority world. This had several consequences. It created a lasting religious justification for Ottoman-Safavid conflict that made their territorial rivalry into a religious war. It produced a Shi'a cultural and scholarly tradition centered in Persian cities (Qom, Isfahan, Mashhad) that became the global center of Shi'a Islam. It drew a demographic line through the Islamic world — populations in the Ottoman sphere became predominantly Sunni; those in the Safavid sphere became predominantly Shi'a. The modern political geography of the Middle East — with Iran/Iraq as Shi'a-majority nations and most Arab states as Sunni-majority — is a direct legacy of the Safavid state-building project of the 16th century."
+      "modelAnswer": "Before the Safavids, the division between Sunni and Shi'a Muslims existed within most Islamic territories as a minority-majority dynamic. The Safavid declaration of Shi'a Islam as Persia's state religion (1501) created a territorial boundary: from 1501 onward, Persia/Iran became an identifiably Shi'a state in a Sunni-majority world. This had several consequences. It created a lasting religious justification for Ottoman-Safavid conflict that made their territorial rivalry into a religious war. It produced a Shi'a cultural and scholarly tradition centered in Persian cities (Qom, Isfahan, Mashhad) that became the global center of Shi'a Islam. It drew a demographic line through the Islamic world, populations in the Ottoman sphere became predominantly Sunni; those in the Safavid sphere became predominantly Shi'a. The modern political geography of the Middle East, with Iran/Iraq as Shi'a-majority nations and most Arab states as Sunni-majority, is a direct legacy of the Safavid state-building project of the 16th century."
     },
     {
       "question": "Compare the strategies the Mughal and Qing empires used to govern populations that differed from them in religion, ethnicity, or culture.",
-      "modelAnswer": "Both empires faced the challenge of ruling vast populations that were culturally different from the ruling group — the Mughals as Muslim rulers over a Hindu majority, the Qing as Manchu rulers over a Han Chinese majority. Their strategies had similarities and differences. Both maintained their own cultural distinctiveness (Mughals preserved Persian and Central Asian court culture; Qing maintained Manchu language, military units, and ethnic restrictions) while also adopting and patronizing the culture of their subjects (Akbar sponsored Hindu arts; Qing continued Confucian civil service exams). Both incorporated elites from the governed population into the administrative system (Akbar appointed Hindu Rajputs to high office; Qing continued the Chinese examination system). The key difference is tone: Akbar pursued active integration and tolerance as policy, while the Qing pursued a dual administration that maintained sharper ethnic separation. The Mughal approach was more culturally syncretic; the Qing approach was more structurally segregated — but both achieved the fundamental goal of governing large, diverse populations without constant military suppression."
+      "modelAnswer": "Both empires faced the challenge of ruling vast populations that were culturally different from the ruling group, the Mughals as Muslim rulers over a Hindu majority, the Qing as Manchu rulers over a Han Chinese majority. Their strategies had similarities and differences. Both maintained their own cultural distinctiveness (Mughals preserved Persian and Central Asian court culture; Qing maintained Manchu language, military units, and ethnic restrictions) while also adopting and patronizing the culture of their subjects (Akbar sponsored Hindu arts; Qing continued Confucian civil service exams). Both incorporated elites from the governed population into the administrative system (Akbar appointed Hindu Rajputs to high office; Qing continued the Chinese examination system). The key difference is tone: Akbar pursued active integration and tolerance as policy, while the Qing pursued a dual administration that maintained sharper ethnic separation. The Mughal approach was more culturally syncretic; the Qing approach was more structurally segregated, but both achieved the fundamental goal of governing large, diverse populations without constant military suppression."
     },
     {
       "question": "Why is the Moroccan defeat of Songhai in 1591 historically significant beyond West Africa?",
-      "modelAnswer": "The Moroccan defeat of Songhai illustrates several broader patterns. First, it demonstrates that gunpowder advantage could project power across extraordinary distances — 1,500 miles of Sahara desert — to destroy one of the world's largest states with a relatively small force. This shows how disruptive firearms were to existing power structures everywhere, including sub-Saharan Africa. Second, the fragmentation of Songhai after 1591 had lasting consequences for West African history: it ended the tradition of large, trans-regional West African empires (Ghana, Mali, Songhai) that had dominated the region for centuries, and left West Africa more politically fragmented as it faced European engagement in the following century. Third, it illustrates that the \"gunpowder empires\" category isn't limited to the four major states — Morocco was also using gunpowder technology to pursue imperial ambitions, showing how widespread the military transformation had become by the late 16th century."
+      "modelAnswer": "The Moroccan defeat of Songhai illustrates several broader patterns. First, it demonstrates that gunpowder advantage could project power across extraordinary distances, 1,500 miles of Sahara desert, to destroy one of the world's largest states with a relatively small force. This shows how disruptive firearms were to existing power structures everywhere, including sub-Saharan Africa. Second, the fragmentation of Songhai after 1591 had lasting consequences for West African history: it ended the tradition of large, trans-regional West African empires (Ghana, Mali, Songhai) that had dominated the region for centuries, and left West Africa more politically fragmented as it faced European engagement in the following century. Third, it illustrates that the \"gunpowder empires\" category isn't limited to the four major states. Morocco was also using gunpowder technology to pursue imperial ambitions, showing how widespread the military transformation had become by the late 16th century."
     }
   ],
   "images": [],

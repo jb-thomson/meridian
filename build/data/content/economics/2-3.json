@@ -6,21 +6,21 @@
   "dateRange": null,
   "status": "complete",
   "interactiveModel": "supply-demand",
-  "tldr": "Equilibrium is the price where the amount buyers want to buy exactly matches the amount sellers want to sell. When demand or supply shifts — because of a new trend, a new technology, a change in income, or a change in costs — the equilibrium price and quantity move to a new point. Use the interactive model below to see this happen in real time.",
+  "tldr": "Equilibrium is the price where the amount buyers want to buy exactly matches the amount sellers want to sell. When demand or supply shifts, because of a new trend, a new technology, a change in income, or a change in costs, the equilibrium price and quantity move to a new point. Use the interactive model below to see this happen in real time.",
   "learningObjectives": [
     "Explain how equilibrium price and quantity are determined in a competitive market.",
     "Predict how a shift in demand or supply changes equilibrium price and quantity.",
     "Distinguish between a shift in a curve and a movement along a curve."
   ],
   "keyConcepts": [
-    "Equilibrium is the point where the supply and demand curves cross — where quantity supplied equals quantity demanded.",
+    "Equilibrium is the point where the supply and demand curves cross, where quantity supplied equals quantity demanded.",
     "A shortage (quantity demanded > quantity supplied) pushes price up; a surplus (quantity supplied > quantity demanded) pushes price down.",
     "A shift in demand or supply moves the whole curve and creates a new equilibrium; a change in price alone just moves you along an existing curve."
   ],
   "vocabulary": [
     {
       "term": "Equilibrium price",
-      "definition": "The price at which the quantity buyers want to purchase equals the quantity sellers want to sell — the price where the market \"clears.\""
+      "definition": "The price at which the quantity buyers want to purchase equals the quantity sellers want to sell, the price where the market \"clears.\""
     },
     {
       "term": "Equilibrium quantity",
@@ -28,11 +28,11 @@
     },
     {
       "term": "Shortage",
-      "definition": "A situation where quantity demanded exceeds quantity supplied at the current price — usually because the price is set below equilibrium."
+      "definition": "A situation where quantity demanded exceeds quantity supplied at the current price, usually because the price is set below equilibrium."
     },
     {
       "term": "Surplus",
-      "definition": "A situation where quantity supplied exceeds quantity demanded at the current price — usually because the price is set above equilibrium."
+      "definition": "A situation where quantity supplied exceeds quantity demanded at the current price, usually because the price is set above equilibrium."
     },
     {
       "term": "Shift vs. movement",
@@ -40,14 +40,14 @@
     }
   ],
   "narrative": [
-    "Imagine a food truck selling tacos outside your school. If the truck charges $20 a taco, almost nobody buys one — there's a huge surplus of unsold tacos sitting under the heat lamp. If the truck charges $1 a taco, the line wraps around the block and they sell out in ten minutes — a shortage, with plenty of hungry customers left unsatisfied. Somewhere between those two extremes is a price where the number of tacos the truck wants to sell matches the number of tacos people want to buy, with no long line and nothing left over. Economists call that point equilibrium.",
-    "Equilibrium is where the demand curve (which slopes downward — people buy more when price is lower) and the supply curve (which slopes upward — sellers offer more when price is higher) cross on a graph. At any price above equilibrium, sellers want to sell more than buyers want to buy, creating a surplus, which pushes prices back down as sellers compete for customers. At any price below equilibrium, buyers want more than sellers are offering, creating a shortage, which pushes prices back up as buyers compete for the limited supply. Left alone, a competitive market tends to settle at this equilibrium point almost automatically — no one has to plan it.",
-    "But equilibrium isn't permanent. It only holds as long as the underlying conditions behind supply and demand stay the same. If something changes buyers' willingness to purchase at every price — a new health trend, a change in income, a popular food-influencer video — the entire demand curve shifts, and a new equilibrium forms. Likewise, if something changes sellers' costs or willingness to sell at every price — a spike in the cost of tortillas, a new competitor food truck, a new food-safety regulation — the entire supply curve shifts. It's worth being precise about the difference between a shift and a movement: a change in the taco's own price moves you along the existing curves, but a change in anything else (income, tastes, input costs, number of sellers, expectations about the future) shifts the curves themselves to a new position, landing on a new equilibrium price and quantity.",
-    "This single idea — equilibrium responding to shifts in supply and demand — explains an enormous amount of everyday economic life: why gas prices jump after a hurricane disrupts oil refineries (a supply decrease), why concert-ticket prices spike right before a sold-out show (a demand increase relative to a fixed supply), and why the price of a hot new video-game console often falls a year after release once more factories are producing it (a supply increase). Try the interactive model below to build your own intuition for how these shifts move the equilibrium point."
+    "Imagine a food truck selling tacos outside your school. If the truck charges $20 a taco, almost nobody buys one, there's a huge surplus of unsold tacos sitting under the heat lamp. If the truck charges $1 a taco, the line wraps around the block and they sell out in ten minutes, a shortage, with plenty of hungry customers left unsatisfied. Somewhere between those two extremes is a price where the number of tacos the truck wants to sell matches the number of tacos people want to buy, with no long line and nothing left over. Economists call that point equilibrium.",
+    "Equilibrium is where the demand curve (which slopes downward, people buy more when price is lower) and the supply curve (which slopes upward, sellers offer more when price is higher) cross on a graph. At any price above equilibrium, sellers want to sell more than buyers want to buy, creating a surplus, which pushes prices back down as sellers compete for customers. At any price below equilibrium, buyers want more than sellers are offering, creating a shortage, which pushes prices back up as buyers compete for the limited supply. Left alone, a competitive market tends to settle at this equilibrium point almost automatically, no one has to plan it.",
+    "But equilibrium isn't permanent. It only holds as long as the underlying conditions behind supply and demand stay the same. If something changes buyers' willingness to purchase at every price, a new health trend, a change in income, a popular food-influencer video, the entire demand curve shifts, and a new equilibrium forms. Likewise, if something changes sellers' costs or willingness to sell at every price, a spike in the cost of tortillas, a new competitor food truck, a new food-safety regulation, the entire supply curve shifts. It's worth being precise about the difference between a shift and a movement: a change in the taco's own price moves you along the existing curves, but a change in anything else (income, tastes, input costs, number of sellers, expectations about the future) shifts the curves themselves to a new position, landing on a new equilibrium price and quantity.",
+    "This single idea, equilibrium responding to shifts in supply and demand, explains an enormous amount of everyday economic life: why gas prices jump after a hurricane disrupts oil refineries (a supply decrease), why concert-ticket prices spike right before a sold-out show (a demand increase relative to a fixed supply), and why the price of a hot new video-game console often falls a year after release once more factories are producing it (a supply increase). Try the interactive model below to build your own intuition for how these shifts move the equilibrium point."
   ],
   "funFacts": [
     {
-      "text": "The word \"equilibrium\" comes from Latin for \"equal weight\" — the same root used to describe a balanced scale, which is a pretty good visual for what's happening at the market-clearing price.",
+      "text": "The word \"equilibrium\" comes from Latin for \"equal weight\", the same root used to describe a balanced scale, which is a pretty good visual for what's happening at the market-clearing price.",
       "afterParagraph": 1
     }
   ],
@@ -72,7 +72,7 @@
         "Price is always at its lowest possible level"
       ],
       "correctIndex": 2,
-      "explanation": "Equilibrium is defined as the price at which the quantity sellers want to supply exactly equals the quantity buyers want to purchase — the market \"clears\" with no shortage or surplus."
+      "explanation": "Equilibrium is defined as the price at which the quantity sellers want to supply exactly equals the quantity buyers want to purchase, the market \"clears\" with no shortage or surplus."
     },
     {
       "question": "If the price of a good is set above its equilibrium price, the result is most likely a",
@@ -116,12 +116,12 @@
         "Neither changes"
       ],
       "correctIndex": 0,
-      "explanation": "When both curves shift right, equilibrium quantity unambiguously increases, but the effect on price depends on the relative size of the two shifts — it could rise, fall, or stay about the same."
+      "explanation": "When both curves shift right, equilibrium quantity unambiguously increases, but the effect on price depends on the relative size of the two shifts. It could rise, fall, or stay about the same."
     }
   ],
   "frq": {
     "prompt": "A new highway makes it much cheaper and faster to ship strawberries from farms to your local grocery store. Using a supply-and-demand model, explain what happens to the equilibrium price and quantity of strawberries at that store, and explain your reasoning.",
-    "modelAnswer": "Cheaper, faster shipping lowers the store's cost of getting strawberries to shelves, which increases supply — the supply curve shifts to the right, since sellers are now willing to offer more strawberries at every price. With demand unchanged, the new equilibrium sits at a lower price and a higher quantity: shoppers pay less for strawberries and more strawberries are sold than before the highway was built."
+    "modelAnswer": "Cheaper, faster shipping lowers the store's cost of getting strawberries to shelves, which increases supply, the supply curve shifts to the right, since sellers are now willing to offer more strawberries at every price. With demand unchanged, the new equilibrium sits at a lower price and a higher quantity: shoppers pay less for strawberries and more strawberries are sold than before the highway was built."
   },
   "images": [],
   "videoResources": [
