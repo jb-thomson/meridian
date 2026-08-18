@@ -1,0 +1,114 @@
+{
+  "course": "ap-human-geography",
+  "num": "1.1",
+  "title": "Introduction to Maps",
+  "status": "complete",
+  "themes": [
+    {"icon": "🗺️", "label": "Spatial", "tooltip": "Maps are not neutral pictures of the world. Every map involves choices about projection, scale, and what to show, and those choices shape how we understand space."}
+  ],
+  "tldr": [
+    "**Two basic map types:** Reference maps show the location of physical or political features (like a road atlas). Thematic maps show the spatial pattern of a specific topic or variable, like population density or election results.",
+    "**Every map distorts something:** Because the Earth is a sphere and a map is flat, every map projection must trade off accuracy in shape, area, distance, or direction. No projection can preserve all four at once.",
+    "**Scale changes what you can see:** Large-scale maps (like a city map) show a small area in great detail. Small-scale maps (like a world map) show a huge area with much less detail. Geographers must choose scale carefully depending on the question they are asking."
+  ],
+  "learningObjectives": [
+    "Explain the different types of maps geographers use to represent data.",
+    "Explain the strengths and limitations associated with different map projections.",
+    "Explain how the various principles of map making impact the ways in which maps are used."
+  ],
+  "vocabulary": [
+    {"term": "Reference Map", "definition": "A map designed to show the absolute location of physical and human-made features, such as roads, boundaries, cities, and rivers.", "importance": "The most familiar type of map; used when the goal is simply finding where something is located.", "example": "A road atlas or a political map of the world showing country borders."},
+    {"term": "Thematic Map", "definition": "A map designed to show the spatial distribution or pattern of a specific topic, theme, or variable, rather than general location.", "importance": "The main tool geographers use to visualize and analyze data spatially; most AP Human Geography stimulus maps are thematic.", "example": "A map showing county-by-county population density, or a map showing which countries have the highest carbon emissions."},
+    {"term": "Map Projection", "definition": "A mathematical method for representing the curved surface of the Earth on a flat map, which always introduces some form of distortion.", "importance": "Every map you have ever seen uses some projection, and understanding what that projection distorts is essential to reading maps critically.", "example": "The Mercator projection preserves direction and shape but dramatically distorts the size of landmasses near the poles."},
+    {"term": "Mercator Projection", "definition": "A map projection developed in 1569 that preserves angles and shape, making it useful for navigation, but severely distorts the relative size of landmasses, especially near the poles.", "importance": "The most historically dominant world map projection, but also the most criticized for making high-latitude regions like Greenland and Russia look far larger than they actually are relative to equatorial regions.", "example": "On a Mercator map, Greenland appears roughly the same size as Africa, even though Africa is actually about fourteen times larger."},
+    {"term": "Scale", "definition": "The relationship between distance on a map and the corresponding distance on the actual Earth's surface, usually expressed as a ratio.", "importance": "Determines how much detail a map can show; large-scale maps show small areas in detail, while small-scale maps show large areas with less detail.", "example": "A map with a scale of 1:10,000 (large scale, showing a neighborhood in detail) versus a map with a scale of 1:50,000,000 (small scale, showing the entire world)."},
+    {"term": "Geographic Information System (GIS)", "definition": "Computer software that captures, stores, analyzes, and displays geographically referenced data in layers, allowing geographers to combine and compare multiple spatial datasets.", "importance": "The primary modern tool geographers use to build and analyze thematic maps, replacing most hand-drawn map production.", "example": "A city planning department using GIS to overlay flood zone data, population density, and road networks to decide where to build a new hospital."}
+  ],
+  "preTest": [
+    {"question": "What is the key difference between a reference map and a thematic map?", "answer": "A reference map shows the general location of physical and human features, like roads or borders, while a thematic map shows the spatial pattern of a specific topic or variable, like income or disease rates."},
+    {"question": "Why can no map projection preserve shape, area, distance, and direction all at the same time?", "answer": "Because the Earth is a three-dimensional sphere and a map is a two-dimensional flat surface, translating one to the other always requires some mathematical distortion, so every projection has to sacrifice accuracy in at least one of those four properties."},
+    {"question": "Would a city planner deciding where to place a new fire station most likely use a large-scale or small-scale map? Explain your reasoning.", "answer": "A large-scale map, since it shows a small area (the city) in much greater detail, which is necessary for precisely locating streets, response times, and existing fire stations, unlike a small-scale map, which would show too little detail to make that kind of local decision."}
+  ],
+  "blocks": [
+    {"type": "heading", "text": "Two Kinds of Maps, Two Different Jobs"},
+    {"type": "paragraph", "text": "Geographers rely on maps constantly, but not all maps are trying to do the same thing. A **reference map** answers a simple question: where is this? It shows the location of physical features like mountains and rivers, or human-made features like roads, cities, and political borders. A road atlas, a subway map, and a standard political map of the world are all reference maps."},
+    {"type": "image", "imageType": "ai_generated", "src": null, "alt": "Side-by-side comparison of a reference map and a thematic map of the same region", "caption": "Reference maps show location. Thematic maps show patterns in a specific variable.", "attribution": "AI-generated illustration (image pending)"},
+    {"type": "paragraph", "text": "A **thematic map**, by contrast, is built to answer a different question: how does this specific topic vary across space? Instead of showing everything in a region, a thematic map isolates one variable, population density, average income, rainfall, election results, and shows how it changes from place to place. Most of the maps you will analyze throughout this course, and most of the maps that appear as stimulus material on the AP exam, are thematic maps, because they are the tool geographers use to actually make an argument about spatial patterns."},
+    {"type": "apTip", "text": "If an exam question shows you a map and asks what TYPE of map it is, look at what the map is actually trying to communicate. If it is just showing you where things are, it is a reference map. If it is showing you how a specific variable changes across space (using color shading, dots, or symbols tied to data), it is a thematic map. This distinction shows up constantly in Unit 1 multiple choice questions."},
+    {"type": "heading", "text": "Why Every Map Lies a Little"},
+    {"type": "paragraph", "text": "Here is a problem geographers cannot avoid: the Earth is a sphere, and a map is flat. There is no way to mathematically translate a curved, three-dimensional surface onto a flat, two-dimensional page without distorting something. The method used to make that translation is called a **map projection**, and every projection has to choose which properties to preserve and which to sacrifice. The four properties in tension are shape, area, distance, and direction, and no projection can preserve all four perfectly at once."},
+    {"type": "paragraph", "text": "The most historically influential example is the **Mercator projection**, created in 1569 for ocean navigation. Mercator's projection preserves angles and shape, which made it extremely useful for sailors plotting a straight-line compass course. But that accuracy comes at a steep cost: the projection badly distorts the relative size of landmasses, especially near the poles. On a standard Mercator map, Greenland looks roughly the same size as the entire continent of Africa. In reality, Africa is about fourteen times larger than Greenland."},
+    {"type": "funFact", "text": "Because the Mercator projection was used as the default world map in classrooms for so long, it quietly distorted how generations of students perceived the relative size and importance of different world regions, consistently inflating high-latitude regions like Europe, Russia, and North America while shrinking equatorial regions like Africa and South America. Alternative projections, such as the Gall-Peters projection, were specifically designed to correct this size distortion, though they introduce their own shape distortions in exchange."},
+    {"type": "apTip", "text": "You do not need to memorize the names of every map projection for the exam, but you should be able to explain, in general terms, that all projections distort something, and be able to identify what a GIVEN projection sacrifices (shape, area, distance, or direction) based on how it visually distorts a specific region, especially at high latitudes near the poles."},
+    {"type": "heading", "text": "Scale: How Much Detail Can a Map Actually Show?"},
+    {"type": "paragraph", "text": "A map's **scale** describes the relationship between a distance measured on the map and the corresponding real-world distance on Earth's surface, usually written as a ratio like 1:24,000. Scale determines how much of the Earth a map can show, and how much detail it can include while doing so."},
+    {"type": "list", "items": [
+      "A **large-scale map** shows a small area of the Earth's surface in great detail, useful for tasks like navigating a specific neighborhood or planning where to put a new fire station.", "A **small-scale map** shows a large area of the Earth's surface with much less detail, useful for tasks like comparing population growth across an entire continent.", "The terms can feel backwards at first: \"large scale\" means a large, zoomed-in ratio number relative to the area shown (lots of detail, small area), while \"small scale\" means the opposite (little detail, huge area)."
+    ]},
+    {"type": "paragraph", "text": "Choosing the right scale is a genuine analytical decision, not just a technical setting. A geographer studying a specific city's traffic patterns needs a large-scale map showing individual streets. A geographer studying global climate patterns needs a small-scale map showing the entire planet. Using the wrong scale for a given question, too zoomed in to see the big pattern, or too zoomed out to see the relevant detail, can lead to genuinely misleading conclusions."},
+    {"type": "heading", "text": "How Modern Geographers Actually Build Maps"},
+    {"type": "paragraph", "text": "Almost no professional geographer draws maps by hand anymore. Instead, most modern mapmaking relies on a **Geographic Information System**, or **GIS**: software that stores spatial data in separate layers, roads in one layer, population density in another, flood zones in a third, and lets a geographer combine, compare, and analyze those layers together. A city planning department deciding where to build a new hospital might use GIS to overlay data on population density, existing hospital locations, and travel time by road, all at once, to identify the specific location that would serve the most people most efficiently. GIS has made thematic mapping far faster and far more precise than it was even a few decades ago, and it is now the standard tool of the field."}
+  ],
+  "videoResources": [
+    {"title": "Heimler's APHUG: Unit 1.1", "url": "https://www.youtube.com/results?search_query=Heimler%27s+APHUG+Unit+1.1+Introduction+to+Maps", "creator": "Heimler's APHUG · 9 min"},
+    {"title": "Map Projections Explained", "url": "https://www.youtube.com/results?search_query=Map+projections+explained+AP+Human+Geography", "creator": "Crash Course Geography · 11 min"},
+    {"title": "Reference Maps vs. Thematic Maps", "url": "https://www.youtube.com/results?search_query=Mr+Sinn+APHUG+Reference+Maps+Thematic+Maps", "creator": "Mr. Sinn APHUG · video"}
+  ],
+  "multipleChoice": [
+    {
+      "question": "A map showing the average household income of every county in a state, using different shades of color to represent income ranges, is best classified as which type of map?",
+      "options": ["A reference map", "A thematic map", "A topographic map only", "A cadastral map only"],
+      "correctIndex": 1,
+      "explanation": "This map shows the spatial pattern of a specific variable, income, rather than simply showing location, making it a thematic map. (A) is incorrect because reference maps show general location, not a single data variable. (C) and (D) name narrower, more specific map types that do not describe this general income-shading example."
+    },
+    {
+      "question": "The Mercator projection is most useful for which purpose?",
+      "options": ["Comparing the true relative land area of countries near the equator versus the poles", "Ocean navigation, since it preserves angles and allows straight-line compass courses", "Showing population density with maximum accuracy", "Minimizing all forms of distortion simultaneously"],
+      "correctIndex": 1,
+      "explanation": "The Mercator projection was specifically designed to preserve angles for navigation, letting sailors plot a straight compass bearing. (A) describes a task the Mercator projection is actually poor at, since it distorts relative size. (C) is unrelated to what the Mercator projection is designed to do. (D) is impossible for any projection, including the Mercator."
+    },
+    {
+      "question": "A geographer wants to study fine-grained pedestrian traffic patterns on a single city block. Which type of map scale would be most appropriate?", "options": ["A small-scale map covering the entire country", "A large-scale map covering just the block and surrounding streets", "A thematic map with no defined scale", "A globe with a scale of 1:100,000,000"],
+      "correctIndex": 1,
+      "explanation": "Studying fine detail in a small area requires a large-scale map, which shows less area but far more local detail. (A) and (D) describe small-scale representations that would be far too zoomed out to show individual pedestrian patterns. (C) misunderstands the question; thematic maps still have a scale, and scale is the specific property being asked about here."
+    },
+    {
+      "question": "Which of the following best explains why no map projection can be fully accurate?", "options": ["Cartographers have not yet developed the technology needed to eliminate distortion", "Translating the curved surface of a sphere onto a flat surface always requires some mathematical distortion", "Governments require certain distortions for political reasons", "GIS software is not yet advanced enough to correct projection errors"],
+      "correctIndex": 1,
+      "explanation": "The core issue is geometric, not technological: a sphere's surface cannot be flattened without stretching, tearing, or compressing it somewhere, so all projections trade off accuracy in shape, area, distance, or direction. (A) and (D) incorrectly frame this as a solvable technology problem rather than a mathematical impossibility. (C) describes a real historical criticism of some map choices, but is not the fundamental reason projections distort."
+    },
+    {
+      "question": "A city planning department uses software to layer data on flood zones, road networks, and population density to decide where to build a new hospital. This process best illustrates the use of", "options": ["a reference map", "the Mercator projection", "a Geographic Information System (GIS)", "a small-scale map"], "correctIndex": 2, "explanation": "Combining multiple layers of spatial data to analyze and compare them is the defining function of a GIS. (A) describes a simpler map type without layered analysis. (B) is a specific projection unrelated to layered data analysis. (D) describes a property of scale, not the data-layering process described in the scenario."
+    }
+  ],
+  "saq": {
+    "context": "A world map commonly used in classrooms shows Greenland appearing approximately the same size as the continent of Africa, even though Africa's actual land area is about fourteen times larger than Greenland's.",
+    "directions": "Respond to Parts A, B, and C. Each response should be a complete sentence; bullet points alone are not acceptable.",
+    "parts": [
+      {"label": "Part A", "task": "Identify the map projection most likely responsible for the size distortion described in the scenario.", "sampleAnswer": "The Mercator projection is most likely responsible, since it is well known for preserving shape and angle at the cost of dramatically distorting the relative size of landmasses, especially at high latitudes."},
+      {"label": "Part B", "task": "Explain why this projection distorts the relative size of Greenland and Africa the way it does.", "sampleAnswer": "The Mercator projection stretches areas near the poles to preserve straight-line angles for navigation, and since Greenland is located at a much higher latitude than Africa, that stretching inflates Greenland's apparent size far more than Africa's."},
+      {"label": "Part C", "task": "Explain one potential real-world consequence of relying on this projection as a default classroom world map.", "sampleAnswer": "Students who grow up seeing this projection as the default may develop a distorted mental sense of the relative size and importance of high-latitude regions like Europe or Russia compared to equatorial regions like Africa, potentially reinforcing skewed geographic or cultural assumptions."}
+    ]
+  },
+  "leq": {
+    "prompt": "Evaluate the extent to which the choice of map projection can shape a viewer's understanding of global geography, using the Mercator projection as your primary example.",
+    "note": "Write a full essay with thesis, contextualization, evidence, and historical reasoning. This prompt rewards connecting the technical properties of a projection to real consequences for how people perceive the world.",
+    "thesisExample": "Strong thesis: \"The choice of map projection significantly shapes a viewer's understanding of global geography, because a projection like the Mercator, despite its navigational usefulness, systematically distorts the perceived size and prominence of entire world regions in ways that can reinforce inaccurate assumptions about global scale and importance.\"",
+    "outline": [
+      {"label": "Contextualization", "text": "Describe the basic geometric problem of projecting a spherical Earth onto a flat map, and the origin of the Mercator projection in 1569 for the specific purpose of ocean navigation."},
+      {"label": "Evidence, technical distortion", "text": "Explain how the Mercator projection preserves angles and shape but stretches area near the poles, using the Greenland-versus-Africa size comparison as concrete evidence."},
+      {"label": "Evidence, real-world use and consequence", "text": "Describe the projection's long dominance as a default classroom and reference map, and the argument that this repeated exposure shaped inaccurate popular assumptions about the relative size of high-latitude versus equatorial regions."},
+      {"label": "Historical reasoning: causation", "text": "Argue for a causal link between a specific technical design choice (preserving angle over area) and a broader cultural or educational consequence (skewed geographic perception), while acknowledging the genuine navigational benefits that justified the original design choice."}
+    ]
+  },
+  "discussionQuestions": [
+    {"question": "If every map projection distorts something, is it possible to make a truly \"neutral\" or \"unbiased\" map? Defend your answer.", "modelAnswer": "A strong answer argues no, since every projection must sacrifice at least one of shape, area, distance, or direction, meaning every map maker is always making a choice about which distortion is most acceptable for a given purpose, a choice that is unavoidably value-laden even when made for purely technical reasons."},
+    {"question": "Why might a mapmaker's choice of projection matter more for a political or educational map than for a navigational chart used by sailors?", "modelAnswer": "A navigational chart's users generally understand and accept its specific trade-off (accurate angles, distorted size) because that trade-off directly serves their practical purpose, while a general educational or political map is consumed by a much wider audience who may not understand the distortion at all, making the misleading impression of relative size or importance more consequential."},
+    {"question": "Think of a real decision you or someone you know has made using a map (finding a route, choosing a neighborhood, planning a trip). What scale of map was most useful for that decision, and why would a different scale have been less helpful?", "modelAnswer": "Answers will vary, but a strong response identifies a specific real decision, names whether a large-scale (detailed, local) or small-scale (broad, less detailed) map served it, and explains concretely why the opposite scale would have failed to provide the needed information."},
+    {"question": "GIS lets geographers layer many types of data onto a single map. What is one potential benefit and one potential risk of this kind of powerful data-combining tool?", "modelAnswer": "A strong answer names a genuine benefit (such as identifying overlapping patterns, like flood risk and low income, that would be hard to see in separate datasets) and a genuine risk (such as the potential for the tool to be used to identify and specifically target vulnerable populations, or for flawed underlying data to produce misleading combined results)."}
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

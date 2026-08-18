@@ -1,0 +1,111 @@
+{
+  "course": "ap-human-geography",
+  "num": "1.2",
+  "title": "Geographic Data",
+  "status": "complete",
+  "themes": [
+    {"icon": "🗺️", "label": "Spatial", "tooltip": "Geographers rely on a growing toolkit of technologies, from satellites to census surveys, to collect the data that thematic maps then display."}
+  ],
+  "tldr": [
+    "**Qualitative vs. quantitative data:** Quantitative data is numerical and can be measured (population counts, income levels). Qualitative data describes qualities, patterns, or experiences that are harder to reduce to a single number (interview responses, cultural practices).",
+    "**Modern data collection tools:** GPS pinpoints exact locations using satellites. Remote sensing collects data about the Earth's surface from satellites or aircraft without physical contact. Both feed into GIS, which stores and analyzes the data.",
+    "**Data still needs a display method:** Once collected, geographic data has to be turned into a specific kind of map, choropleth, dot density, graduated symbol, or isoline, and each display method fits certain kinds of data better than others."
+  ],
+  "learningObjectives": [
+    "Explain the differences between qualitative and quantitative geographic data.",
+    "Explain how geographers collect data using tools such as GPS, remote sensing, and field observation.",
+    "Explain how different types of data are best represented using different types of thematic maps."
+  ],
+  "vocabulary": [
+    {"term": "Quantitative Data", "definition": "Data expressed in numerical form that can be measured, counted, or statistically analyzed.", "importance": "The backbone of most thematic maps in this course, since numerical data can be sorted into ranges and mapped using color, size, or symbols.", "example": "Median household income by county, or the number of people per square mile in a city."},
+    {"term": "Qualitative Data", "definition": "Data that describes qualities, characteristics, or experiences that are not easily reduced to a single number, often collected through interviews, observation, or open-ended survey responses.", "importance": "Captures cultural context and lived experience that pure numbers can miss, complementing quantitative data rather than replacing it.", "example": "Interview responses describing why residents of a neighborhood feel unsafe walking at night, which a crime statistic alone would not fully explain."},
+    {"term": "GPS (Global Positioning System)", "definition": "A satellite-based navigation system that allows a receiver to determine its precise location on Earth's surface using signals from multiple orbiting satellites.", "importance": "Provides the precise location data that underlies most modern mapping, from smartphone navigation apps to scientific field research.", "example": "A biologist using a handheld GPS unit to record the exact coordinates where an endangered species was spotted."},
+    {"term": "Remote Sensing", "definition": "The collection of data about the Earth's surface from a distance, typically using satellites or aircraft equipped with cameras or sensors, without physical contact with the area being studied.", "importance": "Allows geographers to gather data over huge, difficult-to-access, or even hazardous areas quickly and repeatedly over time.", "example": "Satellite imagery used to track deforestation in the Amazon rainforest year over year."},
+    {"term": "Choropleth Map", "definition": "A thematic map that uses different colors or shading to represent the value of a variable within predefined areas, such as countries, states, or counties.", "importance": "One of the most common thematic map types, well suited to quantitative data that is already organized by administrative boundary.", "example": "A U.S. election results map shading each state red or blue based on which candidate won."},
+    {"term": "Dot Density Map", "definition": "A thematic map that uses individual dots, each representing a set quantity of something, to show the distribution and relative concentration of a variable across space.", "importance": "Useful for showing precise clustering and density patterns that a choropleth map's solid color shading would smooth over or hide.", "example": "A map where each dot represents 1,000 people, visually clustering more densely in cities than in rural areas."}
+  ],
+  "preTest": [
+    {"question": "Give one example of quantitative geographic data and one example of qualitative geographic data.", "answer": "Quantitative data could be the population of a city (a specific number). Qualitative data could be residents' described sense of community pride in a neighborhood survey (a quality or experience, not a number)."},
+    {"question": "How does remote sensing allow geographers to study areas that would otherwise be difficult to research?", "answer": "Remote sensing collects data from satellites or aircraft without requiring anyone to physically visit the location, making it possible to study huge, remote, or dangerous areas, like deep rainforest or active wildfire zones, quickly and repeatedly."},
+    {"question": "Why might a dot density map reveal a clustering pattern that a choropleth map of the same data would hide?", "answer": "A choropleth map applies a single average color to an entire predefined area (like a whole county), which can smooth over internal variation, while a dot density map places individual dots based on actual concentration, revealing precisely where a population or variable clusters within that same area."}
+  ],
+  "blocks": [
+    {"type": "heading", "text": "Two Kinds of Data Geographers Work With"},
+    {"type": "paragraph", "text": "Before geographers can make a map, they need data, and geographic data comes in two basic forms. **Quantitative data** is numerical: it can be counted, measured, and statistically analyzed. Population counts, average rainfall, median income, and unemployment rates are all quantitative. This kind of data is what most thematic maps are built from, since numbers can be sorted into ranges and displayed using color, size, or symbols."},
+    {"type": "image", "imageType": "ai_generated", "src": null, "alt": "Split illustration showing a data chart on one side and an interview scene on the other, representing quantitative and qualitative data", "caption": "Quantitative data is numerical and measurable. Qualitative data captures qualities and experiences that resist simple numbers.", "attribution": "AI-generated illustration (image pending)"},
+    {"type": "paragraph", "text": "**Qualitative data**, by contrast, describes qualities, characteristics, or lived experiences that are harder to reduce to a single number. Interview responses, descriptions of local customs, and open-ended survey answers are all qualitative. A crime rate is quantitative data; a resident's description of why she feels unsafe walking home at night is qualitative data. Both are legitimate and valuable in geography. Quantitative data tells you the scale and pattern of something. Qualitative data often tells you why that pattern exists, or what it actually feels like to live inside it."},
+    {"type": "apTip", "text": "A common exam trap is assuming quantitative data is automatically \"more objective\" or \"better\" than qualitative data. Resist that framing. The correct AP Human Geography position is that qualitative and quantitative data answer different kinds of questions, and strong geographic research often combines both rather than treating one as superior."},
+    {"type": "heading", "text": "How Geographers Actually Collect Data"},
+    {"type": "paragraph", "text": "Modern geography relies on several major technologies for collecting spatial data. **GPS**, the Global Positioning System, uses a network of orbiting satellites to let any GPS receiver, a phone, a car, a handheld field unit, determine its precise location on Earth's surface. GPS is the reason a smartphone can tell you exactly where you are and guide you turn by turn to a destination, and it is also a basic field research tool: a biologist recording exact coordinates for wildlife sightings, or a geologist marking precise sample locations, both depend on GPS."},
+    {"type": "paragraph", "text": "**Remote sensing** takes a different approach: collecting data about the Earth's surface from a distance, using satellites or aircraft equipped with cameras and sensors, without any physical contact with the location being studied. Remote sensing lets geographers monitor huge or hard-to-reach areas repeatedly over time. A single research team could never physically survey the entire Amazon rainforest every year to track deforestation, but a satellite can photograph the same region on a regular schedule, letting researchers compare images over time and measure exactly how much forest cover has been lost."},
+    {"type": "funFact", "text": "The first GPS satellite was launched in 1978, but the system was originally built for U.S. military navigation, not civilian use. Selective Availability, a feature that deliberately degraded GPS accuracy for civilian receivers, was not turned off until the year 2000, instantly making every civilian GPS device roughly ten times more accurate overnight."},
+    {"type": "paragraph", "text": "Geographers also still rely on more traditional methods: **field observation**, physically visiting a location to record data firsthand, and large-scale surveys like a national **census**, a comprehensive count and demographic survey of a country's population, usually conducted every ten years in the United States. Unlike GPS or remote sensing, these methods often capture qualitative detail, direct observation, resident interviews, that satellite data alone cannot provide."},
+    {"type": "heading", "text": "Turning Data Into a Map"},
+    {"type": "paragraph", "text": "Collecting data is only half the job. Geographers then have to choose how to visually represent that data, and different data types and questions call for different map types."},
+    {"type": "list", "items": [
+      "A **choropleth map** shades predefined areas, states, counties, countries, using different colors to represent the value of a variable in each area. It works well for data that is already organized by administrative boundary, like an election map shading each state by winning party, but it can visually overstate the importance of large, sparsely populated areas.", "A **dot density map** places individual dots, each representing a set quantity, across the map to show where a variable actually concentrates. It reveals clustering that a choropleth map's flat color would smooth away, since population, for example, is rarely spread evenly within a single state or county.", "Other thematic map types, like graduated symbol maps (using differently sized symbols) and isoline maps (using connected lines of equal value, like a weather map's temperature contours), each fit specific kinds of data better than others."
+    ]},
+    {"type": "apTip", "text": "If an exam question gives you raw data and asks which type of thematic map would best represent it, ask yourself two questions: is the data organized by a fixed boundary (favors choropleth), and does the data cluster unevenly within that boundary in a way worth showing (favors dot density)? Getting this reasoning right, not just naming a map type, is what the rubric is looking for."}
+  ],
+  "videoResources": [
+    {"title": "Heimler's APHUG: Unit 1.2", "url": "https://www.youtube.com/results?search_query=Heimler%27s+APHUG+Unit+1.2+Geographic+Data", "creator": "Heimler's APHUG · 8 min"},
+    {"title": "GPS and Remote Sensing Explained", "url": "https://www.youtube.com/results?search_query=GPS+remote+sensing+explained+AP+Human+Geography", "creator": "Crash Course Geography · 10 min"},
+    {"title": "Choropleth vs. Dot Density Maps", "url": "https://www.youtube.com/results?search_query=Mr+Sinn+APHUG+Choropleth+Dot+Density+Maps", "creator": "Mr. Sinn APHUG · video"}
+  ],
+  "multipleChoice": [
+    {
+      "question": "A researcher records interview responses describing why residents of a neighborhood feel a strong sense of community identity. This is an example of",
+      "options": ["quantitative data", "qualitative data", "remote sensing data", "GPS data"],
+      "correctIndex": 1,
+      "explanation": "Interview responses describing a feeling or quality (community identity) rather than a measurable number are qualitative data. (A) is incorrect since nothing here is numerical. (C) and (D) describe specific data collection technologies unrelated to interview-based research."
+    },
+    {
+      "question": "Which technology would be most useful for tracking annual changes in forest cover across a remote, largely inaccessible region?", "options": ["A national census", "Remote sensing via satellite imagery", "A handheld GPS unit alone", "A choropleth map of existing data"],
+      "correctIndex": 1,
+      "explanation": "Remote sensing allows repeated data collection over large, hard-to-access areas from a distance, ideal for tracking change over time without physically visiting the region. (A) is designed for human population data, not forest cover. (C) provides only precise location points, not broad area coverage. (D) is a way to display data that has already been collected, not a collection method itself."
+    },
+    {
+      "question": "A map shades each U.S. state a different color based on that state's total population. This is an example of which type of thematic map, and what is one limitation of this choice?", "options": ["A dot density map; it fails to show any data at all", "A choropleth map; it can visually overstate less populous but geographically large states", "An isoline map; it cannot display population data", "A reference map; it does not show any political boundaries"],
+      "correctIndex": 1,
+      "explanation": "Shading entire predefined areas by a data value describes a choropleth map, and a well-known limitation is that large, sparsely populated states can visually dominate the map even though they contain relatively few people. (A) misidentifies the map type. (C) misidentifies the map type and incorrectly claims isoline maps cannot show population data. (D) misidentifies both the map type and its actual limitation."
+    },
+    {
+      "question": "Which of the following statements best reflects the AP Human Geography perspective on qualitative versus quantitative data?", "options": ["Quantitative data is always more reliable than qualitative data", "Qualitative data should only be used when quantitative data is unavailable", "Both data types serve different, complementary purposes and are not ranked as inherently superior or inferior", "Quantitative data cannot be displayed on a map"],
+      "correctIndex": 2,
+      "explanation": "The course treats qualitative and quantitative data as complementary tools suited to different kinds of questions, not as a hierarchy. (A) and (B) incorrectly frame one data type as generally superior. (D) is factually wrong, since quantitative data is the basis for most thematic maps."
+    },
+    {
+      "question": "A hiking app uses satellite signals to show a user's exact real-time location on a trail map. This functionality primarily relies on", "options": ["remote sensing", "a census", "GPS", "a choropleth map"], "correctIndex": 2, "explanation": "Determining a precise real-time location using satellite signals is the defining function of GPS. (A) collects broader surface data from a distance rather than pinpointing a single receiver's location. (B) is a population survey unrelated to real-time positioning. (D) is a map display type, not a location technology."
+    }
+  ],
+  "saq": {
+    "context": "A public health department wants to understand why a specific neighborhood has an unusually high rate of a certain illness. They gather hospital admission records showing exact case counts by address, and they also conduct interviews with residents about local environmental conditions and daily habits.",
+    "directions": "Respond to Parts A, B, and C. Each response should be a complete sentence; bullet points alone are not acceptable.",
+    "parts": [
+      {"label": "Part A", "task": "Identify which part of the department's research, the hospital admission records or the resident interviews, is quantitative data, and which is qualitative data.", "sampleAnswer": "The hospital admission records showing exact case counts are quantitative data, since they are numerical and measurable, while the resident interviews about environmental conditions and habits are qualitative data, since they capture descriptions and experiences rather than numbers."},
+      {"label": "Part B", "task": "Explain one reason the department might choose to use both types of data rather than relying on only one.", "sampleAnswer": "The case count data can show precisely where and how severe the illness pattern is, but it cannot explain why the pattern exists, while the interview data can reveal potential causes, such as a specific local environmental factor, that the numbers alone would never surface."},
+      {"label": "Part C", "task": "Explain which type of thematic map, choropleth or dot density, would likely be most useful for visualizing the exact case count data by address, and why.", "sampleAnswer": "A dot density map would likely be more useful, since it can place individual dots at the precise addresses of cases, revealing fine-grained clustering within the neighborhood that a choropleth map's single flat color across the whole neighborhood would completely hide."}
+    ]
+  },
+  "leq": {
+    "prompt": "Evaluate the extent to which modern geospatial technologies, such as GPS and remote sensing, have changed the kinds of geographic questions researchers are able to ask and answer.",
+    "note": "Write a full essay with thesis, contextualization, evidence, and historical reasoning. This prompt rewards specific, concrete examples of what became newly possible with these technologies, not just a general description of what they are.",
+    "thesisExample": "Strong thesis: \"Modern geospatial technologies have significantly expanded the kinds of geographic questions researchers can ask, since GPS and remote sensing make it possible to collect precise, repeated data across huge or inaccessible areas that earlier field-based methods alone could never have covered.\"",
+    "outline": [
+      {"label": "Contextualization", "text": "Describe earlier, pre-satellite methods of geographic data collection, direct field observation, manual surveys, hand-drawn maps, and their practical limits of scale and repeatability."},
+      {"label": "Evidence, GPS", "text": "Precise, real-time location data now available to any handheld device, transforming both everyday navigation and field research accuracy."},
+      {"label": "Evidence, remote sensing", "text": "The ability to monitor huge, remote, or hazardous areas (such as deforestation in the Amazon) repeatedly over time from orbit, without physically visiting the location."},
+      {"label": "Historical reasoning: causation", "text": "Argue that these technologies did not just make old research faster, but enabled genuinely new questions, tracking global-scale environmental change over time, that were essentially impossible to answer rigorously before satellite-based tools existed."}
+    ]
+  },
+  "discussionQuestions": [
+    {"question": "Can you think of a geographic question that quantitative data alone could never fully answer? What qualitative data would help answer it?", "modelAnswer": "A strong answer names a specific question (such as why a neighborhood is gentrifying) where numbers alone (rising rents, changing demographics) cannot capture the full picture, and identifies a specific qualitative source (resident interviews, oral histories) that could add the missing context of lived experience and motivation."},
+    {"question": "GPS technology was originally built for military use before becoming available to civilians. What does this history suggest about how new geographic technologies often develop?", "modelAnswer": "It suggests that many geographic and mapping technologies are first developed for government, military, or strategic purposes and only later become widely available for civilian and commercial use, a pattern worth watching for in other current or emerging spatial technologies."},
+    {"question": "If you were designing a thematic map to show the spread of a wildfire in real time, would you choose a choropleth map or a dot density map? Defend your choice.", "modelAnswer": "A strong answer would likely favor a different approach than either default choice, but if forced to choose, could argue for dot density (showing precise fire locations as they are detected) over choropleth (which would falsely imply uniform fire coverage across an entire administrative area), while acknowledging real-time fire maps often actually use other specialized techniques like heat-intensity color gradients."},
+    {"question": "Remote sensing lets governments and researchers monitor land use changes anywhere on Earth from orbit, without needing permission to physically enter the area. What are the benefits and potential concerns of this capability?", "modelAnswer": "A strong answer names a genuine benefit (monitoring deforestation, disaster response, or agricultural conditions in areas that would otherwise be inaccessible or dangerous to survey) and a genuine concern (surveillance of populations or activities without consent, potentially raising privacy or sovereignty issues for the areas being observed)."}
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}
