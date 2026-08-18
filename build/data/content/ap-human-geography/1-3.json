@@ -4,7 +4,11 @@
   "title": "The Power of Geographic Data",
   "status": "complete",
   "themes": [
-    {"icon": "🗺️", "label": "Spatial", "tooltip": "Maps and data can inform, but they can also persuade, mislead, or manipulate, since every mapmaker makes choices about what to include, exclude, and emphasize."}
+    {
+      "icon": "🗺️",
+      "label": "Spatial",
+      "tooltip": "Maps and data can inform, but they can also persuade, mislead, or manipulate, since every mapmaker makes choices about what to include, exclude, and emphasize."
+    }
   ],
   "tldr": [
     "**Maps are never neutral:** Every map reflects choices, what data to include, how to draw boundaries, which colors to use, and those choices can shape how a viewer understands or judges a place, sometimes intentionally.",
@@ -17,99 +21,279 @@
     "Explain the Modifiable Areal Unit Problem and its effect on spatial data analysis."
   ],
   "vocabulary": [
-    {"term": "Gerrymandering", "definition": "The practice of drawing electoral district boundaries to favor a particular political party or group, rather than drawing them based on neutral criteria like population balance or geographic compactness.", "importance": "A concrete, high-stakes example of how map boundaries can be manipulated for political advantage without changing a single actual vote.", "example": "A state legislature redrawing a congressional district into an oddly shaped strip specifically to include or exclude certain neighborhoods based on their voting history."},
-    {"term": "Packing", "definition": "A gerrymandering technique that concentrates voters of one party into as few districts as possible, so that party \"wastes\" votes winning those districts by overwhelming margins instead of winning more districts by smaller margins.", "importance": "One of the two core gerrymandering strategies tested on the AP exam, alongside cracking.", "example": "Drawing one oddly shaped urban district that combines several majority-opposition neighborhoods into a single district the opposing party wins with 90 percent of the vote, wasting many of those votes."},
-    {"term": "Cracking", "definition": "A gerrymandering technique that splits a concentrated group of voters across multiple districts, diluting their influence so they cannot form a majority in any single district.", "importance": "The other core gerrymandering strategy tested on the AP exam, working in the opposite direction from packing.", "example": "Splitting a city's opposition-leaning population across four different districts, each of which also contains a larger number of the favored party's rural or suburban voters."},
-    {"term": "Modifiable Areal Unit Problem (MAUP)", "definition": "The statistical and cartographic problem that the same underlying spatial data can produce different, sometimes contradictory, apparent patterns depending on how the boundaries used to group that data are drawn.", "importance": "Explains why the choice of district, county, or region boundaries is never a neutral technical decision, it can genuinely change what conclusion the data appears to support.", "example": "A city's crime data might look evenly distributed when grouped by large districts, but reveal sharp clustering in specific blocks when grouped by smaller units."},
-    {"term": "Redistricting", "definition": "The process of redrawing electoral district boundaries, typically required after each national census to reflect population changes.", "importance": "The formal process through which gerrymandering usually occurs, since it is the legally required moment when district lines can be legitimately redrawn.", "example": "Following the U.S. Census every ten years, states redraw congressional and state legislative districts to reflect population shifts."},
-    {"term": "Data Visualization Bias", "definition": "The distortion of a viewer's understanding of data caused by deliberate or accidental choices in how that data is displayed, such as misleading color scales, cropped axes, or inappropriate map projections.", "importance": "A broader category covering how the ideas behind gerrymandering and MAUP apply to data presentation generally, beyond just electoral maps.", "example": "A choropleth map using a color scale that makes a small statistical difference between regions look dramatic, or an enormous difference look minor."}
+    {
+      "term": "Gerrymandering",
+      "definition": "The practice of drawing electoral district boundaries to favor a particular political party or group, rather than drawing them based on neutral criteria like population balance or geographic compactness.",
+      "importance": "A concrete, high-stakes example of how map boundaries can be manipulated for political advantage without changing a single actual vote.",
+      "example": "A state legislature redrawing a congressional district into an oddly shaped strip specifically to include or exclude certain neighborhoods based on their voting history."
+    },
+    {
+      "term": "Packing",
+      "definition": "A gerrymandering technique that concentrates voters of one party into as few districts as possible, so that party \"wastes\" votes winning those districts by overwhelming margins instead of winning more districts by smaller margins.",
+      "importance": "One of the two core gerrymandering strategies tested on the AP exam, alongside cracking.",
+      "example": "Drawing one oddly shaped urban district that combines several majority-opposition neighborhoods into a single district the opposing party wins with 90 percent of the vote, wasting many of those votes."
+    },
+    {
+      "term": "Cracking",
+      "definition": "A gerrymandering technique that splits a concentrated group of voters across multiple districts, diluting their influence so they cannot form a majority in any single district.",
+      "importance": "The other core gerrymandering strategy tested on the AP exam, working in the opposite direction from packing.",
+      "example": "Splitting a city's opposition-leaning population across four different districts, each of which also contains a larger number of the favored party's rural or suburban voters."
+    },
+    {
+      "term": "Modifiable Areal Unit Problem (MAUP)",
+      "definition": "The statistical and cartographic problem that the same underlying spatial data can produce different, sometimes contradictory, apparent patterns depending on how the boundaries used to group that data are drawn.",
+      "importance": "Explains why the choice of district, county, or region boundaries is never a neutral technical decision, it can genuinely change what conclusion the data appears to support.",
+      "example": "A city's crime data might look evenly distributed when grouped by large districts, but reveal sharp clustering in specific blocks when grouped by smaller units."
+    },
+    {
+      "term": "Redistricting",
+      "definition": "The process of redrawing electoral district boundaries, typically required after each national census to reflect population changes.",
+      "importance": "The formal process through which gerrymandering usually occurs, since it is the legally required moment when district lines can be legitimately redrawn.",
+      "example": "Following the U.S. Census every ten years, states redraw congressional and state legislative districts to reflect population shifts."
+    },
+    {
+      "term": "Data Visualization Bias",
+      "definition": "The distortion of a viewer's understanding of data caused by deliberate or accidental choices in how that data is displayed, such as misleading color scales, cropped axes, or inappropriate map projections.",
+      "importance": "A broader category covering how the ideas behind gerrymandering and MAUP apply to data presentation generally, beyond just electoral maps.",
+      "example": "A choropleth map using a color scale that makes a small statistical difference between regions look dramatic, or an enormous difference look minor."
+    }
   ],
   "preTest": [
-    {"question": "What is the basic difference between packing and cracking as gerrymandering techniques?", "answer": "Packing concentrates opposition voters into a small number of districts so their votes are wasted on huge winning margins in those few districts, while cracking spreads opposition voters thinly across many districts so they never form a majority in any single one."},
-    {"question": "Explain, in your own words, what the Modifiable Areal Unit Problem shows about spatial data.", "answer": "It shows that the exact same underlying data can appear to reveal completely different spatial patterns depending on how the boundaries used to group that data are drawn, meaning the choice of boundary is not a neutral technical decision but one that can genuinely change what the data seems to say."},
-    {"question": "Why is redistricting, a normal and legally required process, also the moment when gerrymandering typically occurs?", "answer": "Redistricting is the specific legal window when district boundaries can be redrawn, so it is also the opportunity for whichever party controls that process to draw boundaries strategically in their own favor, using techniques like packing and cracking."}
+    {
+      "question": "What is the basic difference between packing and cracking as gerrymandering techniques?",
+      "answer": "Packing concentrates opposition voters into a small number of districts so their votes are wasted on huge winning margins in those few districts, while cracking spreads opposition voters thinly across many districts so they never form a majority in any single one."
+    },
+    {
+      "question": "Explain, in your own words, what the Modifiable Areal Unit Problem shows about spatial data.",
+      "answer": "It shows that the exact same underlying data can appear to reveal completely different spatial patterns depending on how the boundaries used to group that data are drawn, meaning the choice of boundary is not a neutral technical decision but one that can genuinely change what the data seems to say."
+    },
+    {
+      "question": "Why is redistricting, a normal and legally required process, also the moment when gerrymandering typically occurs?",
+      "answer": "Redistricting is the specific legal window when district boundaries can be redrawn, so it is also the opportunity for whichever party controls that process to draw boundaries strategically in their own favor, using techniques like packing and cracking."
+    }
   ],
   "blocks": [
-    {"type": "heading", "text": "Data Can Inform, or It Can Persuade"},
-    {"type": "paragraph", "text": "So far, this unit has treated maps and geographic data as neutral tools for understanding the world: here is where things are, here is how a variable is distributed. But maps and data are made by people, and people make choices, what data to include, how to draw boundaries, which colors and scales to use, and those choices can shape how a viewer understands, judges, or even votes about a place. Sometimes this happens by accident. Sometimes it is entirely intentional."},
-    {"type": "image", "imageType": "ai_generated", "src": null, "alt": "An oddly shaped, irregular electoral district map illustrating gerrymandering", "caption": "District boundaries are drawn by people, and the shapes they choose can shift election outcomes without changing a single vote.", "attribution": "AI-generated illustration (image pending)"},
-    {"type": "paragraph", "text": "The single clearest example of this power, and one the AP exam returns to repeatedly, is **gerrymandering**: drawing electoral district boundaries to favor a specific political party or group rather than to reflect neutral criteria like equal population or compact, sensible shapes."},
-    {"type": "heading", "text": "How Gerrymandering Actually Works"},
-    {"type": "paragraph", "text": "Gerrymandering relies on two core strategies, and understanding both is essential for the exam. **Packing** concentrates voters of one party into as few districts as possible. Imagine an opposition party's voters are spread across a city; instead of letting them naturally form a majority across several districts, mapmakers draw one oddly shaped district that combines nearly all of them together. That party might win that single packed district by an overwhelming 90 percent margin, but every vote beyond the 51 percent needed to win is effectively wasted, since it could have contributed to winning additional districts elsewhere instead."},
-    {"type": "paragraph", "text": "**Cracking** works in the opposite direction: instead of concentrating opposition voters, it splits them apart, dividing a concentrated group across several different districts, each of which also contains a larger number of the favored party's voters. In every cracked district, the opposition group remains a minority, unable to win a single seat, even though their total numbers across the whole region might be substantial."},
-    {"type": "apTip", "text": "Packing and cracking are frequently tested as a matching pair. If a question describes voters being concentrated into one oddly shaped district that wins by a landslide, that is packing. If it describes a group being split apart so it loses everywhere, that is cracking. Learn both terms together, since exam questions often ask you to distinguish one from the other using a specific map or scenario."},
-    {"type": "funFact", "text": "The term \"gerrymander\" comes from Massachusetts Governor Elbridge Gerry, who in 1812 signed off on a state senate district so oddly shaped that a newspaper cartoonist compared its outline to a salamander. The word \"gerrymander\" is a blend of Gerry's name and \"salamander,\" and the practice it describes has continued in American politics for over two centuries since."},
-    {"type": "paragraph", "text": "Gerrymandering typically happens during **redistricting**, the formal process of redrawing electoral district boundaries, which in the United States is legally required after each national census to reflect population changes. Redistricting itself is a normal, necessary process. Gerrymandering is what happens when whichever party controls that process uses it to draw lines strategically for partisan advantage rather than neutral, population-based criteria."},
-    {"type": "heading", "text": "The Modifiable Areal Unit Problem"},
-    {"type": "paragraph", "text": "Gerrymandering is a political application of a broader, more general geographic problem called the **Modifiable Areal Unit Problem**, usually abbreviated **MAUP**. MAUP describes a genuine statistical and cartographic challenge: the exact same underlying spatial data can produce different, sometimes contradictory, apparent patterns depending purely on how the boundaries used to group that data are drawn."},
-    {"type": "paragraph", "text": "Consider a city's crime data. If that data is grouped by a small number of very large districts, crime might appear roughly evenly distributed across the whole city, since a few high-crime blocks get averaged together with many low-crime blocks inside each large district. If the exact same underlying data is instead grouped by many small units, individual blocks, sharp clustering might suddenly become visible: crime concentrated in a handful of specific locations, invisible in the large-district version of the same map. No data changed. Only the boundaries changed, and the apparent pattern changed along with them."},
-    {"type": "apTip", "text": "MAUP is a favorite concept for free-response questions because it directly connects to gerrymandering: both show that boundary choice is never a neutral technical detail. If a prompt asks you to explain why the same data can support two different conclusions, MAUP is very likely the concept being tested, even if the question does not use that exact term."},
-    {"type": "heading", "text": "Reading Maps and Data Critically"},
-    {"type": "paragraph", "text": "None of this means maps and data cannot be trusted. It means they need to be read critically, the same way a careful reader questions the source and framing of a written argument. A useful habit, whenever you encounter a map or a data visualization, is to ask: who made this, what choices did they make about boundaries, scale, and color, and could a different, equally honest set of choices have told a different story using the exact same underlying data? This is not cynicism. It is the specific analytical skill this unit is building toward, since nearly every map you will analyze for the rest of this course was made by someone who made choices, and understanding those choices is part of understanding the map itself."}
+    {
+      "type": "heading",
+      "text": "Data Can Inform, or It Can Persuade"
+    },
+    {
+      "type": "paragraph",
+      "text": "So far, this unit has treated maps and geographic data as neutral tools for understanding the world: here is where things are, here is how a variable is distributed. But maps and data are made by people, and people make choices, what data to include, how to draw boundaries, which colors and scales to use, and those choices can shape how a viewer understands, judges, or even votes about a place. Sometimes this happens by accident. Sometimes it is entirely intentional."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": null,
+      "alt": "An oddly shaped, irregular electoral district map illustrating gerrymandering",
+      "caption": "District boundaries are drawn by people, and the shapes they choose can shift election outcomes without changing a single vote.",
+      "attribution": "AI-generated illustration (image pending)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The single clearest example of this power, and one the AP exam returns to repeatedly, is **gerrymandering**: drawing electoral district boundaries to favor a specific political party or group rather than to reflect neutral criteria like equal population or compact, sensible shapes."
+    },
+    {
+      "type": "heading",
+      "text": "How Gerrymandering Actually Works"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gerrymandering relies on two core strategies, and understanding both is essential for the exam. **Packing** concentrates voters of one party into as few districts as possible. Imagine an opposition party's voters are spread across a city; instead of letting them naturally form a majority across several districts, mapmakers draw one oddly shaped district that combines nearly all of them together. That party might win that single packed district by an overwhelming 90 percent margin, but every vote beyond the 51 percent needed to win is effectively wasted, since it could have contributed to winning additional districts elsewhere instead."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Cracking** works in the opposite direction: instead of concentrating opposition voters, it splits them apart, dividing a concentrated group across several different districts, each of which also contains a larger number of the favored party's voters. In every cracked district, the opposition group remains a minority, unable to win a single seat, even though their total numbers across the whole region might be substantial."
+    },
+    {
+      "type": "apTip",
+      "text": "Packing and cracking are frequently tested as a matching pair. If a question describes voters being concentrated into one oddly shaped district that wins by a landslide, that is packing. If it describes a group being split apart so it loses everywhere, that is cracking. Learn both terms together, since exam questions often ask you to distinguish one from the other using a specific map or scenario."
+    },
+    {
+      "type": "funFact",
+      "text": "The term \"gerrymander\" comes from Massachusetts Governor Elbridge Gerry, who in 1812 signed off on a state senate district so oddly shaped that a newspaper cartoonist compared its outline to a salamander. The word \"gerrymander\" is a blend of Gerry's name and \"salamander,\" and the practice it describes has continued in American politics for over two centuries since."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gerrymandering typically happens during **redistricting**, the formal process of redrawing electoral district boundaries, which in the United States is legally required after each national census to reflect population changes. Redistricting itself is a normal, necessary process. Gerrymandering is what happens when whichever party controls that process uses it to draw lines strategically for partisan advantage rather than neutral, population-based criteria."
+    },
+    {
+      "type": "heading",
+      "text": "The Modifiable Areal Unit Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gerrymandering is a political application of a broader, more general geographic problem called the **Modifiable Areal Unit Problem**, usually abbreviated **MAUP**. MAUP describes a genuine statistical and cartographic challenge: the exact same underlying spatial data can produce different, sometimes contradictory, apparent patterns depending purely on how the boundaries used to group that data are drawn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider a city's crime data. If that data is grouped by a small number of very large districts, crime might appear roughly evenly distributed across the whole city, since a few high-crime blocks get averaged together with many low-crime blocks inside each large district. If the exact same underlying data is instead grouped by many small units, individual blocks, sharp clustering might suddenly become visible: crime concentrated in a handful of specific locations, invisible in the large-district version of the same map. No data changed. Only the boundaries changed, and the apparent pattern changed along with them."
+    },
+    {
+      "type": "apTip",
+      "text": "MAUP is a favorite concept for free-response questions because it directly connects to gerrymandering: both show that boundary choice is never a neutral technical detail. If a prompt asks you to explain why the same data can support two different conclusions, MAUP is very likely the concept being tested, even if the question does not use that exact term."
+    },
+    {
+      "type": "heading",
+      "text": "Reading Maps and Data Critically"
+    },
+    {
+      "type": "paragraph",
+      "text": "None of this means maps and data cannot be trusted. It means they need to be read critically, the same way a careful reader questions the source and framing of a written argument. A useful habit, whenever you encounter a map or a data visualization, is to ask: who made this, what choices did they make about boundaries, scale, and color, and could a different, equally honest set of choices have told a different story using the exact same underlying data? This is not cynicism. It is the specific analytical skill this unit is building toward, since nearly every map you will analyze for the rest of this course was made by someone who made choices, and understanding those choices is part of understanding the map itself."
+    }
   ],
   "videoResources": [
-    {"title": "Heimler's APHUG: Unit 1.3", "url": "https://www.youtube.com/results?search_query=Heimler%27s+APHUG+Unit+1.3+Power+of+Geographic+Data", "creator": "Heimler's APHUG · 9 min"},
-    {"title": "Gerrymandering Explained: Packing and Cracking", "url": "https://www.youtube.com/results?search_query=Gerrymandering+packing+cracking+explained+AP+Human+Geography", "creator": "Crash Course Geography · 11 min"},
-    {"title": "The Modifiable Areal Unit Problem", "url": "https://www.youtube.com/results?search_query=Mr+Sinn+APHUG+Modifiable+Areal+Unit+Problem", "creator": "Mr. Sinn APHUG · video"}
+    {
+      "title": "Heimler's APHUG: Unit 1.3",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+APHUG+Unit+1.3+Power+of+Geographic+Data",
+      "creator": "Heimler's APHUG · 9 min"
+    },
+    {
+      "title": "Gerrymandering Explained: Packing and Cracking",
+      "url": "https://www.youtube.com/results?search_query=Gerrymandering+packing+cracking+explained+AP+Human+Geography",
+      "creator": "Crash Course Geography · 11 min"
+    },
+    {
+      "title": "The Modifiable Areal Unit Problem",
+      "url": "https://www.youtube.com/results?search_query=Mr+Sinn+APHUG+Modifiable+Areal+Unit+Problem",
+      "creator": "Mr. Sinn APHUG · video"
+    }
   ],
   "multipleChoice": [
     {
       "stimulus": "In State X, one political party controls the redistricting process. They draw a single, oddly shaped district that combines nearly all of the opposition party's urban voters, who then win that district with 92 percent of the vote. Meanwhile, the controlling party wins every other, more evenly drawn district in the state by comfortable margins.",
       "question": "The redistricting strategy described in the scenario is best identified as",
-      "options": ["cracking", "packing", "the Modifiable Areal Unit Problem", "the census"],
+      "options": [
+        "cracking",
+        "packing",
+        "the Modifiable Areal Unit Problem",
+        "the census"
+      ],
       "correctIndex": 1,
       "explanation": "Concentrating opposition voters into one district, causing them to win it by a landslide while \"wasting\" excess votes, is the definition of packing. (A) describes the opposite strategy of splitting a group apart. (C) refers to a broader statistical problem, not a deliberate political strategy. (D) refers to the population survey, not a redistricting strategy."
     },
     {
       "question": "Which of the following best describes cracking as a gerrymandering technique?",
-      "options": ["Concentrating a group of voters into as few districts as possible", "Dividing a concentrated group of voters across multiple districts to dilute their influence", "Drawing districts based purely on population equality", "Eliminating a district entirely after a population decline"],
+      "options": [
+        "Concentrating a group of voters into as few districts as possible",
+        "Dividing a concentrated group of voters across multiple districts to dilute their influence",
+        "Drawing districts based purely on population equality",
+        "Eliminating a district entirely after a population decline"
+      ],
       "correctIndex": 1,
       "explanation": "Cracking spreads a group's voters across several districts so they cannot form a majority in any of them, diluting rather than eliminating their votes. (A) describes packing, the opposite strategy. (C) describes a neutral, non-gerrymandered redistricting approach. (D) describes a real but unrelated redistricting event."
     },
     {
-      "question": "A researcher finds that the same crime data appears evenly distributed when mapped by large city districts but reveals sharp clusters when mapped by individual city blocks. This finding is best explained by", "options": ["gerrymandering", "the Modifiable Areal Unit Problem", "remote sensing error", "the difference between qualitative and quantitative data"],
+      "question": "A researcher finds that the same crime data appears evenly distributed when mapped by large city districts but reveals sharp clusters when mapped by individual city blocks. This finding is best explained by",
+      "options": [
+        "gerrymandering",
+        "the Modifiable Areal Unit Problem",
+        "remote sensing error",
+        "the difference between qualitative and quantitative data"
+      ],
       "correctIndex": 1,
       "explanation": "The scenario describes the same data producing different apparent patterns depending purely on the size of the areal units used, the defining feature of the Modifiable Areal Unit Problem. (A) refers to a specific political redistricting practice, not general boundary-choice effects on data patterns. (C) is unrelated, since this is a boundary-choice issue, not a data-collection error. (D) is unrelated, since the crime data itself is quantitative in both versions of the map."
     },
     {
-      "question": "Why does redistricting, a legally required and generally neutral process, also create the opportunity for gerrymandering?", "options": ["Redistricting is always conducted by a nonpartisan federal agency", "Redistricting is the specific legal moment when district boundaries can be redrawn, giving whoever controls the process the opportunity to draw them strategically", "Gerrymandering only occurs in years without a census", "Redistricting eliminates the need for any future elections"],
+      "question": "Why does redistricting, a legally required and generally neutral process, also create the opportunity for gerrymandering?",
+      "options": [
+        "Redistricting is always conducted by a nonpartisan federal agency",
+        "Redistricting is the specific legal moment when district boundaries can be redrawn, giving whoever controls the process the opportunity to draw them strategically",
+        "Gerrymandering only occurs in years without a census",
+        "Redistricting eliminates the need for any future elections"
+      ],
       "correctIndex": 1,
       "explanation": "Because redistricting is the formally required, legally sanctioned opportunity to redraw district lines, it is also the moment when whichever party controls that process can choose to draw those lines for partisan advantage instead of neutral criteria. (A) is factually incorrect; redistricting in most U.S. states is controlled by state legislatures, not a nonpartisan federal agency. (C) misstates the relationship; redistricting typically follows the census. (D) is unrelated and factually incorrect."
     },
     {
-      "question": "A city planner argues that maps should always be read with attention to who created them and what boundary or scale choices they made. This argument reflects the broader lesson that", "options": ["all maps are equally inaccurate and should not be trusted", "maps and data visualizations involve choices that can shape a viewer's understanding, even when the underlying data is accurate", "only thematic maps can be manipulated, while reference maps cannot", "the Modifiable Areal Unit Problem only applies to political redistricting"],
+      "question": "A city planner argues that maps should always be read with attention to who created them and what boundary or scale choices they made. This argument reflects the broader lesson that",
+      "options": [
+        "all maps are equally inaccurate and should not be trusted",
+        "maps and data visualizations involve choices that can shape a viewer's understanding, even when the underlying data is accurate",
+        "only thematic maps can be manipulated, while reference maps cannot",
+        "the Modifiable Areal Unit Problem only applies to political redistricting"
+      ],
       "correctIndex": 1,
       "explanation": "The core lesson of this topic is that mapmaking choices, even using entirely accurate underlying data, can shape how a viewer interprets that data, which is why critical reading of maps matters. (A) overstates the lesson into blanket distrust rather than critical reading. (C) is factually incorrect and not supported by the unit's content. (D) is factually incorrect, since MAUP applies to any spatial data grouped by boundaries, not only political redistricting."
     }
   ],
-  "saq": {
-    "context": "A state's congressional map includes one district shaped like a thin, winding strip that connects several disconnected, majority-opposition urban neighborhoods across the state, while every other district in the state is compact and roughly circular.",
-    "directions": "Respond to Parts A, B, and C. Each response should be a complete sentence; bullet points alone are not acceptable.",
-    "parts": [
-      {"label": "Part A", "task": "Identify the gerrymandering technique most likely illustrated by the oddly shaped district described in the scenario.", "sampleAnswer": "This most likely illustrates packing, since it concentrates opposition-leaning voters from multiple disconnected neighborhoods into a single unusually shaped district."},
-      {"label": "Part B", "task": "Explain how this technique affects the opposition party's overall representation in the state legislature or Congress.", "sampleAnswer": "By concentrating opposition voters into one district, the technique lets that party win that single seat by a large margin while wasting many of their votes, reducing their ability to win additional seats in the more compact, favorable districts elsewhere in the state."},
-      {"label": "Part C", "task": "Explain how the Modifiable Areal Unit Problem is relevant to understanding why this district's shape matters.", "sampleAnswer": "MAUP shows that the way voters are grouped into districts can change the apparent political outcome without changing how any individual actually voted, meaning the same set of votes can produce very different election results depending purely on where the district boundary lines are drawn."}
-    ]
-  },
-  "leq": {
-    "prompt": "Evaluate the extent to which gerrymandering undermines the core democratic principle that election outcomes should reflect the will of the voters.",
-    "note": "Write a full essay with thesis, contextualization, evidence, and historical reasoning. This prompt rewards using both packing and cracking as specific evidence, not just a general description of gerrymandering.",
-    "thesisExample": "Strong thesis: \"Gerrymandering significantly undermines the principle that election outcomes should reflect the will of the voters, since techniques like packing and cracking allow the party controlling redistricting to determine election outcomes in advance through boundary design, regardless of how citizens actually vote.\"",
-    "outline": [
-      {"label": "Contextualization", "text": "Describe the redistricting process required after each national census and its origins, including the 1812 Massachusetts district that gave gerrymandering its name."},
-      {"label": "Evidence, packing", "text": "Explain how concentrating opposition voters into one district wastes their votes and reduces their overall representation relative to their share of the total population."},
-      {"label": "Evidence, cracking", "text": "Explain how splitting a concentrated group across multiple districts prevents them from ever forming a majority anywhere, even with substantial overall numbers."},
-      {"label": "Historical reasoning: causation", "text": "Argue for a direct causal link between deliberate boundary design and distorted election outcomes, addressing the counterargument that redistricting is a legally required, sometimes unavoidably political process even when conducted in good faith."}
-    ]
-  },
   "discussionQuestions": [
-    {"question": "If a state's electoral map produces results that consistently favor one party by a much larger margin than that party's actual share of the statewide vote, what evidence would you look for to determine whether this reflects gerrymandering or a natural result of where different groups of voters happen to live?", "modelAnswer": "A strong answer looks for specific evidence such as unusually shaped, non-compact districts; a large gap between a party's statewide vote share and its share of legislative seats; and comparisons to alternative, computer-generated neutral maps that would produce more proportional results using the same underlying voter data."},
-    {"question": "Should redistricting be handled by independent, nonpartisan commissions instead of state legislatures controlled by whichever party is currently in power? Defend your position.", "modelAnswer": "A strong answer engages with both sides: independent commissions could reduce partisan gerrymandering and produce more proportional outcomes, but a student could also raise concerns about how commission members are selected and whether true neutrality in drawing any boundary is fully achievable given MAUP."},
-    {"question": "Beyond gerrymandering, can you think of another real-world example where the boundaries used to group data (school district lines, hospital service areas, and similar) might significantly affect the conclusions drawn from that data?", "modelAnswer": "A strong answer names a specific real example, such as school district boundaries affecting measured school quality statistics, or hospital service area boundaries affecting apparent healthcare access disparities, and explains how redrawing those boundaries could change the apparent pattern without changing the underlying reality."},
-    {"question": "Does understanding MAUP change how much you trust maps and data visualizations you encounter in the news or on social media? Why or why not?", "modelAnswer": "A strong answer reflects genuinely on this, perhaps concluding that understanding MAUP does not mean distrusting all maps, but does mean asking more specific questions about how the underlying areas were chosen and whether a different, equally reasonable boundary choice might tell a different story."}
+    {
+      "question": "If a state's electoral map produces results that consistently favor one party by a much larger margin than that party's actual share of the statewide vote, what evidence would you look for to determine whether this reflects gerrymandering or a natural result of where different groups of voters happen to live?",
+      "modelAnswer": "A strong answer looks for specific evidence such as unusually shaped, non-compact districts; a large gap between a party's statewide vote share and its share of legislative seats; and comparisons to alternative, computer-generated neutral maps that would produce more proportional results using the same underlying voter data."
+    },
+    {
+      "question": "Should redistricting be handled by independent, nonpartisan commissions instead of state legislatures controlled by whichever party is currently in power? Defend your position.",
+      "modelAnswer": "A strong answer engages with both sides: independent commissions could reduce partisan gerrymandering and produce more proportional outcomes, but a student could also raise concerns about how commission members are selected and whether true neutrality in drawing any boundary is fully achievable given MAUP."
+    },
+    {
+      "question": "Beyond gerrymandering, can you think of another real-world example where the boundaries used to group data (school district lines, hospital service areas, and similar) might significantly affect the conclusions drawn from that data?",
+      "modelAnswer": "A strong answer names a specific real example, such as school district boundaries affecting measured school quality statistics, or hospital service area boundaries affecting apparent healthcare access disparities, and explains how redrawing those boundaries could change the apparent pattern without changing the underlying reality."
+    },
+    {
+      "question": "Does understanding MAUP change how much you trust maps and data visualizations you encounter in the news or on social media? Why or why not?",
+      "modelAnswer": "A strong answer reflects genuinely on this, perhaps concluding that understanding MAUP does not mean distrusting all maps, but does mean asking more specific questions about how the underlying areas were chosen and whether a different, equally reasonable boundary choice might tell a different story."
+    }
   ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],
-  "teacherNotes": ""
+  "teacherNotes": "",
+  "examFrqs": [
+    {
+      "type": "One Stimulus",
+      "stimulus": "A state legislature redraws U.S. House districts after the census. In District 4, nearly all voters from one party are packed into a single oddly shaped district. In the surrounding districts, the remaining voters from that party are cracked into slim minorities. The statewide popular vote is close, but the map produces a lopsided House delegation.",
+      "directions": "Respond to parts A, B, C, and D.",
+      "parts": [
+        {
+          "label": "A",
+          "task": "Identify the political process described in the scenario.",
+          "sampleAnswer": "The scenario describes gerrymandering, specifically packing and cracking voters by party when district lines are drawn."
+        },
+        {
+          "label": "B",
+          "task": "Describe the difference between packing and cracking as used in the scenario.",
+          "sampleAnswer": "Packing concentrates one party's voters into a single district so they win that seat by a huge margin. Cracking splits the rest of those voters across other districts so they cannot win those seats."
+        },
+        {
+          "label": "C",
+          "task": "Explain how this map uses geographic data to affect an election without changing any individual vote.",
+          "sampleAnswer": "The same voters still live in the same places and can still cast the same ballots. Changing the boundaries changes which voters are grouped together, so the same votes produce a different set of winners."
+        },
+        {
+          "label": "D",
+          "task": "Explain one reason maps like this show that geographic data is not neutral.",
+          "sampleAnswer": "Someone chose those boundaries for a political result. A different set of lines, using the same census data, could produce a different delegation, so the map is a decision, not a transparent picture of the state."
+        }
+      ]
+    },
+    {
+      "type": "Two Stimuli",
+      "stimulus": "**Stimulus 1.** A map of a metropolitan area using county boundaries shows one solid color for \"moderate\" average income across the whole metro.",
+      "stimulus2": "**Stimulus 2.** A map of the same metro using census-tract boundaries shows a sharp split: high-income tracts on one side of a river and low-income tracts on the other.",
+      "directions": "Respond to parts A, B, C, and D. Use both stimuli.",
+      "parts": [
+        {
+          "label": "A",
+          "task": "Identify the change in scale from Stimulus 1 to Stimulus 2.",
+          "sampleAnswer": "Stimulus 1 uses a coarser, county scale. Stimulus 2 uses a finer, census-tract scale for the same metro area."
+        },
+        {
+          "label": "B",
+          "task": "Describe how the spatial pattern of income looks different on the two maps.",
+          "sampleAnswer": "At the county scale, income looks evenly moderate. At the tract scale, income looks sharply unequal, with rich and poor areas divided by the river."
+        },
+        {
+          "label": "C",
+          "task": "Explain why the same underlying data can produce two different patterns.",
+          "sampleAnswer": "This is the modifiable areal unit problem: grouping the same points into different areas (counties versus tracts) changes the average in each unit, so the map can hide or reveal inequality depending on the boundaries."
+        },
+        {
+          "label": "D",
+          "task": "Explain one decision that could be distorted if a planner used only Stimulus 1.",
+          "sampleAnswer": "A planner who saw only the county map might conclude the metro does not have a serious income divide and skip targeted services, even though the tract map shows a clear rich-poor split that county averages had smoothed away."
+        }
+      ]
+    }
+  ]
 }
