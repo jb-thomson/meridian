@@ -98,7 +98,7 @@ def main():
         shutil.rmtree(SITE_DIR)
     os.makedirs(SITE_DIR, exist_ok=True)
 
-    course_slugs = ["ap-world-history", "ap-gov", "ap-comp-gov", "ap-human-geography", "economics"]
+    course_slugs = ["ap-world-history", "ap-gov", "ap-comp-gov", "ap-human-geography", "economics", "global-studies"]
     all_courses = []
     all_flat = {}
 
