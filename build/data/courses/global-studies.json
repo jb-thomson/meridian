@@ -1,0 +1,125 @@
+{
+  "slug": "global-studies",
+  "name": "Global Studies",
+  "shortName": "Global Studies",
+  "isAP": false,
+  "tagline": "Two semesters, 68 sections across 5 units, 1750 to the present, AP World History-aligned",
+  "color": "#8a6d1f",
+  "assessmentTypes": [
+    "mcq",
+    "frq"
+  ],
+  "standardsNote": "Not an AP course. Each unit is noted with its closest AP World History: Modern unit equivalent for reference.",
+  "units": [
+    {
+      "num": 1,
+      "title": "Revolutions",
+      "range": "1750–1900",
+      "standards": "AP World Unit 5 equivalent",
+      "topics": [
+        { "num": "1.1", "title": "The World in 1750: Political and Social Structures on the Eve of Revolution" },
+        { "num": "1.2", "title": "The Scientific Revolution and Enlightenment Ideas" },
+        { "num": "1.3", "title": "The American Revolution: Causes, Course, and Global Impact" },
+        { "num": "1.4", "title": "The French Revolution: Causes and Radical Phases" },
+        { "num": "1.5", "title": "Napoleon and the Spread of Revolutionary Ideas" },
+        { "num": "1.6", "title": "The Haitian Revolution and Atlantic Slavery" },
+        { "num": "1.7", "title": "Latin American Independence Movements" },
+        { "num": "1.8", "title": "Nationalism in Europe: Unification of Italy and Germany" },
+        { "num": "1.9", "title": "Reform, Reaction, and Revolution: 1848 and Beyond" },
+        { "num": "1.10", "title": "The Industrial Revolution: Origins and Spread" },
+        { "num": "1.11", "title": "Social Consequences of Industrialization: Class, Labor, and Urbanization" },
+        { "num": "1.12", "title": "New Political Ideologies: Liberalism, Socialism, and Marxism" },
+        { "num": "1.13", "title": "Women's Rights and Social Reform Movements" },
+        { "num": "1.14", "title": "Reform and Revolution in Asia: China, Japan, and the Ottoman Empire" },
+        { "num": "1.15", "title": "Comparing Revolutions: Causes, Processes, and Outcomes" }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Industrialization & Imperialism",
+      "range": "1750–1900",
+      "standards": "AP World Unit 6 equivalent",
+      "topics": [
+        { "num": "2.1", "title": "Causes of Industrialization: Why Britain First?" },
+        { "num": "2.2", "title": "Technology and Innovation: Steam, Steel, and Railways" },
+        { "num": "2.3", "title": "Industrial Capitalism and the Global Economy" },
+        { "num": "2.4", "title": "Migration and Demographic Change in the Industrial Era" },
+        { "num": "2.5", "title": "Imperialism: Motivations, Methods, and Ideologies" },
+        { "num": "2.6", "title": "The Scramble for Africa: Conquest and Resistance" },
+        { "num": "2.7", "title": "South and Southeast Asia Under Colonial Rule" },
+        { "num": "2.8", "title": "China and the Unequal Treaties: Opium Wars and Their Aftermath" },
+        { "num": "2.9", "title": "Japan's Meiji Restoration: Industrialization and Empire" },
+        { "num": "2.10", "title": "The Ottoman Empire: Decline, Reform, and Resistance" },
+        { "num": "2.11", "title": "Colonial Economic Systems: Extraction, Dependency, and Trade" },
+        { "num": "2.12", "title": "Resistance to Colonialism: Armed Revolts and Cultural Responses" },
+        { "num": "2.13", "title": "Social Darwinism, Racism, and the Justification of Empire" },
+        { "num": "2.14", "title": "Environmental Consequences of Industrialization and Empire" },
+        { "num": "2.15", "title": "The Global Economy in 1900: Trade Networks and Inequalities" },
+        { "num": "2.16", "title": "Comparing Imperial Systems: British, French, and Others" }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Global Conflict",
+      "range": "1900–1945",
+      "standards": "AP World Unit 7 equivalent",
+      "topics": [
+        { "num": "3.1", "title": "The World in 1900: Tensions, Alliances, and Imperial Rivalries" },
+        { "num": "3.2", "title": "Causes of WWI: Nationalism, Militarism, and the Alliance System" },
+        { "num": "3.3", "title": "The Great War: Trench Warfare, New Technologies, and Total War" },
+        { "num": "3.4", "title": "The War's Global Reach: Colonial Soldiers, the Middle East, and Africa" },
+        { "num": "3.5", "title": "The Paris Peace Conference and the Treaty of Versailles" },
+        { "num": "3.6", "title": "The Russian Revolution and the Rise of the Soviet State" },
+        { "num": "3.7", "title": "The Interwar Crisis: Economic Depression and Political Instability" },
+        { "num": "3.8", "title": "The Rise of Fascism: Italy, Germany, and Japan" },
+        { "num": "3.9", "title": "Causes and Early Course of World War II in Europe" },
+        { "num": "3.10", "title": "World War II in the Pacific and Global Theaters" },
+        { "num": "3.11", "title": "The Holocaust and Mass Atrocities: Genocide and Its Causes" },
+        { "num": "3.12", "title": "The Legacy of WWII: A World Transformed" }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Cold War & Decolonization",
+      "range": "1945–1991",
+      "standards": "AP World Unit 8 equivalent",
+      "topics": [
+        { "num": "4.1", "title": "Origins of the Cold War: Ideological Conflict and the Iron Curtain" },
+        { "num": "4.2", "title": "The Cold War Goes Global: Korea, Nuclear Arms Race, and Alliances" },
+        { "num": "4.3", "title": "The Cold War in Latin America: Cuba, CIA, and Revolution" },
+        { "num": "4.4", "title": "The Cold War in Asia: Vietnam, China, and Proxy Wars" },
+        { "num": "4.5", "title": "Decolonization in Asia: India, Indochina, and the End of Empire" },
+        { "num": "4.6", "title": "African Independence Movements and the Challenges of Nation-Building" },
+        { "num": "4.7", "title": "The Middle East: Decolonization, Oil, and the Arab-Israeli Conflict" },
+        { "num": "4.8", "title": "Newly Independent States: Political Choices and Cold War Pressures" },
+        { "num": "4.9", "title": "Cold War Culture: Space Race, Propaganda, and the Nuclear Shadow" },
+        { "num": "4.10", "title": "Resistance and Reform: Civil Rights, Anti-Apartheid, and Social Movements" },
+        { "num": "4.11", "title": "The Decline of the Soviet Union and the End of the Cold War" },
+        { "num": "4.12", "title": "The Post-Cold War World: 1991 and Its Consequences" }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Globalization",
+      "range": "1990–Present",
+      "standards": "AP World Unit 9 equivalent",
+      "topics": [
+        { "num": "5.1", "title": "What is Globalization? Economic, Cultural, and Political Dimensions" },
+        { "num": "5.2", "title": "The Global Economy: Free Trade, the WTO, and Multinational Corporations" },
+        { "num": "5.3", "title": "Technology and Communication: The Internet and the Connected World" },
+        { "num": "5.4", "title": "Migration and Diaspora: People on the Move in a Globalized World" },
+        { "num": "5.5", "title": "Political Challenges: Failed States, Terrorism, and 9/11" },
+        { "num": "5.6", "title": "Religious Fundamentalism and Cultural Resistance to Globalization" },
+        { "num": "5.7", "title": "Human Rights: International Law, the ICC, and Violations" },
+        { "num": "5.8", "title": "Global Inequality: Development, Poverty, and the Global South" },
+        { "num": "5.9", "title": "Environmental Crisis: Climate Change, Deforestation, and Global Response" },
+        { "num": "5.10", "title": "China's Rise: Economic Power and Global Influence" },
+        { "num": "5.11", "title": "The Arab Spring and Political Change in the Middle East" },
+        { "num": "5.12", "title": "Populism, Nationalism, and Challenges to the Liberal World Order" },
+        { "num": "5.13", "title": "The World Today: Continuity, Change, and Global Citizenship" }
+      ]
+    }
+  ],
+  "tipLabel": "Study Tip",
+  "icon": "🧭"
+}
