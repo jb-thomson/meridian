@@ -269,7 +269,51 @@
 </div>
 {% endif %}
 
-{% if topic.saq %}
+{% if topic.examFrqs %}
+<div class="practice-group practice-block reveal" data-group="frq">
+  <button class="practice-group-toggle" type="button"><span>Free-Response Practice</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    {% for e in topic.examFrqs %}
+    <div class="frq-block{{ ' frq-block-follow' if not loop.first else '' }}">
+      <span class="frq-type-label">{{ e.type }}</span>
+      {% if e.context %}<div class="saq-context">{{ e.context|md }}</div>{% endif %}
+      {% if e.stimulus %}<div class="saq-context">{{ e.stimulus|md }}</div>{% endif %}
+      {% if e.stimulus2 %}<div class="saq-context">{{ e.stimulus2|md }}</div>{% endif %}
+      {% if e.directions %}<p class="hint">{{ e.directions|md }}</p>{% endif %}
+      {% if e.prompt %}<div class="frq-prompt">{{ e.prompt|md }}</div>{% endif %}
+      {% if e.foundationalDocuments %}<p class="hint">Use at least one of these foundational documents: {{ e.foundationalDocuments|join(', ') }}.</p>{% endif %}
+      {% if e.parts %}
+        {% for part in e.parts %}
+        <div class="saq-part">
+          <p class="saq-part-label">{{ part.label }}</p>
+          <p class="saq-task">{{ part.task|md }}</p>
+          <div class="expand-item">
+            <button class="expand-toggle" type="button">Show sample answer<span class="plus">+</span></button>
+            <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ part.sampleAnswer|md }}</div></div></div>
+          </div>
+        </div>
+        {% endfor %}
+      {% elif e.sampleAnswer or e.thesisExample or e.outline %}
+      <div class="expand-item">
+        <button class="expand-toggle" type="button">Show model response<span class="plus">+</span></button>
+        <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">
+          {% if e.thesisExample %}<p><strong class="ui-font">{{ e.thesisExample|md }}</strong></p>{% endif %}
+          {% if e.outline %}
+          <ul class="leq-outline">
+            {% for pt in e.outline %}<li><span class="leq-outline-label">{{ pt.label }}:</span> {{ pt.text|md }}</li>{% endfor %}
+          </ul>
+          {% endif %}
+          {% if e.sampleAnswer %}<p>{{ e.sampleAnswer|md }}</p>{% endif %}
+        </div></div></div>
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div></div></div>
+</div>
+{% endif %}
+
+{% if topic.saq and not topic.examFrqs %}
 <div class="practice-group practice-block reveal" data-group="saq">
   <button class="practice-group-toggle" type="button"><span>✍️ Short Answer Questions</span><span class="group-action">Show</span></button>
   <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
@@ -301,7 +345,7 @@
 </div>
 {% endif %}
 
-{% if topic.leq %}
+{% if topic.leq and not topic.examFrqs %}
 <div class="practice-group practice-block reveal" data-group="leq">
   <button class="practice-group-toggle" type="button"><span>📄 Long Essay Question</span><span class="group-action">Show</span></button>
   <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">

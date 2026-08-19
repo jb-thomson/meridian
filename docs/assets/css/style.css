@@ -154,16 +154,40 @@ main.container.with-sidebar { max-width: var(--max-width); }
   background-size: cover; background-position: 72% 45%;
   padding: 52px 24px 46px; color: #f6efdf;
 }
+body.is-landing .topbar { background: #120f09; border-bottom-color: rgba(246,239,223,.12); }
+body.is-landing .brand { color: #f6efdf; }
+body.is-landing main.landing-main { max-width: none; padding: 0; }
+body.is-landing .landing-hero {
+  margin: 0; border-radius: 0;
+  display: flex; flex-direction: column; justify-content: center;
+  padding: 56px 24px 52px;
+}
 .landing-eyebrow { font-family: 'Archivo', sans-serif; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #d8b877; margin: 0 0 6px; }
 .landing-word-wrap { position: relative; display: inline-block; margin: 0 0 20px; }
 .landing-word { font-family: 'Petit Formal Script', 'Newsreader Display', cursive; font-size: 3.4rem; font-weight: 400; margin: 0; line-height: 1; position: relative; z-index: 2; color: #f6efdf; }
 .landing-word-arc { position: absolute; left: 2%; right: 6%; bottom: -6px; height: 18px; z-index: 1; }
-.landing-h1 { font-family: 'Newsreader Display', Georgia, serif; font-size: 1.85rem; font-weight: 600; line-height: 1.24; max-width: 16ch; margin: 8px 0 14px; text-wrap: balance; }
-.landing-h1 .hi { color: #c1893f; font-style: italic; }
-.landing-lede { font-family: 'Newsreader Display', Georgia, serif; font-style: italic; font-weight: 500; font-size: 1.04rem; color: #ecdfc4; max-width: 42ch; margin: 0 0 12px; line-height: 1.5; }
-.landing-sub { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.82rem; color: #b3a68d; max-width: 46ch; margin: 0 0 22px; line-height: 1.6; }
-.landing-cta { display: inline-block; font-family: 'Archivo', sans-serif; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.03em; color: #241f16; background: #c1893f; border: none; padding: 12px 22px; border-radius: 999px; cursor: pointer; text-decoration: none; }
+.landing-h1 { font-family: 'Newsreader Display', Georgia, serif; font-size: 1.85rem; font-weight: 600; line-height: 1.24; max-width: 18ch; margin: 8px 0 14px; text-wrap: balance; color: #f6efdf; }
+.landing-h1 .hi { color: #e0a64a; font-style: italic; }
+.landing-lede { font-family: 'Newsreader Display', Georgia, serif; font-style: italic; font-weight: 500; font-size: 1.04rem; color: #f0e4c8; max-width: 42ch; margin: 0 0 12px; line-height: 1.5; }
+.landing-sub { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.82rem; color: #ddd0b4; max-width: 46ch; margin: 0 0 22px; line-height: 1.6; }
+.landing-cta { display: inline-block; font-family: 'Archivo', sans-serif; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.03em; color: #241f16; background: #c1893f; border: none; padding: 12px 22px; border-radius: 999px; cursor: pointer; text-decoration: none; width: fit-content; }
 .landing-cta:hover { filter: brightness(1.06); }
+
+.landing-body { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+
+@media (min-width: 900px) {
+  body.is-landing .app-shell { display: block; }
+  body.is-landing .topbar-inner { max-width: none; padding: 12px 6vw; }
+  body.is-landing .landing-hero {
+    min-height: 0;
+    padding: 64px 8vw;
+    background-position: 78% 42%;
+  }
+  .landing-word { font-size: 5.6rem; }
+  .landing-h1 { font-size: 2.7rem; max-width: 20ch; }
+  .landing-lede { font-size: 1.18rem; max-width: 46ch; }
+  .landing-sub { font-size: 0.92rem; max-width: 52ch; }
+}
 
 .landing-features { display: flex; flex-wrap: wrap; justify-content: center; gap: 26px 22px; padding: 30px 10px 26px; }
 .landing-feature { display: flex; flex-direction: column; align-items: center; gap: 10px; width: 90px; text-align: center; }
@@ -407,6 +431,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .practice-group[data-group="mcq"] .practice-group-toggle { background: #1e4a72; }
 .practice-group[data-group="saq"] .practice-group-toggle { background: #2f6b4f; }
 .practice-group[data-group="leq"] .practice-group-toggle { background: #7a4a1f; }
+.practice-group[data-group="frq"] .practice-group-toggle { background: #1a5f6a; }
 .practice-group[data-group="cyu"] .practice-group-toggle { background: #4a3728; }
 .practice-group-body-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .32s ease; background: var(--paper-raised); }
 .practice-group.open .practice-group-body-wrap { grid-template-rows: 1fr; }
@@ -462,8 +487,10 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 
 /* SAQ / LEQ / essay-type practice blocks */
 .frq-block { border: 1px solid var(--line); border-radius: var(--radius); padding: 15px; margin: 14px 0; background: var(--paper-raised); font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+.frq-block.frq-block-follow { margin-top: 22px; padding-top: 18px; border-top: 1px dashed var(--line); }
 .frq-block .frq-type-label { display: inline-block; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: var(--course-color); background: var(--accent-soft); padding: 3px 8px; border-radius: 999px; margin-bottom: 8px; }
 .frq-prompt { font-size: 0.92rem; white-space: pre-line; margin-bottom: 10px; }
+.hint { font-size: 0.84rem; color: var(--ink-soft); margin: 0 0 10px; }
 .saq-context { font-style: italic; font-size: 0.88rem; color: var(--ink-soft); background: var(--paper); border-left: 3px solid var(--line); padding: 9px 13px; margin-bottom: 10px; }
 .saq-part { border-top: 1px solid var(--line); padding-top: 12px; margin-top: 12px; }
 .saq-part:first-of-type { border-top: none; padding-top: 0; margin-top: 0; }
@@ -541,22 +568,25 @@ html.js-anim .landing-row.reveal { transition-delay: calc(var(--i, 0) * 60ms); }
   .reading-head h1 { font-size: 15pt; margin: 2pt 0; }
   .callout { padding: 0; margin: 8pt 0; border-width: 1px; page-break-inside: avoid; }
   .callout-toggle { padding: 4pt 6pt; }
-  .callout-body-wrap, .expand-body-wrap, .mcq-body-wrap, .vocab-body-wrap, .mcq-explain-wrap,
+  .callout-body-wrap, .expand-body-wrap, .mcq-body-wrap, .mcq-explain-wrap,
   .practice-group-body-wrap { display: block !important; }
   .callout-body { padding: 0 6pt 6pt; }
   .practice-group-toggle { background: #eee !important; color: #000 !important; }
   .section-label { margin: 10pt 0 4pt; font-size: 8pt; }
   .reading-body p { margin: 0 0 6pt; font-size: 10pt; line-height: 1.35; }
+  .reading-body::after { content: ""; display: table; clear: both; }
+  h3.reading-subhead { clear: both; }
   .expand-body { display: block !important; border-top: none; padding-top: 2pt; }
   .mcq-explain { display: block !important; }
   .mcq-body { padding-top: 2pt; border-top: none; }
-  figure.reading-figure { page-break-inside: avoid; margin: 8pt 0; }
-  figure.reading-figure img { max-height: 2.6in; }
+  figure.reading-figure {
+    float: left; width: 40%; max-width: 2.7in; margin: 2pt 12pt 8pt 0;
+    page-break-inside: avoid;
+  }
+  figure.reading-figure img { max-height: 2.2in; width: 100%; }
   .info-box { border: 1px solid #999; page-break-inside: avoid; }
-  .vocab-item { border: none; }
-  .vocab-list li, .vocab-item { padding: 2pt 0; }
-  .vocab-body-wrap, .vocab-def { padding-left: 0; }
-  .mcq, .frq-block, .expand-item, .vocab-item { border: 1px solid #999; padding: 6pt 8pt; margin: 6pt 0; page-break-inside: avoid; }
+  .vocab-box { display: none !important; }
+  .mcq, .frq-block, .expand-item { border: 1px solid #999; padding: 6pt 8pt; margin: 6pt 0; page-break-inside: avoid; }
   a { color: #000; text-decoration: none; }
 
   /* Reading Only print mode: hides practice questions/answers (MCQs, discussion
