@@ -224,7 +224,19 @@
         ".theme-chip-row, .util-bar, .vocab-box, .info-box, .practice-group, .video-resources, .econ-model, " +
         ".landing-feature, .landing-row"
       );
-      revealTargets.forEach(function (el) { el.classList.add("reveal"); });
+      // Only animate elements that are actually below the fold on load.
+      // Some templates bake the "reveal" class straight into the markup
+      // (landing rows, topic-page blocks), so an element already sitting
+      // in the initial viewport needs that class stripped back off —
+      // otherwise it "reveals" instantly on page load instead of staying
+      // plainly visible, and the float-up effect is reserved for content
+      // genuinely brought into view by scrolling, not just cropped to fit
+      // above the fold.
+      revealTargets.forEach(function (el) {
+        var rect = el.getBoundingClientRect();
+        var alreadyVisible = rect.top < window.innerHeight && rect.bottom > 0;
+        el.classList.toggle("reveal", !alreadyVisible);
+      });
       var io = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry) {
           if (entry.isIntersecting) {
@@ -233,7 +245,7 @@
           }
         });
       }, { threshold: 0.08, rootMargin: "0px 0px -40px 0px" });
-      revealTargets.forEach(function (el) { io.observe(el); });
+      document.querySelectorAll(".reveal").forEach(function (el) { io.observe(el); });
     }
 
     /* ---- mark-as-complete toggle (per topic page) ---- */

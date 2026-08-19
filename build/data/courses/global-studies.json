@@ -3,13 +3,12 @@
   "name": "Global Studies",
   "shortName": "Global Studies",
   "isAP": false,
-  "tagline": "Two semesters, 68 sections across 5 units, 1750 to the present, AP World History-aligned",
+  "tagline": "Two semesters, 68 sections across 5 units, 1750 to the present",
   "color": "#8a6d1f",
   "assessmentTypes": [
     "mcq",
     "frq"
   ],
-  "standardsNote": "Not an AP course. Each unit is noted with its closest AP World History: Modern unit equivalent for reference.",
   "units": [
     {
       "num": 1,
