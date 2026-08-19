@@ -45,7 +45,7 @@
   {% set pct = (0 if c.completed_topics == 0 else (100 if c.completed_topics == c.total_topics else ((c.completed_topics / c.total_topics * 100) | round | int))) %}
   <a class="landing-row reveal" href="courses/{{ c.slug }}/index.html" style="--card-color:{{ c.color }}; --i:{{ loop.index0 }};" data-card-progress="{{ c.slug }}" data-total="{{ c.total_topics }}">
     <span class="landing-text">
-      <p class="landing-name">{{ c.name }}</p>
+      <p class="landing-name"><span class="landing-emoji">{{ c.icon|default('📘') }}</span>{{ c.name }}</p>
       <p class="landing-tag">{{ c.tagline }}</p>
     </span>
     {% if c.completed_topics == 0 %}
