@@ -263,12 +263,23 @@
       });
     }
 
-    /* ---- landing page: paint mini progress on course cards ---- */
-    document.querySelectorAll("[data-card-progress]").forEach(function (el) {
-      var courseSlug = el.getAttribute("data-card-progress");
-      var total = parseInt(el.getAttribute("data-total"), 10);
+    /* ---- landing page: paint live per-browser progress on course rows,
+       both the desktop text line and the mobile bar/percentage ---- */
+    document.querySelectorAll("[data-card-progress]").forEach(function (row) {
+      var courseSlug = row.getAttribute("data-card-progress");
+      var total = parseInt(row.getAttribute("data-total"), 10);
       var stats = window.AgoraProgress.courseStats(courseSlug, total);
-      el.textContent = stats.done + " of " + stats.total + " readings completed in this browser";
+      var pct = stats.total ? Math.round((stats.done / stats.total) * 100) : 0;
+
+      var meta = row.querySelector(".landing-meta");
+      if (meta) meta.textContent = stats.done + " of " + stats.total + " readings completed in this browser";
+
+      var label = row.querySelector(".landing-progress-label");
+      if (label) label.textContent = stats.done === 0 ? "Coming soon" : stats.done + " of " + stats.total + " read";
+      var pctEl = row.querySelector(".landing-progress-pct");
+      if (pctEl) pctEl.textContent = pct + "%";
+      var fill = row.querySelector(".landing-bar-fill");
+      if (fill) fill.style.width = pct + "%";
     });
   });
 })();
