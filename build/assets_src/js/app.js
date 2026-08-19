@@ -37,6 +37,13 @@
         if (k.indexOf(course + "::") === 0) done++;
       });
       return { done: done, total: totalTopics, pct: totalTopics ? Math.round((done / totalTopics) * 100) : 0 };
+    },
+    resetCourse: function (course) {
+      var p = loadProgress();
+      Object.keys(p).forEach(function (k) {
+        if (k.indexOf(course + "::") === 0) delete p[k];
+      });
+      saveProgress(p);
     }
   };
 
@@ -238,6 +245,7 @@
         var done = window.AgoraProgress.isDone(course, num);
         completeBtn.textContent = done ? "✓ Marked as read" : "Mark as read";
         completeBtn.classList.toggle("btn-primary", done);
+        completeBtn.title = done ? "Click to unmark as read" : "Click to mark as read";
       }
       render();
       completeBtn.addEventListener("click", function () {
@@ -246,21 +254,32 @@
       });
     }
 
-    /* ---- course index: paint checkmarks + progress bar from localStorage ---- */
+    /* ---- course index: paint checkmarks + progress bar from localStorage,
+       with a reset control to clear all progress for this course ---- */
     var progressBar = document.querySelector("[data-course-progress]");
     if (progressBar) {
       var courseSlug = progressBar.getAttribute("data-course-progress");
       var total = parseInt(progressBar.getAttribute("data-total"), 10);
-      var stats = window.AgoraProgress.courseStats(courseSlug, total);
       var fill = progressBar.querySelector(".progress-fill");
       var label = progressBar.querySelector(".progress-label");
-      if (fill) fill.style.width = stats.pct + "%";
-      if (label) label.textContent = stats.done + " / " + stats.total + " read";
-      document.querySelectorAll(".topic-link[data-topic-num]").forEach(function (a) {
-        if (window.AgoraProgress.isDone(courseSlug, a.getAttribute("data-topic-num"))) {
-          a.classList.add("is-done");
-        }
-      });
+      function renderCourseProgress() {
+        var stats = window.AgoraProgress.courseStats(courseSlug, total);
+        if (fill) fill.style.width = stats.pct + "%";
+        if (label) label.textContent = stats.done + " / " + stats.total + " read";
+        document.querySelectorAll(".topic-link[data-topic-num]").forEach(function (a) {
+          a.classList.toggle("is-done", window.AgoraProgress.isDone(courseSlug, a.getAttribute("data-topic-num")));
+        });
+      }
+      renderCourseProgress();
+
+      var resetBtn = document.querySelector("[data-reset-course]");
+      if (resetBtn) {
+        resetBtn.addEventListener("click", function () {
+          if (!window.confirm("Reset your reading progress for this course? This can't be undone.")) return;
+          window.AgoraProgress.resetCourse(courseSlug);
+          renderCourseProgress();
+        });
+      }
     }
 
     /* ---- landing page: paint live per-browser progress on course rows,
