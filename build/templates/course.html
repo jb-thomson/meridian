@@ -10,7 +10,10 @@
   <div class="progress-track"></div>
   <div data-course-progress="{{ course.slug }}" data-total="{{ course.total_topics }}">
     <div class="progress-track"><div class="progress-fill" style="width:0%"></div></div>
-    <span class="progress-line ui-font progress-label" style="font-size:.8rem;color:var(--ink-soft);">Loading progress…</span>
+    <div class="progress-meta-row">
+      <span class="progress-line ui-font progress-label" style="font-size:.8rem;color:var(--ink-soft);">Loading progress…</span>
+      <button class="progress-reset" type="button" data-reset-course="{{ course.slug }}">Reset progress</button>
+    </div>
   </div>
 </div>
 
