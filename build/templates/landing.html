@@ -41,18 +41,26 @@
 <p class="landing-list-label" id="courses">Courses</p>
 <div class="landing-list">
   {% for c in courses %}
-  <a class="landing-row reveal" href="courses/{{ c.slug }}/index.html" style="--card-color:{{ c.color }}; --i:{{ loop.index0 }};">
+  {% set pct = (0 if c.completed_topics == 0 else (100 if c.completed_topics == c.total_topics else ((c.completed_topics / c.total_topics * 100) | round | int))) %}
+  <a class="landing-row reveal" href="courses/{{ c.slug }}/index.html" style="--card-color:{{ c.color }}; --i:{{ loop.index0 }};" data-card-progress="{{ c.slug }}" data-total="{{ c.total_topics }}">
     <span class="landing-text">
       <p class="landing-name">{{ c.name }}</p>
       <p class="landing-tag">{{ c.tagline }}</p>
     </span>
     {% if c.completed_topics == 0 %}
-    <span class="landing-meta soon" data-card-progress="{{ c.slug }}" data-total="{{ c.total_topics }}">Coming soon</span>
+    <span class="landing-meta soon">Coming soon</span>
     {% elif c.completed_topics == c.total_topics %}
-    <span class="landing-meta ready" data-card-progress="{{ c.slug }}" data-total="{{ c.total_topics }}">{{ c.total_topics }} readings</span>
+    <span class="landing-meta ready">{{ c.total_topics }} readings</span>
     {% else %}
-    <span class="landing-meta ready" data-card-progress="{{ c.slug }}" data-total="{{ c.total_topics }}">{{ c.completed_topics }} of {{ c.total_topics }} ready</span>
+    <span class="landing-meta ready">{{ c.completed_topics }} of {{ c.total_topics }} ready</span>
     {% endif %}
+    <span class="landing-progress">
+      <span class="landing-progress-row">
+        <span class="landing-progress-label">{{ "Coming soon" if c.completed_topics == 0 else (c.completed_topics|string + " of " + c.total_topics|string + " read") }}</span>
+        <span class="landing-progress-pct">{{ pct }}%</span>
+      </span>
+      <span class="landing-bar"><span class="landing-bar-fill" style="width:{{ pct }}%;"></span></span>
+    </span>
   </a>
   {% endfor %}
 </div>

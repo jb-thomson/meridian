@@ -180,6 +180,26 @@ main.container.with-sidebar { max-width: var(--max-width); }
 .landing-meta { font-family: 'Archivo', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em; text-align: right; white-space: nowrap; }
 .landing-meta.ready { color: var(--card-color, var(--accent)); }
 .landing-meta.soon { color: var(--ink-soft); font-weight: 600; text-transform: none; }
+.landing-progress { display: none; }
+
+/* Phone layout for the course list: full-width stacked cards with a
+   progress bar, instead of the desktop's side-by-side row with a plain
+   status line. Desktop (above 640px) is untouched. */
+@media (max-width: 640px) {
+  .landing-list { display: flex; flex-direction: column; gap: 10px; padding: 4px 0 32px; }
+  .landing-row {
+    display: block; grid-template-columns: none; padding: 14px 16px; gap: 0;
+    background: var(--paper-raised); border: 1px solid var(--line); border-radius: 14px;
+  }
+  .landing-name { font-size: 1.02rem; }
+  .landing-tag { margin-bottom: 10px; }
+  .landing-meta { display: none; }
+  .landing-progress { display: flex; flex-direction: column; gap: 5px; }
+  .landing-progress-row { display: flex; justify-content: space-between; align-items: baseline; font-family: 'Archivo', sans-serif; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.03em; color: var(--ink-soft); }
+  .landing-progress-pct { color: var(--card-color, var(--accent)); font-variant-numeric: tabular-nums; }
+  .landing-bar { display: block; height: 5px; border-radius: 999px; background: var(--line); overflow: hidden; }
+  .landing-bar-fill { display: block; height: 100%; border-radius: 999px; background: var(--card-color, var(--accent)); transition: width .4s ease; }
+}
 
 /* ---------- Progress bar ---------- */
 .progress-track { background: var(--line); border-radius: 999px; height: 7px; overflow: hidden; margin: 6px 0; }
