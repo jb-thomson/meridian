@@ -268,14 +268,20 @@
     document.querySelectorAll("[data-card-progress]").forEach(function (row) {
       var courseSlug = row.getAttribute("data-card-progress");
       var total = parseInt(row.getAttribute("data-total"), 10);
+      var published = parseInt(row.getAttribute("data-published"), 10) || 0;
       var stats = window.AgoraProgress.courseStats(courseSlug, total);
       var pct = stats.total ? Math.round((stats.done / stats.total) * 100) : 0;
+
+      // "Coming soon" only ever describes whether readings have been
+      // published for this course (a build-time fact) - never whether
+      // this particular browser has personally read any of them yet.
+      if (published === 0) return;
 
       var meta = row.querySelector(".landing-meta");
       if (meta) meta.textContent = stats.done + " of " + stats.total + " readings completed in this browser";
 
       var label = row.querySelector(".landing-progress-label");
-      if (label) label.textContent = stats.done === 0 ? "Coming soon" : stats.done + " of " + stats.total + " read";
+      if (label) label.textContent = stats.done + " of " + stats.total + " read";
       var pctEl = row.querySelector(".landing-progress-pct");
       if (pctEl) pctEl.textContent = pct + "%";
       var fill = row.querySelector(".landing-bar-fill");
