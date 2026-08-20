@@ -79,7 +79,7 @@
     },
     {
       "type": "paragraph",
-      "text": "So far, this unit has treated maps and geographic data as neutral tools for understanding the world: here is where things are, here is how a variable is distributed. But maps and data are made by people, and people make choices, what data to include, how to draw boundaries, which colors and scales to use, and those choices can shape how a viewer understands, judges, or even votes about a place. Sometimes this happens by accident. Sometimes it is entirely intentional."
+      "text": "So far, this unit has treated maps as neutral tools: here is where things are, here is how a variable is spread out. But maps are made by people, and people make choices, what data to include, how to draw boundaries, which colors to use. Those choices can shape how a viewer understands, judges, or even votes about a place. Sometimes that happens by accident. Sometimes it is entirely intentional."
     },
     {
       "type": "image",
@@ -91,7 +91,7 @@
     },
     {
       "type": "paragraph",
-      "text": "The single clearest example of this power, and one the AP exam returns to repeatedly, is **gerrymandering**: drawing electoral district boundaries to favor a specific political party or group rather than to reflect neutral criteria like equal population or compact, sensible shapes."
+      "text": "The clearest example of this power, and one the AP exam returns to often, is **gerrymandering**: drawing electoral district boundaries to favor one political party or group instead of using neutral criteria like equal population or sensible shapes."
     },
     {
       "type": "heading",
@@ -99,23 +99,23 @@
     },
     {
       "type": "paragraph",
-      "text": "Gerrymandering relies on two core strategies, and understanding both is essential for the exam. **Packing** concentrates voters of one party into as few districts as possible. Imagine an opposition party's voters are spread across a city; instead of letting them naturally form a majority across several districts, mapmakers draw one oddly shaped district that combines nearly all of them together. That party might win that single packed district by an overwhelming 90 percent margin, but every vote beyond the 51 percent needed to win is effectively wasted, since it could have contributed to winning additional districts elsewhere instead."
+      "text": "Gerrymandering relies on two core strategies. **Packing** concentrates voters of one party into as few districts as possible. Say an opposition party's voters are spread across a city. Instead of letting them naturally win several districts, mapmakers draw one oddly shaped district that combines nearly all of them. That party might win the packed district with a huge 90 percent margin, but every vote past the 51 percent needed to win is wasted, votes that could have won other districts instead."
     },
     {
       "type": "paragraph",
-      "text": "**Cracking** works in the opposite direction: instead of concentrating opposition voters, it splits them apart, dividing a concentrated group across several different districts, each of which also contains a larger number of the favored party's voters. In every cracked district, the opposition group remains a minority, unable to win a single seat, even though their total numbers across the whole region might be substantial."
+      "text": "**Cracking** works the opposite way: instead of concentrating opposition voters, it splits them apart across several districts, each also holding more of the favored party's voters. In every cracked district, the opposition stays a minority and cannot win a single seat, even if their total numbers across the region are large."
     },
     {
       "type": "apTip",
-      "text": "Packing and cracking are frequently tested as a matching pair. If a question describes voters being concentrated into one oddly shaped district that wins by a landslide, that is packing. If it describes a group being split apart so it loses everywhere, that is cracking. Learn both terms together, since exam questions often ask you to distinguish one from the other using a specific map or scenario."
+      "text": "Packing and cracking are often tested as a pair. If a question describes voters concentrated into one oddly shaped district that wins by a landslide, that is packing. If it describes a group split apart so it loses everywhere, that is cracking. Learn both terms together, since exam questions often ask you to tell them apart using a map or scenario."
     },
     {
       "type": "funFact",
-      "text": "The term \"gerrymander\" comes from Massachusetts Governor Elbridge Gerry, who in 1812 signed off on a state senate district so oddly shaped that a newspaper cartoonist compared its outline to a salamander. The word \"gerrymander\" is a blend of Gerry's name and \"salamander,\" and the practice it describes has continued in American politics for over two centuries since."
+      "text": "The term \"gerrymander\" comes from Massachusetts Governor Elbridge Gerry, who in 1812 signed off on a state senate district so oddly shaped a newspaper cartoonist compared it to a salamander. \"Gerrymander\" blends Gerry's name with \"salamander,\" and the practice has continued in American politics for over two centuries."
     },
     {
       "type": "paragraph",
-      "text": "Gerrymandering typically happens during **redistricting**, the formal process of redrawing electoral district boundaries, which in the United States is legally required after each national census to reflect population changes. Redistricting itself is a normal, necessary process. Gerrymandering is what happens when whichever party controls that process uses it to draw lines strategically for partisan advantage rather than neutral, population-based criteria."
+      "text": "Gerrymandering usually happens during **redistricting**, the formal process of redrawing district boundaries, required by law after each national census to reflect population changes. Redistricting itself is normal and necessary. Gerrymandering is what happens when whoever controls that process draws lines for partisan advantage instead of neutral, population-based criteria."
     },
     {
       "type": "heading",
@@ -123,15 +123,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Gerrymandering is a political application of a broader, more general geographic problem called the **Modifiable Areal Unit Problem**, usually abbreviated **MAUP**. MAUP describes a genuine statistical and cartographic challenge: the exact same underlying spatial data can produce different, sometimes contradictory, apparent patterns depending purely on how the boundaries used to group that data are drawn."
+      "text": "Gerrymandering is one example of a bigger geography problem called the **Modifiable Areal Unit Problem**, or **MAUP**. MAUP is the fact that the exact same underlying data can show different, even contradictory, patterns depending only on how the boundaries used to group that data are drawn."
     },
     {
       "type": "paragraph",
-      "text": "Consider a city's crime data. If that data is grouped by a small number of very large districts, crime might appear roughly evenly distributed across the whole city, since a few high-crime blocks get averaged together with many low-crime blocks inside each large district. If the exact same underlying data is instead grouped by many small units, individual blocks, sharp clustering might suddenly become visible: crime concentrated in a handful of specific locations, invisible in the large-district version of the same map. No data changed. Only the boundaries changed, and the apparent pattern changed along with them."
+      "text": "Take a city's crime data. Grouped by a few large districts, crime might look evenly spread across the city, since high-crime blocks get averaged together with low-crime blocks. Grouped by many small units, like individual blocks, sharp clustering might suddenly appear: crime concentrated in a few specific spots, invisible in the large-district version. No data changed. Only the boundaries changed, and the pattern changed with them."
     },
     {
       "type": "apTip",
-      "text": "MAUP is a favorite concept for free-response questions because it directly connects to gerrymandering: both show that boundary choice is never a neutral technical detail. If a prompt asks you to explain why the same data can support two different conclusions, MAUP is very likely the concept being tested, even if the question does not use that exact term."
+      "text": "MAUP is a favorite concept for free-response questions because it connects directly to gerrymandering: both show boundary choice is never a neutral detail. If a prompt asks why the same data can support two different conclusions, MAUP is very likely the concept being tested, even if the question does not use that exact term."
     },
     {
       "type": "heading",
@@ -139,7 +139,7 @@
     },
     {
       "type": "paragraph",
-      "text": "None of this means maps and data cannot be trusted. It means they need to be read critically, the same way a careful reader questions the source and framing of a written argument. A useful habit, whenever you encounter a map or a data visualization, is to ask: who made this, what choices did they make about boundaries, scale, and color, and could a different, equally honest set of choices have told a different story using the exact same underlying data? This is not cynicism. It is the specific analytical skill this unit is building toward, since nearly every map you will analyze for the rest of this course was made by someone who made choices, and understanding those choices is part of understanding the map itself."
+      "text": "None of this means maps and data cannot be trusted. It means they need to be read critically, the same way a careful reader questions the source of a written argument. A useful habit: whenever you see a map or data visualization, ask who made it, what choices they made about boundaries, scale, and color, and whether a different, equally honest set of choices could tell a different story with the same data. That is not cynicism. It is the exact skill this unit is building, since nearly every map you analyze in this course was made by someone who made choices, and understanding those choices is part of understanding the map."
     }
   ],
   "videoResources": [
