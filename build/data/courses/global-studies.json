@@ -3,7 +3,7 @@
   "name": "Global Studies",
   "shortName": "Global Studies",
   "isAP": false,
-  "tagline": "Two semesters, 68 sections across 5 units, 1750 to the present",
+  "tagline": "Two semesters, 66 sections across 5 units, 1750 to the present",
   "color": "#8a6d1f",
   "assessmentTypes": [
     "mcq",
@@ -108,14 +108,12 @@
         { "num": "5.3", "title": "Technology and Communication: The Internet and the Connected World" },
         { "num": "5.4", "title": "Migration and Diaspora: People on the Move in a Globalized World" },
         { "num": "5.5", "title": "Political Challenges: Failed States, Terrorism, and 9/11" },
-        { "num": "5.6", "title": "Religious Fundamentalism and Cultural Resistance to Globalization" },
-        { "num": "5.7", "title": "Human Rights: International Law, the ICC, and Violations" },
-        { "num": "5.8", "title": "Global Inequality: Development, Poverty, and the Global South" },
-        { "num": "5.9", "title": "Environmental Crisis: Climate Change, Deforestation, and Global Response" },
-        { "num": "5.10", "title": "China's Rise: Economic Power and Global Influence" },
-        { "num": "5.11", "title": "The Arab Spring and Political Change in the Middle East" },
-        { "num": "5.12", "title": "Populism, Nationalism, and Challenges to the Liberal World Order" },
-        { "num": "5.13", "title": "The World Today: Continuity, Change, and Global Citizenship" }
+        { "num": "5.6", "title": "Human Rights: International Law, the ICC, and Violations" },
+        { "num": "5.7", "title": "Global Inequality: Development, Poverty, and the Global South" },
+        { "num": "5.8", "title": "Environmental Crisis: Climate Change, Deforestation, and Global Response" },
+        { "num": "5.9", "title": "China's Rise and Shifting Global Power" },
+        { "num": "5.10", "title": "The Arab Spring, Populism, and Challenges to the Liberal World Order" },
+        { "num": "5.11", "title": "The World Today: Continuity, Change, and Global Citizenship" }
       ]
     }
   ],
