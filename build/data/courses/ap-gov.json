@@ -13,11 +13,15 @@
     "Declaration of Independence",
     "Articles of Confederation",
     "Federalist No. 10",
+    "Federalist No. 39",
     "Federalist No. 51",
     "Brutus No. 1",
     "The U.S. Constitution",
     "Federalist No. 70",
     "Federalist No. 78",
+    "The Gettysburg Address",
+    "The Emancipation Proclamation",
+    "Core Principles from Adam Smith's \"The Wealth of Nations\"",
     "\"Letter from a Birmingham Jail\""
   ],
   "requiredCases": [
@@ -51,11 +55,11 @@
         },
         {
           "num": "1.3",
-          "title": "Federalist No. 10 and Brutus No. 1"
+          "title": "Challenges of the Articles of Confederation"
         },
         {
           "num": "1.4",
-          "title": "Challenges of the Articles of Confederation"
+          "title": "Federalist No. 10 and Brutus No. 1"
         },
         {
           "num": "1.5",

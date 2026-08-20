@@ -89,7 +89,7 @@
   <ul class="vocab-list">
     {% for v in topic.vocabulary %}
     <li class="vocab-item">
-      <button class="vocab-term-btn" type="button">{{ v.term|md }}<span class="plus">+</span></button>
+      <button class="vocab-term-btn" type="button">{{ v.term|md }}<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
       <div class="vocab-body-wrap">
         <div class="vocab-def">
           <span class="vocab-extra-label">Definition:</span> {{ v.definition|md }}
@@ -133,9 +133,14 @@
       {% if not b.src %}<div class="ai-pending-note">Image not yet generated for this build.</div>{% endif %}
     </figcaption>
   </figure>
+    {% elif b.type == 'siteNote' %}
+  <div class="info-box site-note">
+    <div class="info-box-label">🗒️ A Note on Ordering</div>
+    <div class="info-box-body">{{ b.text|md }}</div>
+  </div>
     {% elif b.type == 'documentExcerpt' %}
   <div class="expand-item doc-excerpt">
-    <button class="expand-toggle" type="button">📜 Required Document: {{ b.document }}{% if b.citation %} ({{ b.citation }}){% endif %}<span class="plus">+</span></button>
+    <button class="expand-toggle" type="button">📜 Required Document: {{ b.document }}{% if b.citation %} ({{ b.citation }}){% endif %}<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
     <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">
       <blockquote class="doc-excerpt-quote">{{ b.excerpt|md }}</blockquote>
       {% if b.fullTextUrl %}<a class="doc-excerpt-link" href="{{ b.fullTextUrl }}" target="_blank" rel="noopener">Read the full text →</a>{% endif %}
@@ -261,7 +266,7 @@
   <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
     {% for q in topic.multipleChoice %}
     <div class="mcq" data-correct="{{ q.correctIndex }}">
-      <button class="mcq-header" type="button">Question {{ loop.index }}<span class="plus">+</span></button>
+      <button class="mcq-header" type="button">Question {{ loop.index }}<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
       <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
         {% if q.stimulus %}<div class="mcq-stimulus">{{ q.stimulus|md }}</div>{% endif %}
         <div class="mcq-q">{{ q.question|md }}</div>
@@ -296,14 +301,14 @@
           <p class="saq-part-label">{{ part.label }}</p>
           <p class="saq-task">{{ part.task|md }}</p>
           <div class="expand-item">
-            <button class="expand-toggle" type="button">Show sample answer<span class="plus">+</span></button>
+            <button class="expand-toggle" type="button">Show sample answer<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
             <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ part.sampleAnswer|md }}</div></div></div>
           </div>
         </div>
         {% endfor %}
       {% elif e.sampleAnswer or e.thesisExample or e.outline %}
       <div class="expand-item">
-        <button class="expand-toggle" type="button">Show model response<span class="plus">+</span></button>
+        <button class="expand-toggle" type="button">Show model response<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
         <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">
           {% if e.thesisExample %}<p><strong class="ui-font">{{ e.thesisExample|md }}</strong></p>{% endif %}
           {% if e.outline %}
@@ -334,7 +339,7 @@
         <p class="saq-part-label">{{ part.label }}</p>
         <p class="saq-task">{{ part.task|md }}</p>
         <div class="expand-item">
-          <button class="expand-toggle" type="button">Show sample answer<span class="plus">+</span></button>
+          <button class="expand-toggle" type="button">Show sample answer<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
           <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ part.sampleAnswer|md }}</div></div></div>
         </div>
       </div>
@@ -344,7 +349,7 @@
     <div class="frq-block" style="margin:0;border:none;padding:0;">
       <div class="frq-prompt">{{ topic.saq.prompt|md }}</div>
       <div class="expand-item">
-        <button class="expand-toggle" type="button">Show sample answer<span class="plus">+</span></button>
+        <button class="expand-toggle" type="button">Show sample answer<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
         <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ topic.saq.sampleAnswer|md }}</div></div></div>
       </div>
     </div>
@@ -362,7 +367,7 @@
       <div class="frq-prompt">{{ topic.leq.prompt|md }}</div>
       {% if topic.leq.note %}<p class="hint">{{ topic.leq.note|md }}</p>{% endif %}
       <div class="expand-item">
-        <button class="expand-toggle" type="button">Show thesis example &amp; essay outline<span class="plus">+</span></button>
+        <button class="expand-toggle" type="button">Show thesis example &amp; essay outline<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
         <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">
           {% if topic.leq.thesisExample %}<p><strong class="ui-font">{{ topic.leq.thesisExample|md }}</strong></p>{% endif %}
           <ul class="leq-outline">
@@ -375,7 +380,7 @@
     <div class="frq-block" style="margin:0;border:none;padding:0;">
       <div class="frq-prompt">{{ topic.leq.prompt|md }}</div>
       <div class="expand-item">
-        <button class="expand-toggle" type="button">Show model thesis<span class="plus">+</span></button>
+        <button class="expand-toggle" type="button">Show model thesis<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
         <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ topic.leq.modelThesis|md }}</div></div></div>
       </div>
     </div>
@@ -390,7 +395,7 @@
   <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
     {% for dq in topic.discussionQuestions %}
     <div class="expand-item">
-      <button class="expand-toggle" type="button">{{ dq.question|md }}<span class="plus">+</span></button>
+      <button class="expand-toggle" type="button">{{ dq.question|md }}<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
       <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body"><strong class="ui-font">Model answer:</strong> {{ dq.modelAnswer|md }}</div></div></div>
     </div>
     {% endfor %}
@@ -405,7 +410,7 @@
   <span class="frq-type-label">{{ e.type }}</span>
   <div class="frq-prompt">{{ e.prompt|md }}</div>
   <div class="expand-item">
-    <button class="expand-toggle" type="button">Show model response<span class="plus">+</span></button>
+    <button class="expand-toggle" type="button">Show model response<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
     <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ e.modelAnswer|md }}</div></div></div>
   </div>
 </div>
@@ -417,7 +422,7 @@
 <div class="frq-block practice-block">
   <div class="frq-prompt">{{ topic.frq.prompt|md }}</div>
   <div class="expand-item">
-    <button class="expand-toggle" type="button">Show model response<span class="plus">+</span></button>
+    <button class="expand-toggle" type="button">Show model response<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
     <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">{{ topic.frq.modelAnswer|md }}</div></div></div>
   </div>
 </div>
