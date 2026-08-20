@@ -539,7 +539,7 @@ footer.site-footer a { color: var(--ink-soft); }
 html.js-anim .reveal {
   opacity: 0;
   transform: translateY(14px);
-  transition: opacity .6s ease, transform .6s ease;
+  transition: opacity .4s ease, transform .4s ease;
 }
 html.js-anim .reveal.in-view {
   opacity: 1;
