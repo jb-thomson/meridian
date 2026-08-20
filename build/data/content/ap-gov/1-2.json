@@ -50,12 +50,6 @@
       "definition": "A system in which citizens vote directly on laws themselves, without elected representatives acting as intermediaries.",
       "importance": "The purest theoretical form of participatory democracy; the U.S. uses it only in narrow cases like state ballot initiatives, not at the national level.",
       "example": "Ancient Athens, where eligible citizens voted directly on laws in a public assembly."
-    },
-    {
-      "term": "Iron Triangle",
-      "definition": "A stable, mutually beneficial relationship among a congressional committee, a federal agency, and an interest group, all working in the same policy area.",
-      "importance": "A pluralist-theory concept showing how organized groups gain durable, ongoing influence over specific policy areas, not just single votes.",
-      "example": "Defense contractors, the House Armed Services Committee, and the Department of Defense repeatedly working together on military spending bills."
     }
   ],
   "preTest": [
@@ -99,11 +93,11 @@
     },
     {
       "type": "paragraph",
-      "text": "Participatory democracy holds that democratic legitimacy comes from broad, direct citizen engagement, not just voting for representatives every few years, but actively showing up: town meetings, protests, grassroots organizing, and direct votes on specific laws."
+      "text": "Topic 1.1 defined participatory democracy as broad, direct citizen engagement, not just voting for representatives every few years, but actively showing up: town meetings, protests, grassroots organizing, and direct votes on specific laws. Here is where that shows up in real American institutions."
     },
     {
       "type": "paragraph",
-      "text": "The clearest American example is the **ballot initiative**, used in roughly half of U.S. states. Instead of waiting for the state legislature to act, citizens who gather enough signatures can place a proposed law or constitutional amendment directly on the ballot for a public vote. This is about as close to **direct democracy** as the American system gets at scale; the classical model comes from ancient Athens, where eligible citizens voted on laws directly in a public assembly, though it is worth noting that \"eligible citizens\" in Athens excluded women, enslaved people, and foreign residents, a small fraction of the population that actually held any voice."
+      "text": "The clearest example is the **ballot initiative**, used in roughly half of U.S. states. Instead of waiting for the state legislature to act, citizens who gather enough signatures can place a proposed law or constitutional amendment directly on the ballot for a public vote. This is about as close to **direct democracy** as the American system gets at scale; the classical model comes from ancient Athens, where eligible citizens voted on laws directly in a public assembly, though it is worth noting that \"eligible citizens\" in Athens excluded women, enslaved people, and foreign residents, a small fraction of the population that actually held any voice."
     },
     {
       "type": "funFact",
@@ -115,15 +109,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Pluralist democracy assumes that individuals rarely move government policy on their own. Instead, people join **interest groups**, organizations built around a shared policy goal, and those groups compete with each other for influence. Government's role, in this model, is less about representing \"the people\" as a single unit and more about refereeing fairly among the many organized groups all pushing in different directions."
+      "text": "Topic 1.1 defined pluralist democracy around **interest groups**: organizations built around a shared policy goal that compete with each other for influence, with government acting less like the representative of a single \"public\" and more like a referee among many organized groups pushing in different directions. In practice, this competition is rarely one-sided."
     },
     {
       "type": "paragraph",
-      "text": "A useful pluralist concept for the exam is the **iron triangle**: a stable, ongoing relationship among a congressional committee, a federal agency, and an interest group, all operating in the same narrow policy area, and all benefiting from working together over time. A classic example pairs defense contractors, the House Armed Services Committee, and the Department of Defense, three actors with a shared interest in sustained military spending, each reinforcing the others' influence year after year."
+      "text": "A single bill often draws several interest groups at once, each trying to shape the outcome from a different angle. A farm bill might see agribusiness associations pushing for subsidies, environmental groups pushing for conservation requirements, and consumer advocacy groups pushing for food-safety rules, all lobbying the same committee on the same legislation at the same time. Pluralist theory holds that this competition, not any single group's dominance, is what pluralist democracy actually looks like in practice."
     },
     {
       "type": "apTip",
-      "text": "Iron triangles show up constantly in released FRQs about interest groups and bureaucracy. If a prompt describes an agency, a committee, and a group all repeatedly cooperating on the same issue, that is your cue: this is pluralist theory in action, and \"iron triangle\" is the term the rubric is looking for."
+      "text": "If a prompt describes two or more organized groups actively competing to influence the same policy decision, that is your cue: this is pluralist theory in action. Name the specific groups from the scenario and explain what each one wants, rather than just writing \"interest groups were involved.\""
     },
     {
       "type": "heading",
@@ -131,11 +125,11 @@
     },
     {
       "type": "paragraph",
-      "text": "Elite democracy holds that most citizens lack the time, information, or specialized expertise to make good policy decisions directly, so government works best when capable, often more educated or experienced, representatives make decisions on the public's behalf, with popular control limited mostly to choosing those representatives."
+      "text": "Topic 1.1 defined elite democracy as government run mostly by capable, often more educated or experienced, representatives, with popular control limited mostly to choosing them. Here is where that design shows up most clearly in practice."
     },
     {
       "type": "paragraph",
-      "text": "The single clearest elite-theory institution in American government is the **Electoral College**. Rather than electing the president through a direct national popular vote, the Constitution created a body of electors, apportioned by state, to make the final selection. This design deliberately inserts a layer of intermediaries between ordinary voters and the actual choice of president. It has real consequences: in both 2000 and 2016, a candidate won the presidency while losing the national popular vote, an outcome that is structurally impossible under a pure participatory model but entirely consistent with elite democratic design."
+      "text": "The single clearest elite-theory institution in American government is the **Electoral College**. Rather than electing the president through a direct national popular vote, the Constitution created a body of electors, apportioned by state, to make the final selection. This design deliberately inserts a layer of intermediaries between ordinary voters and the actual choice of president. It has real consequences: in 2000, George W. Bush won the presidency while losing the national popular vote to Al Gore, and in 2016, Donald Trump won the presidency while losing the national popular vote to Hillary Clinton. Both outcomes are structurally impossible under a pure participatory model but entirely consistent with elite democratic design."
     },
     {
       "type": "paragraph",
@@ -202,15 +196,15 @@
       "explanation": "Lifetime tenure exists precisely to remove electoral accountability from judges so their legal judgment is not swayed by momentary public opinion, the core logic of elite democratic design. (A) misdescribes what judges actually do. (B) describes a possible effect of judicial rulings, not the reason for lifetime tenure. (D) is factually incorrect for federal judges, who are appointed, not elected."
     },
     {
-      "question": "An \"iron triangle\" describes a stable relationship among which three actors?",
+      "question": "A national teachers' union and a school-choice advocacy group both spend heavily on ads and lobbying while a state legislature debates a school funding bill. This scenario is the clearest example of which democratic theory?",
       "options": [
-        "The president, the Senate, and the Supreme Court",
-        "A congressional committee, a federal agency, and an interest group",
-        "A state, its citizens, and the federal government",
-        "A political party, its voters, and its donors"
+        "Elite democracy",
+        "Pluralist democracy",
+        "Direct democracy",
+        "Divine right theory"
       ],
       "correctIndex": 1,
-      "explanation": "An iron triangle specifically refers to the durable, mutually reinforcing relationship among a congressional committee, the federal agency it oversees, and an interest group active in that same policy area. (A) describes separation of powers among the three branches, an unrelated concept. (C) and (D) describe other real political relationships, but neither is what \"iron triangle\" refers to."
+      "explanation": "Two organized groups actively competing to influence the same piece of legislation is the defining mechanism of pluralist democracy. (A) would instead emphasize a small group of insulated decision-makers, not competing outside groups. (C) would require citizens voting directly on the bill itself. (D) is not a democratic theory at all."
     },
     {
       "question": "The Seventeenth Amendment (1913), which replaced state legislature selection of U.S. senators with direct popular election, represents a shift",
@@ -222,6 +216,28 @@
       ],
       "correctIndex": 1,
       "explanation": "Removing state legislatures (an elite-style intermediary) and letting voters choose senators directly moved the Senate toward participatory democratic design. (A) reverses the direction of the change. (C) misidentifies the theories involved; this change is about elite versus participatory design, not pluralist versus direct. (D) is unrelated; this amendment did not change the federal-state division of power itself."
+    },
+    {
+      "question": "Which of the following is the clearest real-world example of participatory democracy?",
+      "options": [
+        "Lifetime tenure for federal judges",
+        "A state ballot initiative letting citizens vote directly on a proposed law",
+        "The Electoral College",
+        "A congressional committee holding closed hearings with industry lobbyists"
+      ],
+      "correctIndex": 1,
+      "explanation": "A ballot initiative lets ordinary citizens make policy directly, the clearest form of participatory democracy among these options. (A) and (C) are elite-theory institutions. (D) illustrates pluralist theory, since it centers on organized group access rather than direct citizen votes."
+    },
+    {
+      "question": "A political theorist argues that democracy works best when specialized, largely unelected decision-makers are shielded from short-term public opinion. Which existing American institution would this theorist most likely point to as a model?",
+      "options": [
+        "Statewide ballot initiatives",
+        "Direct primaries for choosing party nominees",
+        "Lifetime tenure for federal judges",
+        "New England town meetings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lifetime judicial tenure exists specifically to insulate decision-makers from electoral and public-opinion pressure, matching this theorist's elite-democratic reasoning. (A), (B), and (D) are all participatory institutions that increase, not shield against, direct public influence."
     }
   ],
   "discussionQuestions": [
@@ -249,23 +265,23 @@
   "examFrqs": [
     {
       "type": "Concept Application",
-      "context": "A national environmental organization, the House Energy Committee, and the Environmental Protection Agency have worked together for years on the same set of clean-air rules. Committee members get campaign help and policy expertise from the group, the agency gets political cover for its regulations, and the group gets access when rules are written.",
+      "context": "A state legislature is debating a bill on new charter schools. A teachers' union runs ads opposing the bill and lobbies committee members directly. A charter-school advocacy group, funded partly by parents and partly by outside donors, runs its own ad campaign supporting the bill and organizes parents to testify at hearings.",
       "directions": "Respond to parts A, B, and C.",
       "parts": [
         {
           "label": "A",
-          "task": "Describe the model of democracy best illustrated by this relationship.",
-          "sampleAnswer": "This relationship illustrates pluralist democracy, because organized groups, a congressional committee, and an agency bargain over policy rather than ordinary citizens making the decision directly."
+          "task": "Describe the model of democracy best illustrated by this scenario.",
+          "sampleAnswer": "This scenario illustrates pluralist democracy, because two organized interest groups with opposing goals are competing to influence the same piece of legislation, rather than ordinary citizens deciding the outcome directly."
         },
         {
           "label": "B",
-          "task": "Explain how this relationship can both support and undermine democratic legitimacy.",
-          "sampleAnswer": "It can support legitimacy by giving organized interests a regular way to be heard, which pluralists treat as healthy. It can undermine legitimacy if the same three players lock others out, so policy reflects a narrow iron triangle rather than a broader public."
+          "task": "Explain how this competition can both support and undermine democratic legitimacy.",
+          "sampleAnswer": "It can support legitimacy by giving both sides of a genuine policy disagreement an organized way to be heard, which pluralists treat as healthy competition. It can undermine legitimacy if one group has far more money or access than the other, so the louder or better-funded side wins regardless of which position has broader public support."
         },
         {
           "label": "C",
           "task": "Explain one way a participatory democrat would want this process changed.",
-          "sampleAnswer": "A participatory democrat would want more direct public involvement, such as open comment hearings that actually shape the rule, a ballot referendum on the policy, or weaker insider access so ordinary citizens, not just organized groups, drive the outcome."
+          "sampleAnswer": "A participatory democrat would want more direct public involvement beyond the two organized groups, such as a local ballot referendum letting all residents vote on the charter-school proposal directly, rather than leaving the outcome to whichever interest group lobbies most effectively."
         }
       ]
     },

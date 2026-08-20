@@ -99,19 +99,19 @@
     },
     {
       "type": "paragraph",
-      "text": "Several structural flaws combined to cripple the national government under the Articles. Congress had **no power to tax** directly; it could only request money from the states, which routinely refused, delayed, or paid only a fraction of what was asked. This left the young nation unable to pay its Revolutionary War debts or reliably fund an army."
+      "text": "Under the Articles, the national government was just a single-chamber Congress. There was no separate branch of any kind: **no president or executive branch** to enforce the laws Congress passed, and **no national court system** to resolve disputes between states or interpret national law consistently. On top of that missing structure, Congress itself had almost no real power: **no power to tax** directly, **no power to regulate interstate commerce**, and no way to fix any of it, since amending the Articles required **unanimous consent** from all thirteen state legislatures."
     },
     {
       "type": "paragraph",
-      "text": "The Articles also created **no separate executive branch** and **no national court system**. There was no president to enforce laws Congress passed and no federal judiciary to resolve disputes between states or interpret national law consistently. Major legislation required approval from nine of the thirteen states, a high bar that made it difficult to pass anything contentious, and amending the Articles themselves required **unanimous consent** from all thirteen state legislatures, meaning a single holdout state could block reform indefinitely. In 1781, a proposal to let Congress collect a small tax on imported goods failed for exactly this reason: every state but Rhode Island approved it."
+      "text": "These weaknesses were not five separate problems. They fed each other. Because Congress had no power to tax, it could not raise its own revenue, it could only request money from the states, which routinely refused, delayed, or paid only a fraction of what was asked. Because it had no independent revenue, it could not reliably pay the young nation's Revolutionary War debts, and it could not fund a real standing army of its own. That specific gap, no tax power leading directly to no army, is exactly what left the national government powerless a few years later when it actually needed force to respond to a crisis."
     },
     {
       "type": "apTip",
-      "text": "When an exam question asks you to \"explain a challenge faced by the government under the Articles of Confederation,\" always name the SPECIFIC weakness (no taxing power, no executive, unanimous consent to amend, no power over interstate commerce) rather than vaguely saying \"the government was too weak.\" Specificity is what separates full credit from partial credit on this learning objective."
+      "text": "When an exam question asks you to \"explain a challenge faced by the government under the Articles of Confederation,\" always name the SPECIFIC weakness (no taxing power, no executive, no national courts, unanimous consent to amend, no power over interstate commerce) rather than vaguely saying \"the government was too weak.\" For full credit on a question that asks you to explain a CONSEQUENCE of a weakness, trace the chain: no tax power meant no revenue, which meant no funded army, not just \"the government was weak so bad things happened.\""
     },
     {
       "type": "paragraph",
-      "text": "Finally, Congress had **no power to regulate interstate commerce**. States were free to tax goods coming from neighboring states as though they were foreign imports, and many did. New York, for example, taxed goods shipped in from New Jersey and Connecticut, provoking retaliation and deepening economic fragmentation at exactly the moment the young nation needed unified economic policy to recover from the war."
+      "text": "The lack of commerce power caused a similar chain reaction. Because Congress could not regulate trade between states, individual states were free to tax goods coming from their neighbors as though those goods were foreign imports, and many did. New York, for example, taxed goods shipped in from New Jersey and Connecticut, provoking retaliation and deepening economic fragmentation at exactly the moment the young nation needed unified economic policy to recover from the war. And because fixing any of this required unanimous consent, a single state with something to lose could block the fix. In 1781, a proposal to let Congress collect a small tax on imported goods, which would have addressed the taxing-power problem directly, failed for exactly this reason: every state but Rhode Island approved it."
     },
     {
       "type": "funFact",
@@ -181,6 +181,28 @@
       ],
       "correctIndex": 0,
       "explanation": "A single state, Rhode Island, blocking a widely supported reform is the clearest possible illustration of how the unanimous consent requirement made fixing the Articles nearly impossible. (B) is an example of the Confederation Congress functioning, not failing. (C) illustrates the lack of commerce power, a different weakness. (D) is a response to the Articles' weaknesses, not an illustration of the amendment problem itself."
+    },
+    {
+      "question": "Under the Articles of Confederation, the national government had no power to tax and could only request funds from the states. Which of the following was the most direct consequence of that specific weakness?",
+      "options": [
+        "Congress could not fund a standing army of its own",
+        "States lost the ability to regulate their own trade policies",
+        "The Northwest Ordinance was never passed",
+        "Amending the Articles required unanimous consent from all states"
+      ],
+      "correctIndex": 0,
+      "explanation": "Without independent tax revenue, Congress had no reliable way to pay for a national military, a direct cause-and-effect chain from no taxing power to no standing army. (B) describes a separate weakness (lack of commerce power) not caused by the taxing problem. (C) is factually wrong; the Northwest Ordinance did pass. (D) describes an unrelated structural rule about amendments, not a consequence of the taxing weakness."
+    },
+    {
+      "question": "Which of the following correctly identifies TWO separate branches of government that the Articles of Confederation failed to create?",
+      "options": [
+        "A national legislature and a national army",
+        "An executive branch and a national judiciary",
+        "A House of Representatives and a Senate",
+        "A state government and a local government"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Articles created only a single-chamber Congress; there was no president or executive branch to enforce laws and no federal court system to resolve disputes or interpret national law. (A) misdescribes the structure; the Articles did create a national legislature. (C) describes the later Constitution's bicameral Congress, not a missing feature of the Articles. (D) is unrelated to the missing federal branches."
     },
     {
       "question": "Shays' Rebellion most directly exposed which weakness of the national government under the Articles of Confederation?",
