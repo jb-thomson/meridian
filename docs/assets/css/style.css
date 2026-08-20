@@ -278,6 +278,8 @@ body.is-landing .landing-hero {
 /* ---------- Topic reading page ---------- */
 .topic-nav { display: flex; align-items: center; justify-content: space-between; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.82rem; padding: 12px 0; flex-wrap: wrap; }
 .topic-nav a { text-decoration: none; }
+.topic-nav-bottom { margin-top: 8px; border-top: 1px solid var(--line); }
+.nav-chevron { width: 13px; height: 13px; flex-shrink: 0; }
 
 .reading-head { padding: 6px 0 18px; }
 .reading-head .kicker { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--course-color); }
@@ -449,6 +451,11 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .expand-body-inner { overflow: hidden; }
 .expand-body { padding: 0 15px 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.88rem; color: var(--ink-soft); border-top: 1px solid var(--line); padding-top: 12px; margin-top: 2px; }
 
+.doc-excerpt { background: var(--accent-soft); border-color: color-mix(in srgb, var(--course-color, var(--accent)) 30%, var(--line)); }
+.doc-excerpt .expand-toggle { color: var(--course-color, var(--accent)); }
+.doc-excerpt-quote { margin: 0 0 10px; padding-left: 12px; border-left: 3px solid var(--course-color, var(--accent)); font-style: italic; color: var(--ink); }
+.doc-excerpt-link { display: inline-block; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.85rem; font-weight: 700; }
+
 /* MCQs — collapsed as plain headers by default; tap to reveal the full
    question + choices; correct answer/explanation stay hidden behind their
    own "Show Answer" control (or clicking a choice) so nothing is spoiled
@@ -512,7 +519,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .video-resource-meta { display: block; font-size: 0.78rem; color: var(--ink-soft); margin-top: 2px; }
 
 /* mark complete */
-.complete-row { display: flex; align-items: center; gap: 10px; padding: 20px 0; }
+.complete-row { display: flex; align-items: center; justify-content: center; gap: 10px; padding: 20px 0; }
 
 /* coming soon */
 .coming-soon-box { text-align: center; padding: 60px 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: var(--ink-soft); }

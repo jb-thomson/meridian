@@ -248,21 +248,33 @@
       document.querySelectorAll(".reveal").forEach(function (el) { io.observe(el); });
     }
 
-    /* ---- mark-as-complete toggle (per topic page) ---- */
-    var completeBtn = document.querySelector("[data-complete-course]");
-    if (completeBtn) {
-      var course = completeBtn.getAttribute("data-complete-course");
-      var num = completeBtn.getAttribute("data-complete-num");
-      function render() {
+    /* ---- mark-as-complete toggle (per topic page) ----
+       Two buttons exist on a reading (one above the text, one below the
+       practice questions), so every one matching this selector needs its
+       own click handler and needs to stay in sync with the others. ---- */
+    var completeBtns = document.querySelectorAll("[data-complete-course]");
+    if (completeBtns.length) {
+      var course = completeBtns[0].getAttribute("data-complete-course");
+      var num = completeBtns[0].getAttribute("data-complete-num");
+      function renderComplete() {
         var done = window.AgoraProgress.isDone(course, num);
-        completeBtn.textContent = done ? "✓ Marked as read" : "Mark as read";
-        completeBtn.classList.toggle("btn-primary", done);
-        completeBtn.title = done ? "Click to unmark as read" : "Click to mark as read";
+        completeBtns.forEach(function (btn) {
+          btn.textContent = done ? "✓ Marked as read" : "Mark as read";
+          btn.classList.toggle("btn-primary", done);
+          btn.title = done ? "Click to unmark as read" : "Click to mark as read";
+        });
       }
-      render();
-      completeBtn.addEventListener("click", function () {
-        window.AgoraProgress.setDone(course, num, !window.AgoraProgress.isDone(course, num));
-        render();
+      renderComplete();
+      completeBtns.forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          var nowDone = !window.AgoraProgress.isDone(course, num);
+          window.AgoraProgress.setDone(course, num, nowDone);
+          renderComplete();
+          var nextHref = btn.getAttribute("data-advance-next");
+          if (nowDone && nextHref) {
+            setTimeout(function () { window.location.href = nextHref; }, 500);
+          }
+        });
       });
     }
 

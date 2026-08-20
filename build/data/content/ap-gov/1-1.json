@@ -7,18 +7,18 @@
     {
       "icon": "🏛️",
       "label": "Political",
-      "tooltip": "The Founders drew on Enlightenment political philosophy to justify a break from monarchy and design a government based on the consent of the governed."
+      "tooltip": "The Founders drew on Enlightenment political philosophy, popular sovereignty, natural rights, republicanism, and limited government, to justify a break from monarchy and design a government based on the consent of the governed."
     }
   ],
   "tldr": [
-    "**Natural rights and the social contract:** Enlightenment thinkers like Locke argued that people are born with natural rights (life, liberty, property) and form governments by consent to protect those rights. If a government fails to protect them, the people may alter or replace it.",
-    "**Five conceptions of democracy:** Participatory democracy emphasizes broad citizen involvement, pluralist democracy emphasizes group competition for influence, and elite democracy emphasizes limited popular control run by educated, capable representatives. The U.S. system blends all three.",
-    "**Applying the theories:** Foundational documents and institutions can each be read through more than one democratic lens. Knowing which theory a given example supports, and why, is a core AP Gov skill."
+    "**Four linked ideas:** Natural rights (people have rights just by being human), the social contract (government exists because people consent to it, to protect those rights), popular sovereignty (the people are the ultimate source of government's authority), and republicanism (the people exercise that authority through elected representatives, not by governing directly).",
+    "**Limited government is the payoff:** If government exists only to protect rights people already had, its power has a natural limit. The Constitution and Bill of Rights lock that limit in.",
+    "**Three models of democracy:** Participatory democracy emphasizes broad citizen involvement, pluralist democracy emphasizes group competition for influence, and elite democracy emphasizes limited popular control run by educated, capable representatives. The U.S. system blends all three."
   ],
   "learningObjectives": [
-    "Explain the theoretical linkages between natural rights, the social contract, and limited government.",
-    "Explain how the different perspectives on the role of government self-interest, the common good, and personal liberty influenced the U.S. political system.",
-    "Explain how democratic ideals are reflected in the U.S. Constitution."
+    "Explain the theoretical linkages between popular sovereignty, natural rights, republicanism, and limited government.",
+    "Explain how democratic ideals are reflected in the Declaration of Independence, the U.S. Constitution, and the Gettysburg Address.",
+    "Explain how the different perspectives on the role of government, self-interest, the common good, and personal liberty, influenced the U.S. political system."
   ],
   "vocabulary": [
     {
@@ -34,9 +34,21 @@
       "example": "The Declaration of Independence lists grievances against George III to argue Britain broke the social contract with the colonies."
     },
     {
+      "term": "Popular Sovereignty",
+      "definition": "The principle that a government's power and legitimacy come directly from the people, who are the ultimate source of political authority.",
+      "importance": "The foundation the Declaration, the Constitution, and the Gettysburg Address all appeal to when they claim government answers to the people rather than to a king or a ruling class.",
+      "example": "The Constitution's opening words, \"We the People,\" name the people as the source of the document's authority before a single power is granted to any branch."
+    },
+    {
+      "term": "Republicanism",
+      "definition": "A system in which the people hold ultimate political authority but exercise it through elected representatives, rather than by governing directly themselves on every question.",
+      "importance": "Explains why the Constitution creates a Congress, a president, and courts instead of asking citizens to vote directly on every law.",
+      "example": "Voters elect members of Congress to write and pass laws on their behalf, rather than voting directly on each bill themselves."
+    },
+    {
       "term": "Limited Government",
       "definition": "A political system in which government power is restricted by law, usually through a written constitution, to protect individual rights.",
-      "importance": "Distinguishes the American system from absolute monarchy and is enforced through separation of powers, checks and balances, and federalism.",
+      "importance": "Distinguishes the American system from absolute monarchy; the specific ways that limit is enforced are covered later in this unit.",
       "example": "The Bill of Rights limits what Congress can do, even with a legislative majority."
     },
     {
@@ -64,12 +76,12 @@
       "answer": "The people have the right to alter or abolish that government and form a new one, since the government's legitimacy depends entirely on protecting the rights it was created to secure."
     },
     {
-      "question": "Which democratic theory best explains the existence of thousands of registered lobbying organizations in Washington, D.C.?",
-      "answer": "Pluralist democracy, since it holds that organized groups compete to influence policy and that this competition, not direct citizen participation, is how the public's varied interests get represented."
+      "question": "What is the difference between popular sovereignty and republicanism?",
+      "answer": "Popular sovereignty is the principle that government's authority comes from the people. Republicanism is the specific system for exercising that authority: through elected representatives rather than direct, constant self-rule. Popular sovereignty says who is in charge; republicanism says how they exercise it."
     },
     {
-      "question": "How would a participatory democrat and an elite democrat likely disagree about low voter turnout in local elections?",
-      "answer": "A participatory democrat would see low turnout as a crisis of legitimacy, since direct citizen involvement is the whole point. An elite democrat would be less alarmed, since they see capable representatives, not mass participation, as what actually makes government work well."
+      "question": "Which democratic theory best explains the existence of thousands of registered lobbying organizations in Washington, D.C.?",
+      "answer": "Pluralist democracy, since it holds that organized groups compete to influence policy and that this competition, not direct citizen participation, is how the public's varied interests get represented."
     }
   ],
   "blocks": [
@@ -95,7 +107,7 @@
     },
     {
       "type": "apTip",
-      "text": "When an exam question asks you to \"explain the theoretical linkages\" between natural rights and limited government, always work in this order: natural rights exist first, people consent to government to protect them (the social contract), and government is therefore limited to only the powers needed for that protection. Skipping a step is a common way to lose credit on this learning objective."
+      "text": "When an exam question asks you to \"explain the theoretical linkages\" between these ideas, work in this order: natural rights exist first (people have them just by being human), the social contract is how people consent to form government to protect those rights, popular sovereignty means that consent is where government's authority comes from, republicanism is how the people exercise that authority (through elected representatives), and limited government is the result: power restricted to only what protecting those original rights requires. Skipping a step is a common way to lose credit on this learning objective."
     },
     {
       "type": "heading",
@@ -110,8 +122,34 @@
       "text": "This is precisely the argument Thomas Jefferson makes in the Declaration of Independence. The document opens with a near-paraphrase of Locke (\"Life, Liberty, and the pursuit of Happiness\" in place of Locke's \"life, liberty, and property\"), then spends most of its length listing specific grievances against King George III. That list is not decoration. It is the evidence required by social contract theory: proof that the British government had broken its side of the agreement, which is why the colonies were justified in forming a new one."
     },
     {
+      "type": "documentExcerpt",
+      "document": "Declaration of Independence",
+      "citation": "1776",
+      "excerpt": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, that whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government.",
+      "fullTextUrl": "https://www.archives.gov/founding-docs/declaration-transcript"
+    },
+    {
       "type": "funFact",
       "text": "Locke's original formulation protected \"life, liberty, and property,\" not \"the pursuit of happiness.\" Historians still debate why Jefferson made the substitution. One common explanation is that Jefferson wanted to avoid appearing to defend slaveholders' property rights in enslaved people at the exact moment he was accusing the king of violating natural rights, though the document itself never resolves this contradiction."
+    },
+    {
+      "type": "heading",
+      "text": "Popular Sovereignty and Republicanism"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Declaration's line about government \"deriving their just powers from the consent of the governed\" expresses a second core idea: **popular sovereignty**, the principle that government's authority ultimately belongs to the people, not to a king or a ruling class. The Constitution opens the same way, with \"We the People,\" naming the people as the source of its authority before granting a single power to any branch."
+    },
+    {
+      "type": "paragraph",
+      "text": "But popular sovereignty does not mean citizens have to vote directly on every law. The Framers built the Constitution around **republicanism**: a system in which the people hold ultimate authority but exercise it through elected representatives who govern on their behalf. \"We the People\" declares where the Constitution's authority comes from. The rest of the document then creates a Congress, a president, and courts, elected and appointed representatives, to actually use that authority day to day. That structure is republicanism in practice."
+    },
+    {
+      "type": "documentExcerpt",
+      "document": "U.S. Constitution, Preamble",
+      "citation": "1787",
+      "excerpt": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.",
+      "fullTextUrl": "https://www.archives.gov/founding-docs/constitution-transcript"
     },
     {
       "type": "heading",
@@ -119,11 +157,30 @@
     },
     {
       "type": "paragraph",
-      "text": "If government exists only to protect rights that pre-exist it, then government power must be limited to that purpose and no further. This is the idea of **limited government**: political authority that is constrained, usually by a written constitution, so that it cannot simply do whatever a temporary majority wants. The Framers built limited government into the Constitution's structure itself, through the separation of powers among three branches, a system of checks and balances between them, and federalism dividing power between national and state governments. The Bill of Rights, added in 1791, listed specific things government could never do, regardless of majority opinion, reinforcing the same principle in a different form."
+      "text": "Government, according to Locke, exists only to protect rights people already had before government existed. If that is government's whole purpose, then its power has a natural limit: it can only do what protecting those rights requires, and nothing more. This is the idea of **limited government**: political authority that is constrained, usually by a written constitution, so that it cannot simply do whatever a temporary majority wants. The Bill of Rights, added in 1791, listed specific things government could never do, regardless of majority opinion, a concrete way of tying government's power back to its original purpose. Later units in this course cover exactly how the Constitution structures and divides that limited power among different branches and levels of government."
     },
     {
       "type": "heading",
-      "text": "Five Ways to Define \"Democracy\""
+      "text": "The Gettysburg Address: Democracy Reaffirmed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nearly a century after the Declaration, the United States was fighting a civil war partly over whether its founding claim, that all men are created equal, actually meant what it said. In November 1863, President **Abraham Lincoln** delivered a short speech at the dedication of a military cemetery in Gettysburg, Pennsylvania, site of one of the war's bloodiest battles. The speech is barely 270 words long, but it directly reaffirms the same two ideals this topic has been building: natural rights (\"all men are created equal\") and popular sovereignty (\"government of the people, by the people, for the people\")."
+    },
+    {
+      "type": "documentExcerpt",
+      "document": "The Gettysburg Address",
+      "citation": "1863",
+      "excerpt": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. ... that this nation, under God, shall have a new birth of freedom, and that government of the people, by the people, for the people, shall not perish from the earth.",
+      "fullTextUrl": "https://www.archives.gov/milestone-documents/gettysburg-address"
+    },
+    {
+      "type": "apTip",
+      "text": "When a question pairs the Declaration of Independence, the Constitution, and the Gettysburg Address, look for what links them: each one restates the idea that government's authority comes from the people. The Declaration establishes it, the Constitution's \"We the People\" opening structures a government around it, and Lincoln's speech reaffirms it during a moment when the country's commitment to that ideal was genuinely in doubt."
+    },
+    {
+      "type": "heading",
+      "text": "Three Models of Democracy"
     },
     {
       "type": "paragraph",
@@ -143,7 +200,7 @@
     },
     {
       "type": "apTip",
-      "text": "A released free-response question will often describe a specific institution or scenario and ask you to identify which democratic theory it best supports, and explain why. Practice this both directions: given an institution, name the theory; given a theory, generate your own example institution. The College Board explicitly tests both."
+      "text": "A released free-response question will often describe a specific institution or scenario and ask you to identify which democratic theory it best supports, and explain why. Practice this both directions. Given an institution, name the theory: a ballot initiative is participatory; a farm bill lobbied by both agribusiness groups and environmental groups is pluralist; the Electoral College is elite. Given a theory, generate your own example: for pluralist democracy, you might cite gun-rights groups and gun-control groups both lobbying Congress over the same legislation. The College Board explicitly tests both directions."
     }
   ],
   "videoResources": [
@@ -188,6 +245,17 @@
       "explanation": "Ballot initiatives let ordinary citizens make policy directly rather than through elected representatives, the hallmark of participatory democracy. (A) is the opposite, since elite democracy limits direct citizen control. (C) is not a democratic theory at all. (D) describes a structure of government, not a theory of democratic legitimacy."
     },
     {
+      "question": "Which of the following best distinguishes republicanism from popular sovereignty as the terms are used in this unit?",
+      "options": [
+        "Popular sovereignty and republicanism mean exactly the same thing",
+        "Popular sovereignty identifies the people as the source of government's authority; republicanism describes exercising that authority through elected representatives",
+        "Republicanism means citizens vote directly on every law; popular sovereignty means an elected legislature makes all decisions",
+        "Popular sovereignty applies only to state governments, while republicanism applies only to the federal government"
+      ],
+      "correctIndex": 1,
+      "explanation": "Popular sovereignty answers where authority comes from (the people); republicanism answers how that authority gets exercised (through elected representatives, not direct citizen rule). (A) collapses two distinct concepts. (C) reverses the actual definitions. (D) is a distinction the terms do not make."
+    },
+    {
       "question": "Which of the following was originally part of the Constitution specifically to limit direct popular control, consistent with elite democratic theory?",
       "options": [
         "Direct election of members of the House of Representatives",
@@ -199,26 +267,15 @@
       "explanation": "Until the Seventeenth Amendment (1913), senators were chosen by state legislatures, not directly by voters, precisely to insulate the Senate from momentary popular pressure, a clear example of elite democratic design. (A) is the opposite, a participatory feature. (B) and (D) protect individual rights but are not primarily about limiting popular control over lawmaking."
     },
     {
-      "question": "Locke's concept of natural rights differs from a right granted by statute (an ordinary law passed by a legislature) primarily because natural rights",
+      "question": "\"Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.\" This opening line of the Gettysburg Address most directly echoes which earlier document?",
       "options": [
-        "can be taken away by a simple majority vote in Congress",
-        "exist independent of government and are not created by any law",
-        "apply only to citizens of the country in which they are recognized",
-        "were first defined in the U.S. Constitution"
+        "Federalist No. 10",
+        "The Declaration of Independence",
+        "The Articles of Confederation",
+        "Brutus No. 1"
       ],
       "correctIndex": 1,
-      "explanation": "For Locke, natural rights exist prior to and independent of government; they are discovered, not created, by law. A statutory right, by contrast, exists only because a legislature created it and can be repealed the same way. (A) describes how a statutory right could be changed, not a natural right. (C) misstates Locke's universalist claim (natural rights belong to all people, not just citizens of one state). (D) is factually wrong; the concept predates the Constitution by over a century."
-    },
-    {
-      "question": "A political scientist argues that the true test of American democracy is not the number of laws passed by Congress, but the number of environmental groups, business associations, and unions actively lobbying on a given bill. This argument best reflects",
-      "options": [
-        "participatory democratic theory",
-        "pluralist democratic theory",
-        "elite democratic theory",
-        "natural rights theory"
-      ],
-      "correctIndex": 1,
-      "explanation": "The scenario centers on organized groups competing for influence over policy, the defining mechanism of pluralist democracy. (A) would instead emphasize direct involvement by individual citizens, not organized groups. (C) would emphasize the role of a small number of expert decision-makers, not group competition. (D) is a theory about the source of rights, unrelated to how policy gets made."
+      "explanation": "Lincoln's line directly reaffirms the Declaration of Independence's claim that \"all men are created equal,\" reasserting natural rights and popular sovereignty during the Civil War. (A) and (D) are Constitutional ratification-era documents about the structure of government, not natural rights. (C) is the pre-Constitution government structure, unrelated to this line's content."
     }
   ],
   "discussionQuestions": [
@@ -231,12 +288,12 @@
       "modelAnswer": "It does not undermine the theory itself, but it does show that the application of natural rights language in 1776 was selective and hypocritical; the theory's universal claims were not extended in practice to enslaved people, women, or Native Americans, a gap that later reform movements would explicitly point to and try to close."
     },
     {
-      "question": "Which of the three democratic theories, participatory, pluralist, or elite, do you think best describes how the U.S. government actually operates today? Defend your answer with a specific example.",
-      "modelAnswer": "Answers will vary, but a strong response picks one theory, defines it precisely, and supports it with a concrete, current example (such as the role of super PACs for pluralist theory, or direct primaries for participatory theory) rather than a vague generalization."
+      "question": "Lincoln delivered the Gettysburg Address during a war partly fought over whether \"all men are created equal\" applied to enslaved people. Does reaffirming an ideal during a moment when it is being violently contested strengthen that ideal, or expose how fragile it always was? Defend your answer.",
+      "modelAnswer": "A strong answer engages both directions: reaffirming the ideal in the middle of a crisis could be read as strengthening it, showing the country was willing to fight and rededicate itself to a \"new birth of freedom,\" or it could be read as exposing that the ideal was never universally accepted in practice, requiring a war to even partially close the gap between the Declaration's promise and reality."
     },
     {
-      "question": "Why might the Framers have been comfortable using elite democratic design in the original Constitution while still opening the document with \"We the People\"?",
-      "modelAnswer": "The Framers wanted the Constitution's ultimate authority to rest on popular sovereignty, the idea that the people as a whole are the source of government power, even while limiting how directly the people exercised control day to day; \"We the People\" establishes where authority comes from, not how often citizens get to vote on things."
+      "question": "Which of the three democratic theories, participatory, pluralist, or elite, do you think best describes how the U.S. government actually operates today? Defend your answer with a specific example.",
+      "modelAnswer": "Answers will vary, but a strong response picks one theory, defines it precisely, and supports it with a concrete, current example (such as the role of super PACs for pluralist theory, or direct primaries for participatory theory) rather than a vague generalization."
     }
   ],
   "images": [],

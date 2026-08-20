@@ -6,10 +6,10 @@
 {% endblock %}
 {% block content %}
 <div class="topic-nav">
-  <a class="btn btn-sm" href="index.html">&larr; {{ course.shortName }} index</a>
+  <a class="btn btn-sm" href="index.html"><svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg> {{ course.shortName }} index</a>
   <span>
-    {% if prev_topic %}<a class="btn btn-sm" href="{{ prev_topic.num.replace('.', '-') }}.html">&larr; {{ prev_topic.num }}</a>{% endif %}
-    {% if next_topic %}<a class="btn btn-sm" href="{{ next_topic.num.replace('.', '-') }}.html">{{ next_topic.num }} &rarr;</a>{% endif %}
+    {% if prev_topic %}<a class="btn btn-sm" href="{{ prev_topic.num.replace('.', '-') }}.html"><svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg> {{ prev_topic.num }}</a>{% endif %}
+    {% if next_topic %}<a class="btn btn-sm" href="{{ next_topic.num.replace('.', '-') }}.html">{{ next_topic.num }} <svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg></a>{% endif %}
   </span>
 </div>
 
@@ -17,7 +17,7 @@
 <div class="coming-soon-box">
   <div class="section-label">{{ course.shortName }} · Unit {{ unit.num }}</div>
   <h1 style="font-size:1.3rem;">{{ topic.num }} {{ topic.title }}</h1>
-  <p>This reading hasn't been written yet. It's on the build roadmap. Nothing here is placeholder text pretending to be the real reading; check back soon.</p>
+  <p>This reading hasn't been written yet, but it's on the roadmap. Check back soon.</p>
   <a class="btn btn-primary" href="index.html">Back to {{ course.shortName }} index</a>
 </div>
 {% else %}
@@ -133,6 +133,14 @@
       {% if not b.src %}<div class="ai-pending-note">Image not yet generated for this build.</div>{% endif %}
     </figcaption>
   </figure>
+    {% elif b.type == 'documentExcerpt' %}
+  <div class="expand-item doc-excerpt">
+    <button class="expand-toggle" type="button">📜 Required Document: {{ b.document }}{% if b.citation %} ({{ b.citation }}){% endif %}<span class="plus">+</span></button>
+    <div class="expand-body-wrap"><div class="expand-body-inner"><div class="expand-body">
+      <blockquote class="doc-excerpt-quote">{{ b.excerpt|md }}</blockquote>
+      {% if b.fullTextUrl %}<a class="doc-excerpt-link" href="{{ b.fullTextUrl }}" target="_blank" rel="noopener">Read the full text →</a>{% endif %}
+    </div></div></div>
+  </div>
     {% endif %}
   {% endfor %}
 {% else %}
@@ -416,7 +424,15 @@
 {% endif %}
 
 <div class="complete-row">
-  <button class="btn btn-primary" type="button" data-complete-course="{{ course.slug }}" data-complete-num="{{ topic.num }}">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-complete-course="{{ course.slug }}" data-complete-num="{{ topic.num }}"{% if next_topic %} data-advance-next="{{ next_topic.num.replace('.', '-') }}.html"{% endif %}>Mark as read</button>
+</div>
+
+<div class="topic-nav topic-nav-bottom">
+  <a class="btn btn-sm" href="index.html"><svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg> {{ course.shortName }} index</a>
+  <span>
+    {% if prev_topic %}<a class="btn btn-sm" href="{{ prev_topic.num.replace('.', '-') }}.html"><svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg> {{ prev_topic.num }}</a>{% endif %}
+    {% if next_topic %}<a class="btn btn-sm" href="{{ next_topic.num.replace('.', '-') }}.html">{{ next_topic.num }} <svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg></a>{% endif %}
+  </span>
 </div>
 
 {% endif %}

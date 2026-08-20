@@ -54,8 +54,14 @@
     {
       "term": "Necessary and Proper Clause",
       "definition": "The constitutional clause (Article I, Section 8) giving Congress the power to pass laws needed to carry out its other enumerated powers.",
-      "importance": "Brutus No. 1 specifically warned this clause, combined with the supremacy clause, would let the federal government expand its power almost without limit.",
+      "importance": "Brutus No. 1 specifically warned this clause, combined with the Supremacy Clause, would let the federal government expand its power almost without limit.",
       "example": "Brutus argued the clause was written so broadly that state governments would eventually be swallowed by it."
+    },
+    {
+      "term": "Supremacy Clause",
+      "definition": "The constitutional clause (Article VI) declaring that the Constitution and federal laws made under it are \"the supreme law of the land,\" binding on every state, even when a state law conflicts with them.",
+      "importance": "The provision Brutus No. 1 paired with the necessary and proper clause to argue the national government would inevitably grow at the states' expense.",
+      "example": "A state law that directly conflicts with a valid federal law is overridden by the Supremacy Clause, regardless of when either law was passed."
     }
   ],
   "preTest": [
@@ -106,6 +112,13 @@
       "text": "Since faction cannot be removed, Madison argues it must instead be controlled. His solution rests on two structural choices already built into the proposed Constitution. First, a **republic**, where citizens govern through elected representatives rather than directly, refines and filters public opinion through those representatives rather than acting on raw, unmediated passion. Second, and more distinctively, Madison argues that a **large** republic is safer than a small one. In a small democracy, a single faction can more easily become a majority, coordinate quickly, and oppress everyone else. In a large republic covering many states and containing many competing economic, religious, and regional interests, so many different factions exist that no single one can easily dominate the rest. Faction is not eliminated. It is diluted until it becomes manageable."
     },
     {
+      "type": "documentExcerpt",
+      "document": "Federalist No. 10",
+      "citation": "James Madison, 1787",
+      "excerpt": "By a faction I understand a number of citizens, whether amounting to a majority or minority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens. ... Extend the sphere, and you take in a greater variety of parties and interests; you make it less probable that a majority of the whole will have a common motive to invade the rights of other citizens; or if such a common motive exists, it will be more difficult for all who feel it to discover their own strength, and to act in unison with each other.",
+      "fullTextUrl": "https://avalon.law.yale.edu/18th_century/fed10.asp"
+    },
+    {
       "type": "apTip",
       "text": "If a released FRQ or MCQ stimulus quotes Madison arguing that \"extend the sphere\" (his phrase for enlarging the republic) makes it \"less probable\" that a majority faction will form, that is Federalist No. 10, and the answer they want is almost always some version of: a large, diverse republic contains so many competing factions that none can dominate."
     },
@@ -123,7 +136,14 @@
     },
     {
       "type": "paragraph",
-      "text": "Brutus's second major concern was about the scope of national power itself. He focused specifically on the **necessary and proper clause**, which gives Congress power to pass laws needed to carry out its other constitutional powers, combined with the Constitution's supremacy clause, which makes federal law superior to conflicting state law. Brutus argued this combination was written so broadly that the national government would inevitably expand its own power over time, gradually absorbing authority that properly belonged to the states, until state governments existed in name only."
+      "text": "Brutus's second major concern was about the scope of national power itself. He focused specifically on the **necessary and proper clause**, which gives Congress power to pass laws needed to carry out its other constitutional powers, combined with the Constitution's **Supremacy Clause**, which makes federal law superior to conflicting state law. Brutus argued this combination was written so broadly that the national government would inevitably expand its own power over time, gradually absorbing authority that properly belonged to the states, until state governments existed in name only."
+    },
+    {
+      "type": "documentExcerpt",
+      "document": "Brutus No. 1",
+      "citation": "1787",
+      "excerpt": "This government is to possess absolute and uncontroulable power, legislative, executive and judicial, with respect to every object to which it extends, for by the last clause of section 8th, article 1st, it is declared 'that the Congress shall have power to make all laws which shall be necessary and proper for carrying into execution the foregoing powers, and all other powers vested by this constitution.' ... And by the 6th article, it is declared 'that this constitution, and the laws of the United States... shall be the supreme law of the land... any thing in the constitution or law of any state to the contrary notwithstanding.'",
+      "fullTextUrl": "https://constitution.org/1-Constitution/afp/brutus01.htm"
     },
     {
       "type": "paragraph",
@@ -151,7 +171,7 @@
     },
     {
       "type": "paragraph",
-      "text": "History did not fully vindicate either writer. The federal government has grown far larger than Brutus feared, partly through the necessary and proper clause he warned about, yet the United States has also avoided the kind of majority-faction tyranny Madison worried about, at least at the scale Madison feared, largely through the structural checks, elections, courts, a free press, that both writers, in different ways, helped build into the American constitutional order."
+      "text": "History did not clearly vindicate either writer. The federal government has grown far larger than Brutus feared, partly through the necessary and proper clause and Supremacy Clause he warned about. Whether Madison's solution actually worked is a genuinely open question, not a settled one. Reasonable people looking at American politics today disagree sharply about whether a large, diverse republic has kept any single faction from dominating everyone else, or whether deep partisan division shows Madison's confidence was, at least in part, misplaced."
     }
   ],
   "videoResources": [
@@ -245,6 +265,10 @@
     {
       "question": "The Bill of Rights is often credited to Anti-Federalist pressure even though the Anti-Federalists lost the overall fight against ratification. What does this suggest about how political influence works even for the losing side of a major debate?",
       "modelAnswer": "It suggests that losing a specific political fight does not mean losing all influence over the outcome; sustained public pressure and credible arguments can still reshape the winning side's final product, even without changing the ultimate result."
+    },
+    {
+      "question": "Given how divided American politics feels today, do you think Madison's prediction in Federalist No. 10, that a large, diverse republic would keep any one faction from dominating everyone else, has held up? Defend your answer with a specific, current example.",
+      "modelAnswer": "Answers will vary and should be evaluated on the quality of the argument, not which side is taken. A student arguing Madison was right might point to the sheer number and variety of interest groups and factions still actively competing today, with no single one achieving lasting dominance. A student arguing Madison was wrong, or only partly right, might point to intense two-party polarization as evidence that factions have consolidated into two large, entrenched blocs rather than staying too numerous and divided to coordinate, which is closer to the exact scenario Madison believed a large republic would prevent."
     }
   ],
   "images": [],
