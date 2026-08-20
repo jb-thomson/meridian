@@ -79,7 +79,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Before geographers can make a map, they need data, and geographic data comes in two basic forms. **Quantitative data** is numerical: it can be counted, measured, and statistically analyzed. Population counts, average rainfall, median income, and unemployment rates are all quantitative. This kind of data is what most thematic maps are built from, since numbers can be sorted into ranges and displayed using color, size, or symbols."
+      "text": "Before geographers can make a map, they need data. Geographic data comes in two basic forms. **Quantitative data** is numerical: it can be counted and measured. Population, rainfall, income, and unemployment rates are all quantitative. Most thematic maps are built from this kind of data, since numbers can be sorted into ranges and shown with color, size, or symbols."
     },
     {
       "type": "image",
@@ -91,11 +91,11 @@
     },
     {
       "type": "paragraph",
-      "text": "**Qualitative data**, by contrast, describes qualities, characteristics, or lived experiences that are harder to reduce to a single number. Interview responses, descriptions of local customs, and open-ended survey answers are all qualitative. A crime rate is quantitative data; a resident's description of why she feels unsafe walking home at night is qualitative data. Both are legitimate and valuable in geography. Quantitative data tells you the scale and pattern of something. Qualitative data often tells you why that pattern exists, or what it actually feels like to live inside it."
+      "text": "**Qualitative data**, by contrast, describes qualities or experiences that are harder to reduce to a single number. Interview responses, descriptions of local customs, and open-ended survey answers are all qualitative. A crime rate is quantitative; a resident's description of why she feels unsafe at night is qualitative. Both matter in geography. Quantitative data tells you the scale of something. Qualitative data often tells you why it happens, or what it feels like to live with it."
     },
     {
       "type": "apTip",
-      "text": "A common exam trap is assuming quantitative data is automatically \"more objective\" or \"better\" than qualitative data. Resist that framing. The correct AP Human Geography position is that qualitative and quantitative data answer different kinds of questions, and strong geographic research often combines both rather than treating one as superior."
+      "text": "A common exam trap is assuming quantitative data is automatically \"more objective\" or \"better\" than qualitative data. Resist that. AP Human Geography treats them as answering different kinds of questions, and strong research often combines both instead of treating one as superior."
     },
     {
       "type": "heading",
@@ -103,19 +103,19 @@
     },
     {
       "type": "paragraph",
-      "text": "Modern geography relies on several major technologies for collecting spatial data. **GPS**, the Global Positioning System, uses a network of orbiting satellites to let any GPS receiver, a phone, a car, a handheld field unit, determine its precise location on Earth's surface. GPS is the reason a smartphone can tell you exactly where you are and guide you turn by turn to a destination, and it is also a basic field research tool: a biologist recording exact coordinates for wildlife sightings, or a geologist marking precise sample locations, both depend on GPS."
+      "text": "Modern geography relies on a few major technologies for collecting spatial data. **GPS**, the Global Positioning System, uses orbiting satellites to let any receiver, a phone, a car, a handheld unit, find its exact location on Earth. GPS is why a smartphone can guide you turn by turn to a destination, and it is also a basic field research tool: a biologist recording wildlife sightings or a geologist marking sample sites both depend on it."
     },
     {
       "type": "paragraph",
-      "text": "**Remote sensing** takes a different approach: collecting data about the Earth's surface from a distance, using satellites or aircraft equipped with cameras and sensors, without any physical contact with the location being studied. Remote sensing lets geographers monitor huge or hard-to-reach areas repeatedly over time. A single research team could never physically survey the entire Amazon rainforest every year to track deforestation, but a satellite can photograph the same region on a regular schedule, letting researchers compare images over time and measure exactly how much forest cover has been lost."
+      "text": "**Remote sensing** takes a different approach: collecting data about the Earth's surface from a distance, using satellites or aircraft with cameras and sensors, without touching the location being studied. It lets geographers monitor huge or hard-to-reach areas again and again over time. No research team could survey the entire Amazon rainforest every year on foot, but a satellite can photograph the same region on a schedule, letting researchers compare images and measure exactly how much forest has been lost."
     },
     {
       "type": "funFact",
-      "text": "The first GPS satellite was launched in 1978, but the system was originally built for U.S. military navigation, not civilian use. Selective Availability, a feature that deliberately degraded GPS accuracy for civilian receivers, was not turned off until the year 2000, instantly making every civilian GPS device roughly ten times more accurate overnight."
+      "text": "The first GPS satellite launched in 1978, but the system was originally built for U.S. military use, not civilians. A feature called Selective Availability deliberately degraded GPS accuracy for civilian receivers until it was switched off in 2000, instantly making every civilian GPS device about ten times more accurate."
     },
     {
       "type": "paragraph",
-      "text": "Geographers also still rely on more traditional methods: **field observation**, physically visiting a location to record data firsthand, and large-scale surveys like a national **census**, a comprehensive count and demographic survey of a country's population, usually conducted every ten years in the United States. Unlike GPS or remote sensing, these methods often capture qualitative detail, direct observation, resident interviews, that satellite data alone cannot provide."
+      "text": "Geographers also still use older methods: **field observation** (visiting a location to record data firsthand), and large surveys like a national **census** (a full count of a country's population, done every ten years in the United States). Unlike GPS or remote sensing, these methods often capture qualitative detail, direct observation, resident interviews, that satellite data alone cannot provide."
     },
     {
       "type": "heading",
@@ -123,19 +123,19 @@
     },
     {
       "type": "paragraph",
-      "text": "Collecting data is only half the job. Geographers then have to choose how to visually represent that data, and different data types and questions call for different map types."
+      "text": "Collecting data is only half the job. Geographers then have to decide how to show that data, and different data and questions call for different map types."
     },
     {
       "type": "list",
       "items": [
-        "A **choropleth map** shades predefined areas, states, counties, countries, using different colors to represent the value of a variable in each area. It works well for data that is already organized by administrative boundary, like an election map shading each state by winning party, but it can visually overstate the importance of large, sparsely populated areas.",
-        "A **dot density map** places individual dots, each representing a set quantity, across the map to show where a variable actually concentrates. It reveals clustering that a choropleth map's flat color would smooth away, since population, for example, is rarely spread evenly within a single state or county.",
-        "Other thematic map types, like graduated symbol maps (using differently sized symbols) and isoline maps (using connected lines of equal value, like a weather map's temperature contours), each fit specific kinds of data better than others."
+        "A **choropleth map** shades predefined areas (states, counties, countries) with different colors to show the value of a variable in each one. It works well for data already organized by boundary, like an election map shading each state by winning party, but it can make large, sparsely populated areas look more important than they really are.",
+        "A **dot density map** places individual dots, each standing for a set quantity, to show where a variable actually clusters. It reveals patterns a choropleth map's flat color would hide, since population, for example, is rarely spread evenly within one state or county.",
+        "Other thematic map types, like graduated symbol maps (differently sized symbols) and isoline maps (connected lines of equal value, like a weather map's temperature contours), each fit specific kinds of data better than others."
       ]
     },
     {
       "type": "apTip",
-      "text": "If an exam question gives you raw data and asks which type of thematic map would best represent it, ask yourself two questions: is the data organized by a fixed boundary (favors choropleth), and does the data cluster unevenly within that boundary in a way worth showing (favors dot density)? Getting this reasoning right, not just naming a map type, is what the rubric is looking for."
+      "text": "If an exam question gives you raw data and asks which type of thematic map fits best, ask two questions: is the data tied to a fixed boundary (favors choropleth), and does it cluster unevenly within that boundary in a way worth showing (favors dot density)? Getting that reasoning right, not just naming a map type, is what the rubric wants."
     }
   ],
   "videoResources": [

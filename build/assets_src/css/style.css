@@ -26,7 +26,7 @@ html, body {
   padding: 0;
   background: var(--paper);
   color: var(--ink);
-  font-family: "Georgia", "Iowan Old Style", "Palatino Linotype", serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.6;
   -webkit-text-size-adjust: 100%;
 }
@@ -141,8 +141,6 @@ main.container.with-sidebar { max-width: var(--max-width); }
 .btn-sm { padding: 5px 10px; font-size: 0.75rem; }
 
 /* ---------- Landing page ---------- */
-@font-face { font-family: 'Newsreader Display'; font-style: normal; font-weight: 600; src: url('../fonts/newsreader-600.ttf') format('truetype'); font-display: swap; }
-@font-face { font-family: 'Newsreader Display'; font-style: italic; font-weight: 500; src: url('../fonts/newsreader-500italic.ttf') format('truetype'); font-display: swap; }
 @font-face { font-family: 'Archivo'; font-style: normal; font-weight: 700; src: url('../fonts/archivo-700.ttf') format('truetype'); font-display: swap; }
 @font-face { font-family: 'Petit Formal Script'; font-style: normal; font-weight: 400; src: url('../fonts/petit-formal-script.ttf') format('truetype'); font-display: swap; }
 
@@ -164,12 +162,11 @@ body.is-landing .landing-hero {
 }
 .landing-eyebrow { font-family: 'Archivo', sans-serif; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #d8b877; margin: 0 0 6px; }
 .landing-word-wrap { position: relative; display: inline-block; margin: 0 0 20px; }
-.landing-word { font-family: 'Petit Formal Script', 'Newsreader Display', cursive; font-size: 3.4rem; font-weight: 400; margin: 0; line-height: 1; position: relative; z-index: 2; color: #f6efdf; }
+.landing-word { font-family: 'Petit Formal Script', cursive; font-size: 3.4rem; font-weight: 400; margin: 0; line-height: 1; position: relative; z-index: 2; color: #f6efdf; }
 .landing-word-arc { position: absolute; left: 2%; right: 6%; bottom: -6px; height: 18px; z-index: 1; }
-.landing-h1 { font-family: 'Newsreader Display', Georgia, serif; font-size: 1.85rem; font-weight: 600; line-height: 1.24; max-width: 18ch; margin: 8px 0 14px; text-wrap: balance; color: #f6efdf; }
+.landing-h1 { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 1.85rem; font-weight: 700; line-height: 1.24; max-width: 18ch; margin: 8px 0 14px; text-wrap: balance; color: #f6efdf; }
 .landing-h1 .hi { color: #e0a64a; font-style: italic; }
-.landing-lede { font-family: 'Newsreader Display', Georgia, serif; font-style: italic; font-weight: 500; font-size: 1.04rem; color: #f0e4c8; max-width: 42ch; margin: 0 0 12px; line-height: 1.5; }
-.landing-sub { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.82rem; color: #ddd0b4; max-width: 46ch; margin: 0 0 22px; line-height: 1.6; }
+.landing-lede { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-style: italic; font-weight: 500; font-size: 1.04rem; color: #f0e4c8; max-width: 42ch; margin: 0 0 22px; line-height: 1.5; }
 .landing-cta { display: inline-block; font-family: 'Archivo', sans-serif; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.03em; color: #241f16; background: #c1893f; border: none; padding: 12px 22px; border-radius: 999px; cursor: pointer; text-decoration: none; width: fit-content; }
 .landing-cta:hover { filter: brightness(1.06); }
 
@@ -186,7 +183,6 @@ body.is-landing .landing-hero {
   .landing-word { font-size: 5.6rem; }
   .landing-h1 { font-size: 2.7rem; max-width: 20ch; }
   .landing-lede { font-size: 1.18rem; max-width: 46ch; }
-  .landing-sub { font-size: 0.92rem; max-width: 52ch; }
 }
 
 .landing-features { display: flex; flex-wrap: wrap; justify-content: center; gap: 26px 22px; padding: 30px 10px 26px; }
@@ -199,7 +195,7 @@ body.is-landing .landing-hero {
 .landing-list { padding: 0 0 40px; }
 .landing-row { display: grid; grid-template-columns: 1fr auto; gap: 14px; align-items: baseline; padding: 16px 0; border-bottom: 1px solid var(--line); text-decoration: none; color: inherit; }
 .landing-row:hover .landing-name { color: var(--card-color, var(--accent)); }
-.landing-name { font-family: 'Newsreader Display', Georgia, serif; font-size: 1.1rem; font-weight: 600; margin: 0 0 3px; transition: color .15s ease; }
+.landing-name { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 1.1rem; font-weight: 700; margin: 0 0 3px; transition: color .15s ease; }
 .landing-tag { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.8rem; color: var(--ink-soft); margin: 0; }
 .landing-meta { font-family: 'Archivo', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em; text-align: right; white-space: nowrap; }
 .landing-meta.ready { color: var(--card-color, var(--accent)); }
@@ -308,7 +304,7 @@ body.is-landing .landing-hero {
 .util-panel-list li:last-child { margin-bottom: 0; }
 .pretest-item { border: 1px solid var(--line); border-radius: 8px; margin-bottom: 8px; overflow: hidden; background: var(--paper); }
 .pretest-item:last-child { margin-bottom: 0; }
-.pretest-item summary { padding: 11px 14px; cursor: pointer; font-family: "Georgia", serif; font-size: 0.92rem; line-height: 1.5; }
+.pretest-item summary { padding: 11px 14px; cursor: pointer; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.92rem; line-height: 1.5; }
 .pretest-item summary::-webkit-details-marker { display: none; }
 .pretest-item[open] { border-color: var(--course-color, var(--accent)); }
 .pretest-answer { padding: 0 14px 12px; font-size: 0.86rem; color: var(--ink-soft); border-top: 1px solid var(--line); padding-top: 10px; }
