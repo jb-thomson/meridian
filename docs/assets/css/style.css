@@ -279,7 +279,6 @@ body.is-landing .landing-hero {
 .topic-nav { display: flex; align-items: center; justify-content: space-between; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.82rem; padding: 12px 0; flex-wrap: wrap; }
 .topic-nav a { text-decoration: none; }
 .topic-nav-bottom { margin-top: 8px; border-top: 1px solid var(--line); }
-.nav-chevron { width: 13px; height: 13px; flex-shrink: 0; }
 
 .reading-head { padding: 6px 0 18px; }
 .reading-head .kicker { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--course-color); }
