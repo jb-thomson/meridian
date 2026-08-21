@@ -5,6 +5,13 @@
 {% endif %}
 {% endblock %}
 {% block content %}
+<div class="topic-nav">
+  <a class="btn btn-sm" href="index.html">{{ course.shortName }} index</a>
+  <span>
+    {% if prev_topic %}<a class="btn btn-sm" href="{{ prev_topic.num.replace('.', '-') }}.html">Previous &middot; {{ prev_topic.num }}</a>{% endif %}
+    {% if next_topic %}<a class="btn btn-sm" href="{{ next_topic.num.replace('.', '-') }}.html">Next &middot; {{ next_topic.num }}</a>{% endif %}
+  </span>
+</div>
 
 {% if topic.status != 'complete' %}
 <div class="coming-soon-box">
@@ -426,10 +433,10 @@
 </div>
 
 <div class="topic-nav topic-nav-bottom">
-  <a class="btn btn-sm" href="index.html">&larr; {{ course.shortName }} index</a>
+  <a class="btn btn-sm" href="index.html">{{ course.shortName }} index</a>
   <span>
-    {% if prev_topic %}<a class="btn btn-sm" href="{{ prev_topic.num.replace('.', '-') }}.html">&larr; {{ prev_topic.num }}</a>{% endif %}
-    {% if next_topic %}<a class="btn btn-sm" href="{{ next_topic.num.replace('.', '-') }}.html">{{ next_topic.num }} &rarr;</a>{% endif %}
+    {% if prev_topic %}<a class="btn btn-sm" href="{{ prev_topic.num.replace('.', '-') }}.html">Previous &middot; {{ prev_topic.num }}</a>{% endif %}
+    {% if next_topic %}<a class="btn btn-sm" href="{{ next_topic.num.replace('.', '-') }}.html">Next &middot; {{ next_topic.num }}</a>{% endif %}
   </span>
 </div>
 
