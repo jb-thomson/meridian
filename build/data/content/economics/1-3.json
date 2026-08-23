@@ -1,0 +1,454 @@
+{
+  "course": "economics",
+  "unitNum": 1,
+  "num": "1.3",
+  "title": "Factors of Production: Who Decides WHAT, HOW, and FOR WHOM?",
+  "dateRange": null,
+  "status": "complete",
+  "standard": "E.1.a",
+  "readingMinutes": 28,
+  "interactiveModels": [
+    "spectrum-diagram"
+  ],
+  "tldr": [
+    "Every good or service requires four factors of production: land (natural resources), capital (tools and machinery), labor (human effort), and entrepreneurs (risk-takers who combine them).",
+    "Every society must answer three questions: WHAT to produce, HOW to produce it, and FOR WHOM it gets produced.",
+    "A traditional economy answers through custom and habit. Roles are clear, but innovation is suppressed and growth stalls.",
+    "A command economy answers through a central authority. Resources can be mobilized fast, but incentives collapse and quality suffers (see: Soviet chandeliers).",
+    "A market economy answers through free exchange and dollar votes. Individual freedom and variety are high, but not everyone is provided for.",
+    "Most real economies are mixed - blends of all three systems sitting somewhere on a spectrum from pure command to pure market."
+  ],
+  "vocabulary": [
+    {
+      "term": "Factors of production",
+      "definition": "The productive resources needed to produce goods and services: land, capital, labor, and entrepreneurs."
+    },
+    {
+      "term": "Land",
+      "definition": "Natural resources not created by human effort - farmland, forests, minerals, fresh water, sunlight; one of the four factors of production."
+    },
+    {
+      "term": "Capital",
+      "definition": "Tools, equipment, machinery, and factories used in the production of goods and services; NOT the same as money."
+    },
+    {
+      "term": "Labor",
+      "definition": "All human effort - physical and mental - that goes into producing goods and services; one of the four factors of production."
+    },
+    {
+      "term": "Entrepreneurs",
+      "definition": "Risk-taking individuals who combine the other three factors to start businesses or bring new products to market."
+    },
+    {
+      "term": "Economic system",
+      "definition": "The organized way a society uses its scarce resources to answer WHAT, HOW, and FOR WHOM to produce."
+    },
+    {
+      "term": "Traditional economy",
+      "definition": "An economy in which production decisions are based on ritual, habit, and custom passed down through generations."
+    },
+    {
+      "term": "Command economy",
+      "definition": "An economy in which a central authority - such as a government or dictator - makes the major decisions about production and distribution."
+    },
+    {
+      "term": "Socialism",
+      "definition": "An economic and political system in which the government owns some but not all of the factors of production."
+    },
+    {
+      "term": "Market economy",
+      "definition": "An economy in which the three basic questions are answered primarily by buyers and sellers interacting freely in markets."
+    },
+    {
+      "term": "Capitalism",
+      "definition": "An economic system in which private citizens own and use the factors of production in order to earn profit."
+    },
+    {
+      "term": "Free enterprise",
+      "definition": "The right of individuals and businesses to operate competitively for profit with minimal government interference."
+    },
+    {
+      "term": "Private property",
+      "definition": "Assets owned by individuals or businesses rather than by the government; a key feature of market economies."
+    },
+    {
+      "term": "Voluntary exchange",
+      "definition": "A trade in which both the buyer and the seller freely agree to the transaction, each believing they benefit."
+    },
+    {
+      "term": "Dollar votes",
+      "definition": "The idea that consumer spending decisions signal to producers what goods and services people want most."
+    },
+    {
+      "term": "Mixed economy",
+      "definition": "An economy that combines elements of traditional, command, and market systems; describes virtually every real-world economy."
+    },
+    {
+      "term": "Economic stagnation",
+      "definition": "A prolonged period of little or no economic growth, often associated with traditional or poorly managed command economies."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Every economy runs on resources. Before examining how different societies organize those resources, it helps to know what they are. Economists call the productive resources needed to make any good or service the **factors of production**. There are exactly four, and every good or service ever made required all of them."
+    },
+    {
+      "type": "heading",
+      "text": "1. The Four Factors of Production"
+    },
+    {
+      "type": "heading",
+      "text": "Land"
+    },
+    {
+      "type": "paragraph",
+      "text": "In economics, **land** means all natural resources - not just dirt, but everything nature provides that human effort did not create: farmland, forests, mineral deposits, fresh water, sunlight, wind, and ocean fisheries. Land is in fixed supply at any given moment. No factory manufactures new oil fields or creates new rivers. When a critical natural resource becomes scarce, think lithium for electric vehicle batteries or fresh water in arid regions, prices rise and every industry that depends on it feels the strain."
+    },
+    {
+      "type": "heading",
+      "text": "Capital"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Capital** (also called capital goods) is the tools, equipment, machinery, and factories used to produce other goods and services. A conveyor belt, a surgical robot, a server farm, a tractor, the computers in a school - all are capital goods. Capital is unique: it is itself the product of earlier production. Someone had to build the factory before the factory could make anything. One important note: capital in economics is not money. Money is a medium of exchange. Capital is the physical equipment bought with money in order to produce goods and services."
+    },
+    {
+      "type": "heading",
+      "text": "Labor"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Labor** is all human effort - physical and mental - that goes into producing goods and services. The cashier, the surgeon, the programmer, and the teacher are all labor. Both the quantity of workers (how many are available) and the quality of their skills (how well trained and educated they are) matter enormously. A country with a large, educated, healthy workforce has a productive advantage that no amount of land or capital alone can replace."
+    },
+    {
+      "type": "heading",
+      "text": "Entrepreneurs"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Entrepreneurs** are a distinct fourth factor: risk-takers who start businesses, introduce new products, and - most importantly - combine the other three factors in new ways. They are not simply workers; they organize and personally absorb the risk of failure. Henry Ford did not invent the car, but in 1913 he introduced the moving assembly line that cut production time from 12 hours to 93 minutes per vehicle, putting car ownership within reach of ordinary families. That kind of recombination - existing factors, new arrangement, transformative result - is what entrepreneurs do."
+    },
+    {
+      "type": "paragraph",
+      "text": "Who owns these factors shapes the entire character of an economy. The rest of this section examines three different answers to that question."
+    },
+    {
+      "type": "heading",
+      "text": "2. The Framework - Three Questions Every Economy Must Answer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because resources are limited, every society is forced to make choices. Economists group those choices into three questions."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**WHAT to produce?** Should society use its resources for military equipment or hospitals? Luxury condos or affordable housing? Not everything can be built, so a choice must be made.",
+        "**HOW to produce it?** Should a factory use machines or workers? Should land be owned privately or by the state? Should decisions be made by individual businesses or by central planners?",
+        "**FOR WHOM to produce?** Once goods and services exist, who gets them - the highest bidder, everyone equally, or whoever the government selects?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An **economic system** is the organized way a society uses its resources to answer these three questions. Economists sort economic systems into three main types: traditional, command, and market. No real country is a pure version of just one type, but understanding each type separately makes the real world much easier to read."
+    },
+    {
+      "type": "heading",
+      "text": "3. Traditional Economies"
+    },
+    {
+      "type": "paragraph",
+      "text": "The oldest type is the **traditional economy**: one in which WHAT, HOW, and FOR WHOM are determined by ritual, habit, and custom. People in a traditional economy are generally not free to make decisions based on what they personally want. Instead, their roles are defined by the customs of their elders and ancestors. If a child's family hunted, the child hunted. If a family farmed, the children farmed."
+    },
+    {
+      "type": "heading",
+      "text": "Case study: The Inuit of Northern Canada"
+    },
+    {
+      "type": "paragraph",
+      "text": "For thousands of years, the Inuit people of the Arctic survived in one of the harshest environments on Earth - and they did it through a highly developed set of traditions. Inuit parents taught their children how to make tools, fish, and hunt. Those children taught the same skills to the next generation. The knowledge never had to be reinvented because tradition passed it forward automatically."
+    },
+    {
+      "type": "paragraph",
+      "text": "This tradition of sharing meant that as long as skilled hunters lived in the community, the entire village could survive a long Arctic winter."
+    },
+    {
+      "type": "image",
+      "caption": "Inuit hunters at sea, an engraving from a 19th-century scientific survey. Hunting knowledge, tools, and customs were passed down across generations with no written rulebook. U.S. Fish Commission. Public domain.",
+      "src": "assets/images/economics/inuit-seal-hunters.jpg",
+      "alt": "Inuit seal hunters in kayaks on the Arctic ocean",
+      "imageType": "public_domain_historical",
+      "attribution": ""
+    },
+    {
+      "type": "heading",
+      "text": "Advantages and disadvantages"
+    },
+    {
+      "type": "paragraph",
+      "text": "The main advantage of a traditional economy is **clarity**. Everyone knows their role, what to produce, and how to produce it. There is very little uncertainty, and the Inuit's survival across millennia is direct evidence of how stable a well-functioning traditional economy can be."
+    },
+    {
+      "type": "paragraph",
+      "text": "The main disadvantage is that traditional economies punish new ideas. If a young Inuit proposed a different hunting technique the elders had not approved, social pressure would push back hard. The same rules that kept the community alive for generations also kept it from adapting. Over time, this causes **economic stagnation** - little growth and a lower standard of living than societies that can innovate."
+    },
+    {
+      "type": "heading",
+      "text": "4. Command Economies"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a **command economy**, a central authority makes the major decisions about WHAT, HOW, and FOR WHOM to produce. That authority might be a king, a dictator, a political party, or a government planning agency. Private citizens do not direct the economy through their spending choices - the central planner does. Most command economies severely limit **private property** rights, meaning people cannot own their homes, businesses, or productive resources, though they may keep personal items like clothing."
+    },
+    {
+      "type": "heading",
+      "text": "Socialism"
+    },
+    {
+      "type": "paragraph",
+      "text": "A modern variation is **socialism**: a system in which the government owns *some* but not all of the factors of production. Socialist governments typically say their goal is to serve the needs of all citizens, not just their leaders. Countries like Cuba and Vietnam are current examples; the Soviet Union was the most influential socialist state of the 20th century before it collapsed in 1991."
+    },
+    {
+      "type": "funFact",
+      "text": "In the Soviet Union, factory quotas for chandeliers were measured in **tons of output**. Workers, trying to hit their quotas, built some of the world's most beautiful chandeliers - and also some of the heaviest. Many were so heavy they could not be safely mounted to a ceiling. Some eventually crashed to the floor. When you measure success by weight instead of quality, you get weight instead of quality. This is the quota problem in one chandelier."
+    },
+    {
+      "type": "heading",
+      "text": "Advantages"
+    },
+    {
+      "type": "paragraph",
+      "text": "Command economies can **mobilize resources rapidly**. A central authority can redirect enormous quantities of resources toward a single goal far faster than millions of separate market decisions can. (Section 1.4 examines both the Soviet Union's dramatic industrialization and what ultimately brought the system down.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Command and socialist economies can also **provide basic goods and services to all citizens** regardless of income. Cuba offers universal health care. The Soviet Union provided education, housing, and transportation to everyone at little or no direct cost - though citizens paid indirectly through low wages and severely limited consumer options."
+    },
+    {
+      "type": "heading",
+      "text": "Disadvantages"
+    },
+    {
+      "type": "paragraph",
+      "text": "The problems are serious and tend to compound over time. **Leaders benefit at the expense of ordinary people** - in North Korea, officials live comfortably while millions of citizens have faced food shortages for decades. **Uniform wages destroy incentives**: if a surgeon earns about the same as a factory worker, fewer people bother with years of medical school. **Quality suffers when quotas replace customers** (see the chandelier story). **Bureaucracies are slow** - when a harvest fails or oil prices spike, a command economy cannot adjust quickly because every decision must move through layers of central authority. And pure command economies **tend to collapse** when they grow large - it is manageable for one authority to run a village, but nearly impossible to run a modern nation-state."
+    },
+    {
+      "type": "image",
+      "caption": "A NASA/NOAA satellite image of the Korean peninsula at night, 2012. South Korea's market economy blazes with light. North Korea's command economy is almost entirely dark. NASA/NOAA. Public domain.",
+      "src": "assets/images/economics/korean-peninsula-night-nasa.png",
+      "alt": "Satellite photo of the Korean peninsula at night, 2012",
+      "imageType": "public_domain_historical",
+      "attribution": ""
+    },
+    {
+      "type": "image",
+      "caption": "A 1931 Soviet propaganda poster promoting the Five-Year Plan, a central planner's tool for setting national production targets for every factory, farm, and mine. Yakov Guminer, 1931. Public domain.",
+      "src": "assets/images/economics/soviet-five-year-plan-poster-1931.jpg",
+      "alt": "Soviet counter-plan propaganda poster, 1931, showing workers exceeding production targets",
+      "imageType": "public_domain_historical",
+      "attribution": ""
+    },
+    {
+      "type": "heading",
+      "text": "5. Market Economies"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a **market economy**, the three basic questions are answered by buyers and sellers interacting freely. A market is any arrangement - a store, a website, a stock exchange, a street vendor - where buyers and sellers come together to agree on prices and quantities. Markets can exist online or in person; what makes them markets is the voluntary interaction."
+    },
+    {
+      "type": "heading",
+      "text": "Dollar votes, capitalism, and free enterprise"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is how a market economy answers each question:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**WHAT to produce:** Consumers signal what they want through their spending - sometimes called **dollar votes**. If millions of people buy electric vehicles, automakers see the signal and shift resources toward EVs. If nobody buys a product, producers stop making it. No government order is required.",
+        "**HOW to produce:** Businesses are free to find the most efficient methods. A firm that figures this out grows and profits; one that doesn't is replaced by competitors.",
+        "**FOR WHOM to produce:** Goods go to those who can and will pay for them. Income earned in the market determines purchasing power."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Market economies feature **free enterprise**: the right of individuals and businesses to operate competitively with minimal government interference. They also feature **capitalism**: private citizens own the factors of production and use them to earn profit. **Private property** rights are protected - you can own a home, a business, or shares of stock, and the government cannot take them without compensation. Every transaction is a **voluntary exchange**: both buyer and seller agree freely, and both believe they come out better because of the trade."
+    },
+    {
+      "type": "image",
+      "caption": "A farmers market, buyers and sellers meeting voluntarily to set prices and exchange goods. No central planner decides what gets grown or what it costs. USDA Agricultural Marketing Service, 2016. Public domain.",
+      "src": "assets/images/economics/farmers-market-2016.jpg",
+      "alt": "Busy farmers market with vendors and shoppers",
+      "imageType": "public_domain_historical",
+      "attribution": ""
+    },
+    {
+      "type": "heading",
+      "text": "Advantages"
+    },
+    {
+      "type": "paragraph",
+      "text": "Market economies offer **individual freedom**: people choose where to work and what to buy. They **adjust gradually to change** through prices alone — when gas prices spiked in 2005, American consumers shifted to fuel-efficient cars without any government order. They produce enormous **variety**: if there is profit to be made from a product, someone will make it. And privately owned goods tend to be **better maintained** - owners take better care of things than borrowers do."
+    },
+    {
+      "type": "heading",
+      "text": "Disadvantages"
+    },
+    {
+      "type": "paragraph",
+      "text": "Market economies do not provide for everyone. People who are too young, too old, or too sick to earn income may struggle without family, charity, or government support. Markets also tend to **underprovide goods that are hard to sell for profit** - roads, basic scientific research, national defense, and universal education are the classic examples. Finally, there is always **uncertainty**: businesses can fail, jobs can move overseas, and prices can shift in ways that hurt workers with little warning."
+    },
+    {
+      "type": "heading",
+      "text": "6. Mixed Economies - The Real World"
+    },
+    {
+      "type": "paragraph",
+      "text": "No country today runs on a pure traditional, pure command, or pure market system. Every real economy is a **mixed economy** that blends elements of all three. The question is not \"market or command?\" but \"how much of each?\" Real economies sit on a long spectrum, pure command on one end, pure market on the other, with every country positioned somewhere between those poles based on its history, culture, and political choices. Section 1.4 traces why so many countries moved toward the market end of that spectrum over the past century, and how different countries arrived at very different versions of capitalism."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Every society answers three questions: **WHAT, HOW, and FOR WHOM** to produce. The type of economic system determines who answers them.",
+        "A **traditional economy** answers through custom and habit - roles are clear, but innovation is suppressed and growth stalls.",
+        "A **command economy** answers through central authority - resources can be mobilized quickly, but incentives collapse and quality suffers.",
+        "A **market economy** answers through free exchange, dollar votes, and private ownership - individual freedom and variety are high, but not everyone is provided for.",
+        "Real economies are **mixed** - blends of all three, sitting somewhere on a spectrum from pure command to pure market."
+      ]
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Factors of Production | Economics Explained",
+      "creator": "Economics Explained · 6 min",
+      "url": "https://www.youtube.com/watch?v=8Xg9rRmskHg"
+    },
+    {
+      "title": "Economic Systems and Macroeconomics (Crash Course Economics #3)",
+      "creator": "Crash Course · 11 min",
+      "url": "https://www.youtube.com/watch?v=B43YEW2FvDs"
+    },
+    {
+      "title": "Economic Systems: Free Market, Command, Mixed",
+      "creator": "Jacob Clifford (ACDC Economics) · 7 min",
+      "url": "https://www.youtube.com/watch?v=3GAnMxMEH3g"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "question": "In a command economy, who primarily answers the three basic economic questions?",
+      "options": [
+        "Consumers through their spending choices",
+        "A central authority such as a government or dictator",
+        "Tradition and the customs of ancestors",
+        "Individual businesses competing for profit"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a command economy, a central authority - which could be a government agency, a dictator, a political party, or a king - makes the major decisions about what gets produced, how it gets produced, and who receives it. Individual consumers and businesses have little say."
+    },
+    {
+      "question": "The Soviet Union's chandelier problem - where workers built extremely heavy chandeliers to meet quotas measured in tons - best illustrates which disadvantage of command economies?",
+      "options": [
+        "Command economies mobilize resources too slowly",
+        "Workers earn too much compared to their effort",
+        "Quotas cause workers to focus on the metric rather than producing quality goods",
+        "Command economies cannot provide goods to low-income citizens"
+      ],
+      "correctIndex": 2,
+      "explanation": "When production is measured by weight (tons) rather than quality, rational workers optimize for weight. The chandelier problem is a classic illustration of how poorly designed quotas in command economies lead to low-quality goods - workers meet the target, not the actual goal."
+    },
+    {
+      "question": "When millions of consumers start buying electric vehicles instead of gas-powered cars, and automakers respond by shifting production toward EVs, this is an example of:",
+      "options": [
+        "A government production mandate",
+        "Dollar votes directing resources in a market economy",
+        "A traditional economy adapting to new customs",
+        "Central planning adjusting to scarcity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dollar votes describe how consumer spending signals to producers what people want. No government order was needed - consumers 'voted' with their purchases, and producers responded to chase the profit. This is how market economies answer the WHAT to produce question."
+    },
+    {
+      "question": "Which of the following is an advantage of a traditional economy?",
+      "options": [
+        "Everyone knows their role, which reduces uncertainty",
+        "It encourages new ideas and rapid innovation",
+        "It provides the highest standard of living",
+        "It adjusts quickly to changes in the environment"
+      ],
+      "correctIndex": 0,
+      "explanation": "The main advantage of a traditional economy is clarity of roles. If you are born into a fishing family, you fish. If you are born into a farming family, you farm. Very little uncertainty exists about WHAT to produce or HOW, which can make for a stable society - as the Inuit example shows."
+    },
+    {
+      "question": "Socialism differs from a pure command economy in that under socialism:",
+      "options": [
+        "The government owns all factors of production",
+        "Free markets make every economic decision",
+        "There is no central authority",
+        "The government owns some but not all factors of production"
+      ],
+      "correctIndex": 3,
+      "explanation": "Socialism is a softer version of a command economy. The government owns and directs some of the economy - often key industries like healthcare, energy, or education - but not everything. Pure command economies have the central authority controlling virtually all production."
+    },
+    {
+      "question": "The satellite photo of the Korean peninsula at night - South Korea blazing with light, North Korea nearly dark - is frequently used by economists to illustrate:",
+      "options": [
+        "The advantage of command economies in mobilizing resources quickly",
+        "How geography determines economic outcomes",
+        "The long-run difference in living standards between market and command economies",
+        "Why traditional economies are more sustainable than modern ones"
+      ],
+      "correctIndex": 2,
+      "explanation": "South Korea and North Korea share the same peninsula, the same culture, and roughly the same starting point after the Korean War ended in 1953. After seventy years of different economic systems - market vs. command - South Korea has one of the world's most prosperous economies and North Korea remains one of the poorest. The photo makes the contrast visible from space."
+    },
+    {
+      "question": "A country where citizens can own businesses, buy and sell property, and earn profit is best described as having:",
+      "options": [
+        "Economic stagnation",
+        "A traditional economy",
+        "Socialism",
+        "Capitalism and private property rights"
+      ],
+      "correctIndex": 3,
+      "explanation": "Capitalism is the economic system in which private citizens own the factors of production and use them to earn profit. The ability to own property, start businesses, and keep the gains from your own work are its defining features. This contrasts with command economies where the government owns most productive resources."
+    },
+    {
+      "question": "Which of the following is a disadvantage of a market economy?",
+      "options": [
+        "It may fail to adequately provide goods like roads, defense, and universal education",
+        "It cannot produce a wide variety of goods",
+        "Central planners slow down every decision",
+        "Wages are the same for all workers regardless of skill"
+      ],
+      "correctIndex": 0,
+      "explanation": "Private producers focus on goods they can sell for profit. Goods like national defense, basic research, public roads, and universal education are hard to sell profitably to individuals, so the private market tends to underproduce them. This is one reason even the most market-oriented economies (like the U.S.) have government programs that fill these gaps."
+    },
+    {
+      "question": "The United States has public schools, a military, Social Security, Medicare, and industry regulations - alongside millions of private businesses and free markets. This makes the U.S. economy best described as:",
+      "options": [
+        "A pure market economy",
+        "A traditional economy",
+        "A pure command economy",
+        "A mixed economy"
+      ],
+      "correctIndex": 3,
+      "explanation": "A mixed economy blends elements of market, command, and sometimes traditional systems. The U.S. is primarily market-based, but government programs and regulations add command-economy elements. Almost every real-world economy is mixed - the difference between countries is where they sit on the spectrum, not whether they are purely one type or another."
+    },
+    {
+      "question": "Which of the following is the best example of CAPITAL as a factor of production?",
+      "options": [
+        "The conveyor belts and stamping machines inside an automobile factory",
+        "The iron ore and coal mined from the ground nearby",
+        "The engineers and assembly workers who operate the machinery",
+        "The entrepreneur who founded the company and took the financial risk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Capital goods are the tools, machinery, equipment, and factories used to produce other goods and services. The conveyor belts and stamping machines are capital. The iron ore and coal are land (natural resources). The engineers and workers are labor. The founder is the entrepreneur. Knowing the four factors apart is the foundation for understanding how any economic system is organized."
+    }
+  ],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

@@ -13,25 +13,41 @@
   "units": [
     {
       "num": 1,
-      "title": "Scarcity, Choice & Economic Reasoning",
+      "title": "Individual Responsibility & Personal Finance",
       "range": null,
-      "standards": "CEE Std 1–4 · DoDEA/C3 D2.Eco.1–2",
+      "standards": "CEE Std 1–4, Personal Financial Education Standards · DoDEA/C3 D2.Eco.1–2",
       "topics": [
         {
           "num": "1.1",
-          "title": "Scarcity and the Economic Problem"
+          "title": "What Is Economics? Scarcity and Economic Thinking"
         },
         {
           "num": "1.2",
-          "title": "Opportunity Cost and the Production Possibilities Curve"
+          "title": "Making Choices: Opportunity Cost, Trade-offs, and Economic Growth"
         },
         {
           "num": "1.3",
-          "title": "Economic Decision Making at the Margin"
+          "title": "Factors of Production: Who Decides WHAT, HOW, and FOR WHOM?"
         },
         {
           "num": "1.4",
-          "title": "Incentives and Economic Systems"
+          "title": "Economic Systems: Case Studies from Command to Market"
+        },
+        {
+          "num": "1.5",
+          "title": "Personal Finance: Income, Budgeting, Saving, and Investing"
+        },
+        {
+          "num": "1.6",
+          "title": "Credit, Debt, and Interest"
+        },
+        {
+          "num": "1.7",
+          "title": "Inflation, Exchange Rates, and the Dollar"
+        },
+        {
+          "num": "1-review",
+          "title": "Unit 1 Review: Test Prep"
         }
       ]
     },

@@ -1,0 +1,561 @@
+{
+  "course": "economics",
+  "unitNum": 1,
+  "num": "1.7",
+  "title": "Inflation, Exchange Rates, and the Dollar",
+  "dateRange": null,
+  "status": "complete",
+  "standard": "E.1.d",
+  "readingMinutes": 30,
+  "interactiveModels": [],
+  "tldr": [
+    "Inflation is a general rise in prices across the economy; deflation is a general fall. Both extremes are harmful, central banks target ~2% annual inflation as the stable middle ground.",
+    "The Consumer Price Index (CPI) measures inflation by tracking the monthly cost of a market basket of ~300 goods and services, compared to a base period (1982–84 = 100). Inflation rate = [(CPI new − CPI old) ÷ CPI old] × 100.",
+    "Four main inflation causes: demand-pull (too much spending chasing too few goods), cost-push (rising input costs), wage-price spiral (self-reinforcing cycle), and excessive monetary growth (money supply outpacing real output).",
+    "Real return = nominal return − inflation rate. A savings account paying 1% while inflation runs at 3% has a real return of −2%, losing purchasing power despite earning interest.",
+    "The foreign exchange rate is the price of one currency expressed in terms of another. Under flexible exchange rates, supply and demand set values, a surge in imports increases the supply of the home currency in global markets, pushing its value down.",
+    "Trade deficit = imports exceed exports. Trade surplus = exports exceed imports. Under flexible rates, deficits tend to self-correct through currency depreciation. A strong dollar helps importers and travelers; a weak dollar helps exporters. One sector's gain is another's loss."
+  ],
+  "vocabulary": [
+    {
+      "term": "Inflation",
+      "definition": "A sustained general rise in the price level across the economy, reducing the purchasing power of money."
+    },
+    {
+      "term": "Deflation",
+      "definition": "A sustained general fall in the price level, dangerous because it can trigger a cycle of reduced spending, production cuts, and economic stagnation."
+    },
+    {
+      "term": "Price index",
+      "definition": "A statistical measure used to track changes in the overall price level over time."
+    },
+    {
+      "term": "Market basket",
+      "definition": "The representative selection of roughly 300 goods and services used to calculate the Consumer Price Index."
+    },
+    {
+      "term": "Consumer Price Index (CPI)",
+      "definition": "The most widely used U.S. price index, tracking monthly changes in the cost of a market basket of consumer goods and services relative to a base period."
+    },
+    {
+      "term": "Base year",
+      "definition": "The reference period against which all other price index values are compared; the base period's CPI is set at 100."
+    },
+    {
+      "term": "Inflation rate",
+      "definition": "The percentage change in the CPI from one period to the next, calculated as [(CPI new − CPI old) ÷ CPI old] × 100."
+    },
+    {
+      "term": "Creeping inflation",
+      "definition": "Slow, steady inflation in the 1–3% annual range, generally manageable and not considered a major economic threat."
+    },
+    {
+      "term": "Hyperinflation",
+      "definition": "Inflation of 500% or more per year, catastrophic and typically leading to a complete collapse of the monetary system."
+    },
+    {
+      "term": "Stagflation",
+      "definition": "The simultaneous combination of stagnant economic growth (or recession) and rising inflation, particularly difficult to address with standard policy tools."
+    },
+    {
+      "term": "Demand-pull inflation",
+      "definition": "Inflation caused when total spending across all sectors of the economy exceeds what the economy can produce, pulling prices upward."
+    },
+    {
+      "term": "Cost-push inflation",
+      "definition": "Inflation caused by rising production input costs, especially energy and labor, which producers pass on to consumers as higher prices."
+    },
+    {
+      "term": "Wage-price spiral",
+      "definition": "A self-reinforcing cycle in which rising prices lead workers to demand higher wages, which raises production costs, which pushes prices higher again."
+    },
+    {
+      "term": "Purchasing power",
+      "definition": "The amount of goods and services a given amount of money can actually buy, reduced by inflation over time."
+    },
+    {
+      "term": "Nominal return",
+      "definition": "The stated interest rate or investment gain before adjusting for inflation."
+    },
+    {
+      "term": "Real return",
+      "definition": "The actual gain in purchasing power from an investment, calculated as the nominal return minus the inflation rate."
+    },
+    {
+      "term": "Foreign exchange",
+      "definition": "The system of buying and selling different national currencies to facilitate international trade and finance."
+    },
+    {
+      "term": "Foreign exchange rate",
+      "definition": "The price of one country's currency expressed in terms of another, for example, how many yen equal one dollar."
+    },
+    {
+      "term": "Fixed exchange rates",
+      "definition": "A system in which governments set the price of their currency relative to another currency (or gold) and maintain that price through central bank intervention."
+    },
+    {
+      "term": "Flexible exchange rates",
+      "definition": "A system, also called floating exchange rates, in which the forces of supply and demand determine currency values with no fixed government price."
+    },
+    {
+      "term": "Gold standard",
+      "definition": "The historical monetary system in which each country's currency was backed by and convertible into a fixed quantity of gold, anchoring exchange rates globally."
+    },
+    {
+      "term": "Trade deficit",
+      "definition": "The condition when the value of a country's imports exceeds the value of its exports over a given period."
+    },
+    {
+      "term": "Trade surplus",
+      "definition": "The condition when the value of a country's exports exceeds the value of its imports over a given period."
+    },
+    {
+      "term": "Imports",
+      "definition": "Goods and services purchased from producers in other countries and brought into the domestic economy."
+    },
+    {
+      "term": "Exports",
+      "definition": "Goods and services produced domestically and sold to buyers in other countries."
+    },
+    {
+      "term": "Appreciation",
+      "definition": "An increase in the value of a currency relative to other currencies, each unit of the currency now buys more foreign currency than before."
+    },
+    {
+      "term": "Depreciation",
+      "definition": "A decrease in the value of a currency relative to other currencies, each unit of the currency now buys less foreign currency than before."
+    },
+    {
+      "term": "Balance of trade",
+      "definition": "The difference between the value of a country's exports and the value of its imports; a negative balance is a deficit, a positive balance is a surplus."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Section 1.6 covered credit and debt, how borrowing works at the individual level. This section zooms out to examine two forces that shape the value of money itself: inflation, which erodes domestic purchasing power over time, and exchange rates, which determine how the dollar compares to every other currency in the world. The two topics are more connected than they first appear, a country with high inflation typically sees its currency weaken internationally, while a country with a stable currency tends to keep inflation in check."
+    },
+    {
+      "type": "heading",
+      "text": "Part I, Inflation, Prices, and Purchasing Power"
+    },
+    {
+      "type": "heading",
+      "text": "1. Inflation and deflation, what they are"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the general level of prices across the economy rises over time, that is **inflation**. When prices generally fall, that is **deflation**. Both are measured across the economy as a whole, not just one product or sector. Gas prices can spike while clothing prices fall, and the net result might still be modest overall inflation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Economists and policymakers treat both extremes as serious problems:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**High inflation** erodes purchasing power, punishes savers, and makes long-term planning nearly impossible. Businesses hesitate to invest when they cannot reliably predict what their costs will be a year from now.",
+        "**Deflation** sounds appealing, prices falling, but is actually dangerous. When people expect prices to keep dropping, they delay purchases. Businesses sell less, cut workers, and invest less. That reduces demand further, which pushes prices down more. The cycle can spiral into prolonged economic stagnation. Japan experienced almost two decades of deflation-driven stagnation in the 1990s and 2000s."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A low, stable inflation rate, around 2% per year, is the target most central banks aim for, including the U.S. Federal Reserve. Predictable, mild inflation is far easier to plan around than volatile or sudden price swings in either direction."
+    },
+    {
+      "type": "heading",
+      "text": "2. Measuring prices, the market basket and the CPI"
+    },
+    {
+      "type": "paragraph",
+      "text": "To track price changes across the whole economy, economists construct a **price index**, a statistical tool that measures how the overall price level changes over time. The most widely used price index in the United States is the **Consumer Price Index (CPI)**, published monthly by the U.S. Bureau of Labor Statistics (BLS)."
+    },
+    {
+      "type": "heading",
+      "text": "The market basket"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CPI begins with a **market basket**, a representative selection of roughly 300 goods and services that typical American households buy. The basket covers categories such as food, housing, transportation, medical care, clothing, and entertainment. While 300 items may seem like a small sample, they are scientifically chosen to represent the full range of consumer spending patterns."
+    },
+    {
+      "type": "heading",
+      "text": "The base year"
+    },
+    {
+      "type": "paragraph",
+      "text": "To make the numbers comparable over time, a **base year**, a reference period against which all other price levels are measured, is established. The BLS currently uses the average price level from 1982 to 1984 as its base period. By definition, the base period's CPI is set at 100. Every other period's index value shows how prices compare to that starting point."
+    },
+    {
+      "type": "heading",
+      "text": "Calculating the index"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CPI for any period is calculated by dividing the current cost of the market basket by the base-year cost, then multiplying by 100:"
+    },
+    {
+      "type": "paragraph",
+      "text": "CPI = (Cost of market basket in current period ÷ Cost in base period) × 100"
+    },
+    {
+      "type": "paragraph",
+      "text": "For example: if the base-period market basket cost $1,792 and the same basket now costs $4,190:"
+    },
+    {
+      "type": "paragraph",
+      "text": "CPI = ($4,190 ÷ $1,792) × 100 = 233.8"
+    },
+    {
+      "type": "paragraph",
+      "text": "A CPI of 233.8 means prices are 133.8% higher than they were in the base period, the market basket costs more than twice what it did in 1982–84. The chart below shows how the CPI has grown over several decades."
+    },
+    {
+      "type": "heading",
+      "text": "3. Calculating the inflation rate"
+    },
+    {
+      "type": "paragraph",
+      "text": "The **inflation rate** measures the percentage change in the CPI from one period to the next. The formula:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflation rate = [(CPInew − CPIold) ÷ CPIold] × 100"
+    },
+    {
+      "type": "paragraph",
+      "text": "Example using real BLS data: the CPI in August 2012 was 230.4, and exactly one year later it was 233.8. Plugging in:"
+    },
+    {
+      "type": "paragraph",
+      "text": "[(233.8 − 230.4) ÷ 230.4] × 100 = **1.48%**"
+    },
+    {
+      "type": "heading",
+      "text": "4. Types of inflation"
+    },
+    {
+      "type": "heading",
+      "text": "Creeping inflation"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Creeping inflation**, a slow, steady rise in prices in the range of 1 to 3 percent per year, is the norm in healthy, growing economies and is generally not considered a serious problem. Over the past two decades, the United States mostly experienced creeping inflation, with a notable exception from 2021 to 2023, when supply chain disruptions following the COVID-19 pandemic briefly pushed inflation above 7%."
+    },
+    {
+      "type": "heading",
+      "text": "Hyperinflation"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Hyperinflation**, typically defined as inflation of 500 percent or more per year, is catastrophic. At that rate, money loses its usefulness so quickly that people rush to spend cash the moment they receive it, since it will be worth significantly less by the end of the day. Businesses stop accepting the local currency. Trade collapses. Savings are wiped out. Hyperinflation almost always ends in a complete monetary collapse, forcing a country to abandon its currency and start over."
+    },
+    {
+      "type": "heading",
+      "text": "6. Causes of inflation"
+    },
+    {
+      "type": "paragraph",
+      "text": "No single explanation accounts for every inflation episode. Economists have identified four main mechanisms, and most real-world inflations involve more than one at the same time."
+    },
+    {
+      "type": "heading",
+      "text": "Demand-pull inflation"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Demand-pull inflation** occurs when total spending across all sectors of the economy, consumers, businesses, and governments combined, exceeds what the economy can actually produce. When more money chases the same amount of goods and services, sellers respond by raising prices. The result: prices are \"pulled\" upward by excessive demand."
+    },
+    {
+      "type": "heading",
+      "text": "Cost-push inflation"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Cost-push inflation** occurs when the costs of producing goods rise, particularly for widely used inputs like energy and labor, and producers pass those higher costs on to consumers through higher prices. In the 1970s, oil-exporting nations reduced their production, and crude oil prices jumped from about $5 per barrel to $35. Because energy is an input for nearly everything, manufacturing, transportation, farming, heating, that single price increase rippled through the entire economy."
+    },
+    {
+      "type": "heading",
+      "text": "Wage-price spiral"
+    },
+    {
+      "type": "paragraph",
+      "text": "The **wage-price spiral** is a self-reinforcing feedback loop that requires no single villain. The sequence: rising prices reduce workers' purchasing power, so workers demand higher wages. Employers who grant those wage increases face higher labor costs and raise their prices in response. Higher prices lead workers to demand still higher wages, and so the cycle continues, with each round of increases slightly larger than the last. Once the spiral is established, breaking it without causing a recession is extremely difficult."
+    },
+    {
+      "type": "heading",
+      "text": "Excessive monetary growth"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most widely cited explanation for sustained, long-run inflation is **excessive monetary growth**, when the money supply expands faster than real economic output (GDP). If the economy produces the same amount of goods but there is more money circulating, each dollar effectively buys less. The Federal Reserve controls the money supply and adjusts interest rates in part to keep this balance in check. When the money supply grows too fast, often to fund government spending or stimulate a slow economy, inflation tends to follow."
+    },
+    {
+      "type": "heading",
+      "text": "7. Consequences of inflation"
+    },
+    {
+      "type": "heading",
+      "text": "Reduced purchasing power"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Purchasing power** is the amount of goods and services a given amount of money can buy. Inflation directly reduces purchasing power, the same dollar buys less than it did before. At 3% annual inflation, the purchasing power of $100 falls to about $74 after 10 years, $54 after 20 years, and just $40 after 30 years. The chart below shows this erosion."
+    },
+    {
+      "type": "heading",
+      "text": "8. Nominal vs. real return"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once inflation is understood, it applies directly to every savings and investment decision. Every interest rate or investment gain has two versions: what it says on paper, and what it actually means after inflation is accounted for."
+    },
+    {
+      "type": "list",
+      "items": [
+        "The **nominal return** is the stated percentage, the number on a savings account statement, bond prospectus, or fund report. It ignores inflation entirely.",
+        "The **real return** is the nominal return minus the inflation rate, the actual gain in purchasing power. This is what matters for building wealth."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Real return ≈ Nominal return − Inflation rate"
+    },
+    {
+      "type": "paragraph",
+      "text": "At 3% inflation, a savings account paying 1% has a real return of −2%: losing purchasing power despite earning interest. A stock index fund averaging 7% has a real return of +4%, meaningfully building wealth over time."
+    },
+    {
+      "type": "heading",
+      "text": "Part II, Exchange Rates, Currency, and the Dollar"
+    },
+    {
+      "type": "heading",
+      "text": "9. What is foreign exchange?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every country uses the U.S. dollar. An American clothing firm importing suits from Great Britain must convert its dollars into British pounds, because the British firm wants to be paid in its own currency. This exchange happens every day, in every direction, all around the world, in the **foreign exchange** market."
+    },
+    {
+      "type": "paragraph",
+      "text": "The **foreign exchange rate** is the price of one country's currency expressed in terms of another. If one British pound costs $1.64, an American importer who needs £1,000 worth of goods must pay $1,640."
+    },
+    {
+      "type": "heading",
+      "text": "10. Fixed exchange rates"
+    },
+    {
+      "type": "paragraph",
+      "text": "For most of the twentieth century, the world operated on **fixed exchange rates**, a system in which the price of one currency is set at a specific rate relative to another and does not change with market forces. The most common anchor was gold: countries backed their currencies with gold reserves, and the fixed gold price kept exchange rates stable across borders. This was the **gold standard**."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fixed rates required monetary discipline. In August 1971, President Nixon announced the United States would no longer convert foreign-held dollars into gold, ending a system already strained by years of growing trade deficits that had drained U.S. reserves. Most major economies shifted to the flexible rate system used today."
+    },
+    {
+      "type": "heading",
+      "text": "11. Flexible exchange rates"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under **flexible exchange rates**, also called floating exchange rates, supply and demand set the value of each currency relative to others. No government decree; no gold anchor. Suppose the dollar trades at 7 Chinese yuan. American consumers buy large quantities of Chinese-made sandals. To pay for them, American importers sell dollars and buy yuan in the foreign exchange market, increasing the supply of dollars. As in any market, increased supply pushes the price down. The dollar falls from 7 yuan to 5 yuan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now each dollar buys only 5 yuan instead of 7, the dollar has **depreciated**. Those sandals, which cost 35 yuan, now cost $7 instead of $5. Imports from China get more expensive for Americans. But the reverse happens for Chinese buyers: a bushel of soybeans priced at $6 now costs 30 yuan instead of 42. American exports become cheaper for the world to buy. When the dollar falls, U.S. exporters benefit and importers pay more."
+    },
+    {
+      "type": "heading",
+      "text": "12. Trade deficits and surpluses"
+    },
+    {
+      "type": "paragraph",
+      "text": "A country has a **trade deficit** when the value of goods and services it imports exceeds the value of what it exports. It has a **trade surplus** when exports exceed imports. The United States has run a persistent trade deficit for decades, importing more than it exports."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under flexible exchange rates, trade imbalances tend to self-correct. A persistent deficit floods foreign exchange markets with dollars, weakening the currency, which makes imports more expensive and exports cheaper, gradually restoring balance without government intervention."
+    },
+    {
+      "type": "heading",
+      "text": "13. Strong vs. weak dollar, who wins, who loses"
+    },
+    {
+      "type": "paragraph",
+      "text": "A strong or weak dollar redistributes benefits and costs between different groups in the economy rather than creating or destroying them overall:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Dollar",
+        "Winners",
+        "Losers"
+      ],
+      "rows": [
+        [
+          "Strong",
+          "American consumers (cheaper imports), travelers abroad, companies that import raw materials",
+          "American exporters, domestic manufacturers competing with imports, U.S. farmers selling crops overseas"
+        ],
+        [
+          "Weak",
+          "American exporters, domestic manufacturers, U.S. farmers, tourism operators",
+          "American consumers (pricier imports), travelers abroad, oil-importing industries"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Quick recap"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Inflation** is a general rise in prices; deflation is a general fall. Both extremes are harmful, central banks target ~2% annual inflation.",
+        "**CPI** tracks inflation using a market basket of ~300 goods. Inflation rate = [(CPInew − CPIold) ÷ CPIold] × 100.",
+        "**Real return = nominal return − inflation rate.** What matters for building wealth is real return, not the stated interest rate.",
+        "**Foreign exchange** converts one currency into another so international trade can happen. The exchange rate is simply the price of one currency in terms of another.",
+        "**Fixed exchange rates** peg currencies to each other (historically via gold). They provide stability but require monetary discipline, and collapsed in 1971 when the U.S. ended dollar-gold convertibility.",
+        "**Flexible exchange rates** let supply and demand set currency values. More imports → more domestic currency sold → currency depreciates → imports become more expensive and exports cheaper.",
+        "**Strong dollar** helps importers and travelers, hurts exporters. **Weak dollar** helps exporters, hurts importers. Neither is unambiguously good for the economy as a whole."
+      ]
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Inflation Overview (Khan Academy)",
+      "creator": "Khan Academy · 10 min",
+      "url": "https://www.youtube.com/watch?v=beeiG6PCQgA"
+    },
+    {
+      "title": "Inflation and Bubbles Crash Course Economics #7",
+      "creator": "Crash Course · 9 min",
+      "url": "https://www.youtube.com/watch?v=GJ8OVl-OB8E"
+    },
+    {
+      "title": "Foreign Exchange and Trade Crash Course Economics #17",
+      "creator": "Crash Course · 9 min",
+      "url": "https://www.youtube.com/watch?v=9DVYVfI81R8"
+    },
+    {
+      "title": "Currency Exchange Introduction (Khan Academy)",
+      "creator": "Khan Academy · 8 min",
+      "url": "https://www.youtube.com/watch?v=itoNb1lb5hY"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "question": "In the base period, a market basket costs $2,000. Three years later, the same basket costs $2,700. What is the CPI for that later period, and what does it mean?",
+      "options": [
+        "CPI = 700, representing the dollar increase in the basket's cost",
+        "CPI = 270, calculated by dividing the current cost by 10",
+        "CPI = 35, representing the percentage-point increase in the index",
+        "CPI = 135, calculated as ($2,700 ÷ $2,000) × 100, meaning prices are 35% higher than in the base period"
+      ],
+      "correctIndex": 3,
+      "explanation": "The CPI formula is: (cost of basket in current period ÷ cost in base period) × 100. So ($2,700 ÷ $2,000) × 100 = 135. A CPI of 135 means prices are 35% higher than they were in the base period, not 135% higher. The base period always equals 100, and the index value shows the price level as a percentage of that baseline."
+    },
+    {
+      "question": "After a major government stimulus program, consumers receive large cash payments and rush to buy electronics, vehicles, and appliances. Stores quickly run low on inventory but keep receiving more orders. Prices across these categories rise sharply. Which type of inflation does this scenario best illustrate?",
+      "options": [
+        "Cost-push inflation, because the stimulus raised production costs for manufacturers",
+        "Stagflation, because government spending tends to slow economic growth",
+        "Wage-price spiral, because workers demanded raises after receiving stimulus payments",
+        "Demand-pull inflation, because consumers are spending more than the economy can immediately produce, pulling prices upward"
+      ],
+      "correctIndex": 3,
+      "explanation": "When spending across the economy, especially consumer spending, exceeds what producers can supply, shortages develop and prices rise. That is demand-pull inflation: excess demand 'pulls' prices up. In this scenario, the stimulus injected purchasing power faster than supply could respond. Cost-push would require input costs (like energy or labor) to rise first. The wage-price spiral is a self-reinforcing feedback loop, not a one-time demand spike."
+    },
+    {
+      "question": "Oil prices spike sharply after a major oil-exporting country cuts production. Transportation, manufacturing, and food production all become more expensive. Consumer prices rise across the economy. Which cause of inflation does this best illustrate?",
+      "options": [
+        "Demand-pull inflation, because higher oil prices cause consumers to increase spending on substitutes",
+        "Excessive monetary growth, because the oil price spike causes the Federal Reserve to print more money",
+        "Cost-push inflation, because the rising cost of a key production input, energy, raises costs for producers across many industries, which are then passed to consumers",
+        "Wage-price spiral, because oil workers demand higher wages when prices rise, which spreads to other industries"
+      ],
+      "correctIndex": 2,
+      "explanation": "When a key input cost, in this case, energy, rises sharply, it raises the cost of production across virtually every industry. Producers pass those higher costs on as higher prices. That is cost-push inflation: production costs pushing prices up from the supply side. The 1970s oil shocks are the classic historical example."
+    },
+    {
+      "question": "Inflation in the United States runs at 4% per year for five consecutive years. Which group is likely to be hurt the most?",
+      "options": [
+        "Retirees living on a fixed pension payment that does not adjust for inflation, because their purchasing power erodes while their income stays flat",
+        "Workers whose employers automatically raise wages by 5% each year to keep up with cost of living",
+        "Homeowners with 30-year fixed-rate mortgages, because the real value of their monthly payment falls over time",
+        "Businesses that sell consumer goods, because rising prices allow them to charge more and increase revenue"
+      ],
+      "correctIndex": 0,
+      "explanation": "People on fixed incomes, especially retirees with set pension payments, are hit hardest by inflation because their income does not grow while the prices of everything they buy do. Workers who receive cost-of-living raises, homeowners whose fixed mortgage payments become cheaper in real terms, and businesses that can raise their prices all have ways to at least partially offset inflation's effects."
+    },
+    {
+      "question": "A small country's central bank doubles the money supply in a single year in an attempt to cover a large government deficit. Real economic output grows only 3% during the same period. What is the MOST likely consequence, according to what happens when money supply grows much faster than real output?",
+      "options": [
+        "Deflation, because the new money increases productive capacity and lowers prices",
+        "A trade surplus, because the extra money will be channeled into export industries",
+        "Steady growth with no inflation, because the new money stimulates real production",
+        "Significant inflation, because far more money is now competing to purchase only slightly more actual goods and services"
+      ],
+      "correctIndex": 3,
+      "explanation": "When money supply grows much faster than real output, the extra money chases roughly the same quantity of goods, so prices rise. Doubling the money supply while real output grows only 3% means the economy has roughly twice as much money trying to buy only slightly more stuff. This mechanism underlies hyperinflation episodes in Weimar Germany (1923), Zimbabwe (2000s), and Venezuela (2010s), where governments printed money to cover debts and triggered monetary collapse."
+    },
+    {
+      "question": "A savings account pays 2% annual interest. The inflation rate for the year is 4%. What is the real return on this savings account?",
+      "options": [
+        "−2%, the account is losing purchasing power because inflation exceeds the interest earned",
+        "6%, the real return adds the nominal rate and inflation together",
+        "2%, the nominal rate is all that matters for measuring savings growth",
+        "0.5%, the real return is the nominal rate divided by the inflation rate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Real return ≈ nominal return − inflation rate = 2% − 4% = −2%. Despite earning 2% interest, prices rose 4%, so those dollars buy 2% less than they did a year ago. The account holder is gaining nominal dollars while losing real purchasing power. This is why relying solely on a low-yield savings account for long-term wealth building is problematic when inflation is significant."
+    },
+    {
+      "question": "The exchange rate between the U.S. dollar and the Japanese yen is 130 yen per dollar. An American company needs to pay a Japanese supplier 650,000 yen for parts. How many dollars must the company convert?",
+      "options": [
+        "$84,500,000, multiply yen by the exchange rate to get dollars",
+        "$65,000, divide the yen amount by 10 as a rough estimate",
+        "$5,000, divide the yen amount (650,000) by the exchange rate (130 yen per dollar)",
+        "$130,000, subtract the exchange rate from the yen amount"
+      ],
+      "correctIndex": 2,
+      "explanation": "To convert yen into dollars when the rate is 130 yen per $1, divide the yen amount by 130: 650,000 ÷ 130 = $5,000. The exchange rate tells how many units of foreign currency one dollar buys. To go foreign currency → dollars, divide by the rate. To go dollars → foreign currency, multiply by the rate."
+    },
+    {
+      "question": "In August 1971, President Nixon announced the United States would no longer convert foreign-held dollars into gold. This event is significant because it:",
+      "options": [
+        "Permanently fixed the dollar's exchange rate against all major currencies at that day's value",
+        "Ended the Bretton Woods fixed exchange rate system, leading to the flexible rate system used by most major economies today",
+        "Caused immediate hyperinflation in the United States as the money supply collapsed",
+        "Established the World Bank as the sole manager of international currency exchange"
+      ],
+      "correctIndex": 1,
+      "explanation": "The post-WWII Bretton Woods system fixed global currencies to the dollar, and fixed the dollar to gold at $35 per ounce. By the late 1960s, the U.S. trade deficit had flooded the world with dollars, and foreign governments began redeeming them for gold, draining U.S. reserves. When Nixon closed the 'gold window' in 1971, the fixed system collapsed. Countries gradually shifted to flexible (floating) exchange rates."
+    },
+    {
+      "question": "The United States imported $3.1 trillion worth of goods and services in a recent year while exporting $2.6 trillion. Which of the following accurately describes the U.S. trade position that year?",
+      "options": [
+        "A trade deficit of $500 billion, imports exceeded exports by that amount",
+        "A trade surplus of $500 billion, the U.S. sold more than it bought internationally",
+        "A balanced trade position, the $500 billion gap is within the normal margin",
+        "A currency surplus, the $500 billion gap means the dollar has appreciated against all major currencies"
+      ],
+      "correctIndex": 0,
+      "explanation": "A trade deficit occurs when the value of imports exceeds the value of exports. $3.1 trillion − $2.6 trillion = $500 billion trade deficit. In net terms, more money flows out to pay for foreign goods than flows in from foreigners buying American goods, which tends to put downward pressure on the dollar under a flexible exchange rate system."
+    },
+    {
+      "question": "Over the past decade, Americans have purchased far more goods from China than Chinese consumers have purchased from the United States. Under a flexible exchange rate system, what direct market effect does this persistent trade deficit create?",
+      "options": [
+        "The dollar strengthens, because American demand for Chinese goods proves the U.S. economy is healthy",
+        "The supply of dollars in foreign exchange markets increases, putting downward pressure on the dollar's value relative to the yuan",
+        "The yuan automatically adjusts to match the dollar, keeping the exchange rate stable",
+        "American consumers pay a tariff that compensates for the imbalance, keeping exchange rates neutral"
+      ],
+      "correctIndex": 1,
+      "explanation": "When Americans buy Chinese goods, they convert dollars into yuan to pay Chinese exporters, putting more dollars into foreign exchange markets. Increased supply of any currency pushes its price down. So persistent U.S. trade deficits with China tend to put downward pressure on the dollar relative to the yuan."
+    }
+  ],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

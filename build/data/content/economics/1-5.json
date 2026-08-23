@@ -1,0 +1,449 @@
+{
+  "course": "economics",
+  "unitNum": 1,
+  "num": "1.5",
+  "title": "Personal Finance: Income, Budgeting, Saving, and Investing",
+  "dateRange": null,
+  "status": "complete",
+  "standard": "E.1.b",
+  "readingMinutes": 18,
+  "interactiveModels": [
+    "budget-calculator",
+    "compound-interest-calculator"
+  ],
+  "tldr": [
+    "Income is money earned from work or investments. Gross income is before deductions; net income (take-home pay) is what remains after taxes, always budget from net.",
+    "A budget assigns every dollar a purpose. The 50/30/20 rule: 50% needs, 30% wants, 20% savings and debt repayment.",
+    "Build an emergency fund of 3–6 months of living expenses before investing anything, it prevents one bad event from forcing you into debt.",
+    "Compound interest rewards starting early above all else. $100/month at 7% for 40 years grows to $260,000, with only $48,000 contributed.",
+    "Saving is low-risk and for near-term goals. Investing is higher-risk and essential for long-term goals, because inflation quietly erodes uninvested cash over time.",
+    "The risk-return relationship: higher potential returns always require accepting higher risk. No exceptions.",
+    "Diversification, spreading investments across many assets, reduces risk. Index funds make diversification cheap and easy.",
+    "Always contribute enough to a 401(k) to capture the full employer match. That match is an immediate, guaranteed return on investment."
+  ],
+  "vocabulary": [
+    {
+      "term": "Income",
+      "definition": "Money received in exchange for work, the use of property, or investments."
+    },
+    {
+      "term": "Wages",
+      "definition": "Compensation calculated at an hourly rate for work performed."
+    },
+    {
+      "term": "Salary",
+      "definition": "A fixed annual amount paid in regular installments, regardless of exact hours worked."
+    },
+    {
+      "term": "Gross income",
+      "definition": "Total earnings before any taxes, deductions, or withholdings are removed."
+    },
+    {
+      "term": "Net income",
+      "definition": "Take-home pay, earnings after all taxes and deductions have been subtracted."
+    },
+    {
+      "term": "Budget",
+      "definition": "A plan that assigns income across spending categories, savings, and debt repayment over a set time period."
+    },
+    {
+      "term": "Fixed expense",
+      "definition": "A bill that stays the same amount every month, such as rent or a car payment."
+    },
+    {
+      "term": "Variable expense",
+      "definition": "A cost that changes month to month, such as groceries, gas, or entertainment."
+    },
+    {
+      "term": "50/30/20 rule",
+      "definition": "A budgeting guideline: 50% of take-home pay for needs, 30% for wants, 20% for savings and debt repayment."
+    },
+    {
+      "term": "Emergency fund",
+      "definition": "A cash reserve of three to six months of living expenses, kept in a savings account for unexpected costs."
+    },
+    {
+      "term": "Certificate of deposit (CD)",
+      "definition": "A savings product that pays a higher interest rate than a regular savings account in exchange for leaving money deposited for a fixed period."
+    },
+    {
+      "term": "Compound interest",
+      "definition": "Interest calculated on both the original principal and all previously earned interest, causing balances to grow faster over time."
+    },
+    {
+      "term": "Inflation",
+      "definition": "The general rise in prices over time, which reduces the purchasing power of money not invested."
+    },
+    {
+      "term": "Risk-return relationship",
+      "definition": "The principle that higher potential investment returns always come with higher risk of loss, consistent high returns without risk do not exist."
+    },
+    {
+      "term": "Bond",
+      "definition": "A formal contract in which an investor loans money to a government or corporation for a set period in exchange for regular interest payments and repayment of the principal at maturity."
+    },
+    {
+      "term": "Stock (equity)",
+      "definition": "A share of ownership in a corporation. Stockholders may receive dividends and benefit from price increases, but may also lose money if the company performs poorly."
+    },
+    {
+      "term": "Diversification",
+      "definition": "Spreading investments across many different assets so that losses in one position do not wipe out an entire portfolio."
+    },
+    {
+      "term": "Mutual fund",
+      "definition": "An investment company that pools money from many investors to buy a diversified portfolio of stocks, bonds, or both."
+    },
+    {
+      "term": "401(k)",
+      "definition": "A tax-deferred workplace retirement plan where contributions are made before taxes and many employers match a portion of employee contributions."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Every financial decision, whether to spend or save, rent or buy, invest or hold cash, starts with one basic resource: income. Understanding where income comes from, how to allocate it wisely, and how to make it grow over time is the foundation of personal finance. These skills are not just useful for later, they apply the moment any person earns their first paycheck."
+    },
+    {
+      "type": "heading",
+      "text": "1. Income, Where Money Comes From"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before a budget can exist, there has to be money to budget. **Income** is money received in exchange for work, the use of property, or investments. For most working people, income arrives in one of a few forms:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Wages**, pay calculated at an hourly rate. A worker logging 40 hours at $15/hour earns $600 in gross wages that week.",
+        "**Salary**, a fixed annual amount paid in regular installments regardless of exact hours worked. A teacher earning $55,000 per year receives roughly $2,115 every two weeks on a 26-pay-period schedule.",
+        "**Commission**, pay tied to sales performance, common in retail, real estate, and insurance. A car salesperson who earns 3% of each sale earns $750 on a $25,000 car.",
+        "**Tips**, extra payments from customers directly to a service worker, such as a server or delivery driver."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a critical difference between **gross income**, total earnings before any deductions, and **net income**, also called take-home pay, what actually lands in a bank account after taxes and deductions are removed. Federal income tax, Social Security (6.2%), and Medicare (1.45%) are automatically withheld from most paychecks. State income taxes apply in most states. Health insurance premiums and retirement contributions may also be deducted."
+    },
+    {
+      "type": "funFact",
+      "text": "The federal minimum wage has been **$7.25 per hour since 2009**, the longest stretch without an increase in U.S. history. At 40 hours a week, 52 weeks a year, that amounts to $15,080 in gross annual income, **below the federal poverty line** for a family of two. Many states and cities have set their own higher minimums. As of 2024, California's statewide minimum is $16/hour, and fast food workers there earn at least $20/hour. The same job can pay very differently depending on location."
+    },
+    {
+      "type": "heading",
+      "text": "2. Budgeting, Telling Money Where to Go"
+    },
+    {
+      "type": "paragraph",
+      "text": "A **budget** is a plan for how to spend and save money over a specific time period, usually a month. Without a budget, spending tends to expand to fill whatever income is available, a pattern sometimes called lifestyle inflation. With a budget, every dollar gets assigned a purpose before it leaves the account."
+    },
+    {
+      "type": "heading",
+      "text": "Fixed vs. variable expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses fall into two categories that behave very differently:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Fixed expenses**, bills that are the same amount every month. Rent, a car payment, a gym membership, and a phone plan are fixed. They are predictable and easy to plan around.",
+        "**Variable expenses**, costs that change month to month. Groceries, gas, restaurant meals, and entertainment are variable. These are harder to predict and are usually the first target when a budget needs to be trimmed."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "The 50/30/20 rule"
+    },
+    {
+      "type": "paragraph",
+      "text": "One widely used budgeting framework, popularized by Harvard Law professor Elizabeth Warren (later a U.S. senator), is the **50/30/20 rule**:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 50% needs category covers the basics that would cause serious problems if skipped: rent, electricity, food, getting to work. The 30% wants category covers things that make life enjoyable but could be cut in a financial crunch. The 20% savings category is what separates people who build financial security from those who are always one unexpected bill away from a crisis."
+    },
+    {
+      "type": "heading",
+      "text": "Why budgets fail"
+    },
+    {
+      "type": "paragraph",
+      "text": "Budgets fail most often not because of arithmetic errors but because of small, habitual purchases that feel insignificant individually yet add up substantially over a month or year. The enemy of a budget is spending by default rather than by decision."
+    },
+    {
+      "type": "heading",
+      "text": "3. Saving, Building a Financial Foundation"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Saving** means setting aside a portion of current income instead of spending it immediately. At its most basic, saving is the act of consuming less than is earned. The money not spent can be stored for future use, whether that use is a car repair next month or retirement in 40 years."
+    },
+    {
+      "type": "heading",
+      "text": "The emergency fund, first priority"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first savings goal for any individual is an **emergency fund**, a reserve of cash kept in a savings account and used only for unexpected, necessary expenses: a car repair, a medical bill, a sudden job loss. Financial advisors almost universally recommend building an emergency fund of three to six months' worth of living expenses before making any other investments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Without one, an unexpected $800 car repair forces a choice between credit card debt at 20% interest or raiding long-term savings. Either option is costly. With an emergency fund, the same $800 repair is a minor inconvenience, the bill gets paid, the fund gets replenished over the following weeks, and nothing else changes."
+    },
+    {
+      "type": "heading",
+      "text": "Where savings are stored"
+    },
+    {
+      "type": "list",
+      "items": [
+        "A **savings account** at a bank or credit union holds money safely, pays a small amount of interest, and can be withdrawn at any time. FDIC insurance protects accounts up to $250,000 per depositor even if the bank fails.",
+        "A **certificate of deposit (CD)** locks money in for a fixed period in exchange for a higher interest rate than a savings account. Withdrawing early incurs a penalty, so CDs suit money that will not be needed until a specific future date."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "The power of compound interest"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Compound interest** is interest calculated on both the original principal and on all interest already earned. It makes money grow faster the longer it is left untouched, and it is one of the most powerful concepts in personal finance. The critical insight is that *starting earlier matters far more than contributing larger amounts*."
+    },
+    {
+      "type": "heading",
+      "text": "4. Financial Goals, Saving with a Purpose"
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial goals fall into three time horizons: **short-term** (under one year, use savings accounts or short-term CDs), **medium-term** (one to five years, CDs or conservative investments), and **long-term** (five or more years, stocks and mutual funds where there is time to recover from market swings). Matching the right savings vehicle to the time horizon is one of the most practical decisions in personal finance."
+    },
+    {
+      "type": "heading",
+      "text": "5. Saving vs. Investing, What Is the Difference?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The words \"saving\" and \"investing\" are often used interchangeably, but they describe two different behaviors with different risk levels, time horizons, and purposes."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Saving** places money in low-risk, low-return accounts, savings accounts, CDs. The original amount is essentially guaranteed to still be there when needed. Return is modest, but so is risk.",
+        "**Investing** places money into financial assets, stocks, bonds, mutual funds, where the value can rise or fall. Returns are potentially much higher over the long run, but there is real risk of losing part of the principal, particularly in the short term."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The reason investing matters despite the risk is **inflation**, the general rise in prices over time. The U.S. has historically averaged about 3% annual inflation. A savings account paying 0.5% interest is actually *losing purchasing power* each year. A dollar saved today buys less in 10 years. Over 30 years, inflation cuts the purchasing power of uninvested cash roughly in half. Investing in assets that outpace inflation is how wealth is preserved and built over a lifetime."
+    },
+    {
+      "type": "heading",
+      "text": "The risk-return relationship"
+    },
+    {
+      "type": "paragraph",
+      "text": "All investing involves a fundamental trade-off: the higher the potential return, the greater the risk of loss. This is called the **risk-return relationship**. There is no consistent way to earn high returns without accepting higher risk. Any investment claiming otherwise is almost certainly a scam."
+    },
+    {
+      "type": "heading",
+      "text": "6. Types of Financial Assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "A **financial asset** is a document or account representing a loan made or ownership taken, a claim on someone else's money or future income. The financial system connects savers (people with money to spare) to borrowers (people who need money) through institutions like banks. Here are the most important financial assets:"
+    },
+    {
+      "type": "heading",
+      "text": "Bonds"
+    },
+    {
+      "type": "paragraph",
+      "text": "A **bond** is a loan from an investor to a government or corporation: the borrower pays regular interest and returns the principal at a fixed end date (maturity). **Treasury bonds** (U.S. government) are lowest-risk; **municipal bonds** (state/local, often tax-exempt) are slightly riskier; **corporate bonds** pay higher interest to compensate for the chance a company defaults."
+    },
+    {
+      "type": "heading",
+      "text": "Stocks and equities"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Stock** (also called an **equity**) is a share of ownership in a corporation. When a company sells stock, it is selling small pieces of itself to raise money. In exchange, stockholders may receive **dividends**, periodic payments from company profits, and benefit from any rise in the stock's price over time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stock prices are determined by supply and demand. When investors expect a company to perform well, demand for its stock rises and the price goes up. When expectations turn negative, after bad earnings, a product recall, or a scandal, the price falls. Unlike bonds, stocks carry no guaranteed return. A company can go bankrupt, and stockholders can lose everything they invested."
+    },
+    {
+      "type": "heading",
+      "text": "Mutual funds"
+    },
+    {
+      "type": "paragraph",
+      "text": "A **mutual fund** is a company that pools money from thousands of investors and uses it to buy a diversified portfolio of stocks, bonds, or both. Instead of picking individual stocks, an investor buys shares of the fund and gains exposure to all the investments inside it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mutual funds provide **diversification**, spreading investments across many assets so that a loss in one does not wipe out the whole portfolio. Buying 100 shares of 10 different companies is safer than buying 1,000 shares of one company at the same total cost: losses in some positions are offset by gains in others. An **index fund** is a type of mutual fund that simply tracks a market index, like the S&P 500, which includes the 500 largest U.S. companies, at very low cost."
+    },
+    {
+      "type": "heading",
+      "text": "Retirement accounts, 401(k) and IRA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Two important vehicles for long-term saving combine investing with tax advantages:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "A **401(k)** is a workplace retirement plan where contributions come out of a paycheck before taxes, reducing taxable income today. Many employers match a portion of contributions, for example, 50 cents for every dollar the employee contributes up to 6% of salary. That employer match is essentially free money added on top of whatever the account earns in the market.",
+        "An **Individual Retirement Account (IRA)** is a personal retirement account available to anyone with earned income, not tied to an employer. Traditional IRAs offer a tax deduction on contributions; Roth IRAs are funded with after-tax money, but all withdrawals in retirement are completely tax-free."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The most important rule with 401(k) plans: always contribute at least enough to capture the full employer match. Not doing so is the equivalent of leaving a guaranteed, immediate return on investment on the table."
+    },
+    {
+      "type": "heading",
+      "text": "Quick recap before the quiz"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Income** arrives as wages (hourly), salary (fixed), commission, or tips. Gross income is before deductions; net income is what goes into the bank after taxes, and budgeting always starts from net.",
+        "A **budget** is a spending and saving plan. The 50/30/20 rule divides take-home pay: 50% needs, 30% wants, 20% savings and debt repayment.",
+        "An **emergency fund** of three to six months of expenses is the first savings priority, it prevents a single unexpected bill from derailing an entire financial plan.",
+        "**Compound interest** rewards time above all else. Starting earlier matters more than contributing larger amounts later.",
+        "**Saving** (savings accounts, CDs) is low-risk for near-term needs. **Investing** (stocks, bonds, mutual funds) accepts higher risk for higher long-run returns — necessary because inflation erodes uninvested cash. Higher potential return always means higher risk: no exceptions. **Diversification** spreads that risk across many assets; index funds do it cheaply.",
+        "A **401(k) employer match** is free money. Contribute enough to capture it fully."
+      ]
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Personal Finance in Under 8 Minutes",
+      "creator": "Two Cents · 8 min",
+      "url": "https://www.youtube.com/watch?v=HQzoZfc3GwQ"
+    },
+    {
+      "title": "Saving and Investing (Khan Academy)",
+      "creator": "Khan Academy · 9 min",
+      "url": "https://www.youtube.com/watch?v=GilQgb89mJM"
+    },
+    {
+      "title": "Compound Interest Explained",
+      "creator": "Khan Academy · 6 min",
+      "url": "https://www.youtube.com/watch?v=3hBKRAFAcIo"
+    },
+    {
+      "title": "How the Stock Market Works (Crash Course Economics #8)",
+      "creator": "Crash Course · 10 min",
+      "url": "https://www.youtube.com/watch?v=UNFE0HJFBHM"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "question": "A worker earns $18 per hour and works 40 hours this week. After federal and state taxes plus Social Security and Medicare are withheld, the paycheck shows $518. The $518 is best described as:",
+      "options": [
+        "Net income, the actual take-home amount after all deductions",
+        "Gross income, earnings before any deductions",
+        "A salary, a fixed annual payment divided into installments",
+        "Commission, pay based on sales performance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gross income is the full amount earned before any deductions ($18 × 40 = $720). Net income, also called take-home pay, is what remains after federal and state income taxes, Social Security (6.2%), and Medicare (1.45%) are withheld. The $518 is net income. Financial planning always starts from net income, not gross."
+    },
+    {
+      "question": "A household brings home $3,000 per month after taxes. Using the 50/30/20 rule, how much should be allocated to \"wants\" like dining out and entertainment?",
+      "options": [
+        "$1,500",
+        "$600",
+        "$900",
+        "$300"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 50/30/20 rule allocates 30% of take-home pay to wants. 30% of $3,000 = $900. The remaining splits are $1,500 for needs (50%) and $600 for savings and debt repayment (20%)."
+    },
+    {
+      "question": "A financial planner advises building an emergency fund before making any other investments. The main reason for this priority is:",
+      "options": [
+        "Emergency funds earn more interest than stocks over the long run",
+        "Without emergency savings, an unexpected expense forces costly borrowing or liquidating long-term investments at the wrong time",
+        "The government requires emergency funds before allowing retirement account contributions",
+        "Emergency funds are tax-deductible, making them more valuable than other investments"
+      ],
+      "correctIndex": 1,
+      "explanation": "An emergency fund acts as a financial buffer. Without one, a $1,000 car repair might force someone to use a credit card at 20% interest or withdraw from a retirement account, triggering penalties and taxes. With three to six months of expenses in a savings account, the same event is a minor inconvenience rather than a financial crisis."
+    },
+    {
+      "question": "Two people both invest $100 per month at 7% annual return. Person A starts at age 25 and stops at age 65. Person B starts at age 35 and also stops at age 65. Which of the following is the MOST accurate statement about their outcomes?",
+      "options": [
+        "Both people end up with the same amount since they contributed the same monthly amount",
+        "Person B ends up with more money because they invested during a more productive period of the stock market",
+        "The difference is negligible, monthly contribution amount matters far more than starting age",
+        "Person A ends up with significantly more money, even though they contributed the same amount per month, because their money compounded for 10 more years"
+      ],
+      "correctIndex": 3,
+      "explanation": "Compound interest rewards time above all else. Person A contributes $48,000 over 40 years and ends up with approximately $260,000. Person B contributes $36,000 over 30 years and ends up with approximately $115,000. Person A's 10 extra years of compounding more than doubles the final balance. Starting earlier is more powerful than contributing more later."
+    },
+    {
+      "question": "Inflation in the United States averages about 3% per year. A savings account pays 0.5% annual interest. What is the real effect on purchasing power for money kept in this account over 10 years?",
+      "options": [
+        "Purchasing power decreases, the interest rate is lower than inflation, so the money buys less each year even though the balance grows slightly",
+        "Purchasing power increases, any positive interest rate protects against inflation",
+        "Purchasing power stays the same, FDIC insurance prevents any loss",
+        "Purchasing power increases only if the account compounds monthly rather than annually"
+      ],
+      "correctIndex": 0,
+      "explanation": "Inflation measures the rate at which prices rise. If prices rise 3% annually but savings earn only 0.5%, the balance grows, but it cannot keep up with the rising cost of goods. The real (inflation-adjusted) return is approximately 0.5% − 3% = −2.5% per year. Over 10 years, the purchasing power of that money falls noticeably. This is why long-term savings typically need to be invested, not just held in a low-yield account."
+    },
+    {
+      "question": "An investor is comparing two bonds with identical par values, maturity dates, and coupon rates, but one is rated AAA and the other is rated BB (junk). Which of the following is consistent with the risk-return relationship?",
+      "options": [
+        "Both bonds will sell for the same price because they have the same coupon rate",
+        "The AAA bond sells at a higher price and lower yield; the BB bond sells at a lower price and higher yield",
+        "The BB bond sells at a higher price because higher risk commands a premium",
+        "Bond ratings do not affect price, only the Federal Reserve's interest rate decisions matter"
+      ],
+      "correctIndex": 1,
+      "explanation": "The risk-return relationship states that investors demand higher returns to compensate for higher risk. A BB-rated (junk) bond is more likely to default, so investors will only buy it at a discount, a lower price, which mathematically produces a higher yield. An AAA bond is safer, so investors pay more for it, which produces a lower yield. Prices and yields always move in opposite directions for bonds."
+    },
+    {
+      "question": "A mutual fund holds shares in 500 different companies across 20 industries. An investor who puts money into this fund rather than buying shares in a single company benefits most directly from:",
+      "options": [
+        "Diversification, losses in any one company or sector are offset by performance in others, reducing overall risk",
+        "Higher guaranteed returns compared to individual stocks",
+        "Tax-exempt status that individual stocks do not receive",
+        "The ability to withdraw money without any tax consequences"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diversification is the key benefit of mutual funds. When a portfolio holds hundreds of different assets, a single company going bankrupt or a single sector declining does not destroy the whole portfolio. Other positions offset the losses. Individual stocks do not provide this protection, owning one company means the investor is fully exposed to that company's performance."
+    },
+    {
+      "question": "A worker's employer offers a 401(k) plan and matches 50 cents for every dollar the worker contributes, up to 6% of salary. The worker earns $40,000 per year and currently contributes nothing to the 401(k). What is the annual cost of not contributing the full 6%?",
+      "options": [
+        "Nothing, the employer match is only valuable after 10 years of service",
+        "The worker pays a $500 penalty for not participating",
+        "The cost depends on stock market performance and cannot be calculated in advance",
+        "The worker misses $1,200 in free employer contributions per year"
+      ],
+      "correctIndex": 3,
+      "explanation": "6% of $40,000 = $2,400. The employer matches 50% of that, or $1,200 per year in free contributions the worker would receive simply by contributing $2,400 themselves. By contributing nothing, the worker is leaving $1,200 per year on the table, money that would immediately be added to their account on top of whatever the investments earn. Capturing the full employer match is one of the best available financial decisions."
+    },
+    {
+      "question": "A high school student wants to save $2,400 for a used car in two years. Which combination of strategies is MOST consistent with sound personal finance principles?",
+      "options": [
+        "Put the entire $2,400 goal amount on a credit card now and pay it off over two years",
+        "Invest the full amount in a single high-growth tech stock to maximize returns over two years",
+        "Keep all savings in cash at home to avoid any bank fees",
+        "Save $100 per month in a savings account or short-term CD, and build a small emergency fund alongside the car savings so an unexpected expense does not derail the goal"
+      ],
+      "correctIndex": 3,
+      "explanation": "$2,400 over 24 months = $100/month, a realistic, specific, time-bound goal. A savings account or CD is the right vehicle for a short-term goal because the money needs to be available in two years and cannot afford to lose value in a market downturn. Building a small emergency fund simultaneously ensures that a single unexpected expense does not force the student to raid the car savings. Credit card debt is expensive (high interest), and a single stock is highly volatile for a two-year horizon, both violate the risk-return principle for short-term goals."
+    }
+  ],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

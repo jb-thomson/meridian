@@ -1,0 +1,466 @@
+{
+  "course": "economics",
+  "unitNum": 1,
+  "num": "1.1",
+  "title": "What Is Economics? Scarcity and Economic Thinking",
+  "dateRange": null,
+  "status": "complete",
+  "standard": "E.1.a",
+  "readingMinutes": 20,
+  "interactiveModels": [],
+  "tldr": [
+    "Scarcity = unlimited wants + limited resources. This gap forces every person and society to choose.",
+    "Economics studies those choices. Microeconomics = individuals and firms. Macroeconomics = the whole economy.",
+    "Needs are survival requirements (food, shelter, clothing). Wants are everything else layered on top.",
+    "Goods are tangible things you can touch (durable, nondurable, consumer, or capital). Services are intangible work performed for you.",
+    "For something to have high value it needs both scarcity AND utility. That is why diamonds cost more than water even though water keeps you alive - the paradox of value.",
+    "TINSTAAFL: someone always pays, even when something looks free to you.",
+    "Every society must answer three questions: WHAT to produce, HOW to produce it, and FOR WHOM."
+  ],
+  "vocabulary": [
+    {
+      "term": "Scarcity",
+      "definition": "The fundamental economic problem of having limited resources to meet seemingly unlimited wants."
+    },
+    {
+      "term": "Economics",
+      "definition": "The social science that studies how people use scarce resources to satisfy unlimited wants and needs."
+    },
+    {
+      "term": "Microeconomics",
+      "definition": "The study of the choices made by individuals, households, and individual businesses."
+    },
+    {
+      "term": "Macroeconomics",
+      "definition": "The study of the economy as a whole - inflation, unemployment, national output."
+    },
+    {
+      "term": "Need",
+      "definition": "A basic requirement for survival, such as food, clothing, or shelter."
+    },
+    {
+      "term": "Want",
+      "definition": "Something a person would like to have but does not need to survive."
+    },
+    {
+      "term": "Good",
+      "definition": "A tangible item that satisfies a want or need."
+    },
+    {
+      "term": "Service",
+      "definition": "Work or labor performed for someone else; intangible."
+    },
+    {
+      "term": "Durable good",
+      "definition": "A good that lasts three years or more with regular use."
+    },
+    {
+      "term": "Nondurable good",
+      "definition": "A good that wears out, is used up, or lasts less than three years."
+    },
+    {
+      "term": "Consumer good",
+      "definition": "A good intended for final use by individuals."
+    },
+    {
+      "term": "Capital good",
+      "definition": "A tool or piece of equipment used by a business to produce other goods."
+    },
+    {
+      "term": "Value",
+      "definition": "The monetary worth of a good or service."
+    },
+    {
+      "term": "Utility",
+      "definition": "The capacity of a good or service to be useful and provide satisfaction."
+    },
+    {
+      "term": "Paradox of value",
+      "definition": "The apparent contradiction that essential items (like water) often cost less than nonessential items (like diamonds)."
+    },
+    {
+      "term": "Wealth",
+      "definition": "The accumulation of tangible products that are scarce, useful, and transferable."
+    },
+    {
+      "term": "TINSTAAFL",
+      "definition": "\"There Is No Such Thing As A Free Lunch\" - every choice has a cost because resources are scarce."
+    },
+    {
+      "term": "Choice",
+      "definition": "The act of selecting one option from a set of alternatives. Because resources are scarce, every choice means giving something else up."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Every economic decision - what to eat, what to study, what to buy, what career to pursue - is shaped by one stubborn fact: resources are limited, but the things people want are not. Time, money, energy, and the world's natural resources are all finite. The list of things people would like to have is essentially endless. Economics is the study of how individuals and societies deal with that gap."
+    },
+    {
+      "type": "heading",
+      "text": "1. Scarcity - the core problem"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even a person with a thousand dollars cannot buy *everything* they want. Add up everyone's wants across an entire country and the gap gets even bigger. There are simply not enough resources on Earth to produce every good and service that every person would like to have."
+    },
+    {
+      "type": "paragraph",
+      "text": "That gap has a name: **scarcity** is the condition that results from society not having enough resources to produce all the things people would like to have. Scarcity is not the same thing as poverty. A billionaire still faces scarcity - they only have 24 hours in a day, and they cannot be in two places at once. Scarcity is the fundamental economic problem facing every person and every society."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because resources are scarce, every person and every society is forced to **make choices**. **Economics** is the study of how people make those choices."
+    },
+    {
+      "type": "image",
+      "caption": "Florence Owens Thompson, photographed by Dorothea Lange in Nipomo, California, 1936. The image became a symbol of scarcity and hardship during the Great Depression. Dorothea Lange / Farm Security Administration. Public domain.",
+      "src": "assets/images/economics/migrant-mother-1936.jpg",
+      "alt": "Migrant Mother, a photograph by Dorothea Lange, 1936",
+      "imageType": "public_domain_historical",
+      "attribution": ""
+    },
+    {
+      "type": "funFact",
+      "text": "In March 2020, Americans bought **2.3 billion more rolls of toilet paper than usual in a single month** after COVID-19 hit. Prices on Amazon surged 700% overnight - people paid $80 for a 12-pack that normally costs $7. A man in Tennessee stockpiled 17,700 bottles of hand sanitizer to resell and ended up forced to donate all of it after going viral. Overnight scarcity turned a $2 product into something people hoarded, fought over in store aisles, and got arrested trying to flip for profit. Scarcity is not ancient history - it happened in 2020, and it will happen again."
+    },
+    {
+      "type": "heading",
+      "text": "Micro vs. macro"
+    },
+    {
+      "type": "paragraph",
+      "text": "Economists divide the field into two zoom levels:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Microeconomics** - the close-up view. It studies the choices of individual people, households, and businesses. (Should I buy AirPods or save for a car? Should this restaurant raise its prices?)",
+        "**Macroeconomics** - the wide-angle view. It studies the economy as a whole. (Why is unemployment up? Why are prices in the U.S. rising faster this year than last year?)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This course uses both. Most of Unit 1 is micro - individual choices, spending, and personal finance."
+    },
+    {
+      "type": "heading",
+      "text": "2. Needs vs. wants"
+    },
+    {
+      "type": "paragraph",
+      "text": "Economists make a careful distinction between two words people often mix up:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "A **need** is a basic requirement for survival - food, clothing, shelter, basic medical care.",
+        "A **want** is something you would *like* to have but do not need to survive - a new phone, a concert ticket, a specific brand of sneakers."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The line is not always sharp. You need food to live, but you do not need sushi. The food is the need; the sushi is the want layered on top of it. Almost every product you buy is some mix of need and want. Economists care about this distinction because needs and wants behave differently in markets - people will pay almost any price for a true need, but they will walk away from a want if the price gets too high."
+    },
+    {
+      "type": "heading",
+      "text": "3. Goods and services"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you trade money for something useful, that \"something\" is called an **economic product**. Economic products come in two flavors."
+    },
+    {
+      "type": "heading",
+      "text": "Goods - tangible items"
+    },
+    {
+      "type": "paragraph",
+      "text": "A **good** is a tangible item that satisfies a want or need - a textbook, a pair of shoes, a phone, a bottle of water. Economists sort goods into a few useful categories. Don't memorize them as trivia - notice that the categories overlap. A car can be both a durable good *and* a consumer good at the same time."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Durable good** - lasts three years or more with regular use. Cars, refrigerators, tools, laptops.",
+        "**Nondurable good** - wears out, gets used up, or lasts less than three years. Food, gasoline, soap, most clothing.",
+        "**Consumer good** - intended for final use by a regular person, not a business. Your sneakers are a consumer good.",
+        "**Capital good** - a tool, machine, or piece of equipment a business uses to make other goods. A pizza oven at Domino's is a capital good; the pizza you buy is a consumer good."
+      ]
+    },
+    {
+      "type": "image",
+      "caption": "An industrial factory in the Swansea valley, Wales. The machinery, furnaces, and equipment inside are capital goods - tools a business uses to produce other goods. The products shipped out are consumer goods. Public domain.",
+      "src": "assets/images/economics/swansea-valley-factory.jpg",
+      "alt": "Industrial factory with smokestacks in the Swansea valley",
+      "imageType": "public_domain_historical",
+      "attribution": ""
+    },
+    {
+      "type": "heading",
+      "text": "Services (work performed for you)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A **service** is work or labor someone performs for someone else - a haircut, a doctor's appointment, a Spotify subscription, a teacher's instruction, a Netflix stream. The key difference: a good is something you can touch; a service is not."
+    },
+    {
+      "type": "heading",
+      "text": "4. Value, utility, and the paradox of value"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is a puzzle that bothered philosophers for hundreds of years. Water is essential for life - you would literally die without it - yet a bottle of water costs about a dollar. Diamonds are basically useless for survival, yet a small one can cost thousands. Why is the thing you cannot live without so cheap, and the thing you do not need so expensive?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This puzzle is called the **paradox of value**. The Scottish economist Adam Smith cracked it in 1776 in his famous book *The Wealth of Nations*. His answer takes two ideas:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Scarcity** - how rare something is.",
+        "**Utility** - the capacity of a good or service to be useful and provide satisfaction to someone."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For something to have high monetary **value** - a worth that can be measured in dollars - it has to have **both** scarcity and utility. Water has lots of utility but, in most places, it is not scarce, so its price stays low. Diamonds have some utility (they're pretty, they cut hard materials) and they are extremely scarce, so their price is high. Mystery solved."
+    },
+    {
+      "type": "image",
+      "src": "assets/images/economics/adam-smith.jpg",
+      "alt": "Portrait of Adam Smith, the Muir portrait",
+      "imageType": "public_domain_historical",
+      "caption": "Adam Smith (1723-1790), Scottish economist. His 1776 book *The Wealth of Nations* laid the foundation for modern economics and solved the paradox of value.",
+      "attribution": "Known as the Muir portrait, artist unknown, c. 1800, after a medallion by James Tassie. Scottish National Gallery. Public domain."
+    },
+    {
+      "type": "paragraph",
+      "text": "One important note about utility: it is not fixed and it is not the same for everyone. One person may get massive satisfaction from a concert ticket; their friend might find the same concert boring. Utility lives in the head of the person using the product."
+    },
+    {
+      "type": "heading",
+      "text": "5. Wealth"
+    },
+    {
+      "type": "paragraph",
+      "text": "A country's **wealth** is everything tangible, scarce, useful, and transferable that it owns: natural resources, factories, houses, cars, roads, and equipment. Services do not count as wealth - a haircut cannot be stored or passed to someone else."
+    },
+    {
+      "type": "heading",
+      "text": "6. TINSTAAFL - there is no such thing as a free lunch"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because resources are scarce, everything has a cost - even when it looks free. Economists abbreviate this with the awkward but memorable acronym **TINSTAAFL**: **T**here **I**s **N**o **S**uch **T**hing **A**s **A** **F**ree **L**unch."
+    },
+    {
+      "type": "paragraph",
+      "text": "A \"buy one, get one free\" sandwich is not actually free. The restaurant still paid for the bread, the meat, the worker, the electricity, and the rent. That cost gets baked into the price of the first sandwich. Somewhere, somebody paid. Every time something looks free, ask yourself who is actually paying."
+    },
+    {
+      "type": "funFact",
+      "text": "TikTok, Instagram, and YouTube are \"free\" - but Meta (Facebook's parent company) made **$134 billion in revenue in 2023**, almost entirely by selling ads targeted using your personal data. The average American's data - their browsing habits, watch history, location, and purchases - is worth roughly **$240 per year to advertisers**. You are not the customer. You are the product. TINSTAAFL, every single time you open your phone."
+    },
+    {
+      "type": "heading",
+      "text": "7. The three economic questions every society must answer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because no society can produce everything its people want, every society - no matter how rich, poor, capitalist, or communist - has to answer three questions:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**WHAT to produce?** Should we use our limited steel and labor to build hospitals or fighter jets? Luxury apartments or affordable housing? Streaming shows or news?",
+        "**HOW to produce it?** Use lots of machines and few workers, or fewer machines and more workers? Build in the U.S. or overseas? Use clean energy or cheap energy?",
+        "**FOR WHOM to produce it?** Who actually gets the stuff once it's made? The people who can pay the most? The people who need it most? The people the government chooses?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Different countries answer these three questions very differently. In North Korea, the government decides almost everything. In the United States, consumers' spending decisions answer most of the \"WHAT\" question - companies make what people are willing to pay for. Sections 1.3 and 1.4 compare those systems in detail."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice that the third question, FOR WHOM, is not just an economic question - it is also an ethical one. Who deserves what? Is it fair that some people can afford more than others? Economists do not always answer those questions, but they do recognize that choices have moral dimensions, not just financial ones."
+    },
+    {
+      "type": "image",
+      "caption": "Men queue outside a Chicago soup kitchen, February 1931. When resources fall drastically short of demand, every society confronts the hardest version of the third economic question: for whom are goods produced? National Archives and Records Administration. Public domain.",
+      "src": "assets/images/economics/chicago-soup-kitchen-1931.jpg",
+      "alt": "Long line of men waiting outside a Depression-era soup kitchen in Chicago, 1931",
+      "imageType": "public_domain_historical",
+      "attribution": ""
+    },
+    {
+      "type": "heading",
+      "text": "8. So what does an economist actually do?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Economics is a *social science* - it studies human behavior using evidence and reasoning. Economists do four things:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Describe** - measure what's happening. (Example: **gross domestic product**, or GDP, is the total dollar value of all final goods and services produced inside a country in a year. It's the most common scoreboard for an economy.)",
+        "**Analyze** - ask why. Why are some prices high and others low? Why do some people earn more than others?",
+        "**Explain** - communicate findings clearly so other people can use, check, or argue with them.",
+        "**Predict** - forecast what will probably happen next. Will inflation rise? Will hiring slow down?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Good economic decisions are not just the job of economists. In a democracy, voters decide budgets, tax laws, and trade policy. Reading a news headline about tariffs, interest rates, or unemployment requires the same tools economists use - which is the point of studying economics in the first place."
+    },
+    {
+      "type": "heading",
+      "text": "Quick recap before the quiz"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Scarcity** is the gap between unlimited wants and limited resources. It forces choices.",
+        "**Economics** studies those choices - micro (small scale) and macro (big scale).",
+        "**Needs** are required for survival; **wants** are not.",
+        "**Goods** are tangible (durable, nondurable, consumer, capital); **services** are intangible work.",
+        "Value requires **both** scarcity AND utility - that is the **paradox of value**.",
+        "**TINSTAAFL**: nothing is truly free; someone always pays.",
+        "Every society answers **WHAT, HOW, and FOR WHOM** to produce."
+      ]
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Introduction to Economics: Scarcity, Choice and Opportunity Cost",
+      "creator": "Jacob Clifford · 5 min",
+      "url": "https://www.youtube.com/watch?v=cI__Ax8U5sw"
+    },
+    {
+      "title": "Scarcity, Choice and Opportunity Cost (Crash Course Economics #1, first 6 min)",
+      "creator": "Crash Course · 12 min",
+      "url": "https://www.youtube.com/watch?v=3ez10ADR_gM"
+    },
+    {
+      "title": "The Diamond-Water Paradox Explained",
+      "creator": "Marginal Revolution University · 4 min",
+      "url": "https://www.youtube.com/watch?v=fOZA0WnaJpY"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "question": "Which of the following best defines scarcity?",
+      "options": [
+        "The gap between people's unlimited wants and the limited resources available to satisfy them.",
+        "A temporary shortage caused by a natural disaster.",
+        "A condition in which a country has no natural resources.",
+        "The same thing as poverty."
+      ],
+      "correctIndex": 0,
+      "explanation": "Scarcity is the fundamental, permanent gap between unlimited wants and limited resources. It is not the same as poverty - even wealthy people face scarcity of time, attention, etc."
+    },
+    {
+      "question": "Marisol cannot decide whether to use her last $20 to buy a movie ticket or to put gas in her car. The fact that she has to choose is a direct result of:",
+      "options": [
+        "Inflation",
+        "Utility",
+        "Scarcity",
+        "Macroeconomics"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whenever resources (in this case, her $20) are limited and wants exceed them, the person is forced to make a choice. That is scarcity in action."
+    },
+    {
+      "question": "Which of the following is an example of a CAPITAL good?",
+      "options": [
+        "A loaf of bread bought at the grocery store",
+        "An industrial pizza oven used by a restaurant",
+        "A haircut at a salon",
+        "A pair of shoes bought by a high school student"
+      ],
+      "correctIndex": 1,
+      "explanation": "Capital goods are tools and equipment that businesses use to produce other goods. A pizza oven used by a restaurant fits exactly. The shoes and bread are consumer goods; the haircut is a service."
+    },
+    {
+      "question": "A loaf of bread is to a haircut as a __________ is to a __________.",
+      "options": [
+        "good ; service",
+        "service ; good",
+        "want ; need",
+        "nondurable good ; durable good"
+      ],
+      "correctIndex": 0,
+      "explanation": "A loaf of bread is a tangible good. A haircut is intangible work performed for someone - a service."
+    },
+    {
+      "question": "Adam Smith resolved the paradox of value by arguing that for something to have high monetary value it must have:",
+      "options": [
+        "Beauty and rarity",
+        "Government backing",
+        "A long history of being traded",
+        "Both scarcity AND utility"
+      ],
+      "correctIndex": 3,
+      "explanation": "Smith's insight: scarcity alone is not enough (a single grain of weird sand is rare but worthless), and utility alone is not enough (water is useful but cheap because it is abundant). Value requires both."
+    },
+    {
+      "question": "Your friend tells you, \"This concert was totally free - I won the ticket in a giveaway!\" Using TINSTAAFL, what is the BEST response?",
+      "options": [
+        "They are right - they paid nothing, so it really was free.",
+        "Someone, somewhere, paid for the resources to put on the concert, even if your friend did not pay cash today.",
+        "TINSTAAFL only applies to food, not concerts.",
+        "It was only free if the concert was outdoors."
+      ],
+      "correctIndex": 1,
+      "explanation": "TINSTAAFL says nothing is truly free because resources are scarce. The venue, the performers, the staff, and the sound equipment all had to be paid for by someone - the sponsor, the venue, or future ticket buyers."
+    },
+    {
+      "question": "Which of the following is NOT one of the three basic economic questions every society must answer?",
+      "options": [
+        "WHAT to produce",
+        "HOW to produce",
+        "FOR WHOM to produce",
+        "WHEN to stop producing"
+      ],
+      "correctIndex": 3,
+      "explanation": "The three economic questions are WHAT, HOW, and FOR WHOM to produce. \"When to stop\" is not one of them."
+    },
+    {
+      "question": "A researcher studies why the unemployment rate in the United States rose last year. This is an example of:",
+      "options": [
+        "Macroeconomics",
+        "Microeconomics",
+        "The paradox of value",
+        "A capital good"
+      ],
+      "correctIndex": 0,
+      "explanation": "National unemployment is an economy-wide measure, which puts it in macroeconomics. Microeconomics would be studying one person's job search or one company's hiring."
+    },
+    {
+      "question": "Which item would NOT be counted as part of a nation's wealth in the economic sense?",
+      "options": [
+        "Highways and bridges",
+        "Factories and machinery",
+        "Houses and furniture",
+        "Haircuts performed by barbers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wealth in the economic sense is made up of tangible, transferable items. Services like haircuts are intangible - they cannot be stockpiled or transferred - so they are not counted as wealth even though they are valuable."
+    },
+    {
+      "question": "Utility is best described as:",
+      "options": [
+        "The price tag on an item",
+        "How long an item lasts",
+        "The satisfaction or usefulness a person gets from a good or service",
+        "The cost of producing an item"
+      ],
+      "correctIndex": 2,
+      "explanation": "Utility is about the satisfaction the user gets, and it varies from person to person. The same concert can have high utility for one person and low utility for another."
+    }
+  ],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

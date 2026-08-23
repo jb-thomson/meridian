@@ -37,6 +37,7 @@ def md_filter(text):
 
 
 env.filters["md"] = md_filter
+env.filters["tojson"] = lambda v: json.dumps(v)
 
 
 def slug_num(num):
@@ -73,6 +74,8 @@ def load_course(slug):
                 t["status"] = content.get("status", "complete")
                 t["funFacts"] = normalize_callouts(t.get("funFacts"))
                 t["apTips"] = normalize_callouts(t.get("apTips"))
+                if t.get("interactiveModel") and not t.get("interactiveModels"):
+                    t["interactiveModels"] = [t["interactiveModel"]]
                 for img in t.get("images") or []:
                     img.setdefault("afterParagraph", None)
             else:
