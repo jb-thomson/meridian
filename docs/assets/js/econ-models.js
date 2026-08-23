@@ -460,14 +460,58 @@
       paths[key] = path;
     });
 
-    var dotsGroup = svgEl("g", {});
-    svg.appendChild(dotsGroup);
-    data.forEach(function (d, i) {
-      var hitX = lx(d.year);
-      var hit = svgEl("rect", { x: hitX - (PW / data.length) / 2, y: MT, width: PW / data.length, height: PH, fill: "transparent" });
-      hit.addEventListener("mouseenter", function () { showTip(d); });
-      hit.addEventListener("mouseleave", function () { tip.textContent = ""; });
-      dotsGroup.appendChild(hit);
+    var guideLine = svgEl("line", { y1: MT, y2: MT + PH, stroke: "#94a3b8", "stroke-width": 1, "stroke-dasharray": "3 2", opacity: 0 });
+    svg.appendChild(guideLine);
+
+    var hoverDots = {};
+    var hoverDotsGroup = svgEl("g", {});
+    svg.appendChild(hoverDotsGroup);
+    COUNTRIES.forEach(function (key) {
+      var dot = svgEl("circle", { r: 4, fill: COLORS[key], stroke: "white", "stroke-width": 1.5, opacity: 0 });
+      hoverDotsGroup.appendChild(dot);
+      hoverDots[key] = dot;
+    });
+
+    // One continuous hit area — always resolves to the nearest actual data
+    // point by x-distance, so hover feels smooth across the whole chart
+    // instead of jumping between fixed zones.
+    var hitRect = svgEl("rect", { x: ML, y: MT, width: PW, height: PH, fill: "transparent", style: "cursor:crosshair;" });
+    svg.appendChild(hitRect);
+
+    function nearestPoint(mouseX) {
+      var best = data[0], bestDist = Infinity;
+      data.forEach(function (d) {
+        var dist = Math.abs(lx(d.year) - mouseX);
+        if (dist < bestDist) { bestDist = dist; best = d; }
+      });
+      return best;
+    }
+
+    hitRect.addEventListener("mousemove", function (evt) {
+      var rect = svg.getBoundingClientRect();
+      var scaleX = SVG_W / rect.width;
+      var mouseX = (evt.clientX - rect.left) * scaleX;
+      var d = nearestPoint(mouseX);
+      var px = lx(d.year);
+      guideLine.setAttribute("x1", px);
+      guideLine.setAttribute("x2", px);
+      guideLine.setAttribute("opacity", 1);
+      COUNTRIES.forEach(function (key) {
+        var dot = hoverDots[key];
+        if (hidden[key] || d[key] === null || d[key] === undefined) {
+          dot.setAttribute("opacity", 0);
+        } else {
+          dot.setAttribute("cx", px);
+          dot.setAttribute("cy", ly(d[key]));
+          dot.setAttribute("opacity", 1);
+        }
+      });
+      showTip(d);
+    });
+    hitRect.addEventListener("mouseleave", function () {
+      guideLine.setAttribute("opacity", 0);
+      COUNTRIES.forEach(function (key) { hoverDots[key].setAttribute("opacity", 0); });
+      tip.textContent = "";
     });
 
     function showTip(d) {

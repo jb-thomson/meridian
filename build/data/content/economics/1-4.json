@@ -68,7 +68,7 @@
     },
     {
       "type": "heading",
-      "text": "1. Why Capitalism?"
+      "text": "Why Capitalism?"
     },
     {
       "type": "paragraph",
@@ -80,7 +80,7 @@
     },
     {
       "type": "heading",
-      "text": "2. The Problems of Transition"
+      "text": "The Problems of Transition"
     },
     {
       "type": "paragraph",
@@ -112,7 +112,7 @@
     },
     {
       "type": "heading",
-      "text": "3. Russia, Soviet Collapse and a Painful Transition"
+      "text": "Russia, Soviet Collapse and a Painful Transition"
     },
     {
       "type": "heading",
@@ -137,6 +137,7 @@
     {
       "type": "image",
       "caption": "East and West Berliners meet at the Brandenburg Gate on November 10, 1989, the day after the Berlin Wall opened. The fall of the wall marked the beginning of the end for command economies across Eastern Europe and the Soviet Union. Bundesarchiv / Bild 183-1989-1110-018, 1989. CC BY-SA 3.0 DE.",
+      "align": "right",
       "src": "assets/images/economics/berlin-wall-fall-1989.jpg",
       "alt": "East and West Berliners gather at the Brandenburg Gate after the Berlin Wall opens, November 1989",
       "imageType": "public_domain_historical",
@@ -152,11 +153,12 @@
     },
     {
       "type": "heading",
-      "text": "4. China, A Managed Transition"
+      "text": "China, A Managed Transition"
     },
     {
       "type": "image",
       "caption": "Deng Xiaoping arrives at the White House in 1979 for meetings with President Jimmy Carter, one year after launching his landmark economic reforms. Deng's gradual opening of China's economy produced the fastest sustained growth in recorded history. National Archives and Records Administration (NARA). Public domain.",
+      "align": "left",
       "src": "assets/images/economics/deng-xiaoping-jimmy-carter-1979.jpg",
       "alt": "Deng Xiaoping and President Jimmy Carter at an official White House ceremony",
       "imageType": "public_domain_historical",
@@ -193,7 +195,7 @@
     },
     {
       "type": "heading",
-      "text": "5. Eastern Europe, A Faster Break"
+      "text": "Eastern Europe, A Faster Break"
     },
     {
       "type": "paragraph",
@@ -201,7 +203,7 @@
     },
     {
       "type": "heading",
-      "text": "6. Different Faces of Capitalism"
+      "text": "Different Faces of Capitalism"
     },
     {
       "type": "paragraph",
@@ -218,6 +220,7 @@
     {
       "type": "image",
       "caption": "Seoul, South Korea, one of the world's great economic success stories. In the 1950s, South Korea was one of Asia's poorest countries. Its commitment to open markets and export-led growth transformed it into a high-income economy within two generations. CC BY 2.0.",
+      "align": "right",
       "src": "assets/images/economics/seoul-skyline.jpg",
       "alt": "Seoul's skyline photographed from N Seoul Tower at night",
       "imageType": "public_domain_historical",
@@ -249,7 +252,7 @@
     },
     {
       "type": "heading",
-      "text": "7. Where This Leaves the Debate"
+      "text": "Where This Leaves the Debate"
     },
     {
       "type": "paragraph",

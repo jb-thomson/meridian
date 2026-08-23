@@ -98,7 +98,7 @@
     },
     {
       "type": "heading",
-      "text": "1. Scarcity - the core problem"
+      "text": "Scarcity - the core problem"
     },
     {
       "type": "paragraph",
@@ -115,6 +115,7 @@
     {
       "type": "image",
       "caption": "Florence Owens Thompson, photographed by Dorothea Lange in Nipomo, California, 1936. The image became a symbol of scarcity and hardship during the Great Depression. Dorothea Lange / Farm Security Administration. Public domain.",
+      "align": "right",
       "src": "assets/images/economics/migrant-mother-1936.jpg",
       "alt": "Migrant Mother, a photograph by Dorothea Lange, 1936",
       "imageType": "public_domain_historical",
@@ -145,7 +146,7 @@
     },
     {
       "type": "heading",
-      "text": "2. Needs vs. wants"
+      "text": "Needs vs. wants"
     },
     {
       "type": "paragraph",
@@ -164,7 +165,7 @@
     },
     {
       "type": "heading",
-      "text": "3. Goods and services"
+      "text": "Goods and services"
     },
     {
       "type": "paragraph",
@@ -190,6 +191,7 @@
     {
       "type": "image",
       "caption": "An industrial factory in the Swansea valley, Wales. The machinery, furnaces, and equipment inside are capital goods - tools a business uses to produce other goods. The products shipped out are consumer goods. Public domain.",
+      "align": "right",
       "src": "assets/images/economics/swansea-valley-factory.jpg",
       "alt": "Industrial factory with smokestacks in the Swansea valley",
       "imageType": "public_domain_historical",
@@ -205,7 +207,7 @@
     },
     {
       "type": "heading",
-      "text": "4. Value, utility, and the paradox of value"
+      "text": "Value, utility, and the paradox of value"
     },
     {
       "type": "paragraph",
@@ -231,6 +233,7 @@
       "src": "assets/images/economics/adam-smith.jpg",
       "alt": "Portrait of Adam Smith, the Muir portrait",
       "imageType": "public_domain_historical",
+      "align": "left",
       "caption": "Adam Smith (1723-1790), Scottish economist. His 1776 book *The Wealth of Nations* laid the foundation for modern economics and solved the paradox of value.",
       "attribution": "Known as the Muir portrait, artist unknown, c. 1800, after a medallion by James Tassie. Scottish National Gallery. Public domain."
     },
@@ -240,7 +243,7 @@
     },
     {
       "type": "heading",
-      "text": "5. Wealth"
+      "text": "Wealth"
     },
     {
       "type": "paragraph",
@@ -248,7 +251,7 @@
     },
     {
       "type": "heading",
-      "text": "6. TINSTAAFL - there is no such thing as a free lunch"
+      "text": "TINSTAAFL - there is no such thing as a free lunch"
     },
     {
       "type": "paragraph",
@@ -264,7 +267,7 @@
     },
     {
       "type": "heading",
-      "text": "7. The three economic questions every society must answer"
+      "text": "The three economic questions every society must answer"
     },
     {
       "type": "paragraph",
@@ -289,6 +292,7 @@
     {
       "type": "image",
       "caption": "Men queue outside a Chicago soup kitchen, February 1931. When resources fall drastically short of demand, every society confronts the hardest version of the third economic question: for whom are goods produced? National Archives and Records Administration. Public domain.",
+      "align": "left",
       "src": "assets/images/economics/chicago-soup-kitchen-1931.jpg",
       "alt": "Long line of men waiting outside a Depression-era soup kitchen in Chicago, 1931",
       "imageType": "public_domain_historical",
@@ -296,7 +300,7 @@
     },
     {
       "type": "heading",
-      "text": "8. So what does an economist actually do?"
+      "text": "So what does an economist actually do?"
     },
     {
       "type": "paragraph",
