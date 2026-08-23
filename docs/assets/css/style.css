@@ -420,6 +420,18 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .regen-prompt.open { display: block; }
 .ai-pending-note { font-size: 0.76rem; color: var(--ink-soft); font-style: italic; }
 
+/* small floated figures — text wraps around them instead of the image
+   taking the full column width. Used when a block explicitly sets an
+   "align" of left/right (currently: economics Unit 1 content). */
+@media (min-width: 560px) {
+  figure.reading-figure--float-left,
+  figure.reading-figure--float-right {
+    width: 300px; max-width: 42%; margin-top: 6px; margin-bottom: 14px;
+  }
+  figure.reading-figure--float-left { float: left; margin-right: 20px; }
+  figure.reading-figure--float-right { float: right; margin-left: 20px; }
+}
+
 /* image lightbox */
 .lightbox { position: fixed; inset: 0; background: rgba(20,17,14,.92); z-index: 100; display: none; align-items: center; justify-content: center; padding: 24px; }
 .lightbox.open { display: flex; }

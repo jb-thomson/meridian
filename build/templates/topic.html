@@ -133,7 +133,7 @@
     <div class="info-box-body">{{ b.text|md }}</div>
   </div>
     {% elif b.type == 'image' %}
-  <figure class="reading-figure reveal">
+  <figure class="reading-figure reveal{{ ' reading-figure--float-' ~ b.align if b.align }}">
     {% if b.src %}<img src="{{ root }}{{ b.src }}" alt="{{ b.alt }}">{% endif %}
     <figcaption>
       {% if b.imageType == 'ai_generated' %}<span class="img-badge ai">AI-Generated Illustration</span>{% else %}<span class="img-badge hist">Real Historical Image</span>{% endif %}

@@ -71,7 +71,7 @@
     },
     {
       "type": "heading",
-      "text": "1. The Production Possibilities Curve"
+      "text": "The Production Possibilities Curve"
     },
     {
       "type": "paragraph",
@@ -104,7 +104,7 @@
     },
     {
       "type": "heading",
-      "text": "2. Opportunity Cost - The Real Price of Every Choice"
+      "text": "Opportunity Cost - The Real Price of Every Choice"
     },
     {
       "type": "paragraph",
@@ -140,7 +140,7 @@
     },
     {
       "type": "heading",
-      "text": "3. Trade-Offs and Decision-Making"
+      "text": "Trade-Offs and Decision-Making"
     },
     {
       "type": "paragraph",
@@ -149,6 +149,7 @@
     {
       "type": "image",
       "caption": "A decision-making grid in action. Each alternative gets scored against every criterion. The option that checks the most boxes, here, the laptop, is the rational choice. Notice that the gaming console scores well on some criteria but poorly on the ones that matter most for this decision. Diagram by course author.",
+      "align": null,
       "src": "assets/images/economics/decision-making-grid.png",
       "alt": "A filled-in decision-making grid comparing four student spending options against five criteria",
       "imageType": "public_domain_historical",
@@ -164,7 +165,7 @@
     },
     {
       "type": "heading",
-      "text": "4. Economic Growth - Expanding the Frontier"
+      "text": "Economic Growth - Expanding the Frontier"
     },
     {
       "type": "paragraph",
@@ -201,7 +202,7 @@
     },
     {
       "type": "heading",
-      "text": "5. Division of Labor, Specialization, and Interdependence"
+      "text": "Division of Labor, Specialization, and Interdependence"
     },
     {
       "type": "paragraph",
@@ -210,6 +211,7 @@
     {
       "type": "image",
       "caption": "Henry Ford's moving assembly line at Highland Park, Michigan, 1913. Each worker added one component as the car moved past them - cutting assembly time from over 12 hours to 93 minutes per car. Public domain.",
+      "align": "left",
       "src": "assets/images/economics/ford-assembly-line-1913.jpg",
       "alt": "Workers on Ford's first moving assembly line at Highland Park, 1913",
       "imageType": "public_domain_historical",
@@ -229,7 +231,7 @@
     },
     {
       "type": "heading",
-      "text": "6. Economic Models and Cost-Benefit Analysis"
+      "text": "Economic Models and Cost-Benefit Analysis"
     },
     {
       "type": "paragraph",
