@@ -1,0 +1,392 @@
+{
+  "course": "economics",
+  "unitNum": 1,
+  "num": "1.2",
+  "title": "Making Choices: Opportunity Cost, Trade-offs, and Economic Growth",
+  "dateRange": null,
+  "status": "complete",
+  "standard": "E.1.a",
+  "readingMinutes": 18,
+  "interactiveModels": [
+    "ppc-chart"
+  ],
+  "tldr": [
+    "The production possibilities curve (PPC) shows every efficient combination of two goods when resources are fully employed. On the curve = efficient; inside = wasted resources; outside = currently impossible.",
+    "Opportunity cost is the value of the next best alternative given up - not all alternatives, just the single best one passed on.",
+    "Trade-offs are all the alternatives not chosen. Good decision-making requires thinking through them before committing - a decision grid helps.",
+    "Economic growth shifts the PPC outward through more resources, better capital, higher productivity, or greater investment in human capital (education and skills).",
+    "Division of labor and specialization dramatically boost productivity but create economic interdependence - people rely on each other for almost everything.",
+    "Cost-benefit analysis: if expected benefits exceed expected costs, the action makes economic sense."
+  ],
+  "vocabulary": [
+    {
+      "term": "Production possibilities curve",
+      "definition": "A diagram showing all possible combinations of two goods an economy can produce when all resources are fully and efficiently employed."
+    },
+    {
+      "term": "Opportunity cost",
+      "definition": "The value of the next best alternative given up when one choice is made rather than another."
+    },
+    {
+      "term": "Trade-offs",
+      "definition": "All the alternatives that must be given up when a choice is made - every option not selected."
+    },
+    {
+      "term": "Economic growth",
+      "definition": "A sustained increase in a nation's total output of goods and services over time; shifts the PPC outward."
+    },
+    {
+      "term": "Productivity",
+      "definition": "A measure of the amount of output produced with a given amount of resources in a specific period of time."
+    },
+    {
+      "term": "Human capital",
+      "definition": "The sum of people's skills, abilities, health, knowledge, and motivation - everything that makes a worker more productive."
+    },
+    {
+      "term": "Division of labor",
+      "definition": "Organizing work so that each worker or group completes a separate part of the overall task."
+    },
+    {
+      "term": "Specialization",
+      "definition": "Assigning tasks to the workers, regions, or nations that can perform them most efficiently."
+    },
+    {
+      "term": "Economic interdependence",
+      "definition": "The mutual reliance between people, businesses, regions, and nations for most of the goods and services they consume."
+    },
+    {
+      "term": "Economic model",
+      "definition": "A simplified graph, equation, or diagram that shows how something in the economy works by stripping away complexity."
+    },
+    {
+      "term": "Cost-benefit analysis",
+      "definition": "A decision-making strategy that explicitly compares expected costs to expected benefits before acting."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Scarcity means every choice closes off other possibilities. What gets given up is not truly free - it has a name and a cost. This section covers the tools economists use to think clearly about choices: the production possibilities curve, opportunity cost, trade-offs, and cost-benefit analysis. It also examines how economies grow over time and how specialization connects individuals into a larger economic system."
+    },
+    {
+      "type": "heading",
+      "text": "1. The Production Possibilities Curve"
+    },
+    {
+      "type": "paragraph",
+      "text": "A powerful tool for visualizing scarcity's limits is the **production possibilities curve** (also called the production possibilities frontier, or PPC)."
+    },
+    {
+      "type": "paragraph",
+      "text": "A production possibilities curve is a diagram that shows all possible combinations of two goods (or categories of goods) that an economy can produce when all of its resources are **fully and efficiently employed**. To keep it simple, economists imagine a country called Alpha that produces only two products: cars and clothing."
+    },
+    {
+      "type": "heading",
+      "text": "Reading the curve"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every point *on* the curve represents a combination that uses all available resources efficiently:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Point A - on the curve:** Alpha produces 70 cars and 300 units of clothing. All resources fully used. Efficient.",
+        "**Point B - on the curve:** Alpha shifts resources toward clothing - 40 cars and 400 units of clothing. Still efficient, different mix.",
+        "**Inside the curve:** Some resources are idle (workers are unemployed, land is unused). Less than maximum output. Inefficient and wasteful.",
+        "**Outside the curve:** Impossible to reach with current resources and technology. No combination of choices gets you there today."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The curve bows outward because resources are not perfectly interchangeable. Shifting more and more workers from car production to clothing eventually means pulling in workers who are far better suited for cars, so clothing output gains get smaller while car losses get larger. This is the **law of increasing opportunity costs**."
+    },
+    {
+      "type": "heading",
+      "text": "2. Opportunity Cost - The Real Price of Every Choice"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every choice has a cost - not just in dollars, but in what was given up to make it. That \"what was given up\" has a name: **opportunity cost** - the value of the next best alternative not chosen."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the production possibilities curve: when Alpha moves from Point A to Point B, it gains 100 more units of clothing. The opportunity cost is the 30 cars that had to stop being produced to free up those resources. An economy cannot have more of one good and keep the same amount of the other when all resources are already in use."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opportunity cost is everywhere:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "A student spends Saturday studying. The opportunity cost is the time with friends - or sleep - that was given up.",
+        "The federal government spends $800 billion on defense. The opportunity cost is whatever else that money could have funded - roads, education, or tax cuts.",
+        "A student attends a four-year college. The opportunity cost includes the full-time wages that could have been earned instead - often $100,000 or more over four years."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Opportunity cost is *not* all the alternatives passed up - it is specifically the *next best* one. If the options are (1) study, (2) hang out with friends, and (3) sleep, and the choice is to study, the opportunity cost is only the next favorite option - say, sleep. \"Hang out with friends\" is a **trade-off**, but not the opportunity cost."
+    },
+    {
+      "type": "heading",
+      "text": "Idle resources have opportunity costs too"
+    },
+    {
+      "type": "paragraph",
+      "text": "If Alpha is at Point B and workers in the clothing industry go on strike, output drops to a point *inside* the curve. The opportunity cost of those idle workers is the clothing output that was never produced. Any time resources are underemployed - unemployed workers, unused factories, fallow farmland - the economy pays an invisible opportunity cost in lost production."
+    },
+    {
+      "type": "heading",
+      "text": "3. Trade-Offs and Decision-Making"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Trade-offs** are all the alternatives given up when making any choice. Good decision-making means thinking through them before committing. One tool is a **decision-making grid**: list the options in rows and the criteria that matter in columns (price, durability, convenience). Score each option against each factor. The one that scores best across the most factors is usually the right pick."
+    },
+    {
+      "type": "image",
+      "caption": "A decision-making grid in action. Each alternative gets scored against every criterion. The option that checks the most boxes, here, the laptop, is the rational choice. Notice that the gaming console scores well on some criteria but poorly on the ones that matter most for this decision. Diagram by course author.",
+      "src": "assets/images/economics/decision-making-grid.png",
+      "alt": "A filled-in decision-making grid comparing four student spending options against five criteria",
+      "imageType": "public_domain_historical",
+      "attribution": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "The same logic applies whether the decision is buying a laptop, choosing a college, or evaluating a business investment. The criteria get more complex at larger scales, but the process is identical."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consumers shape the entire economy through their trade-off decisions. When millions of people decide to buy streaming services instead of cable TV, resources shift. When consumers collectively choose electric vehicles over gasoline cars, the entire auto industry - and the energy industry - responds. Consumers collectively decide where a country sits on its production possibilities curve."
+    },
+    {
+      "type": "heading",
+      "text": "4. Economic Growth - Expanding the Frontier"
+    },
+    {
+      "type": "paragraph",
+      "text": "Everything so far has been about choices *within* a fixed frontier. But over time, economies can move the entire frontier outward. That is **economic growth**: a sustained increase in a nation's total output of goods and services over time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Growth matters for two reasons: (1) because of scarcity, people always want more than they have now; and (2) as populations grow, there will be even more people needing goods and services in the future. Growth is not free, though. To grow tomorrow, an economy often must **sacrifice consumption today** - a student spending four years in college, a business reinvesting profits into new equipment rather than distributing them, a government funding research instead of current spending."
+    },
+    {
+      "type": "heading",
+      "text": "Drivers of economic growth"
+    },
+    {
+      "type": "paragraph",
+      "text": "Four forces push the PPC outward:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**More resources** - population growth, new natural resource discovery, immigration",
+        "**Better capital** - new factories, machines, and technology",
+        "**Higher ****productivity** - producing more output with the same inputs. If a factory produces 5,000 pencils per hour on Monday and 5,100 on Tuesday using the same workers and machines, productivity rose 2%.",
+        "**More ****human capital** - a better-educated, healthier, more motivated workforce. Human capital is the sum of people's skills, knowledge, abilities, health, and motivation - everything inside the worker's head and body that makes them productive."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Education is the most reliable investment in human capital. U.S. Bureau of Labor Statistics data shows that workers without a high school diploma earned a median $488 per week in 2014, while college graduates earned $1,101 - more than twice as much - and had an unemployment rate of 3.5% versus 9.0% for non-graduates. Few investments in life pay off more consistently than education."
+    },
+    {
+      "type": "funFact",
+      "text": "In 1960, South Korea had a GDP per capita roughly comparable to Ghana. Both were emerging from conflict and had limited natural resources. South Korea made a massive national investment in **human capital**: universal schooling, intensive science and engineering training, and government-backed industrial R&D. By 2020, South Korea's GDP per capita was nearly **$31,000** - roughly 10 times Ghana's. Same starting point, 60 years later. The gap is almost entirely explained by human capital investment and productivity growth."
+    },
+    {
+      "type": "heading",
+      "text": "5. Division of Labor, Specialization, and Interdependence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Productivity also rises when work is divided up. **Division of labor** is organizing work so that each worker or group completes a separate, specialized part of an overall task. When workers are assigned the specific tasks they do best, the result is **specialization** - and output per worker increases dramatically."
+    },
+    {
+      "type": "image",
+      "caption": "Henry Ford's moving assembly line at Highland Park, Michigan, 1913. Each worker added one component as the car moved past them - cutting assembly time from over 12 hours to 93 minutes per car. Public domain.",
+      "src": "assets/images/economics/ford-assembly-line-1913.jpg",
+      "alt": "Workers on Ford's first moving assembly line at Highland Park, 1913",
+      "imageType": "public_domain_historical",
+      "attribution": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Before Ford's assembly line, a small crew assembled each car completely from scratch - roughly a day and a half per car. Ford broke the process into dozens of small, repetitive tasks, one per worker. Assembly time dropped to 93 minutes. The price of a Model T fell by more than 50 percent, putting a car within reach of ordinary families for the first time."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tradeoff is **economic interdependence** - when specialization is high, everyone relies on others for almost everything they consume. A typical person does not grow their own food, make their own clothes, or build their own phone. They specialize in one job, earn income, and buy everything else from others who specialize in producing it. This makes the whole system more productive - but it also means a disruption in one place (a supply chain breakdown, a port strike, a pandemic) ripples across the entire economy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Economists view interdependence as mostly positive: productivity and income gains from specialization almost always outweigh the risks. And there is a peace dividend too - countries that trade heavily with each other rarely go to war, because the economic cost of conflict becomes too high."
+    },
+    {
+      "type": "heading",
+      "text": "6. Economic Models and Cost-Benefit Analysis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Economists make sense of complex systems using **economic models** - simplified graphs, equations, or diagrams that show how something works by stripping away noise to reveal the underlying logic. The PPC is one example. Models are built on **assumptions** - propositions accepted as true to make the model manageable (for example, \"Alpha only produces two goods\"). A model's usefulness depends on whether those assumptions are reasonable."
+    },
+    {
+      "type": "heading",
+      "text": "Cost-benefit analysis"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Cost-benefit analysis** is exactly what it sounds like: explicitly list the expected costs of an action, explicitly list the expected benefits, and compare them. If benefits exceed costs, the action makes sense. If costs exceed benefits, skip it. You can also use it to choose between two options: divide benefits by costs for each option and pick the one with the better ratio."
+    },
+    {
+      "type": "paragraph",
+      "text": "A third strategy is **incrementalism**: take small, careful steps rather than giant leaps. Test a small amount before committing fully - a sip of a hot drink before gulping it, a small pilot program before a company-wide rollout. Each step gives you better information about whether to take the next one."
+    },
+    {
+      "type": "heading",
+      "text": "Quick recap before the quiz"
+    },
+    {
+      "type": "list",
+      "items": [
+        "The **PPC** shows every efficient combination of two goods when resources are fully employed. On the curve = efficient; inside = idle resources; outside = currently impossible.",
+        "**Opportunity cost** = the next best alternative given up. Not all alternatives - just the single best one passed on.",
+        "**Trade-offs** = all the alternatives not chosen. Good decisions require thinking through them first.",
+        "**Economic growth** shifts the PPC outward through more resources, better capital, higher productivity, or greater human capital investment.",
+        "**Division of labor + specialization** boost productivity but create economic interdependence.",
+        "**Cost-benefit analysis**: if benefits exceed costs, do it. If not, do not."
+      ]
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "The Production Possibilities Frontier – Economic Lowdown (Part 1)",
+      "creator": "St. Louis Fed · 5 min",
+      "url": "https://www.youtube.com/watch?v=nsQi2ipSP2c"
+    },
+    {
+      "title": "Shifting the Production Possibilities Curve",
+      "creator": "Jacob Clifford (ACDC Economics) · 4 min",
+      "url": "https://www.youtube.com/watch?v=FwPiWz1a1Tw"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "question": "Valeria is a skilled programmer who quits her $90,000-a-year job to launch a startup. She earns $20,000 in her first year from the business. What is her opportunity cost for that year?",
+      "options": [
+        "$20,000 - the revenue she earned",
+        "$70,000 - the difference between her old salary and her startup revenue",
+        "$90,000 - the salary she gave up",
+        "Zero - she chose freely, so there is no cost"
+      ],
+      "correctIndex": 2,
+      "explanation": "Opportunity cost is the value of the next best alternative given up. By choosing the startup, Valeria gave up a $90,000 salary. That $90,000 is the opportunity cost - not the difference, and not zero. Every choice has a cost."
+    },
+    {
+      "question": "On a production possibilities curve (PPC), a point INSIDE the curve represents:",
+      "options": [
+        "An economy where some resources are idle or wasted",
+        "The most efficient possible use of resources",
+        "A combination that is currently impossible to reach",
+        "Future economic growth"
+      ],
+      "correctIndex": 0,
+      "explanation": "Points on the curve represent maximum (efficient) output. Points inside the curve mean some resources - workers, land, or capital - are not being used. This results in less output than the economy is capable of producing."
+    },
+    {
+      "question": "Henry Ford's moving assembly line is the classic example of:",
+      "options": [
+        "Human capital investment",
+        "Division of labor and specialization",
+        "Consumer rights",
+        "Cost-benefit analysis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ford broke car assembly into dozens of small tasks and had each worker do only one of them repeatedly as the car moved past. That is division of labor, which enables specialization. It cut assembly time from 12+ hours to 93 minutes and slashed the car's price by over 50%."
+    },
+    {
+      "question": "Economic interdependence is best described as:",
+      "options": [
+        "A country producing all the goods it needs without any trade",
+        "The government controlling all production decisions",
+        "A single business dominating an entire industry",
+        "The mutual reliance of individuals, businesses, and nations on each other for goods and services"
+      ],
+      "correctIndex": 3,
+      "explanation": "High specialization creates interdependence: you specialize in one job and rely on countless others for food, clothing, technology, and everything else. This boosts productivity but means disruptions in one area ripple through the whole economy."
+    },
+    {
+      "question": "A country discovers a large deposit of rare minerals, new technology increases worker output per hour, and the population grows due to immigration. The most likely result is:",
+      "options": [
+        "The production possibilities curve shifts inward",
+        "The economy moves to a point inside the PPC",
+        "The production possibilities curve shifts outward (economic growth)",
+        "Opportunity costs disappear"
+      ],
+      "correctIndex": 2,
+      "explanation": "More natural resources (land), better technology (productivity), and more workers (labor) all push the PPC outward - meaning the economy can now produce more of everything than before. This is economic growth."
+    },
+    {
+      "question": "A school counselor tells you: 'Even if your college is free, going to college is not free.' Which economic concept best supports her statement?",
+      "options": [
+        "Consumerism",
+        "Division of labor",
+        "Productivity",
+        "Opportunity cost"
+      ],
+      "correctIndex": 3,
+      "explanation": "Even with free tuition, attending college means giving up four years of full-time wages. That forgone income is the opportunity cost. This is a classic application: the real cost of a decision includes what you give up, not just what you pay."
+    },
+    {
+      "question": "A tech company evaluates a new product: projected revenue is $8 million, projected costs are $5 million. Using cost-benefit analysis, the company should:",
+      "options": [
+        "Reject the project - any cost is unacceptable",
+        "Approve the project - benefits ($8M) exceed costs ($5M)",
+        "Reject the project - $5 million is too large a trade-off",
+        "Ask the government to make the decision"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cost-benefit analysis: if expected benefits exceed expected costs, the action makes economic sense. $8M in benefits minus $5M in costs leaves a $3M net benefit - the project should proceed. If costs exceeded benefits, the rational choice would be to skip it."
+    },
+    {
+      "question": "On a Saturday afternoon, a student can (1) attend a free outdoor concert, (2) study for an upcoming exam, or (3) catch up on sleep. The student chooses the concert, and studying was the next best option. What is the opportunity cost?",
+      "options": [
+        "The studying that was passed on",
+        "Both studying and sleeping, since both were given up",
+        "Zero - the concert was free",
+        "The combined value of all alternatives not chosen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Opportunity cost is the single next best alternative not chosen, not all alternatives. The student's next favorite option was studying, so passing it up is the opportunity cost. That the concert was free has no effect; free means no money spent, not no trade-off."
+    },
+    {
+      "question": "A country invests heavily in universal education, workforce training, and public health programs over two decades. Worker output per hour rises sharply. What has happened?",
+      "options": [
+        "The production possibilities curve has shifted outward through human capital investment",
+        "The economy has moved to a point inside its current PPC",
+        "The PPC has shifted inward because resources were consumed",
+        "Division of labor has eliminated all opportunity costs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Human capital - the skills, education, and health of a workforce - is one of the main drivers of economic growth. More productive workers push the entire PPC outward, meaning the economy can produce more of everything. The South Korea example shows this in practice: heavy investment in education helped multiply its GDP per capita roughly tenfold in 60 years."
+    },
+    {
+      "question": "An economic model of a country assumes it can produce only two goods and that all workers are equally productive. Neither assumption matches reality. Why do economists use such models?",
+      "options": [
+        "Because government regulations require simplified models",
+        "Because real economies are actually this simple",
+        "Because the math only works with two goods",
+        "Because stripping away complexity reveals the underlying logic of trade-offs more clearly"
+      ],
+      "correctIndex": 3,
+      "explanation": "Economic models are deliberately simplified to highlight specific relationships. The PPC uses two goods - not thousands - because that is exactly what is needed to make opportunity costs and trade-offs visible. Simplified assumptions are a feature: they let you see the core logic without getting lost in real-world noise. Once you understand the model, you apply the logic to the messier real world."
+    }
+  ],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

@@ -1,0 +1,424 @@
+{
+  "course": "economics",
+  "unitNum": 1,
+  "num": "1.6",
+  "title": "Credit, Debt, and Interest",
+  "dateRange": null,
+  "status": "complete",
+  "standard": "E.1.c",
+  "readingMinutes": 18,
+  "interactiveModels": [],
+  "tldr": [
+    "A debit card spends money you already have. A credit card is a short-term loan from the card issuer, free if you pay the full balance each month, expensive if you carry a balance.",
+    "APR (Annual Percentage Rate) is the standardized annual cost of borrowing. Credit cards typically run 20–28% APR; payday loans can exceed 300% APR when annualized.",
+    "Compound interest works against borrowers just as it works for savers, unpaid interest is added to principal, and future interest is charged on the larger total. Making only minimum payments on a $3,000 credit card balance at 24% APR can take 14+ years and nearly double the total paid.",
+    "Revolving credit (credit cards, HELOCs) has a flexible limit you can borrow and repay repeatedly. Installment credit (auto loans, mortgages, student loans) is a fixed loan with set monthly payments.",
+    "Your FICO credit score (300–850) is shaped by five factors: payment history (35%), credit utilization (30%), length of credit history (15%), credit mix (10%), and new inquiries (10%). A low score costs you in higher interest rates, rejected applications, and sometimes higher insurance premiums.",
+    "Predatory lending, payday loans, car title loans, rent-to-own, and some deferred-interest offers, exploits borrowers with very high effective APRs and traps them in cycles of debt. Warning signs include no credit check, balloon payments, and prepayment penalties."
+  ],
+  "vocabulary": [
+    {
+      "term": "Debit card",
+      "definition": "A payment card that draws funds directly from the cardholder's checking account at the time of purchase."
+    },
+    {
+      "term": "Credit card",
+      "definition": "A payment card that allows the holder to borrow funds from the card issuer up to a set limit; interest is charged if the balance is not paid in full by the due date."
+    },
+    {
+      "term": "Interest rate",
+      "definition": "The percentage of an outstanding balance charged by a lender as the cost of borrowing money over a given period."
+    },
+    {
+      "term": "Annual percentage rate (APR)",
+      "definition": "The annualized cost of borrowing expressed as a percentage, including interest and fees, the standardized figure lenders must disclose so borrowers can compare credit products."
+    },
+    {
+      "term": "Compound interest on debt",
+      "definition": "Interest charged on both the original principal and any previously unpaid interest, causing the amount owed to grow faster over time when balances are not paid down."
+    },
+    {
+      "term": "Revolving credit",
+      "definition": "A flexible credit arrangement with a maximum limit; borrowers can draw, repay, and reborrow repeatedly, credit cards are the most common example."
+    },
+    {
+      "term": "Installment credit",
+      "definition": "A loan for a fixed amount with a set repayment schedule of equal payments over a specified term, auto loans, mortgages, and student loans are all installment credit."
+    },
+    {
+      "term": "Credit score",
+      "definition": "A numerical summary (typically 300–850 on the FICO scale) of a person's credit history, used by lenders to assess the likelihood of repayment."
+    },
+    {
+      "term": "FICO score",
+      "definition": "The most widely used credit scoring model, ranging from 300 to 850, based on payment history, amounts owed, length of credit history, credit mix, and new inquiries."
+    },
+    {
+      "term": "Credit utilization",
+      "definition": "The percentage of available revolving credit currently in use; keeping utilization below 30% is generally recommended to maintain a strong credit score."
+    },
+    {
+      "term": "Predatory lending",
+      "definition": "Lending practices that exploit borrowers through unfair, deceptive, or abusively high-cost terms, often targeting people with limited financial options or credit access."
+    },
+    {
+      "term": "Payday loan",
+      "definition": "A short-term, small-dollar loan typically due on the borrower's next payday, with fees that often equate to an APR of 300–400% or more."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Section 1.5 covered budgeting and investing, building wealth over time. But most people don't just save money; at some point they also borrow it. Credit is one of the most powerful financial tools available, and one of the most dangerous if misused. This section covers how credit works, how lenders calculate the true cost of borrowing, what a credit score is and why it matters, and the warning signs of predatory lending that can trap borrowers in cycles of debt."
+    },
+    {
+      "type": "heading",
+      "text": "1. Credit vs. debit, two very different cards"
+    },
+    {
+      "type": "paragraph",
+      "text": "A **debit card** draws directly from money you already have in a checking account. When you swipe a debit card, the funds leave your account in real time (or within one business day). You cannot spend more than your balance; if you try, the transaction is typically declined, or, if you have overdraft coverage, you pay a fee."
+    },
+    {
+      "type": "paragraph",
+      "text": "A **credit card** is fundamentally different: it is a short-term loan. When you pay with a credit card, the card issuer pays the merchant on your behalf. You then owe the issuer that amount. If you pay the full balance by the due date each month, you owe nothing extra, no interest. If you carry a balance past the due date, the issuer charges interest on the remaining amount. This is where the cost of credit begins."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "",
+        "Debit Card",
+        "Credit Card"
+      ],
+      "rows": [
+        [
+          "Source of funds",
+          "Your checking account (money you own)",
+          "Borrowed from the card issuer"
+        ],
+        [
+          "Interest charged?",
+          "No (but overdraft fees apply if overdrawn)",
+          "Only if you carry a balance past the due date"
+        ],
+        [
+          "Fraud protection",
+          "Limited, real money already left your account",
+          "Stronger, disputed charges are reimbursed while investigated"
+        ],
+        [
+          "Builds credit score?",
+          "No",
+          "Yes, when used responsibly"
+        ],
+        [
+          "Main risk",
+          "Overdraft fees; account funds exposed to fraud",
+          "Carrying a balance and paying high interest"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Used carefully, a credit card outperforms a debit card on almost every dimension: stronger fraud protection, purchase protections, rewards programs, and credit-building. The catch is discipline, only using credit cards as a substitute for cash you already have, not as a way to spend money you don't."
+    },
+    {
+      "type": "heading",
+      "text": "2. Interest rates and APR, what borrowing actually costs"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a lender lets you use money you don't have, they charge for that service. The charge is expressed as an **interest rate**, a percentage of the outstanding balance paid to the lender over a given period. For most consumer credit products, the key figure is the **annual percentage rate (APR)**: the total annual cost of borrowing expressed as a percentage, including interest and fees. APR is the standardized number required by law (the Truth in Lending Act) so consumers can compare different credit products on equal terms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Different types of credit carry very different APRs:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Mortgage loans:** roughly 6–8% APR (2024 range)",
+        "**Auto loans:** roughly 5–10% APR",
+        "**Student loans:** roughly 5–8% APR (federal)",
+        "**Credit cards:** typically 20–28% APR",
+        "**Payday loans:** 300–500% APR or higher when annualized"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The gap between a 7% mortgage and a 25% credit card balance is enormous, and compound interest makes it grow fast."
+    },
+    {
+      "type": "heading",
+      "text": "3. Compound interest working against you"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 1.5 showed how compound interest builds wealth when you're the saver. As a borrower, the same math works in reverse, and it can be devastating. **Compound interest on debt** means that unpaid interest is added to your principal balance, and future interest is calculated on that larger total. You pay interest on interest."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider a credit card with a $3,000 balance and 24% APR. If you make only the minimum payment each month (typically 1–2% of the balance), most of that payment goes to interest rather than reducing principal:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The original $3,000 borrowed becomes $5,700 paid, nearly double, just from interest. Every extra dollar above the minimum payment cuts both the repayment timeline and total interest dramatically."
+    },
+    {
+      "type": "heading",
+      "text": "4. Types of credit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not all debt is the same. Two major categories:"
+    },
+    {
+      "type": "heading",
+      "text": "Revolving credit"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Revolving credit** is a flexible credit line with a maximum limit. You can borrow up to the limit, repay some or all of it, and borrow again, repeatedly. The balance \"revolves.\" Credit cards are the most common example. Home equity lines of credit (HELOCs) are another. With revolving credit, you're only required to make a minimum payment each month, which is where the danger lies, the balance can persist and compound indefinitely."
+    },
+    {
+      "type": "heading",
+      "text": "Installment credit"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Installment credit** is a fixed loan with a set repayment schedule. You borrow a specific amount, agree to fixed monthly payments, and the loan ends at a specified date. Auto loans, mortgages, and student loans are all installment credit. Because the payment schedule is fixed from the start, it is generally easier to plan around, though the total interest cost can still be substantial on long-term loans."
+    },
+    {
+      "type": "paragraph",
+      "text": "Common installment credit types:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Auto loans:** Typically 3–7 years. The vehicle itself is collateral, the lender can repossess it if you stop paying.",
+        "**Mortgages:** Usually 15 or 30 years. The home is collateral. A 30-year mortgage at 7% on a $300,000 home results in roughly $418,000 in total interest paid over the life of the loan, more than the original loan amount.",
+        "**Student loans:** Federal loans come with income-based repayment options and interest rate protections. Private student loans often carry higher rates and fewer protections. Unlike most debt, student loans generally cannot be discharged in bankruptcy."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "5. Credit scores, your financial reputation"
+    },
+    {
+      "type": "paragraph",
+      "text": "A **credit score** is a numerical summary of your credit history, used by lenders to assess how likely you are to repay a loan. The most widely used model is the **FICO score**, which ranges from 300 to 850. Higher scores signal lower risk to lenders, which typically results in lower interest rates and better loan terms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Five factors determine a FICO score, weighted by importance:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Payment history (35%):** The most important factor. Late payments, defaults, or collections damage scores severely. Consistent on-time payments build scores over time.",
+        "**Amounts owed / credit utilization (30%):** The percentage of available credit you're using. Using more than 30% of your credit limit hurts your score, even if you pay on time. Using very little (under 10%) helps it.",
+        "**Length of credit history (15%):** Older accounts help. This is why it's generally unwise to close your oldest credit card, even if you rarely use it.",
+        "**Credit mix (10%):** Having a mix of account types, revolving and installment, is viewed favorably.",
+        "**New credit inquiries (10%):** Applying for several new credit accounts in a short period signals financial stress to lenders and temporarily lowers your score."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Credit scores matter far beyond just loan approvals. Landlords check them before renting apartments. Some employers check them for certain positions. Insurance companies in many states use credit-based scores to set auto and home insurance premiums. A low score can cost thousands of dollars annually in higher rates and denied access, making it one of the most financially consequential numbers in a person's life."
+    },
+    {
+      "type": "heading",
+      "text": "6. Predatory lending, warning signs"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Predatory lending** refers to lending practices that exploit borrowers, typically those who are financially desperate, have poor credit, or don't fully understand the terms, by imposing unfair, deceptive, or abusively high-cost loan terms. Predatory lenders often target low-income communities, the elderly, and people with limited English proficiency."
+    },
+    {
+      "type": "heading",
+      "text": "Payday loans"
+    },
+    {
+      "type": "paragraph",
+      "text": "A **payday loan** is a short-term, small-dollar loan, typically $200 to $500, designed to be repaid on the borrower's next payday, usually within two weeks. They are marketed as quick emergency cash with no credit check. The fees sound small: \"$15 per $100 borrowed.\" But annualized, that fee translates to an APR of roughly **390%**. A $400 payday loan costs $60 in fees for two weeks. If the borrower can't repay and rolls over the loan, that $60 becomes $120, then $180, and the original $400 never gets smaller."
+    },
+    {
+      "type": "paragraph",
+      "text": "Research from the Consumer Financial Protection Bureau (CFPB) found that more than 80% of payday loans are rolled over or re-borrowed within 14 days, and the majority of payday loan revenue comes from borrowers stuck in sequences of 10 or more loans. The product is designed for repeat borrowing, not one-time emergencies."
+    },
+    {
+      "type": "heading",
+      "text": "Rent-to-own schemes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rent-to-own stores let customers take home a refrigerator, TV, or laptop today and make weekly or monthly payments until they own it. The weekly payment sounds manageable, $25/week for a $500 laptop sounds fine. But $25/week for 2 years = $2,600 for a $500 item. The effective APR is typically 100–300%. Customers who miss a payment lose the item and all money paid toward it."
+    },
+    {
+      "type": "heading",
+      "text": "Other high-APR traps"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Car title loans:** The borrower uses their car title as collateral for a short-term loan. APRs average 300%. Defaulting means losing the car, often the borrower's only means of getting to work.",
+        "**Buy-now-pay-later (BNPL) deferred interest:** Some BNPL offers charge 0% interest, but only if the full balance is paid before the promotional period ends. Miss the deadline by even one day, and all the accrued interest (often at 25–30% APR) is charged retroactively on the original purchase amount.",
+        "**\"No credit check\" personal loans:** Online lenders charging 100–200% APR, marketed to people who cannot qualify for traditional credit. The math works the same as payday loans, just spread over longer terms."
+      ]
+    },
+    {
+      "type": "funFact",
+      "text": "A loan is likely predatory if it involves: **no credit check** (APRs compensate for the risk the lender is taking), **balloon payments** (small payments for a long time, then one enormous payment at the end), **prepayment penalties** (fees for paying early, which trap you in the loan), **loan flipping** (pressure to refinance repeatedly, generating new fees each time), or **unnecessary add-ons** (insurance products, warranties, or memberships bundled into the loan without clear disclosure of cost). When in doubt: ask for the APR in writing, calculate how much you will pay in total, and compare to alternatives."
+    },
+    {
+      "type": "heading",
+      "text": "7. Using credit responsibly, the core rules"
+    },
+    {
+      "type": "paragraph",
+      "text": "Credit is a tool, not a source of income. The borrowers who benefit most from it treat it with discipline:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Pay credit card balances in full every month.** If you can't, you're spending money you don't have. Carry a balance only in genuine emergencies.",
+        "**Keep credit utilization below 30%.** If your card limit is $5,000, try to keep the balance below $1,500 at any time.",
+        "**Set up autopay for at least the minimum** to avoid missing due dates. A single missed payment can drop a credit score by 50–100 points.",
+        "**Compare APRs before borrowing.** The total cost of a loan depends almost entirely on the rate and the term. Small differences in APR compound into large differences in total paid.",
+        "**Avoid payday loans and title loans.** If you're facing a genuine cash shortage, look first at: employer paycheck advances, credit union emergency loans, community assistance programs, or negotiating payment plans directly with the creditor you owe.",
+        "**Build credit early.** Becoming an authorized user on a parent's card, opening a secured credit card, or taking a small credit-builder loan are low-risk ways to start building a credit history before you need it for something important."
+      ]
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Credit Cards: Making Sense of Interest (Khan Academy)",
+      "creator": "Khan Academy · 7 min",
+      "url": "https://www.youtube.com/watch?v=cK-xatTJq3A"
+    },
+    {
+      "title": "How Credit Scores Work Crash Course Economics #26",
+      "creator": "Crash Course · 10 min",
+      "url": "https://www.youtube.com/watch?v=q1EHbqBJ3oY"
+    },
+    {
+      "title": "Compound Interest How Debt Grows (Khan Academy)",
+      "creator": "Khan Academy · 6 min",
+      "url": "https://www.youtube.com/watch?v=7_xAO_YKMIs"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "question": "Destiny pays for her groceries using a card that deducts the purchase amount directly from her checking account within one business day. No interest is charged. This is best described as a:",
+      "options": [
+        "Credit card, she is borrowing from the card issuer and repaying later",
+        "Debit card, the funds come directly from her existing account balance",
+        "Installment loan, the grocery store is extending her credit at 0% APR",
+        "Revolving credit account, she can borrow and repay as many times as she wants"
+      ],
+      "correctIndex": 1,
+      "explanation": "A debit card draws directly from funds the cardholder already has in a checking account. No borrowing occurs and no interest is charged. A credit card, by contrast, has the card issuer paying the merchant on the cardholder's behalf, creating a short-term loan the cardholder must repay."
+    },
+    {
+      "question": "Marcus carries a $2,400 balance on a credit card with a 24% APR. He makes only the minimum payment each month (about 2% of the balance). Which of the following BEST describes what is happening to his debt over time?",
+      "options": [
+        "The balance will be paid off within two years because the minimum payment covers interest and principal equally",
+        "The balance will stay flat, minimum payments are designed to exactly cover the monthly interest charge",
+        "Compound interest causes the balance to shrink very slowly; most of each payment goes to interest rather than principal, and the loan could take a decade or more to fully repay",
+        "The balance will grow each month because minimum payments are less than the new interest added"
+      ],
+      "correctIndex": 2,
+      "explanation": "At 24% APR, the monthly interest rate is 2%. On a $2,400 balance that's $48 in interest per month. A 2% minimum payment is only $48, meaning virtually nothing goes to reducing the principal. The balance barely moves each month, and the total paid over the life of the debt can approach double the original balance. This is how minimum-payment traps work."
+    },
+    {
+      "question": "A car dealership offers two financing options for a $20,000 auto loan: Option A is a 4-year loan at 6% APR; Option B is a 7-year loan at 6% APR. Both have the same APR. Which statement is most accurate?",
+      "options": [
+        "Both options cost the same total amount because the APR is identical",
+        "Option B is better because lower monthly payments improve cash flow with no extra cost",
+        "Option A results in less total interest paid because the loan is repaid in fewer years, interest has less time to compound",
+        "Option A is riskier because higher monthly payments always carry more financial risk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Even with the same APR, a longer loan term means more months of interest payments, so more total interest paid over the life of the loan. On a $20,000 loan at 6% APR, Option A (4 years) results in roughly $2,500 in total interest; Option B (7 years) results in roughly $4,500. The APR tells you the annual rate; the term determines how many years that rate is applied. Shorter terms save money on total interest despite higher monthly payments."
+    },
+    {
+      "question": "Jaylen has a credit card with a $5,000 limit and carries a $1,800 balance. His credit utilization rate is closest to:",
+      "options": [
+        "36%, which is above the generally recommended maximum of 30%",
+        "18%, which is below the recommended threshold",
+        "27.8%, which is below the generally recommended maximum of 30%",
+        "56%, which indicates he is in serious financial difficulty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Credit utilization = balance ÷ credit limit = $1,800 ÷ $5,000 = 36%. Credit experts generally recommend keeping utilization below 30% to avoid a negative impact on your credit score. At 36%, Jaylen is slightly above that threshold. Paying the balance down to $1,500 or below would bring utilization under 30%."
+    },
+    {
+      "question": "Amara needs $400 urgently and takes out a payday loan. The lender charges a $60 fee for a two-week loan. She cannot repay in two weeks and rolls the loan over, paying another $60. Which of the following BEST describes this situation?",
+      "options": [
+        "The loan is reasonable, $60 on a $400 loan is only a 15% fee, similar to a credit card",
+        "The loan becomes predatory only if rolled over more than three times; the initial terms are regulated and fair",
+        "The loan is a form of installment credit with a 0% APR since no additional principal is borrowed",
+        "The annualized APR on this loan is approximately 390%, and rolling it over doubles the total fee cost while the principal stays the same"
+      ],
+      "correctIndex": 3,
+      "explanation": "$60 for two weeks on $400 = 15% for two weeks. Annualized: 15% × 26 pay periods = 390% APR. After one rollover, Amara has paid $120 in fees and still owes $400. This is the core of why payday loans are considered predatory: the fee sounds small in isolation but the annualized rate is catastrophic, and rollovers trap borrowers in cycles where fees accumulate while the principal never shrinks."
+    },
+    {
+      "question": "Which of the following actions would MOST directly help someone raise a low FICO credit score over 12 months?",
+      "options": [
+        "Making all payments on time every month and keeping credit card balances low relative to the credit limit",
+        "Closing all existing credit card accounts and paying only with cash to eliminate debt risk",
+        "Opening five new credit card accounts to increase total available credit",
+        "Transferring all debt to one card and canceling all others to simplify the credit profile"
+      ],
+      "correctIndex": 0,
+      "explanation": "Payment history (35%) and credit utilization (30%) together make up 65% of a FICO score. Paying on time consistently and keeping balances well below credit limits directly improves both. Closing cards reduces available credit (raising utilization) and can shorten credit history, both harmful. Opening many new cards triggers multiple hard inquiries and lowers average account age, also harmful. The simplest path to a better score is: pay on time, keep balances low."
+    },
+    {
+      "question": "A finance company offers rent-to-own contracts on appliances. A washing machine priced at $600 retail is available for $19/week for 52 weeks. A customer who completes all payments will have paid:",
+      "options": [
+        "$600, the same as the retail price, because rent-to-own is just an interest-free layaway program",
+        "$988, slightly above retail due to a modest financing fee",
+        "$988, but the effective APR is under 10%, making it competitive with store credit cards",
+        "$988, nearly 65% more than the retail price, representing an effective APR well above 100%"
+      ],
+      "correctIndex": 3,
+      "explanation": "$19 × 52 = $988 total paid for a $600 item, $388 more than retail. That extra $388 on $600 over one year equates to a roughly 120% effective APR. Rent-to-own agreements are common examples of predatory-adjacent products: the weekly payment sounds affordable, but the total cost is dramatically higher than purchasing the item outright or financing it with even a high-APR credit card."
+    },
+    {
+      "question": "Maria just signed a mortgage agreement to buy her first home. She will make a fixed payment of $1,350 per month for the next 30 years until the loan is paid off. This type of credit is best described as:",
+      "options": [
+        "Installment credit, a fixed loan with a set repayment schedule and a specific payoff date",
+        "Revolving credit, because she can borrow and repay against the home's equity as needed",
+        "A payday loan, because the lender sets the payment due dates independently of her income",
+        "An APR-free arrangement, because mortgages are secured by collateral and do not charge interest"
+      ],
+      "correctIndex": 0,
+      "explanation": "Installment credit is a fixed loan with a predetermined repayment schedule and a specific end date. A mortgage is the classic example: a fixed amount borrowed, set monthly payments, and a defined term (15 or 30 years). Revolving credit has no fixed end date and allows repeated borrowing up to a limit, like a credit card or a Home Equity Line of Credit. All mortgages charge interest; the collateral (the home) reduces the lender's risk but does not eliminate the APR."
+    },
+    {
+      "question": "Jordan recently paid off his only credit card balance and, thinking it would help his finances, immediately canceled the card. His FICO credit score dropped the following month. The MOST likely explanation is:",
+      "options": [
+        "Paying off a credit card always lowers the score because lenders view it as reduced borrowing activity",
+        "Canceling the card reduced his total available credit, raising his utilization ratio, and removed the account's history from his credit profile, two factors FICO weighs negatively",
+        "Card issuers automatically report closures to credit bureaus as a missed payment",
+        "Closing a credit card triggers an automatic hard inquiry, which is the primary reason scores drop after closures"
+      ],
+      "correctIndex": 1,
+      "explanation": "Two FICO factors were hurt. First, credit utilization: if Jordan had any other balances, eliminating this card's credit limit pushed his utilization ratio higher. Second, length of credit history (15% of the score): closing an account reduces the average age of open accounts, especially harmful if it was his oldest card. The general rule is to keep credit cards open even if rarely used, because the available credit line and account history both support the score."
+    },
+    {
+      "question": "A lender's advertisement reads: 'No credit check! Get $1,000 today. Pay $89 per month for 18 months.' What is the total repayment amount, and which predatory warning sign is most clearly present?",
+      "options": [
+        "Total: $1,000. The loan is interest-free because no credit check is required",
+        "Total: $1,089. The modest fee is acceptable for an emergency loan with no credit check",
+        "Total: $1,602, but the lender is trustworthy because it openly discloses the monthly payment",
+        "Total: $1,602, more than 60% above the amount borrowed; 'no credit check' is a classic warning sign that almost always signals a very high effective APR"
+      ],
+      "correctIndex": 3,
+      "explanation": "$89 × 18 months = $1,602 total repaid on a $1,000 loan, $602 in fees and interest. Annualized, that effective APR exceeds 100%. 'No credit check' is the first warning sign of predatory lending listed in this section: lenders compensate for the higher default risk by charging extremely high rates. Borrowers with access to a bank or credit union loan would never need to pay rates like these."
+    }
+  ],
+  "notebookLmResources": [],
+  "teacherNotes": ""
+}

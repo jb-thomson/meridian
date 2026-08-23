@@ -113,6 +113,15 @@
   <p>{{ b.text|md }}</p>
     {% elif b.type == 'list' %}
   <ul class="reading-list">{% for it in b['items'] %}<li>{{ it|md }}</li>{% endfor %}</ul>
+    {% elif b.type == 'table' %}
+  <div class="reading-table-wrap reveal">
+    <table class="reading-table">
+      {% if b.headers %}<thead><tr>{% for h in b.headers %}<th>{{ h|md }}</th>{% endfor %}</tr></thead>{% endif %}
+      <tbody>
+        {% for row in b.rows %}<tr>{% for cell in row %}<td>{{ cell|md }}</td>{% endfor %}</tr>{% endfor %}
+      </tbody>
+    </table>
+  </div>
     {% elif b.type == 'funFact' %}
   <div class="info-box fun-fact reveal">
     <div class="info-box-label">💡 Fun Fact</div>
@@ -237,9 +246,11 @@
 <ul class="reading-body">{% for ex in topic.illustrativeExamples %}<li>{{ ex|md }}</li>{% endfor %}</ul>
 {% endif %}
 
-{% if topic.interactiveModel == 'supply-demand' %}
+{% if topic.interactiveModels %}
+{% for m in topic.interactiveModels %}
 <div class="section-label reveal">Try It Yourself</div>
-<div class="econ-model reveal" id="econ-model-{{ topic.num.replace('.', '-') }}"></div>
+<div class="econ-model reveal" id="econ-model-{{ topic.num.replace('.', '-') }}-{{ loop.index0 }}" data-econ-model="{{ m }}"></div>
+{% endfor %}
 {% endif %}
 
 {% if topic.videoResources %}
@@ -443,8 +454,11 @@
 {% endif %}
 {% endblock %}
 {% block scripts %}
-{% if topic.interactiveModel == 'supply-demand' %}
+{% if topic.interactiveModels %}
 <script src="{{ root }}assets/js/econ-models.js"></script>
-<script>document.addEventListener('DOMContentLoaded', function(){ AgoraEconModels.supplyDemandModel('econ-model-{{ topic.num.replace('.', '-') }}'); });</script>
+{% if topic.flashcardVocab %}
+<script type="application/json" id="flashcard-data-{{ topic.num.replace('.', '-') }}">{{ topic.flashcardVocab|tojson }}</script>
+{% endif %}
+<script>document.addEventListener('DOMContentLoaded', function(){ AgoraEconModels.initAll(); });</script>
 {% endif %}
 {% endblock %}

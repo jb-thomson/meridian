@@ -1,0 +1,1065 @@
+{
+  "course": "economics",
+  "unitNum": 1,
+  "num": "1-review",
+  "title": "Unit 1 Review: Test Prep",
+  "dateRange": null,
+  "status": "complete",
+  "standard": "E.1.a–E.1.d",
+  "readingMinutes": 45,
+  "interactiveModels": [
+    "unit1-scenario-game",
+    "flashcard-deck"
+  ],
+  "tldr": [
+    "Scarcity forces every choice to carry an opportunity cost, the next-best alternative given up. Utility and scarcity together determine value.",
+    "Every real economy is mixed. Traditional, command, and market systems are models; actual economies blend elements of all three.",
+    "Budget from net income. Follow 50/30/20: 50% needs, 30% wants, 20% savings and debt repayment. Build an emergency fund before investing.",
+    "Compound interest rewards starting early above all else. Time in the market consistently outweighs the amount contributed.",
+    "Credit cards are short-term loans, free if paid monthly, expensive if you carry a balance. APR is the standardized cost of borrowing. FICO scores (300–850) affect loan rates, rentals, and insurance. Predatory lenders exploit borrowers with 300%+ effective APRs.",
+    "Inflation (tracked by the CPI) erodes purchasing power. Real return = nominal return minus inflation rate. Flexible exchange rates let supply and demand set currency values. Trade deficits self-correct through currency depreciation."
+  ],
+  "vocabulary": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This review covers all Unit 1 content, Sections 1.1 through 1.7. The Scenario Challenge puts the key concepts in real-world situations to see if you can spot them in action. The flashcard deck covers every vocabulary term from the unit. The practice quiz pulls questions from across all sections at exam difficulty."
+    },
+    {
+      "type": "heading",
+      "text": "Key concepts by section"
+    },
+    {
+      "type": "heading",
+      "text": "1.1 📊 What Is Economics? Scarcity and Choice"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Scarcity** is the permanent gap between unlimited wants and limited resources, the foundational problem economics addresses. Both scarcity AND utility are required for a good to have economic value.",
+        "Every society must answer three questions: **WHAT** to produce, **HOW** to produce it, and **FOR WHOM** to produce it.",
+        "**TINSTAAFL**: someone always bears the cost, even when something looks free to the recipient."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "1.2 🔄 Making Choices: Opportunity Cost and the PPC"
+    },
+    {
+      "type": "list",
+      "items": [
+        "The four **factors of production**: land (natural resources), labor (human effort), capital (equipment used to produce), and entrepreneurship (organizing the others and bearing risk).",
+        "**Opportunity cost** is the next-best alternative given up when a choice is made, not just the dollar cost.",
+        "The **production possibilities curve (PPC)** shows the maximum combinations of two goods an economy can produce. Points inside = inefficient. Points outside = currently unattainable. Economic growth shifts the curve outward."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "1.3 🏛️ Economic Systems"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Every economic system answers WHAT, HOW, and FOR WHOM differently based on who controls the factors of production.",
+        "**Traditional**: custom and habit. **Command**: central government. **Market**: buyers and sellers. **Mixed**: combination, every real-world economy is mixed.",
+        "Market economies use **price signals** to coordinate millions of decisions automatically, no planner required."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "1.4 🌍 Economic Systems: Case Studies"
+    },
+    {
+      "type": "list",
+      "items": [
+        "The Soviet command economy failed partly because no central planner can replicate what prices communicate automatically across tens of millions of different goods.",
+        "China's hybrid: market mechanisms + Communist Party political control. The \"socialist market economy\" is a real-world mixed system.",
+        "South Korea used **export-led growth**: start with simple industries, earn foreign capital, reinvest in more complex ones over generations."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "1.5 💰 Personal Finance"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Always budget from **net income** (take-home pay), never gross (pre-tax).",
+        "**50/30/20 rule**: 50% needs, 30% wants, 20% savings and debt repayment.",
+        "**Compound interest** rewards starting early above all else, time in the market matters more than the amount contributed.",
+        "The **risk-return relationship**: higher potential returns always require higher risk. No exceptions, no free lunch in investing.",
+        "Always contribute enough to a 401(k) to capture the full **employer match**, it is an immediate, guaranteed return on investment."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "1.6 💳 Credit, Debt, and Interest"
+    },
+    {
+      "type": "list",
+      "items": [
+        "A **debit card** spends money you own; a **credit card** is a short-term loan, free if paid in full monthly, expensive if you carry a balance.",
+        "**APR** is the annualized cost of borrowing. Credit cards run 20–28%; payday loans often exceed 300% APR when annualized.",
+        "**Compound interest on debt** works against borrowers, unpaid interest is added to principal, and future interest is charged on the larger total.",
+        "A **FICO credit score** (300–850) reflects payment history (35%), credit utilization (30%), length of history (15%), credit mix (10%), and new inquiries (10%).",
+        "**Predatory lending** (payday loans, rent-to-own, title loans) traps borrowers with very high effective APRs. Warning signs: no credit check, balloon payments, prepayment penalties."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "1.7 📈 Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**CPI** = (cost of market basket now ÷ cost in base period) × 100. Tracks price changes for ~300 consumer goods and services.",
+        "Four inflation causes: **demand-pull** (excess spending), **cost-push** (rising input costs), **wage-price spiral** (self-reinforcing), and **money supply growth** outpacing real output.",
+        "**Real return = nominal return − inflation rate.** What matters for wealth is real return. A 2% savings account with 4% inflation has a −2% real return.",
+        "The **foreign exchange rate** is the price of one currency in terms of another, set by supply and demand under flexible rates or by government decree under fixed rates.",
+        "A **trade deficit** (imports > exports) floods foreign exchange markets with the home currency, weakening it, which tends to self-correct the deficit over time.",
+        "**Strong dollar**: cheaper imports, more expensive exports. **Weak dollar**: cheaper exports, more expensive imports. No net economic gain either way."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Scenario Challenge"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thirteen real-world situations, one Unit 1 concept behind each. Read the scenario, pick the best answer, and find out why. Work through all thirteen before moving to the flashcards."
+    },
+    {
+      "type": "heading",
+      "text": "Vocabulary flashcards"
+    },
+    {
+      "type": "paragraph",
+      "text": "All vocabulary terms from Sections 1.1–1.7 in one deck. Click any card to reveal the definition. Use the section filter to focus on one area at a time, or shuffle for a mixed review."
+    },
+    {
+      "type": "heading",
+      "text": "Practice quiz"
+    },
+    {
+      "type": "paragraph",
+      "text": "Twenty questions spanning all Unit 1 topics, at exam difficulty. Work through them without notes first, then review the explanations for anything missed."
+    }
+  ],
+  "videoResources": [],
+  "multipleChoice": [
+    {
+      "question": "A student has $50 and must choose between a concert ticket and new running shoes. Both cost exactly $50. If the student buys the concert ticket, the opportunity cost is:",
+      "options": [
+        "The new running shoes, the next-best alternative that had to be given up",
+        "The $50 spent on the ticket",
+        "Both items, since the student cannot afford both at the same time",
+        "Zero, because opportunity cost only matters when goods have different prices"
+      ],
+      "correctIndex": 0,
+      "explanation": "Opportunity cost is the value of the next-best alternative given up. By buying the concert ticket, the student gives up the running shoes. The $50 is the financial cost, a different concept. Economists define opportunity cost in terms of alternatives foregone, not money spent, because money can buy many different things and the true cost is what must be sacrificed."
+    },
+    {
+      "question": "A city offers 'free' public parking in the downtown area. According to TINSTAAFL, which of the following is MOST accurate?",
+      "options": [
+        "Free public parking is a genuine exception to TINSTAAFL because cities have unlimited land",
+        "It is free because the land used had no prior value",
+        "The parking was always free; the city is simply returning public land to its rightful owners",
+        "Someone bears the cost, through tax revenue, the opportunity cost of alternative land uses, or maintenance expenses, even if individual drivers pay nothing at the meter"
+      ],
+      "correctIndex": 3,
+      "explanation": "TINSTAAFL, There Is No Such Thing As A Free Lunch, applies to public goods just as it does to private ones. The land, pavement, signage, and maintenance all cost money, paid through taxes. The land also carries an opportunity cost: it could have been a park, a business, or housing. Calling something 'free' means the cost is hidden or borne by someone else, not eliminated."
+    },
+    {
+      "question": "On a production possibilities curve (PPC) for a country producing only agricultural and industrial goods, a point that lies INSIDE the curve represents:",
+      "options": [
+        "A combination of outputs that exceeds what the country can produce with full use of resources",
+        "An attainable output level that reflects underused or inefficiently deployed resources",
+        "The maximum efficiency point where the country should ideally operate",
+        "A combination that is impossible to reach without foreign aid or technology imports"
+      ],
+      "correctIndex": 1,
+      "explanation": "Points inside the PPC are attainable but inefficient, the economy could produce more of one or both goods by better using its available resources. Points on the curve represent maximum productive efficiency. Points outside are currently unattainable and require more resources or better technology. Economic growth shifts the PPC outward by expanding the production frontier."
+    },
+    {
+      "question": "In a pure market economy, the decision about HOW to produce goods is made by:",
+      "options": [
+        "A central planning agency that sets production standards and output quotas",
+        "Consumer referendums held at the national level each year",
+        "Individual businesses responding to profit incentives, input prices, and competitive pressure",
+        "A council of workers who rotate responsibility for setting production methods"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a market economy, the HOW question, which techniques, how much labor vs. capital, which suppliers, is answered by businesses seeking to minimize costs and maximize profit. No central planner directs this. Businesses that choose inefficient methods lose to those that find better ones. Competition disciplines production methods more effectively than any planning office can manage across millions of products."
+    },
+    {
+      "question": "In the Soviet Union, central planners set a quota for nail production measured in total weight. Factories responded by making a few very large nails to meet the quota with minimal effort. This example MOST directly illustrates:",
+      "options": [
+        "The fundamental information problem of command economies, price signals carry information that weight quotas and planning directives cannot replicate",
+        "The success of Five-Year Plans in maximizing resource efficiency in heavy industry",
+        "How command economies naturally innovate to meet consumer preferences over time",
+        "That Soviet planning worked best in heavy industry rather than consumer goods"
+      ],
+      "correctIndex": 0,
+      "explanation": "The nail story illustrates Hayek's information problem. In a market, prices rise when small nails become scarce, telling producers to make more of them. A quota measured in weight tells factories nothing about what consumers actually need. Factories rationally respond to the incentive as given, producing something useless. No planner had the information to foresee this problem, let alone correct it across tens of millions of different products simultaneously."
+    },
+    {
+      "question": "Between 1978 and 2000, China introduced market reforms while the Communist Party maintained political control. Per capita GDP grew faster than almost any country in history. The BEST explanation for why market mechanisms produced this growth even under Communist rule is:",
+      "options": [
+        "The Communist Party secretly adopted free-market principles while publicly denying it",
+        "China's growth was primarily driven by massive foreign aid rather than market reforms",
+        "Market economies always grow faster than command economies regardless of political system",
+        "Allowing prices to coordinate production and permitting private profit-seeking unleashed entrepreneurial energy and allocated resources far more efficiently than central planning had"
+      ],
+      "correctIndex": 3,
+      "explanation": "Deng Xiaoping's insight was that market mechanisms, prices, profit incentives, private ownership in the productive sector, could be separated from political control. Even with the Communist Party in power, allowing prices to coordinate economic activity and letting people keep the rewards of their work produced results that central planning never approached. The political system and the economic system are distinct; China combined them in a unique way that generated extraordinary growth."
+    },
+    {
+      "question": "Farid takes home $2,800 per month after taxes. He spends $1,400 on rent, groceries, utilities, and insurance; $800 on dining out, clothes, concerts, and streaming; and saves $600 each month. How does this budget compare to the 50/30/20 guideline?",
+      "options": [
+        "The budget is perfectly balanced, all three buckets exactly match the guideline",
+        "The needs bucket (50%) and savings bucket (21%) are on target; the wants bucket (29%) is slightly under the 30% guideline, leaving a little more room for discretionary spending than he uses",
+        "The wants spending is far too high and should be fully redirected to savings",
+        "The savings rate is dangerously low and should double before any wants spending is justified"
+      ],
+      "correctIndex": 1,
+      "explanation": "$2,800 × 50% = $1,400 for needs (exact match). $2,800 × 30% = $840 for wants (Farid spends $800, slightly under). $2,800 × 20% = $560 for savings (Farid saves $600, slightly over). The budget is close to ideal. His wants spending is actually slightly below the 30% guideline and his savings slightly above 20%. The 50/30/20 rule is a guideline, not a strict rule; small variations in either direction are generally fine."
+    },
+    {
+      "question": "A mutual fund holds shares in 400 different companies across 15 industries. During a major recession, the construction and retail sectors decline by 35%. The fund's total value falls by only 8%. The MOST direct reason the fund lost less than the declining sectors is:",
+      "options": [
+        "Mutual funds are legally protected against losses during recessions by federal deposit insurance",
+        "The fund manager correctly predicted the recession and sold all construction and retail shares in advance",
+        "Diversification, losses in the declining sectors were partially offset by stable or positive performance in other sectors the fund held",
+        "The fund's bond holdings guaranteed a positive return that cancelled out the equity losses"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diversification spreads risk across many investments so that a loss in one area does not devastate the whole portfolio. With 15 industries represented, a 35% decline in 2 of them pulls the overall value down far less than 35%, the other 13 industries cushion the blow. This is the core reason mutual funds are recommended over individual stock picking for risk management, and why the fund's 8% loss was far smaller than the sector declines."
+    },
+    {
+      "question": "A market basket of goods and services cost $1,500 in the base year. Five years later, the same basket costs $1,950. What is the CPI for the current period, and by what percentage have prices risen since the base period?",
+      "options": [
+        "CPI = 130; prices are 30% higher than in the base period",
+        "CPI = 30; prices have increased by $450 since the base period",
+        "CPI = 150; prices are 50% higher and the economy is experiencing hyperinflation",
+        "CPI = 1.30; prices are 1.3 times higher than in the base period"
+      ],
+      "correctIndex": 0,
+      "explanation": "CPI = (current cost ÷ base cost) × 100 = ($1,950 ÷ $1,500) × 100 = 130. A CPI of 130 means prices are 30% higher than in the base period, not 130% higher. The 100 baseline represents no change; the index value shows the price level as a percentage of that baseline. The dollar increase alone ($450) does not capture the percentage change."
+    },
+    {
+      "question": "A major drought causes food prices to spike, trucking costs rise with fuel prices, and workers demand wage increases to cover their rising grocery bills. Those higher wages raise production costs, which push prices higher again. Which combination of inflation causes does this scenario involve?",
+      "options": [
+        "Demand-pull and hyperinflation, consumers are buying too much food and driving up prices",
+        "Stagflation and deflation, food scarcity creates stagnant growth while the money supply shrinks",
+        "Purely demand-pull, consumer spending is driving prices up from the demand side",
+        "Cost-push and wage-price spiral, rising input costs (food, fuel, wages) feed back on each other in a self-reinforcing loop"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cost-push inflation starts on the supply side: the drought raises food prices and higher fuel costs raise distribution costs. When workers demand wage increases to cover rising living costs, and those wages then raise employer costs, a wage-price spiral begins. Neither originates from excess consumer demand (demand-pull); both start from supply-side shocks that then reinforce each other in a feedback loop."
+    },
+    {
+      "question": "A country's central bank grows concerned about rising inflation and raises interest rates sharply. New home purchases, car loans, and business investment all decline. The economy slows and unemployment rises. What economic concept does this policy tradeoff illustrate?",
+      "options": [
+        "Stagflation, the central bank deliberately caused both inflation and recession simultaneously",
+        "The difficulty of fighting inflation, the standard cure (higher interest rates) slows economic activity, potentially causing unemployment and reduced growth as side effects",
+        "Cost-push inflation, higher interest rates pushed up production costs for businesses",
+        "Hyperinflation, only extreme interest rate hikes can stop runaway price growth"
+      ],
+      "correctIndex": 1,
+      "explanation": "Raising interest rates is the primary tool central banks use to fight inflation. Higher rates make borrowing expensive, reduce spending and investment, and thereby reduce demand-pull pressure on prices. But the side effect is economic slowdown: housing, auto sales, and business investment all fall, and unemployment can rise. This is exactly the tradeoff the Federal Reserve navigated in the early 1980s under Paul Volcker, rates above 20%, inflation was crushed, but a painful recession followed."
+    },
+    {
+      "question": "An American company exports aircraft engines to European airlines, priced in U.S. dollars. The dollar strengthens significantly against the euro. From the perspective of the European airlines, the engines have:",
+      "options": [
+        "Become cheaper, a stronger dollar means American goods cost less abroad",
+        "Become cheaper, exchange rates do not affect dollar-priced goods for foreign buyers",
+        "Become more expensive, European airlines must now spend more euros to buy the same number of dollars needed to purchase the engines",
+        "Remained the same price, since the engines are priced in dollars, the dollar price is fixed"
+      ],
+      "correctIndex": 2,
+      "explanation": "When the dollar strengthens, foreign currencies buy fewer dollars. A European airline that previously converted €1 million into $1.1 million can now only get $1.0 million for the same euros. If the engines cost $500,000, it now takes more euros to cover that cost. American exports priced in dollars become more expensive for foreign buyers when the dollar strengthens, which is why a strong dollar tends to reduce U.S. exports and worsen trade deficits."
+    },
+    {
+      "question": "Japan maintained a fixed exchange rate for decades after World War II, pegging the yen to the dollar. One key requirement for maintaining this fixed rate was that Japan's government had to:",
+      "options": [
+        "Manage its money supply and foreign reserves carefully to prevent market forces from pushing the yen away from the fixed peg",
+        "Prevent Japanese citizens from buying any foreign goods, to avoid exchanging yen for dollars",
+        "Set domestic prices for all goods in both yen and dollars simultaneously",
+        "Require every Japanese company to hold 50% of its assets in U.S. Treasury bonds"
+      ],
+      "correctIndex": 0,
+      "explanation": "A fixed exchange rate requires the central bank to intervene whenever market supply and demand would push the currency away from the fixed price. If demand for yen rises, the central bank must sell yen and buy dollars to keep the rate fixed. If demand falls, it must buy yen. This requires large foreign currency reserves and monetary discipline, which is why fixed rates are hard to maintain long-term and tend to break down during large trade imbalances."
+    },
+    {
+      "question": "The United States runs a large trade deficit for several consecutive years. According to the self-correcting mechanism of flexible exchange rates, what sequence of events would MOST likely follow?",
+      "options": [
+        "The deficit would keep growing indefinitely, requiring Congress to impose tariffs",
+        "Foreign governments would demand the U.S. return to the gold standard to prevent further deficits",
+        "The Federal Reserve would print more money to finance the deficit, causing inflation",
+        "The surplus of dollars in global markets from persistent American purchasing would weaken the dollar, making U.S. exports cheaper and imports more expensive, gradually reducing the deficit"
+      ],
+      "correctIndex": 3,
+      "explanation": "When Americans buy more foreign goods than foreigners buy from the U.S., they must convert dollars into foreign currencies. This increases the supply of dollars in foreign exchange markets, pushing the dollar's value down. A weaker dollar makes American goods cheaper for foreign buyers (exports rise) and makes foreign goods more expensive for Americans (imports fall). Over time, this naturally corrects the deficit, no government action required, which is a key advantage of flexible rates."
+    },
+    {
+      "question": "In 2022, the Federal Reserve raised its benchmark interest rate from near 0% to over 5% to combat inflation above 8%. Which of the following MOST accurately describes the mechanism by which higher interest rates reduce inflation?",
+      "options": [
+        "Higher rates make borrowing more expensive, reducing consumer spending and business investment, which reduces overall demand, relieving upward pressure on prices",
+        "Higher rates cause the government to print less money, directly shrinking the money supply",
+        "Higher rates make foreign goods more expensive, reducing imports and therefore reducing inflation",
+        "Higher rates cause businesses to hire fewer workers, which reduces wages and therefore reduces cost-push pressure"
+      ],
+      "correctIndex": 0,
+      "explanation": "Higher interest rates work through a demand channel. When borrowing costs rise, mortgages, car loans, credit cards, and business loans all become more expensive. Consumers and businesses borrow and spend less. This reduces aggregate demand, the total spending in the economy. When demand falls relative to what the economy can supply, upward pressure on prices eases. It is a demand-side tool designed primarily to address demand-pull inflation, with the tradeoff of slower growth and potential unemployment."
+    },
+    {
+      "question": "A homeowner locks in a 30-year mortgage at 4.5% APR when inflation is running at 1%. Three years later, inflation has risen to 7%. Which of the following BEST describes the real interest rate the homeowner is now paying on their outstanding mortgage balance?",
+      "options": [
+        "The real rate has risen to 11.5%, making the mortgage more expensive in real terms",
+        "The real rate is approximately −2.5%, meaning the borrower is repaying in dollars that are losing purchasing power faster than the stated interest rate",
+        "The real rate remains 4.5% because the APR is contractually fixed and unaffected by inflation",
+        "The real rate equals 7%, the inflation rate, so the mortgage is now effectively interest-free"
+      ],
+      "correctIndex": 1,
+      "explanation": "Real interest rate ≈ nominal rate − inflation = 4.5% − 7% = −2.5%. The mortgage APR is locked in, but inflation has accelerated past it. The borrower repays with dollars that are worth 7% less each year in purchasing power while only paying 4.5% in interest, so they are benefiting from the gap. The lender is the loser: they receive fixed payments that buy progressively less. This is why unexpected inflation transfers wealth from creditors (lenders) to debtors (borrowers), and why a fixed-rate loan that seemed expensive can become a windfall if inflation spikes after the contract is signed."
+    },
+    {
+      "question": "Marcus has a 580 FICO score and qualifies for a personal loan at 19% APR. His friend Priya has a 760 FICO score and qualifies for the same loan at 7% APR. Inflation is currently running at 4%. Which statement MOST accurately compares their situations?",
+      "options": [
+        "Both pay the same real interest rate, inflation affects all borrowers equally regardless of APR",
+        "Priya is actually losing money in real terms because her APR is only 3 percentage points above inflation",
+        "Marcus's real borrowing cost is approximately 15% while Priya's is approximately 3%, his lower FICO score costs him roughly five times more in real purchasing-power terms",
+        "The real cost is identical for both because FICO scores only affect whether a loan is approved, not the interest rate charged"
+      ],
+      "correctIndex": 2,
+      "explanation": "Real interest rate ≈ nominal APR − inflation. Marcus: 19% − 4% = 15% real cost. Priya: 7% − 4% = 3% real cost. A FICO score directly determines the APR a lender will offer, which in turn determines the real cost of borrowing. Marcus's lower score costs him 12 extra percentage points in APR, roughly five times Priya's real borrowing cost for the same dollar amount. Poor credit history compounds over time: each high-rate loan makes saving and building wealth harder, while borrowers with strong FICO scores access capital at a fraction of the real cost."
+    },
+    {
+      "question": "A payday lender charges $18 per $100 borrowed on a 2-week loan, an annualized APR of approximately 468%. Annual inflation is currently 3%. Why does federal law require lenders to disclose APR, and what is the approximate real annual cost of this loan?",
+      "options": [
+        "Federal APR disclosure exists to protect lenders; the real cost to the borrower is just 3%, equal to inflation",
+        "APR disclosure lets borrowers compare the true annualized cost across loan products; the real annual cost is approximately 465%, inflation barely offsets a triple-digit rate",
+        "The real cost cannot be determined without the borrower's FICO score, which lenders must also disclose",
+        "Inflation of 3% cancels out the lender's fee, so the effective real cost is near zero for short-term loans"
+      ],
+      "correctIndex": 1,
+      "explanation": "Real cost ≈ 468% − 3% = 465%. While inflation does slightly reduce the real cost of any fixed-rate debt, because repayments are made in dollars worth a little less, a 3-point reduction on a 468% APR loan is nearly irrelevant. Federal law requires all lenders to disclose APR so borrowers can compare products on a standardized annualized basis. Without it, '$18 on $100 for two weeks' sounds small; annualized, it is 468%. This is why APR disclosure is the core consumer protection in the Truth in Lending Act, and why credit cards (typically 20–30% APR) are dramatically cheaper than payday loans even though their dollar fees look larger."
+    },
+    {
+      "question": "An American student uses a credit card with 20% APR to pay for a semester abroad in the eurozone. When she departed, 1 dollar bought €0.95. Six months later, when she pays off her balance, 1 dollar buys only €0.85, the dollar has weakened. Which of the following BEST describes the combined effect on her total cost?",
+      "options": [
+        "The dollar weakening reduced her costs, since her credit card bill is in dollars and weaker dollars are easier to earn",
+        "Exchange rate changes only affect importers and exporters, individual credit card holders are shielded from currency movements",
+        "Her effective APR fell because the weaker dollar reduced the real purchasing power of her interest charges",
+        "Both the credit card's interest charges and the dollar's depreciation increased her real cost, she paid more in dollar terms for euro-priced goods, then paid interest on top of that inflated balance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Two costs compounded here. First, the dollar weakened from $1 = €0.95 to $1 = €0.85, each euro of spending now required more dollars. A €1,000 hotel bill that cost roughly $1,053 at departure cost roughly $1,176 when settled, a ~12% increase from exchange rate movement alone. Second, carrying the balance at 20% APR for six months added another ~10% in interest charges. Together, her effective cost was over 20% higher than the original euro sticker prices, a real-world example of how exchange rate risk and credit costs stack when traveling abroad on a revolving balance."
+    },
+    {
+      "question": "South Korea's export-led industrialization, the Soviet nail quota story, China's socialist market economy, and Sweden's high-tax welfare state all illustrate which common theme?",
+      "options": [
+        "Every country in this list eventually adopted a fully free-market economy by the early 2000s",
+        "Every economy in this list has experienced at least one period of hyperinflation since 1950",
+        "There is no single correct version of an economy, real economies are mixed, and each society adapts economic principles to its own historical context and policy choices",
+        "Government intervention always reduces economic efficiency and long-run growth"
+      ],
+      "correctIndex": 2,
+      "explanation": "South Korea used state-directed export policy. The Soviet nail story shows command economy failure from information problems. China blends Communist Party control with market mechanisms. Sweden has high taxes funding generous welfare alongside a market economy. What ties them together: none is a pure textbook model. Each represents a different answer to WHAT, HOW, and FOR WHOM, and each evolved from its own history, institutions, and political context. Real economies are always mixed, and the 'right' mix differs by country and era."
+    }
+  ],
+  "notebookLmResources": [],
+  "teacherNotes": "",
+  "flashcardVocab": [
+    {
+      "word": "Scarcity",
+      "definition": "The fundamental economic problem of having limited resources to meet seemingly unlimited wants.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Economics",
+      "definition": "The social science that studies how people use scarce resources to satisfy unlimited wants and needs.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Microeconomics",
+      "definition": "The study of the choices made by individuals, households, and individual businesses.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Macroeconomics",
+      "definition": "The study of the economy as a whole - inflation, unemployment, national output.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Need",
+      "definition": "A basic requirement for survival, such as food, clothing, or shelter.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Want",
+      "definition": "Something a person would like to have but does not need to survive.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Good",
+      "definition": "A tangible item that satisfies a want or need.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Service",
+      "definition": "Work or labor performed for someone else; intangible.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Durable good",
+      "definition": "A good that lasts three years or more with regular use.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Nondurable good",
+      "definition": "A good that wears out, is used up, or lasts less than three years.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Consumer good",
+      "definition": "A good intended for final use by individuals.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Capital good",
+      "definition": "A tool or piece of equipment used by a business to produce other goods.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Value",
+      "definition": "The monetary worth of a good or service.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Utility",
+      "definition": "The capacity of a good or service to be useful and provide satisfaction.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Paradox of value",
+      "definition": "The apparent contradiction that essential items (like water) often cost less than nonessential items (like diamonds).",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Wealth",
+      "definition": "The accumulation of tangible products that are scarce, useful, and transferable.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "TINSTAAFL",
+      "definition": "\"There Is No Such Thing As A Free Lunch\" - every choice has a cost because resources are scarce.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Choice",
+      "definition": "The act of selecting one option from a set of alternatives. Because resources are scarce, every choice means giving something else up.",
+      "sectionNumber": "1.1",
+      "sectionLabel": "What Is Economics? Scarcity and Economic Thinking"
+    },
+    {
+      "word": "Production possibilities curve",
+      "definition": "A diagram showing all possible combinations of two goods an economy can produce when all resources are fully and efficiently employed.",
+      "sectionNumber": "1.2",
+      "sectionLabel": "Making Choices"
+    },
+    {
+      "word": "Opportunity cost",
+      "definition": "The value of the next best alternative given up when one choice is made rather than another.",
+      "sectionNumber": "1.2",
+      "sectionLabel": "Making Choices"
+    },
+    {
+      "word": "Trade-offs",
+      "definition": "All the alternatives that must be given up when a choice is made - every option not selected.",
+      "sectionNumber": "1.2",
+      "sectionLabel": "Making Choices"
+    },
+    {
+      "word": "Economic growth",
+      "definition": "A sustained increase in a nation's total output of goods and services over time; shifts the PPC outward.",
+      "sectionNumber": "1.2",
+      "sectionLabel": "Making Choices"
+    },
+    {
+      "word": "Productivity",
+      "definition": "A measure of the amount of output produced with a given amount of resources in a specific period of time.",
+      "sectionNumber": "1.2",
+      "sectionLabel": "Making Choices"
+    },
+    {
+      "word": "Human capital",
+      "definition": "The sum of people's skills, abilities, health, knowledge, and motivation - everything that makes a worker more productive.",
+      "sectionNumber": "1.2",
+      "sectionLabel": "Making Choices"
+    },
+    {
+      "word": "Division of labor",
+      "definition": "Organizing work so that each worker or group completes a separate part of the overall task.",
+      "sectionNumber": "1.2",
+      "sectionLabel": "Making Choices"
+    },
+    {
+      "word": "Specialization",
+      "definition": "Assigning tasks to the workers, regions, or nations that can perform them most efficiently.",
+      "sectionNumber": "1.2",
+      "sectionLabel": "Making Choices"
+    },
+    {
+      "word": "Economic interdependence",
+      "definition": "The mutual reliance between people, businesses, regions, and nations for most of the goods and services they consume.",
+      "sectionNumber": "1.2",
+      "sectionLabel": "Making Choices"
+    },
+    {
+      "word": "Economic model",
+      "definition": "A simplified graph, equation, or diagram that shows how something in the economy works by stripping away complexity.",
+      "sectionNumber": "1.2",
+      "sectionLabel": "Making Choices"
+    },
+    {
+      "word": "Cost-benefit analysis",
+      "definition": "A decision-making strategy that explicitly compares expected costs to expected benefits before acting.",
+      "sectionNumber": "1.2",
+      "sectionLabel": "Making Choices"
+    },
+    {
+      "word": "Factors of production",
+      "definition": "The productive resources needed to produce goods and services: land, capital, labor, and entrepreneurs.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Land",
+      "definition": "Natural resources not created by human effort - farmland, forests, minerals, fresh water, sunlight; one of the four factors of production.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Capital",
+      "definition": "Tools, equipment, machinery, and factories used in the production of goods and services; NOT the same as money.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Labor",
+      "definition": "All human effort - physical and mental - that goes into producing goods and services; one of the four factors of production.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Entrepreneurs",
+      "definition": "Risk-taking individuals who combine the other three factors to start businesses or bring new products to market.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Economic system",
+      "definition": "The organized way a society uses its scarce resources to answer WHAT, HOW, and FOR WHOM to produce.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Traditional economy",
+      "definition": "An economy in which production decisions are based on ritual, habit, and custom passed down through generations.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Command economy",
+      "definition": "An economy in which a central authority - such as a government or dictator - makes the major decisions about production and distribution.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Socialism",
+      "definition": "An economic and political system in which the government owns some but not all of the factors of production.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Market economy",
+      "definition": "An economy in which the three basic questions are answered primarily by buyers and sellers interacting freely in markets.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Capitalism",
+      "definition": "An economic system in which private citizens own and use the factors of production in order to earn profit.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Free enterprise",
+      "definition": "The right of individuals and businesses to operate competitively for profit with minimal government interference.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Private property",
+      "definition": "Assets owned by individuals or businesses rather than by the government; a key feature of market economies.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Voluntary exchange",
+      "definition": "A trade in which both the buyer and the seller freely agree to the transaction, each believing they benefit.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Dollar votes",
+      "definition": "The idea that consumer spending decisions signal to producers what goods and services people want most.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Mixed economy",
+      "definition": "An economy that combines elements of traditional, command, and market systems; describes virtually every real-world economy.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Economic stagnation",
+      "definition": "A prolonged period of little or no economic growth, often associated with traditional or poorly managed command economies.",
+      "sectionNumber": "1.3",
+      "sectionLabel": "Factors of Production"
+    },
+    {
+      "word": "Transition economy",
+      "definition": "A country in the process of shifting from a command or socialist economic system to a market economy.",
+      "sectionNumber": "1.4",
+      "sectionLabel": "Economic Systems"
+    },
+    {
+      "word": "Privatization",
+      "definition": "The transfer of state-owned factories, farms, or other property to private ownership; a key step in transitioning to capitalism.",
+      "sectionNumber": "1.4",
+      "sectionLabel": "Economic Systems"
+    },
+    {
+      "word": "Voucher",
+      "definition": "A government-issued certificate given to citizens during privatization that can be exchanged for ownership shares in formerly state-owned companies.",
+      "sectionNumber": "1.4",
+      "sectionLabel": "Economic Systems"
+    },
+    {
+      "word": "Five-Year Plan",
+      "definition": "A comprehensive, centralized government economic plan that sets production targets for all industries over a five-year period; used in the Soviet Union and Maoist China.",
+      "sectionNumber": "1.4",
+      "sectionLabel": "Economic Systems"
+    },
+    {
+      "word": "Collectivization",
+      "definition": "The forced transfer of privately owned farms and businesses to common state ownership; a defining feature of Soviet and Maoist economic policy.",
+      "sectionNumber": "1.4",
+      "sectionLabel": "Economic Systems"
+    },
+    {
+      "word": "Perestroika",
+      "definition": "Russian for 'restructuring'; Mikhail Gorbachev's 1985 attempt to reform the Soviet economy by giving managers more freedom and encouraging small businesses.",
+      "sectionNumber": "1.4",
+      "sectionLabel": "Economic Systems"
+    },
+    {
+      "word": "Per capita GDP",
+      "definition": "Gross domestic product divided by the total population; used to compare average income and output levels across countries.",
+      "sectionNumber": "1.4",
+      "sectionLabel": "Economic Systems"
+    },
+    {
+      "word": "European Union (EU)",
+      "definition": "An association of European nations formed in 1993 to create a single market with free movement of goods, services, people, and capital across member borders.",
+      "sectionNumber": "1.4",
+      "sectionLabel": "Economic Systems"
+    },
+    {
+      "word": "Keiretsu",
+      "definition": "A Japanese business structure in which a tightly knit group of firms share an external board of directors that shields member companies from competition.",
+      "sectionNumber": "1.4",
+      "sectionLabel": "Economic Systems"
+    },
+    {
+      "word": "Capital-intensive",
+      "definition": "A production method that uses relatively large amounts of machinery and equipment compared to the number of workers.",
+      "sectionNumber": "1.4",
+      "sectionLabel": "Economic Systems"
+    },
+    {
+      "word": "Income",
+      "definition": "Money received in exchange for work, the use of property, or investments.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Wages",
+      "definition": "Compensation calculated at an hourly rate for work performed.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Salary",
+      "definition": "A fixed annual amount paid in regular installments, regardless of exact hours worked.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Gross income",
+      "definition": "Total earnings before any taxes, deductions, or withholdings are removed.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Net income",
+      "definition": "Take-home pay, earnings after all taxes and deductions have been subtracted.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Budget",
+      "definition": "A plan that assigns income across spending categories, savings, and debt repayment over a set time period.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Fixed expense",
+      "definition": "A bill that stays the same amount every month, such as rent or a car payment.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Variable expense",
+      "definition": "A cost that changes month to month, such as groceries, gas, or entertainment.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "50/30/20 rule",
+      "definition": "A budgeting guideline: 50% of take-home pay for needs, 30% for wants, 20% for savings and debt repayment.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Emergency fund",
+      "definition": "A cash reserve of three to six months of living expenses, kept in a savings account for unexpected costs.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Certificate of deposit (CD)",
+      "definition": "A savings product that pays a higher interest rate than a regular savings account in exchange for leaving money deposited for a fixed period.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Compound interest",
+      "definition": "Interest calculated on both the original principal and all previously earned interest, causing balances to grow faster over time.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Inflation",
+      "definition": "The general rise in prices over time, which reduces the purchasing power of money not invested.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Risk-return relationship",
+      "definition": "The principle that higher potential investment returns always come with higher risk of loss, consistent high returns without risk do not exist.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Bond",
+      "definition": "A formal contract in which an investor loans money to a government or corporation for a set period in exchange for regular interest payments and repayment of the principal at maturity.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Stock (equity)",
+      "definition": "A share of ownership in a corporation. Stockholders may receive dividends and benefit from price increases, but may also lose money if the company performs poorly.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Diversification",
+      "definition": "Spreading investments across many different assets so that losses in one position do not wipe out an entire portfolio.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Mutual fund",
+      "definition": "An investment company that pools money from many investors to buy a diversified portfolio of stocks, bonds, or both.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "401(k)",
+      "definition": "A tax-deferred workplace retirement plan where contributions are made before taxes and many employers match a portion of employee contributions.",
+      "sectionNumber": "1.5",
+      "sectionLabel": "Personal Finance"
+    },
+    {
+      "word": "Debit card",
+      "definition": "A payment card that draws funds directly from the cardholder's checking account at the time of purchase.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "Credit card",
+      "definition": "A payment card that allows the holder to borrow funds from the card issuer up to a set limit; interest is charged if the balance is not paid in full by the due date.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "Interest rate",
+      "definition": "The percentage of an outstanding balance charged by a lender as the cost of borrowing money over a given period.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "Annual percentage rate (APR)",
+      "definition": "The annualized cost of borrowing expressed as a percentage, including interest and fees, the standardized figure lenders must disclose so borrowers can compare credit products.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "Compound interest on debt",
+      "definition": "Interest charged on both the original principal and any previously unpaid interest, causing the amount owed to grow faster over time when balances are not paid down.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "Revolving credit",
+      "definition": "A flexible credit arrangement with a maximum limit; borrowers can draw, repay, and reborrow repeatedly, credit cards are the most common example.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "Installment credit",
+      "definition": "A loan for a fixed amount with a set repayment schedule of equal payments over a specified term, auto loans, mortgages, and student loans are all installment credit.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "Credit score",
+      "definition": "A numerical summary (typically 300–850 on the FICO scale) of a person's credit history, used by lenders to assess the likelihood of repayment.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "FICO score",
+      "definition": "The most widely used credit scoring model, ranging from 300 to 850, based on payment history, amounts owed, length of credit history, credit mix, and new inquiries.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "Credit utilization",
+      "definition": "The percentage of available revolving credit currently in use; keeping utilization below 30% is generally recommended to maintain a strong credit score.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "Predatory lending",
+      "definition": "Lending practices that exploit borrowers through unfair, deceptive, or abusively high-cost terms, often targeting people with limited financial options or credit access.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "Payday loan",
+      "definition": "A short-term, small-dollar loan typically due on the borrower's next payday, with fees that often equate to an APR of 300–400% or more.",
+      "sectionNumber": "1.6",
+      "sectionLabel": "Credit, Debt, and Interest"
+    },
+    {
+      "word": "Inflation",
+      "definition": "A sustained general rise in the price level across the economy, reducing the purchasing power of money.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Deflation",
+      "definition": "A sustained general fall in the price level, dangerous because it can trigger a cycle of reduced spending, production cuts, and economic stagnation.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Price index",
+      "definition": "A statistical measure used to track changes in the overall price level over time.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Market basket",
+      "definition": "The representative selection of roughly 300 goods and services used to calculate the Consumer Price Index.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Consumer Price Index (CPI)",
+      "definition": "The most widely used U.S. price index, tracking monthly changes in the cost of a market basket of consumer goods and services relative to a base period.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Base year",
+      "definition": "The reference period against which all other price index values are compared; the base period's CPI is set at 100.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Inflation rate",
+      "definition": "The percentage change in the CPI from one period to the next, calculated as [(CPI new − CPI old) ÷ CPI old] × 100.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Creeping inflation",
+      "definition": "Slow, steady inflation in the 1–3% annual range, generally manageable and not considered a major economic threat.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Hyperinflation",
+      "definition": "Inflation of 500% or more per year, catastrophic and typically leading to a complete collapse of the monetary system.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Stagflation",
+      "definition": "The simultaneous combination of stagnant economic growth (or recession) and rising inflation, particularly difficult to address with standard policy tools.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Demand-pull inflation",
+      "definition": "Inflation caused when total spending across all sectors of the economy exceeds what the economy can produce, pulling prices upward.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Cost-push inflation",
+      "definition": "Inflation caused by rising production input costs, especially energy and labor, which producers pass on to consumers as higher prices.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Wage-price spiral",
+      "definition": "A self-reinforcing cycle in which rising prices lead workers to demand higher wages, which raises production costs, which pushes prices higher again.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Purchasing power",
+      "definition": "The amount of goods and services a given amount of money can actually buy, reduced by inflation over time.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Nominal return",
+      "definition": "The stated interest rate or investment gain before adjusting for inflation.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Real return",
+      "definition": "The actual gain in purchasing power from an investment, calculated as the nominal return minus the inflation rate.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Foreign exchange",
+      "definition": "The system of buying and selling different national currencies to facilitate international trade and finance.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Foreign exchange rate",
+      "definition": "The price of one country's currency expressed in terms of another, for example, how many yen equal one dollar.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Fixed exchange rates",
+      "definition": "A system in which governments set the price of their currency relative to another currency (or gold) and maintain that price through central bank intervention.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Flexible exchange rates",
+      "definition": "A system, also called floating exchange rates, in which the forces of supply and demand determine currency values with no fixed government price.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Gold standard",
+      "definition": "The historical monetary system in which each country's currency was backed by and convertible into a fixed quantity of gold, anchoring exchange rates globally.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Trade deficit",
+      "definition": "The condition when the value of a country's imports exceeds the value of its exports over a given period.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Trade surplus",
+      "definition": "The condition when the value of a country's exports exceeds the value of its imports over a given period.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Imports",
+      "definition": "Goods and services purchased from producers in other countries and brought into the domestic economy.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Exports",
+      "definition": "Goods and services produced domestically and sold to buyers in other countries.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Appreciation",
+      "definition": "An increase in the value of a currency relative to other currencies, each unit of the currency now buys more foreign currency than before.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Depreciation",
+      "definition": "A decrease in the value of a currency relative to other currencies, each unit of the currency now buys less foreign currency than before.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    },
+    {
+      "word": "Balance of trade",
+      "definition": "The difference between the value of a country's exports and the value of its imports; a negative balance is a deficit, a positive balance is a surplus.",
+      "sectionNumber": "1.7",
+      "sectionLabel": "Inflation, Exchange Rates, and the Dollar"
+    }
+  ]
+}
