@@ -227,6 +227,14 @@
       "text": "For something to have high monetary **value** - a worth that can be measured in dollars - it has to have **both** scarcity and utility. Water has lots of utility but, in most places, it is not scarce, so its price stays low. Diamonds have some utility (they're pretty, they cut hard materials) and they are extremely scarce, so their price is high. Mystery solved."
     },
     {
+      "type": "image",
+      "src": "assets/images/economics/adam-smith.jpg",
+      "alt": "Portrait of Adam Smith, the Muir portrait",
+      "imageType": "public_domain_historical",
+      "caption": "Adam Smith (1723-1790), Scottish economist. His 1776 book *The Wealth of Nations* laid the foundation for modern economics and solved the paradox of value.",
+      "attribution": "Known as the Muir portrait, artist unknown, c. 1800, after a medallion by James Tassie. Scottish National Gallery. Public domain."
+    },
+    {
       "type": "paragraph",
       "text": "One important note about utility: it is not fixed and it is not the same for everyone. One person may get massive satisfaction from a concert ticket; their friend might find the same concert boring. Utility lives in the head of the person using the product."
     },
