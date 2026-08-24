@@ -110,6 +110,15 @@
       "text": "The best-known example is the **Mercator projection**, made in 1569 for ocean navigation. It preserves angles and shape, which made it useful for sailors plotting a straight compass course. But that accuracy has a cost: it badly distorts the size of land near the poles. On a standard Mercator map, Greenland looks about the same size as Africa. In reality, Africa is about fourteen times larger."
     },
     {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-human-geography/1-1-1.jpg",
+      "align": "right",
+      "alt": "Two landmass shapes shown at their true relative sizes, then the same two shapes stretched to look the same size",
+      "caption": "True relative size (left) versus the same two landmasses stretched to look equal in size (right), the kind of distortion a Mercator map introduces.",
+      "attribution": "AI-generated illustration"
+    },
+    {
       "type": "funFact",
       "text": "Because the Mercator projection was the default classroom map for so long, it shaped how generations of students pictured the size of different regions, inflating places like Europe and Russia while shrinking Africa and South America. Other projections, like the Gall-Peters, were built to fix this size distortion, though they introduce distortions of their own."
     },
@@ -134,6 +143,15 @@
       ]
     },
     {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-human-geography/1-1-2.jpg",
+      "align": "left",
+      "alt": "A magnifying glass zoomed into a detailed city street grid next to a tiny whole planet Earth",
+      "caption": "A large-scale map zooms in on fine local detail, like streets and buildings. A small-scale map zooms out to show a much bigger area with far less detail.",
+      "attribution": "AI-generated illustration"
+    },
+    {
       "type": "paragraph",
       "text": "Choosing the right scale is a real decision, not just a setting. A geographer studying city traffic needs a large-scale map showing individual streets. A geographer studying global climate needs a small-scale map showing the whole planet. Using the wrong scale, too zoomed in, or too zoomed out, can lead to misleading conclusions."
     },
@@ -144,6 +162,15 @@
     {
       "type": "paragraph",
       "text": "Almost no professional geographer draws maps by hand anymore. Modern mapmaking relies on a **Geographic Information System**, or **GIS**: software that stores spatial data in layers, roads in one, population density in another, flood zones in a third, and lets a geographer combine and compare them. A city planning department deciding where to build a hospital might use GIS to overlay population density, existing hospitals, and travel time by road, all at once, to find the best location. GIS has made mapping far faster and more precise, and it is now the standard tool of the field."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-human-geography/1-1-3.jpg",
+      "align": "right",
+      "alt": "Three transparent map layers, roads, data points, and water, stacked above one another",
+      "caption": "GIS stores map data in separate layers, roads, points of interest, water, that a geographer can stack and compare.",
+      "attribution": "AI-generated illustration"
     }
   ],
   "videoResources": [
