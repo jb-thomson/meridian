@@ -84,10 +84,10 @@
     {
       "type": "image",
       "imageType": "ai_generated",
-      "src": null,
+      "src": "assets/images/ap-human-geography/1-2-0.jpg",
       "alt": "Split illustration showing a data chart on one side and an interview scene on the other, representing quantitative and qualitative data",
       "caption": "Quantitative data is numerical and measurable. Qualitative data captures qualities and experiences that resist simple numbers.",
-      "attribution": "AI-generated illustration (image pending)"
+      "attribution": "AI-generated illustration"
     },
     {
       "type": "paragraph",
