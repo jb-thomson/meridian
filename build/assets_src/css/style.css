@@ -342,7 +342,7 @@ body.is-landing .landing-hero {
    — they're short and meant to be read in the flow of the paragraph they
    follow), placed inline via topic.afterParagraph rather than stacked at
    the end of the reading. */
-.info-box { border-radius: var(--radius); margin: 16px 0; padding: 14px 16px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+.info-box { border-radius: var(--radius); margin: 16px 0; padding: 14px 16px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; clear: both; }
 .info-box-label { display: flex; align-items: center; gap: 7px; font-size: 0.72rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; margin-bottom: 6px; }
 .info-box-body { font-size: 0.92rem; line-height: 1.55; }
 .info-box.fun-fact { background: #e6f4f0; border: 1px solid #7fb89c; }
@@ -378,7 +378,7 @@ body.is-landing .landing-hero {
 .reading-body .reading-list { margin: 0 0 1.1em; padding-left: 1.3em; }
 .reading-body .reading-list li { margin-bottom: 0.5em; font-size: 1.02rem; }
 
-.reading-table-wrap { overflow-x: auto; margin: 0 0 1.3em; border: 1px solid var(--line); border-radius: 10px; }
+.reading-table-wrap { overflow-x: auto; margin: 0 0 1.3em; border: 1px solid var(--line); border-radius: 10px; clear: both; }
 .reading-table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
 .reading-table th, .reading-table td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); }
 .reading-table thead th { background: var(--accent-soft); font-weight: 700; font-size: 0.82rem; }
@@ -387,7 +387,7 @@ body.is-landing .landing-hero {
 
 /* Vocabulary — a bordered box of pills; tap a pill to reveal its
    definition / importance / example right underneath the pill row. */
-.vocab-box { border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper-raised); padding: 16px; margin: 14px 0; }
+.vocab-box { border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper-raised); padding: 16px; margin: 14px 0; clear: both; }
 .vocab-box-title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 1rem; margin: 0 0 4px; }
 .vocab-box-hint { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.76rem; color: var(--ink-soft); margin: 0 0 10px; }
 .vocab-list { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; position: relative; }
@@ -533,7 +533,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .leq-outline-label { font-weight: 700; color: var(--ink); }
 
 /* interactive econ model slot */
-.econ-model { border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; margin: 18px 0; background: var(--paper-raised); }
+.econ-model { border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; margin: 18px 0; background: var(--paper-raised); clear: both; }
 
 /* ---- shared building blocks for economics interactive models ---- */
 .em-kicker { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: var(--course-color, var(--good)); margin-bottom: 4px; }
