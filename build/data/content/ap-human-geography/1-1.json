@@ -3,22 +3,23 @@
   "num": "1.1",
   "title": "Introduction to Maps",
   "status": "complete",
+  "standard": "IMP-1.A",
   "themes": [
     {
       "icon": "🗺️",
       "label": "Spatial",
-      "tooltip": "Maps are not neutral pictures of the world. Every map involves choices about projection, scale, and what to show, and those choices shape how we understand space."
+      "tooltip": "Maps are not neutral pictures of the world. Every map involves choices about type, pattern, and projection, and those choices shape how we understand space."
     }
   ],
   "tldr": [
     "**Two basic map types:** Reference maps show the location of physical or political features (like a road atlas). Thematic maps show the spatial pattern of a specific topic or variable, like population density or election results.",
-    "**Every map distorts something:** Because the Earth is a sphere and a map is flat, every map projection must trade off accuracy in shape, area, distance, or direction. No projection can preserve all four at once.",
-    "**Scale changes what you can see:** Large-scale maps (like a city map) show a small area in great detail. Small-scale maps (like a world map) show a huge area with much less detail. Geographers must choose scale carefully depending on the question they are asking."
+    "**Maps reveal spatial patterns:** distance and direction (absolute or relative), clustering (grouped closely), dispersal (spread apart), and elevation (height above sea level).",
+    "**Every map distorts something:** Because the Earth is a sphere and a map is flat, every map projection must trade off accuracy in shape, area, distance, or direction. No projection can preserve all four at once."
   ],
   "learningObjectives": [
-    "Explain the different types of maps geographers use to represent data.",
-    "Explain the strengths and limitations associated with different map projections.",
-    "Explain how the various principles of map making impact the ways in which maps are used."
+    "Identify types of maps geographers use to represent data.",
+    "Identify the types of spatial patterns and relationships portrayed in maps.",
+    "Explain the strengths and limitations associated with different map projections."
   ],
   "vocabulary": [
     {
@@ -31,7 +32,37 @@
       "term": "Thematic Map",
       "definition": "A map designed to show the spatial distribution or pattern of a specific topic, theme, or variable, rather than general location.",
       "importance": "The main tool geographers use to visualize and analyze data spatially; most AP Human Geography stimulus maps are thematic.",
-      "example": "A map showing county-by-county population density, or a map showing which countries have the highest carbon emissions."
+      "example": "A choropleth map shading each county by median income, or a dot density map showing where population actually clusters within a state."
+    },
+    {
+      "term": "Absolute Distance and Direction",
+      "definition": "The exact, measurable distance between two places (in miles or kilometers) and the precise compass direction from one to the other.",
+      "importance": "Gives a fixed, objective answer that does not depend on who is asking or how they are traveling.",
+      "example": "Chicago is 790 miles due east of Denver."
+    },
+    {
+      "term": "Relative Distance and Direction",
+      "definition": "Distance and direction described in relation to another place or factor, such as travel time, cost, or a landmark, rather than in exact units.",
+      "importance": "Often matters more than absolute distance for real decisions, since a place that is close in miles can feel far if it is hard to reach.",
+      "example": "\"The store is a quick bus ride north of downtown\" describes relative distance and direction, not an exact figure."
+    },
+    {
+      "term": "Clustering",
+      "definition": "A spatial pattern in which similar things are grouped closely together in one area.",
+      "importance": "Clustering shows up constantly in human geography, from industries to population to disease outbreaks, and spotting it is a core map-reading skill.",
+      "example": "Technology companies clustering in Silicon Valley."
+    },
+    {
+      "term": "Dispersal",
+      "definition": "A spatial pattern in which things are spread far apart from one another across an area.",
+      "importance": "The opposite of clustering; recognizing which pattern a map shows is often the first step in explaining why it exists.",
+      "example": "Cattle ranches spread thinly across the Great Plains."
+    },
+    {
+      "term": "Elevation",
+      "definition": "The height of a location above sea level, typically shown on maps through color shading or contour lines.",
+      "importance": "A spatial pattern that shapes settlement, agriculture, and climate, and appears often on both reference and thematic maps.",
+      "example": "A physical map shading mountain ranges brown and lowlands green to show elevation at a glance."
     },
     {
       "term": "Map Projection",
@@ -44,18 +75,6 @@
       "definition": "A map projection developed in 1569 that preserves angles and shape, making it useful for navigation, but severely distorts the relative size of landmasses, especially near the poles.",
       "importance": "The most historically dominant world map projection, but also the most criticized for making high-latitude regions like Greenland and Russia look far larger than they actually are relative to equatorial regions.",
       "example": "On a Mercator map, Greenland appears roughly the same size as Africa, even though Africa is actually about fourteen times larger."
-    },
-    {
-      "term": "Scale",
-      "definition": "The relationship between distance on a map and the corresponding distance on the actual Earth's surface, usually expressed as a ratio.",
-      "importance": "Determines how much detail a map can show; large-scale maps show small areas in detail, while small-scale maps show large areas with less detail.",
-      "example": "A map with a scale of 1:10,000 (large scale, showing a neighborhood in detail) versus a map with a scale of 1:50,000,000 (small scale, showing the entire world)."
-    },
-    {
-      "term": "Geographic Information System (GIS)",
-      "definition": "Computer software that captures, stores, analyzes, and displays geographically referenced data in layers, allowing geographers to combine and compare multiple spatial datasets.",
-      "importance": "The primary modern tool geographers use to build and analyze thematic maps, replacing most hand-drawn map production.",
-      "example": "A city planning department using GIS to overlay flood zone data, population density, and road networks to decide where to build a new hospital."
     }
   ],
   "preTest": [
@@ -64,12 +83,12 @@
       "answer": "A reference map shows the general location of physical and human features, like roads or borders, while a thematic map shows the spatial pattern of a specific topic or variable, like income or disease rates."
     },
     {
-      "question": "Why can no map projection preserve shape, area, distance, and direction all at the same time?",
-      "answer": "Because the Earth is a three-dimensional sphere and a map is a two-dimensional flat surface, translating one to the other always requires some mathematical distortion, so every projection has to sacrifice accuracy in at least one of those four properties."
+      "question": "What is the difference between a clustered pattern and a dispersed pattern?",
+      "answer": "A clustered pattern shows similar things grouped closely together in one area, while a dispersed pattern shows things spread far apart across an area."
     },
     {
-      "question": "Would a city planner deciding where to place a new fire station most likely use a large-scale or small-scale map? Explain your reasoning.",
-      "answer": "A large-scale map, since it shows a small area (the city) in much greater detail, which is necessary for precisely locating streets, response times, and existing fire stations, unlike a small-scale map, which would show too little detail to make that kind of local decision."
+      "question": "Why can no map projection preserve shape, area, distance, and direction all at the same time?",
+      "answer": "Because the Earth is a three-dimensional sphere and a map is a two-dimensional flat surface, translating one to the other always requires some mathematical distortion, so every projection has to sacrifice accuracy in at least one of those four properties."
     }
   ],
   "blocks": [
@@ -91,7 +110,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A **thematic map** answers a different question: how does one topic change across space? Instead of showing everything in a region, it isolates one variable, like population density, income, or election results, and shows how that variable changes from place to place. Most maps you will see in this course, and on the AP exam, are thematic maps, since they are the tool geographers use to make an argument about spatial patterns."
+      "text": "A **thematic map** answers a different question: how does one topic change across space? Instead of showing everything in a region, it isolates one variable, like population density, income, or election results, and shows how that variable changes from place to place. A choropleth map (shading regions by color) and a dot density map (placing dots to show concentration) are both common ways to build a thematic map. Most maps you will see in this course, and on the AP exam, are thematic maps, since they are the tool geographers use to make an argument about spatial patterns."
     },
     {
       "type": "apTip",
@@ -99,11 +118,31 @@
     },
     {
       "type": "heading",
+      "text": "Reading Spatial Patterns on a Map"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond just showing where things are, maps reveal patterns in how things are arranged across space. **Absolute distance and direction** give an exact, measurable answer, a specific number of miles, a precise compass bearing. **Relative distance and direction** describe location in relation to something else instead, often in terms of travel time, cost, or a landmark, rather than an exact figure. A destination can be close in absolute miles but feel relatively far if the roads are bad or traffic is heavy."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Clustering** is a pattern where similar things group closely together, like technology companies concentrated in Silicon Valley or hospitals concentrated in a city's medical district.",
+        "**Dispersal** is the opposite pattern, things spread thinly across a wide area, like cattle ranches scattered across the Great Plains.",
+        "**Elevation**, a location's height above sea level, is its own spatial pattern, usually shown through color shading (green lowlands fading to brown mountains) or contour lines connecting points of equal height."
+      ]
+    },
+    {
+      "type": "apTip",
+      "text": "Exam questions often show a map and ask you to describe the spatial pattern it displays. Practice naming the pattern precisely: is it clustered or dispersed? Is a direction or distance given in absolute terms (an exact number) or relative terms (compared to something else)? Precise vocabulary earns credit; vague description (\"there's a lot in one area\") often does not."
+    },
+    {
+      "type": "heading",
       "text": "Why Every Map Lies a Little"
     },
     {
       "type": "paragraph",
-      "text": "Here is a problem geographers cannot avoid: the Earth is a sphere, and a map is flat. There is no way to turn a curved surface into a flat page without distorting something. That translation is called a **map projection**, and every projection has to pick which properties to keep and which to sacrifice: shape, area, distance, or direction. No projection can keep all four at once."
+      "text": "Here is a problem geographers cannot avoid: the Earth is a sphere, and a map is flat. There is no way to turn a curved surface into a flat page without distorting something. That translation is called a **map projection**, and every projection has to pick which properties to keep and which to sacrifice: shape, area, distance, or direction. No projection can keep all four at once. Maps are also always selective: no map can show everything in a place, so every mapmaker chooses what to include and what to leave out."
     },
     {
       "type": "paragraph",
@@ -125,52 +164,6 @@
     {
       "type": "apTip",
       "text": "You do not need to memorize the names of every map projection for the exam, but you should be able to explain, in general terms, that all projections distort something, and be able to identify what a GIVEN projection sacrifices (shape, area, distance, or direction) based on how it visually distorts a specific region, especially at high latitudes near the poles."
-    },
-    {
-      "type": "heading",
-      "text": "Scale: How Much Detail Can a Map Actually Show?"
-    },
-    {
-      "type": "paragraph",
-      "text": "A map's **scale** describes the relationship between distance on the map and real-world distance, usually written as a ratio like 1:24,000. Scale determines how much of the Earth a map shows, and how much detail it can include."
-    },
-    {
-      "type": "list",
-      "items": [
-        "A **large-scale map** shows a small area in great detail, useful for tasks like navigating a neighborhood or planning where to put a new fire station.",
-        "A **small-scale map** shows a large area with much less detail, useful for tasks like comparing population growth across a whole continent.",
-        "The terms can feel backwards at first: \"large scale\" means lots of detail but a small area, while \"small scale\" means little detail but a huge area."
-      ]
-    },
-    {
-      "type": "image",
-      "imageType": "ai_generated",
-      "src": "assets/images/ap-human-geography/1-1-2.jpg",
-      "align": "left",
-      "alt": "A magnifying glass zoomed into a detailed city street grid next to a tiny whole planet Earth",
-      "caption": "A large-scale map zooms in on fine local detail, like streets and buildings. A small-scale map zooms out to show a much bigger area with far less detail.",
-      "attribution": "AI-generated illustration"
-    },
-    {
-      "type": "paragraph",
-      "text": "Choosing the right scale is a real decision, not just a setting. A geographer studying city traffic needs a large-scale map showing individual streets. A geographer studying global climate needs a small-scale map showing the whole planet. Using the wrong scale, too zoomed in, or too zoomed out, can lead to misleading conclusions."
-    },
-    {
-      "type": "heading",
-      "text": "How Modern Geographers Actually Build Maps"
-    },
-    {
-      "type": "paragraph",
-      "text": "Almost no professional geographer draws maps by hand anymore. Modern mapmaking relies on a **Geographic Information System**, or **GIS**: software that stores spatial data in layers, roads in one, population density in another, flood zones in a third, and lets a geographer combine and compare them. A city planning department deciding where to build a hospital might use GIS to overlay population density, existing hospitals, and travel time by road, all at once, to find the best location. GIS has made mapping far faster and more precise, and it is now the standard tool of the field."
-    },
-    {
-      "type": "image",
-      "imageType": "ai_generated",
-      "src": "assets/images/ap-human-geography/1-1-3.jpg",
-      "align": "right",
-      "alt": "Three transparent map layers, roads, data points, and water, stacked above one another",
-      "caption": "GIS stores map data in separate layers, roads, points of interest, water, that a geographer can stack and compare.",
-      "attribution": "AI-generated illustration"
     }
   ],
   "videoResources": [
@@ -203,6 +196,28 @@
       "explanation": "This map shows the spatial pattern of a specific variable, income, rather than simply showing location, making it a thematic map. (A) is incorrect because reference maps show general location, not a single data variable. (C) and (D) name narrower, more specific map types that do not describe this general income-shading example."
     },
     {
+      "question": "A map shows dozens of coffee shops packed within a single downtown block, with almost none anywhere else in the city. This spatial pattern is best described as",
+      "options": [
+        "dispersed",
+        "clustered",
+        "an example of absolute direction",
+        "an example of relative distance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Similar businesses grouped tightly together in one small area is the definition of clustering. (A) describes the opposite pattern. (C) and (D) describe distance/direction concepts, not a grouping pattern."
+    },
+    {
+      "question": "\"The trailhead is about a fifteen-minute drive north of downtown\" is an example of which kind of geographic description?",
+      "options": [
+        "Absolute distance and direction",
+        "Relative distance and direction",
+        "A thematic map",
+        "A dispersed spatial pattern"
+      ],
+      "correctIndex": 1,
+      "explanation": "Describing distance in terms of travel time rather than an exact number of miles is relative distance; combined with the general direction \"north,\" this is relative distance and direction. (A) would require an exact mileage figure. (C) and (D) describe unrelated map and pattern concepts."
+    },
+    {
       "question": "The Mercator projection is most useful for which purpose?",
       "options": [
         "Comparing the true relative land area of countries near the equator versus the poles",
@@ -214,37 +229,15 @@
       "explanation": "The Mercator projection was specifically designed to preserve angles for navigation, letting sailors plot a straight compass bearing. (A) describes a task the Mercator projection is actually poor at, since it distorts relative size. (C) is unrelated to what the Mercator projection is designed to do. (D) is impossible for any projection, including the Mercator."
     },
     {
-      "question": "A geographer wants to study fine-grained pedestrian traffic patterns on a single city block. Which type of map scale would be most appropriate?",
-      "options": [
-        "A small-scale map covering the entire country",
-        "A large-scale map covering just the block and surrounding streets",
-        "A thematic map with no defined scale",
-        "A globe with a scale of 1:100,000,000"
-      ],
-      "correctIndex": 1,
-      "explanation": "Studying fine detail in a small area requires a large-scale map, which shows less area but far more local detail. (A) and (D) describe small-scale representations that would be far too zoomed out to show individual pedestrian patterns. (C) misunderstands the question; thematic maps still have a scale, and scale is the specific property being asked about here."
-    },
-    {
       "question": "Which of the following best explains why no map projection can be fully accurate?",
       "options": [
         "Cartographers have not yet developed the technology needed to eliminate distortion",
         "Translating the curved surface of a sphere onto a flat surface always requires some mathematical distortion",
         "Governments require certain distortions for political reasons",
-        "GIS software is not yet advanced enough to correct projection errors"
+        "Projections are only inaccurate when they are hand-drawn rather than computer-generated"
       ],
       "correctIndex": 1,
       "explanation": "The core issue is geometric, not technological: a sphere's surface cannot be flattened without stretching, tearing, or compressing it somewhere, so all projections trade off accuracy in shape, area, distance, or direction. (A) and (D) incorrectly frame this as a solvable technology problem rather than a mathematical impossibility. (C) describes a real historical criticism of some map choices, but is not the fundamental reason projections distort."
-    },
-    {
-      "question": "A city planning department uses software to layer data on flood zones, road networks, and population density to decide where to build a new hospital. This process best illustrates the use of",
-      "options": [
-        "a reference map",
-        "the Mercator projection",
-        "a Geographic Information System (GIS)",
-        "a small-scale map"
-      ],
-      "correctIndex": 2,
-      "explanation": "Combining multiple layers of spatial data to analyze and compare them is the defining function of a GIS. (A) describes a simpler map type without layered analysis. (B) is a specific projection unrelated to layered data analysis. (D) describes a property of scale, not the data-layering process described in the scenario."
     }
   ],
   "discussionQuestions": [
@@ -257,12 +250,12 @@
       "modelAnswer": "A navigational chart's users generally understand and accept its specific trade-off (accurate angles, distorted size) because that trade-off directly serves their practical purpose, while a general educational or political map is consumed by a much wider audience who may not understand the distortion at all, making the misleading impression of relative size or importance more consequential."
     },
     {
-      "question": "Think of a real decision you or someone you know has made using a map (finding a route, choosing a neighborhood, planning a trip). What scale of map was most useful for that decision, and why would a different scale have been less helpful?",
-      "modelAnswer": "Answers will vary, but a strong response identifies a specific real decision, names whether a large-scale (detailed, local) or small-scale (broad, less detailed) map served it, and explains concretely why the opposite scale would have failed to provide the needed information."
+      "question": "Think of a real place you would describe as \"clustered\" and one you would describe as \"dispersed.\" What might explain why each pattern developed?",
+      "modelAnswer": "Answers will vary, but a strong response names a specific real example of each pattern and offers a plausible explanation, such as shared infrastructure or resources drawing clustered development together, versus land cost, zoning, or the need for space (like farmland) pushing development apart."
     },
     {
-      "question": "GIS lets geographers layer many types of data onto a single map. What is one potential benefit and one potential risk of this kind of powerful data-combining tool?",
-      "modelAnswer": "A strong answer names a genuine benefit (such as identifying overlapping patterns, like flood risk and low income, that would be hard to see in separate datasets) and a genuine risk (such as the potential for the tool to be used to identify and specifically target vulnerable populations, or for flawed underlying data to produce misleading combined results)."
+      "question": "Give an example from your own life of a place that is close in absolute distance but relatively far, or far in absolute distance but relatively close. What made the difference?",
+      "modelAnswer": "A strong answer names a specific real example (such as a destination a short absolute distance away that takes a long time to reach due to traffic or terrain, or a distant destination that is relatively quick and easy to reach via highway or direct flight) and explains what factor, time, cost, or infrastructure, created the gap between absolute and relative distance."
     }
   ],
   "images": [],
@@ -276,23 +269,23 @@
       "parts": [
         {
           "label": "A",
-          "task": "Define a reference map.",
-          "sampleAnswer": "A reference map shows the location of physical or human-made features, such as roads, borders, cities, or rivers, rather than the pattern of one data variable."
+          "task": "Define a reference map and a thematic map.",
+          "sampleAnswer": "A reference map shows the location of physical or human-made features, such as roads, borders, cities, or rivers. A thematic map shows how one topic or variable, such as income or population density, changes across space."
         },
         {
           "label": "B",
-          "task": "Define a thematic map.",
-          "sampleAnswer": "A thematic map shows how one topic or variable, such as income, population density, or election results, changes across space."
+          "task": "Describe the difference between a clustered spatial pattern and a dispersed spatial pattern.",
+          "sampleAnswer": "A clustered pattern shows similar things grouped closely together in one area. A dispersed pattern shows things spread thinly across a wide area."
         },
         {
           "label": "C",
-          "task": "Explain why every map projection distorts at least one of shape, area, distance, or direction.",
-          "sampleAnswer": "The Earth is a sphere and a map is flat, so flattening that curved surface always stretches or compresses something. No projection can keep shape, area, distance, and direction all perfectly accurate at once."
+          "task": "Explain the difference between absolute and relative distance.",
+          "sampleAnswer": "Absolute distance is an exact, measurable figure, such as a specific number of miles. Relative distance describes distance in relation to something else, like travel time or cost, rather than an exact number."
         },
         {
           "label": "D",
-          "task": "Explain one reason a city planner would choose a large-scale map rather than a small-scale map.",
-          "sampleAnswer": "A large-scale map shows a small area in high detail, which a planner needs for streets, lots, and response times. A small-scale map of a whole country would be too zoomed out for that local decision."
+          "task": "Explain why every map projection distorts at least one of shape, area, distance, or direction.",
+          "sampleAnswer": "The Earth is a sphere and a map is flat, so flattening that curved surface always stretches or compresses something. No projection can keep shape, area, distance, and direction all perfectly accurate at once."
         }
       ]
     },
