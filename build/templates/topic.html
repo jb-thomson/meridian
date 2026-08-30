@@ -136,7 +136,7 @@
   <figure class="reading-figure reveal{{ ' reading-figure--float-' ~ b.align if b.align }}">
     {% if b.src %}<img src="{{ root }}{{ b.src }}" alt="{{ b.alt }}">{% endif %}
     <figcaption>
-      {% if b.imageType == 'ai_generated' %}<span class="img-badge ai">AI-Generated Illustration</span><br>{% endif %}
+      
       {{ b.caption|md }}
       <span class="img-attribution">{{ b.attribution }}</span>
       {% if not b.src %}<div class="ai-pending-note">Image not yet generated for this build.</div>{% endif %}
@@ -165,7 +165,7 @@
   <figure class="reading-figure reveal">
     {% if img.src %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endif %}
     <figcaption>
-      {% if img.type == 'ai_generated' %}<span class="img-badge ai">AI-Generated Illustration</span><br>{% endif %}
+      
       {{ img.caption|md }}
       {% if img.type == 'public_domain_historical' %}
       <div class="regen-row">
@@ -207,7 +207,7 @@
 <figure class="reading-figure reveal">
   {% if img.src %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endif %}
   <figcaption>
-    {% if img.type == 'ai_generated' %}<span class="img-badge ai">AI-Generated Illustration</span><br>{% endif %}
+    
     {{ img.caption|md }}
     {% if img.type == 'public_domain_historical' %}
     <div class="regen-row">

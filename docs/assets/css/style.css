@@ -374,9 +374,10 @@ body.is-landing .landing-hero {
 .section-label { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.75rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-soft); margin: 30px 0 10px; }
 
 .reading-body p { margin: 0 0 1.1em; font-size: 1.02rem; }
-.reading-subhead { font-size: 1.12rem; margin: 32px 0 12px; padding-bottom: 6px; border-bottom: 2px solid var(--line); }
+.reading-subhead { font-size: 1.12rem; margin: 32px 0 12px; padding-bottom: 6px; border-bottom: 2px solid var(--line); clear: both; }
 .reading-body .reading-list { margin: 0 0 1.1em; padding-left: 1.3em; }
 .reading-body .reading-list li { margin-bottom: 0.5em; font-size: 1.02rem; }
+.reading-body::after { content: ""; display: table; clear: both; }
 
 .reading-table-wrap { overflow-x: auto; margin: 0 0 1.3em; border: 1px solid var(--line); border-radius: 10px; clear: both; }
 .reading-table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
