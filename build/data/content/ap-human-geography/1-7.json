@@ -1,0 +1,262 @@
+{
+  "course": "ap-human-geography",
+  "num": "1.7",
+  "title": "Regional Analysis",
+  "status": "complete",
+  "standard": "SPS-1.A",
+  "themes": [
+    {
+      "icon": "🗺️",
+      "label": "Spatial",
+      "tooltip": "Regions group space together by shared traits, but where one region ends and another begins is rarely as clean as a map's neat lines suggest."
+    }
+  ],
+  "tldr": [
+    "**Three types of regions:** Formal regions share measurable traits (like a government or climate). Functional regions are organized around a central node. Perceptual regions exist in people's shared, subjective sense of a place.",
+    "**Regions overlap and blur:** The same area can belong to several regions at once, and regional boundaries are often transitional and contested rather than sharp lines.",
+    "**Regional analysis works at every scale:** Geographers define and study regions at the local, national, and global scale alike."
+  ],
+  "learningObjectives": [
+    "Describe different ways that geographers define regions.",
+    "Explain how regional boundaries are transitional, contested, and applied at different scales."
+  ],
+  "vocabulary": [
+    {
+      "term": "Region",
+      "definition": "An area defined by one or more unifying characteristics, or by a shared pattern of activity.",
+      "importance": "One of geography's most fundamental organizing tools, letting geographers group and compare space at a scale larger than a single place.",
+      "example": "A wine-growing region defined by shared climate and soil conditions suited to grape cultivation."
+    },
+    {
+      "term": "Formal Region",
+      "definition": "A region defined by one or more shared, measurable characteristics, such as a common government, language, or climate type, throughout the entire area.",
+      "importance": "The most clearly bounded type of region, since it is based on objective, verifiable criteria.",
+      "example": "The state of Texas is a formal region, defined by clear, official political boundaries and government."
+    },
+    {
+      "term": "Functional Region",
+      "definition": "A region organized around a central point or node, defined by the area that interacts with or is connected to that node, such as through transportation, communication, or economic activity.",
+      "importance": "Unlike a formal region, a functional region's boundary is defined by connection and interaction rather than shared internal characteristics.",
+      "example": "The delivery area of a local pizza restaurant is a functional region organized around the restaurant as its central node."
+    },
+    {
+      "term": "Perceptual (Vernacular) Region",
+      "definition": "A region defined by people's subjective, shared perceptions or feelings about an area, rather than by official boundaries or measurable interaction.",
+      "importance": "Shows that regions can be culturally and socially constructed, not just objectively measured, and that different groups can define the same region's boundaries differently.",
+      "example": "\"The South\" or \"the Midwest\" in the United States have no single official boundary, but most Americans have a general, shared sense of roughly where they are."
+    },
+    {
+      "term": "Contested Boundary",
+      "definition": "A regional boundary that different groups or individuals define or claim differently, rather than one everyone agrees on.",
+      "importance": "A reminder that regional boundaries, especially perceptual ones, are often social constructions open to disagreement, not fixed geographic facts.",
+      "example": "Different people drawing the boundary of \"the Middle East\" differently depending on which countries they include."
+    }
+  ],
+  "preTest": [
+    {
+      "question": "Name the three types of regions and give a one-sentence definition of each.",
+      "answer": "A formal region is defined by shared, measurable traits throughout the area. A functional region is organized around a central node and defined by connection to it. A perceptual region is defined by people's shared, subjective sense of the area."
+    },
+    {
+      "question": "Why are regional boundaries often described as transitional or contested rather than as sharp lines?",
+      "answer": "Because the traits or perceptions that define a region rarely change abruptly at an exact line; they often blend gradually at the edges, and different people or groups can reasonably disagree about exactly where a region's boundary should be drawn."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Region: Grouping Space Together"
+    },
+    {
+      "type": "paragraph",
+      "text": "Geographers use **region** to group locations together by a shared trait or a shared pattern of activity, letting them talk about patterns larger than any single point on a map. There are three main types of regions, and telling them apart is a frequently tested skill."
+    },
+    {
+      "type": "list",
+      "items": [
+        "A **formal region** is defined by one or more shared, measurable traits found throughout the area, like a common government, language, or climate type. Texas is a formal region: it has clear, official, legal boundaries.",
+        "A **functional region** is organized around a central node, and its boundary is defined by the area connected to that node, through transportation, communication, or economic activity, rather than by shared internal traits. A pizza restaurant's delivery zone is a functional region: everything inside it is defined purely by its connection to that one point.",
+        "A **perceptual region**, also called a **vernacular region**, is defined by people's shared, subjective feelings about an area, not by official boundaries or measurable interaction. \"The South\" or \"the Midwest\" are perceptual regions: most Americans have a rough shared sense of where they are, but no two people would draw the exact same boundary."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The same physical area can often be described using all three region types at once, just through different lenses. A single U.S. state is a formal region (defined by its legal government), might contain a functional region (the commuting zone around its largest city), and might also sit inside a perceptual region (like \"the Pacific Northwest\") with no official boundary, that still shapes how people identify with that part of the country."
+    },
+    {
+      "type": "apTip",
+      "text": "When an exam question describes a region, ask what actually DEFINES its boundary. A shared measurable trait throughout the whole area means formal. Connection to one central point means functional. A shared feeling with no fixed boundary means perceptual. Matching the definition mechanism, not just the example, is what earns credit."
+    },
+    {
+      "type": "heading",
+      "text": "Boundaries Are Rarely as Clean as They Look on a Map"
+    },
+    {
+      "type": "paragraph",
+      "text": "A map's regional boundaries look precise, a clean line separating one region from the next. Reality is usually messier. Most regional boundaries are **transitional**, blending gradually rather than switching abruptly. A climate region does not end in a straight line; conditions shift gradually over a zone, not at a single point. And many regional boundaries are genuinely **contested**: different people, groups, or governments define the same region differently, sometimes for cultural reasons, sometimes for political ones."
+    },
+    {
+      "type": "funFact",
+      "text": "Ask ten different people to draw the boundary of \"the Midwest\" on a blank U.S. map, and you will likely get ten different answers, some including Ohio, some not, some stretching as far as Colorado. This is not a failure of geography; it is exactly what a perceptual region's boundary looks like in practice: real, widely shared, and genuinely fuzzy at the edges."
+    },
+    {
+      "type": "paragraph",
+      "text": "Regional analysis also is not limited to any one size. Geographers apply it at every scale: a **local** region (a neighborhood identified as \"downtown\"), a **national** region (a country's officially defined provinces), or a **global** region (\"the developing world,\" a broad and debated perceptual grouping spanning many countries). Whatever the scale, the same three region types, formal, functional, and perceptual, still apply."
+    },
+    {
+      "type": "apTip",
+      "text": "If an exam question describes disagreement about exactly where a region's boundary lies, or describes a boundary that shifts gradually rather than sharply, it is testing whether you understand that regions are transitional and often contested, not that you made an error identifying the wrong region type."
+    }
+  ],
+  "videoResources": [
+    {
+      "title": "Heimler's APHUG: Unit 1.7",
+      "url": "https://www.youtube.com/results?search_query=Heimler%27s+APHUG+Unit+1.7+Regional+Analysis",
+      "creator": "Heimler's APHUG · 9 min"
+    },
+    {
+      "title": "Types of Regions: Formal, Functional, Vernacular",
+      "url": "https://www.youtube.com/results?search_query=Crash+Course+Geography+Types+of+Regions",
+      "creator": "Crash Course Geography · 11 min"
+    },
+    {
+      "title": "Why Regional Boundaries Are Contested",
+      "url": "https://www.youtube.com/results?search_query=Mr+Sinn+APHUG+Regional+Boundaries+Contested+Transitional",
+      "creator": "Mr. Sinn APHUG · video"
+    }
+  ],
+  "multipleChoice": [
+    {
+      "question": "Which of the following is the best example of a functional region?",
+      "options": [
+        "The country of Japan, defined by its national government",
+        "The listening area of a specific local radio station's broadcast signal",
+        "\"The Deep South\" as commonly understood by most Americans",
+        "A climate zone defined by consistent average annual rainfall"
+      ],
+      "correctIndex": 1,
+      "explanation": "A radio station's broadcast area is organized entirely around a central node (the station's transmitter) and defined by connection to it, the defining feature of a functional region. (A) and (D) are formal regions, defined by shared governmental or climate characteristics throughout the area. (C) is a perceptual region, based on shared subjective perception rather than a defined connection to a single node."
+    },
+    {
+      "question": "Most residents of a country have a general, shared sense of which areas make up \"the coast\" versus \"the interior,\" even though no official map defines an exact boundary between them. This is best described as",
+      "options": [
+        "a formal region",
+        "a functional region",
+        "a perceptual region",
+        "a scale of analysis"
+      ],
+      "correctIndex": 2,
+      "explanation": "A shared but subjective, unofficial sense of a region's boundaries is the defining feature of a perceptual (vernacular) region. (A) requires official, measurable boundaries, which this scenario explicitly lacks. (B) requires organization around a specific central node, not present here. (D) is an unrelated concept."
+    },
+    {
+      "question": "Different countries and mapmakers disagree about exactly which nations should be included in \"the Middle East.\" This disagreement best illustrates that regional boundaries are often",
+      "options": [
+        "formal and legally fixed",
+        "contested",
+        "irrelevant to geographic analysis",
+        "based purely on functional connections to one city"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genuine disagreement among different groups about where a region's boundary lies is the definition of a contested boundary. (A) is incorrect, since the scenario describes disagreement, the opposite of a fixed legal boundary. (C) contradicts the topic's core lesson. (D) misapplies the functional region concept to a scenario that does not describe one central node."
+    },
+    {
+      "question": "A geographer studies \"the developing world\" as a broad category spanning many countries across several continents. This regional analysis is being conducted primarily at which scale?",
+      "options": [
+        "Local scale",
+        "National scale",
+        "Global scale",
+        "No scale, since perceptual regions have no scale"
+      ],
+      "correctIndex": 2,
+      "explanation": "A category spanning many countries across multiple continents is being analyzed at the global scale. (A) and (B) describe far narrower scopes. (D) is incorrect; perceptual regions can be analyzed at any scale, including the global scale shown here."
+    },
+    {
+      "question": "A climate region on a map does not end in a sharp line; instead, temperature and rainfall patterns shift gradually over a wide zone before clearly becoming a different climate type. This best illustrates that regional boundaries are often",
+      "options": [
+        "transitional",
+        "purely functional",
+        "unrelated to formal regions",
+        "identical at every scale of analysis"
+      ],
+      "correctIndex": 0,
+      "explanation": "A boundary that changes gradually rather than abruptly is the definition of a transitional boundary. (B) misapplies an unrelated region type. (C) is incorrect, since climate regions are actually a common example of formal regions. (D) is unrelated to what this scenario illustrates."
+    }
+  ],
+  "discussionQuestions": [
+    {
+      "question": "Think of a perceptual region you personally recognize (such as \"downtown,\" \"the suburbs,\" or a regional nickname). Would everyone you know draw its boundaries the same way you would?",
+      "modelAnswer": "A strong answer reflects genuinely on this, likely concluding that boundaries would differ somewhat from person to person, which illustrates the core feature of perceptual regions: they are shared in general concept but not precisely agreed upon in exact boundary."
+    },
+    {
+      "question": "Functional regions are organized around a central node. What happens to a functional region if that central node disappears or moves, using a specific real or hypothetical example?",
+      "modelAnswer": "A strong answer names a specific example, such as a factory town's functional region collapsing after the factory closes, and explains that because a functional region's boundary depends entirely on ongoing connection to its node, removing that node effectively dissolves the region's defining logic, even if the physical geography itself has not changed at all."
+    },
+    {
+      "question": "Why might a contested regional boundary matter for real-world politics or policy, not just as an abstract geography exercise?",
+      "modelAnswer": "A strong answer names or imagines a real consequence, such as disputes over which countries belong to a trade bloc, cultural or political region, or aid-eligibility category, that can affect real funding, diplomacy, or a population's self-identity depending on how the contested boundary is ultimately drawn or recognized."
+    },
+    {
+      "question": "Choose a region you consider yourself part of at each of the three scales, local, national, and global. What defines each one, formal, functional, or perceptual?",
+      "modelAnswer": "A strong answer names a genuine local region (such as a neighborhood, likely perceptual or functional), a national region (such as a state or province, likely formal), and a global region (such as a broad cultural or economic grouping, likely perceptual), correctly identifying the type of regional definition operating at each scale."
+    }
+  ],
+  "images": [],
+  "illustrativeExamples": [],
+  "notebookLmResources": [],
+  "teacherNotes": "",
+  "examFrqs": [
+    {
+      "type": "No Stimulus",
+      "directions": "Respond to parts A, B, C, and D. Use complete sentences.",
+      "parts": [
+        {
+          "label": "A",
+          "task": "Define a formal region and give an example.",
+          "sampleAnswer": "A formal region is defined by shared, measurable characteristics found throughout the entire area, such as a common government. Example: the state of Texas, defined by its official political boundaries."
+        },
+        {
+          "label": "B",
+          "task": "Define a functional region and give an example.",
+          "sampleAnswer": "A functional region is organized around a central node and defined by the area connected to it. Example: a pizza restaurant's delivery zone, defined by connection to the restaurant."
+        },
+        {
+          "label": "C",
+          "task": "Define a perceptual region and give an example.",
+          "sampleAnswer": "A perceptual region is defined by people's shared, subjective sense of an area rather than official boundaries. Example: \"the Midwest,\" which most Americans recognize without a single agreed-upon boundary."
+        },
+        {
+          "label": "D",
+          "task": "Explain why regional boundaries are often described as transitional rather than as sharp lines.",
+          "sampleAnswer": "The characteristics that define most regions, climate, culture, economic activity, typically change gradually across space rather than switching abruptly at one exact line, so the true boundary is better described as a transition zone than a sharp edge."
+        }
+      ]
+    },
+    {
+      "type": "One Stimulus",
+      "stimulus": "A large metropolitan area sits at the center of a state. The state itself has official legal borders. Commuters travel into the metro area's downtown from towns up to sixty miles away for work each day. Residents across the wider surrounding multi-state area often refer to themselves informally as living in \"greater [metro name]\" even though they live in neighboring states, with no agreement on exactly how far that identity extends.",
+      "directions": "Respond to parts A, B, C, and D. Use the stimulus.",
+      "parts": [
+        {
+          "label": "A",
+          "task": "Identify the formal region described in the stimulus.",
+          "sampleAnswer": "The state itself, defined by its official legal borders, is the formal region."
+        },
+        {
+          "label": "B",
+          "task": "Identify the functional region described in the stimulus and its central node.",
+          "sampleAnswer": "The area within a sixty-mile commuting range of the metro area's downtown is the functional region, organized around the downtown as its central node."
+        },
+        {
+          "label": "C",
+          "task": "Identify the perceptual region described in the stimulus.",
+          "sampleAnswer": "\"Greater [metro name],\" the informally recognized identity shared by residents across a wider multi-state area, is the perceptual region."
+        },
+        {
+          "label": "D",
+          "task": "Explain why the perceptual region's boundary is described as contested or transitional in the stimulus.",
+          "sampleAnswer": "The stimulus states there is no agreement on exactly how far the \"greater [metro name]\" identity extends, meaning different residents draw its boundary differently, which is the defining feature of a contested, transitional perceptual boundary rather than a fixed formal one."
+        }
+      ]
+    }
+  ]
+}
