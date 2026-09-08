@@ -125,12 +125,48 @@
       "text": "Beyond just showing where things are, maps reveal patterns in how things are arranged across space. **Absolute distance and direction** give an exact, measurable answer, a specific number of miles, a precise compass bearing. **Relative distance and direction** describe location in relation to something else instead, often in terms of travel time, cost, or a landmark, rather than an exact figure. A destination can be close in absolute miles but feel relatively far if the roads are bad or traffic is heavy."
     },
     {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-human-geography/1-1-2.jpg",
+      "align": "left",
+      "alt": "A compass and a ruler measuring an exact straight-line path between two points on a map grid",
+      "caption": "Absolute distance and direction: a fixed, measurable figure, like an exact number of miles and a precise compass bearing.",
+      "attribution": "AI-generated illustration"
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-human-geography/1-1-3.jpg",
+      "align": "right",
+      "alt": "A person pointing toward a distant landmark on the horizon rather than giving an exact bearing",
+      "caption": "Relative distance and direction: described in relation to a landmark, travel time, or cost, rather than an exact figure.",
+      "attribution": "AI-generated illustration"
+    },
+    {
       "type": "list",
       "items": [
         "**Clustering** is a pattern where similar things group closely together, like technology companies concentrated in Silicon Valley or hospitals concentrated in a city's medical district.",
         "**Dispersal** is the opposite pattern, things spread thinly across a wide area, like cattle ranches scattered across the Great Plains.",
         "**Elevation**, a location's height above sea level, is its own spatial pattern, usually shown through color shading (green lowlands fading to brown mountains) or contour lines connecting points of equal height."
       ]
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-human-geography/1-1-4.jpg",
+      "align": "left",
+      "alt": "A tightly packed cluster of dots on the left compared to the same number of dots spread evenly apart on the right",
+      "caption": "Clustered (left) versus dispersed (right): the same number of features, arranged close together or spread thinly apart.",
+      "attribution": "AI-generated illustration"
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-human-geography/1-1-5.jpg",
+      "align": "right",
+      "alt": "A mountain shown with color-graded bands from green lowlands through brown foothills to a snow-capped peak",
+      "caption": "Elevation is usually shown through color shading, like green lowlands fading to brown foothills and a snow-capped peak.",
+      "attribution": "AI-generated illustration"
     },
     {
       "type": "apTip",
