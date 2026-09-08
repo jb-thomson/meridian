@@ -96,6 +96,14 @@
       "text": "The same underlying data can reveal very different, even seemingly contradictory, patterns depending on the scale used to study it. A country's national unemployment rate might look stable and moderate, while the national scale hides that one specific region within that country is experiencing a severe economic crisis. Zooming into the regional or local scale reveals a pattern the national number alone completely obscured."
     },
     {
+      "type": "image",
+      "imageType": "sketchnote_derived",
+      "src": "assets/images/ap-human-geography/1-6-1.jpg",
+      "alt": "The same deforestation issue shown at four scales: a globe with a chainsaw, the Amazon Basin, the Brazilian flag, and a single farm",
+      "caption": "The same issue, deforestation, looks different at every scale: worldwide, across the Amazon Basin, within Brazil, and on a single farm.",
+      "attribution": "Adapted from a hand-drawn study sketchnote"
+    },
+    {
       "type": "funFact",
       "text": "This scale-dependence is closely related to a well-known problem in spatial statistics: grouping the same data by different-sized areas can make patterns appear or disappear entirely, even though nothing about the underlying reality has changed, only the scale at which it was measured."
     },
