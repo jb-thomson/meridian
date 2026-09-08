@@ -80,6 +80,14 @@
       ]
     },
     {
+      "type": "image",
+      "imageType": "sketchnote_derived",
+      "src": "assets/images/ap-human-geography/1-7-0.jpg",
+      "alt": "A map of the Sahara Desert, an airport connected by arrows to surrounding houses, and a green map of the southeastern United States",
+      "caption": "Formal, functional, and perceptual regions, left to right: the Sahara Desert, an airport's service area, and \"the Deep South.\"",
+      "attribution": "Adapted from a hand-drawn study sketchnote"
+    },
+    {
       "type": "paragraph",
       "text": "The same physical area can often be described using all three region types at once, just through different lenses. A single U.S. state is a formal region (defined by its legal government), might contain a functional region (the commuting zone around its largest city), and might also sit inside a perceptual region (like \"the Pacific Northwest\") with no official boundary, that still shapes how people identify with that part of the country."
     },
@@ -94,6 +102,15 @@
     {
       "type": "paragraph",
       "text": "A map's regional boundaries look precise, a clean line separating one region from the next. Reality is usually messier. Most regional boundaries are **transitional**, blending gradually rather than switching abruptly. A climate region does not end in a straight line; conditions shift gradually over a zone, not at a single point. And many regional boundaries are genuinely **contested**: different people, groups, or governments define the same region differently, sometimes for cultural reasons, sometimes for political ones."
+    },
+    {
+      "type": "image",
+      "imageType": "sketchnote_derived",
+      "src": "assets/images/ap-human-geography/1-7-1.jpg",
+      "align": "right",
+      "alt": "A landscape gradually shifting from green grassland to sandy desert, next to a signpost pointing toward Israel and Palestine",
+      "caption": "A transitional boundary (grassland fading into desert) and a contested boundary (disputed borders).",
+      "attribution": "Adapted from a hand-drawn study sketchnote"
     },
     {
       "type": "funFact",
