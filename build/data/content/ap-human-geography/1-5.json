@@ -76,6 +76,14 @@
       "text": "These three concepts are deeply connected. A region's natural resources often determine what land uses make sense there, fertile soil favors agriculture, mineral deposits favor mining, while the sustainability of any given land use depends on whether it depletes the resources it relies on faster than they can be replenished."
     },
     {
+      "type": "image",
+      "imageType": "sketchnote_derived",
+      "src": "assets/images/ap-human-geography/1-5-0.jpg",
+      "alt": "A leaf, a pile of logs with a water droplet and a stone, and a landscape with farmland and a city",
+      "caption": "Sustainability, natural resources, and land use, left to right.",
+      "attribution": "Adapted from a hand-drawn study sketchnote"
+    },
+    {
       "type": "apTip",
       "text": "When an exam scenario describes a resource being used up faster than it can be replaced, that is almost always testing sustainability. Practice identifying whether a described practice is sustainable (can continue indefinitely) or unsustainable (depletes a resource) as a specific, nameable judgment, not just a vague sense of \"good\" or \"bad\" for the environment."
     },
@@ -96,8 +104,24 @@
       "text": "By the mid-1900s, most geographers had rejected environmental determinism in favor of **possibilism**. Possibilism agrees that the environment matters, it sets real limits and creates real opportunities, but it insists that humans choose how to respond within those limits, rather than being helplessly controlled by them. A desert limits water-intensive farming, but different societies living in deserts have responded in very different ways: building irrigation canals, adapting crops to dry conditions, or shifting their economy toward trade and herding instead of farming at all. The environment narrows the options. It does not pick the answer."
     },
     {
+      "type": "image",
+      "imageType": "sketchnote_derived",
+      "src": "assets/images/ap-human-geography/1-5-1.jpg",
+      "alt": "A rain cloud over a bleak mountain with people below it, next to a sunny mountain landscape with people building irrigation and shelter",
+      "caption": "Environmental determinism claimed the environment controlled people (left). Possibilism recognizes people adapt to and shape the environment (right).",
+      "attribution": "Adapted from a hand-drawn study sketchnote"
+    },
+    {
       "type": "apTip",
       "text": "If an exam question describes the environment as the reason a society HAD to behave a certain way, with no room for human choice, that framing matches environmental determinism, the outdated, rejected theory. If it describes the environment as setting limits or opportunities that different societies responded to differently, that matches possibilism, the theory geographers actually use today. Getting this distinction right, including recognizing determinism as discredited, is frequently tested."
+    },
+    {
+      "type": "image",
+      "imageType": "sketchnote_derived",
+      "src": "assets/images/ap-human-geography/1-5-2.jpg",
+      "alt": "Four scenes: desert irrigation, a bulldozer clearing forest, a hot city skyline, and houses built along a coastline",
+      "caption": "Real-world human-environment interactions: irrigating deserts, deforestation, urban heat islands, and coastal development.",
+      "attribution": "Adapted from a hand-drawn study sketchnote"
     }
   ],
   "videoResources": [
