@@ -99,6 +99,15 @@
       "text": "Business and Organizational Scale: Decisions That Shape Markets"
     },
     {
+      "type": "image",
+      "imageType": "sketchnote_derived",
+      "src": "assets/images/ap-human-geography/1-3-0.jpg",
+      "align": "right",
+      "alt": "A small storefront with an awning",
+      "caption": "Businesses use sales data, population density, and income data to decide where to open new stores.",
+      "attribution": "Adapted from a hand-drawn study sketchnote"
+    },
+    {
       "type": "paragraph",
       "text": "Businesses and organizations use geospatial data to make decisions that affect entire markets and communities. A retail chain deciding where to open a new store might analyze population density, average income, and the locations of competing stores in an area before committing millions of dollars to a location. An insurance company might use satellite imagery to assess property damage across an entire region after a hurricane, without needing to send an inspector to every address. A nonprofit might use census data to identify which neighborhoods have the least access to healthcare, then target its outreach there."
     },
@@ -113,6 +122,14 @@
     {
       "type": "paragraph",
       "text": "At the largest scale, governments use geospatial and geographical data to make decisions affecting entire populations. National governments use census data to decide how to distribute funding across regions, where to build infrastructure like roads and hospitals, and how to allocate seats in a legislature based on population. During natural disasters, governments use satellite imagery and geospatial mapping to direct emergency resources to the hardest-hit areas in real time. Local governments use zoning maps and land-use data to plan how a city grows."
+    },
+    {
+      "type": "image",
+      "imageType": "sketchnote_derived",
+      "src": "assets/images/ap-human-geography/1-3-1.jpg",
+      "alt": "A disaster-relief truck, a face mask, and a river with a pipe draining pollution into it",
+      "caption": "Governmental-scale examples: directing disaster relief, tracking a public health crisis, and setting limits to protect polluted waterways.",
+      "attribution": "Adapted from a hand-drawn study sketchnote"
     },
     {
       "type": "apTip",
