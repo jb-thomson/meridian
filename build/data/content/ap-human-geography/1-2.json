@@ -83,6 +83,14 @@
       "text": "Before geographers can make a map, they need data, and that data has to come from somewhere. **Field data** can be gathered by organizations: government agencies running a national census, companies researching where to open a new store, universities studying migration patterns. It can also be gathered by individuals: a hiker logging trail conditions, a birdwatcher reporting a rare sighting to a citizen-science app, a student mapping potholes in their own neighborhood. Both scales matter. Large organizations can collect data across huge areas, while individuals can capture fine-grained detail an organization might never notice."
     },
     {
+      "type": "image",
+      "imageType": "sketchnote_derived",
+      "src": "assets/images/ap-human-geography/1-2-1.jpg",
+      "alt": "A hiker with a backpack recording field notes in the mountains, next to a surveyor using a tripod instrument in a city",
+      "caption": "Field data collection: an individual observer in the field (left) and a professional surveyor working for an organization (right).",
+      "attribution": "Adapted from a hand-drawn study sketchnote"
+    },
+    {
       "type": "heading",
       "text": "Geospatial Technologies"
     },
@@ -126,6 +134,14 @@
     {
       "type": "paragraph",
       "text": "Not all spatial information comes from a sensor or a satellite. Geographers also draw on written and observational sources: **field observations** made firsthand at a location, **media reports** covering an event or place, **travel narratives** describing a journey, **policy documents** outlining government plans for a region, **personal interviews** with residents, **landscape analysis** (drawing conclusions from the visible features of a place, like terraced hillsides suggesting sloped-land farming), and **photographic interpretation** (reading spatial clues out of a photograph, old or new)."
+    },
+    {
+      "type": "image",
+      "imageType": "sketchnote_derived",
+      "src": "assets/images/ap-human-geography/1-2-2.jpg",
+      "alt": "Icons representing seven written and observational sources: a notebook, a newspaper, a travel journal, a policy document, two people talking, a farming landscape, and an aerial photo of a neighborhood",
+      "caption": "Seven written and observational sources, left to right: field notes, media reports, travel narratives, policy documents, personal interviews, landscape analysis, and photographic interpretation.",
+      "attribution": "Adapted from a hand-drawn study sketchnote"
     },
     {
       "type": "paragraph",
