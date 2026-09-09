@@ -106,7 +106,6 @@
       "type": "image",
       "imageType": "sketchnote_derived",
       "src": "assets/images/ap-human-geography/1-4-1.jpg",
-      "align": "right",
       "alt": "A map showing the USA, Mexico, and Guatemala with arrows indicating their positions relative to one another",
       "caption": "Relative location: describing a place's position compared to its neighbors, not by exact coordinates.",
       "attribution": "Adapted from a hand-drawn study sketchnote"
@@ -156,6 +155,10 @@
       "text": "**Distance decay** is the principle that interaction between two places decreases as the distance between them increases. A local bakery draws most of its customers from the surrounding few blocks, fewer from across town, and almost none from another state. This pattern shows up everywhere: in shopping habits, in migration, in how far cultural trends typically spread from where they started."
     },
     {
+      "type": "funFact",
+      "text": "Distance decay is not just about physical miles. Researchers have found the same drop-off effect using \"cost distance\" (how expensive a trip is) and \"time distance\" (how long a trip takes), which is part of why a destination that is technically closer in miles can still see less interaction than a farther one that is cheaper or faster to reach."
+    },
+    {
       "type": "image",
       "imageType": "sketchnote_derived",
       "src": "assets/images/ap-human-geography/1-4-4.jpg",
@@ -163,10 +166,6 @@
       "alt": "A house with dashed arrows showing more customers traveling to a nearby Store A one mile away than a farther Store B ten miles away",
       "caption": "Distance decay: people are far more likely to visit the store one mile away than the one ten miles away.",
       "attribution": "Adapted from a hand-drawn study sketchnote"
-    },
-    {
-      "type": "funFact",
-      "text": "Distance decay is not just about physical miles. Researchers have found the same drop-off effect using \"cost distance\" (how expensive a trip is) and \"time distance\" (how long a trip takes), which is part of why a destination that is technically closer in miles can still see less interaction than a farther one that is cheaper or faster to reach."
     },
     {
       "type": "paragraph",

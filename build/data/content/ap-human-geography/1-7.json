@@ -113,12 +113,12 @@
       "attribution": "Adapted from a hand-drawn study sketchnote"
     },
     {
-      "type": "funFact",
-      "text": "Ask ten different people to draw the boundary of \"the Midwest\" on a blank U.S. map, and you will likely get ten different answers, some including Ohio, some not, some stretching as far as Colorado. This is not a failure of geography; it is exactly what a perceptual region's boundary looks like in practice: real, widely shared, and genuinely fuzzy at the edges."
-    },
-    {
       "type": "paragraph",
       "text": "Regional analysis also is not limited to any one size. Geographers apply it at every scale: a **local** region (a neighborhood identified as \"downtown\"), a **national** region (a country's officially defined provinces), or a **global** region (\"the developing world,\" a broad and debated perceptual grouping spanning many countries). Whatever the scale, the same three region types, formal, functional, and perceptual, still apply."
+    },
+    {
+      "type": "funFact",
+      "text": "Ask ten different people to draw the boundary of \"the Midwest\" on a blank U.S. map, and you will likely get ten different answers, some including Ohio, some not, some stretching as far as Colorado. This is not a failure of geography; it is exactly what a perceptual region's boundary looks like in practice: real, widely shared, and genuinely fuzzy at the edges."
     },
     {
       "type": "apTip",

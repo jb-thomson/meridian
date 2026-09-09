@@ -188,7 +188,6 @@
       "type": "image",
       "imageType": "ai_generated",
       "src": "assets/images/ap-human-geography/1-1-1.jpg",
-      "align": "right",
       "alt": "Two landmass shapes shown at their true relative sizes, then the same two shapes stretched to look the same size",
       "caption": "True relative size (left) versus the same two landmasses stretched to look equal in size (right), the kind of distortion a Mercator map introduces.",
       "attribution": "AI-generated illustration"
