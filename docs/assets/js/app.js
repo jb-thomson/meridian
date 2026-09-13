@@ -237,12 +237,13 @@
         var alreadyVisible = rect.top < window.innerHeight && rect.bottom > 0;
         el.classList.toggle("reveal", !alreadyVisible);
       });
-      // Trigger well before an element actually enters the viewport (a
-      // positive bottom margin, not a negative one) so the float-up
-      // motion has already started, or finished, by the time it scrolls
-      // into view. A trigger point tied to the visible edge reads as
-      // "snapped into place" during a fast scroll instead of a float,
-      // since there's no time left to see it move.
+      // Trigger right as the element starts entering the viewport. A large
+      // positive bottom margin here previously fired the reveal while the
+      // element was still well below the fold, so by the time a normal
+      // scroll actually brought it into view the whole fade+float
+      // transition (0.4s) had already finished off-screen, making the
+      // effect invisible no matter how you scrolled. A ~0 margin keeps the
+      // motion playing out while the element is actually visible.
       var io = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry) {
           if (entry.isIntersecting) {
@@ -250,7 +251,7 @@
             io.unobserve(entry.target);
           }
         });
-      }, { threshold: 0, rootMargin: "0px 0px 35% 0px" });
+      }, { threshold: 0, rootMargin: "0px 0px -5% 0px" });
       document.querySelectorAll(".reveal").forEach(function (el) { io.observe(el); });
     }
 

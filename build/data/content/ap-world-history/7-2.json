@@ -177,11 +177,11 @@
     },
     {
       "type": "image",
-      "imageType": "ai_generated",
+      "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/7-2-0.jpg",
       "alt": "Map of Europe 1914 showing the Triple Alliance and Triple Entente countries and their alliance commitments",
       "caption": "Europe in 1914 was divided into two armed alliance blocs. The Triple Alliance (Germany, Austria-Hungary) faced the Triple Entente (France, Russia, Britain). When war began, the Ottoman Empire joined the Central Powers; Italy eventually joined the Allies.",
-      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+      "attribution": "Map: historicair / Fluteflute / Bibi Saint-Pol, Wikimedia Commons, CC BY-SA 2.5."
     },
     {
       "type": "heading",
