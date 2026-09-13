@@ -161,6 +161,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "text": "A Mongol soldier was essentially raised on horseback, children learned to ride before they could reliably walk, and by adulthood a warrior could shoot accurately at a full gallop, standing in the stirrups, twisting to fire backward at pursuers (a maneuver so effective enemies came to fear the \"Parthian shot\"). Their recurve composite bows, built from layered horn, wood, and sinew, gave them serious range: a Mongol noble's own memorial inscription boasts of a shot landing roughly 536 meters away, nearly 600 yards, about six football fields end to end, in an archery contest held after the conquest of Khwarezm. Real combat accuracy was shorter, probably 200 to 300 yards, still two to three football fields, but still far outranging most of the crossbows and shortbows their enemies carried. A Mongol army could also travel for days without stopping to hunt or cook: a rider could nick a small vein in his horse's neck, drink a cup of blood for sustenance, then seal the wound and keep riding, all without seriously harming the animal. Combined with the ability to sleep and eat in the saddle, this let Mongol forces appear where no enemy commander thought an army could possibly be."
+    },
+    {
+      "type": "paragraph",
+      "text": "That same adaptability had a systematic side to it. After a city fell, Mongol commanders routinely combed the survivors for anyone useful, doctors, astronomers, engineers, translators, skilled craftsmen, and shipped them elsewhere in the empire rather than killing them. Chinese siege engineers ended up helping Mongol armies batter down walls in Persia and Iraq; Persian astronomers and physicians were sent east to staff observatories and hospitals in Yuan China. It was forced relocation, not a scholarship program, but it turned the empire into a giant conveyor belt for technical knowledge, and it's a big part of why Mongol-conquered territory ended up more technologically connected than it had been before the conquest."
+    },
+    {
       "type": "funFact",
       "text": "Genghis Khan killed so many people, historians estimate 40 million, roughly 10% of the world's entire population at the time, that forests regrew over abandoned farmland across Asia and Europe. Those new forests absorbed so much carbon dioxide that scientists believe the Mongol conquests may have actually *cooled the Earth's temperature*. His campaigns were so devastating they left a measurable mark on the global climate."
     },
@@ -170,7 +178,7 @@
       "src": "assets/images/ap-world-history/2-2-3.jpg",
       "alt": "Mongol cavalry charging across the steppe",
       "caption": "Mongol cavalry were unlike anything their enemies had faced, faster, more coordinated, and trained from childhood to fight on horseback.",
-      "attribution": "Image credit not specified."
+      "attribution": "AI-generated illustration."
     },
     {
       "type": "heading",
@@ -223,7 +231,7 @@
       "src": "assets/images/ap-world-history/2-2-5.jpg",
       "alt": "Merchants trading freely along the Silk Roads under Mongol protection",
       "caption": "During the Pax Mongolica, merchants could travel from China to Europe under a single political umbrella for the first time in history, a transformation for global trade.",
-      "attribution": "Image credit not specified."
+      "attribution": "AI-generated illustration."
     },
     {
       "type": "paragraph",
@@ -259,7 +267,7 @@
     },
     {
       "type": "funFact",
-      "text": "Genghis Khan had so many children, historians estimate he fathered hundreds, that today approximately **16 million men alive on Earth are his direct descendants**. That's about 0.5% of the entire male population of the planet. A 2003 genetics study traced a specific Y-chromosome lineage back to him. He may be the most reproductively successful individual in recorded human history."
+      "text": "Genghis Khan had so many children, historians estimate he fathered hundreds, that today approximately **16 million men alive on Earth are his direct descendants**. That's about 0.5% of the entire male population of the planet, or roughly 1 out of every 200 men alive today. A 2003 genetics study traced a specific Y-chromosome lineage back to him. He may be the most reproductively successful individual in recorded human history."
     },
     {
       "type": "heading",
@@ -270,12 +278,16 @@
       "text": "The same trade networks that moved silk, porcelain, and ideas also moved something far more deadly. The **Black Death**, bubonic plague caused by the bacterium *Yersinia pestis*, originated in Central Asia (likely in the Mongol heartland) and traveled westward along Silk Road trade routes in the 1340s."
     },
     {
+      "type": "paragraph",
+      "text": "One especially grim episode captures how directly the two were linked. In 1346, a Mongol Golden Horde army led by Khan Janibeg was besieging Caffa, a Genoese trading port on the Black Sea, when plague broke out in its own camp. According to a contemporary account by the notary Gabriele de' Mussi, Janibeg's forces catapulted the corpses of plague victims over Caffa's walls, hoping to infect the defenders, in what's often cited as one of history's earliest documented attempts at biological warfare. The Genoese inside reportedly dumped the bodies in the sea, but the plague took hold anyway, and when survivors fled by ship to Constantinople, Sicily, and Genoa, they may have carried the infection with them. Historians debate how much this one episode actually mattered, plague was likely already spreading into the Mediterranean by other routes at the same time, but the story endures because it shows so starkly how a single siege could connect a Mongol army's illness to a pandemic that would go on to kill tens of millions."
+    },
+    {
       "type": "image",
       "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/2-2-6.jpg",
       "alt": "The Black Death spreading through medieval cities",
       "caption": "The Black Death killed an estimated 30–60% of Europe's population between 1347 and 1351, one of the deadliest events in human history, carried westward along Mongol trade routes.",
-      "attribution": "Image credit not specified."
+      "attribution": "AI-generated illustration."
     },
     {
       "type": "paragraph",
@@ -283,11 +295,15 @@
     },
     {
       "type": "paragraph",
+      "text": "What actually happened to a person's body made the disease especially terrifying. A few days to a week after a flea bite, the bacteria would swell the lymph nodes in the groin, armpit, or neck into painful, egg-sized lumps called buboes, which is where \"bubonic\" plague gets its name. That came with a high fever, chills, vomiting, and exhaustion so severe victims often couldn't stand. In the bubonic form, roughly 30–60% of untreated victims died, usually within about a week, which also means a significant share of people who caught it did survive; the disease wasn't automatically a death sentence, just a brutal gamble. Two rarer, far deadlier forms existed too: septicemic plague, when the bacteria invaded the bloodstream directly and caused bleeding under the skin that blackened patches of tissue, and pneumonic plague, when it settled in the lungs and spread through coughing, person to person, killing nearly everyone it infected, often within one to three days. Despite the name, contemporaries in the 1300s never actually called it the \"Black Death\", that term only became standard centuries later, and historians still debate whether it originally referred to blackened skin or was simply a translation of a Latin phrase meaning \"dreadful death.\" Either description fit."
+    },
+    {
+      "type": "paragraph",
       "text": "This is a critical lesson about trade networks: connectivity is a double-edged sword. The same routes that enriched civilizations and spread knowledge also spread disease. The more connected the world becomes, the faster everything travels, good and bad."
     },
     {
       "type": "apTip",
-      "text": "The Black Death is a perfect AP exam example of an *unintended consequence* of trade network expansion. When you're asked about the effects of the Silk Roads or the Mongol Empire, the plague is exactly the kind of nuanced, complex effect the AP exam rewards. It also shows continuity and change: the plague didn't just kill people. It reshaped European labor systems, the Church's authority, and eventually contributed to conditions that made the Renaissance possible."
+      "text": "The Black Death is a perfect AP exam example of an *unintended consequence* of trade network expansion. When you're asked about the effects of the Silk Roads or the Mongol Empire, the plague is exactly the kind of nuanced, complex effect the AP exam rewards. It also shows continuity and change, and you should be able to explain the mechanism, not just assert it: killing 30–60% of Europe's population created a severe labor shortage, so surviving peasants and workers could suddenly demand higher wages and more freedom, weakening the feudal system that depended on a large, tied-down labor force. The Church's authority took a hit too, since prayer and ritual visibly failed to stop the dying, and priests who kept ministering to the sick died at especially high rates, leaving people questioning an institution that couldn't explain or prevent the catastrophe. Fewer people meant surviving estates and fortunes concentrated in fewer hands, one factor (among many) that historians link to the wealth that later funded Renaissance art and scholarship."
     },
     {
       "type": "heading",
@@ -302,13 +318,13 @@
       "items": [
         "**Overextension**, The empire was simply too large to govern effectively. Communication across thousands of miles was slow; local rebellions were hard to suppress; the khanates increasingly acted as independent states.",
         "**The plague**, The Black Death devastated Mongol populations too, weakening military capacity and destabilizing governance.",
-        "**Assimilation**, In many regions, Mongol rulers adopted local customs, languages, and religions so thoroughly that they lost their distinct Mongol identity. The Yuan Dynasty in China, for example, was eventually overthrown by a Chinese rebellion (founding the Ming Dynasty in 1368).",
+        "**Assimilation**, In many regions, Mongol rulers adopted local customs, languages, and religions so thoroughly that they lost their distinct Mongol identity. This wasn't new tolerance, Genghis Khan's original legal code, the Yassa, had already exempted the clergy of every religion from taxation, a deliberate policy of religious pluralism meant to keep conquered populations calm rather than rebellious. But over generations that tolerance tipped into conversion: the Ilkhanate's ruler Ghazan Khan converted to Islam in 1295, and the Golden Horde's Uzbeg Khan made Islam the state religion in the 1310s, while in China the Yuan court patronized Tibetan Buddhism and governed through the same Confucian bureaucratic exams the Chinese themselves used. Each khanate ended up looking more like the people it had conquered than like the steppe nomads who had conquered them, and the Yuan Dynasty was eventually overthrown by a Chinese rebellion (founding the Ming Dynasty in 1368).",
         "**New powers rising**, As Mongol control weakened, successor states emerged, including the Ottoman Empire, the Ming Dynasty, and others that would shape the next chapter of world history."
       ]
     },
     {
       "type": "paragraph",
-      "text": "The Mongol Empire lasted less than 200 years. But its effects, on trade, technology transfer, cultural exchange, and even disease, shaped the world for centuries afterward. It's one of history's clearest examples of how a single political force can permanently alter the direction of human civilization."
+      "text": "The Mongol Empire lasted less than 200 years, and unlike Rome or the Islamic caliphates, it left behind no lasting Mongol religion, language, or culture that conquered peoples adopted, by design, the Yassa never tried to force Mongol ways onto anyone, which is exactly why the Ilkhanate could become Muslim and the Yuan court could govern as Confucian emperors. What endured instead was structural: the administrative and legal playbook (codified law applied consistently across a diverse empire, census-taking, religious tolerance as state policy, a professional relay-based bureaucracy) that later Eurasian states borrowed from, and the trade and communication networks that, for a century, moved goods, technology, ideas, and eventually disease across the largest connected landmass in history. The Mongols didn't get remembered for what they built to last. They got remembered for what they connected."
     }
   ],
   "videoResources": [
