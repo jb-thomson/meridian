@@ -109,6 +109,14 @@
       "text": "Look at a map of the world. The Indian Ocean sits at the center of the Eastern Hemisphere, touching Africa on the west, the Middle East and South Asia to the north, and Southeast Asia and China to the east. It is, in other words, the geographic crossroads of the most populated parts of the ancient world. If you wanted to connect all of these places, the Indian Ocean was the obvious highway."
     },
     {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-3-3.jpg",
+      "alt": "Map of the Eastern Hemisphere showing Africa, the Middle East, South Asia, Southeast Asia, and China surrounding the Indian Ocean",
+      "caption": "The Indian Ocean sits at the center of the Eastern Hemisphere, bordered by Africa, the Middle East, South Asia, Southeast Asia, and China.",
+      "attribution": "Base map: Pinpin, Wikimedia Commons, CC BY-SA 3.0. Region labels added."
+    },
+    {
       "type": "paragraph",
       "text": "But trade across the Indian Ocean didn't just happen automatically. It required technology, knowledge, and networks of trust built up over centuries. By 1200 CE, all three were in place, and a period of explosive trade growth was about to begin."
     },
@@ -135,6 +143,22 @@
         "**The astrolabe**, An Islamic innovation that allowed sailors to calculate their latitude (how far north or south they were) by measuring the angle of the sun or stars. Combined with the compass, sailors could now determine both their direction and their position, essentially giving them GPS without any electronics.",
         "**Larger ship designs**. Chinese **junks** and Arab **dhows** were both redesigned during this period to carry dramatically more cargo. Junks used multiple masts and watertight compartments for safety. Dhows used a triangular \"lateen\" sail that could catch wind from multiple angles, making them highly maneuverable."
       ]
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-3-6.jpg",
+      "alt": "A brass astrolabe made in Damascus in 1230 CE, showing its engraved star pointer and degree scale",
+      "caption": "A brass astrolabe made by al-Sarraj in Damascus in 1230 CE, the same basic instrument Indian Ocean sailors used to calculate their latitude at sea.",
+      "attribution": "National Maritime Museum, Greenwich. Photo: Clem Rutter, Wikimedia Commons, CC BY-SA 3.0."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/2-3-5.jpg",
+      "alt": "Side by side comparison of a Chinese junk with multiple battened sails on the left and an Arab dhow with a single triangular lateen sail on the right",
+      "caption": "Chinese junks (left) used multiple masts and battened sails built for cargo capacity and stability. Arab dhows (right) used a single triangular lateen sail built for maneuverability against the wind.",
+      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
     },
     {
       "type": "funFact",
@@ -173,8 +197,20 @@
       ]
     },
     {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-3-4.jpg",
+      "alt": "Map showing the locations of Kilwa on the Swahili Coast, Gujarat in western India, and Malacca in Southeast Asia",
+      "caption": "The three city-states and trading ports the College Board names, located along the Indian Ocean network.",
+      "attribution": "Base map: Pinpin, Wikimedia Commons, CC BY-SA 3.0. Location markers added."
+    },
+    {
       "type": "funFact",
       "text": "At its peak in the early 1400s, the port of Malacca hosted merchants from over **80 different languages and cultures**. Arab, Chinese, Indian, Javanese, Malay, and dozens more. There was no common language, so a specialized class of traders called **shahbandars** acted as brokers, each responsible for merchants from specific regions. The city operated like a mini United Nations of commerce, centuries before the concept existed."
+    },
+    {
+      "type": "funFact",
+      "text": "Malacca's geography, sitting on the strait between the Indian Ocean and the South China Sea, is the same reason modern **Singapore** is one of the wealthiest countries in the world today. Singapore isn't a continuation of the Malacca Sultanate itself (it's a different city, founded as a British trading post in 1819, nearly four centuries after Malacca's peak), but it profits from the exact same chokepoint: over a quarter of the world's shipping still passes through the Strait of Malacca."
     },
     {
       "type": "heading",
@@ -193,8 +229,11 @@
       "text": "This was extraordinary. Sailors didn't have to fight the wind. They just had to time their journeys correctly. Depart East Africa in April, ride the summer monsoon to India. Load up with Indian spices and textiles. Wait for October. Ride the winter monsoon home. The same journey that might take years of unpredictable struggle in the Atlantic could be done in the Indian Ocean on a reliable seasonal schedule."
     },
     {
+      "type": "monsoonDemo"
+    },
+    {
       "type": "apTip",
-      "text": "Monsoon winds are the College Board's example of an *environmental factor* driving trade network development. If an AP prompt asks about the role of the environment in Indian Ocean exchange, monsoons are your primary answer. Connect it clearly: predictable winds → reliable sailing routes → increased trade volume → growth of port cities."
+      "text": "Monsoon winds are the College Board's example of an *environmental factor* driving trade network development. If an AP prompt asks about the role of the environment in Indian Ocean exchange, monsoons are your primary answer. Connect it clearly: predictable winds → reliable sailing routes → increased trade volume → growth of port cities → merchants waiting months for the next monsoon settling in those ports, forming diasporic communities."
     },
     {
       "type": "heading",

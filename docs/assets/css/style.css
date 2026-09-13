@@ -471,6 +471,23 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .practice-group-body { padding: 16px; border: 1px solid var(--line); border-top: none; border-radius: 0 0 var(--radius) var(--radius); }
 .practice-group-body > *:first-child { margin-top: 0; }
 
+/* monsoon interactive demo (2.3 pilot) */
+.monsoon-demo { border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper-raised); padding: 16px; margin: 24px 0; }
+.monsoon-demo-map { position: relative; width: 100%; border-radius: 8px; overflow: hidden; }
+.monsoon-demo-img { display: block; width: 100%; height: auto; }
+.monsoon-demo-svg { position: absolute; inset: 0; width: 100%; height: 100%; }
+.monsoon-path--winter, .monsoon-ship--winter { display: none; }
+.monsoon-demo[data-season="winter"] .monsoon-path--summer,
+.monsoon-demo[data-season="winter"] .monsoon-ship--summer { display: none; }
+.monsoon-demo[data-season="winter"] .monsoon-path--winter,
+.monsoon-demo[data-season="winter"] .monsoon-ship--winter { display: block; }
+.monsoon-demo-controls { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 14px; }
+.monsoon-btn { border: 1px solid var(--line); background: var(--paper-raised); border-radius: 999px; padding: 8px 16px; font-size: 0.88rem; font-weight: 700; cursor: pointer; color: var(--ink, #2a2a2a); }
+.monsoon-btn.active { color: #fff; border-color: transparent; }
+.monsoon-btn--summer.active { background: #c8641a; }
+.monsoon-btn--winter.active { background: #2c5f8a; }
+.monsoon-demo-caption { margin: 14px 0 0; font-size: 0.92rem; color: var(--muted, #5a5347); }
+
 /* discussion / expandables (also used by SAQ/LEQ/essay "show answer" reveals) */
 .expand-item { border: 1px solid var(--line); border-radius: var(--radius); margin: 10px 0; background: var(--paper-raised); overflow: hidden; }
 .expand-toggle {

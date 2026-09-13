@@ -139,6 +139,37 @@
       {% if not b.src %}<div class="ai-pending-note">Image not yet generated for this build.</div>{% endif %}
     </figcaption>
   </figure>
+    {% elif b.type == 'monsoonDemo' %}
+  <div class="monsoon-demo reveal" data-season="summer">
+    <div class="monsoon-demo-map">
+      <img class="monsoon-demo-img" src="{{ root }}assets/images/ap-world-history/2-3-7.jpg" alt="Map of the Indian Ocean with Kilwa, Arabia, Gujarat, Malacca, and China labeled">
+      <svg class="monsoon-demo-svg" viewBox="0 0 1100 797" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+        <defs>
+          <marker id="monsoonArrowSummer" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M0,0 L10,5 L0,10 z" fill="#c8641a"></path>
+          </marker>
+          <marker id="monsoonArrowWinter" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M0,0 L10,5 L0,10 z" fill="#2c5f8a"></path>
+          </marker>
+        </defs>
+        <path class="monsoon-path monsoon-path--summer" d="M342,501 L438,310 L506,315 L740,442 L772,231" fill="none" stroke="#c8641a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#monsoonArrowSummer)"></path>
+        <path class="monsoon-path monsoon-path--winter" d="M772,231 L740,442 L506,315 L438,310 L342,501" fill="none" stroke="#2c5f8a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#monsoonArrowWinter)"></path>
+        <g class="monsoon-ship monsoon-ship--summer">
+          <text x="-14" y="8" font-size="26">⛵</text>
+          <animateMotion id="monsoonShipSummer" dur="5s" repeatCount="indefinite" path="M342,501 L438,310 L506,315 L740,442 L772,231"></animateMotion>
+        </g>
+        <g class="monsoon-ship monsoon-ship--winter">
+          <text x="-14" y="8" font-size="26">⛵</text>
+          <animateMotion id="monsoonShipWinter" dur="5s" repeatCount="indefinite" path="M772,231 L740,442 L506,315 L438,310 L342,501"></animateMotion>
+        </g>
+      </svg>
+    </div>
+    <div class="monsoon-demo-controls">
+      <button type="button" class="monsoon-btn monsoon-btn--summer active" data-season-btn="summer">☀️ Summer Monsoon (Apr–Sep)</button>
+      <button type="button" class="monsoon-btn monsoon-btn--winter" data-season-btn="winter">❄️ Winter Monsoon (Oct–Mar)</button>
+    </div>
+    <p class="monsoon-demo-caption">Summer winds blow southwest to northeast, carrying ships from East Africa and Arabia toward India and Southeast Asia.</p>
+  </div>
     {% elif b.type == 'siteNote' %}
   <div class="info-box site-note">
     <div class="info-box-label">🗒️ A Note on Ordering</div>

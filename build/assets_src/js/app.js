@@ -201,6 +201,31 @@
       }
     });
 
+    /* ---- monsoon interactive demo (2.3 pilot): toggle summer/winter wind
+       direction, flipping which route arrow + animated ship is shown ---- */
+    document.querySelectorAll(".monsoon-demo").forEach(function (demo) {
+      var btns = demo.querySelectorAll("[data-season-btn]");
+      var captionEl = demo.querySelector(".monsoon-demo-caption");
+      var captions = {
+        summer: "Summer winds blow southwest to northeast, carrying ships from East Africa and Arabia toward India and Southeast Asia.",
+        winter: "Winter winds reverse, blowing northeast to southwest and carrying ships back from India and Southeast Asia toward Africa and Arabia."
+      };
+      btns.forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          var season = btn.getAttribute("data-season-btn");
+          demo.setAttribute("data-season", season);
+          btns.forEach(function (b) { b.classList.toggle("active", b === btn); });
+          if (captionEl) captionEl.textContent = captions[season] || "";
+          var motion = demo.querySelector(
+            season === "summer" ? "#monsoonShipSummer" : "#monsoonShipWinter"
+          );
+          if (motion && motion.beginElement) {
+            try { motion.beginElement(); } catch (e) {}
+          }
+        });
+      });
+    });
+
     /* ---- print buttons: "Reading Only" vs "Full Version" ---- */
     document.querySelectorAll("[data-action='print']").forEach(function (btn) {
       btn.addEventListener("click", function () {
