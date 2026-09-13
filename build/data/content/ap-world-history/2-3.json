@@ -244,6 +244,10 @@
       "text": "When merchants travel to foreign lands repeatedly, some of them stop going home. They settle permanently, marry local people, raise children, and create communities that blend their home culture with the local one. These are called **diasporic communities**, populations living outside their homeland who maintain connections to their culture of origin."
     },
     {
+      "type": "apTip",
+      "text": "A modern parallel: a **diasporic community** persists at the destination for generations, like the long-running American military communities in Okinawa, the Philippines, South Korea, and Germany, where decades of service members intermarrying with locals produced lasting blended populations even as individual soldiers rotate out. One soldier who marries locally, then moves the whole family home again, is closer to a **sojourner**, someone who stayed a while and went home; that alone doesn't meet the diaspora bar. It becomes a true diaspora only when enough families never rotate out and multiply into a lasting population, individual and temporary versus collective and permanent."
+    },
+    {
       "type": "paragraph",
       "text": "The Indian Ocean network produced three major diasporic communities the College Board wants you to know:"
     },
@@ -252,8 +256,20 @@
       "items": [
         "**Arab and Persian communities in East Africa**. Arab and Persian merchants had been trading along the East African coast for centuries. Over time, many settled permanently in Swahili Coast cities. The result was a blended culture, the Swahili language is a mix of Bantu African languages and Arabic, and Swahili architecture reflects both African and Islamic traditions. Islam spread along this route, and East African city-states became part of the broader Islamic world.",
         "**Chinese merchant communities in Southeast Asia**. Chinese merchants, particularly from Fujian province, established permanent communities across Southeast Asia, in present-day Vietnam, Thailand, Malaysia, Indonesia, and the Philippines. These communities maintained Chinese cultural traditions (language, religion, food, festivals) while adapting to local conditions. Their descendants, sometimes called \"overseas Chinese\", remain a significant presence in Southeast Asia today.",
-        "**Malay communities across the Indian Ocean basin**. Malay sailors and merchants from the islands of Southeast Asia were some of the most skilled navigators in the Indian Ocean. Malay communities spread westward to Madagascar (off the coast of Africa) and eastward across the Pacific. The Malagasy language spoken in Madagascar today is closely related to languages spoken in Borneo, a stunning example of how far Malay maritime culture reached."
+        "**Malay communities across the Indian Ocean basin**. Malay sailors and merchants from the islands of Southeast Asia were some of the most skilled navigators in the Indian Ocean, and their reach was already long-standing by 1200: centuries earlier, Austronesian sailors from the Malay world had settled Madagascar (around 650 CE) after crossing the entire Indian Ocean, and had reached the remote Pacific islands over an even longer span. The Malagasy language spoken in Madagascar today is closely related to languages spoken in Borneo, a stunning example of how far Malay maritime culture reached, and Malay merchant communities remained active across the Indian Ocean trade network throughout the 1200-1450 period."
       ]
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-3-8.jpg",
+      "alt": "Map showing Arab and Persian merchants traveling to East Africa, Chinese merchants traveling to Southeast Asia, and Malay sailors traveling to Madagascar",
+      "caption": "The three diasporic communities the College Board names, and roughly where each traveled from and settled.",
+      "attribution": "Base map: Pinpin, Wikimedia Commons, CC BY-SA 3.0. Route arrows added."
+    },
+    {
+      "type": "funFact",
+      "text": "Want to hear what these languages actually sound like? **Swahili**, the Bantu-Arabic blend that grew out of the Arab/Persian diaspora on the Swahili Coast, uses everyday words like *jambo* (hello), *asante* (thank you), and *rafiki* (friend): [listen to basic Swahili vocabulary on YouTube](https://www.youtube.com/watch?v=lcGV1UCNgJw). **Malagasy**, the Madagascar language related to Borneo, uses *salama* (hello), *misaotra* (thank you), and *veloma* (goodbye): [listen to a Malagasy greetings lesson on YouTube](https://www.youtube.com/watch?v=hZpj60hn430)."
     },
     {
       "type": "apTip",
@@ -277,15 +293,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Between 1405 and 1433, Zheng He led seven voyages. His fleet at its peak included over 300 ships and 28,000 crew members, far larger than anything Europe would put to sea for another century. The treasure ships themselves were over 400 feet long; for comparison, Columbus's *Santa María* was about 85 feet. Zheng He visited the Swahili Coast of East Africa, the Persian Gulf, India, Southeast Asia, and dozens of ports in between."
+      "text": "Between 1405 and 1433, Zheng He led seven voyages. His fleet at its peak included over 300 ships and 28,000 crew members, far larger than anything Europe would put to sea for another century. The treasure ships themselves were over 400 feet long, about as tall as a 40-story building laid on its side; for comparison, Columbus's *Santa María* was about 85 feet, roughly the length of two school buses end to end. Zheng He visited the Swahili Coast of East Africa, the Persian Gulf, India, Southeast Asia, and dozens of ports in between."
     },
     {
       "type": "paragraph",
-      "text": "What did the voyages accomplish? They demonstrated Chinese power across the Indian Ocean world, strengthened trade relationships, and facilitated the transfer of goods, animals, and ideas. Giraffes were brought back to China from East Africa as exotic gifts. Diplomatic envoys from as far as Africa came to Beijing to pay respect to the emperor."
+      "text": "What did the voyages accomplish? They demonstrated Chinese power across the Indian Ocean world, strengthened trade relationships, and facilitated the transfer of goods, animals, and ideas. Giraffes were brought back to China from East Africa as exotic gifts. 🦒 Diplomatic envoys from as far as Africa came to Beijing to pay respect to the emperor."
     },
     {
       "type": "paragraph",
-      "text": "Then, in 1433, the voyages stopped. A new emperor came to power who viewed the expeditions as wasteful and un-Confucian. China turned inward. The fleet was dismantled. The records were burned. One of history's greatest maritime programs ended almost overnight, a striking reminder that political decisions can reverse even the most ambitious undertakings."
+      "text": "Then, in 1433, the voyages stopped. A new emperor came to power who viewed the expeditions as wasteful and un-Confucian, Confucian officials ranked merchants below farmers and scholars, saw the fleet's cost as money better spent defending the northern frontier from the Mongols, and distrusted Zheng He's faction of court eunuchs. China turned inward. The fleet was dismantled. The records were burned. One of history's greatest maritime programs ended almost overnight, a striking reminder that political decisions can reverse even the most ambitious undertakings."
     },
     {
       "type": "funFact",
