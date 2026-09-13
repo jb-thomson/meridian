@@ -463,6 +463,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .practice-group[data-group="leq"] .practice-group-toggle { background: #7a4a1f; }
 .practice-group[data-group="frq"] .practice-group-toggle { background: #1a5f6a; }
 .practice-group[data-group="cyu"] .practice-group-toggle { background: #4a3728; }
+.practice-group[data-group="quickcheck"] .practice-group-toggle { background: #5b4a8a; }
 .practice-group-body-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .32s ease; background: var(--paper-raised); }
 .practice-group.open .practice-group-body-wrap { grid-template-rows: 1fr; }
 .practice-group-body-inner { overflow: hidden; }
