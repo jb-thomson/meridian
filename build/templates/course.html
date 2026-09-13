@@ -30,7 +30,10 @@
       {% if t.status == 'complete' %}
       <a class="topic-link" data-topic-num="{{ t.num }}" href="{{ t.num.replace('.', '-') }}.html">
         <span class="tnum">{{ t.num }}</span><span>{{ t.title }}</span>
-        <span class="check">&#10003;</span>
+        <span class="check-icons">
+          <span class="check-icon check-icon--reading" title="Reading marked done">📖</span>
+          <span class="check-icon check-icon--questions" title="Questions marked done">❓</span>
+        </span>
       </a>
       {% else %}
       <a class="topic-link is-soon" href="{{ t.num.replace('.', '-') }}.html">

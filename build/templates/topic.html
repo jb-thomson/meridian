@@ -491,6 +491,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="{{ course.slug }}" data-complete-num="{{ topic.num }}"{% if next_topic %} data-advance-next="{{ next_topic.num.replace('.', '-') }}.html"{% endif %}>Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="{{ course.slug }}" data-questions-num="{{ topic.num }}">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

@@ -19,24 +19,51 @@
   }
   function topicKey(course, num) { return course + "::" + num; }
 
+  // A topic's stored value is either the legacy plain `true` (from before
+  // reading/questions were tracked separately, treated as both done) or
+  // an { reading, questions } object.
+  function statusFromValue(v) {
+    if (v === true) return { reading: true, questions: true };
+    if (v && typeof v === "object") return { reading: !!v.reading, questions: !!v.questions };
+    return { reading: false, questions: false };
+  }
+
   window.AgoraProgress = {
-    isDone: function (course, num) {
+    getStatus: function (course, num) {
       var p = loadProgress();
-      return !!p[topicKey(course, num)];
+      return statusFromValue(p[topicKey(course, num)]);
     },
-    setDone: function (course, num, done) {
+    isDone: function (course, num) {
+      return this.getStatus(course, num).reading;
+    },
+    isFullyDone: function (course, num) {
+      var s = this.getStatus(course, num);
+      return s.reading && s.questions;
+    },
+    setPart: function (course, num, part, val) {
       var p = loadProgress();
       var key = topicKey(course, num);
-      if (done) p[key] = true; else delete p[key];
+      var cur = statusFromValue(p[key]);
+      cur[part] = val;
+      if (!cur.reading && !cur.questions) delete p[key]; else p[key] = cur;
       saveProgress(p);
     },
     courseStats: function (course, totalTopics) {
       var p = loadProgress();
-      var done = 0;
+      var readDone = 0, fullyDone = 0;
       Object.keys(p).forEach(function (k) {
-        if (k.indexOf(course + "::") === 0) done++;
+        if (k.indexOf(course + "::") === 0) {
+          var s = statusFromValue(p[k]);
+          if (s.reading) readDone++;
+          if (s.reading && s.questions) fullyDone++;
+        }
       });
-      return { done: done, total: totalTopics, pct: totalTopics ? Math.round((done / totalTopics) * 100) : 0 };
+      return {
+        done: readDone,
+        fullyDone: fullyDone,
+        total: totalTopics,
+        pct: totalTopics ? Math.round((readDone / totalTopics) * 100) : 0
+      };
     },
     resetCourse: function (course) {
       var p = loadProgress();
@@ -289,7 +316,7 @@
       var course = completeBtns[0].getAttribute("data-complete-course");
       var num = completeBtns[0].getAttribute("data-complete-num");
       function renderComplete() {
-        var done = window.AgoraProgress.isDone(course, num);
+        var done = window.AgoraProgress.getStatus(course, num).reading;
         completeBtns.forEach(function (btn) {
           btn.textContent = done ? "✓ Marked as read" : "Mark as read";
           btn.classList.toggle("btn-primary", done);
@@ -299,13 +326,38 @@
       renderComplete();
       completeBtns.forEach(function (btn) {
         btn.addEventListener("click", function () {
-          var nowDone = !window.AgoraProgress.isDone(course, num);
-          window.AgoraProgress.setDone(course, num, nowDone);
+          var nowDone = !window.AgoraProgress.getStatus(course, num).reading;
+          window.AgoraProgress.setPart(course, num, "reading", nowDone);
           renderComplete();
           var nextHref = btn.getAttribute("data-advance-next");
           if (nowDone && nextHref) {
             setTimeout(function () { window.location.href = nextHref; }, 500);
           }
+        });
+      });
+    }
+
+    /* ---- mark-questions-done toggle: independent of "mark as read", so
+       a student can tell reading a topic apart from having quizzed
+       themselves on it and come back to the ones they skipped. ---- */
+    var questionsBtns = document.querySelectorAll("[data-questions-course]");
+    if (questionsBtns.length) {
+      var qCourse = questionsBtns[0].getAttribute("data-questions-course");
+      var qNum = questionsBtns[0].getAttribute("data-questions-num");
+      function renderQuestions() {
+        var done = window.AgoraProgress.getStatus(qCourse, qNum).questions;
+        questionsBtns.forEach(function (btn) {
+          btn.textContent = done ? "✓ Questions done" : "❓ Mark questions done";
+          btn.classList.toggle("btn-primary", done);
+          btn.title = done ? "Click to unmark" : "Click to mark the practice questions as done";
+        });
+      }
+      renderQuestions();
+      questionsBtns.forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          var nowDone = !window.AgoraProgress.getStatus(qCourse, qNum).questions;
+          window.AgoraProgress.setPart(qCourse, qNum, "questions", nowDone);
+          renderQuestions();
         });
       });
     }
@@ -323,7 +375,9 @@
         if (fill) fill.style.width = stats.pct + "%";
         if (label) label.textContent = stats.done + " / " + stats.total + " read";
         document.querySelectorAll(".topic-link[data-topic-num]").forEach(function (a) {
-          a.classList.toggle("is-done", window.AgoraProgress.isDone(courseSlug, a.getAttribute("data-topic-num")));
+          var s = window.AgoraProgress.getStatus(courseSlug, a.getAttribute("data-topic-num"));
+          a.classList.toggle("is-reading-done", s.reading);
+          a.classList.toggle("is-questions-done", s.questions);
         });
       }
       renderCourseProgress();

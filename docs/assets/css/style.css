@@ -278,8 +278,10 @@ body.is-landing .landing-hero {
 }
 .topic-link:hover { background: var(--accent-soft); }
 .topic-link .tnum { color: var(--course-color); font-weight: 700; min-width: 2.6em; }
-.topic-link .check { margin-left: auto; flex-shrink: 0; color: var(--good); opacity: 0; }
-.topic-link.is-done .check { opacity: 1; }
+.topic-link .check-icons { margin-left: auto; flex-shrink: 0; display: flex; gap: 5px; }
+.topic-link .check-icon { font-size: .82rem; opacity: .2; filter: grayscale(1); }
+.topic-link.is-reading-done .check-icon--reading { opacity: 1; filter: none; }
+.topic-link.is-questions-done .check-icon--questions { opacity: 1; filter: none; }
 .topic-link.is-soon { color: var(--ink-soft); font-style: italic; }
 .topic-link.is-soon .tnum { color: var(--ink-soft); }
 .soon-badge { font-size: 0.65rem; text-transform: uppercase; letter-spacing: .04em; background: var(--line); color: var(--ink-soft); padding: 2px 7px; border-radius: 999px; margin-left: auto; font-style: normal; }
@@ -682,7 +684,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .video-resource-meta { display: block; font-size: 0.78rem; color: var(--ink-soft); margin-top: 2px; }
 
 /* mark complete */
-.complete-row { display: flex; align-items: center; justify-content: center; gap: 10px; padding: 20px 0; }
+.complete-row { display: flex; align-items: center; justify-content: center; gap: 10px; padding: 20px 0; flex-wrap: wrap; }
 
 /* coming soon */
 .coming-soon-box { text-align: center; padding: 60px 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: var(--ink-soft); }
