@@ -111,11 +111,11 @@
     },
     {
       "type": "image",
-      "imageType": "ai_generated",
+      "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/1-5-0.jpg",
       "alt": "Mansa Musa depicted in the Catalan Atlas of 1375",
       "caption": "Mansa Musa depicted in the 1375 Catalan Atlas, one of the first European maps to accurately represent West Africa. He is shown holding a gold nugget, reflecting European awareness of Mali's extraordinary wealth.",
-      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+      "attribution": "Abraham Cresques, Catalan Atlas (1375), Bibliothèque nationale de France. Public domain, Wikimedia Commons."
     },
     {
       "type": "paragraph",
