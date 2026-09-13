@@ -684,8 +684,8 @@ footer.site-footer a { color: var(--ink-soft); }
    ========================================================================== */
 html.js-anim .reveal {
   opacity: 0;
-  transform: translateY(14px);
-  transition: opacity .4s ease, transform .4s ease;
+  transform: translateY(28px);
+  transition: opacity .5s ease, transform .6s cubic-bezier(0.22, 1.4, 0.36, 1);
 }
 html.js-anim .reveal.in-view {
   opacity: 1;
