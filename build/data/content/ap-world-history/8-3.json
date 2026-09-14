@@ -91,34 +91,34 @@
     {
       "question": "Why was the Warsaw Pact created in 1955, according to the reading?",
       "options": [
-        "It was created in direct response to the outbreak of the Korean War roughly five years earlier",
         "It was created in direct response to West Germany's formal admission into NATO that very same year",
-        "It was created in direct response to the United States testing its very first hydrogen bomb",
+        "It was created in direct response to the outbreak of the Korean War roughly five years earlier",
+        "It was created in direct response to the United States testing its very first hydrogen bomb weapon",
         "It was created only after a formal Soviet request to join NATO itself had been flatly rejected"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "The reading states the Warsaw Pact was created directly in response to West Germany joining NATO in 1955, formalizing Soviet military dominance in Eastern Europe. The other options are not given as the cause in the reading."
     },
     {
       "question": "What is the doctrine of Mutually Assured Destruction (MAD), as described in the reading?",
       "options": [
-        "The idea that only non-nuclear nations could ever be trusted to maintain lasting world peace",
-        "The idea that nuclear weapons would eventually be banned completely under an international treaty",
-        "The idea that a nuclear war could actually be won outright by whichever side managed to strike first",
-        "The idea that neither superpower would rationally start a nuclear war since the other side could still retaliate and destroy them"
+        "The idea that only nations without any nuclear weapons could ever be trusted to keep the world at lasting peace",
+        "The idea that neither superpower would rationally start a nuclear war, since the other side could retaliate and destroy it",
+        "The idea that a nuclear war could actually be won outright by whichever side managed to strike first and fastest",
+        "The idea that nuclear weapons would eventually be banned completely under a binding worldwide international treaty"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "The reading describes MAD as grimly logical: a first strike would still leave the other side enough weapons to retaliate and destroy the attacker, so rational leaders would not start a nuclear war. The other options are not what the reading describes."
     },
     {
       "question": "What happened during the Cuban Missile Crisis of 1962, according to the reading?",
       "options": [
-        "A 13-day standoff over Soviet nuclear missiles in Cuba brought the US and USSR closer to nuclear war than at any other Cold War moment",
-        "The US and USSR fought a direct naval battle against each other in the waters just off the coast of Cuba",
-        "Cuba declared itself formally neutral and asked both superpowers to remove all military assets from the region",
-        "The Soviet Union permanently stationed a fleet of nuclear submarines in Cuban ports under a signed treaty"
+        "The US and USSR fought a direct naval battle against each other in waters just off Cuba's coastline",
+        "Cuba declared itself formally neutral and asked both superpowers to remove all their military assets",
+        "A 13-day standoff over Soviet missiles in Cuba brought the superpowers closer to nuclear war than ever before",
+        "The Soviet Union permanently stationed a large fleet of nuclear submarines inside Cuban ports by treaty"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "The reading describes the Cuban Missile Crisis as a 13-day standoff over Soviet missiles in Cuba that brought the world the closest to nuclear war of the entire Cold War. The other options are not supported by the reading."
     },
     {
@@ -126,21 +126,21 @@
       "options": [
         "He personally flew to Washington and negotiated directly with President Kennedy to help end the standoff",
         "He ordered his own submarine to surface immediately and surrender to the nearby American naval forces",
-        "He refused to authorize a nuclear torpedo launch, overriding his own captain when protocol required unanimous agreement",
-        "He personally led the Soviet team that physically removed the missiles from Cuban territory afterward"
+        "He personally led the Soviet team that physically removed the missiles from Cuban territory afterward",
+        "He refused to authorize a nuclear torpedo launch, overriding his own captain when protocol required unanimous agreement"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "The reading credits Arkhipov with refusing to authorize a nuclear torpedo launch aboard a submarine cut off from communication, overriding his captain since Soviet protocol required all three officers to agree. The other options are not described in the reading."
     },
     {
       "question": "What made the Korean War significant as a Cold War proxy conflict, according to the reading?",
       "options": [
-        "It was resolved quickly without any foreign military involvement beyond North and South Korea themselves",
         "It escalated from a local conflict into an international war involving a US-led UN coalition and direct Chinese intervention",
-        "It ended with the two Koreas being formally and permanently reunified under one single government",
-        "It was fought entirely through economic sanctions and diplomacy rather than any direct military combat"
+        "It was resolved quickly and peacefully without any foreign military involvement beyond North and South Korea",
+        "It ended with the two rival Koreas being formally and permanently reunified under a single shared government",
+        "It was fought entirely through economic sanctions and quiet diplomacy rather than any actual direct military combat"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "The reading describes how North Korea's invasion of South Korea drew in a US-led UN coalition and then a massive Chinese intervention, turning a local conflict into an international war. The other options directly contradict details in the reading."
     },
     {
@@ -148,32 +148,32 @@
       "options": [
         "Cuba sent substantial economic aid to UNITA to help it resist growing Soviet influence in the region",
         "Cuba personally mediated a lasting peace agreement between the rival MPLA and FNLA factions",
-        "Cuba refused to become involved in Angola at all despite repeated Soviet requests for support",
-        "Cuba deployed tens of thousands of its own troops to fight directly on behalf of the Soviet-backed MPLA"
+        "Cuba deployed tens of thousands of its own troops to fight directly on behalf of the Soviet-backed MPLA",
+        "Cuba refused to become involved in Angola at all despite repeated Soviet requests for support"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "The reading states Cuba sent tens of thousands of troops to support the MPLA at Soviet request, directly fighting on its behalf. The other options all contradict what the reading describes."
     },
     {
       "question": "What was the Iran-Contra scandal connected to, according to the reading?",
       "options": [
-        "The Reagan administration's illegal sale of weapons to Iran, using the proceeds to fund the Contras after Congress banned such aid",
-        "A direct US military invasion of Nicaragua that was meant to remove the Sandinista government by force",
-        "A Soviet attempt to establish a permanent military base somewhere inside Nicaragua's own territory",
-        "The Sandinista government's own independent decision to purchase weapons directly from Iran itself"
+        "A direct US military invasion of Nicaragua that was intended to remove the Sandinista government by force",
+        "A Soviet attempt to establish a permanent military base somewhere deep inside Nicaragua's own territory",
+        "The Sandinista government's own independent decision to purchase weapons directly from Iran using cash",
+        "The Reagan administration's illegal sale of weapons to Iran, funding the Contras after Congress banned direct aid"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "The reading explains that the Reagan administration illegally sold weapons to Iran and used the proceeds to fund the Contras after Congress had banned such funding, creating the Iran-Contra scandal. The other options are not supported by the reading."
     },
     {
       "question": "According to the reading, why did most Cold War proxy wars occur in postcolonial states rather than in Europe?",
       "options": [
+        "Nuclear deterrence made direct conflict too dangerous in Europe, while instability elsewhere created lower-risk openings",
         "European nations had all formally signed treaties specifically banning Cold War competition on their own soil",
         "Postcolonial states generally had far stronger militaries that could better withstand a prolonged proxy war",
-        "Nuclear deterrence made direct conflict too dangerous in Europe, while instability elsewhere created lower-risk openings",
         "The United Nations had specifically designated all postcolonial states as neutral zones for Cold War competition"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "The reading explains that nuclear deterrence and the risk of escalation kept Europe relatively stable, while political instability in postcolonial states created openings for superpower competition at lower risk of nuclear war. The other options are not supported by the reading."
     }
   ],
