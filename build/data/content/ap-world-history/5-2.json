@@ -370,6 +370,85 @@
       "modelAnswer": "The Propaganda Movement's leaders, educated members of the Filipino middle class, believed that reform through persuasion was more achievable and less costly than outright revolution. They used newspapers, books, and essays to advocate for equal treatment of Filipinos under Spanish law and an end to the most abusive colonial practices. They were also realistic: armed revolt against Spain in the 1880s–1890s was extremely risky. Only after Spain repeatedly refused to reform did the nationalist movement shift toward independence. This progression, from reform to revolution, is a common pattern when imperial powers refuse to respond to legitimate grievances."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "How does the reading define nationalism?",
+      "options": [
+        "The belief that people sharing a language, culture, history, or territory form a nation deserving self-rule",
+        "The belief that only a hereditary monarch can legitimately hold political power over a given territory",
+        "The belief that all political authority should be divided equally among competing religious institutions",
+        "The belief that a nation's wealth should be measured only by how much gold and silver it holds"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading defines nationalism as the idea that a shared language, culture, history, or territory makes a people a nation entitled to govern itself. (B), (C), and (D) describe unrelated political or economic ideas, not nationalism as the reading uses the term."
+    },
+    {
+      "question": "According to the reading, what made the Haitian Revolution different from the American and French Revolutions?",
+      "options": [
+        "It was led by free men of property who mainly wanted greater representation within an existing government",
+        "It was led by enslaved people who overthrew their enslavers and established the first Black republic",
+        "It was resolved entirely through peaceful negotiation without any military conflict of any kind",
+        "It was organized and funded directly by the American government to weaken French colonial power"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading emphasizes that Haiti's revolution was led by enslaved people fighting for their basic freedom, unlike the American and French revolutions, which were led by free property-owning men. (A) describes the other two revolutions. (C) and (D) are not supported by the reading."
+    },
+    {
+      "question": "What did Simón Bolívar argue in his \"Letter from Jamaica,\" according to the reading?",
+      "options": [
+        "That Spanish American colonists should remain loyal subjects of the Spanish crown forever",
+        "That Spanish Americans should adopt the exact same government structure as the United States",
+        "That Spanish Americans had a distinct identity and thus deserved their own self-government",
+        "That Spanish American independence should wait until Spain itself became a full democracy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bolívar argued that centuries of colonial life had produced a distinct Spanish American identity, neither fully Spanish nor fully indigenous, that justified self-governance. (A), (B), and (D) are not what his letter argues in the reading."
+    },
+    {
+      "question": "How did German and Italian unification differ from the American and Haitian Revolutions, according to the reading?",
+      "options": [
+        "American independence broke a colony from an empire, while German unification joined states into one",
+        "Both movements were driven mainly by a shared desire to abolish slavery across their territories",
+        "German unification occurred through a mass popular uprising rather than diplomacy or war",
+        "American independence was achieved without any reference to Enlightenment ideas about self-rule"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading contrasts separatist revolutions, colonies breaking away from an empire, with the integrationist project of German and Italian unification, which joined fragmented states into single nations. (B), (C), and (D) all contradict details in the reading."
+    },
+    {
+      "question": "Why did the Ottoman government promote \"Ottomanism\" in the 19th century, according to the reading?",
+      "options": [
+        "Because the sultan personally believed all ethnic and religious groups were naturally identical",
+        "Because European powers required it as a condition of continued trade with the empire",
+        "Because it wanted to eliminate its rural peasant population's need for local self-government",
+        "Because rising nationalism among its diverse peoples threatened to break the empire apart"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading explains that Ottomanism was a response to nationalism among Greeks, Serbians, Bulgarians, and other subject peoples, an attempt to build a unifying identity that would hold the empire together. (A), (B), and (C) are not given as reasons in the reading."
+    },
+    {
+      "question": "What does the reading say about the Philippines' Propaganda Movement?",
+      "options": [
+        "It initially sought equal rights and reform for Filipinos within the existing Spanish colonial system",
+        "It was led primarily by military officers who had already served in the Spanish colonial army",
+        "It used newspapers and novels, rather than armed force, to build support for its early goals",
+        "It shifted toward outright independence only after Spain refused to grant meaningful reforms"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that the Propaganda Movement, led by intellectuals like José Rizal, initially pursued reform and equal rights within Spanish rule rather than immediate independence. (B) is not supported. (C) and (D) are both true according to the reading but describe its methods and later shift, not its initial goal."
+    },
+    {
+      "question": "What happened after José Rizal's execution by Spanish authorities, according to the reading?",
+      "options": [
+        "Spain immediately granted Philippine independence to avoid further embarrassment after his death",
+        "His death was quickly forgotten, and the reform movement he led lost nearly all of its influence",
+        "His execution turned him into a martyr and helped trigger the Philippine Revolution within months",
+        "The Spanish government publicly apologized for the execution and released all political prisoners"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading states that Rizal's execution backfired, making him a martyr and helping spark the Philippine Revolution against Spain within months of his death. (A), (B), and (D) all contradict what the reading describes."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

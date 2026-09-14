@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Social Darwinism, pseudo-science of empire:</strong> Herbert Spencer misapplied Darwin’s evolution to human societies, arguing that “survior of the fittest” proved “superior” races were naturally destined to dominate “inferior” ones. This gave imperialism the appearance of biological law, not conquest, but destiny. Know it as KC-5.2.III. <strong>The Civilizing Mission, racism dressed as charity:</strong> Europeans claimed colonialism was justified by the duty to bring education, Christianity, and “civilization” to peoples they considered primitive. Rudyard Kipling’s “White Man’s Burden” (1899) captured the paternalistic logic. In practice it meant cultural destruction, forced labor, and extraction disguised as uplift. <strong>Nationalism and competition, colonies as scorecards:</strong> European powers competed for prestige and strategic advantage. Colonies signaled national greatness. Missing out meant falling behind rivals. The Berlin Conference (1884–85) reflected this competitive logic: nations claimed territory not always because they valued it, but because they feared someone else would take it first. <strong>Religious conversion, missionary zeal:</strong> Christian missionaries saw empire as the vehicle for spreading the Gospel. Their genuine religious conviction gave imperialism moral cover, while church schools and hospitals built institutional infrastructure that colonial governments later used for their own purposes.</li></ul>
   
 </div>
@@ -770,6 +804,98 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was Social Darwinism, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A misapplication of Darwin's theory of evolution, arguing that stronger races were destined to dominate weaker ones</li><li class="mcq-opt">Charles Darwin's own biological theory explaining how animal species evolve through natural selection</li><li class="mcq-opt">A scientific movement that used genetic evidence to argue every human race was equally capable and skilled</li><li class="mcq-opt">A diplomatic policy under which rival European nations agreed to compete for colonies through trade alone</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Social Darwinism took Darwin's biological theory and misapplied it to human societies and races, arguing that European dominance was simply nature at work rather than a political choice. Darwin's actual theory, described in option B, was about how species adapt over generations, not about ranking human races or justifying empire. Option C describes the opposite of what Social Darwinism claimed. Option D describes a different kind of policy entirely, not an ideology about racial hierarchy.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what was the main argument behind the "civilizing mission"?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">That non-European peoples should govern themselves without any outside interference or guidance at all</li><li class="mcq-opt">That European nations owed no explanation to their own citizens for the human cost of conquest at all</li><li class="mcq-opt">That local rulers, not European officials, should run colonies under distant European military protection</li><li class="mcq-opt">That Europeans had a moral duty to bring their education, religion, and legal systems to less developed peoples</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The civilizing mission argued that European civilization was more advanced and that Europeans therefore had an obligation to bring their institutions to other peoples, framing conquest as improvement rather than exploitation. Option A is the opposite of the ideology, it justified intervention, not self-rule. Option B is wrong because the whole point of the civilizing mission was to provide a moral justification, not to avoid giving one. Option C misdescribes how colonies were actually run under this ideology, which relied on European administrators, not just protection of local rulers.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does the destruction caused by Leopold II's regime in the Congo reveal about the civilizing mission, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The Congo Free State was never formally recognized as a personal colony by any other European power</li><li class="mcq-opt">Leopold cited the civilizing mission even while his Congo regime killed an estimated ten million people</li><li class="mcq-opt">Leopold II publicly rejected the civilizing mission as a justification for ruling the Congo Free State</li><li class="mcq-opt">The reading states the civilizing mission was applied only in Asia and was never used to justify rule in Africa</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading directly states that Leopold cited the civilizing mission even as his Congo regime killed an estimated 10 million people, showing how the ideology could coexist with, and disguise, extreme violence. Option C directly contradicts this, since Leopold used the ideology rather than rejecting it. Option A and option D aren't supported by the reading: the Congo Free State was a recognized personal colony, and the civilizing mission was applied across both Africa and Asia.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does the reading say the Berlin Conference (1884-85) reveals about nationalism's role in imperialism?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">European powers negotiated a division of Africa among themselves, with no African representatives consulted</li><li class="mcq-opt">European powers agreed to avoid colonizing Africa entirely so as to prevent war among themselves over land</li><li class="mcq-opt">African kingdoms sent delegates to negotiate their own borders directly with the European powers present</li><li class="mcq-opt">The conference declared the whole African continent neutral territory and formally ended imperialism there</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The Berlin Conference let European powers divide Africa among themselves to avoid fighting each other over territory, while no African representatives were invited or consulted. Options B and D both wrongly suggest the conference reduced or ended colonization, when it actually organized and accelerated it. Option C contradicts the reading's point that African peoples had no voice in the process.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, why did European nations sometimes claim colonies that cost more to administer than they earned in profit?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Colonial administrators were legally required to operate every single colony at a financial loss each year</li><li class="mcq-opt">European governments believed every unprofitable colony would turn a profit again within just one year</li><li class="mcq-opt">Christian missionaries pressured reluctant governments into acquiring colonies regardless of any cost</li><li class="mcq-opt">National prestige and the fear of falling behind rivals made empire feel necessary even when it lost money</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that nationalism made empire feel politically necessary, a great nation needed a great empire, even when a colony cost more to administer than it earned. Option A misstates this as a legal requirement rather than a political pattern. Options B and C aren't given anywhere in the reading as explanations for this pattern.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What role did Christian missionaries play in the ideology of imperialism, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They uniformly opposed imperialism because empire directly conflicted with their own religious teachings</li><li class="mcq-opt">Most European governments banned Christian missionaries from operating in any of their colonized territories</li><li class="mcq-opt">They believed empire opened doors for spreading Christianity, and their schools and hospitals spread influence too</li><li class="mcq-opt">They focused entirely on undermining the authority of colonial governments that protected their own missions</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Missionaries believed empire created opportunities to spread Christianity, and the schools and hospitals they built also extended European influence, even though some missionaries genuinely opposed specific colonial abuses. Options A and D overstate missionary opposition to empire, most missionaries didn't question the underlying assumption that Christianizing people was beneficial. Option B is not supported by the reading at all.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following is NOT one of the four ideologies the reading identifies as justifying nineteenth-century imperialism?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Social Darwinism, the idea that stronger races and nations were naturally destined to dominate weaker ones</li><li class="mcq-opt">Free trade economic theory, the idea that removing tariffs alone would justify and drive imperial expansion</li><li class="mcq-opt">Nationalism, the idea that a great nation needed a great empire to maintain its prestige among rivals</li><li class="mcq-opt">Religious conversion, the missionary belief that empire opened doors for spreading Christianity abroad</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading identifies four ideologies that justified imperialism: Social Darwinism, the civilizing mission, nationalism, and religious conversion. Free trade economic theory is not one of the four the reading discusses in this topic, even though economic motives appear elsewhere in the course. Options A, C, and D are all explicitly named as the ideologies covered here.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -942,6 +1068,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="6.1" data-advance-next="6-2.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="6.1">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

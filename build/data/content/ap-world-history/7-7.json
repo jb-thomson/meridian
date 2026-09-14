@@ -95,6 +95,85 @@
       "answer": "Strategic bombing of civilians follows directly from total war logic. If the enemy's entire economy is directed toward war production, and if that economy requires civilian workers, then targeting civilian industrial workers is militarily rational by total war reasoning. Destroying a munitions factory and killing the workers inside it both reduce enemy military capacity. The \"area bombing\" strategy (used by Britain against Germany, and the U.S. against Japan) went further: it deliberately targeted civilian residential areas to destroy morale and provoke civilian pressure on governments to surrender. This represents the complete dissolution of the civilian/combatant distinction that traditional laws of war attempted to maintain. Total war logic, if you need to mobilize your entire society, the enemy's entire society is a legitimate target, produces strategic bombing as an almost inevitable conclusion. The atomic bomb was the logical endpoint of this reasoning: one weapon to destroy one entire city."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, what made WWII distinctive compared to other conflicts in human history?",
+      "options": [
+        "It was the first conflict in history fought exclusively between fully industrialized nations, with no non-industrial armies involved",
+        "It was the deadliest conflict in human history, killing an estimated 70-85 million people, most of them civilians",
+        "It was the first war in which women served in any military or war-support role in any country",
+        "It was the first war in which any government asked citizens to ration food, fuel, or other consumer goods"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading opens by calling WWII the deadliest conflict in human history, killing 70-85 million people, most of them civilians. The other options describe things that were not new to WWII: industrialized warfare, rationing, and women serving in war-related roles had all appeared earlier, including in WWI."
+    },
+    {
+      "question": "According to the reading, what method of mobilizing for war did both democratic and totalitarian powers use during WWII?",
+      "options": [
+        "All major powers relied exclusively on volunteer soldiers and never introduced any form of mandatory conscription",
+        "All major powers avoided rationing food, fuel, or consumer goods in order to preserve civilian morale",
+        "All major powers avoided recruiting soldiers or laborers from their colonies to keep war production purely domestic",
+        "All major powers relied on conscription, industrial mobilization, propaganda, and recruiting women into the workforce"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading lists conscription, industrial mobilization, women entering the workforce, rationing, propaganda, and colonial mobilization as methods shared by all major belligerents, democratic and totalitarian alike. The other options each directly contradict something the reading describes."
+    },
+    {
+      "question": "How did Stalin's USSR enforce military discipline on the Eastern Front, according to the reading?",
+      "options": [
+        "Order 227 stationed NKVD units behind the front lines to shoot soldiers who retreated without orders",
+        "Soviet commanders offered large financial bonuses to any soldier who volunteered to advance ahead of schedule",
+        "The Soviet government quietly negotiated a local ceasefire with Germany to reduce fighting along that front",
+        "Soviet field commanders were given full authority to order a retreat whenever they judged it necessary"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading describes Order 227, Not One Step Back, which placed NKVD units behind Soviet lines with orders to shoot soldiers who retreated without permission. The other options describe the opposite of the coercive discipline the reading attributes to Stalin's USSR."
+    },
+    {
+      "question": "Why does the reading still describe Churchill's and Roosevelt's wartime leadership as democratic, despite their expanded wartime powers?",
+      "options": [
+        "Both leaders voluntarily resigned from office as soon as fighting in Europe came to an end",
+        "Both countries suspended their legislatures completely for the full duration of the war",
+        "Elections continued on schedule, and constitutional processes like congressional debate and a free press kept operating",
+        "Neither leader was ever publicly criticized for any wartime decision, since domestic press coverage was tightly restricted by both governments"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading notes that even in wartime, the US held elections in 1942 and 1944, Congress kept debating policy, and the press kept publishing criticism, showing constitutional limits stayed in place. None of the other options are supported by the reading."
+    },
+    {
+      "question": "What example does the reading give of a democratic government violating its own principles during WWII?",
+      "options": [
+        "Britain's decision to ration food and fuel for its civilian population throughout the war",
+        "The internment of 120,000 Japanese Americans in concentration camps without individual charges",
+        "The United States drafting 10 million men into military service after the attack on Pearl Harbor",
+        "Roosevelt's decision to hold a regularly scheduled presidential election in 1944 during wartime"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading specifically names the internment of 120,000 Japanese Americans as a violation of civil liberties that shows how wartime emergency powers can be abused even in democracies. The other options describe normal features of democratic wartime governance, not violations of it."
+    },
+    {
+      "question": "Why does the reading describe the atomic bomb as a \"qualitative leap\" in military technology?",
+      "options": [
+        "It was the first weapon of any kind used against a civilian population, something no earlier war had ever involved",
+        "It eliminated the need for any country to develop new military technology ever again after the war ended in 1945",
+        "It was developed independently and simultaneously by German, Japanese, and American scientists working in isolation",
+        "For the first time, one weapon could destroy an entire city, unlike earlier bombing that needed many aircraft and bombs"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading contrasts the atomic bomb with earlier strategic bombing, which needed many planes and bombs to destroy a city, and calls the bomb a qualitative leap because a single weapon could now do that damage. The other options aren't supported by the reading, which already describes earlier bombing of civilians and never claims the bomb ended future weapons development or was invented independently by several countries at once."
+    },
+    {
+      "question": "What connection does the reading draw between the Holocaust and the Manhattan Project?",
+      "options": [
+        "Many key Manhattan Project scientists, including Einstein and Szilard, were European Jews who had fled Nazi persecution",
+        "The Manhattan Project was originally created for the specific purpose of developing a weapon that would immediately stop the Holocaust",
+        "The Holocaust and the Manhattan Project were both formally prosecuted together as war crimes at Nuremberg",
+        "The atomic bomb was used first against Germany because of the Holocaust, before later being used on Japan"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading notes the irony that Hitler's persecution of Jews drove scientists like Einstein and Szilard out of Europe, and their knowledge helped produce the bomb that ended the war against Japan. The other options aren't supported by the reading; the bomb was used against Japan, which hadn't surrendered, not Germany, which already had."
+    }
+  ],
   "blocks": [
     {
       "type": "heading",

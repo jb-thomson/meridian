@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#2f6b4f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -309,6 +340,7 @@
 
 
 <div class="util-panel" data-util-panel="tldr" hidden>
+  
   
   <ul class="util-panel-list"><li>The production possibilities curve (PPC) shows every efficient combination of two goods when resources are fully employed. On the curve = efficient; inside = wasted resources; outside = currently impossible.</li><li>Opportunity cost is the value of the next best alternative given up - not all alternatives, just the single best one passed on.</li><li>Trade-offs are all the alternatives not chosen. Good decision-making requires thinking through them before committing - a decision grid helps.</li><li>Economic growth shifts the PPC outward through more resources, better capital, higher productivity, or greater investment in human capital (education and skills).</li><li>Division of labor and specialization dramatically boost productivity but create economic interdependence - people rely on each other for almost everything.</li><li>Cost-benefit analysis: if expected benefits exceed expected costs, the action makes economic sense.</li></ul>
   
@@ -836,6 +868,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="economics" data-complete-num="1.2" data-advance-next="1-3.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="economics" data-questions-num="1.2">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

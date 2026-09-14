@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#2f6b4f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -310,6 +341,7 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  
   <ul class="util-panel-list"><li>Capitalism spread because price signals automatically coordinate supply and demand in ways no planning office can replicate. Command economies producing the wrong things in the wrong quantities could not compete.</li><li>Transitioning to capitalism requires privatization (moving state property to private owners), adjusting to new incentives, and surviving short-term economic pain before long-term gains arrive.</li><li>The Soviet Union collapsed in 1991 after decades of command-economy failures. Russia's 1990s transition was chaotic and painful; politically connected insiders captured much of the privatized wealth.</li><li>China kept Communist Party political control but introduced market reforms starting in 1978, producing the fastest sustained economic growth in history and lifting nearly a billion people out of poverty.</li><li>Eastern Europe transitioned rapidly after 1989 and most former Soviet bloc countries joined the European Union by 2007.</li><li>Capitalism looks different everywhere: South Korea used export-led growth, Singapore used targeted government investment, Sweden uses high taxes to fund a generous welfare state, Japan guides industry through government-business partnerships.</li><li>Every real economy is mixed. The ongoing debate is not whether to have some government involvement, but how much.</li></ul>
   
 </div>
@@ -443,7 +475,7 @@
 
   
     
-  <p>The dominant economic story of the past century is a global shift from command and socialist economies toward capitalism and market systems. It has not been smooth or uniform — countries moved at different speeds, held onto different pieces of their old systems, and arrived at very different versions of capitalism.</p>
+  <p>The dominant economic story of the past century is a global shift from command and socialist economies toward capitalism and market systems. It has not been smooth or uniform. Countries moved at different speeds, held onto different pieces of their old systems, and arrived at very different versions of capitalism.</p>
     
   
     
@@ -455,7 +487,7 @@
     
   
     
-  <p>The reason capitalism works so well at generating wealth comes down to prices. When buyers and sellers interact freely, prices carry information. A rising price signals that something is becoming scarce, and producers respond by making more of it without any government instruction. A falling price signals a surplus, and production slows. The Soviet Union was trying to set prices for roughly 25 million distinct products in the 1980s — no planning office can gather and act on what prices communicate automatically — producing chronic shortages of some goods and mountains of others nobody wanted.</p>
+  <p>The reason capitalism works so well at generating wealth comes down to prices. When buyers and sellers interact freely, prices carry information. A rising price signals that something is becoming scarce, and producers respond by making more of it without any government instruction. A falling price signals a surplus, and production slows. The Soviet Union was trying to set prices for roughly 25 million distinct products in the 1980s. No planning office can gather and act on what prices communicate automatically, so the result was chronic shortages of some goods and mountains of others nobody wanted.</p>
     
   
     
@@ -642,7 +674,7 @@
     
   
     
-  <p>The global shift toward capitalism and market economies is still unfinished. China has liberalized its economy enormously while keeping political control. Russia moved toward markets and then partially reversed course. No country has found the perfect formula. The South Korea, Singapore, Sweden, and Japan examples above show just how different "capitalism" can look while still being called that — and that debate sits at the center of democratic politics in every country, including the United States.</p>
+  <p>The global shift toward capitalism and market economies is still unfinished. China has liberalized its economy enormously while keeping political control. Russia moved toward markets and then partially reversed course. No country has found the perfect formula. The South Korea, Singapore, Sweden, and Japan examples above show just how different "capitalism" can look while still being called that, and that debate sits at the center of democratic politics in every country, including the United States.</p>
     
   
     
@@ -857,6 +889,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="economics" data-complete-num="1.4" data-advance-next="1-5.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="economics" data-questions-num="1.4">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

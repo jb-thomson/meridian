@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Causation skill: not just what happened, but why:</strong> The AP exam tests causation at multiple levels: identifying causes, explaining the mechanisms connecting cause and effect, distinguishing proximate (immediate) from deeper structural causes, and ranking causes by relative importance. Topic 7.9 is about practicing this skill across the entire unit. <strong>Three levels of causation in Unit 7:</strong> (1) <em>Structural</em>: industrialization created military-technological gaps; imperial competition created great-power tensions; nationalism undermined multi-ethnic empires. (2) <em>Political</em>: alliance systems, appeasement, totalitarian regimes. (3) <em>Individual</em>: specific decisions by specific leaders (Hitler's blank check, Stalin's Five Year Plans, Churchill's refusal to negotiate with Hitler). Strong AP essays explain causation at all three levels. <strong>The WWI–WWII causal chain is the most important synthesis:</strong> WWI's unsatisfactory outcome (Versailles) directly caused the conditions for WWII: German resentment → Nazi rise → fascist expansion → WWII. This is the clearest causal chain in AP World History and appears frequently on LEQ and SAQ prompts about "continuity and change" across the first half of the 20th century. <strong>Technology as a recurring cause of change in Unit 7:</strong> Industrial technology enabled total war (machine guns, tanks, gas in WWI; strategic bombing, atomic bomb in WWII); communication technology enabled propaganda at scale; transportation technology (railways) enabled both industrial mobilization and Holocaust logistics. Rapid science and technology is a KC-6.1 theme, connect it to specific Unit 7 examples for essay questions.</li></ul>
   
 </div>
@@ -708,6 +742,86 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What is the AP exam's "causation" skill primarily asking students to do, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Memorize as long a list of separate causes of a historical event as a student possibly can</li><li class="mcq-opt">Describe historical events strictly in the chronological order in which they actually happened</li><li class="mcq-opt">Identify causes, explain the mechanisms linking them to outcomes, and rank causes by importance</li><li class="mcq-opt">Focus only on the single immediate trigger of an event while ignoring any deeper underlying causes</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading defines the causation skill as identifying causes, explaining the mechanisms linking cause and effect, and ranking causes by relative importance, not just listing or narrating them. The other options each describe only part of the skill, or a different skill entirely.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what are the three levels of causation used to analyze Unit 7 events?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Structural, political, and individual</li><li class="mcq-opt">Economic, military, and diplomatic</li><li class="mcq-opt">Local, national, and international</li><li class="mcq-opt">Short-term, medium-term, and long-term</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading lists structural causes (like industrialization and imperial competition), political causes (like alliance systems and appeasement), and individual causes (specific leaders' decisions) as the three levels. The other answer choices are not the framework the reading uses.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does the reading identify as the most important causal chain connecting WWI and WWII?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Both wars were caused primarily by long-standing disputes over colonial territory located in Africa</li><li class="mcq-opt">Both wars began in the exact same way, with one specific country invading Poland first in each case</li><li class="mcq-opt">Both wars were fought using nearly identical military technology and weapons on nearly every front</li><li class="mcq-opt">WWI's outcome at Versailles directly created the German resentment that fed the Nazi rise and caused WWII</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading calls the direct chain from WWI's outcome at Versailles to German resentment, Hitler's rise, and fascist expansion the clearest causal chain in AP World History. The other options are not claims the reading makes.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading's framework for ranking causes, what should a strong essay do after making a specific, ranked claim about which cause mattered most?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Avoid mentioning any other possible causes so that the argument stays tightly focused</li><li class="mcq-opt">Address a counter-argument directly and then return to defend the original claim</li><li class="mcq-opt">List out every possible cause without ever evaluating which one was actually most significant</li><li class="mcq-opt">Simply restate the original claim word for word without adding any new supporting evidence</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading's five-step framework specifically calls for addressing a counter-argument in step four and then returning to the original claim in step five. The other options all describe the opposite of what a strong causation argument should do.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What point does the reading's example about the WWI armistice illustrate?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The armistice was actually signed only after all the fighting on the front had already stopped completely</li><li class="mcq-opt">The delay between the signing and the ceasefire was needed so the treaty could be translated into several languages</li><li class="mcq-opt">Roughly 11,000 men were killed or wounded between the signing and the ceasefire, for no real military purpose</li><li class="mcq-opt">German commanders refused to accept the armistice terms and kept fighting until the following day</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states the armistice was signed at 5:00 a.m. but not enforced until 11:00 a.m., and that roughly 11,000 casualties occurred in between as commanders kept ordering attacks that served no military purpose. The other options are not supported by the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How does the reading connect industrial technology to the causes of WWI and WWII?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Industrial weapons and organization made total war possible and far more lethal, though technology alone didn't cause either war</li><li class="mcq-opt">Technology alone is presented as the single cause that fully explains both wars, with no political explanation needed at all</li><li class="mcq-opt">The reading argues that WWI and WWII would have happened at exactly the same scale even without any industrial weapons at all</li><li class="mcq-opt">The reading argues technological change affected only the outcome of WWII, and had no real connection to the causes of WWI</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading calls technology a necessary but not sufficient cause: it enabled the destructiveness of both wars but still required political and ideological decisions on top of it. The other options all misstate this relationship.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -859,6 +973,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="7.9" data-advance-next="8-1.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="7.9">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

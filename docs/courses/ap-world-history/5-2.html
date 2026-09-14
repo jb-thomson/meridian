@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Key revolutions and their documents:</strong> American (1776): Declaration of Independence (Locke's natural rights); French (1789): Declaration of the Rights of Man (popular sovereignty, universal rights); Haitian (1791–1804): enslaved Haitians applied French revolutionary principles to demand their own freedom, the only successful slave revolution in history; Latin American (1810s–1820s): Bolívar's "Letter from Jamaica" laid out the case for independence. All drew on Enlightenment ideas but applied them in different contexts. Three forces combined: (1) Enlightenment ideas about natural rights and popular sovereignty gave rebels a philosophical justification; (2) nationalism, a new sense of shared identity based on language, religion, customs, or territory, gave people a reason to act together; (3) specific grievances (colonial taxes, autocratic kings, racial slavery) gave them an immediate reason to fight. The American Revolution inspired the French Revolution, which inspired the Haitian Revolution, which inspired Latin American independence movements, a chain reaction from 1776 to the 1820s. <strong>Nationalism beyond the Atlantic:</strong> Nationalism also drove movements that were not full revolutions: German and Italian unification (building states from fragmented regions), Balkan nationalism (breaking from Ottoman rule), Ottomanism (the Ottoman attempt to create a unifying identity to hold the empire together), and independence movements in the Philippines (Propaganda Movement), New Zealand (Maori nationalism), and Puerto Rico (writings of Lola Rodríguez de Tió). The pattern: nationalism could unite people to build states or to break from empires.</li></ul>
   
 </div>
@@ -819,6 +853,98 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How does the reading define nationalism?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The belief that people sharing a language, culture, history, or territory form a nation deserving self-rule</li><li class="mcq-opt">The belief that only a hereditary monarch can legitimately hold political power over a given territory</li><li class="mcq-opt">The belief that all political authority should be divided equally among competing religious institutions</li><li class="mcq-opt">The belief that a nation's wealth should be measured only by how much gold and silver it holds</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading defines nationalism as the idea that a shared language, culture, history, or territory makes a people a nation entitled to govern itself. (B), (C), and (D) describe unrelated political or economic ideas, not nationalism as the reading uses the term.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what made the Haitian Revolution different from the American and French Revolutions?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It was led by free men of property who mainly wanted greater representation within an existing government</li><li class="mcq-opt">It was led by enslaved people who overthrew their enslavers and established the first Black republic</li><li class="mcq-opt">It was resolved entirely through peaceful negotiation without any military conflict of any kind</li><li class="mcq-opt">It was organized and funded directly by the American government to weaken French colonial power</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading emphasizes that Haiti's revolution was led by enslaved people fighting for their basic freedom, unlike the American and French revolutions, which were led by free property-owning men. (A) describes the other two revolutions. (C) and (D) are not supported by the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What did Simón Bolívar argue in his "Letter from Jamaica," according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">That Spanish American colonists should remain loyal subjects of the Spanish crown forever</li><li class="mcq-opt">That Spanish Americans should adopt the exact same government structure as the United States</li><li class="mcq-opt">That Spanish Americans had a distinct identity and thus deserved their own self-government</li><li class="mcq-opt">That Spanish American independence should wait until Spain itself became a full democracy</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Bolívar argued that centuries of colonial life had produced a distinct Spanish American identity, neither fully Spanish nor fully indigenous, that justified self-governance. (A), (B), and (D) are not what his letter argues in the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How did German and Italian unification differ from the American and Haitian Revolutions, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">American independence broke a colony from an empire, while German unification joined states into one</li><li class="mcq-opt">Both movements were driven mainly by a shared desire to abolish slavery across their territories</li><li class="mcq-opt">German unification occurred through a mass popular uprising rather than diplomacy or war</li><li class="mcq-opt">American independence was achieved without any reference to Enlightenment ideas about self-rule</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading contrasts separatist revolutions, colonies breaking away from an empire, with the integrationist project of German and Italian unification, which joined fragmented states into single nations. (B), (C), and (D) all contradict details in the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why did the Ottoman government promote "Ottomanism" in the 19th century, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Because the sultan personally believed all ethnic and religious groups were naturally identical</li><li class="mcq-opt">Because European powers required it as a condition of continued trade with the empire</li><li class="mcq-opt">Because it wanted to eliminate its rural peasant population's need for local self-government</li><li class="mcq-opt">Because rising nationalism among its diverse peoples threatened to break the empire apart</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that Ottomanism was a response to nationalism among Greeks, Serbians, Bulgarians, and other subject peoples, an attempt to build a unifying identity that would hold the empire together. (A), (B), and (C) are not given as reasons in the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does the reading say about the Philippines' Propaganda Movement?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It initially sought equal rights and reform for Filipinos within the existing Spanish colonial system</li><li class="mcq-opt">It was led primarily by military officers who had already served in the Spanish colonial army</li><li class="mcq-opt">It used newspapers and novels, rather than armed force, to build support for its early goals</li><li class="mcq-opt">It shifted toward outright independence only after Spain refused to grant meaningful reforms</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that the Propaganda Movement, led by intellectuals like José Rizal, initially pursued reform and equal rights within Spanish rule rather than immediate independence. (B) is not supported. (C) and (D) are both true according to the reading but describe its methods and later shift, not its initial goal.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What happened after José Rizal's execution by Spanish authorities, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Spain immediately granted Philippine independence to avoid further embarrassment after his death</li><li class="mcq-opt">His death was quickly forgotten, and the reform movement he led lost nearly all of its influence</li><li class="mcq-opt">His execution turned him into a martyr and helped trigger the Philippine Revolution within months</li><li class="mcq-opt">The Spanish government publicly apologized for the execution and released all political prisoners</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that Rizal's execution backfired, making him a martyr and helping spark the Philippine Revolution against Spain within months of his death. (A), (B), and (D) all contradict what the reading describes.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -1001,6 +1127,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="5.2" data-advance-next="5-3.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="5.2">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

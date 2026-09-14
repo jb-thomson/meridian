@@ -373,6 +373,96 @@
       "modelAnswer": "The ulama, Islamic religious scholars, provided institutional continuity that no political ruler could supply across the entire Islamic world. Operating through mosques, madrasas, and sharia courts, the ulama applied consistent Islamic legal and theological principles in Cairo, Delhi, Timbuktu, and Malacca simultaneously. Their authority derived not from any caliph's appointment but from their mastery of Islamic texts and community recognition. The Arabic language (fixed by the Quran's unchanging text) gave scholars a shared medium across three continents. A Muslim merchant traveling from West Africa to Southeast Asia could find Islamic courts applying recognizable legal principles and Islamic institutions providing familiar community structures. This coherence, not political unity, was what gave Dar al-Islam its distinctive identity as a civilization."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "What happened to the Abbasid Caliphate's real political power by the 10th century, even though the caliph remained in place?",
+      "options": [
+        "The caliph gained direct control over more territory as neighboring rulers submitted to Baghdad",
+        "The caliphate was formally abolished and replaced by an elected council of provincial governors",
+        "The Abbasid capital moved from Baghdad to Cairo to escape a series of internal uprisings",
+        "Real power passed to regional dynasties, leaving the caliph as a mostly symbolic figurehead"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes provincial governors becoming effectively independent and the Buyids controlling Baghdad by 945 CE while keeping the Sunni caliph as a religious figurehead. The caliphate was not abolished, and Baghdad, not Cairo, remained its symbolic center until the Mongols destroyed it in 1258. The caliph's territory shrank in practice, it did not grow."
+    },
+    {
+      "question": "Why did the Seljuk Turks' capture of Baghdad in 1055 matter, according to the reading?",
+      "options": [
+        "They ended Sunni Islam in Baghdad entirely by installing a Shia caliph in its place",
+        "They abolished the position of caliph altogether and ruled the empire under their own title",
+        "They kept the Abbasid caliph as a figurehead while holding the empire's real political power",
+        "They quickly converted to Christianity in order to form an alliance with the Byzantine Empire"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading says the Seljuks took Baghdad, rescued the caliph from his Persian captors, and governed in his name while running the empire themselves, maintaining the fiction of Abbasid authority. They remained Sunni Muslims, did not abolish the caliphate, and never converted to Christianity."
+    },
+    {
+      "question": "What made the Mamluk Sultanate historically unusual as a political system, according to the reading?",
+      "options": [
+        "Its rulers came from a class of enslaved soldiers purchased as children and trained as elite cavalry",
+        "Its rulers were hereditary nobles who claimed direct descent from the Prophet Muhammad's family",
+        "Its territory was jointly ruled by Christian and Muslim co-rulers who held exactly equal power",
+        "It was the only Islamic state in this period that formally and openly rejected sharia law"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that mamluk means owned, and that these enslaved soldiers, often generals under Abbasid practice, eventually seized power themselves in Egypt in 1250. This was not a hereditary noble dynasty, a joint Christian-Muslim government, or a state that rejected sharia, none of that is in the reading."
+    },
+    {
+      "question": "What was significant about the Mamluk victory at the Battle of Ain Jalut in 1260?",
+      "options": [
+        "It marked the final destruction of the last remaining Abbasid territory located in Egypt",
+        "It was the first time a Mongol army was decisively defeated in open battle, halting its advance west",
+        "It reunified all four of the Mongol khanates under a single ruler who had converted to Islam",
+        "It permanently ended the trans-Saharan gold trade that had helped fund Mongol military campaigns"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading calls Ain Jalut the first time a force decisively defeated a Mongol army in open battle, stopping the westward Mongol advance and earning Mamluk Egypt enormous prestige. It did not destroy remaining Abbasid territory, reunify the khanates, or involve trans-Saharan trade, which the reading discusses elsewhere as a separate West African topic."
+    },
+    {
+      "question": "According to the reading, what made Sufi missionaries especially effective at spreading Islam into regions no Islamic army had reached?",
+      "options": [
+        "They required local rulers to abolish every existing custom immediately before allowing conversion",
+        "They relied mainly on the threat of military conquest whenever local rulers refused to convert",
+        "They built personal relationships and accommodated local customs rather than demanding immediate change",
+        "They offered new converts tax exemptions that were funded directly by the Abbasid treasury itself"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading says Sufi missionaries established personal relationships, incorporated local musical and poetic traditions, and introduced Islamic theology gradually, making Islam feel familiar rather than foreign. This is nearly the opposite of demanding immediate change or relying on conquest, and the reading does not mention Abbasid-funded tax exemptions."
+    },
+    {
+      "question": "What role did the ulama play in holding Dar al-Islam together despite its political fragmentation?",
+      "options": [
+        "They commanded the only standing army available to enforce the authority of the caliph",
+        "They collected all regional trade taxes and redistributed the revenue equally among states",
+        "They replaced regional rulers directly whenever a dynasty grew too politically weak to rule",
+        "They provided consistent religious and legal authority through mosques, courts, and schools"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading says the ulama gave Dar al-Islam what no political ruler could: consistent religious authority through mosques, sharia courts, and madrasas that a merchant would recognize whether traveling to Cairo, Delhi, or Malacca. The ulama had no army, did not manage trade tax revenue, and did not appoint or remove rulers."
+    },
+    {
+      "question": "Why didn't the Mongol destruction of Baghdad in 1258 end Islam as a religion or culture?",
+      "options": [
+        "Islam had already spread through trade, Sufi orders, and legal institutions across many regions",
+        "The Mongols secretly continued funding the Abbasid Caliphate from a hidden capital in Persia",
+        "The Mamluks immediately rebuilt the entire city of Baghdad to its former size within a decade",
+        "European Crusader armies intervened militarily to protect the remaining Islamic institutions"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading argues that by 1258 Islam had become self-sustaining through merchant networks, scholarly institutions, Sufi orders, and legal frameworks, and no longer needed the Abbasid Caliphate to survive. It even notes the Mongols who destroyed Baghdad later converted to Islam themselves. Nothing in the reading supports a hidden Abbasid capital, a quick rebuilding of Baghdad, or Crusader intervention."
+    },
+    {
+      "question": "Which of the following is NOT one of the contributions of Islamic scholars described in the reading?",
+      "options": [
+        "Al-Khwarizmi developed algebra as a systematic discipline and helped introduce Hindu-Arabic numerals",
+        "Al-Biruni built the first practical mechanical clock that was powered by a steady flow of water",
+        "Ibn Sina wrote the Canon of Medicine, which was used in European universities until the 17th century",
+        "Ibn Rushd's commentaries on Aristotle went on to influence major medieval European philosophers"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading credits al-Biruni with traveling to India and producing a detailed comparative study of Indian culture, religion, science, and geography, not with building a mechanical clock, which the reading never mentions. Al-Khwarizmi's algebra, Ibn Sina's Canon of Medicine, and Ibn Rushd's commentaries on Aristotle are all directly described in the reading."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

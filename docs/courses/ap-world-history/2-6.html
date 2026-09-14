@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: LO: Environmental effects of trade network growth:</strong> Trade networks carried far more than goods: the Black Death (Bubonic Plague) spread westward along Mongol trade routes starting in the 1340s, killing an estimated 30–60% of Europe's population and triggering profound social, economic, and religious upheaval. The Black Death is the AP exam's primary example of a negative environmental consequence of connectivity. It was caused by the same routes that brought commercial prosperity. <strong>LO: How environment shaped trade patterns:</strong> The physical environment determined where trade routes ran. Monsoon winds created the Indian Ocean trade calendar (2.3). Deserts forced overland routes through oases and gave rise to the caravanserai system. The Little Ice Age (c. 1300–1850) cooled global temperatures, disrupted agriculture, and weakened populations, making already-strained societies more vulnerable to the plague that arrived within decades. Environment was not a passive backdrop; it was an active shaper of how, where, and when trade happened. <strong>Key cause-and-effect chain to know:</strong> Pax Mongolica (political stability) → more trade → more merchant movement → rats and fleas traveling on caravans → Black Death → 30–60% of Europe dead → labor shortage → rising wages → weakening of feudal system → questioning of church authority. This chain from trade policy to social revolution is exactly the kind of multi-step causation the AP exam rewards.</li></ul>
   
 </div>
@@ -645,7 +679,7 @@
     
   
     
-  <p>Numbers like "30–60% of Europe's population" are hard to grasp in the abstract. Let's make it concrete: Florence, Italy went from approximately 100,000 inhabitants before the plague to perhaps 45,000 afterward. Venice lost over half its population. Some English villages were abandoned entirely, their surviving inhabitants simply walked away. Entire monastic communities died to the last monk.</p>
+  <p>"30–60% of Europe's population" means Florence, Italy went from approximately 100,000 inhabitants before the plague to perhaps 45,000 afterward. Venice lost over half its population. Some English villages were abandoned entirely, their surviving inhabitants simply walked away. Entire monastic communities died to the last monk.</p>
     
   
     
@@ -801,6 +835,98 @@
 </div>
 
 
+
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, where did the Black Death most likely originate?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">In crowded Mediterranean port cities, only later spreading eastward into Central Asia</li><li class="mcq-opt">In Central Asia, likely near the Tian Shan mountains, based on mass graves dated to 1338 and 1339</li><li class="mcq-opt">In the Mongol Empire's own imperial capital, where it reportedly struck the royal court first</li><li class="mcq-opt">In the city of Genoa itself, carried by rats that lived inside the city's grain warehouses</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading points to mass graves found in the Tian Shan region of modern Kyrgyzstan dated to 1338 to 1339, nearly a decade before the European outbreak, as strong evidence of where the plague first exploded. It did not begin in Mediterranean ports, the Mongol capital, or Genoa, all of which the disease reached later as it traveled west.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What happened at the siege of Caffa in 1346, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Genoese defenders inside the besieged city of Caffa discovered a cure that stopped the plague's spread</li><li class="mcq-opt">The Mongol army gave up and completely abandoned its siege before any soldiers became infected at all</li><li class="mcq-opt">The plague actually started among Genoese sailors first, and then spread outward to the Mongol army</li><li class="mcq-opt">Mongol forces catapulted plague infected corpses over the walls, and fleeing ships may have spread it on</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes Mongol forces besieging Caffa catapulting the bodies of plague victims over the walls, and Genoese ships fleeing the city may have carried the infection to Mediterranean ports. There was no cure discovered, the siege was not abandoned before infection struck, and the disease reached the Mongol camp first, not the other way around.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, how did the Black Death affect labor and wages in Europe?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Massive population loss made surviving workers scarce, so wages rose and feudal ties weakened</li><li class="mcq-opt">Wages fell sharply across the economy because there was much less demand for goods and services</li><li class="mcq-opt">Feudal lords actually gained more legal power over the peasants who managed to survive</li><li class="mcq-opt">Labor shortages had little real effect on wages because existing laws kept them fixed</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">With roughly half the workforce dead, the reading explains that surviving laborers became valuable, wages rose, and serfdom weakened as landlords competed for workers. This is the opposite of wages falling or lords gaining more power, and the reading describes wages rising despite any attempts to fix them by law.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What role did the Little Ice Age play in the severity of the Black Death, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It delayed the plague's arrival in Europe by several decades longer than it otherwise would have</li><li class="mcq-opt">It made the plague bacterium itself considerably less deadly than it would otherwise have been</li><li class="mcq-opt">It caused famine that weakened populations before the plague arrived, making them more vulnerable</li><li class="mcq-opt">It had no meaningful connection at all to how severe the plague eventually turned out to be</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading connects the Little Ice Age's cooler temperatures to the Great Famine of 1315 to 1322, which left populations malnourished and immunologically weakened by the time the plague arrived in 1347. It did not delay the plague's arrival, did not change the bacterium's lethality, and the reading is explicit that the two crises were connected, not unrelated.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, how did the plague affect religious authority in Europe?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It strengthened the church's authority overall, because people prayed and attended services far more often</li><li class="mcq-opt">Priests dying at the same rate as everyone else led many to question the church's power</li><li class="mcq-opt">It caused a sudden and permanent collapse of Christianity across the whole of Europe by the year 1400</li><li class="mcq-opt">It directly and single-handedly caused the Pope to move the papacy from Rome to the city of Avignon</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that priests and bishops died just as often as ordinary people, and prayers seemed to provide no protection, which planted seeds of religious skepticism that later fed into the Protestant Reformation. This weakened confidence in the church rather than strengthening it, did not cause Christianity to collapse outright, and the papacy's move to Avignon is not presented as a result of the plague.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, which of the following is an example of ecological exchange along trade routes besides disease?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Sugar cane spreading westward from Southeast Asia into the Mediterranean world</li><li class="mcq-opt">Camels being introduced to the Sahara Desert for the very first time during this period</li><li class="mcq-opt">Horses being fully domesticated for the very first time anywhere in Central Asia</li><li class="mcq-opt">Gunpowder being invented in China for the very first time during the 14th century</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading names sugar cane spreading from Southeast Asia to the Mediterranean via Arab merchants as an example of a new crop moving along trade routes. Camels were already used on Saharan routes well before this period, horse domestication happened centuries earlier, and gunpowder's invention is a Chinese technology story, not an example of ecological exchange.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, which of the following is an example of environment shaping trade routes, rather than trade affecting the environment?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Rats traveling on merchant caravans spread disease into cities located along the routes</li><li class="mcq-opt">Sugar cane cultivation spread from Southeast Asia all the way to the Mediterranean world</li><li class="mcq-opt">New farming techniques changed land use patterns near growing trading cities over time</li><li class="mcq-opt">Monsoon winds turned the Indian Ocean into a seasonal highway that shaped when ships could sail</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading frames monsoon winds as an example of environment shaping trade, since sailors had to plan their voyages around the wind's seasonal reversal rather than the other way around. The other three options are all examples of trade affecting the environment, moving disease, crops, and farming techniques outward along established routes.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
 
 
 
@@ -984,6 +1110,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="2.6" data-advance-next="2-7.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="2.6">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

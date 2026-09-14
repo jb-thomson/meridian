@@ -81,6 +81,85 @@
       "answer": "Because it covers the structural context and conditions that made the Cold War and decolonization possible, not the events themselves. Like a movie's opening scene, it establishes the world after WWII: US and Soviet power, exhausted European empires, raised expectations among colonial peoples, and a new ideological divide. Without this context, it's hard to understand WHY the Cold War happened, WHY decolonization accelerated, or WHY events unfolded as they did. On the AP exam, \"contextualization\" points often come from exactly this type of broad framing."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, what specifically allowed the United States to emerge from WWII as the world's dominant economic power?",
+      "options": [
+        "The United States had the single largest total population of any of the Allied powers fighting in the war",
+        "The US mainland was untouched by bombing, and its factories ran at full capacity, producing about 50% of world output",
+        "The United States received large reparations payments from both Germany and Japan immediately after the war ended",
+        "The United States had already been the single wealthiest and most industrially advanced nation on Earth well before WWII even began"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading credits the US mainland being untouched by bombing and its factories running at full capacity throughout the war for producing roughly 50% of world industrial output by 1945. The other options are not reasons the reading gives."
+    },
+    {
+      "question": "Despite suffering an estimated 26 million deaths in WWII, what allowed the Soviet Union to also emerge as a superpower, according to the reading?",
+      "options": [
+        "Extensive economic and military aid that it received from the United States in the years right after the war ended",
+        "Its deliberate strategic decision to avoid almost any direct combat against Nazi Germany's forces for nearly the entire war",
+        "A postwar peace treaty that formally and permanently gave it control over most of Western Europe's territory",
+        "Its rapid industrialization in the 1930s, which produced the world's largest and most battle-hardened military by war's end"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading credits the USSR's rapid 1930s industrialization and its resulting large, battle-hardened Red Army for its emergence as a superpower despite catastrophic losses. The other options are not supported by the reading."
+    },
+    {
+      "question": "Why were Britain, France, and the Netherlands unable to hold onto their colonial empires as easily after WWII as they had after WWI, according to the reading?",
+      "options": [
+        "They were financially ruined, having borrowed heavily or endured years of occupation, and could no longer afford empire by force",
+        "The United Nations formally stripped them of every colonial territory as a strict condition of the postwar peace",
+        "Their colonies had already become fully self-governing independent nations well before the war itself had even ended",
+        "The Soviet Union militarily invaded and forcibly occupied nearly all of their remaining colonial territories immediately after 1945"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading states these powers were financially ruined, Britain had borrowed heavily from the US and France had been occupied for four years, and could no longer sustain their global empires. The other options describe events the reading does not mention."
+    },
+    {
+      "question": "What happened to Ho Chi Minh's appeal for Vietnamese self-determination at the Paris Peace Conference after WWI, according to the reading?",
+      "options": [
+        "It was granted, and Vietnam received a limited degree of self-government under continued French oversight",
+        "It led to a lengthy formal debate about colonial policy inside the newly created League of Nations",
+        "It was ignored, since European powers kept their own colonies firmly under control despite Wilson's rhetoric",
+        "It succeeded, but only after Ho Chi Minh threatened an armed uprising against continued French rule"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading states that leaders like Ho Chi Minh attended the Paris Peace Conference hoping to petition for independence but were ignored, since the victorious powers kept their own colonies under control. The other options are not supported by the reading."
+    },
+    {
+      "question": "What was the Atlantic Charter (1941), and why did it matter for colonial independence movements, according to the reading?",
+      "options": [
+        "A military alliance between the US and Britain guaranteeing full independence to all Asian colonies within ten years",
+        "A joint declaration by FDR and Churchill pledging self-determination for all peoples, a pledge colonial movements cited constantly",
+        "A United Nations resolution passed specifically and formally to bring an immediate and permanent end to the entire British Empire",
+        "A secret agreement between the US and the USSR to secretly divide up all colonial territories once the war had finally ended"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading describes the Atlantic Charter as a joint FDR-Churchill declaration pledging the right of all peoples to choose the form of government under which they will live, a document colonial peoples cited constantly in their independence campaigns. The other options are not accurate descriptions given in the reading."
+    },
+    {
+      "question": "According to the reading, what expectation did colonial soldiers who served in WWII bring home with them?",
+      "options": [
+        "An expectation that they would be granted full citizenship in the colonial power's home country",
+        "An expectation that colonial governments would relocate their capital cities to entirely new locations",
+        "An expectation of financial compensation exactly equal to what European soldiers received",
+        "An expectation that their wartime service would be rewarded with greater rights or independence"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading states that colonial soldiers returned with the expectation that their service would be rewarded with greater rights or independence, especially after the Atlantic Charter's promises. The other options are not mentioned in the reading."
+    },
+    {
+      "question": "What is the main reason the reading gives for why decolonization accelerated after WWII but not after WWI?",
+      "options": [
+        "After WWI, colonial powers had already granted full and lasting independence to most of their overseas territories",
+        "After WWII, the United Nations legally required every remaining colonial power to grant independence immediately",
+        "After WWII, colonial powers were financially exhausted, soldiers expected rewards, and both superpowers opposed colonialism",
+        "After WWII, colonial peoples organized resistance to imperial rule for the very first time in their history"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that after WWII, exhausted colonial powers, veteran soldiers' expectations, stronger nationalist movements, and rhetorical superpower support for decolonization combined in ways that hadn't existed after WWI. The other options are all contradicted by the reading, which describes WWI-era appeals being ignored and nationalist movements having organized for decades beforehand."
+    }
+  ],
   "blocks": [
     {
       "type": "heading",

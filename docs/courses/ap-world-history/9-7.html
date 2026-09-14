@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Globalization generated resistance:</strong> As economic and cultural globalization intensified in the late 20th century, it generated powerful pushback from multiple directions: labor unions who lost jobs, communities who felt culturally threatened, nations whose sovereignty felt constrained, and activists who believed global institutions served corporate interests over people. <strong>Anti-IMF/World Bank activism challenged economic globalization:</strong> The International Monetary Fund (IMF) and World Bank required developing nations to adopt free-market "structural adjustment" policies in exchange for loans, often cutting social services and opening markets. Anti-globalization activists argued these policies harmed the poor and served wealthy nations' interests, leading to protests at international summits worldwide. <strong>Local social media challenged Western digital dominance:</strong> China's development of Weibo (a social media platform) instead of allowing Facebook and Twitter represents both state censorship and cultural/technological resistance to Western digital colonization. Other regions also developed local platforms, demonstrating that even digital culture was contested territory. <strong>Resistance took many forms:</strong> From street protests to tariff policies to local social media platforms to religious fundamentalism, resistance to globalization ranged from peaceful activism to violent rejection. These responses illustrated that globalization was not inevitable or universally welcomed. It was a contested process with genuine winners and losers.</li></ul>
   
 </div>
@@ -730,6 +764,98 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, which of the following best describes the variety of responses to globalization?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Responses took a variety of forms: activism against global institutions and locally built alternative platforms</li><li class="mcq-opt">Most responses were violent street protests aimed specifically at international financial institutions and their leaders</li><li class="mcq-opt">Most resistance came mainly from environmental groups worried about climate change rather than economic inequality</li><li class="mcq-opt">Resistance was limited only to poorer developing nations that lacked resources to compete in the global economy</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that responses to globalization took a variety of forms, including anti-IMF/World Bank activism and locally developed alternatives like Weibo. (B) overstates violence. (C) misidentifies the primary concerns as purely environmental. (D) ignores resistance in wealthy nations, like the Seattle protests or French cultural protectionism.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why does the reading list anti-IMF and anti-World Bank activism as a response to economic globalization?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">These institutions had accidentally caused the 2008 global financial crisis through reckless international lending</li><li class="mcq-opt">Activists believed these institutions imposed policies that harmed the poor while serving wealthy-nation interests</li><li class="mcq-opt">The IMF and World Bank had refused outright to provide loans to any nation developing nuclear weapons programs</li><li class="mcq-opt">These institutions had been secretly controlled by the Soviet Union throughout the entire Cold War period</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Anti-IMF/World Bank activism centered on the critique that structural adjustment conditions, cutting social programs, privatizing services, opening markets, harmed the poor while benefiting foreign investors. (A) describes a different, later crisis. (C) and (D) are not supported by the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does China's development of Weibo as an alternative to Twitter illustrate, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It shows free-market competition naturally producing superior products compared to any Western alternative</li><li class="mcq-opt">It shows the spread of genuinely democratic communication platforms specifically within authoritarian states</li><li class="mcq-opt">It represents the response of locally developed social media to the pressures of increasing globalization</li><li class="mcq-opt">It shows how large multinational corporations spread consumer culture across the globe through advertising</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explicitly lists Weibo as an example of "locally developed social media" as a response to globalization, representing China's assertion of digital sovereignty. (A), (B), and (D) mischaracterize its significance in the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why did the 1999 WTO protests in Seattle unite such a diverse coalition of activists, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">All of the participants involved happened to come from developing nations directly harmed by unfair WTO trade rules</li><li class="mcq-opt">Every single participant present shared identical ideological beliefs about government's proper role in the economy</li><li class="mcq-opt">Participants had reportedly been organized by the Soviet Union specifically to undermine Western economic institutions</li><li class="mcq-opt">The WTO's policies drew opposition from labor, environmentalists, and development advocates who found common cause</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The Seattle protests united labor unions, environmentalists, and development advocates who each believed WTO policy harmed their own interests, forming an unexpected but genuine coalition. (B), (C), and (D) are all factually incorrect according to the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following represents cultural resistance to globalization that is consistent with the reading, even though it is not one of the CED's named examples?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">France requiring a minimum share of French-language content on television to protect its own cultural identity</li><li class="mcq-opt">The United States establishing the Federal Reserve system to regulate its own domestic banking sector</li><li class="mcq-opt">The World Trade Organization formally arbitrating trade disputes that arise between its various member nations</li><li class="mcq-opt">Bollywood continuing to produce popular films made specifically for audiences within India's domestic market</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading lists France's language content quotas as cultural protectionism, using government policy to protect local culture from foreign dominance. (B) is domestic monetary policy. (C) is a globalization institution, not resistance to it. (D) is cultural production, not resistance.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does the reading mean by 'alternative globalization' as a response to globalization's critics?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A movement calling for reversing globalization entirely and returning the world to closed national economies</li><li class="mcq-opt">An effort to make globalization fairer through fair trade, debt cancellation, and stronger labor standards</li><li class="mcq-opt">A plan by the IMF and World Bank to expand structural adjustment programs into many more countries</li><li class="mcq-opt">A proposal to formally replace the United Nations with an entirely new global governing body structure</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes alternative globalization as an effort to make globalization fairer rather than reverse it, through fair trade, debt cancellation, and stronger labor and environmental standards. (A), (C), and (D) are not supported by the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following was NOT listed in the reading as a form of resistance to globalization?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Economic protectionism, such as tariffs and subsidies meant to protect a nation's own domestic industries</li><li class="mcq-opt">Religious revivalism, as movements worldwide reacted strongly against secular Western consumer values</li><li class="mcq-opt">A global tax on multinational corporations imposed and directly collected by the United Nations itself</li><li class="mcq-opt">Nationalist populism, as political movements built support by opposing deeper international economic integration</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading never mentions any UN-administered global tax on corporations. (A), (B), and (D) are all forms of resistance the reading directly lists.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -876,6 +1002,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="9.7" data-advance-next="9-8.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="9.7">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

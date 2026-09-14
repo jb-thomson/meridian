@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#2f6b4f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -309,6 +340,7 @@
 
 
 <div class="util-panel" data-util-panel="tldr" hidden>
+  
   
   <ul class="util-panel-list"><li>Scarcity forces every choice to carry an opportunity cost, the next-best alternative given up. Utility and scarcity together determine value.</li><li>Every real economy is mixed. Traditional, command, and market systems are models; actual economies blend elements of all three.</li><li>Budget from net income. Follow 50/30/20: 50% needs, 30% wants, 20% savings and debt repayment. Build an emergency fund before investing.</li><li>Compound interest rewards starting early above all else. Time in the market consistently outweighs the amount contributed.</li><li>Credit cards are short-term loans, free if paid monthly, expensive if you carry a balance. APR is the standardized cost of borrowing. FICO scores (300–850) affect loan rates, rentals, and insurance. Predatory lenders exploit borrowers with 300%+ effective APRs.</li><li>Inflation (tracked by the CPI) erodes purchasing power. Real return = nominal return minus inflation rate. Flexible exchange rates let supply and demand set currency values. Trade deficits self-correct through currency depreciation.</li></ul>
   
@@ -717,6 +749,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="economics" data-complete-num="1-review" data-advance-next="2-1.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="economics" data-questions-num="1-review">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

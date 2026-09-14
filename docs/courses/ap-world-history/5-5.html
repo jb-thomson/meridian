@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: The fossil fuels revolution:</strong> Before steam, humans relied on human muscle, animal power, water wheels, and windmills for energy. All of these were limited in power output and unpredictable. Coal-fired steam engines were the first energy source that could be (1) scaled up indefinitely, (2) used anywhere (not just near water), and (3) made more powerful on demand. Oil, discovered in Pennsylvania in 1859, added another fossil fuel that eventually powered the internal combustion engine, enabling automobiles and a new wave of industry in the 20th century. Two waves of industrial technology. First Industrial Revolution (c. 1760–1850): the steam engine (Watt's 1769 patent) ran on coal and powered factory machinery, mine pumps, and eventually locomotives. Coal replaced human muscle and animal power as the primary energy source for manufacturing. Second Industrial Revolution (c. 1850–1900): new materials and energy sources, cheap steel (Bessemer process, 1856), synthetic chemicals, electricity (Edison's light bulb 1879, electric motors), and precision machinery. The second wave expanded what industry could make and how efficiently it could make it. <strong>Railroads, steamships, and the telegraph:</strong> These three technologies connected the world in ways that had never been possible before. Railroads opened the interiors of continents to trade and settlement. Steamships made ocean voyages faster and more predictable. The telegraph (1837) enabled instant long-distance communication, the first time information could travel faster than a person. Together they shrank the world, enabled global trade and migration at new scales, and made imperial administration of distant territories practical.</li></ul>
   
 </div>
@@ -804,6 +838,110 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What limitation did the steam engine overcome that water wheels and animal power could not?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It could produce mechanical power on demand, at any scale, wherever coal could be delivered</li><li class="mcq-opt">It needed a dependable, fast-flowing river to operate, exactly like a traditional water wheel</li><li class="mcq-opt">It completely removed the need for any human workers to be employed inside a factory</li><li class="mcq-opt">It could only be installed and operated in coastal cities located near shipping ports</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that a steam engine could produce power on demand at any scale wherever coal could be delivered, freeing factories from needing to sit beside a river or rely on a horse's limited strength. The second option describes exactly the limitation the steam engine removed, not one it shared. Steam-powered factories still employed large numbers of workers, and nothing in the reading restricts steam power to coastal port cities.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why does the reading call coal and oil significant fuels for industrial power?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They were consistently cheaper to purchase than firewood in every region of the world</li><li class="mcq-opt">They stored millions of years of concentrated energy, far exceeding muscle, water, or wind power</li><li class="mcq-opt">They were the very first fuels that human societies ever learned how to burn for warmth</li><li class="mcq-opt">They could only be used to power oceangoing ships and railroad locomotives, not factories</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes fossil fuels as storing millions of years of concentrated solar energy, giving a single pound of coal more energy than a human worker could produce in a day. It never compares coal's price to firewood's price across regions, and humans burned wood for warmth long before fossil fuels existed. The reading describes coal powering factory machinery and mine pumps as well as ships and locomotives, not just transportation.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the main technological difference between the First and Second Industrial Revolutions, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The Second Industrial Revolution abandoned steam power entirely in favor of electric motors</li><li class="mcq-opt">The First Industrial Revolution occurred only in Britain, while the Second was global right from the start</li><li class="mcq-opt">The Second Industrial Revolution added new industries, steel, chemicals, electricity, onto steam and textiles</li><li class="mcq-opt">The First Industrial Revolution depended entirely on coal, while the Second relied only on oil</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes the Second Industrial Revolution opening entirely new industries, cheap steel, synthetic chemicals, electricity, and precision machinery, on top of the First's foundation of steam power and textiles. Electric motors supplemented steam power in factories rather than fully replacing it. Both revolutions were centered in similar regions, and coal remained central to steelmaking and steam power throughout the Second Industrial Revolution too.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What did the Bessemer process (1856) allow manufacturers to do?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Permanently weld iron and steel together without heating either material at all</li><li class="mcq-opt">Convert raw coal directly into usable electricity for powering entire factories</li><li class="mcq-opt">Recycle scrap iron back into coal that could then fuel steam engines and furnaces</li><li class="mcq-opt">Produce large quantities of steel quickly and cheaply by blowing air through molten iron</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that Henry Bessemer's converter blew air through molten iron to remove impurities, producing steel in about 20 minutes and cutting costs by roughly 80 to 90 percent. It had nothing to do with welding iron and steel together, converting coal into electricity, or turning iron back into coal, none of which appear in the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what was Thomas Edison's most significant achievement beyond inventing the light bulb?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Building the entire electric power distribution system needed to make electric lighting useful</li><li class="mcq-opt">Discovering that coal could be substituted for oil inside internal combustion engines</li><li class="mcq-opt">Inventing the electric telegraph and laying the first working transatlantic cable</li><li class="mcq-opt">Designing the Bessemer converter that was later used to mass-produce cheap steel</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading emphasizes that Edison also invented the meters, fuses, sockets, and switches, and built the Pearl Street power plant, the full system that made the light bulb practically useful, not just the bulb itself. The telegraph was developed separately by Samuel Morse, and the Bessemer converter was Henry Bessemer's invention. The reading never describes coal replacing oil in an internal combustion engine.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How did railroads change economic life within countries, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They eliminated the need for canals and rivers to move any goods whatsoever</li><li class="mcq-opt">They linked every region to every other, enabling specialization and truly national markets</li><li class="mcq-opt">They were used only to move passengers, never any raw materials or freight at all</li><li class="mcq-opt">They reduced the size of cities by making it easy for workers to live in the countryside</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that railroads connected regions regardless of whether they had navigable rivers, letting each region specialize in what it produced best and creating genuinely national markets for the first time. Canals and rivers remained in use for transport even after railroads spread. Railroads carried freight and raw materials as well as passengers, and the reading connects them to growing industrial cities, not shrinking ones.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why was the telegraph considered revolutionary, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It replaced steamships as the fastest available way to move cargo across oceans</li><li class="mcq-opt">It allowed ordinary citizens to cast votes in national elections from a distance</li><li class="mcq-opt">It was the first technology in history to separate communication from physical travel</li><li class="mcq-opt">It completely removed the need for railroads to coordinate their train schedules safely</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that the telegraph was revolutionary because it separated communication from physical travel for the first time, letting a message that once took weeks arrive in minutes. It moved information, not goods, so it did not replace steamships for cargo. It had nothing to do with voting, and the reading actually describes railroads and telegraphs developing together because trains needed telegraphs to coordinate schedules safely.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 8<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following is NOT one of the three technologies the reading credits with "shrinking the world" in the 19th century?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Railroads, which opened continental interiors to settlement and trade</li><li class="mcq-opt">Steamships, which made ocean voyages faster and far more reliable</li><li class="mcq-opt">The telegraph, which allowed instantaneous long-distance communication</li><li class="mcq-opt">The internal combustion engine, which powered early automobiles</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading names railroads, steamships, and the telegraph as the three technologies that did the most to shrink distance and connect the world in the 19th century. The internal combustion engine is discussed separately as a technology that enabled automobiles, powered by oil rather than coal, but it is not part of this specific trio.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -986,6 +1124,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="5.5" data-advance-next="5-6.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="5.5">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

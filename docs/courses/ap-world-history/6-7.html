@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Ethnic enclaves and diaspora communities:</strong> Migrants clustered together in urban neighborhoods for practical reasons: shared language, food, religion, and community support. These ethnic enclaves became culturally vibrant and economically self-sustaining. Chinese communities in San Francisco and Southeast Asia, Irish communities in Boston and New York, Italian communities in Buenos Aires and New York, Indian communities in Natal and Mauritius, all preserved cultural identities while adapting to new environments. KC-5.4.III.A. <strong>Gender and migration, women left behind:</strong> Most 19th-century labor migration was predominantly male: men left to find work, leaving women to manage households, farms, and children in sending communities. The CED (KC-5.4.III.B) notes that in many sending societies women had to take on new economic and social roles when men migrated. Remittances, money sent home by migrants, could transform family economic situations, but their irregular flow created financial uncertainty for families left behind. <strong>Nativism and immigration restriction:</strong> Large-scale immigration generated backlash in receiving societies, particularly when migrants were racially or culturally different from the majority. The most explicit examples are the Chinese Exclusion Act (U.S. 1882), the first U.S. law to restrict immigration based on race and nationality, and the White Australia Policy (1901), which explicitly restricted non-European immigration. KC-5.4.III.C. Anti-immigrant sentiment combined racial prejudice with economic anxiety about job competition. <strong>Cultural and demographic transformation:</strong> Migration transformed both sending and receiving societies. Receiving societies became more diverse in language, religion, food, and cultural practice. Sending societies were transformed by remittances (which funded economic development), returnees with new skills and ideas, and the demographic impact of losing working-age adults. These changes were uneven and contested, not all communities welcomed transformation.</li></ul>
   
 </div>
@@ -758,6 +792,98 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why did migrants such as the Chinese and Indian communities described in the reading often cluster together in ethnic enclaves rather than settle spread out through a new society?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They received practical support, such as shared language, jobs, and community protection from familiar neighbors</li><li class="mcq-opt">Receiving governments legally required every migrant to live inside officially designated ethnic districts</li><li class="mcq-opt">Ethnic enclaves formed purely by accident, since migrants had no real ability to choose where they lived</li><li class="mcq-opt">Enclaves formed because migrants planned to return home within months and saw no reason to integrate</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Ethnic enclaves formed because migrants gained real, practical benefits, shared language, jobs, and community support, from living near people from the same background. Government-mandated districts, described in option B, are not mentioned in the reading. Migrants actively chose to cluster together rather than ending up there by chance (option C), and many of these communities, like the Chinese in San Francisco, were permanent, not temporary (option D).</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, how did migration change many women's lives in sending societies when men left to work abroad?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Women lost most of their household duties once men left, since remittances covered every family expense</li><li class="mcq-opt">Women moved abroad alongside the men and took factory jobs in the very same receiving-society industries</li><li class="mcq-opt">Women often took on new economic and social roles, managing farms and finances men had previously handled</li><li class="mcq-opt">Women organized formal nativist movements that specifically opposed migrants from other ethnic communities</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes women in sending societies taking on new economic and social roles, managing farms, finances, and decisions that patriarchal custom had reserved for men, once the men in their families emigrated. Remittances were often irregular, not a reliable replacement for lost labor as option A claims, and the reading describes women staying in sending communities, not moving abroad as option B suggests. Nativism, in option D, describes hostility from receiving societies, not the situation of women left behind.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was a remittance, as described in the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A formal document proving a migrant's legal right to work in a receiving country</li><li class="mcq-opt">Money that a migrant sent home to family members in the sending society</li><li class="mcq-opt">A tax that receiving societies imposed on foreign-born workers</li><li class="mcq-opt">A payment migrants made to enclave associations in exchange for finding them jobs</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Remittances were money migrant workers sent back to their families, often the most significant source of cash income for families in sending communities. A work permit is a different kind of document entirely. A tax and a payment to an enclave association both describe money moving in the wrong direction or for the wrong purpose; remittances flowed from the migrant to their own family.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">The reading argues that remittances could both help and harm sending communities. Which of these best reflects that argument?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Remittances helped fund things like education and debt payments, but harmed families when the flow stopped</li><li class="mcq-opt">Remittances always helped families, since money from abroad never stopped once a migrant found steady work</li><li class="mcq-opt">Remittances only harmed sending communities, since families grew too dependent on income earned elsewhere</li><li class="mcq-opt">Remittances had little real effect on sending communities, since the amounts sent home were rarely significant</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading presents remittances as genuinely double-edged: they could fund education, debt relief, and small businesses, but families suffered when the flow was interrupted by a lost job, injury, or death. Option B ignores the reading's point that remittances were unreliable, and option C overstates the harm while ignoring the real benefits the reading describes. Option D contradicts the reading, which calls remittances the most significant source of cash income for many families, not something insignificant.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the Chinese Exclusion Act of 1882?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">An agreement between the United States and China limiting how many American workers could enter China</li><li class="mcq-opt">The first U.S. federal law to restrict immigration specifically by race and nationality</li><li class="mcq-opt">A policy that granted Chinese immigrants full U.S. citizenship in exchange for railroad labor</li><li class="mcq-opt">A law requiring all Chinese immigrants to register annually with local police departments</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The Chinese Exclusion Act was the first U.S. federal law to restrict immigration based specifically on race and nationality, combining racial prejudice with economic anxiety about job competition. It misdescribes the law as a bilateral agreement, when it was unilateral U.S. legislation. The Act is the opposite of granting citizenship: it prevented Chinese residents from becoming citizens. A registration requirement like this is not mentioned in the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How did Australia's "dictation test" work as part of the White Australia Policy?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It required every immigrant to pass a citizenship exam covering Australian history, law, and geography</li><li class="mcq-opt">It tested immigrants only on their ability to speak and read basic English before allowing them entry</li><li class="mcq-opt">Officials could give the test in any European language they chose, to fail migrants they wanted excluded</li><li class="mcq-opt">It was given only to European migrants, to confirm beforehand that they possessed useful job skills</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The dictation test could be given in any European language an official picked, even one the migrant had never encountered, which let officials exclude almost anyone they wanted while appearing race-neutral on paper. A straightforward citizenship or English exam (options A and B) is not what the reading describes, since the whole point of the dictation test was that it could be made unpassable on purpose. The test's actual target was excluding non-European migrants, not screening Europeans for skills, as option D wrongly suggests.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following is NOT something the reading describes as an effect of migration on sending or receiving societies?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">New languages, religions, and foods reshaping receiving-society cities like New York</li><li class="mcq-opt">Returnees bringing new skills, ideas, and capital back to their home communities</li><li class="mcq-opt">Nativist backlash producing laws that restricted immigration by race</li><li class="mcq-opt">Receiving societies uniformly outlawing all forms of ethnic enclave formation</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading never describes receiving societies banning ethnic enclaves. In fact, it describes enclaves like Chinatown and Indian communities in Trinidad persisting and thriving for generations. Cultural transformation, returnees bringing new skills home, and nativist laws like the Chinese Exclusion Act are all effects the reading directly describes.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -930,6 +1056,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="6.7" data-advance-next="6-8.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="6.7">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

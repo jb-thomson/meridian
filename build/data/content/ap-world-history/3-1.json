@@ -427,6 +427,96 @@
       "modelAnswer": "The Moroccan defeat of Songhai illustrates several broader patterns. First, it demonstrates that gunpowder advantage could project power across extraordinary distances, 1,500 miles of Sahara desert, to destroy one of the world's largest states with a relatively small force. This shows how disruptive firearms were to existing power structures everywhere, including sub-Saharan Africa. Second, the fragmentation of Songhai after 1591 had lasting consequences for West African history: it ended the tradition of large, trans-regional West African empires (Ghana, Mali, Songhai) that had dominated the region for centuries, and left West Africa more politically fragmented as it faced European engagement in the following century. Third, it illustrates that the \"gunpowder empires\" category isn't limited to the four major states. Morocco was also using gunpowder technology to pursue imperial ambitions, showing how widespread the military transformation had become by the late 16th century."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, why were gunpowder cannons such a decisive military advantage for the empires of this period?",
+      "options": [
+        "Cannons could breach walls that had protected cities for centuries, letting armies conquer places that once held out for years",
+        "Cannons supposedly eliminated the entire need for foot soldiers, since a crew of gunners alone could capture and hold any city",
+        "Cannons were reportedly quiet enough to let attacking armies achieve total surprise, catching sleeping defenders completely off guard",
+        "Cannons let rulers send orders and urgent messages across their empires faster than any horseback messenger ever could"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that sufficiently large cannons could breach stone walls in days rather than months, ending the age when a well-walled city could resist an army indefinitely. Cannons didn't replace infantry, they worked alongside it, so the second option is wrong. The reading emphasizes destructive power, not stealth, so the third option is wrong. The fourth option confuses cannons with a communication system like the Mongol Yam, which isn't part of this reading."
+    },
+    {
+      "question": "Besides winning a single battle, why did the Ottoman capture of Constantinople in 1453 matter so much?",
+      "options": [
+        "It reportedly destroyed the Ottoman navy so badly the empire relied only on land forces for two centuries",
+        "It gave the Ottomans the Bosphorus strait, the Europe-Asia trade route, and ended the Byzantine Empire",
+        "It was supposedly the first time gunpowder weapons of any kind had ever been used by any army",
+        "It reportedly required every Christian kingdom in Europe to convert to Islam within one generation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading says Constantinople controlled the Bosphorus, the only water route between the Black Sea and Mediterranean, and the world's greatest trade hub, and that its fall ended the Byzantine Empire. The first option is wrong because nothing in the reading describes a naval defeat. The third option is wrong because the reading discusses gunpowder weapons being used well before 1453. The fourth option is not supported anywhere in the reading."
+    },
+    {
+      "question": "What gave Babur the decisive edge over Ibrahim Lodi's much larger army at the First Battle of Panipat in 1526?",
+      "options": [
+        "Babur's soldiers vastly outnumbered Lodi's army, giving him an overwhelming numerical advantage",
+        "Lodi's soldiers refused to fight Babur, seeing him as a fellow descendant of a respected dynasty",
+        "Babur's artillery terrified Lodi's war elephants and broke apart his much larger army's formations",
+        "The battle was decided by a surprise attack under cover of night rather than by any weapons advantage"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading states Babur's roughly 12,000 men faced Lodi's force of perhaps 100,000 plus war elephants, and that Babur's artillery, which terrified the elephants and broke Lodi's formations, was his decisive advantage. The first option reverses the actual numbers, since Babur was outnumbered. The second and fourth options are not mentioned in the reading."
+    },
+    {
+      "question": "Why did Akbar eliminate the jizya tax, marry Rajput princesses, and appoint Hindus to high office?",
+      "options": [
+        "He had personally converted away from Islam and felt no obligation to favor Muslim subjects anymore",
+        "He was legally required to by a treaty the Mughals signed with neighboring Hindu kingdoms after a war",
+        "He wanted to copy the same governing methods that the reading says the Ottoman Empire also used successfully",
+        "He recognized a Muslim minority could not rule a Hindu majority through force alone, so he ruled through inclusion"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading explains Akbar recognized that a Muslim minority of roughly 20 percent could not rule a Hindu majority of roughly 60 percent through force alone, so he built a deliberate system of tolerance and inclusion. The first option is wrong, Akbar remained Muslim even while creating the syncretic Din-i-Ilahi. The second and third options are not supported anywhere in the reading."
+    },
+    {
+      "question": "Why did Shah Ismail's Safavid forces lose so badly to the Ottomans at the Battle of Chaldiran in 1514?",
+      "options": [
+        "The Safavid army was a fraction of the size of the Ottoman force and had no realistic chance of victory",
+        "Ismail's cavalry refused to use firearms, considering them un-Islamic, leaving them exposed to Ottoman guns",
+        "The battle took place during a religious festival when many Safavid soldiers had left camp to observe it",
+        "Ottoman forces used a secret mountain pass to surround the Safavid army from behind before the battle began"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading states the Safavids had refused to use firearms, reportedly considering them un-Islamic or unchivalrous, and that Ottoman artillery and firearms obliterated the Safavid cavalry as a result. None of the other options are described anywhere in the reading."
+    },
+    {
+      "question": "How did the Qing Dynasty try to govern China without being absorbed into Han Chinese culture?",
+      "options": [
+        "They abolished the Confucian civil service exams so Han Chinese scholars could gain no administrative influence",
+        "They forced every Han Chinese family to relocate into Manchuria so they could be supervised more closely",
+        "They banned all Han Chinese officials from ever serving in the imperial government at any level at all",
+        "They kept Manchu culture distinct through the queue and a ban on intermarriage, while keeping Chinese institutions"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes a dual strategy: strict rules against Manchu-Han intermarriage, separate Manchu military units, and the queue requirement, combined with keeping Chinese administrative institutions and Confucian governance intact. The first option is wrong, the reading says the Qing continued the civil service exam system. The second and third options are not supported by the reading."
+    },
+    {
+      "question": "What made the Moroccan defeat of the Songhai Empire at the Battle of Tondibi (1591) so notable?",
+      "options": [
+        "A much smaller Moroccan force with firearms crossed 1,500 miles of desert and routed the larger Songhai cavalry",
+        "The Songhai Empire had reportedly already been abandoned by its population before the Moroccan army arrived",
+        "Morocco and Songhai reportedly fought to a draw, with neither side gaining any territory from the battle",
+        "The Songhai army supposedly had more firearms than the Moroccans but still lost due to poor leadership"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading describes an approximately 4,000-man Moroccan force with arquebuses crossing 1,500 miles of Sahara to rout the much larger Songhai cavalry force at Tondibi, after which the empire fragmented permanently. The other options directly contradict details given in the reading."
+    },
+    {
+      "question": "Which of the following is NOT an accurate description of the Qing Dynasty's rise, according to the reading?",
+      "options": [
+        "A Ming general opened the Great Wall to Manchu forces, hoping to use them as allies after Beijing fell to rebels",
+        "Han Chinese men were required to wear the Manchu queue hairstyle as a sign of submission to Qing authority",
+        "The Qing Dynasty eliminated the Confucian civil service examination system entirely once they took power in China",
+        "Under the Kangxi and Qianlong emperors, the Qing conquered Mongolia, Tibet, and Xinjiang, nearly doubling China's territory"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading is explicit that the Qing maintained Chinese administrative institutions and Confucian governance, including the civil service examination system, rather than eliminating them. The other three statements are all directly supported by the reading, including the description of a Ming general opening the Great Wall to the Manchu, the queue requirement, and the territorial expansion under Kangxi and Qianlong."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: LO: How trade networks caused the spread of religions, languages, and cultural practices:</strong> Religion followed commerce, not conquest (in most cases): Buddhism spread along the Silk Roads via merchants and monks who built monasteries at caravan rest stops; Islam spread along Indian Ocean and trans-Saharan routes via Muslim merchants who settled in port cities and built mosques. Languages traveled with trade: Arabic became the commercial lingua franca of Indian Ocean commerce. Technologies moved as unintended cargo: the Hindu-Arabic numeral system traveled from India through Arab merchant networks to Europe, where it made modern mathematics possible. Nobody planned these transfers. They happened because merchants moved.</li><li><strong>LO-B: Explain the significance of diasporic communities in sustaining…:</strong> <strong>LO: Significance of diasporic communities in sustaining long-distance exchange:</strong> Diasporic communities. Arab, Indian, Chinese, Jewish, and Venetian merchants who settled permanently in foreign port cities, were the human infrastructure that made intercontinental trade possible. They maintained the commercial relationships, language skills, credit networks, and legal knowledge that allowed strangers from different cultures to conduct reliable transactions across thousands of miles. Without permanent diaspora communities to bridge cultural gaps, each transaction would require rebuilding trust and legal frameworks from scratch. They also created the sustained cultural contact that produced syncretism: you cannot blend cultures without people who live between them.</li><li><strong>LO-C: Explain cultural syncretism as a consequence of cross-cultural…:</strong> <strong>LO: Cultural syncretism as a consequence of cross-cultural contact:</strong> Syncretism means genuine blending, not replacement: when two cultures meet through sustained trade contact, a new hybrid emerges that belongs fully to neither parent. Key AP examples: <em>Swahili culture</em> (Bantu African grammar + Arabic vocabulary + Islamic law + African architecture = a new civilization); <em>Malay-Islamic culture</em> (Southeast Asian traditions + Indian Ocean Islam); <em>Gandharan Buddhist art</em> (Indian religious iconography + Greek artistic style at Silk Road junctions). Crucially, syncretism is permanent, the resulting cultures persist long after the specific trade patterns that created them change, making it one of the most lasting effects of trade network expansion.</li><li><strong>LO-D: Identify the significance of Ibn Battuta, Marco Polo,…:</strong> <strong>LO: Individual travelers as agents and witnesses of cultural exchange:</strong> The AP exam explicitly names three travelers for this topic. <em>Ibn Battuta</em> (Moroccan Muslim, 1304–c. 1368/69) traveled ~75,000 miles across the Islamic world from West Africa to China, recording in the <em>Rihla</em> how trade routes had woven diverse societies into a coherent Islamic civilization. <em>Marco Polo</em> (Venetian merchant, 1254–1324) journeyed the Silk Roads to China under the Pax Mongolica, writing an account that shaped European ambitions toward Asia for two centuries. <em>Margery Kempe</em> (English Christian pilgrim, c. 1373–after 1438) traveled to Jerusalem, Rome, and Santiago de Compostela, demonstrating that pilgrimage, not just commerce, moved people and ideas along trade-route networks. Know all three by name and know what each one demonstrates about connectivity.</li></ul>
   
 </div>
@@ -884,6 +918,110 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, how did Islam typically spread along the Indian Ocean and trans-Saharan trade routes?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Mostly through peaceful commercial contact between Muslim merchants and the local populations</li><li class="mcq-opt">Through the same pattern of military conquest used during the early Arab expansion of the 600s and 700s</li><li class="mcq-opt">Through a series of forced conversion decrees that local rulers issued across their kingdoms</li><li class="mcq-opt">Through European Christian missionaries who traveled alongside Muslim merchant caravans</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading directly contrasts this later trade route spread, driven by peaceful merchant contact, with the earlier military expansion of Islam in Arabia and North Africa. Nothing in the reading describes local rulers forcing conversion by decree, and European missionaries play no role in the spread of Islam described here.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What role did Sufism play in spreading Islam, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Sufi missionaries generally refused to travel alongside ordinary merchants for religious reasons</li><li class="mcq-opt">Sufism required every new convert to give up the Arabic language entirely upon joining</li><li class="mcq-opt">Sufi practices could blend with local spiritual traditions, making conversion feel less foreign</li><li class="mcq-opt">Sufism spread across these regions only through organized, large-scale military campaigns</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that Sufi traders and missionaries were flexible, incorporating local spiritual practices like music, poetry, or meditation into Islamic worship, which made the religion feel less disruptive to new communities. The reading never says Sufis avoided merchants, required abandoning Arabic, or relied on military campaigns.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what makes Ibn Battuta's journey historically significant?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">He was the first known traveler to circumnavigate the entire African continent by sea</li><li class="mcq-opt">His 75,000 mile journey showed how thoroughly trade had unified the Islamic world</li><li class="mcq-opt">He personally introduced Buddhism to Central Asia during the course of his travels</li><li class="mcq-opt">He wrote what is considered the first known autobiography in the English language</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading emphasizes that Ibn Battuta consistently found mosques, Arabic speaking communities, and shared legal frameworks everywhere he traveled, showing trade routes had stitched the Islamic world into one connected civilization. He did not sail around Africa, had nothing to do with spreading Buddhism, and the first English language autobiography is credited to Margery Kempe, not Ibn Battuta.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What is Margery Kempe's significance for this topic, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">She was a Venetian merchant who spent nearly two decades at the court of Kublai Khan</li><li class="mcq-opt">She converted to Islam while traveling extensively through the Indian Ocean trading world</li><li class="mcq-opt">She was the first known European traveler to personally document the Pax Mongolica firsthand</li><li class="mcq-opt">Her pilgrimages show that religious travel, not just commerce, moved people along trade routes</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading uses Margery Kempe to make the point that pilgrimage routes overlapped with trade routes, so cross cultural contact through shared infrastructure reached ordinary religious travelers, not only merchants. The Venetian merchant at Kublai Khan's court is Marco Polo, and the reading never says Kempe converted to Islam or wrote about the Pax Mongolica.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, why were diasporic communities essential to long-distance trade?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They gave merchants shared language and law for doing business in unfamiliar cities</li><li class="mcq-opt">They gradually took over the political governments of the cities where they had settled</li><li class="mcq-opt">They existed only temporarily, disbanding completely once each trading season had ended</li><li class="mcq-opt">They replaced the local population entirely wherever they settled in large numbers</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes diasporic communities as the human infrastructure of trade, providing trust and shared language and legal knowledge so merchants could do reliable business far from home. They are described as permanent settlements, not temporary groups, and the reading never says they took over local governments or replaced local populations.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Using Swahili culture as its example, how does the reading describe cultural syncretism?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">One culture gradually and completely replacing another culture over an extended period of time</li><li class="mcq-opt">A genuine blending of two traditions into something new, belonging to neither parent culture</li><li class="mcq-opt">A temporary borrowing of customs that fades away once trade activity slows down</li><li class="mcq-opt">A term used to describe forced religious conversion carried out through military pressure</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes Swahili language, architecture, and cuisine as a real blend of Bantu African and Arab Islamic traditions, something new rather than either culture simply winning out. It explicitly says this blending was not temporary borrowing, and it has nothing to do with forced conversion by military pressure.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, how did Hindu-Arabic numerals reach Europe?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They were invented completely independently by Arab mathematicians working in Baghdad</li><li class="mcq-opt">Marco Polo personally carried them directly from China to Venice after his travels</li><li class="mcq-opt">Arab merchants encountered them in India through trade and carried them westward</li><li class="mcq-opt">European scholars developed them first and later exported the system to the Islamic world</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading traces the numerals to India, where Arab merchants and scholars encountered them, recognized their advantage over Roman numerals, and carried them west into Europe. They were not invented by Arab mathematicians from scratch, had nothing to do with Marco Polo or China, and did not originate in Europe.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 8<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following is NOT one of the three travelers the reading names as significant witnesses of cross cultural exchange?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Ibn Battuta</li><li class="mcq-opt">Marco Polo</li><li class="mcq-opt">Margery Kempe</li><li class="mcq-opt">Zheng He</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading names exactly three travelers for this topic: Ibn Battuta, Marco Polo, and Margery Kempe, each illustrating a different dimension of connectivity. Zheng He is a significant figure in AP World History, but he belongs to Topic 2.3 on Indian Ocean exchange, not this list of travelers and witnesses.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -1081,6 +1219,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="2.5" data-advance-next="2-6.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="2.5">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#1a5f6a;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -426,6 +457,9 @@
 
 
 <div class="util-panel" data-util-panel="tldr" hidden>
+  
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
   
   <ul class="util-panel-list"><li><strong>Two basic map types:</strong> Reference maps show the location of physical or political features (like a road atlas). Thematic maps show the spatial pattern of a specific topic or variable, like population density or election results.</li><li><strong>Maps reveal spatial patterns:</strong> distance and direction (absolute or relative), clustering (grouped closely), dispersal (spread apart), and elevation (height above sea level).</li><li><strong>Every map distorts something:</strong> Because the Earth is a sphere and a map is flat, every map projection must trade off accuracy in shape, area, distance, or direction. No projection can preserve all four at once.</li></ul>
   
@@ -975,6 +1009,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-human-geography" data-complete-num="1.1" data-advance-next="1-2.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-human-geography" data-questions-num="1.1">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

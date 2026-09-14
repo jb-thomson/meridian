@@ -26,9 +26,9 @@
     }
   ],
   "tldr": [
-    "**LO-A: LO: Role of environmental factors, especially monsoons:** The Indian Ocean's monsoon winds reverse direction twice annually: they blow southwest (April–September) enabling outbound voyages, then northeast (October–March) enabling the return. This created a natural, predictable trade calendar, merchants knew exactly when to depart and when to expect their counterpart to arrive. Without this predictability, round-trip planning, commercial financing, and reliable merchant relationships across the network would have been impossible. The monsoon was, in effect, a free and reliable engine that ran on a fixed schedule.",
-    "**LO-B: Explain the effects of expanded exchange on societies…:** **LO: Causes of Indian Ocean trade growth after 1200:** The monsoon system provided the environmental foundation, but three other factors drove growth: (1) *Technology*, the magnetic compass (from China), astrolabe (Islamic world), and lateen-rigged dhow design made navigation more reliable and flexible; (2) *Geography*, port cities like Kilwa, Malacca, and Calicut controlled natural chokepoints and deep-water harbors, accumulating wealth by taxing the flow of trade; (3) *Political decisions*. Ming China's Zheng He voyages (1405–1433) expanded Chinese commercial and diplomatic reach across the Indian Ocean before the policy was abruptly reversed in 1433.",
-    "**LO-C: Explain the role of environmental factors, especially…:** **LO: Effects of expanded exchange on societies and cultures:** Islam spread peacefully to East Africa and Southeast Asia through sustained merchant contact, rulers converted voluntarily for commercial and cultural reasons, not because they were conquered. Swahili culture emerged on the East African coast as a lasting hybrid of Bantu African and Arab Islamic traditions, new language, new architecture, new legal system. Permanent diaspora communities of Arab, Indian, and Chinese merchants settled in foreign port cities, creating the human infrastructure that made long-distance trade across cultural boundaries possible."
+    "**Causes:** The monsoon winds provided the environmental foundation, but three other factors drove Indian Ocean trade growth after 1200. *Technology*: the magnetic compass (from China), the astrolabe (Islamic world), and the lateen-rigged dhow made navigation more reliable and flexible. *Geography*: port cities like Kilwa, Malacca, and Calicut controlled natural chokepoints and deep-water harbors, growing wealthy by taxing the flow of trade. *Political decisions*: Ming China's Zheng He voyages (1405-1433) expanded Chinese commercial and diplomatic reach across the Indian Ocean before the policy was abruptly reversed in 1433.",
+    "**Effects:** Islam spread peacefully to East Africa and Southeast Asia through sustained merchant contact. Rulers converted voluntarily for commercial and cultural reasons, not because they were conquered. Swahili culture emerged on the East African coast as a lasting hybrid of Bantu African and Arab Islamic traditions: a new language, new architecture, a new legal system. Permanent diaspora communities of Arab, Indian, and Chinese merchants settled in foreign port cities, creating the human infrastructure that made long-distance trade across cultural boundaries possible.",
+    "**Environment:** The Indian Ocean's monsoon winds reverse direction twice a year: they blow southwest from April to September, enabling outbound voyages, then northeast from October to March, enabling the return. This created a natural, predictable trade calendar. Merchants knew exactly when to depart and when to expect their counterpart to arrive. Without this predictability, round-trip planning, commercial financing, and reliable merchant relationships across the network would have been impossible. The monsoon was, in effect, a free and reliable engine that ran on a fixed schedule."
   ],
   "learningObjectives": [
     "Explain the causes of the growth of Indian Ocean trade networks after 1200",
@@ -109,6 +109,14 @@
       "text": "Look at a map of the world. The Indian Ocean sits at the center of the Eastern Hemisphere, touching Africa on the west, the Middle East and South Asia to the north, and Southeast Asia and China to the east. It is, in other words, the geographic crossroads of the most populated parts of the ancient world. If you wanted to connect all of these places, the Indian Ocean was the obvious highway."
     },
     {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-3-3.jpg",
+      "alt": "Map of the Eastern Hemisphere showing Africa, the Middle East, South Asia, Southeast Asia, and China surrounding the Indian Ocean",
+      "caption": "The Indian Ocean sits at the center of the Eastern Hemisphere, bordered by Africa, the Middle East, South Asia, Southeast Asia, and China.",
+      "attribution": "Base map: Pinpin, Wikimedia Commons, CC BY-SA 3.0. Region labels added."
+    },
+    {
       "type": "paragraph",
       "text": "But trade across the Indian Ocean didn't just happen automatically. It required technology, knowledge, and networks of trust built up over centuries. By 1200 CE, all three were in place, and a period of explosive trade growth was about to begin."
     },
@@ -137,8 +145,24 @@
       ]
     },
     {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-3-6.jpg",
+      "alt": "A brass astrolabe made in Damascus in 1230 CE, showing its engraved star pointer and degree scale",
+      "caption": "A brass astrolabe made by al-Sarraj in Damascus in 1230 CE, the same basic instrument Indian Ocean sailors used to calculate their latitude at sea.",
+      "attribution": "National Maritime Museum, Greenwich. Photo: Clem Rutter, Wikimedia Commons, CC BY-SA 3.0."
+    },
+    {
+      "type": "image",
+      "imageType": "ai_generated",
+      "src": "assets/images/ap-world-history/2-3-5.jpg",
+      "alt": "Side by side comparison of a Chinese junk with multiple battened sails on the left and an Arab dhow with a single triangular lateen sail on the right",
+      "caption": "Chinese junks (left) used multiple masts and battened sails built for cargo capacity and stability. Arab dhows (right) used a single triangular lateen sail built for maneuverability against the wind.",
+      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+    },
+    {
       "type": "funFact",
-      "text": "A medieval Chinese junk, one of the largest ships used in Indian Ocean trade, could carry over **200 tons of cargo**. That's genuinely hard to picture, so try this: 200 tons is heavier than the Statue of Liberty (which weighs about 225 tons total, but just the copper shell is 100 tons), or about the same weight as **30 adult African elephants stacked on a scale**. These enormous wooden ships, built without modern engineering tools, were hauling the equivalent of a small warehouse across open ocean, and doing it reliably enough that merchants bet their fortunes on it."
+      "text": "A medieval Chinese junk, one of the largest ships used in Indian Ocean trade, could carry over **200 tons of cargo**. That's heavier than the Statue of Liberty (about 225 tons total, though just the copper shell is 100 tons), or about the same weight as **30 adult African elephants**. These enormous wooden ships, built without modern engineering tools, were hauling the equivalent of a small warehouse across open ocean, and doing it reliably enough that merchants bet their fortunes on it."
     },
     {
       "type": "apTip",
@@ -173,8 +197,20 @@
       ]
     },
     {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-3-4.jpg",
+      "alt": "Map showing the locations of Kilwa on the Swahili Coast, Gujarat in western India, and Malacca in Southeast Asia",
+      "caption": "The three city-states and trading ports the College Board names, located along the Indian Ocean network.",
+      "attribution": "Base map: Pinpin, Wikimedia Commons, CC BY-SA 3.0. Location markers added."
+    },
+    {
       "type": "funFact",
       "text": "At its peak in the early 1400s, the port of Malacca hosted merchants from over **80 different languages and cultures**. Arab, Chinese, Indian, Javanese, Malay, and dozens more. There was no common language, so a specialized class of traders called **shahbandars** acted as brokers, each responsible for merchants from specific regions. The city operated like a mini United Nations of commerce, centuries before the concept existed."
+    },
+    {
+      "type": "funFact",
+      "text": "Malacca's geography, sitting on the strait between the Indian Ocean and the South China Sea, is the same reason modern **Singapore** is one of the wealthiest countries in the world today. Singapore isn't a continuation of the Malacca Sultanate itself (it's a different city, founded as a British trading post in 1819, nearly four centuries after Malacca's peak), but it profits from the exact same chokepoint: over a quarter of the world's shipping still passes through the Strait of Malacca."
     },
     {
       "type": "heading",
@@ -193,8 +229,11 @@
       "text": "This was extraordinary. Sailors didn't have to fight the wind. They just had to time their journeys correctly. Depart East Africa in April, ride the summer monsoon to India. Load up with Indian spices and textiles. Wait for October. Ride the winter monsoon home. The same journey that might take years of unpredictable struggle in the Atlantic could be done in the Indian Ocean on a reliable seasonal schedule."
     },
     {
+      "type": "monsoonDemo"
+    },
+    {
       "type": "apTip",
-      "text": "Monsoon winds are the College Board's example of an *environmental factor* driving trade network development. If an AP prompt asks about the role of the environment in Indian Ocean exchange, monsoons are your primary answer. Connect it clearly: predictable winds → reliable sailing routes → increased trade volume → growth of port cities."
+      "text": "Monsoon winds are the College Board's example of an *environmental factor* driving trade network development. If an AP prompt asks about the role of the environment in Indian Ocean exchange, monsoons are your primary answer. Connect it clearly: predictable winds → reliable sailing routes → increased trade volume → growth of port cities → merchants waiting months for the next monsoon settling in those ports, forming diasporic communities."
     },
     {
       "type": "heading",
@@ -205,6 +244,10 @@
       "text": "When merchants travel to foreign lands repeatedly, some of them stop going home. They settle permanently, marry local people, raise children, and create communities that blend their home culture with the local one. These are called **diasporic communities**, populations living outside their homeland who maintain connections to their culture of origin."
     },
     {
+      "type": "apTip",
+      "text": "A modern parallel: a **diasporic community** persists at the destination for generations, like the long-running American military communities in Okinawa, the Philippines, South Korea, and Germany, where decades of service members intermarrying with locals produced lasting blended populations even as individual soldiers rotate out. One soldier who marries locally, then moves the whole family home again, is closer to a **sojourner**, someone who stayed a while and went home; that alone doesn't meet the diaspora bar. It becomes a true diaspora only when enough families never rotate out and multiply into a lasting population, individual and temporary versus collective and permanent."
+    },
+    {
       "type": "paragraph",
       "text": "The Indian Ocean network produced three major diasporic communities the College Board wants you to know:"
     },
@@ -213,8 +256,20 @@
       "items": [
         "**Arab and Persian communities in East Africa**. Arab and Persian merchants had been trading along the East African coast for centuries. Over time, many settled permanently in Swahili Coast cities. The result was a blended culture, the Swahili language is a mix of Bantu African languages and Arabic, and Swahili architecture reflects both African and Islamic traditions. Islam spread along this route, and East African city-states became part of the broader Islamic world.",
         "**Chinese merchant communities in Southeast Asia**. Chinese merchants, particularly from Fujian province, established permanent communities across Southeast Asia, in present-day Vietnam, Thailand, Malaysia, Indonesia, and the Philippines. These communities maintained Chinese cultural traditions (language, religion, food, festivals) while adapting to local conditions. Their descendants, sometimes called \"overseas Chinese\", remain a significant presence in Southeast Asia today.",
-        "**Malay communities across the Indian Ocean basin**. Malay sailors and merchants from the islands of Southeast Asia were some of the most skilled navigators in the Indian Ocean. Malay communities spread westward to Madagascar (off the coast of Africa) and eastward across the Pacific. The Malagasy language spoken in Madagascar today is closely related to languages spoken in Borneo, a stunning example of how far Malay maritime culture reached."
+        "**Malay communities across the Indian Ocean basin**. Malay sailors and merchants from the islands of Southeast Asia were some of the most skilled navigators in the Indian Ocean, and their reach was already long-standing by 1200: centuries earlier, Austronesian sailors from the Malay world had settled Madagascar (around 650 CE) after crossing the entire Indian Ocean, and had reached the remote Pacific islands over an even longer span. The Malagasy language spoken in Madagascar today is closely related to languages spoken in Borneo, a stunning example of how far Malay maritime culture reached, and Malay merchant communities remained active across the Indian Ocean trade network throughout the 1200-1450 period."
       ]
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-3-8.jpg",
+      "alt": "Map showing Arab and Persian merchants traveling to East Africa, Chinese merchants traveling to Southeast Asia, and Malay sailors traveling to Madagascar",
+      "caption": "The three diasporic communities the College Board names, and roughly where each traveled from and settled.",
+      "attribution": "Base map: Pinpin, Wikimedia Commons, CC BY-SA 3.0. Route arrows added."
+    },
+    {
+      "type": "funFact",
+      "text": "Want to hear what these languages actually sound like? **Swahili**, the Bantu-Arabic blend that grew out of the Arab/Persian diaspora on the Swahili Coast, uses everyday words like *jambo* (hello), *asante* (thank you), and *rafiki* (friend): [listen to basic Swahili vocabulary on YouTube](https://www.youtube.com/watch?v=lcGV1UCNgJw). **Malagasy**, the Madagascar language related to Borneo, uses *salama* (hello), *misaotra* (thank you), and *veloma* (goodbye): [listen to a Malagasy greetings lesson on YouTube](https://www.youtube.com/watch?v=hZpj60hn430)."
     },
     {
       "type": "apTip",
@@ -238,15 +293,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Between 1405 and 1433, Zheng He led seven voyages. His fleet at its peak included over 300 ships and 28,000 crew members, far larger than anything Europe would put to sea for another century. The treasure ships themselves were over 400 feet long; for comparison, Columbus's *Santa María* was about 85 feet. Zheng He visited the Swahili Coast of East Africa, the Persian Gulf, India, Southeast Asia, and dozens of ports in between."
+      "text": "Between 1405 and 1433, Zheng He led seven voyages. His fleet at its peak included over 300 ships and 28,000 crew members, far larger than anything Europe would put to sea for another century. The treasure ships themselves were over 400 feet long, about as tall as a 40-story building laid on its side; for comparison, Columbus's *Santa María* was about 85 feet, roughly the length of two school buses end to end. Zheng He visited the Swahili Coast of East Africa, the Persian Gulf, India, Southeast Asia, and dozens of ports in between."
     },
     {
       "type": "paragraph",
-      "text": "What did the voyages accomplish? They demonstrated Chinese power across the Indian Ocean world, strengthened trade relationships, and facilitated the transfer of goods, animals, and ideas. Giraffes were brought back to China from East Africa as exotic gifts. Diplomatic envoys from as far as Africa came to Beijing to pay respect to the emperor."
+      "text": "What did the voyages accomplish? They demonstrated Chinese power across the Indian Ocean world, strengthened trade relationships, and facilitated the transfer of goods, animals, and ideas. Giraffes were brought back to China from East Africa as exotic gifts. 🦒 Diplomatic envoys from as far as Africa came to Beijing to pay respect to the emperor."
     },
     {
       "type": "paragraph",
-      "text": "Then, in 1433, the voyages stopped. A new emperor came to power who viewed the expeditions as wasteful and un-Confucian. China turned inward. The fleet was dismantled. The records were burned. One of history's greatest maritime programs ended almost overnight, a striking reminder that political decisions can reverse even the most ambitious undertakings."
+      "text": "Then, in 1433, the voyages stopped. A new emperor came to power who viewed the expeditions as wasteful and un-Confucian, Confucian officials ranked merchants below farmers and scholars, saw the fleet's cost as money better spent defending the northern frontier from the Mongols, and distrusted Zheng He's faction of court eunuchs. China turned inward. The fleet was dismantled. The records were burned. One of history's greatest maritime programs ended almost overnight, a striking reminder that political decisions can reverse even the most ambitious undertakings."
     },
     {
       "type": "funFact",
@@ -397,6 +452,96 @@
     {
       "question": "How did the growth of Indian Ocean trade networks affect the spread of religion and culture?",
       "modelAnswer": "Trade and religion traveled together across the Indian Ocean. Arab and Persian merchants who settled in East African port cities brought Islam with them, the Swahili Coast became predominantly Muslim not through conquest but through commercial contact. Similarly, Indian merchants spread Hinduism and Buddhism into Southeast Asia, and Chinese merchants brought Chinese cultural practices to communities across the region. This pattern, where merchants introduce their religious and cultural traditions into local societies, which then adapt and blend them, is exactly what the College Board means by the effects of diasporic communities. Trade didn't just move goods; it moved belief systems, languages, architectural styles, and social practices across the entire Indian Ocean world."
+    }
+  ],
+  "comprehensionCheck": [
+    {
+      "question": "Why could Indian Ocean sailors plan reliable round trip voyages, according to the reading?",
+      "options": [
+        "The Indian Ocean had far fewer pirates operating along its shipping lanes than the Atlantic or Pacific",
+        "Ships built specifically for the Indian Ocean were somehow immune to damage from tropical storms",
+        "Monsoon winds reversed direction on a predictable seasonal schedule that sailors could plan voyages around",
+        "Ancient navigators had already charted every safe route across the ocean centuries before this period"
+      ],
+      "correctIndex": 2,
+      "explanation": "The monsoon winds blow southwest from roughly April to September and reverse to blow northeast from October to March, giving sailors a built in shipping schedule they could plan around. The reading never claims the Indian Ocean was unusually free of pirates or storms, and it credits the wind pattern, not preexisting maps, for making round trips reliable."
+    },
+    {
+      "question": "What did the compass and the astrolabe together provide Indian Ocean sailors, according to the reading?",
+      "options": [
+        "Both a sense of direction and a way to determine their position at sea, like GPS without electronics",
+        "A way to communicate instantly with sailors sailing on other ships far across the open ocean lanes",
+        "Meaningful protection against pirate attacks while sailing through open and largely undefended waters",
+        "The ability to sail significantly faster than any previous ship design had ever managed before"
+      ],
+      "correctIndex": 0,
+      "explanation": "The compass gave sailors direction even without visible stars, and the astrolabe let them calculate latitude, so together they gave sailors both direction and position, described in the reading as GPS without electronics. Neither instrument offered communication, protection from pirates, or extra speed."
+    },
+    {
+      "question": "Why did the Sultanate of Malacca become so wealthy, according to the reading?",
+      "options": [
+        "It produced enormous quantities of spices that were sold throughout the surrounding maritime region",
+        "It received large yearly tribute payments sent directly from the Ming emperor's court in China",
+        "It conquered and absorbed nearly every other trading port along the entire Indian Ocean network",
+        "It controlled a narrow strait that ships between the Indian Ocean and South China Sea had to pass through"
+      ],
+      "correctIndex": 3,
+      "explanation": "Malacca sat on the strait between the Malay Peninsula and Sumatra, and every ship sailing between the Indian Ocean and the South China Sea had to pass through it, letting Malacca's sultans collect tolls and taxes. The reading never says Malacca produced spices itself, received Chinese tribute, or conquered rival ports."
+    },
+    {
+      "question": "What best describes the Swahili Coast city states, according to the reading?",
+      "options": [
+        "Independent kingdoms that had no significant trade contact with Arab or Persian merchants",
+        "City states such as Kilwa and Mombasa that grew wealthy as middlemen for Africa's interior",
+        "Cities founded by the admiral Zheng He during his voyages to project Chinese power abroad",
+        "Trading posts that specialized in producing porcelain for sale in the Indian Ocean market"
+      ],
+      "correctIndex": 1,
+      "explanation": "Swahili Coast cities like Kilwa, Mombasa, and Sofala grew wealthy by buying gold, ivory, and enslaved people from Africa's interior and selling them to Arab and Persian merchants arriving by ship. They had deep contact with Arab traders, were not founded by Zheng He, and porcelain was a Chinese export, not something these cities produced."
+    },
+    {
+      "question": "According to the reading, why did Zheng He's voyages end in 1433?",
+      "options": [
+        "His fleet was destroyed in a storm while sailing back from its seventh and final voyage",
+        "Foreign rulers stopped sending tribute, making further voyages financially pointless to continue",
+        "A new emperor viewed the voyages as wasteful and inconsistent with core Confucian values",
+        "Zheng He died unexpectedly at sea, and no other qualified admiral could be found to replace him"
+      ],
+      "correctIndex": 2,
+      "explanation": "A new Ming emperor saw the expeditions as wasteful and un-Confucian, worried the fleet's cost was better spent defending the northern frontier, and distrusted the court faction associated with Zheng He, so the voyages were deliberately ended and the fleet dismantled. The reading does not describe a fleet destroyed at sea, a tribute shortfall, or Zheng He's death as the cause."
+    },
+    {
+      "question": "What is a diasporic community, according to the reading?",
+      "options": [
+        "A population that settles permanently in a foreign land while keeping ties to its culture of origin",
+        "A temporary group of merchants who pass briefly through a single port during one trading season",
+        "A military force stationed abroad specifically to protect one particular stretch of a trade route",
+        "A group of pirates who settle permanently along a coastline for the purpose of raiding passing ships"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading defines a diasporic community as a population living outside its homeland while maintaining connections to its culture of origin, and distinguishes it from a sojourner who stays briefly and returns home. A temporary trading group, a military garrison, and a band of pirates all lack the permanence and cultural blending the reading describes."
+    },
+    {
+      "question": "Which of the following is NOT one of the diasporic communities the reading names as part of the Indian Ocean network?",
+      "options": [
+        "Arab and Persian merchants who settled permanently in port cities along the East African coast",
+        "Chinese merchants, particularly from Fujian, who settled permanently across Southeast Asia",
+        "Malay sailors and navigators who settled as far away as the island of Madagascar centuries earlier",
+        "Portuguese merchants who settled permanently in East African port cities during this same period"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading names three diasporic communities from this period: Arab and Persian merchants in East Africa, Chinese merchants across Southeast Asia, and Malay sailors reaching as far as Madagascar. Portuguese merchants do not appear anywhere in the reading's account of these trade networks before 1450."
+    },
+    {
+      "question": "What does the Malagasy language spoken in Madagascar show, according to the reading?",
+      "options": [
+        "That Madagascar's first settlers arrived directly from China during Zheng He's treasure voyages",
+        "That Malay sailors had reached and settled Madagascar long before 1200, connecting it to Borneo",
+        "That Arabic speech and vocabulary replaced every local language on the island after Islam arrived",
+        "That Madagascar had no meaningful contact with the rest of the Indian Ocean network before 1450"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading notes that Austronesian sailors from the Malay world settled Madagascar around 650 CE, and that Malagasy is closely related to languages spoken in Borneo, evidence of just how far Malay maritime culture reached. This has nothing to do with Zheng He or Arabic, and directly shows Madagascar was connected to Indian Ocean networks well before 1450."
     }
   ],
   "images": [],

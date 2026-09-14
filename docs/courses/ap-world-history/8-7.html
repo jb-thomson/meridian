@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Two contradictory forces: resistance AND intensification of conflict:</strong> The CED presents Topic 8.7 as showing that the 20th century had both people who challenged conflict (Gandhi, MLK, Mandela) AND people/systems that intensified it (Pinochet, Franco, Idi Amin, Al-Qaeda). Both patterns are required content. <strong>Nonviolent resistance is a major CED theme:</strong> Gandhi (India), Martin Luther King Jr. (US civil rights), and Nelson Mandela (South Africa) all promoted nonviolence as a way to achieve political change. Know all three, what they fought for, how, and what results they achieved. <strong>Militarized states intensified conflict:</strong> Chile under Pinochet, Spain under Franco, Uganda under Idi Amin, and the global military-industrial complex all exemplify how states responded to challenges by intensifying violence rather than reform. These are all CED illustrative examples. <strong>Terrorist movements used violence against civilians:</strong> Shining Path (Peru) and Al-Qaeda are CED examples of movements that used violence against civilians to achieve political aims. These represent a distinct category from state violence.</li></ul>
   
 </div>
@@ -753,6 +787,110 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what do Gandhi, Martin Luther King Jr., and Nelson Mandela have in common as examples of nonviolent resistance?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">None of them ever faced arrest or imprisonment because their governments respected their right to peaceful protest</li><li class="mcq-opt">All three eventually gave up on political change entirely and lived the rest of their lives outside public life</li><li class="mcq-opt">All three faced imprisonment or persecution yet built political change through moral authority rather than armed force</li><li class="mcq-opt">All three achieved their political goals within a single year of beginning their campaigns of resistance</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes Gandhi's assassination, MLK's jailings and assassination, and Mandela's 27 years in prison, showing that all three faced serious persecution while building moral authority that helped achieve lasting political change. None of them avoided arrest, none abandoned public life, and none achieved their goals within a single year.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why does the reading present Pinochet's 1973 coup in Chile as an example of a response that intensified conflict rather than resolving it?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The coup and its aftermath of disappearances and torture deepened Chile's political divisions for decades instead of ending them</li><li class="mcq-opt">The coup was immediately reversed within a few months, restoring Chile's elected government without lasting damage</li><li class="mcq-opt">The coup led directly to a peaceful referendum in which Chileans voted to reinstate Salvador Allende's socialist government</li><li class="mcq-opt">The coup ended all political violence in Chile and produced one of the most stable democracies in Latin America</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that Pinochet's coup, followed by roughly 3,000 disappearances and tens of thousands tortured, created decades of trauma and division rather than resolving Chile's political conflict. It was not quickly reversed, did not lead to a referendum restoring Allende, and did not end political violence.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what happened to Uganda's Asian community under Idi Amin's regime?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They were granted expanded political representation and given several new seats in the Ugandan parliament</li><li class="mcq-opt">Amin's government awarded them ownership of most of the country's major agricultural land as compensation</li><li class="mcq-opt">The United Nations relocated the entire community to Europe before Amin's regime could take any action against them</li><li class="mcq-opt">Approximately 80,000 people were expelled and had their businesses and property confiscated by Amin's government</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that Idi Amin expelled Uganda's roughly 80,000-person Asian community in 1972 and confiscated their businesses and property, devastating Uganda's commercial sector. The reading does not describe expanded representation, land grants, or a UN-organized relocation.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What distinguishes the Shining Path and Al-Qaeda from other resistance movements discussed in the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They were the only two movements in the reading that operated exclusively within a single country's borders</li><li class="mcq-opt">They deliberately targeted civilians as a central strategy for achieving their political goals</li><li class="mcq-opt">They were the only movements in the reading that received direct funding from a rival superpower government</li><li class="mcq-opt">They rejected all forms of ideology and were motivated purely by financial gain rather than political goals</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading defines this category specifically as movements that used violence against civilians to achieve political aims, including Shining Path's village massacres and Al-Qaeda's attacks on civilian targets like the World Trade Center. Operating within one country, receiving superpower funding, and lacking any ideology are not what the reading uses to define this category.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what was one major consequence of Al-Qaeda's September 11, 2001 attacks?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They triggered the US "War on Terror," including the invasions of Afghanistan and Iraq, reshaping global politics</li><li class="mcq-opt">They caused the immediate collapse of the United Nations as an international organization</li><li class="mcq-opt">They led every country in the Middle East to break off all diplomatic relations with the United States</li><li class="mcq-opt">They resulted in Osama bin Laden being captured and put on trial within the same year</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that the 9/11 attacks triggered the US War on Terror, including the invasions of Afghanistan and Iraq, reshaping global politics into the 21st century. It does not describe the UN collapsing, a regional break in diplomacy, or bin Laden's capture that same year.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, how did Francisco Franco come to power in Spain, and what followed?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">He won a national election in 1939 and stepped down peacefully after a single term as president</li><li class="mcq-opt">He led Nationalist forces to victory in the Spanish Civil War with fascist support, then ruled as dictator for 36 years</li><li class="mcq-opt">He was appointed king of Spain by the Catholic Church following the end of the Spanish Civil War</li><li class="mcq-opt">He was installed in power by the United Nations to oversee Spain's postwar reconstruction efforts</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that Franco's Nationalist forces won the Spanish Civil War with crucial support from Nazi Germany and Fascist Italy, after which he ruled as an authoritarian dictator for 36 years, suppressing opposition through executions and imprisonment. He did not win an election, was not appointed king, and was not installed by the UN.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What point was President Eisenhower making when he warned about the "military-industrial complex" in 1961, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">That the relationships between military contractors, the armed services, and Congress created incentives to keep expanding military spending</li><li class="mcq-opt">That the Soviet Union had already surpassed the United States in total military spending by a wide margin</li><li class="mcq-opt">That the United States should immediately disband its entire standing military to avoid further conflict</li><li class="mcq-opt">That private companies should be legally barred from ever producing weapons for the US government</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that Eisenhower warned of a system in which military contractors, the armed forces, and Congress had a shared interest in continued military spending regardless of actual security needs. The reading does not claim Soviet spending had surpassed the US, that the military should be disbanded, or that private weapons production should be banned outright.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 8<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following is NOT one of the examples the reading gives of a state or regime whose violent response intensified rather than resolved conflict?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Chile under Augusto Pinochet, whose military coup and repression deepened political division for decades</li><li class="mcq-opt">Uganda under Idi Amin, whose regime killed an estimated 100,000 to 500,000 people through political violence</li><li class="mcq-opt">Spain under Francisco Franco, whose 36-year dictatorship suppressed opposition through executions and imprisonment</li><li class="mcq-opt">India under the Indian National Congress, whose nonviolent campaigns pressured Britain into granting independence</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading places the Indian National Congress in the nonviolent resistance category alongside Gandhi, not among the examples of state violence intensifying conflict, which the reading reserves for Pinochet, Franco, Idi Amin, and the military-industrial complex.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -899,6 +1037,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="8.7" data-advance-next="8-8.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="8.7">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Why people moved: push and pull factors:</strong> Migration in the 19th century was driven by both push factors (famine, poverty, displacement, political persecution) and pull factors (jobs, higher wages, land, opportunity). The Irish Famine (1845–52) killed or displaced 2 million people, a catastrophic push. American economic opportunity, factory wages, prairie farmland, pulled millions across the Atlantic. KC-5.4.I connects migration to demographic changes in both industrialized and non-industrialized societies. <strong>New transportation and urbanization:</strong> Steam-powered ships cut transatlantic crossing times from 6–8 weeks to 10–14 days, dramatically reducing the cost and risk of long-distance migration. KC-5.4.I.B notes that new transportation modes led migrants increasingly to cities, the great urban growth of 19th-century America (New York, Chicago) and Europe (London, Manchester) was partly fueled by migration. Many migrants also returned home periodically, enabled by faster and cheaper transport.</li><li><strong>LO-B: Explain how various economic factors contributed to varied…:</strong> <strong>Free vs. coerced migration, a critical distinction:</strong> KC-5.4.II draws a sharp distinction between voluntary migration (KC-5.4.II.A: many individuals chose freely to relocate in search of work) and coerced migration (KC-5.4.II.B: the global capitalist economy continued to rely on enslaved people, Chinese and Indian indentured servitude, and convict labor). The AP exam tests whether you can identify and distinguish these two patterns. <strong>Indentured servitude and coolie labor, semi-coerced migration:</strong> After the abolition of the Atlantic slave trade and slavery in the British Empire (1833), plantation owners in the Caribbean, South Africa, and Fiji imported workers under indenture contracts: 5–7 years of labor in exchange for passage, wages, and (sometimes) land. Chinese workers (“coolies”) were sent to the Caribbean, South America, and Southeast Asia under often brutal conditions. Indian indentured workers went to Trinidad, Fiji, Natal, and Mauritius. This was legally “voluntary” but often involved deception and coercion in recruitment.</li></ul>
   
 </div>
@@ -742,6 +776,98 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What is the difference between a push factor and a pull factor in migration, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Push factors drive people away from home, like famine, while pull factors attract them, like jobs or land</li><li class="mcq-opt">Push factors describe voluntary migration, while pull factors describe migration forced by a government</li><li class="mcq-opt">Push factors apply only to migration within a single country, while pull factors apply only across borders</li><li class="mcq-opt">Push factors describe migration by ship, while pull factors describe migration over land and railways</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading defines push factors as conditions (famine, poverty, persecution) that drive people from their home society, and pull factors as conditions (jobs, land, wages) that attract them to a destination. (B), (C), and (D) mischaracterize the distinction the reading makes.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How does the reading describe the Irish Famine (1845–52)?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A famine that was resolved quickly through effective British government relief efforts and food aid</li><li class="mcq-opt">A demographic crisis worsened by colonial policies, since Britain kept exporting food during the famine</li><li class="mcq-opt">A minor regional food shortage that caused almost no emigration from Ireland to other countries</li><li class="mcq-opt">An event caused entirely by overpopulation, with no connection at all to British economic policy</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that a potato blight caused the famine, but British landlords continued exporting food and the government refused adequate relief, making a natural disaster into a catastrophe. (A), (C), and (D) all contradict details the reading gives.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what effect did steam-powered transportation have on migration patterns?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It made migration slower and more expensive, discouraging most working-class people from moving at all</li><li class="mcq-opt">It made only permanent, one-way emigration possible, eliminating any chance of migrants ever returning</li><li class="mcq-opt">It enabled circular and return migration, since faster, cheaper crossings let migrants travel back home</li><li class="mcq-opt">It was used almost exclusively to transport enslaved people rather than free voluntary migrants</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that faster, cheaper steamship crossings allowed migrants to return home periodically or permanently, enabling patterns like Italian seasonal "swallow" migration to Argentina. (A), (B), and (D) directly contradict the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How does the reading classify Chinese and Indian indentured servitude after British emancipation in 1833?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Coerced migration was fully abolished worldwide by 1833, leaving only free labor migration afterward</li><li class="mcq-opt">Chinese and Indian workers, though under contract, faced deceptive recruitment and years of bound labor</li><li class="mcq-opt">British engineers who went to colonial Asia and Africa were classified as coerced or semi-coerced migrants</li><li class="mcq-opt">Only enslaved Africans, and no other group, were ever classified as coerced migrants in this period</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading classifies indentured servitude as semi-coerced: workers signed contracts, but recruitment was often deceptive and workers were legally bound for years under harsh conditions. (A) contradicts the reading's own examples. (C) and (D) misstate who the reading classifies as coerced.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does the reading say about the relationship between new transportation and urbanization in the 19th century?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Migrants overwhelmingly avoided cities, preferring to settle instead in newly opened rural farmland</li><li class="mcq-opt">Urban population growth in this period was caused entirely by falling death rates, not by migration</li><li class="mcq-opt">Cities like London and Chicago actually lost population as migrants moved toward the countryside</li><li class="mcq-opt">Both internal and international migrants relocated to cities, driving significant global urbanization</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that new transportation drew both internal and international migrants into cities, contributing to the significant global urbanization of the 19th century, citing London's and Chicago's rapid growth. (B), (C), and (D) all contradict the reading's evidence.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, how were Chinese laborers on the U.S. transcontinental railroad treated compared to white workers?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Chinese workers were paid wages equal to white workers and received the same land grants and benefits</li><li class="mcq-opt">Chinese workers were paid roughly two-thirds of white workers' wages and assigned the most dangerous tasks</li><li class="mcq-opt">Chinese workers were only permitted to perform administrative office work rather than physical labor</li><li class="mcq-opt">Chinese workers voluntarily returned to China immediately after finishing each week of railroad work</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that Chinese railroad workers earned about two-thirds of white workers' wages, were assigned the most dangerous tasks, and were excluded from the land grants and benefits white workers received. (A), (C), and (D) contradict these details.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why does the reading classify indentured servitude as "semi-coerced" rather than fully voluntary?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Recruiters often deceived workers, and once bound, they could be legally punished for leaving early</li><li class="mcq-opt">The workers signed contracts entirely of their own free will, with full understanding of every single term</li><li class="mcq-opt">The system was created and enforced specifically to improve conditions for the formerly enslaved</li><li class="mcq-opt">Indentured servants could freely renegotiate their wages and conditions at any point during their contract</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that recruitment for indentured labor was often deceptive and that workers, once bound, could not leave or negotiate during the contract term, which is why historians classify it as semi-coerced. (B), (C), and (D) all contradict what the reading describes.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -914,6 +1040,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="6.6" data-advance-next="6-7.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="6.6">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#1f3a5f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -374,6 +405,9 @@
 
 
 <div class="util-panel" data-util-panel="tldr" hidden>
+  
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
   
   <ul class="util-panel-list"><li><strong>Three lenses, one system:</strong> Participatory, pluralist, and elite democratic theory are not rival systems of government; they are three different explanations for why the same American institutions exist and how they should work.</li><li><strong>Institutions map to theories:</strong> Town meetings and ballot initiatives support participatory theory. Interest groups and lobbying support pluralist theory. The Electoral College and lifetime judicial appointments support elite theory.</li><li><strong>The real skill is application:</strong> The AP exam rarely asks you to just define these terms. It asks you to take a specific scenario, an institution, a policy debate, a piece of evidence, and correctly match it to the theory it best supports.</li></ul>
   
@@ -843,6 +877,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-gov" data-complete-num="1.2" data-advance-next="1-3.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-gov" data-questions-num="1.2">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

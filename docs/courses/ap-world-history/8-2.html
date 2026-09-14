@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Capitalism vs. Communism, the core divide:</strong> The US promoted liberal democracy and free-market capitalism; the USSR promoted communist authoritarianism and state-controlled economies. This ideological divide drove the Cold War conflict across nearly every continent. <strong>The Non-Aligned Movement said "no thank you" to both:</strong> Led by figures like Sukarno (Indonesia) and Kwame Nkrumah (Ghana), the NAM tried to stay independent of both superpower blocs, insisting that newly independent nations didn't have to choose sides. This is a required CED illustrative example. <strong>Cultural conflict mattered as much as military competition:</strong> The Cold War was fought with propaganda, cultural exports (jazz, Hollywood, Soviet ballet), science (space race), and economic aid, not just weapons. Both sides tried to win the "hearts and minds" of the developing world. <strong>The "bipolar world" shaped everything:</strong> Every local conflict, every independence movement, every economic policy was filtered through the lens of Cold War competition. Understanding this is key to interpreting virtually every event in Topics 8.2–8.8.</li></ul>
   
 </div>
@@ -733,6 +767,110 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what did the United States and Soviet Union each believe about their own ideological system?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Both superpowers believed their systems needed substantial internal reform in order to keep pace with the other side</li><li class="mcq-opt">Both superpowers believed their systems could only succeed if kept completely isolated from the other's influence</li><li class="mcq-opt">Both superpowers believed their own system was not just better but historically inevitable, and that the world would adopt it</li><li class="mcq-opt">Both superpowers believed ideology mattered far less than raw military strength in determining who won the conflict</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states both superpowers believed their system was not just better but historically inevitable, and that the world would eventually adopt it. The other options are not supported by the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the Truman Doctrine (1947), according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A US policy declaring that it would support free peoples resisting communist takeover, first applied to Greece and Turkey</li><li class="mcq-opt">A joint US-Soviet agreement that formally divided the continent of Europe into two separate zones of influence</li><li class="mcq-opt">A United Nations resolution that officially established containment as a binding piece of international policy</li><li class="mcq-opt">A military alliance that required US troops to be permanently stationed across every country in Eastern Europe</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading defines the Truman Doctrine as declaring US support for free peoples resisting communist takeover, first applied to Greece and Turkey, formalizing the policy of containment. The other options misdescribe the doctrine.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the stated strategic logic behind the Marshall Plan (1948), according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">To directly fund anti-communist armies that were already fighting battles inside Western European countries</li><li class="mcq-opt">To require Western European nations to adopt communist-style economic policies in exchange for receiving US aid</li><li class="mcq-opt">To financially repay Western European nations for the sacrifices they had made during the war years</li><li class="mcq-opt">To rebuild Western European economies so that economic desperation would not lead to communist election victories</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains the Marshall Plan's logic as economic: prosperous, rebuilt economies would resist communist electoral victories, since economic devastation breeds political radicalism. The other options all misstate the plan's purpose.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the Non-Aligned Movement primarily a response to, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A shared desire among newly independent nations to quickly develop their own nuclear weapons programs</li><li class="mcq-opt">Cold War pressure on newly independent nations to align formally with either the US or the Soviet bloc</li><li class="mcq-opt">A joint formal request from the US and USSR asking every smaller nation to remain strictly neutral</li><li class="mcq-opt">The repeated failure of the United Nations to admit any newly independent nations as full members</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading frames the NAM as a response to Cold War pressure on newly independent nations to choose sides, and their desire to preserve genuine sovereignty instead. The other options are not supported by the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the significance of the Bandung Conference (1955), hosted by Sukarno, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It formally and permanently ended Dutch colonial rule over the islands of Indonesia once and for all</li><li class="mcq-opt">It created a permanent, formal military alliance among the Asian and African nations that attended</li><li class="mcq-opt">It gathered 29 Asian and African nations together and laid the groundwork for the Non-Aligned Movement</li><li class="mcq-opt">It resulted in the Soviet Union formally recognizing Indonesian independence for the very first time</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes Bandung as a gathering of 29 Asian and African nations that produced the foundational principles of non-alignment, becoming the seed from which the formal Non-Aligned Movement grew. The other options are not what the reading credits to the conference.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What concept did Kwame Nkrumah develop to describe how a formally independent nation could still be controlled by outside powers, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Neocolonialism, the idea that economic dependence on former colonial powers could undermine genuine independence</li><li class="mcq-opt">Containment, the idea that former colonial powers would eventually try to physically reoccupy their old colonies</li><li class="mcq-opt">Non-alignment, the idea that newly independent states should avoid any foreign trade relationships at all costs</li><li class="mcq-opt">Pan-Africanism, the idea that every African nation should merge together into one single unified government</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading credits Nkrumah with developing the concept of neocolonialism, formal independence undermined by continued economic dependence on former colonial powers or superpowers. The other options describe other, related but distinct ideas.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why did the Soviet Union use propaganda about American racial segregation, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">To encourage African American citizens to emigrate from the United States into the Soviet Union itself</li><li class="mcq-opt">To convince Western European nations to formally and permanently withdraw their membership from NATO</li><li class="mcq-opt">To promote Soviet tourism specifically among the citizens of newly independent nations abroad</li><li class="mcq-opt">To undermine American credibility in Asia and Africa by highlighting the gap between US freedom rhetoric and Jim Crow</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states Soviet propaganda highlighted American segregation specifically to undermine US credibility among newly independent nations, a genuine vulnerability given America's claim to champion freedom. The other options are not mentioned in the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 8<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following is NOT something the reading describes as part of the "cultural Cold War"?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The United States sending jazz musicians like Louis Armstrong on tours sponsored by the State Department</li><li class="mcq-opt">A direct US military invasion launched specifically to stop the spread of Soviet cultural exports</li><li class="mcq-opt">The Soviet Union showcasing the Bolshoi Ballet and its own cinema to audiences living abroad</li><li class="mcq-opt">The ongoing competition between Sputnik and the US moon landing as a display of technological superiority</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes the cultural Cold War as being fought through music, film, broadcasting, and science, not military invasions, so this option never happened. The other options are all specific examples the reading gives.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -879,6 +1017,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="8.2" data-advance-next="8-3.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="8.2">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a6d1f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -398,6 +429,9 @@
 
 
 <div class="util-panel" data-util-panel="tldr" hidden>
+  
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
   
   <ul class="util-panel-list"><li><strong>Land-based empires ran the world:</strong> In 1750, most political power sat with large, land-based agrarian empires and monarchies, Qing China, the Mughal Empire in South Asia, the Ottoman Empire, and absolutist states in Europe like France and Russia. Nearly all depended on farming, taxed peasants, and a small ruling elite.</li><li><strong>Hierarchy was the default, not the exception:</strong> Almost every major society organized itself into a strict social order that people were mostly born into. Europe had its estates system, South Asia had caste, China had a Confucian hierarchy topped by scholar-officials, and social mobility was rare nearly everywhere.</li><li><strong>A global economy was already forming:</strong> Long before any revolution began, trade routes were tying distant regions together, most visibly the Atlantic system, which linked Europe, West Africa, and the Americas through the forced labor of enslaved Africans. That growing interconnection helped set the stage for the political upheavals to come.</li></ul>
   
@@ -807,6 +841,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="global-studies" data-complete-num="1.1" data-advance-next="1-2.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="global-studies" data-questions-num="1.1">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

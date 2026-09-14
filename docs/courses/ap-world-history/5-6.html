@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Japan's Meiji Restoration (key case):</strong> In 1853–1854, American naval commander Matthew Perry forced Japan to open its ports to trade, demonstrating that Japan's traditional military was no match for Western industrial power. The Meiji government that took power in 1868 responded by deliberately adopting Western industrial and military technology, sending students to study in Europe and America, hiring foreign technical experts, building government model factories (and then selling them to private investors), constructing a national railroad network, and reorganizing the military on Western lines. By 1905, Japan defeated Russia in war, the first non-Western country to defeat a major European power in the industrial era, demonstrating the success of state-led industrialization. Britain industrialized primarily through private enterprise. But most later industrializers used significant government direction because they lacked the private capital accumulation and entrepreneurial networks Britain had developed over centuries. The CED requires knowledge of three cases: (1) Muhammad Ali's Egypt, government-built cotton textile industry in the 1820s–1840s, ultimately unsuccessful against British competition; (2) Meiji Japan, after 1868, the government built model factories, sent students abroad, hired foreign experts, and constructed railroads and shipyards; (3) implied: Russia under Finance Minister Witte in the 1890s, massive state investment in the Trans-Siberian Railroad and industrial development. <strong>Muhammad Ali's Egypt (illustrative example):</strong> Muhammad Ali became ruler of Egypt (nominally under Ottoman authority) in 1805 and pursued an ambitious modernization program, including establishing government-owned cotton textile mills using European machinery and expertise. His goal was to break Egypt's dependence on European finished goods. Initially promising, the program was undermined by the Anglo-Ottoman Commercial Convention of 1838, which opened Egypt to cheap British goods without tariff protection. Unable to compete, the Egyptian textile industry collapsed. This is a cautionary example of state-sponsored industrialization that failed due to political constraints on trade policy.</li></ul>
   
 </div>
@@ -781,6 +815,98 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why did countries like Japan, Russia, and Egypt rely more on government direction to industrialize than Britain did?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They lacked the private capital and entrepreneurial networks that Britain had built up over decades</li><li class="mcq-opt">Their governments believed that private enterprise itself was morally wrong and unacceptable</li><li class="mcq-opt">Britain's government formally forbade these countries from allowing any private industry</li><li class="mcq-opt">They possessed far more coal and iron than Britain, so government control was needed for it</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that later industrializers lacked Britain's decades of accumulated private capital and entrepreneurial experience, so they used government direction to catch up quickly instead of waiting for private capital to build up organically. Nothing in the reading suggests an ideological opposition to private enterprise, and Britain never forbade other nations from having private industry. Egypt and Japan are not described as having more coal or iron than Britain.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What ultimately caused Muhammad Ali's Egyptian textile industry to collapse?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A severe famine in the 1830s that destroyed Egypt's cotton crop before it reached the factories</li><li class="mcq-opt">The Anglo-Ottoman Commercial Convention of 1838, which forced Egypt to accept British goods without tariffs</li><li class="mcq-opt">A large-scale strike by Egyptian workers who refused to operate the imported European machinery</li><li class="mcq-opt">The death of Muhammad Ali before construction of any of the planned factories could be completed</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading identifies the 1838 Anglo-Ottoman Commercial Convention as the decisive blow, since it forced Egypt to open its market to British goods without protective tariffs, and Egypt's less efficient factories could not compete on price. There is no mention of a famine destroying the cotton crop or of a workers' strike. Muhammad Ali ruled Egypt until 1848, well after the factories were built and had already begun to decline.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What event directly triggered Japan's Meiji-era push toward industrialization?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The founding of a European bank that refused to lend money to any non-Western governments</li><li class="mcq-opt">Russia's completion of the Trans-Siberian Railroad, connecting European Russia to the Pacific</li><li class="mcq-opt">Commodore Perry's arrival with steam warships, which showed Japan's military could not match the West</li><li class="mcq-opt">Japan's own defeat by China in a lengthy border conflict fought over control of Korea</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes Perry's 1853 arrival with steam-powered warships as the shock that convinced Japanese leaders their traditional military could not resist Western power, leading to the Meiji Restoration and its modernization program. The bank and the Trans-Siberian Railroad belong to other topics and are not connected to Japan in this reading. Japan defeated, rather than was defeated by, China in the war the reading describes.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the purpose of the Meiji government's "model factories" strategy?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">To keep every factory's profits permanently in the hands of the national government</li><li class="mcq-opt">To provide finished goods to Japanese citizens completely free of any charge</li><li class="mcq-opt">To compete directly against private Japanese companies until they went out of business</li><li class="mcq-opt">To demonstrate that modern production worked and train workers, before selling to private investors</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that the government built silk mills, shipyards, and foundries to prove industrial production could work and train the first generation of workers, then sold most of them to private investors like the zaibatsu families. The government did not intend to keep the factories permanently or give away their goods for free. The strategy supported private enterprise rather than trying to destroy it.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What best explains why Japan's industrialization succeeded while Egypt's ultimately failed?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Japan kept its political independence and could set its own tariffs, while treaties controlled Egypt's trade</li><li class="mcq-opt">Japan simply had access to far more coal and iron deposits in its territory than Egypt possessed</li><li class="mcq-opt">Egypt flatly refused to hire any foreign experts at all, while Japan hired thousands of them</li><li class="mcq-opt">Japan's much larger overall population gave it many more potential factory workers to draw on</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that Japan's political independence let it protect its developing industries with tariffs, while Egypt as an Ottoman province was bound by the 1838 treaty that removed its tariff protection. Egypt actually did hire European experts and machinery for its textile mills, so that option contradicts the reading. Population size and mineral deposits are not given as the deciding factors in the comparison.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What did Japan's victory in the Russo-Japanese War of 1905 demonstrate?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">That Russia had never actually undergone any real industrialization during the 19th century</li><li class="mcq-opt">That deliberate, state-led industrialization could build the base to defeat a major Western power</li><li class="mcq-opt">That naval warfare itself had become essentially obsolete by the start of the industrial age</li><li class="mcq-opt">That Japan's overall national economy had grown larger than Britain's economy by 1905</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading presents the 1905 victory as proof that Japan's 37-year, state-directed modernization program had succeeded in building genuine industrial and military power, the first time a non-Western country defeated a major European power in the industrial era. Russia is described elsewhere as a genuine industrializing power, just a slower and later one than Japan. The reading makes no claim about naval warfare becoming obsolete or about the relative size of Japan's and Britain's economies.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following was NOT part of the Meiji government's industrialization program, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Sending Japanese students abroad to study in Britain, France, Germany, and the United States</li><li class="mcq-opt">Hiring thousands of foreign technical experts to train Japanese workers and engineers</li><li class="mcq-opt">Nationalizing every foreign-owned bank that was operating inside Japanese territory</li><li class="mcq-opt">Building a national railroad network that began construction back in the 1870s</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading lists sending students abroad, hiring over 3,000 foreign experts, and building railroads as key parts of the Meiji program, but it never mentions nationalizing foreign banks. That detail simply does not appear anywhere in the reading's description of Meiji policy.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -963,6 +1089,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="5.6" data-advance-next="5-7.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="5.6">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

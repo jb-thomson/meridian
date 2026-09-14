@@ -409,6 +409,96 @@
       "modelAnswer": "Both involve major schisms within existing religious traditions that had political as well as theological dimensions. Both produced lasting divisions that persist today. Western Christianity remains divided into Catholic and Protestant branches; the Islamic world remains divided between Sunni and Shi'a communities. Both were intensified by political rivalries (German princes vs. the Holy Roman Emperor; Ottoman vs. Safavid empires). Both created religious minorities who faced persecution: Protestants in Catholic lands, Shi'a in Ottoman lands. Key differences: The Protestant Reformation involved genuine theological innovation. Luther's sola fide represented a new position that broke with centuries of Catholic teaching. The Sunni-Shi'a split involved the hardening of a very old theological division (7th century) through the new Safavid state's institutional power. It was intensification of an existing division, not the creation of a new theology. Another difference: the Reformation produced dozens of denominations (Lutherans, Calvinists, Anglicans, Anabaptists, eventually Baptists, Methodists, Quakers, and hundreds more), showing how doctrinal innovation can become self-multiplying; the Safavid-Ottoman conflict produced two sharper territorial blocs but did not generate new theological positions within Islam."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, what made Martin Luther's challenge to the Church succeed where earlier reformers like Jan Hus had failed?",
+      "options": [
+        "Luther had the personal support of the Pope, who secretly agreed with his criticism of indulgences",
+        "Luther avoided any direct criticism of Church practices and focused only on abstract theology",
+        "The printing press spread his 95 Theses too widely and fast for the Church to suppress by silencing one man",
+        "Luther led an armed rebellion that defeated the forces the Holy Roman Emperor sent to arrest him"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that the printing press turned what might have been another internal Church dispute into a continent-wide crisis within weeks, reaching an audience earlier reformers never could before being suppressed. The other options are not supported anywhere in the reading."
+    },
+    {
+      "question": "What was Martin Luther's theological objection to the Catholic Church selling indulgences?",
+      "options": [
+        "He believed salvation came through faith alone, so purchasing forgiveness contradicted his reading of scripture",
+        "He believed indulgences should only be sold by bishops, not by traveling agents of the Church",
+        "He believed indulgences were fine in theory but were being sold at unfairly high prices",
+        "He believed indulgence money should fund hospitals instead of the construction of churches"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading states that Luther's theological objection rested on sola fide, the idea that salvation comes through faith alone, which meant that purchasing forgiveness through indulgences contradicted his reading of scripture. The other options describe objections to the practical details of the sale, not the theological objection the reading describes."
+    },
+    {
+      "question": "What did the Council of Trent (1545 to 1563) accomplish for the Catholic Church, according to the reading?",
+      "options": [
+        "It formally adopted Luther's doctrine of sola scriptura as official Catholic teaching",
+        "It transferred the pope's authority to a council of bishops who governed the Church collectively",
+        "It ended the sale of Church offices to the highest bidder but left indulgences unchanged",
+        "It clarified doctrine, required seminaries, banned indulgence sales, and reaffirmed the Latin Mass and tradition"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading lists these specific reforms: clarifying doctrine, requiring seminaries in every diocese, prohibiting the sale of indulgences, affirming Church tradition alongside scripture, and standardizing the Latin Mass. The first two options are the opposite of what the Council actually did, and the third option only names one of several reforms."
+    },
+    {
+      "question": "What was the most significant institutional achievement of the Counter-Reformation, according to the reading?",
+      "options": [
+        "The complete reunification of Catholic and Protestant churches under a single pope",
+        "The founding of the Jesuit order, a leading Catholic force in education and global missionary work",
+        "The permanent abolition of the position of Holy Roman Emperor in favor of Church rule",
+        "The translation of the Bible into German to compete directly with Luther's own version"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading identifies the Society of Jesus, founded by Ignatius of Loyola in 1540, as the most significant institutional creation of the Counter-Reformation, noting its role in education across Europe and missionary work in Japan, China, India, and beyond. The other options are not described in the reading."
+    },
+    {
+      "question": "Why did the centuries-old Sunni-Shia split become a sharper geopolitical divide starting in the 16th century, according to the reading?",
+      "options": [
+        "The Safavids made Shi'a Islam Persia's state religion, turning a theological split into a territorial boundary",
+        "The Ottoman Empire converted to Shi'a Islam, ending the theological dispute between the branches entirely",
+        "European colonizers imposed the religious division on Muslim populations to weaken Islamic unity",
+        "A council of Islamic scholars from both branches formally agreed to divide the Middle East by religion"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that before the Safavids, Sunni and Shi'a communities coexisted within the same political entities. When Shah Ismail declared Persia officially Shi'a in 1501 and enforced conversion, religious identity became tied to a specific territory for the first time, which the Ottoman-Safavid wars then enforced militarily. The other options are not supported by the reading."
+    },
+    {
+      "question": "What did Guru Nanak teach about caste and religious identity, according to the reading?",
+      "options": [
+        "He taught that caste should be preserved but that all castes deserved equal access to mosques",
+        "He taught that only Hindus could reach spiritual liberation, since Islam lacked devotion to one God",
+        "He taught that caste was spiritually irrelevant and all people were equal before one formless God",
+        "He taught that Hindus and Muslims should keep separate places of worship and avoid all contact"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading states that Nanak explicitly rejected caste as spiritually irrelevant and declared there is no Hindu, there is no Muslim, teaching the oneness of God beyond either religious label. The other options directly contradict this teaching as described in the reading."
+    },
+    {
+      "question": "What was the purpose of the langar, the community kitchen found at Sikh gurdwaras, according to the reading?",
+      "options": [
+        "It provided free meals only to Sikh soldiers preparing for battle against the Mughal army",
+        "It let everyone eat together regardless of caste, embodying Nanak's teaching of equality",
+        "It sold food to raise construction money for building new gurdwaras across Punjab",
+        "It was reserved for the ten Gurus and their families as a symbol of spiritual authority"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading describes the langar as a place where everyone eats together regardless of caste, social status, or religion, calling it one of the most distinctive Sikh practices and a direct embodiment of Nanak's rejection of caste. The other options are not supported by the reading."
+    },
+    {
+      "question": "Which of the following is NOT an accurate statement about the Protestant and Catholic Reformations, according to the reading?",
+      "options": [
+        "Both movements contributed to the global spread of Christianity through migration and missionary work",
+        "The Reformation produced dozens of Protestant groups, including Lutheran, Calvinist, and Anglican branches",
+        "Luther condemned the 1525 Peasants' War even though peasants used his own ideas to justify it",
+        "The Church accepted salvation by faith alone as valid and rejected only Luther's stance on indulgences"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading states that the Council of Trent explicitly rejected Lutheran positions on justification while also addressing genuine ambiguities, meaning the Church did not accept sola fide. The other three statements are all directly supported by the reading."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

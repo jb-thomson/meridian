@@ -235,7 +235,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Once the Mongols controlled a region, they had a strong incentive to keep it stable. Stable territory meant tax revenue. Merchants moving goods meant customs duties. A merchant robbed on your road was money you didn't collect. So the Mongols actively *protected* trade routes, built rest stops, and punished banditry severely."
+      "text": "Once the Mongols controlled a region, they had a strong incentive to keep it stable. Stable territory meant tax revenue, so administrators conducted regular censuses to know exactly how many people and how much wealth each territory owed, and the empire ran on the **Yam**, a relay system of horse stations spaced roughly every 25 miles that let messengers and officials move fast across thousands of miles. Merchants moving goods meant customs duties. A merchant robbed on your road was money you didn't collect. So the Mongols actively *protected* trade routes, built rest stops, and punished banditry severely."
     },
     {
       "type": "image",
@@ -279,7 +279,7 @@
     },
     {
       "type": "funFact",
-      "text": "Genghis Khan had so many children, historians estimate he fathered hundreds, that today approximately **16 million men alive on Earth are his direct descendants**. That's about 0.5% of the entire male population of the planet, or roughly 1 out of every 200 men alive today. A 2003 genetics study traced a specific Y-chromosome lineage back to him. He may be the most reproductively successful individual in recorded human history."
+      "text": "Genghis Khan had so many children, historians estimate he fathered hundreds, that today approximately **16 million men alive on Earth carry his direct male-line descent**. That's about 0.5% of the entire male population of the planet, or roughly 1 out of every 200 men alive today. A 2003 genetics study found this by tracing a Y-chromosome, which passes essentially unchanged from father to son, so it's one of the only ways to track one specific man's lineage 800 years later. His female-line descendants (through daughters) are just as numerous and just as real, they're simply untraceable this way, since there's no equivalent genetic marker that could isolate them the same way. He may be the most reproductively successful individual in recorded human history."
     },
     {
       "type": "heading",
@@ -315,7 +315,7 @@
     },
     {
       "type": "apTip",
-      "text": "The Black Death is a perfect AP exam example of an *unintended consequence* of trade network expansion. When you're asked about the effects of the Silk Roads or the Mongol Empire, the plague is exactly the kind of nuanced, complex effect the AP exam rewards. It also shows continuity and change, and you should be able to explain the mechanism, not just assert it: killing 30–60% of Europe's population created a severe labor shortage, so surviving peasants and workers could suddenly demand higher wages and more freedom, weakening the feudal system that depended on a large, tied-down labor force. The Church's authority took a hit too, since prayer and ritual visibly failed to stop the dying, and priests who kept ministering to the sick died at especially high rates, leaving people questioning an institution that couldn't explain or prevent the catastrophe. Fewer people meant surviving estates and fortunes concentrated in fewer hands, one factor (among many) that historians link to the wealth that later funded Renaissance art and scholarship."
+      "text": "The Black Death is a perfect AP exam example of an *unintended consequence* of trade network expansion. When you're asked about the effects of the Silk Roads or the Mongol Empire, the plague is exactly the kind of nuanced, complex effect the AP exam rewards. It's also a clean continuity-and-change example: the trade routes themselves were the continuity, the same Mongol-protected roads kept connecting Europe and Asia just as they had for a century, nothing about the network itself changed. What changed was what that connectivity carried once disease started moving along it, killing 30–60% of Europe's population and reshaping European labor systems, Church authority, and eventually the wealth that helped fund the Renaissance. Topic 2.6, Environmental Consequences of Connectivity, covers those downstream effects on Europe in depth, including the Peasants' Revolt of 1381 and the plague's role in seeding the skepticism that later fed the Protestant Reformation."
     },
     {
       "type": "heading",
@@ -330,7 +330,7 @@
       "items": [
         "**Overextension**, The empire was simply too large to govern effectively. Communication across thousands of miles was slow; local rebellions were hard to suppress; the khanates increasingly acted as independent states.",
         "**The plague**, The Black Death devastated Mongol populations too, weakening military capacity and destabilizing governance.",
-        "**Assimilation**, In many regions, Mongol rulers adopted local customs, languages, and religions so thoroughly that they lost their distinct Mongol identity. This wasn't new tolerance, Genghis Khan's original legal code, the Yassa, had already exempted the clergy of every religion from taxation, a deliberate policy of religious pluralism meant to keep conquered populations calm rather than rebellious. But over generations that tolerance tipped into conversion: the Ilkhanate's ruler Ghazan Khan converted to Islam in 1295, and the Golden Horde's Uzbeg Khan made Islam the state religion in the 1310s, while in China the Yuan court patronized Tibetan Buddhism and governed through the same Confucian bureaucratic exams the Chinese themselves used. Each khanate ended up looking more like the people it had conquered than like the steppe nomads who had conquered them, and the Yuan Dynasty was eventually overthrown by a Chinese rebellion (founding the Ming Dynasty in 1368).",
+        "**Assimilation**, In many regions, Mongol rulers adopted local customs, languages, and religions so thoroughly that they lost their distinct Mongol identity. This wasn't new tolerance, Genghis Khan's original legal code, the **Yassa**, was a single codified body of law applied consistently to every subject regardless of ethnicity or religion, and it had already exempted the clergy of every religion from taxation, a deliberate state policy of religious pluralism meant to keep conquered populations calm rather than rebellious. But over generations that tolerance tipped into conversion: the Ilkhanate's ruler Ghazan Khan converted to Islam in 1295, and the Golden Horde's Uzbeg Khan made Islam the state religion in the 1310s, while in China the Yuan court patronized Tibetan Buddhism and governed through the same Confucian bureaucratic exams the Chinese themselves used. Each khanate ended up looking more like the people it had conquered than like the steppe nomads who had conquered them, and the Yuan Dynasty was eventually overthrown by a Chinese rebellion (founding the Ming Dynasty in 1368).",
         "**New powers rising**, As Mongol control weakened, successor states emerged, including the Ottoman Empire, the Ming Dynasty, and others that would shape the next chapter of world history."
       ]
     },
@@ -493,43 +493,43 @@
     {
       "question": "What was the Pax Mongolica?",
       "options": [
-        "A religious conversion campaign that spread the Mongols' own faith across Eurasia",
-        "A period of relative stability under Mongol control that made long-distance trade far safer than before",
-        "A formal trade treaty signed between the four khanates",
-        "The Mongol name for their capital city"
+        "A religious conversion campaign that spread the Mongols' own faith and customs across the entire empire",
+        "The Mongol name for their capital city and its surrounding administrative district",
+        "A period of relative stability under Mongol control that made long-distance trade safer than before",
+        "A formal trade treaty signed and ratified between representatives of the four khanates"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "The Pax Mongolica (\"Mongol Peace,\" roughly 1250–1350 CE) describes a period when Mongol political control over Central Asia reduced banditry and gave merchants consistent protection across an enormous area for the first time. (A) is incorrect: the Mongols never tried to spread their own religion, and largely adopted the religions of the people they conquered instead. (C) wrongly treats it as one specific agreement rather than a general condition of stability. (D) confuses a historical period with a place."
     },
     {
       "question": "What was the primary purpose of the Yam relay system?",
       "options": [
-        "To collect tolls from merchants at fixed checkpoints",
         "To let the central government communicate and coordinate across the empire quickly",
-        "To provide free lodging for religious pilgrims",
-        "To train new cavalry recruits in archery"
+        "To collect tolls and taxes from merchants passing through fixed checkpoints",
+        "To train new cavalry recruits in mounted archery before deployment",
+        "To provide free lodging and supplies for religious pilgrims traveling to holy sites"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "The Yam's stations, spaced roughly every 25 miles, existed to move messengers and messages across the empire fast, which is what let the Mongols govern and coordinate military campaigns across such a huge territory. (A) describes a possible side benefit for merchants, not its primary purpose. (C) and (D) describe functions the Yam did not serve."
     },
     {
       "question": "According to the reading, why didn't the Mongol Empire's split into four khanates stop trade from expanding?",
       "options": [
-        "The four khanates were secretly reunified within a decade",
-        "Trade had already collapsed before the empire split, so there was nothing left to disrupt",
-        "Every khanate still profited from customs revenue, so all of them had a financial incentive to keep routes safe",
-        "European merchants took over responsibility for policing the trade routes"
+        "The four khanates were secretly reunified into a single government within a decade",
+        "Trade had already collapsed completely before the empire split, so there was nothing left to disrupt",
+        "European merchants organized their own forces and took over policing the trade routes",
+        "Every khanate still profited from customs revenue, giving each one an incentive to protect trade"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Even after fragmenting, each khanate depended on trade passing through its territory for tax revenue, so political division at the top didn't remove the underlying economic incentive to protect commerce. (A) is false; the khanates remained separate. (B) contradicts the reading, which describes trade expanding, not collapsing. (D) is not mentioned anywhere in the reading."
     },
     {
       "question": "Which of these is a real example of knowledge that spread toward Europe through Mongol-connected trade networks?",
       "options": [
-        "Papermaking, which was invented in Europe and exported to China",
+        "Papermaking, a Chinese invention that was mistakenly believed to have originated in Europe",
         "Greco-Islamic medical knowledge that Islamic scholars had preserved and built on for centuries",
-        "The Roman numeral system, which spread from Rome eastward into Asia",
-        "The electric telegraph"
+        "The Roman numeral system, which spread eastward from Rome into Central and East Asia",
+        "The electric telegraph, developed centuries later using similar relay principles"
       ],
       "correctIndex": 1,
       "explanation": "Islamic scholars had preserved and expanded on ancient Greek medical knowledge for centuries; Mongol-connected trade routes carried that knowledge toward European scholars who had lost access to it. (A) reverses the real direction: papermaking was invented in China, not Europe. (C) also reverses the real story: Hindu-Arabic numerals moved into Europe and eventually replaced Roman numerals, not the other way around. (D) is anachronistic, invented centuries later."
@@ -537,45 +537,45 @@
     {
       "question": "What does the destruction of Baghdad's House of Wisdom in 1258 best illustrate about the Mongol Empire?",
       "options": [
-        "That the Mongols specifically targeted Islamic institutions out of religious hostility",
-        "That Mongol connectivity and Mongol destruction were two sides of the same conquest, the same force that enabled trade also destroyed centers of learning",
-        "That the Mongols had no interest in cities and valued only rural grazing land",
-        "That Baghdad was rebuilt within a few years with no lasting consequences"
+        "That the same conquest that enabled trade and connectivity also destroyed centers of learning like Baghdad",
+        "That the Mongols specifically targeted Islamic institutions and scholars out of religious hostility",
+        "That Baghdad was quickly rebuilt afterward with no lasting consequences for the region",
+        "That the Mongols had no interest in capturing or holding cities, valuing only rural grazing land"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "The same political and military force that created the stability of the Pax Mongolica also carried out the deliberate, large-scale destruction of cities that resisted, including Baghdad, showing that Mongol connectivity came with real, permanent costs. (A) isn't supported; Mongol violence against resisting cities wasn't specifically about religion, it was a broader terror strategy used across the empire regardless of the local faith. (C) is contradicted by their systematic targeting and use of major cities. (D) understates the loss, historians still treat the destruction of the House of Wisdom's centuries of scholarship as a permanent, irreplaceable blow."
     },
     {
       "question": "How did the Black Death spread westward according to the reading?",
       "options": [
-        "It originated in Europe and spread east into Mongol territory",
-        "Fleas living on rats traveled with merchants along Mongol-protected trade routes",
-        "European sailors brought it back from voyages to West Africa",
-        "It spread only through direct combat between Mongol soldiers and European armies"
+        "It originated somewhere in Europe and then spread eastward into Mongol territory",
+        "European sailors brought it back to the continent from voyages along the coast of West Africa",
+        "It spread only through direct combat between Mongol soldiers and European armies in battle",
+        "Fleas living on rats traveled westward with merchants along Mongol-protected trade routes"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "The bacterium causing the plague was carried by fleas on rats that traveled with caravans along the same routes the Mongols had made safer and busier. (A) reverses the actual origin point, likely the Mongol heartland in Central Asia. (C) and (D) describe transmission methods the reading doesn't support."
     },
     {
       "question": "What best explains the Mongol Empire's eventual decline?",
       "options": [
-        "A single decisive military defeat by a rival empire",
-        "A combination of overextension, the Black Death's toll on Mongol populations, and rulers assimilating into the cultures they had conquered",
-        "The invention of gunpowder by their enemies",
-        "A unified religious rebellion against Mongol rule"
+        "A single decisive military defeat inflicted by one powerful rival empire in open battle",
+        "The sudden invention and widespread adoption of gunpowder weapons by their enemies",
+        "A combination of imperial overextension, the Black Death's toll, and rulers assimilating into conquered cultures",
+        "A single unified religious rebellion that swept across the entire empire all at once"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "The reading describes decline as multi-causal: the empire grew too large to govern effectively, the plague weakened Mongol populations directly, and Mongol rulers in places like China and Persia gradually lost their distinct identity by adopting local customs and religions. (A), (C), and (D) each name a single dramatic cause the reading doesn't support."
     },
     {
       "question": "The reading argues the Mongols' most lasting legacy was NOT which of the following?",
       "options": [
-        "Administrative and legal practices, like codified law and religious tolerance as policy, that later states borrowed from",
-        "Trade and communication networks that connected Afro-Eurasia for about a century",
-        "A Mongol religion, language, or culture that conquered peoples adopted",
-        "A model of governing a religiously and ethnically diverse territory"
+        "Administrative and legal practices, like codified law and religious tolerance, that later states borrowed from",
+        "A Mongol religion, language, or set of cultural customs that conquered peoples ended up adopting",
+        "Trade and communication networks that connected Afro-Eurasia for roughly a century",
+        "A reusable model for governing a religiously and ethnically diverse territory"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Unlike Rome or the Islamic caliphates, the Mongols never tried to export their own religion or culture, the Yassa deliberately let conquered peoples keep their own customs, which is why the Ilkhanate could become Muslim and the Yuan court could govern as Confucian emperors. (A), (B), and (D) are all legacies the reading directly credits to the Mongols."
     }
   ],

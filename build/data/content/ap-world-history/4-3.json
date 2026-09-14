@@ -343,6 +343,85 @@
       "modelAnswer": "The Columbian Exchange is perhaps the most powerful illustration in AP World History of the double-edged nature of connectivity. The benefits, calorie-dense American food crops supporting Afro-Eurasian population growth, Old World animals expanding economic possibilities for some indigenous Americans, were real and significant. But the costs, demographic catastrophe for indigenous Americans, ecological disruption of American ecosystems, the Atlantic slave trade, were borne almost entirely by people who had not chosen and could not prevent the exchange. Afro-Eurasians benefited enormously; indigenous Americans were devastated; Africans were enslaved to replace them. The same biological exchange that enriched European diets depopulated American civilizations that had flourished for millennia. This asymmetry of benefit and cost, falling along lines of power and geography, is a pattern that recurs throughout the history of global exchange, and the Columbian Exchange illustrates it with unusual clarity and scale."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "What is the Columbian Exchange, according to the reading?",
+      "options": [
+        "A formal trade agreement Columbus signed with Spain to divide profits from future voyages",
+        "The massive transfer of plants, animals, diseases, and people between hemispheres after 1492",
+        "The specific route Columbus's ships sailed between the Canary Islands and the Caribbean",
+        "A tax the Spanish crown collected on all silver shipped back from its American colonies"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading defines the Columbian Exchange as the massive transfer of plants, animals, diseases, and people between the Eastern and Western Hemispheres that began after Columbus's 1492 voyage, ending roughly 12,000 years of biological isolation. It was not a trade agreement, a shipping route, or a tax."
+    },
+    {
+      "question": "Why were indigenous Americans so much more vulnerable to Afro-Eurasian diseases than Europeans were, according to the reading?",
+      "options": [
+        "Indigenous Americans had never developed any form of medicine before European contact",
+        "European ships carried far more disease per voyage than any indigenous American settlement",
+        "Indigenous Americans had no prior exposure to these diseases and so had no immunity built up",
+        "Spanish colonizers deliberately infected indigenous populations with disease as an early strategy"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that diseases like smallpox had circulated in Afro-Eurasia for centuries, giving those populations partial immunity through repeated exposure, while indigenous Americans had zero prior exposure and therefore zero defense. The reading does not claim indigenous peoples lacked medicine, and while the funFact mentions one possible siege-related instance elsewhere in the course, this reading does not present deliberate infection as the general explanation."
+    },
+    {
+      "question": "According to the reading, what effect did American food crops like the potato have on populations in Afro-Eurasia?",
+      "options": [
+        "They had almost no effect, since most farmers refused to grow unfamiliar foreign crops",
+        "They caused widespread famine by replacing traditional grains that were more reliable",
+        "They increased calories per acre in difficult climates and supported population growth",
+        "They were grown only as decorative garden plants until the 20th century in most regions"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that the potato produced far more calories per acre than wheat in cold, wet climates, and that this nutritional boost supported population growth across places like Ireland, Germany, and Russia. The reading does not describe farmers refusing the crop, widespread famine from it, or it being merely decorative."
+    },
+    {
+      "question": "How did the reintroduction of horses change the cultures of Plains peoples in North America, according to the reading?",
+      "options": [
+        "It let mounted hunters pursue bison far more efficiently, transforming their economies and warfare",
+        "It ended bison hunting entirely, since horses required all available grazing land for themselves",
+        "It forced Plains peoples to abandon their territories and migrate permanently to the coast",
+        "It had almost no lasting cultural effect beyond providing a faster method of local travel"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that mounted hunters could run down bison far more efficiently than hunters on foot, which increased food security and transformed Plains societies into fully nomadic, militarily powerful cultures built around the horse. The other options describe outcomes the reading does not support."
+    },
+    {
+      "question": "What connection does the reading draw between the Columbian Exchange and the growth of the Atlantic slave trade?",
+      "options": [
+        "Disease devastated indigenous labor, and plantation owners turned to enslaved Africans to replace it",
+        "European monarchs required a fixed number of enslaved Africans before granting any exploration license",
+        "African rulers demanded enslaved labor from Europe as payment for allowing exploration to continue",
+        "The slave trade began entirely independently and had no real connection to the Columbian Exchange"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading traces a direct chain: disease killed 50 to 90 percent of indigenous populations, leaving plantation owners without enough workers, which drove the massive expansion of the Atlantic slave trade to supply labor for crops like sugar. The other options describe relationships the reading never mentions."
+    },
+    {
+      "question": "According to the reading, which of the following did the College Board specifically name as disease vectors transferred to the Americas, in addition to human diseases themselves?",
+      "options": [
+        "Mosquitoes and rats, which carried malaria and other diseases across the Atlantic",
+        "Migratory birds, which the reading credits with spreading disease between continents",
+        "Domesticated cats, which the reading says carried disease into indigenous households",
+        "Ocean currents themselves, which the reading treats as a disease vector in their own right"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explicitly names mosquitoes and rats as disease vectors, noting that mosquitoes carrying malaria arrived from Africa via the slave trade and that rats carrying disease stowed away on ships, amplifying the epidemiological impact. Birds, cats, and ocean currents are not mentioned as vectors in the reading."
+    },
+    {
+      "question": "Which of the following was NOT one of the effects of the Columbian Exchange described in the reading?",
+      "options": [
+        "American food crops supporting population growth in parts of Afro-Eurasia",
+        "A demographic collapse of 50 to 90 percent among many indigenous American populations",
+        "The expansion of the Atlantic slave trade to replace a collapsed indigenous labor force",
+        "A near-total halt in global population growth that lasted for several centuries afterward"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes population growth in Afro-Eurasia from new food crops, catastrophic indigenous population loss, and the resulting expansion of the slave trade, but it never claims global population growth halted. In fact the reading treats American crops as a driver of population growth, not stagnation."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

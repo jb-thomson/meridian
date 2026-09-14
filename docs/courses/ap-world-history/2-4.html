@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: LO: Causes of trans-Saharan trade growth:</strong> Two factors made it possible: (1) <em>Technology</em>, the North African camel saddle (c. 300 CE) allowed camels to carry up to 600 lbs of cargo for weeks without water, turning the Sahara from an impassable barrier into a viable corridor. Without this, no organized commercial caravan could have made the crossing. (2) <em>Geographic specialization</em>. West Africa had abundant gold but almost no salt; the Sahara had massive salt deposits but no gold; North Africa had manufactured goods and Mediterranean connections. This mutual scarcity made trade economically necessary rather than merely convenient, each region needed what the other had. <strong>LO: Effects of trans-Saharan trade:</strong> Islam spread peacefully into West Africa through sustained contact with North African Muslim merchants; rulers converted voluntarily because it provided access to Islamic trade networks, commercial legal frameworks, and cultural prestige. Timbuktu grew into a center of Islamic scholarship with an estimated 25,000 students and hundreds of thousands of manuscripts in mathematics, astronomy, medicine, and law, commercial wealth funding cultural achievement. West African gold flooded Mediterranean markets, and enslaved people moved northward, connecting West Africa into the broader Afro-Eurasian world for the first time.</li><li><strong>LO-B: Explain how the expansion of empires, especially…:</strong> <strong>LO: How Mali's expansion influenced trade and communication:</strong> Mali grew wealthy by controlling the territory between the goldfields and the trans-Saharan routes, taxing every caravan without needing to mine gold or produce salt itself. This toll-road model made Mali's emperors among the wealthiest rulers in the medieval world. Mansa Musa's 1324 hajj (60,000 attendants, tons of gold distributed in Cairo) crashed the Egyptian gold price for a decade and put Mali on European maps for the first time, demonstrating how pilgrimage routes doubled as intercontinental information networks. Mali's political stability and Islamic identity made it a trusted commercial partner, dramatically expanding trade volume and reliability.</li></ul>
   
 </div>
@@ -613,7 +647,7 @@
     
   
     
-  <p>And yet, on the other side of that desert sat some of the most valuable resources in the medieval world. West Africa had <strong>gold</strong>, enormous deposits of it, more than almost anywhere else on Earth. North Africa and the Mediterranean world desperately wanted that gold. They had something West Africa desperately needed in return: <strong>salt</strong>. West African diets were chronically salt-deficient, and without salt, you cannot preserve food or maintain basic bodily functions. Salt also preserved the meat that fed armies on campaign, empires literally could not fight wars without it. Controlling salt was controlling power.</p>
+  <p>And yet, on the other side of that desert sat some of the most valuable resources in the medieval world. West Africa had <strong>gold</strong>, enormous deposits of it, more than almost anywhere else on Earth. North Africa and the Mediterranean world desperately wanted that gold. In exchange, Saharan and North African traders controlled something West Africa desperately needed: <strong>salt</strong>, mined from deposits deep in the Sahara itself, most famously at Taghaza. West African diets were chronically salt-deficient, and without salt, you cannot preserve food or maintain basic bodily functions. Salt also preserved the meat that fed armies on campaign, empires literally could not fight wars without it. Controlling salt was controlling power.</p>
     
   
     
@@ -650,6 +684,10 @@
   
     
   <p>Camels didn't just make the crossing possible, they made it economically viable. Merchants organized themselves into <strong>caravans</strong>, large groups traveling together for safety, with hundreds or even thousands of camels. A single large caravan could carry enough gold and salt to generate enormous profits. The Sahara stopped being a barrier and became a highway.</p>
+    
+  
+    
+  <p>Unlike the Silk Roads' caravanserai, built rest stops spaced roughly every 100 miles, trans-Saharan routes followed <strong>oases</strong>, natural water sources fixed wherever underground water happened to reach the surface, however far apart that was. Some stretches between oases took several days to cross with no water at all. That's exactly why caravans traveled in the hundreds or thousands: enough people and pack animals to carry the extra water and supplies needed to survive the gaps, and enough numbers to defend against raiders along the way.</p>
     
   
     
@@ -820,6 +858,98 @@
 </div>
 
 
+
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What made trans-Saharan trade across the desert possible, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The discovery of a hidden network of rivers running underground through the middle of the Sahara</li><li class="mcq-opt">The North African camel saddle, which let riders load camels with heavy commercial cargo</li><li class="mcq-opt">A formal treaty between West African and Mediterranean rulers guaranteeing safe passage for caravans</li><li class="mcq-opt">The invention of the magnetic compass, which let caravans navigate the desert without visible landmarks</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading credits the North African camel saddle, developed around 300 CE, with turning the camel's natural endurance into a practical way to carry hundreds of pounds of cargo across the desert. The Sahara has no such river network, and the reading never mentions a safe passage treaty or the compass being used on these routes.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why did salt sometimes trade for its weight in gold in West African markets, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Salt was treated primarily as a sacred religious offering rather than a practical necessity</li><li class="mcq-opt">Gold had almost no practical everyday use for the people living across West Africa</li><li class="mcq-opt">Salt was far more physically difficult to transport across the desert than gold was</li><li class="mcq-opt">Gold was abundant throughout West Africa while salt was scarce and essential for survival</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains this through supply and demand: gold was abundant in West Africa but salt was scarce and biologically necessary, so its value rose to match gold's. Nothing in the reading treats salt as a religious offering or claims gold was useless locally, and transport difficulty is not given as the reason for the exchange rate.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what pattern describes the goods moving across the Sahara?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Salt, copper, and horses moved north into West Africa while gold moved south out of the region</li><li class="mcq-opt">Gold, ivory, and enslaved people moved north out of West Africa while salt and copper moved south</li><li class="mcq-opt">Only gold ever crossed the Sahara Desert, moving back and forth depending on seasonal demand</li><li class="mcq-opt">Manufactured goods moved south into West Africa while nothing of value ever moved north</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading lists gold, ivory, kola nuts, and enslaved people as moving north out of West Africa, while salt, copper, horses, and manufactured goods moved south into it. The first option reverses this direction, and the other two options ignore the variety of goods the reading describes moving both ways.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How did the Mali Empire become so wealthy, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It taxed every caravan of gold and salt crossing its land, without producing either good itself</li><li class="mcq-opt">It mined most of West Africa's gold deposits directly, using its own state-controlled laborers</li><li class="mcq-opt">It controlled the Taghaza salt mines outright and sold that salt at a fixed government price</li><li class="mcq-opt">It charged tolls for the use of a postal relay system that connected every corner of its territory</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading is explicit that Mali grew wealthy by taxing gold and salt passing through its territory rather than producing either resource itself, a toll road economic model. It did not directly mine gold, run the Taghaza mines, or operate a relay postal system, that detail belongs to the Mongols in Topic 2.2, not Mali.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What effect did Mansa Musa's 1324 hajj have on Cairo, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It caused a sudden shortage of gold that drove prices for other goods sharply down for years</li><li class="mcq-opt">It had little to no lasting economic impact once Mansa Musa's caravan had left the city behind</li><li class="mcq-opt">It flooded the market with so much gold that prices rose and gold's value fell for over a decade</li><li class="mcq-opt">It led Cairo's merchants to abandon their own currency and adopt Mali's gold standard instead</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Mansa Musa gave away so much gold in Cairo that he flooded the market, driving gold's value down and prices up for more than ten years, a clear example of inflation. This is the opposite of a shortage, it had a real and lasting impact rather than none, and the reading never mentions Cairo adopting Mali's currency.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, how did Islam typically spread into West Africa through trans-Saharan trade?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">North African armies invaded and militarily conquered West African kingdoms, imposing Islam by force</li><li class="mcq-opt">Islam was made legally mandatory across the empire the moment Mansa Musa himself converted</li><li class="mcq-opt">It only reached West Africa after European traders first arrived along the Atlantic coastline</li><li class="mcq-opt">Muslim merchants built long-term trading relationships, and rulers converted voluntarily for its benefits</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes Islam spreading almost entirely through trade rather than conquest, with rulers converting voluntarily for access to Islamic trade networks and legal frameworks. There is no mention of military conquest, a law forcing conversion after Mansa Musa, or European traders being involved in Islam's arrival.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What funded Timbuktu's growth into a major center of Islamic scholarship, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Wealth generated by tolls and taxes collected on trans-Saharan trade passing through the city</li><li class="mcq-opt">Direct financial gifts sent regularly from religious leaders based in the city of Mecca</li><li class="mcq-opt">Funding channeled from the distant Mongol Empire's own trans-Eurasian trade network</li><li class="mcq-opt">Taxes collected from Indian Ocean trade routes that passed near the West African coast</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Timbuktu sat where trans-Saharan caravan routes met the Niger River, and the reading says the city grew rich on tolls and taxes from that trade, wealth that funded the Sankore Mosque and University. It was not funded by gifts from Mecca, the Mongol Empire, or Indian Ocean trade, which is a separate network far from Timbuktu.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
 
 
 
@@ -1024,6 +1154,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="2.4" data-advance-next="2-5.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="2.4">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

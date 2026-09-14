@@ -95,6 +95,85 @@
       "answer": "Reform failed for different reasons in each case, but a common pattern was that reforms were too slow, too partial, or too threatening to vested interests to transform the empire before external and internal pressures overwhelmed it. The Ottoman Tanzimat reforms (1839–1876) modernized the bureaucracy and military but couldn't overcome financial dependence on foreign loans or internal nationalist movements in the Balkans. China's Self-Strengthening Movement and later New Policies attempted industrialization but were blocked by conservative officials and couldn't undo the structural damage of unequal treaties. Russia's Stolypin reforms (1906–1911) modernized agriculture but came too late and didn't address the fundamental political problem of autocracy. Reform is hard under pressure: the time and resources needed to transform institutions are consumed by the crises that reform is supposed to prevent."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "What common structural weakness did the Ottoman, Russian, and Qing empires share, according to the reading?",
+      "options": [
+        "They were all newly formed states less than fifty years old when the 20th century began",
+        "They were all multi-ethnic, land-based empires struggling to modernize as fast as industrial powers",
+        "They had all recently adopted a single shared state religion across their entire populations",
+        "They had all just signed identical mutual defense treaties requiring them to fight the same wars"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading identifies all three as large, multi-ethnic, land-based empires struggling to modernize fast enough to compete militarily and economically with industrialized Western powers, a structural weakness that made them vulnerable to collapse. (A), (C), and (D) describe conditions the reading never mentions."
+    },
+    {
+      "question": "According to the reading, why did the Young Turks' reforms ultimately fail to save the Ottoman Empire?",
+      "options": [
+        "They refused to modernize the Ottoman military at all, leaving it completely unprepared for war",
+        "They restored the sultan's full absolute power, undoing the empire's constitutional government",
+        "They voluntarily surrendered Ottoman territory to Russia in exchange for a promise of peace",
+        "Their turn toward Turkish nationalism alienated the empire's Arab, Armenian, and Greek subjects"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Young Turks pushed modernization and constitutionalism but increasingly defined the empire in Turkish nationalist terms, which alienated the empire's non-Turkish peoples and deepened the divisions that WWI defeats and the Arab revolt then exploited. (A), (B), and (C) contradict what the reading says the Young Turks actually did."
+    },
+    {
+      "question": "What long-term damage did the Taiping Rebellion do to the Qing Dynasty, according to the reading?",
+      "options": [
+        "It killed an estimated 20 to 30 million people and left the dynasty financially devastated",
+        "It permanently ended the extraterritorial rights that foreign nationals held in Chinese ports",
+        "It successfully replaced the Qing Dynasty with a new republic led by the rebellion's own leaders",
+        "It convinced European powers to fully withdraw from their existing treaty ports in China"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading describes the Taiping Rebellion (1850–1864) as one of the deadliest civil wars in history, killing an estimated 20 to 30 million people and leaving the Qing Dynasty financially devastated for decades. (B), (C), and (D) describe outcomes the reading never mentions."
+    },
+    {
+      "question": "What lesson did China's defeat in the First Sino-Japanese War (1894–95) teach about the Self-Strengthening Movement?",
+      "options": [
+        "That China's navy had actually surpassed Japan's navy despite the movement's limited scope",
+        "That adopting Western military technology without reforming institutions wasn't enough to compete",
+        "That Japan had secretly copied the Self-Strengthening Movement's own military reforms",
+        "That China needed to abandon all Western technology and return fully to older traditions"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Self-Strengthening Movement tried to adopt Western technology while preserving Chinese institutions and culture, but Japan's 1894–95 victory proved that partial modernization wasn't enough without deeper institutional and political reform. (A), (C), and (D) all contradict what the reading says happened."
+    },
+    {
+      "question": "What was the fatal mistake of Russia's Provisional Government after the February Revolution, according to the reading?",
+      "options": [
+        "It restored the tsar to a symbolic, ceremonial role within the new government structure",
+        "It immediately abolished all private land ownership before any peasants had been consulted",
+        "It continued fighting World War One despite the army's collapse and catastrophic losses",
+        "It refused to allow the Bolsheviks to participate in any future national elections at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading identifies the Provisional Government's decision to continue fighting WWI as its fatal mistake, since Russia's army was already collapsing from desertion and food supply to cities had broken down. (A), (B), and (D) describe actions the reading doesn't attribute to the Provisional Government."
+    },
+    {
+      "question": "What made the Mexican Revolution's origins different from the imperial collapses covered in the reading?",
+      "options": [
+        "Mexico's revolution was entirely peaceful and never involved any armed conflict or violence",
+        "Mexico's revolution was directly organized and led by foreign governments seeking its territory",
+        "Mexico's crisis began as a political dispute over a rigged election, not the collapse of a multi-ethnic empire",
+        "Mexico's revolution succeeded only because Europe was fully occupied fighting World War One"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that Mexico was a republic, not a multi-ethnic land-based empire, and its crisis was specifically political: Díaz's rigging of the 1910 election, which then expanded into a broader social revolution over land and labor. (A), (B), and (D) all contradict details the reading provides."
+    },
+    {
+      "question": "Which of the following was NOT identified in the reading as a cause of the Russian Empire's collapse?",
+      "options": [
+        "Catastrophic military losses and army disintegration during World War One",
+        "The autocracy's refusal to share real power with the Duma after the 1905 Revolution",
+        "The Provisional Government's decision to keep fighting the war after the tsar's abdication",
+        "A foreign naval blockade that cut off Russia's access to all food imports from its allies"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading never mentions a foreign naval blockade cutting off Russian food imports, the food crisis it describes came from wartime supply collapse inside Russia itself. (A), (B), and (C) are all causes the reading directly discusses."
+    }
+  ],
   "blocks": [
     {
       "type": "heading",

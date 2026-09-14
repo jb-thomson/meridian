@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#2f6b4f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -309,6 +340,7 @@
 
 
 <div class="util-panel" data-util-panel="tldr" hidden>
+  
   
   <ul class="util-panel-list"><li>Every good or service requires four factors of production: land (natural resources), capital (tools and machinery), labor (human effort), and entrepreneurs (risk-takers who combine them).</li><li>Every society must answer three questions: WHAT to produce, HOW to produce it, and FOR WHOM it gets produced.</li><li>A traditional economy answers through custom and habit. Roles are clear, but innovation is suppressed and growth stalls.</li><li>A command economy answers through a central authority. Resources can be mobilized fast, but incentives collapse and quality suffers (see: Soviet chandeliers).</li><li>A market economy answers through free exchange and dollar votes. Individual freedom and variety are high, but not everyone is provided for.</li><li>Most real economies are mixed - blends of all three systems sitting somewhere on a spectrum from pure command to pure market.</li></ul>
   
@@ -731,7 +763,7 @@
     
   
     
-  <p>Market economies offer <strong>individual freedom</strong>: people choose where to work and what to buy. They <strong>adjust gradually to change</strong> through prices alone — when gas prices spiked in 2005, American consumers shifted to fuel-efficient cars without any government order. They produce enormous <strong>variety</strong>: if there is profit to be made from a product, someone will make it. And privately owned goods tend to be <strong>better maintained</strong> - owners take better care of things than borrowers do.</p>
+  <p>Market economies offer <strong>individual freedom</strong>: people choose where to work and what to buy. They <strong>adjust gradually to change</strong> through prices alone: when gas prices spiked in 2005, American consumers shifted to fuel-efficient cars without any government order. They produce enormous <strong>variety</strong>: if there is profit to be made from a product, someone will make it. And privately owned goods tend to be <strong>better maintained</strong> - owners take better care of things than borrowers do.</p>
     
   
     
@@ -958,6 +990,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="economics" data-complete-num="1.3" data-advance-next="1-4.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="economics" data-questions-num="1.3">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

@@ -378,6 +378,96 @@
       "modelAnswer": "The tribute system required neighboring rulers to send periodic missions to the Chinese imperial court, bearing gifts and performing rituals, including the *kowtow* (ritual prostration), acknowledging Chinese cultural superiority. In exchange, the Chinese emperor recognized the foreign ruler's legitimacy, granted trade access, and typically returned gifts of comparable or greater value. Neighboring rulers participated because the benefits outweighed the symbolic costs: access to the world's wealthiest trading economy, formal diplomatic recognition that legitimized their rule domestically, and sometimes implicit Chinese protection. The ceremony was theater, the real transaction was economic and political. States militarily capable of defying China (like Korea or Vietnam) still participated because the material gains were simply too valuable to refuse."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, what allowed a man to become a Song government official, at least in theory?",
+      "options": [
+        "Inheriting a hereditary noble title that his family had held for many generations",
+        "Winning distinction in years of military campaigns before being promoted to office",
+        "Passing competitive written exams that tested mastery of the Confucian classics",
+        "Paying a large fee to purchase a government post directly from the imperial court"
+      ],
+      "correctIndex": 2,
+      "explanation": "The civil service exam tested candidates on texts like the Analects and the Book of Rites, and was theoretically open to any literate male subject regardless of birth. Being born into a noble family was not required, in fact the exam's whole point was to select officials by learning rather than birth. Military promotion describes a different kind of career the reading says the exam system did not reward. Purchasing a position is not how the reading describes the system working."
+    },
+    {
+      "question": "The civil service exam was theoretically open to any literate male, but the wealthy gentry ended up dominating it. Why, according to the reading?",
+      "options": [
+        "Passing required years of costly tutoring that only wealthy families could typically afford",
+        "Government regulations legally barred anyone outside gentry families from sitting the exams",
+        "Exam testing centers were built only in the towns where gentry families happened to live",
+        "Sons of gentry officials were automatically awarded bonus points added to their exam scores"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading notes that pass rates fell below 5 percent and candidates might study for decades, an investment only families wealthy enough to fund years of tutoring could realistically sustain. The reading explicitly says the system was theoretically open to any literate male subject, so legal exclusion is not what happened. Nothing in the reading mentions exam location or score bonuses for gentry sons."
+    },
+    {
+      "question": "What was the main effect of Champa rice's adoption in Song China, according to the reading?",
+      "options": [
+        "It reduced China's population by letting farms run with far fewer workers than before",
+        "It ended Song China's need for any trade at all with Southeast Asian kingdoms",
+        "It doubled harvests, which fueled population growth and freed labor for cities and trade",
+        "It caused most farmers to abandon rice completely in favor of more profitable cash crops"
+      ],
+      "correctIndex": 2,
+      "explanation": "Champa rice ripened in 60 days, allowing two harvests instead of one. The reading traces a clear chain: doubled harvests fed a growing population, and the resulting surplus labor moved into cities to work in manufacturing and trade, driving commercialization. The reading never suggests population declined, that trade with Southeast Asia ended, or that farmers abandoned rice."
+    },
+    {
+      "question": "What was jiaozi, according to the reading?",
+      "options": [
+        "An annual tax that Song officials collected from merchants using the Grand Canal",
+        "The world's first government-issued paper currency, used for large transactions",
+        "A classic Confucian text used to help candidates prepare for the civil service exam",
+        "A formal title awarded to the highest-scoring candidates on the civil service exam"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading describes jiaozi as the world's first government paper currency, which let merchants complete large transactions without carrying heavy metal coins. It was a form of money, not a tax, a study text, or an exam honor, so the other options describe things jiaozi was not."
+    },
+    {
+      "question": "What did Zhu Xi's Neo-Confucianism combine to form its philosophy, according to the reading?",
+      "options": [
+        "European Christian ideas, brought by early missionaries, combined with Confucian ethics",
+        "Confucian ethics combined with strict Legalist ideas about harsh laws and punishment",
+        "A revival of classical Confucian ethics combined with Buddhist and Daoist ideas",
+        "A complete rejection of Confucian ethics in favor of Buddhist teaching alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes Neo-Confucianism as both a revival of classical Confucian ethics and a synthesis incorporating Buddhist and Daoist ideas, including the concept of an underlying cosmic principle, li. It did not involve Christianity or Legalism, and it did not reject Confucian ethics, it built on them, so the other three options each misstate the combination."
+    },
+    {
+      "question": "What did the spread of foot-binding during the Song period express, according to the reading?",
+      "options": [
+        "Neo-Confucian gender ideology, which reinforced strict patriarchal hierarchy in the family",
+        "A medical treatment that doctors believed could prevent disease in young girls' feet",
+        "A punishment imposed on women who failed to pass the civil service exam",
+        "A Buddhist ritual that monks used to demonstrate their personal spiritual discipline"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading directly connects foot-binding to Neo-Confucianism's emphasis on hierarchical relationships and the subordination of women, calling it a physical expression of that gender ideology. It was not medical treatment, a punishment for failing a test, or a Buddhist monastic practice, none of that appears in the reading."
+    },
+    {
+      "question": "According to the reading, why did rulers of Korea, Japan, and Southeast Asian kingdoms take part in the tribute system, even when they were militarily capable of resisting China?",
+      "options": [
+        "They had no real choice, since Chinese armies invaded any state that refused to comply",
+        "The material benefits, trade access and diplomatic recognition, outweighed the cost of deference",
+        "Chinese emperors threatened to cut off all diplomatic contact with any state that refused",
+        "Participating rulers were required to formally adopt Confucianism as a condition of trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading calls the ritual submission theater and the real exchange economic and political: participation bought trade access to the wealthiest economy in the region and diplomatic recognition that legitimized a ruler's rule at home. It explicitly says states capable of resisting China militarily still chose to participate, which rules out simple coercion. The reading does not mention a religious conversion requirement."
+    },
+    {
+      "question": "Based on the reading, which of the following is NOT an accurate statement about Song China's economy and manufacturing?",
+      "options": [
+        "Song ironworks in the early 11th century processed more iron yearly than all of medieval Europe",
+        "Bi Sheng's movable-type printing, developed around 1040, allowed mass production of books",
+        "The English word \"china\" for fine ceramic ware reflects the geographic origin of Song porcelain",
+        "Song silk and cotton production was run entirely by the state, with private merchants banned"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes textile production as a major urban industry employing thousands of specialized workers, without ever saying the state ran it exclusively or banned private merchants, that claim is not supported. The other three statements are directly stated in the reading: the iron production figure, Bi Sheng's printing invention, and the origin of the word china in Song porcelain's fame."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

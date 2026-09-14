@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: The decline of Asian and Middle Eastern manufacturing:</strong> While European and American manufacturing expanded dramatically, the share of global manufacturing held by Middle Eastern and Asian countries declined. This was not because they stopped producing, they continued making goods, but because British steam-powered factories produced textiles, iron goods, and other products so much more cheaply that they undercut local manufacturers. India's cotton textile industry, once the world's largest, shrank severely as cheap British cloth entered the market. Indian and Southeast Asian shipbuilding declined similarly. After beginning in Britain, industrial production spread to Belgium and France (1810s–1830s), then Germany and the United States (mid-19th century), then Russia and Japan (late 19th century). The common pattern: countries needed coal, iron, capital, and, crucially, either political will or government investment to adopt industrial methods. Where those conditions did not exist, or where cheaper British factory goods simply flooded the market, existing manufacturing industries declined rather than industrialized. <strong>The three key illustrative examples (required):</strong> (1) Shipbuilding in India and Southeast Asia, declined as British iron steamships replaced wooden sailing ships; (2) Iron works in India, declined as cheap British iron undercut local production; (3) Textile production in India and Egypt. India's once-dominant cotton textile industry collapsed under competition from British mills; Egypt's Muhammad Ali attempted to industrialize the textile sector but ultimately could not compete. The pattern in all three: British industrial advantage translated into economic dominance.</li></ul>
   
 </div>
@@ -750,6 +784,98 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which region industrialized first outside of Britain, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Belgium, which combined coal deposits, iron resources, and an established textile-making tradition</li><li class="mcq-opt">Japan, which began rapid state-led industrialization following the Meiji Restoration of 1868</li><li class="mcq-opt">The United States, which industrialized quickly in the decades right after its Civil War ended</li><li class="mcq-opt">Russia, which turned to industrialization only after its defeat in the Crimean War exposed weakness</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading places Belgium first on the European continent (1810s-1840s) because of its coal, iron, and existing textile tradition. Japan and Russia are both placed in the later group, industrializing in the 1860s-1900 period. The United States is grouped with Germany in the middle period (1840s-1870s), after Belgium and France.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does "deindustrialization" mean, as the reading uses the term?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A government policy of closing factories deliberately in order to protect the environment</li><li class="mcq-opt">A decline in a region's manufacturing share as cheaper outside goods undercut local producers</li><li class="mcq-opt">A country's total economic output shrinking suddenly because of war or a major famine</li><li class="mcq-opt">A shift away from factory work back toward small-scale, home-based cottage industry</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading defines deindustrialization as the decline of manufacturing in a region as a share of economic activity, usually because cheaper goods from elsewhere undercut local producers, which is exactly what happened to India's and Egypt's industries. Environmental policy, war, and famine are never mentioned as causes. Deindustrialization describes existing industries shrinking under competition, not a return to home-based production.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why did India's cotton textile industry decline so severely in the 19th century?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Indian weavers voluntarily left the trade for farming because it paid noticeably better wages</li><li class="mcq-opt">Repeated droughts destroyed India's cotton crop, leaving local mills without raw material</li><li class="mcq-opt">British steam-powered mills produced cloth far more cheaply, and colonial policy opened Indian markets to it</li><li class="mcq-opt">Trade networks that had supported Indian textiles for centuries collapsed under Mongol pressure</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that British cotton mills could produce cloth at a fraction of the cost of hand-woven Indian textiles, and colonial free-trade policy let this cheap British cloth flood the Indian market without protective tariffs. There is no mention of weavers choosing farming or of a cotton crop failure. The Mongol Empire is unrelated, it belongs to a completely different period of history centuries earlier.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following is one of the three examples of declining industries the reading names?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Silk production in China, which was undercut by cheaper competition from Japanese manufacturers</li><li class="mcq-opt">Porcelain manufacturing in China, which was undercut by mass-produced European ceramics</li><li class="mcq-opt">Sugar refining in the Caribbean, which was undercut by cheaper European beet sugar production</li><li class="mcq-opt">Shipbuilding in India and Southeast Asia, undercut by cheap British iron-hulled steamships</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading's three required examples are shipbuilding in India and Southeast Asia, iron works in India, and textile production in India and Egypt. Chinese silk, Chinese porcelain, and Caribbean sugar are not mentioned anywhere in this reading. Indian and Southeast Asian shipbuilders working in wood could not compete once iron-hulled steamships became the standard.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does the reading mean by the "Great Divergence"?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The split between Britain's private industrial model and other countries' state-led models</li><li class="mcq-opt">The widening economic gap that opened up between industrialized and non-industrialized regions</li><li class="mcq-opt">The disagreement between free-trade Britain and protectionist Germany and the United States</li><li class="mcq-opt">The roughly even division of global manufacturing between Europe, Asia, and the Americas</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading defines the Great Divergence as the widening gap between industrialized and non-industrialized regions, since Asia's economies had been comparable to or larger than Europe's in 1750 but fell far behind by 1900. Trade-policy disagreements and industrialization models are discussed separately in the reading; neither is what "Great Divergence" refers to. The reading describes manufacturing becoming far more unequal, not evenly divided.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, why did the United States and Germany rely on protective tariffs during industrialization?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">To shield their still-developing industries from cheaper, more established British competition</li><li class="mcq-opt">To force other countries to lower their own tariffs on American and German exports</li><li class="mcq-opt">To directly fund the construction of new factories using the tariff revenue collected</li><li class="mcq-opt">To retaliate against Britain for banning the export of industrial machinery</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes the United States protecting its developing industries with tariffs behind a large internal market, giving factories time to grow without being immediately undercut by more efficient British producers. Forcing other countries to change their tariffs and directly funding factories with tariff revenue are not mentioned. Britain's attempt to ban machinery exports is a separate detail unrelated to why the US or Germany used tariffs.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following was NOT one of the consequences of the Great Divergence described in the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Non-industrialized regions increasingly supplied raw materials rather than finished goods</li><li class="mcq-opt">Industrialized nations gained growing military advantages funded by their economic surpluses</li><li class="mcq-opt">Non-industrialized regions closed their markets entirely to industrialized nations' goods</li><li class="mcq-opt">The economic and military gap helped create the conditions for European imperial expansion</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes the opposite of the third option: non-industrialized regions like India were opened to British goods under free-trade arrangements, not closed off from them. Supplying raw materials, funding growing military advantages, and enabling imperial expansion are all consequences the reading directly lists as resulting from the Great Divergence.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -932,6 +1058,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="5.4" data-advance-next="5-5.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="5.4">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

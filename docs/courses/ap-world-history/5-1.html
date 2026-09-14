@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: The Enlightenment's intellectual context:</strong> Enlightenment thinkers (c. 1650–1800) argued that reason, not tradition or religion, should guide human affairs. Locke said governments exist to protect natural rights (life, liberty, property); if they fail, the people may replace them. Montesquieu argued for separation of powers. Rousseau argued for popular sovereignty, the idea that political authority comes from the people. These ideas directly fueled Atlantic revolutions from 1776 onward.</li><li><strong>LO-B: Reform movements the Enlightenment inspired:</strong> Enlightenment logic, that all people are born with equal rational capacity, led reformers to challenge three major institutions: slavery, serfdom, and the exclusion of women from public life. Abolitionists used natural-rights arguments to attack the slave trade. Russia's Alexander II ended serfdom in 1861. The women's rights movement, from Wollstonecraft (1792) to Seneca Falls (1848), argued that Enlightenment ideals applied to women too. <strong>Key structure: ideas → reform → revolution:</strong> The AP exam treats Enlightenment ideas as the <em>intellectual cause</em> behind both reform movements and revolutions. Know the chain: Enlightenment philosophy → new political ideas about rights and government → challenges to monarchy and aristocracy → Atlantic revolutions. Also know the gap: Enlightenment ideals were written by men for men, which is exactly why women's rights activists pointed to the contradiction and demanded inclusion.</li></ul>
   
 </div>
@@ -796,6 +830,98 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What did John Locke argue was the purpose of government?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">To defend the divine right of kings to rule without any limitation</li><li class="mcq-opt">To protect natural rights such as life, liberty, and property</li><li class="mcq-opt">To divide governing power equally between three separate branches</li><li class="mcq-opt">To promote a single official state religion across the population</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that Locke argued people are born with natural rights, life, liberty, and property, and that governments exist only to protect them, with the right to overthrow a government that fails to do so. Locke's whole point was to challenge, not defend, unlimited royal authority, dividing power into three branches was Montesquieu's contribution, and promoting a state religion is not part of his argument.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What specific idea did Montesquieu contribute that later appeared in the U.S. Constitution?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Separating government power into legislative, executive, and judicial branches</li><li class="mcq-opt">The idea that governments should be headed by one single strong monarch</li><li class="mcq-opt">The idea that all people possess natural rights to life, liberty, and property</li><li class="mcq-opt">The idea that political authority derives from the collective general will of the people</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading credits Montesquieu with the idea that government power should be divided among legislative, executive, and judicial branches so no single branch dominates, a model the U.S. Constitution adopted. A single strong monarch is the opposite of what Montesquieu proposed, natural rights belong to Locke, and the general will belongs to Rousseau.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How did Mary Wollstonecraft apply Enlightenment logic to argue for women's rights?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">She argued women should be given power over men rather than mere equality</li><li class="mcq-opt">She argued women's inferior status was permanent and education could not change it</li><li class="mcq-opt">She argued religious teaching, not reason, should determine women's role in society</li><li class="mcq-opt">She argued women only appeared less rational because they were denied education</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading quotes Wollstonecraft saying she does not wish women to have power over men, only over themselves, based in reason, and explains her argument that women appear inferior only because they are denied education. She did not argue for permanent inferiority or for religious rather than rational authority over women's roles.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What did Olympe de Gouges do in her 1791 Declaration of the Rights of Woman?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">She proposed a wholly new set of rights unrelated to the Declaration of the Rights of Man</li><li class="mcq-opt">She rewrote the French Declaration of the Rights of Man to explicitly include women</li><li class="mcq-opt">She called for her own permanent exile from France rather than public involvement</li><li class="mcq-opt">She argued that only wealthy, land-owning women deserved political rights</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that de Gouges took the French Declaration of the Rights of Man and replaced 'man' with 'woman and man' throughout, arguing that if the Revolution's principles were truly universal, they had to include women. She did not propose an unrelated set of rights, limit her demands to wealthy women, or ask for exile, she was executed for her arguments instead.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What rhetorical strategy did the Seneca Falls Declaration of Sentiments use in 1848?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It proposed an entirely new system of government separate from the United States</li><li class="mcq-opt">It focused solely on religious arguments rather than any political or legal ones</li><li class="mcq-opt">It rejected Enlightenment natural-rights ideas entirely as irrelevant to women</li><li class="mcq-opt">It echoed the Declaration of Independence to argue the nation was violating its ideals</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading quotes the Declaration of Sentiments opening with language modeled directly on the Declaration of Independence, arguing that the nation's own founding principles required women's equality. The organizers relied on Enlightenment logic rather than rejecting it, their grievances were political and legal, covering voting and property rights, and they did not propose a separate government.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what logic connected Enlightenment ideas to the abolitionist movement?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Enlightenment philosophers personally organized abolitionist societies themselves</li><li class="mcq-opt">Enlightenment thinkers argued that natural rights applied only to wealthy property owners</li><li class="mcq-opt">If natural rights belong to all humans, then slavery, which denies personhood, violates them</li><li class="mcq-opt">Abolitionists rejected Enlightenment ideas in favor of purely religious arguments instead</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that if all people possess natural rights by virtue of being human, slavery is a direct violation of those rights, and abolitionists like Wilberforce and Douglass used exactly this reasoning. Natural rights were meant to apply to all humans, not just property owners, abolitionists built on Enlightenment logic rather than rejecting it, and the philosophers themselves did not organize abolitionist societies.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why does the reading note that the timing of Russian serf emancipation and U.S. emancipation was 'not a coincidence'?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Both were influenced by the same broader intellectual climate around human dignity</li><li class="mcq-opt">Alexander II and Abraham Lincoln personally corresponded to coordinate the timing</li><li class="mcq-opt">Both nations faced identical military defeats that forced them to free laborers</li><li class="mcq-opt">Both events were required under a treaty signed at the Congress of Vienna</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that Russian emancipation and American emancipation both happened under the influence of the same intellectual climate, the Enlightenment's ideas about human dignity extending to abolition and the end of serfdom. There is no mention of personal correspondence between the two leaders, identical military defeats, or a treaty requiring either action.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -978,6 +1104,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="5.1" data-advance-next="5-2.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="5.1">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

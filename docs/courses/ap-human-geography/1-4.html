@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#1a5f6a;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -426,6 +457,9 @@
 
 
 <div class="util-panel" data-util-panel="tldr" hidden>
+  
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
   
   <ul class="util-panel-list"><li><strong>Location has two forms:</strong> Absolute location is a fixed, precise position (coordinates or an address). Relative location describes where something is in relation to other places.</li><li><strong>Flows connect places:</strong> People, goods, ideas, and information move between places, and geographers study those flows directly.</li><li><strong>Distance shapes interaction:</strong> Distance decay means interaction between places drops off as distance increases. Time-space compression means technology has effectively shrunk that distance over time.</li><li><strong>Place gives location meaning:</strong> Place combines a location's physical traits (site) with its connections to other places (situation) into what makes it unique.</li></ul>
   
@@ -981,6 +1015,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-human-geography" data-complete-num="1.4" data-advance-next="1-5.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-human-geography" data-questions-num="1.4">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

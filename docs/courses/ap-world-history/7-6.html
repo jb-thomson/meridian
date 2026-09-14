@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Four causes of WWII (required by the AP CED):</strong> (1) <strong>Unsustainable Versailles settlement</strong>, created German resentment and destabilized European security; (2) <strong>Global economic crisis (Great Depression)</strong>, mass unemployment made populations receptive to extremist promises; (3) <strong>Continued imperialist aspirations</strong>. Germany demanded lebensraum ("living space"), Japan expanded in Asia; (4) <strong>Rise of fascist and totalitarian regimes</strong>, especially Nazi Germany under Hitler, whose aggressive militarism was the immediate cause of war. <strong>Hitler's rise: Depression + Versailles resentment = political opportunity:</strong> The Nazi Party (NSDAP) won 2.6% of the vote in 1928 when Germany was relatively stable. After the Depression hit (1929), it won 37% in July 1932. Hitler promised to tear up the "humiliation" of Versailles, restore German greatness, and provide economic recovery. He became chancellor in January 1933, then consolidated dictatorial power by year's end. <strong>Appeasement: the policy that failed:</strong> Britain and France responded to Hitler's escalating demands with appeasement, making concessions to avoid war. The Munich Agreement (September 1938) gave Hitler the Sudetenland (Czechoslovakia's German-speaking border region) in exchange for a promise of no further territorial demands. Hitler broke the promise within six months. Appeasement failed because it was predicated on Hitler being a normal nationalist seeking limited territorial adjustments. He wasn't. <strong>War begins: Poland, September 1939:</strong> After annexing Austria (March 1938) and Czechoslovakia (March 1939), Hitler demanded the Polish Corridor. On September 1, 1939, Germany invaded Poland. Britain and France, having finally abandoned appeasement, declared war on Germany two days later. WWII had begun.</li></ul>
   
 </div>
@@ -759,6 +793,98 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what did it mean for the Treaty of Versailles to be "unsustainable" rather than just harsh?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It stripped Germany's economy so completely that any future recovery became structurally impossible</li><li class="mcq-opt">It created deep German resentment without breaking Germany's actual capacity to act on that resentment later</li><li class="mcq-opt">It was formally revoked by the League of Nations only a few years after it was first signed</li><li class="mcq-opt">It quietly canceled Germany's reparations payments within the first year they were imposed</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading says the crucial word is "unsustainable": Versailles was harsh enough to create lasting grievances but not harsh enough to actually break Germany's ability to act on them later. (A) reverses this, the treaty didn't cripple Germany permanently. (C) and (D) describe events the reading never mentions.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What best explains the Nazi Party's electoral jump from 2.6% of the vote in 1928 to 37.4% in July 1932?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Nazi paramilitary squads physically blocked rival candidates from campaigning across the country</li><li class="mcq-opt">President Hindenburg had publicly endorsed Hitler's party in a nationwide radio broadcast</li><li class="mcq-opt">The Weimar government had already banned every rival political party months before the vote</li><li class="mcq-opt">The Great Depression's mass unemployment made Hitler's promises of recovery and revival appealing</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading ties this jump directly to the Depression: unemployment reached 30% by 1932, and desperate voters turned to Hitler's promises of national restoration and economic recovery. (A) and (C) describe things that happened only after Hitler was already in power. (B) is not mentioned in the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How did Hitler turn his legal appointment as chancellor in January 1933 into a full dictatorship within a year?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">He held a nationwide vote in which citizens chose to formally abolish the Weimar constitution</li><li class="mcq-opt">He used the Reichstag Fire as a pretext for emergency powers, then pushed through the Enabling Act</li><li class="mcq-opt">The German military staged a coup and installed him as dictator over the Reichstag's objections</li><li class="mcq-opt">President Hindenburg died suddenly in office, leaving no legal path to any other successor</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes the Reichstag Fire (February 1933) being used as a pretext for emergency decrees, followed by the Enabling Act (March 1933), after which opposition parties were banned and unions dissolved. (A), (C), and (D) describe events the reading does not mention.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was Lebensraum, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The name of the Nazi Party's paramilitary wing that organized street violence against rivals</li><li class="mcq-opt">A diplomatic pact in which Germany and its neighbors agreed never to alter their borders</li><li class="mcq-opt">An economic agreement in which Germany and Japan pledged to share raw materials</li><li class="mcq-opt">The Nazi belief that Germany needed to conquer farmland in Eastern Europe for its own survival</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Lebensraum, "living space," was the Nazi ideological belief that Germany needed to conquer land in Eastern Europe to secure the German people's survival, displacing the Slavic peoples already living there. (A), (B), and (C) describe things the reading doesn't connect to this term.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, Japan's expansion into Manchuria and China followed the same basic logic as German Lebensraum in what way?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Both were driven by a defensive treaty that obligated one country to expand for the other's sake</li><li class="mcq-opt">Both were carried out only after direct approval from the League of Nations' member states</li><li class="mcq-opt">Both were justified as pure retaliation for an earlier invasion by the country being conquered</li><li class="mcq-opt">Both were driven by a need for raw materials the home country lacked, backed by racial hierarchy</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states Japan's expansion was driven by the same logic of resource acquisition and racial hierarchy as German imperialism, Japan needed materials like oil, rubber, and iron ore that it lacked domestically. (A), (B), and (C) are not given as reasons in the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the Munich Agreement of September 1938?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A secret pact in which Germany and the Soviet Union agreed to divide Poland between themselves</li><li class="mcq-opt">A treaty in which Hitler formally and permanently renounced all further territorial claims</li><li class="mcq-opt">An agreement letting Germany annex the Sudetenland in exchange for a promise of no further demands</li><li class="mcq-opt">An agreement authorizing Germany to remilitarize the Rhineland under League supervision</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Britain and France pressured Czechoslovakia to surrender the Sudetenland to Germany in exchange for Hitler's promise of no further territorial demands, which Chamberlain called "peace for our time." (A), (B), and (D) describe agreements the reading does not mention in this context.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following did NOT happen, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Hitler kept his promise not to make further territorial demands after signing the Munich Agreement</li><li class="mcq-opt">Britain and France declared war on Germany after it invaded Poland in September 1939</li><li class="mcq-opt">The Nazi Party won only a small share of the vote before the Great Depression struck Germany</li><li class="mcq-opt">Germany seized the rest of Czechoslovakia within six months of signing the Munich Agreement</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states Hitler violated the Munich Agreement within six months, seizing the rest of Czechoslovakia in March 1939, so (A) did not happen. (B), (C), and (D) are all directly confirmed by the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -910,6 +1036,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="7.6" data-advance-next="7-7.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="7.6">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

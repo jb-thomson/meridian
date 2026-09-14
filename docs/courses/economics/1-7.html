@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#2f6b4f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -309,6 +340,7 @@
 
 
 <div class="util-panel" data-util-panel="tldr" hidden>
+  
   
   <ul class="util-panel-list"><li>Inflation is a general rise in prices across the economy; deflation is a general fall. Both extremes are harmful, central banks target ~2% annual inflation as the stable middle ground.</li><li>The Consumer Price Index (CPI) measures inflation by tracking the monthly cost of a market basket of ~300 goods and services, compared to a base period (1982–84 = 100). Inflation rate = [(CPI new − CPI old) ÷ CPI old] × 100.</li><li>Four main inflation causes: demand-pull (too much spending chasing too few goods), cost-push (rising input costs), wage-price spiral (self-reinforcing cycle), and excessive monetary growth (money supply outpacing real output).</li><li>Real return = nominal return − inflation rate. A savings account paying 1% while inflation runs at 3% has a real return of −2%, losing purchasing power despite earning interest.</li><li>The foreign exchange rate is the price of one currency expressed in terms of another. Under flexible exchange rates, supply and demand set values, a surge in imports increases the supply of the home currency in global markets, pushing its value down.</li><li>Trade deficit = imports exceed exports. Trade surplus = exports exceed imports. Under flexible rates, deficits tend to self-correct through currency depreciation. A strong dollar helps importers and travelers; a weak dollar helps exporters. One sector's gain is another's loss.</li></ul>
   
@@ -1114,6 +1146,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="economics" data-complete-num="1.7" data-advance-next="1-review.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="economics" data-questions-num="1.7">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

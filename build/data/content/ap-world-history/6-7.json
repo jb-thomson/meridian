@@ -321,6 +321,85 @@
       "modelAnswer": "The honest answer is: both, and the balance depended enormously on individual circumstances. Women who managed household finances and made economic decisions independently were exercising forms of agency that patriarchal norms had previously denied them. Managing a farm or a household budget develops real skills and, over time, can change how women see themselves and how communities view women’s capacities. On the other hand, taking on male labor responsibilities without any reduction in existing domestic responsibilities, childcare, food preparation, domestic maintenance, often meant crushing workloads. And the financial precariousness of depending on irregular remittances created anxiety rather than freedom. Historical analyses of specific sending communities, southern Italian villages, South Asian rural communities, Mexican peasant towns, find exactly this mixed picture: some women thrived in expanded roles; many others were simply overwhelmed. The same structural change had different impacts depending on economic circumstances, community support, and individual personality."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "Why did migrants such as the Chinese and Indian communities described in the reading often cluster together in ethnic enclaves rather than settle spread out through a new society?",
+      "options": [
+        "They received practical support, such as shared language, jobs, and community protection from familiar neighbors",
+        "Receiving governments legally required every migrant to live inside officially designated ethnic districts",
+        "Ethnic enclaves formed purely by accident, since migrants had no real ability to choose where they lived",
+        "Enclaves formed because migrants planned to return home within months and saw no reason to integrate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ethnic enclaves formed because migrants gained real, practical benefits, shared language, jobs, and community support, from living near people from the same background. Government-mandated districts, described in option B, are not mentioned in the reading. Migrants actively chose to cluster together rather than ending up there by chance (option C), and many of these communities, like the Chinese in San Francisco, were permanent, not temporary (option D)."
+    },
+    {
+      "question": "According to the reading, how did migration change many women's lives in sending societies when men left to work abroad?",
+      "options": [
+        "Women lost most of their household duties once men left, since remittances covered every family expense",
+        "Women moved abroad alongside the men and took factory jobs in the very same receiving-society industries",
+        "Women often took on new economic and social roles, managing farms and finances men had previously handled",
+        "Women organized formal nativist movements that specifically opposed migrants from other ethnic communities"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes women in sending societies taking on new economic and social roles, managing farms, finances, and decisions that patriarchal custom had reserved for men, once the men in their families emigrated. Remittances were often irregular, not a reliable replacement for lost labor as option A claims, and the reading describes women staying in sending communities, not moving abroad as option B suggests. Nativism, in option D, describes hostility from receiving societies, not the situation of women left behind."
+    },
+    {
+      "question": "What was a remittance, as described in the reading?",
+      "options": [
+        "A formal document proving a migrant's legal right to work in a receiving country",
+        "Money that a migrant sent home to family members in the sending society",
+        "A tax that receiving societies imposed on foreign-born workers",
+        "A payment migrants made to enclave associations in exchange for finding them jobs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Remittances were money migrant workers sent back to their families, often the most significant source of cash income for families in sending communities. A work permit is a different kind of document entirely. A tax and a payment to an enclave association both describe money moving in the wrong direction or for the wrong purpose; remittances flowed from the migrant to their own family."
+    },
+    {
+      "question": "The reading argues that remittances could both help and harm sending communities. Which of these best reflects that argument?",
+      "options": [
+        "Remittances helped fund things like education and debt payments, but harmed families when the flow stopped",
+        "Remittances always helped families, since money from abroad never stopped once a migrant found steady work",
+        "Remittances only harmed sending communities, since families grew too dependent on income earned elsewhere",
+        "Remittances had little real effect on sending communities, since the amounts sent home were rarely significant"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading presents remittances as genuinely double-edged: they could fund education, debt relief, and small businesses, but families suffered when the flow was interrupted by a lost job, injury, or death. Option B ignores the reading's point that remittances were unreliable, and option C overstates the harm while ignoring the real benefits the reading describes. Option D contradicts the reading, which calls remittances the most significant source of cash income for many families, not something insignificant."
+    },
+    {
+      "question": "What was the Chinese Exclusion Act of 1882?",
+      "options": [
+        "An agreement between the United States and China limiting how many American workers could enter China",
+        "The first U.S. federal law to restrict immigration specifically by race and nationality",
+        "A policy that granted Chinese immigrants full U.S. citizenship in exchange for railroad labor",
+        "A law requiring all Chinese immigrants to register annually with local police departments"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Chinese Exclusion Act was the first U.S. federal law to restrict immigration based specifically on race and nationality, combining racial prejudice with economic anxiety about job competition. It misdescribes the law as a bilateral agreement, when it was unilateral U.S. legislation. The Act is the opposite of granting citizenship: it prevented Chinese residents from becoming citizens. A registration requirement like this is not mentioned in the reading."
+    },
+    {
+      "question": "How did Australia's \"dictation test\" work as part of the White Australia Policy?",
+      "options": [
+        "It required every immigrant to pass a citizenship exam covering Australian history, law, and geography",
+        "It tested immigrants only on their ability to speak and read basic English before allowing them entry",
+        "Officials could give the test in any European language they chose, to fail migrants they wanted excluded",
+        "It was given only to European migrants, to confirm beforehand that they possessed useful job skills"
+      ],
+      "correctIndex": 2,
+      "explanation": "The dictation test could be given in any European language an official picked, even one the migrant had never encountered, which let officials exclude almost anyone they wanted while appearing race-neutral on paper. A straightforward citizenship or English exam (options A and B) is not what the reading describes, since the whole point of the dictation test was that it could be made unpassable on purpose. The test's actual target was excluding non-European migrants, not screening Europeans for skills, as option D wrongly suggests."
+    },
+    {
+      "question": "Which of the following is NOT something the reading describes as an effect of migration on sending or receiving societies?",
+      "options": [
+        "New languages, religions, and foods reshaping receiving-society cities like New York",
+        "Returnees bringing new skills, ideas, and capital back to their home communities",
+        "Nativist backlash producing laws that restricted immigration by race",
+        "Receiving societies uniformly outlawing all forms of ethnic enclave formation"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading never describes receiving societies banning ethnic enclaves. In fact, it describes enclaves like Chinatown and Indian communities in Trinidad persisting and thriving for generations. Cultural transformation, returnees bringing new skills home, and nativist laws like the Chinese Exclusion Act are all effects the reading directly describes."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

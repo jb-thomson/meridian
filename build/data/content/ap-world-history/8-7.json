@@ -296,5 +296,95 @@
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],
-  "teacherNotes": ""
+  "teacherNotes": "",
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, what do Gandhi, Martin Luther King Jr., and Nelson Mandela have in common as examples of nonviolent resistance?",
+      "options": [
+        "None of them ever faced arrest or imprisonment because their governments respected their right to peaceful protest",
+        "All three eventually gave up on political change entirely and lived the rest of their lives outside public life",
+        "All three faced imprisonment or persecution yet built political change through moral authority rather than armed force",
+        "All three achieved their political goals within a single year of beginning their campaigns of resistance"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes Gandhi's assassination, MLK's jailings and assassination, and Mandela's 27 years in prison, showing that all three faced serious persecution while building moral authority that helped achieve lasting political change. None of them avoided arrest, none abandoned public life, and none achieved their goals within a single year."
+    },
+    {
+      "question": "Why does the reading present Pinochet's 1973 coup in Chile as an example of a response that intensified conflict rather than resolving it?",
+      "options": [
+        "The coup and its aftermath of disappearances and torture deepened Chile's political divisions for decades instead of ending them",
+        "The coup was immediately reversed within a few months, restoring Chile's elected government without lasting damage",
+        "The coup led directly to a peaceful referendum in which Chileans voted to reinstate Salvador Allende's socialist government",
+        "The coup ended all political violence in Chile and produced one of the most stable democracies in Latin America"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that Pinochet's coup, followed by roughly 3,000 disappearances and tens of thousands tortured, created decades of trauma and division rather than resolving Chile's political conflict. It was not quickly reversed, did not lead to a referendum restoring Allende, and did not end political violence."
+    },
+    {
+      "question": "According to the reading, what happened to Uganda's Asian community under Idi Amin's regime?",
+      "options": [
+        "They were granted expanded political representation and given several new seats in the Ugandan parliament",
+        "Amin's government awarded them ownership of most of the country's major agricultural land as compensation",
+        "The United Nations relocated the entire community to Europe before Amin's regime could take any action against them",
+        "Approximately 80,000 people were expelled and had their businesses and property confiscated by Amin's government"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading states that Idi Amin expelled Uganda's roughly 80,000-person Asian community in 1972 and confiscated their businesses and property, devastating Uganda's commercial sector. The reading does not describe expanded representation, land grants, or a UN-organized relocation."
+    },
+    {
+      "question": "What distinguishes the Shining Path and Al-Qaeda from other resistance movements discussed in the reading?",
+      "options": [
+        "They were the only two movements in the reading that operated exclusively within a single country's borders",
+        "They deliberately targeted civilians as a central strategy for achieving their political goals",
+        "They were the only movements in the reading that received direct funding from a rival superpower government",
+        "They rejected all forms of ideology and were motivated purely by financial gain rather than political goals"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading defines this category specifically as movements that used violence against civilians to achieve political aims, including Shining Path's village massacres and Al-Qaeda's attacks on civilian targets like the World Trade Center. Operating within one country, receiving superpower funding, and lacking any ideology are not what the reading uses to define this category."
+    },
+    {
+      "question": "According to the reading, what was one major consequence of Al-Qaeda's September 11, 2001 attacks?",
+      "options": [
+        "They triggered the US \"War on Terror,\" including the invasions of Afghanistan and Iraq, reshaping global politics",
+        "They caused the immediate collapse of the United Nations as an international organization",
+        "They led every country in the Middle East to break off all diplomatic relations with the United States",
+        "They resulted in Osama bin Laden being captured and put on trial within the same year"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading states that the 9/11 attacks triggered the US War on Terror, including the invasions of Afghanistan and Iraq, reshaping global politics into the 21st century. It does not describe the UN collapsing, a regional break in diplomacy, or bin Laden's capture that same year."
+    },
+    {
+      "question": "According to the reading, how did Francisco Franco come to power in Spain, and what followed?",
+      "options": [
+        "He won a national election in 1939 and stepped down peacefully after a single term as president",
+        "He led Nationalist forces to victory in the Spanish Civil War with fascist support, then ruled as dictator for 36 years",
+        "He was appointed king of Spain by the Catholic Church following the end of the Spanish Civil War",
+        "He was installed in power by the United Nations to oversee Spain's postwar reconstruction efforts"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explains that Franco's Nationalist forces won the Spanish Civil War with crucial support from Nazi Germany and Fascist Italy, after which he ruled as an authoritarian dictator for 36 years, suppressing opposition through executions and imprisonment. He did not win an election, was not appointed king, and was not installed by the UN."
+    },
+    {
+      "question": "What point was President Eisenhower making when he warned about the \"military-industrial complex\" in 1961, according to the reading?",
+      "options": [
+        "That the relationships between military contractors, the armed services, and Congress created incentives to keep expanding military spending",
+        "That the Soviet Union had already surpassed the United States in total military spending by a wide margin",
+        "That the United States should immediately disband its entire standing military to avoid further conflict",
+        "That private companies should be legally barred from ever producing weapons for the US government"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that Eisenhower warned of a system in which military contractors, the armed forces, and Congress had a shared interest in continued military spending regardless of actual security needs. The reading does not claim Soviet spending had surpassed the US, that the military should be disbanded, or that private weapons production should be banned outright."
+    },
+    {
+      "question": "Which of the following is NOT one of the examples the reading gives of a state or regime whose violent response intensified rather than resolved conflict?",
+      "options": [
+        "Chile under Augusto Pinochet, whose military coup and repression deepened political division for decades",
+        "Uganda under Idi Amin, whose regime killed an estimated 100,000 to 500,000 people through political violence",
+        "Spain under Francisco Franco, whose 36-year dictatorship suppressed opposition through executions and imprisonment",
+        "India under the Indian National Congress, whose nonviolent campaigns pressured Britain into granting independence"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading places the Indian National Congress in the nonviolent resistance category alongside Gandhi, not among the examples of state violence intensifying conflict, which the reading reserves for Pinochet, Franco, Idi Amin, and the military-industrial complex."
+    }
+  ]
 }

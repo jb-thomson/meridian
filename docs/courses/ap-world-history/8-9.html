@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Topic 8.9 is a synthesis and argumentation topic:</strong> Like all final unit topics (4.8, 5.10, 6.8, 7.9), this is designed to develop complex argumentation using evidence from the whole unit. The LO asks you to assess the EXTENT to which Cold War effects were similar in both hemispheres. <strong>The LO asks for comparison across hemispheres:</strong> LO K: "Explain the extent to which the effects of the Cold War were similar in the Eastern and Western Hemispheres." Think: What was common worldwide? What was different between, say, Eastern Europe vs. Latin America vs. Southeast Asia? <strong>Key global similarity: proxy wars everywhere:</strong> Eastern hemisphere (Korea, Vietnam, Angola, Afghanistan) and Western hemisphere (Nicaragua, Cuba, Chile) all experienced Cold War proxy conflicts. The pattern of superpower intervention in local conflicts was hemispheric-crossing. <strong>Key difference: decolonization primarily in Eastern hemisphere:</strong> The breakdown of European empires was mainly an African/Asian phenomenon (Eastern hemisphere). The Western hemisphere had mostly already decolonized in the 19th century, so the Cold War played out against different historical backgrounds on each side.</li></ul>
   
 </div>
@@ -704,6 +738,98 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what is the most significant DIFFERENCE between the Cold War's effects in the two hemispheres?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Decolonization happened mainly in the Eastern hemisphere, adding complexity absent in the already-independent West</li><li class="mcq-opt">Proxy wars occurred only in the Eastern hemisphere, while the West saw purely diplomatic confrontations</li><li class="mcq-opt">Nuclear weapons were deployed exclusively in the Eastern hemisphere, sparing the West any such anxiety</li><li class="mcq-opt">Economic development strategies were completely opposite, with the East adopting only communism outright</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading identifies decolonization's simultaneous occurrence with the Cold War, primarily in the Eastern hemisphere, as the most significant difference, since Western hemisphere nations had been independent since the 19th century. (B), (C), and (D) all contradict the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which piece of evidence best shows that Cold War effects were SIMILAR across both hemispheres, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The Non-Aligned Movement's members were drawn almost entirely from Eastern hemisphere nations alone</li><li class="mcq-opt">Decolonization movements in Asia, Africa, and Latin America all happened at exactly the same time</li><li class="mcq-opt">Proxy wars occurred in both hemispheres: Korea and Afghanistan in the east, Nicaragua and Cuba in the west</li><li class="mcq-opt">Every government in both hemispheres eventually adopted communist economic policy during the Cold War</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading points to the pattern of proxy wars appearing in both hemispheres as its clearest example of a genuine similarity in Cold War effects. (A), (B), and (D) are not supported by the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How should a student best qualify the argument that Cold War effects were broadly similar across hemispheres, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Providing more examples of proxy wars in both hemispheres to strengthen the original claim</li><li class="mcq-opt">Noting simply that the Cold War happened to end earlier in the West than in the East</li><li class="mcq-opt">Arguing that the US behaved more aggressively in the West than the USSR behaved in the East</li><li class="mcq-opt">Acknowledging that simultaneous decolonization gave the Eastern hemisphere a different context</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that a strong qualification acknowledges decolonization's genuinely different political context in the Eastern hemisphere as a real limit on the similarity argument. (A), (B), and (C) do not represent meaningful qualifications.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which Unit 8 development best illustrates the economic dimension of the Cold War's global effects, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Newly independent states pursuing state-directed development, such as Nasser's own nationalizations</li><li class="mcq-opt">The Non-Aligned Movement formally rejecting superpower-led military alliances throughout the Cold War</li><li class="mcq-opt">NATO and the Warsaw Pact forming as two competing military alliances during the Cold War era</li><li class="mcq-opt">Armed communist revolutionary movements spreading across various parts of Asia and Africa over time</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading cites state-directed economic development in newly independent nations, like Nasser's nationalizations in Egypt, as the clearest example of the Cold War's economic dimension. (B), (C), and (D) illustrate political or military dimensions instead.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which Unit 8 development best supports the claim that the Cold War and decolonization were one interconnected transformation, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The Soviet invasion of Afghanistan, which occurred well after most decolonization had already ended</li><li class="mcq-opt">The Korean War, which simply divided one country between a communist north and a capitalist south</li><li class="mcq-opt">Ho Chi Minh's movement, which fused anti-colonial nationalism and communism into a single struggle</li><li class="mcq-opt">The fall of the Berlin Wall, which coincided roughly with the final wave of African decolonization</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading uses Ho Chi Minh's movement, which fused communist ideology and nationalist independence in one campaign, as its clearest example that Cold War competition and decolonization cannot be separated. (A), (B), and (D) do not illustrate this interconnection as directly.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, how did superpower behavior toward smaller nations' sovereignty compare across the two hemispheres?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Superpowers respected the sovereignty of smaller nations in both hemispheres and rarely intervened directly</li><li class="mcq-opt">Neither the US nor the USSR ever overthrew or destabilized a foreign government during the Cold War</li><li class="mcq-opt">Both superpowers overrode local sovereignty when it served their interests, from Chile to Czechoslovakia</li><li class="mcq-opt">Only the Soviet Union ever intervened militarily in another nation's internal political affairs</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading gives examples in both hemispheres, US-backed interventions in Chile, Guatemala, and Iran, alongside Soviet interventions in Hungary, Czechoslovakia, and Afghanistan, showing neither superpower respected sovereignty when strategic interests were at stake. (A), (B), and (D) all contradict the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How did successful communist revolutions differ between hemispheres, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Communist revolutions succeeded equally in both hemispheres, with Cuba matching China's own example</li><li class="mcq-opt">Successful communist takeovers occurred mainly in the Eastern hemisphere, with Cuba as the main exception</li><li class="mcq-opt">The Soviet Union stationed as many troops in Latin America as it did across all of Eastern Europe</li><li class="mcq-opt">US intervention in Latin America consistently helped communist parties win elections and hold power</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that successful communist revolutions occurred mainly in the Eastern hemisphere (China, Vietnam, Korea), with Cuba as the major Western hemisphere exception, since US proximity generally prevented other communist takeovers there. (A), (C), and (D) all contradict the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -850,6 +976,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="8.9" data-advance-next="9-1.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="8.9">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

@@ -369,6 +369,85 @@
       "modelAnswer": "This argument is a starting point, not a finished comparison. To make it historically sophisticated, you would need to: (1) Specify exactly how the gunpowder use differed. Ottoman artillery was decisive at Constantinople in 1453; Mughal artillery was field-based at Panipat 1526; the Safavids initially rejected firearms and suffered catastrophic defeat at Chaldiran 1514; the Qing combined Manchu cavalry with diplomacy as much as cannons. The fact that all four used gunpowder doesn't mean they used it the same way or depended on it equally. (2) Differentiate the religious legitimation strategies, the Ottoman claim to the Sunni caliphate (Selim I, 1517) is fundamentally different in function from Akbar's religious tolerance policy, which is fundamentally different from the Safavid forced conversion to Shi'a Islam, which is different from Qing Buddhist diplomacy with Mongolian leaders. All used religion, but each used it differently in response to a different religious demographic situation. (3) Add a \"so what\", why does the similarity matter? Because it reveals that military technology and religious legitimation are structural requirements of any large pre-modern empire, not choices unique to these four states. And why do the differences matter? Because they reveal how specific historical contexts (demographic, geographic, religious) shaped the specific implementations of these universal imperial tools."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, what four dimensions does the AP framework use to compare land-based empires in this period?",
+      "options": [
+        "Population size, geographic size, total wealth, and available military technology",
+        "Military expansion, administrative consolidation, legitimation, and revenue extraction",
+        "Religion, spoken language, visual art, monumental architecture, and court ceremony",
+        "Trade routes, foreign diplomacy, methods of warfare, and taxation policy alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explicitly lists these four categories as the framework for comparison: how empires conquered territory, how they governed conquered populations, how they made their rule seem rightful, and how they funded their operations. The other options list categories the reading doesn't use as its comparison framework."
+    },
+    {
+      "question": "According to the reading, how were the Ottoman devshirme system and the Chinese civil service examination similar, and how did they differ?",
+      "options": [
+        "Both were open to any subject regardless of religion, though only the devshirme required years of military training first",
+        "Both recruited only from wealthy landowning families, but the devshirme required conversion to Confucianism instead",
+        "Both were formally abolished by the 18th century after failing to produce officials loyal to either empire's ruler",
+        "Both created non-hereditary officials, but the devshirme forcibly converted non-Muslim boys while the exam admitted any literate male"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading draws exactly this comparison: both systems produced merit-based, non-hereditary officials, but they differed in recruitment pool and the role of religion, the devshirme recruited and converted non-Muslim boys while the Chinese exam was open to any literate male regardless of background. The other options misstate details the reading gives."
+    },
+    {
+      "question": "What was the Mughal mansabdari system, according to the reading?",
+      "options": [
+        "Numerical ranks assigned to officials, with pay tied to rank and no rank passed to an official's children",
+        "A system of hereditary noble titles and large land grants passed down through Mughal families",
+        "A religious council that approved or rejected officials for administrative office based on faith",
+        "A regional tax collection method used only in the Mughal Empire's southern coastal provinces"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading describes the mansabdari system as assigning ranks tied to salary and military obligation, with a mansabdar's rank dying with him rather than passing to heirs, making officials dependent on continued imperial service. The other options describe things the reading doesn't say about this system."
+    },
+    {
+      "question": "What does the comparison between Akbar's and Aurangzeb's religious policies reveal, according to the reading?",
+      "options": [
+        "That religious tolerance always produces greater territorial expansion than religious enforcement",
+        "That Aurangzeb's policies had no real effect on the empire, since the rebellions would have happened anyway",
+        "That there is a real tension between territorial expansion and the legitimation needed for lasting stability",
+        "That Akbar's tolerant policies were purely idealistic and served no real strategic political purpose"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading notes that Aurangzeb achieved the empire's greatest territorial extent even as the rebellions that began fragmenting it started during his reign, illustrating a genuine tension between military expansion and the legitimation strategies needed for long-term stability. The first option overstates the point, and the fourth option is wrong since the reading treats Akbar's tolerance as both genuine and strategically useful."
+    },
+    {
+      "question": "Why does the reading single out Ming and Qing silver taxation as unique among the revenue systems compared in this topic?",
+      "options": [
+        "It was the only system that used intermediary tax collectors instead of direct government officials",
+        "It was the only tax policy that became a driver of global trade, linking China to American silver mines",
+        "It was the only revenue system among the four empires that generated no resentment among the taxed",
+        "It was the only system that collected taxes solely from foreign merchants rather than from subjects"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading states that Ming and Qing silver taxation was unique in its global consequences, since a domestic Chinese tax policy became a driver of global economic integration in a way no other tax system in the period equaled. The other options are not supported by the reading."
+    },
+    {
+      "question": "According to the reading, what makes a piece of historical evidence specific rather than vague in an AP essay?",
+      "options": [
+        "It uses broad, general statements that could apply to almost any empire in world history",
+        "It cites a secondary source that briefly summarizes several different empires at once",
+        "It focuses only on describing one single empire and never draws a comparison to another",
+        "It names particular people, dates, or events, like Selim I's 1517 conquest of Egypt and his caliph title"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading contrasts a vague claim, that the Ottoman Empire used religion to legitimize its rule, with a specific one naming Selim I, the 1517 conquest of Egypt, the title of caliph, and the political function this served. The first option describes vague evidence, the opposite of what specific evidence does."
+    },
+    {
+      "question": "Which of the following was NOT one of the administrative solutions land-based empires used to reduce the power of rival elites, according to the reading?",
+      "options": [
+        "The Ottoman devshirme, which built a class of officials with no independent family power base",
+        "The Qing dual administration, which paired Manchu and Han officials at every level of government",
+        "The Mughal mansabdari system, which tied rank and pay to imperial service rather than heredity",
+        "A shared imperial senate that let nobles from every land-based empire vote on succession"
+      ],
+      "correctIndex": 3,
+      "explanation": "No such shared senate existed. Each empire developed its own separate solution to the same underlying problem. The other three options are administrative systems the reading explicitly describes and compares."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

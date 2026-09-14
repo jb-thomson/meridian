@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: State expansion creates resistance:</strong> The core argument for this topic: as states expanded and centralized power in the period 1450–1750, they encountered resistance from "an array of social, political, and economic groups on a local level." This resistance took many forms, indigenous uprisings, elite rebellions, peasant revolts, and enslaved resistance, but all shared a common cause: expansion of state power that disrupted existing social arrangements. <strong>Local resistance examples (AP exam-named):</strong> <em>Pueblo Revolt</em> (1680): indigenous peoples of New Mexico drove Spanish colonizers out of the region for 12 years. <em>Fronde</em> (1648–1653): French nobles and Paris parlements rebelled against Cardinal Mazarin's expansion of royal power during Louis XIV's minority. <em>Cossack revolts</em> (Russia): free military communities on the Russian frontier resisted incorporation into the Russian state. <em>Maratha conflict with Mughals</em>: Hindu Maratha Confederacy challenged Mughal expansion in the Deccan plateau. <em>Ana Nzinga</em> (Ndongo and Matamba): West African queen who resisted Portuguese encroachment for decades. <em>Metacom's War</em> (King Philip's War, 1675–1676): New England indigenous coalition resisted English colonial expansion. <strong>Enslaved resistance:</strong> Enslaved Africans in the Americas did not passively accept their condition. Two major forms of organized resistance: <em>Maroon societies</em>, communities of escaped enslaved people who established autonomous settlements in remote areas of the Caribbean, Brazil, and South America, sometimes maintaining independence for generations. <em>Enslaved resistance in North America</em>, slower to organize than Caribbean/Brazilian Maroon communities but included work slowdowns, sabotage, flight, and occasional armed uprisings.</li></ul>
   
 </div>
@@ -742,6 +776,98 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what common cause lay behind local resistance movements across the world in this period?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Resistance was driven mainly by disputes between resisting groups over trade profits</li><li class="mcq-opt">State expansion and centralization disrupted arrangements that communities relied on</li><li class="mcq-opt">Nearly all local resistance movements were secretly coordinated by one alliance</li><li class="mcq-opt">Resistance occurred only where colonizers specifically demanded religious conversion</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that resistance arose when state demands for tribute, labor, land, religious conversion, or political submission threatened the existing social arrangements communities relied on to survive. Resisting groups were not primarily fighting each other over trade, there is no mention of international coordination between separate movements, and religious conversion was only one of several possible triggers.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why did the Pueblo Revolt of 1680 succeed in driving Spanish colonizers out of New Mexico for over a decade?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Popé coordinated a surprise uprising across communities against a thin Spanish garrison</li><li class="mcq-opt">The Spanish quietly withdrew after negotiating a favorable peaceful settlement</li><li class="mcq-opt">Pueblo leaders received substantial reinforcements from a rival European power</li><li class="mcq-opt">New Mexico's colonial government fielded a much larger military than Pueblo forces</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes Popé organizing a coordinated, simultaneous uprising across Pueblo communities against a Spanish colonial presence that was thin and far from reinforcement. The Spanish did not withdraw voluntarily, no rival European power is mentioned as providing reinforcements, and the Spanish military presence was small, not larger than Pueblo forces.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does the reading say happened to the Fronde's rebellion against French royal centralization?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It succeeded completely, permanently ending French royal authority over the nobility</li><li class="mcq-opt">It never involved any real conflict between the French nobility and the monarchy</li><li class="mcq-opt">It was quietly supported by the king himself as a way to weaken rival nobles</li><li class="mcq-opt">It ultimately failed, and Louis XIV's monarchy emerged with more concentrated power</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states the Fronde ultimately failed, and Louis XIV emerged as one of the most absolute monarchs in European history. The rebellion did not succeed in ending royal power, it was directed against Cardinal Mazarin and royal authority rather than supported by the king, and it was specifically a conflict between nobles, parlements, and the crown.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following was NOT one of the ways enslaved people in North America resisted, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Maintaining African languages, religious practices, and family connections</li><li class="mcq-opt">Forming large, permanent Maroon-style settlements across most of the Southeast</li><li class="mcq-opt">Flight, meaning individual or small-group escapes away from plantations</li><li class="mcq-opt">Work slowdowns and quiet sabotage of tools, crops, and farm equipment</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that sustained Maroon communities were harder to establish in North America than in the Caribbean or Brazil, because the Southeast lacked comparable natural defenses and the enslaved population was more dispersed. Cultural preservation, flight, and work slowdowns are all explicitly listed as forms of resistance that did occur.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why were Maroon societies in Jamaica and Brazil able to survive for decades or even generations, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">European colonial powers lacked any real interest in recapturing escaped people</li><li class="mcq-opt">Remote, defensible terrain and organized governance helped them resist military campaigns</li><li class="mcq-opt">Colonial governments deliberately let them exist as a show of religious tolerance</li><li class="mcq-opt">The enslaved people who escaped were never actively pursued by colonial authorities</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes Maroon communities as organized societies with governance structures, agricultural systems, and military forces, using remote and defensible terrain to survive repeated Portuguese, Dutch, and British military expeditions. Colonial powers actively pursued and attacked these communities, they were not simply left alone or tolerated on religious grounds.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What eventually led the British to sign formal treaties with the Windward and Leeward Maroons of Jamaica in 1739-1740?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A religious conversion that brought the Maroon leaders into the Anglican church</li><li class="mcq-opt">Pressure from the Spanish government demanding recognition of Maroon independence</li><li class="mcq-opt">Decades of failed campaigns made continued fighting costlier than negotiated peace</li><li class="mcq-opt">A sudden shortage of enslaved laborers on Jamaica's neighboring sugar islands</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that the British had failed for decades to defeat the Maroons militarily, and signing treaties recognizing their autonomy was, in effect, an acknowledgment that continued fighting was not worth the cost. A religious conversion, Spanish pressure, and a labor shortage elsewhere are not mentioned as reasons for the treaties.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What strategy did Ana Nzinga use to resist Portuguese encroachment on Ndongo and Matamba?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Complete isolation from all outside powers, refusing any contact with Europeans</li><li class="mcq-opt">Relying on one unchanging tactic, sustained military combat, throughout her reign</li><li class="mcq-opt">Immediate unconditional surrender followed by decades of peaceful cooperation</li><li class="mcq-opt">A shifting mix of military resistance, diplomacy, conversion, and Dutch alliance</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes Ana Nzinga combining military force, diplomatic negotiation, a strategic conversion to Christianity, and an alliance with the Dutch against Portugal, adapting her approach as circumstances changed. She did not isolate herself from outside powers, she did not surrender unconditionally, and she used far more than military combat alone.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -924,6 +1050,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="4.6" data-advance-next="4-7.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="4.6">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

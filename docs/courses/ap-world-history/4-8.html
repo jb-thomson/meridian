@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Purpose of this topic:</strong> Topic 4.8 is a synthesis topic. There is no new content, instead, the AP exam asks you to use the historical thinking skill of argumentation to draw on the key concepts and historical developments from Units 4 (and earlier units) to analyze what changed and what stayed the same across the period 1450–1750. The LO is about how <em>economic developments</em> affected <em>social structures</em> over time, connecting the commercial changes (maritime empires, Atlantic trade, silver economy) to the social changes (new labor systems, new hierarchies, demographic shifts). <strong>Major changes:</strong> Permanent contact between Eastern and Western Hemispheres (ending 12,000 years of biological isolation); Columbian Exchange (reshaping global diets, populations, and ecologies); new European maritime empires in Americas and Indian Ocean; new Atlantic labor systems (chattel slavery, encomienda); new social hierarchies (casta system, Qing ethnic hierarchy); global silver economy connecting Americas, Europe, and Asia for the first time. <strong>Major continuities:</strong> Agriculture remained the economic foundation for most of humanity; existing land-based empires (Mughal, Ottoman, Qing, Safavid, covered in Unit 3) continued operating; Indian Ocean trade networks persisted despite European disruption; hierarchical social organization continued everywhere, though the specific hierarchies changed; most people worldwide were still peasants, though often working harder for global markets. <strong>The AP skill:</strong> The exam will test your ability to make and support an argument about the <em>extent</em> of change vs. continuity. A strong thesis doesn't just list changes or continuities. It makes a judgment: "change was more significant than continuity" or "continuity was more significant in [domain X], while change dominated in [domain Y]." The evidence from all of Unit 4 (and connecting to Unit 3) supports these arguments.</li></ul>
   
 </div>
@@ -646,6 +680,86 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what was different about the world's trade networks by 1600 compared to any earlier period?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Global trade networks had existed in exactly the same form since ancient times</li><li class="mcq-opt">For the first time, all major world regions were linked by regular maritime trade</li><li class="mcq-opt">Only European nations were ever involved in any long-distance trade networks</li><li class="mcq-opt">Overland trade routes had completely replaced all maritime trade routes by then</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes the world in 1600 as connected by regular maritime trade for the first time, with Spanish galleons, Portuguese ships, and Ottoman caravans all linking land and sea routes. This was new, not a repeat of an unchanged ancient pattern, non-European merchants and empires were still central participants, and overland trade did not disappear.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does the reading identify as something that stayed the same even as global trade expanded by 1600?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Most people still lived as peasant farmers under hierarchical empires</li><li class="mcq-opt">Precious metals stopped being used as currency in any part of the world</li><li class="mcq-opt">Agricultural labor became largely unnecessary because of new trade networks</li><li class="mcq-opt">Land-based empires disappeared entirely once maritime trade expanded</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that what changed was the scale and speed of global connection, while what stayed the same was that most people still lived as peasant farmers under hierarchical empires. Precious metals remained central to trade, land-based empires like the Mughal, Ottoman, and Qing states persisted and even expanded, and agricultural labor remained the foundation of most economies.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What catastrophic demographic event does the reading describe as possibly cooling the global climate?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">A war between rival European maritime powers that killed millions of soldiers</li><li class="mcq-opt">A famine caused by a long string of failed harvests across Afro-Eurasia</li><li class="mcq-opt">The collapse of the Indigenous population of the Americas by 50 to 90 percent</li><li class="mcq-opt">A plague that spread from Central Asia into Europe during this period</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading's funFact describes the Indigenous population of the Americas falling by 50 to 90 percent within 150 years of contact, mostly from disease, and notes that as farmland reverted to forest, the trees may have absorbed enough carbon dioxide to trigger a detectable cooling effect. A European war, a general Afro-Eurasian famine, and a Central Asian plague are not the event described here.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading's four-step method, what should come after tracing an economic development's social effect when building a CCOT argument?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Immediately move on to an unrelated topic without further explanation</li><li class="mcq-opt">List every possible piece of evidence available from the entire unit</li><li class="mcq-opt">Specify how the effect changed over time, then note what stayed the same</li><li class="mcq-opt">Skip ahead and ignore entirely how the effect changed across the period</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading's four steps are: identify the economic development, trace its social effect, specify how that effect changed over time within the period, and finally acknowledge what didn't change. Jumping to an unrelated topic, listing every piece of evidence, or ignoring the change-over-time step all contradict this method.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What makes a thesis statement strong for a continuity and change essay, according to the reading's advice?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It focuses only on continuity and avoids mentioning change at all</li><li class="mcq-opt">It states that change and continuity both occurred without specifying how much of each</li><li class="mcq-opt">It avoids naming any specific evidence so the essay can go in any direction</li><li class="mcq-opt">It states a specific extent judgment, rather than simply restating the prompt</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading's AP tip says a strong thesis includes a specific extent judgment, such as 'to a significant extent,' and previews the actual evidence, rather than simply restating that both change and continuity happened. It should preview specific evidence, not avoid it, and it must address both change and continuity with a clear judgment about their relative weight, not favor only one.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What does the reading say about land-based empires like the Mughal, Ottoman, and Qing states compared to European maritime territories by 1750?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Land-based empires and European maritime empires governed roughly equal populations</li><li class="mcq-opt">Land-based empires had already collapsed by 1750 and were replaced by European colonies</li><li class="mcq-opt">European colonial territories governed far more people than the land-based empires combined</li><li class="mcq-opt">Land-based empires still governed far more people and territory than European maritime empires</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that the Mughal, Ottoman, Safavid, and Qing empires from Unit 3 remained the dominant political units of the period in population and territory, while European maritime empires were commercially impressive but governed far fewer people. The land-based empires did not collapse in this period, and their populations were not equal to but far larger than those under European maritime control.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -828,6 +942,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="4.8" data-advance-next="5-1.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="4.8">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

@@ -343,6 +343,96 @@
       "modelAnswer": "The persistence of indigenous Indian Ocean trade networks reveals that European power in this period was real but limited, concentrated at strategic chokepoints, reliant on naval superiority, but unable to control the vast spaces of the ocean itself. European states could establish fortified posts and impose taxes on traffic that passed their ports, but they lacked the administrative capacity, the commercial relationships, and frankly the ships to patrol millions of square miles of ocean. Gujarati merchants could simply use different ports; Javanese traders could route around Portuguese patrol zones; Swahili Arabs could choose different seasons and different routes. The lesson is important for understanding the entire period: European dominance was a gradual process, not an instantaneous imposition, and for most of 1450–1750 it was partial, contested, and incomplete, especially outside the Americas where disease had not provided the catastrophic demographic opening that made territorial colonization possible."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "What was the main model Portugal and other European powers used to establish trade in the Indian Ocean and along Africa's coast?",
+      "options": [
+        "Direct conquest and permanent occupation of large inland territories",
+        "Full military alliances that let local rulers jointly govern entire regions",
+        "Fortified trading posts built at strategic ports and ocean chokepoints",
+        "Purchasing exclusive farming rights from established indigenous landowners"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes Portugal building fortified trading posts, called feitorias, at chokepoints like Goa, Malacca, and Hormuz rather than conquering territory. This let Portugal tax and control trade with a relatively small footprint. Direct territorial conquest describes the different model used in the Americas, not the Indian Ocean or Africa. Neither joint government with local rulers nor purchased farming rights is described anywhere in the reading."
+    },
+    {
+      "question": "Why did Portugal specifically target Goa, Malacca, and Hormuz rather than trying to conquer larger surrounding territories?",
+      "options": [
+        "These ports were chokepoints that let Portugal control and tax maritime trade passing through",
+        "These were the only three cities in all of Asia willing to allow European visitors at all",
+        "Portugal's royal family had personal marriage ties to the ruling family of each port",
+        "Portugal lacked the naval technology and shipbuilding skill needed to reach any other port"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that Portugal's strategy was to control chokepoints, not territory, and that this strategic geographic thinking, combined with superior naval technology, let a small country build a global network. Other European powers later traded in the same region, so these were not the only cities open to Europeans. Family ties are not mentioned, and Portugal's naval technology was actually a strength, not a limitation."
+    },
+    {
+      "question": "According to the reading, what problem was Japan's Sakoku policy and Ming China's restrictions on Portuguese trade both meant to address?",
+      "options": [
+        "The direct military threat that European navies posed to their home ports",
+        "A domestic shortage of silver needed to pay taxes and government salaries",
+        "Growing commercial competition between Japanese and Chinese merchant guilds",
+        "The disruptive economic and cultural effects of European-dominated long-distance trade"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading's AP tip states the College Board's own language directly: Asian states restricted trade to limit the disruptive economic and cultural effects of European-dominated commerce. A military threat, a silver shortage, and merchant competition between Japan and China are not mentioned as reasons for these policies."
+    },
+    {
+      "question": "Which of the following was NOT part of Japan's Sakoku policy, according to the reading?",
+      "options": [
+        "Expelling all Portuguese and Spanish traders along with their missionaries",
+        "Allowing free trade with any European nation willing to accept Japanese law",
+        "Prohibiting Japanese subjects from traveling abroad on penalty of death",
+        "Restricting foreign trade to the Dutch and Chinese at the port of Dejima"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sakoku restricted foreign trade to only the Dutch and Chinese at one controlled port, not free trade with any European nation, and it specifically expelled the Portuguese and Spanish. Expelling Portuguese and Spanish traders, banning travel abroad, and restricting trade to Dejima are all explicitly described as parts of the policy."
+    },
+    {
+      "question": "How did the Kingdom of Kongo's relationship with Portugal change over time, according to the reading?",
+      "options": [
+        "Kongo refused to allow Portuguese contact of any kind from the very first encounter",
+        "Portugal and Kongo remained equal diplomatic partners for the entire period, with no tension",
+        "An early diplomatic partnership was gradually overwhelmed by Portuguese demand for captives",
+        "Kongo eventually conquered and absorbed the Portuguese trading posts along the coast"
+      ],
+      "correctIndex": 2,
+      "explanation": "King Afonso I initially built a diplomatic relationship with Portugal and converted to Christianity, but the reading explains that the growing demand for enslaved people gradually overwhelmed this partnership, despite Afonso's letters protesting the trade. Kongo did not refuse contact from the start, the relationship did not stay equal and tension-free, and Kongo never conquered Portuguese posts."
+    },
+    {
+      "question": "Why, according to the reading, couldn't the Portuguese fully exclude Gujarati and other Indian Ocean merchants from trade despite their naval power?",
+      "options": [
+        "The ocean was too vast for Portugal to patrol, so merchants used alternate ports and routes",
+        "Gujarati merchants had built ships that were faster and more heavily armed than Portugal's",
+        "The Ottoman Empire supplied a full protective navy for every Gujarati merchant convoy",
+        "Portugal had signed a formal treaty giving up all its Indian Ocean claims after one battle"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading's funFact explains that the Indian Ocean was roughly 28 million square miles, far too large for Portugal's few strategic forts to control, so merchants simply used different ports and routes. The reading also notes Portugal needed indigenous merchants as intermediaries. Ship speed comparisons, an Ottoman navy, and a treaty ending Portuguese claims are not mentioned."
+    },
+    {
+      "question": "Which labor system did Spanish colonizers create by adapting an existing Incan institution?",
+      "options": [
+        "Chattel slavery, adapted from an existing set of Incan tribute record-keeping practices",
+        "Indentured servitude, adapted from a preexisting Incan system of military conscription",
+        "The hacienda system, adapted from traditional Incan land inheritance customs",
+        "The mit'a, adapted from an Incan rotating labor obligation used for silver mining"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading and vocabulary describe the mit'a as an Incan state labor obligation that required communities to rotate workers for public projects, which the Spanish adapted to force Andean men to work in the Potosí silver mines. Chattel slavery, indentured servitude, and the hacienda each had different origins and labor pools, none connected to this Incan institution."
+    },
+    {
+      "question": "What was the key difference between chattel slavery and indentured servitude, according to the reading?",
+      "options": [
+        "Indentured servants were always treated well and given full legal rights, unlike enslaved people",
+        "Indentured servitude had a set end date and did not pass to a worker's children, unlike slavery",
+        "Chattel slavery was used only in English colonies, while servitude was used only in Spanish ones",
+        "Indentured servants worked only in silver mines, while enslaved people worked only on plantations"
+      ],
+      "correctIndex": 1,
+      "explanation": "The vocabulary section explains that indentured servitude had a defined endpoint, typically four to seven years, and did not apply to children, unlike chattel slavery. The reading does not claim indentured servants had full legal rights, and it reverses the actual regional pattern: chattel slavery was most intensive in the Caribbean and Brazil, while indentured servitude was used mainly in English colonies. The reading also does not limit either system to one type of labor site."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

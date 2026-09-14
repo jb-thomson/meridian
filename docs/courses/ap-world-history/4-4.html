@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: European trading posts in Africa and Asia:</strong> Portugal and later the Dutch, English, and French established fortified trading posts at strategic ports around Africa and Asia. These posts were profitable for the rulers and merchants involved in the new global trade networks. They weren't governing large territories, just taxing and controlling the sea lanes. The Portuguese network (Goa, Malacca, Hormuz) is the classic model. <strong>Asian states respond: isolationism:</strong> Not all Asian states accepted European commercial presence. Ming China and Tokugawa Japan both adopted restrictive or isolationist trade policies to limit the "disruptive economic and cultural effects" (AP exam's language) of European-dominated long-distance trade. Japan's Sakoku (1635–1853) allowed trade only with the Dutch, and only at one port (Dejima, Nagasaki). China's Haijin (sea ban) restricted maritime trade for much of this period.</li><li><strong>LO-B: Explain continuities and changes in economic systems and…:</strong> <strong>African states grow:</strong> Some African states grew more powerful through participation in Atlantic trade networks. The Asante Empire (modern Ghana) and the Kingdom of Kongo became major players in the Atlantic economy, though this involvement deeply entangled them with the slave trade. Their participation in trading networks increased their regional influence even as it produced devastating social consequences. <strong>Indian Ocean trade continues:</strong> European arrival disrupted but did not destroy the existing Indian Ocean trade network. Indigenous Asian merchants, Swahili Arabs, Omanis, Gujaratis, Javanese, continued to operate and, in some periods, actively competed with and resisted European commercial dominance. Intra-Asian trade actually expanded in this period even as Europeans tried to monopolize it.</li><li><strong>LO-C: Explain changes and continuities in systems of slavery…:</strong> <strong>New labor systems in the Americas:</strong> Colonial economies in the Americas required labor. Four systems emerged: the <em>encomienda</em> (labor rights over indigenous people granted to Spanish settlers); the <em>hacienda</em> (large landed estate using debt peonage); the Incan <em>mit'a</em> (adapted by Spanish for silver mining); and <em>chattel slavery</em> (African enslaved people as property, most intensively in Caribbean and Brazil). Indentured servitude was used mainly in English colonies.</li></ul>
   
 </div>
@@ -765,6 +799,110 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the main model Portugal and other European powers used to establish trade in the Indian Ocean and along Africa's coast?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Direct conquest and permanent occupation of large inland territories</li><li class="mcq-opt">Full military alliances that let local rulers jointly govern entire regions</li><li class="mcq-opt">Fortified trading posts built at strategic ports and ocean chokepoints</li><li class="mcq-opt">Purchasing exclusive farming rights from established indigenous landowners</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes Portugal building fortified trading posts, called feitorias, at chokepoints like Goa, Malacca, and Hormuz rather than conquering territory. This let Portugal tax and control trade with a relatively small footprint. Direct territorial conquest describes the different model used in the Americas, not the Indian Ocean or Africa. Neither joint government with local rulers nor purchased farming rights is described anywhere in the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why did Portugal specifically target Goa, Malacca, and Hormuz rather than trying to conquer larger surrounding territories?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">These ports were chokepoints that let Portugal control and tax maritime trade passing through</li><li class="mcq-opt">These were the only three cities in all of Asia willing to allow European visitors at all</li><li class="mcq-opt">Portugal's royal family had personal marriage ties to the ruling family of each port</li><li class="mcq-opt">Portugal lacked the naval technology and shipbuilding skill needed to reach any other port</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that Portugal's strategy was to control chokepoints, not territory, and that this strategic geographic thinking, combined with superior naval technology, let a small country build a global network. Other European powers later traded in the same region, so these were not the only cities open to Europeans. Family ties are not mentioned, and Portugal's naval technology was actually a strength, not a limitation.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what problem was Japan's Sakoku policy and Ming China's restrictions on Portuguese trade both meant to address?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The direct military threat that European navies posed to their home ports</li><li class="mcq-opt">A domestic shortage of silver needed to pay taxes and government salaries</li><li class="mcq-opt">Growing commercial competition between Japanese and Chinese merchant guilds</li><li class="mcq-opt">The disruptive economic and cultural effects of European-dominated long-distance trade</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading's AP tip states the College Board's own language directly: Asian states restricted trade to limit the disruptive economic and cultural effects of European-dominated commerce. A military threat, a silver shortage, and merchant competition between Japan and China are not mentioned as reasons for these policies.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which of the following was NOT part of Japan's Sakoku policy, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Expelling all Portuguese and Spanish traders along with their missionaries</li><li class="mcq-opt">Allowing free trade with any European nation willing to accept Japanese law</li><li class="mcq-opt">Prohibiting Japanese subjects from traveling abroad on penalty of death</li><li class="mcq-opt">Restricting foreign trade to the Dutch and Chinese at the port of Dejima</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Sakoku restricted foreign trade to only the Dutch and Chinese at one controlled port, not free trade with any European nation, and it specifically expelled the Portuguese and Spanish. Expelling Portuguese and Spanish traders, banning travel abroad, and restricting trade to Dejima are all explicitly described as parts of the policy.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How did the Kingdom of Kongo's relationship with Portugal change over time, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Kongo refused to allow Portuguese contact of any kind from the very first encounter</li><li class="mcq-opt">Portugal and Kongo remained equal diplomatic partners for the entire period, with no tension</li><li class="mcq-opt">An early diplomatic partnership was gradually overwhelmed by Portuguese demand for captives</li><li class="mcq-opt">Kongo eventually conquered and absorbed the Portuguese trading posts along the coast</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">King Afonso I initially built a diplomatic relationship with Portugal and converted to Christianity, but the reading explains that the growing demand for enslaved people gradually overwhelmed this partnership, despite Afonso's letters protesting the trade. Kongo did not refuse contact from the start, the relationship did not stay equal and tension-free, and Kongo never conquered Portuguese posts.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why, according to the reading, couldn't the Portuguese fully exclude Gujarati and other Indian Ocean merchants from trade despite their naval power?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The ocean was too vast for Portugal to patrol, so merchants used alternate ports and routes</li><li class="mcq-opt">Gujarati merchants had built ships that were faster and more heavily armed than Portugal's</li><li class="mcq-opt">The Ottoman Empire supplied a full protective navy for every Gujarati merchant convoy</li><li class="mcq-opt">Portugal had signed a formal treaty giving up all its Indian Ocean claims after one battle</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading's funFact explains that the Indian Ocean was roughly 28 million square miles, far too large for Portugal's few strategic forts to control, so merchants simply used different ports and routes. The reading also notes Portugal needed indigenous merchants as intermediaries. Ship speed comparisons, an Ottoman navy, and a treaty ending Portuguese claims are not mentioned.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Which labor system did Spanish colonizers create by adapting an existing Incan institution?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Chattel slavery, adapted from an existing set of Incan tribute record-keeping practices</li><li class="mcq-opt">Indentured servitude, adapted from a preexisting Incan system of military conscription</li><li class="mcq-opt">The hacienda system, adapted from traditional Incan land inheritance customs</li><li class="mcq-opt">The mit'a, adapted from an Incan rotating labor obligation used for silver mining</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading and vocabulary describe the mit'a as an Incan state labor obligation that required communities to rotate workers for public projects, which the Spanish adapted to force Andean men to work in the Potosí silver mines. Chattel slavery, indentured servitude, and the hacienda each had different origins and labor pools, none connected to this Incan institution.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 8<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the key difference between chattel slavery and indentured servitude, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Indentured servants were always treated well and given full legal rights, unlike enslaved people</li><li class="mcq-opt">Indentured servitude had a set end date and did not pass to a worker's children, unlike slavery</li><li class="mcq-opt">Chattel slavery was used only in English colonies, while servitude was used only in Spanish ones</li><li class="mcq-opt">Indentured servants worked only in silver mines, while enslaved people worked only on plantations</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The vocabulary section explains that indentured servitude had a defined endpoint, typically four to seven years, and did not apply to children, unlike chattel slavery. The reading does not claim indentured servants had full legal rights, and it reverses the actual regional pattern: chattel slavery was most intensive in the Caribbean and Brazil, while indentured servitude was used mainly in English colonies. The reading also does not limit either system to one type of labor site.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -947,6 +1085,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="4.4" data-advance-next="4-5.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="4.4">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

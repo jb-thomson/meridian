@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#2f6b4f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -309,6 +340,7 @@
 
 
 <div class="util-panel" data-util-panel="tldr" hidden>
+  
   
   <ul class="util-panel-list"><li>Income is money earned from work or investments. Gross income is before deductions; net income (take-home pay) is what remains after taxes, always budget from net.</li><li>A budget assigns every dollar a purpose. The 50/30/20 rule: 50% needs, 30% wants, 20% savings and debt repayment.</li><li>Build an emergency fund of 3–6 months of living expenses before investing anything, it prevents one bad event from forcing you into debt.</li><li>Compound interest rewards starting early above all else. $100/month at 7% for 40 years grows to $260,000, with only $48,000 contributed.</li><li>Saving is low-risk and for near-term goals. Investing is higher-risk and essential for long-term goals, because inflation quietly erodes uninvested cash over time.</li><li>The risk-return relationship: higher potential returns always require accepting higher risk. No exceptions.</li><li>Diversification, spreading investments across many assets, reduces risk. Index funds make diversification cheap and easy.</li><li>Always contribute enough to a 401(k) to capture the full employer match. That match is an immediate, guaranteed return on investment.</li></ul>
   
@@ -737,7 +769,7 @@
     
   
     
-  <ul class="reading-list"><li><strong>Income</strong> arrives as wages (hourly), salary (fixed), commission, or tips. Gross income is before deductions; net income is what goes into the bank after taxes, and budgeting always starts from net.</li><li>A <strong>budget</strong> is a spending and saving plan. The 50/30/20 rule divides take-home pay: 50% needs, 30% wants, 20% savings and debt repayment.</li><li>An <strong>emergency fund</strong> of three to six months of expenses is the first savings priority, it prevents a single unexpected bill from derailing an entire financial plan.</li><li><strong>Compound interest</strong> rewards time above all else. Starting earlier matters more than contributing larger amounts later.</li><li><strong>Saving</strong> (savings accounts, CDs) is low-risk for near-term needs. <strong>Investing</strong> (stocks, bonds, mutual funds) accepts higher risk for higher long-run returns — necessary because inflation erodes uninvested cash. Higher potential return always means higher risk: no exceptions. <strong>Diversification</strong> spreads that risk across many assets; index funds do it cheaply.</li><li>A <strong>401(k) employer match</strong> is free money. Contribute enough to capture it fully.</li></ul>
+  <ul class="reading-list"><li><strong>Income</strong> arrives as wages (hourly), salary (fixed), commission, or tips. Gross income is before deductions; net income is what goes into the bank after taxes, and budgeting always starts from net.</li><li>A <strong>budget</strong> is a spending and saving plan. The 50/30/20 rule divides take-home pay: 50% needs, 30% wants, 20% savings and debt repayment.</li><li>An <strong>emergency fund</strong> of three to six months of expenses is the first savings priority, it prevents a single unexpected bill from derailing an entire financial plan.</li><li><strong>Compound interest</strong> rewards time above all else. Starting earlier matters more than contributing larger amounts later.</li><li><strong>Saving</strong> (savings accounts, CDs) is low-risk for near-term needs. <strong>Investing</strong> (stocks, bonds, mutual funds) accepts higher risk for higher long-run returns, necessary because inflation erodes uninvested cash. Higher potential return always means higher risk: no exceptions. <strong>Diversification</strong> spreads that risk across many assets; index funds do it cheaply.</li><li>A <strong>401(k) employer match</strong> is free money. Contribute enough to capture it fully.</li></ul>
     
   
 
@@ -942,6 +974,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="economics" data-complete-num="1.5" data-advance-next="1-6.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="economics" data-questions-num="1.5">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

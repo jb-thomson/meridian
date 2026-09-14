@@ -359,6 +359,85 @@
       "modelAnswer": "Historical significance often has little to do with whether the original plan worked. Columbus's stated goal, reaching Asia by sailing west, was a failure. He died believing he had reached the outskirts of Asia. But the unintended consequences of his voyage were transformative on a civilizational scale: permanent contact between the Eastern and Western Hemispheres, the Columbian Exchange, the establishment of European colonies in the Americas, and the eventual restructuring of global trade. This illustrates an important principle of historical causation: the most consequential outcomes are frequently unintended ones. Columbus's error about geography was more historically important than any voyage that succeeded at its stated purpose. AP essays benefit from this kind of nuanced causation thinking, what people intended to do, and what actually happened, are often very different."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, where did the magnetic compass originate before it reached European sailors?",
+      "options": [
+        "It originated in China around 1000 CE and reached Europe through Arab and Islamic intermediaries",
+        "It was invented in Portugal specifically for use aboard Prince Henry's early exploration voyages",
+        "It was developed by Mediterranean sailors who first drew the earliest known portolan charts",
+        "It originated in the Americas and reached Europe through contact after Columbus's 1492 voyage"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that the compass originated in China around 1000 CE, was adapted by Islamic scientists for maritime use, and entered European use around 1200 CE. It was not a Portuguese invention, was not first developed as a portolan chart, and long predates any contact with the Americas."
+    },
+    {
+      "question": "Why couldn't earlier square-sailed ships simply sail directly home from an exploration voyage, according to the reading?",
+      "options": [
+        "Square sails could only catch wind from behind, leaving ships unable to sail against a headwind",
+        "Square sails tore apart completely whenever a ship encountered open ocean conditions",
+        "Square-sailed ships had no cargo hold large enough to carry food for a return voyage",
+        "Square-sailed ships lacked any compass, so their crews could never determine which way was home"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that a square sail can only push a ship in the direction the wind blows, so a ship becalmed by unfavorable winds could be stuck for weeks. The lateen sail's ability to angle into the wind solved exactly this problem. The other options describe issues the reading never raises about square sails."
+    },
+    {
+      "question": "What made the astrolabe useful to Portuguese navigators, according to the reading?",
+      "options": [
+        "It measured the angle of the sun or a star to let sailors calculate their latitude at sea",
+        "It measured a ship's exact longitude by tracking the passage of time since departure",
+        "It let sailors communicate with other ships across long distances using reflected light",
+        "It automatically adjusted a ship's lateen sails to the most efficient angle for the wind"
+        ],
+      "correctIndex": 0,
+      "explanation": "The reading states that the astrolabe let sailors determine latitude, their north-south position, by measuring the angle of the sun or the North Star above the horizon. European navigators of this era could not determine longitude at all, and the other two options describe functions the astrolabe never performed."
+    },
+    {
+      "question": "Why was the Dutch fluyt so commercially important in the 17th century, according to the reading?",
+      "options": [
+        "Its heavy cannons let Dutch merchants defeat rival fleets in most naval battles",
+        "Its small crew and large cargo hold lowered costs enough to undercut competitors",
+        "It was the first ship ever built that could sail directly against a headwind",
+        "Its shallow draft let it explore unmapped coastlines that larger ships could not reach"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explains that the fluyt required a much smaller crew and carried more cargo than rival ships, which lowered the cost of transporting goods and let Dutch merchants profitably undercut competitors. The fluyt carried no guns, was not the first ship able to tack into the wind, and was designed for cargo efficiency rather than coastal exploration."
+    },
+    {
+      "question": "What did understanding the trade winds and westerlies allow European sailors to do, according to the reading?",
+      "options": [
+        "Sail from Europe to the Americas without needing a compass or astrolabe at all",
+        "Predict and plan reliable round trips by using different wind systems for each direction",
+        "Avoid all contact with Ottoman-controlled ports along the eastern Mediterranean",
+        "Build ships that no longer required sails, since the winds pushed cargo directly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explains that trade winds reliably blow toward the Americas while westerlies blow back toward Europe, so understanding both let sailors plan a full round trip rather than risk being unable to return. Wind knowledge supplemented tools like the compass and astrolabe rather than replacing them, and it had nothing to do with Ottoman ports or ships without sails."
+    },
+    {
+      "question": "According to the reading, what was the essential difference between the caravel and the carrack?",
+      "options": [
+        "The caravel was a Dutch design, while the carrack was developed entirely in Portugal",
+        "The carrack could sail into the wind using lateen sails, while the caravel could not",
+        "The caravel was small and maneuverable for exploring coastlines, while the carrack was larger and built to carry cargo on long ocean voyages",
+        "The carrack was used only for war, while the caravel was used only for peaceful trade"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes the caravel as smaller and more maneuverable, ideal for exploring unknown coasts, while the carrack was larger, multi-masted, and built with a deep hold for long transoceanic voyages. Both ships were Portuguese, both could use lateen-style rigging, and neither was restricted to only war or only trade."
+    },
+    {
+      "question": "Which of the following is NOT one of the technologies the reading credits to a non-European civilization?",
+      "options": [
+        "The magnetic compass, which the reading traces back to Chinese origins",
+        "The lateen sail, which the reading traces back to Arab and Indian Ocean sailors",
+        "The astrolabe, which the reading traces back to Islamic astronomers building on Greek knowledge",
+        "The caravel, which the reading describes as an entirely European invention with no outside influence"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes the caravel as a European synthesis that combined the borrowed lateen sail with European hull construction, so it was not purely European or free of outside influence. The compass, lateen sail, and astrolabe are each explicitly traced to non-European origins in the reading."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

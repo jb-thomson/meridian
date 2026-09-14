@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Song political system:</strong> The Song (960–1279) selected officials via competitive civil service exams testing Confucian learning, not birth or military rank. This produced a literate professional bureaucracy (the gentry class) capable of governing 100 million people, but left the dynasty militarily weak, ultimately contributing to its fall to the Mongols in 1279.</li><li><strong>LO-B: Explain causes and effects of Song China's economic…:</strong> <strong>Agricultural and commercial revolution:</strong> Champa rice (from Vietnam) ripened twice a year, doubling food production. This surplus supported population growth to ~100 million, urbanization, and commercialization. Paper money, the Grand Canal, and Indian Ocean trade networks made Song China the wealthiest economy in the world.</li><li><strong>LO-C: Explain how Neo-Confucianism shaped Chinese society:</strong> <strong>Neo-Confucianism's social effects:</strong> Zhu Xi's synthesis became official state ideology, reinforcing patriarchal hierarchies. Elite women's lives became increasingly restricted; foot-binding spread as a physical expression of Neo-Confucian gender ideology, painful, disabling, and a marker of status.</li><li><strong>LO-D: Explain how Chinese innovations spread and influenced other…:</strong> <strong>Technology with global reach:</strong> Printing, gunpowder, the compass, and paper money originated or matured in Song China. These technologies spread west via Mongol networks, eventually triggering the European military revolution, the Age of Exploration, and the Reformation, their most transformative effects occurring centuries later and thousands of miles away.</li></ul>
   
 </div>
@@ -779,6 +813,110 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what allowed a man to become a Song government official, at least in theory?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Inheriting a hereditary noble title that his family had held for many generations</li><li class="mcq-opt">Winning distinction in years of military campaigns before being promoted to office</li><li class="mcq-opt">Passing competitive written exams that tested mastery of the Confucian classics</li><li class="mcq-opt">Paying a large fee to purchase a government post directly from the imperial court</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The civil service exam tested candidates on texts like the Analects and the Book of Rites, and was theoretically open to any literate male subject regardless of birth. Being born into a noble family was not required, in fact the exam's whole point was to select officials by learning rather than birth. Military promotion describes a different kind of career the reading says the exam system did not reward. Purchasing a position is not how the reading describes the system working.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">The civil service exam was theoretically open to any literate male, but the wealthy gentry ended up dominating it. Why, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Passing required years of costly tutoring that only wealthy families could typically afford</li><li class="mcq-opt">Government regulations legally barred anyone outside gentry families from sitting the exams</li><li class="mcq-opt">Exam testing centers were built only in the towns where gentry families happened to live</li><li class="mcq-opt">Sons of gentry officials were automatically awarded bonus points added to their exam scores</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading notes that pass rates fell below 5 percent and candidates might study for decades, an investment only families wealthy enough to fund years of tutoring could realistically sustain. The reading explicitly says the system was theoretically open to any literate male subject, so legal exclusion is not what happened. Nothing in the reading mentions exam location or score bonuses for gentry sons.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the main effect of Champa rice's adoption in Song China, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It reduced China's population by letting farms run with far fewer workers than before</li><li class="mcq-opt">It ended Song China's need for any trade at all with Southeast Asian kingdoms</li><li class="mcq-opt">It doubled harvests, which fueled population growth and freed labor for cities and trade</li><li class="mcq-opt">It caused most farmers to abandon rice completely in favor of more profitable cash crops</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Champa rice ripened in 60 days, allowing two harvests instead of one. The reading traces a clear chain: doubled harvests fed a growing population, and the resulting surplus labor moved into cities to work in manufacturing and trade, driving commercialization. The reading never suggests population declined, that trade with Southeast Asia ended, or that farmers abandoned rice.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was jiaozi, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">An annual tax that Song officials collected from merchants using the Grand Canal</li><li class="mcq-opt">The world's first government-issued paper currency, used for large transactions</li><li class="mcq-opt">A classic Confucian text used to help candidates prepare for the civil service exam</li><li class="mcq-opt">A formal title awarded to the highest-scoring candidates on the civil service exam</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes jiaozi as the world's first government paper currency, which let merchants complete large transactions without carrying heavy metal coins. It was a form of money, not a tax, a study text, or an exam honor, so the other options describe things jiaozi was not.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What did Zhu Xi's Neo-Confucianism combine to form its philosophy, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">European Christian ideas, brought by early missionaries, combined with Confucian ethics</li><li class="mcq-opt">Confucian ethics combined with strict Legalist ideas about harsh laws and punishment</li><li class="mcq-opt">A revival of classical Confucian ethics combined with Buddhist and Daoist ideas</li><li class="mcq-opt">A complete rejection of Confucian ethics in favor of Buddhist teaching alone</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes Neo-Confucianism as both a revival of classical Confucian ethics and a synthesis incorporating Buddhist and Daoist ideas, including the concept of an underlying cosmic principle, li. It did not involve Christianity or Legalism, and it did not reject Confucian ethics, it built on them, so the other three options each misstate the combination.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What did the spread of foot-binding during the Song period express, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Neo-Confucian gender ideology, which reinforced strict patriarchal hierarchy in the family</li><li class="mcq-opt">A medical treatment that doctors believed could prevent disease in young girls' feet</li><li class="mcq-opt">A punishment imposed on women who failed to pass the civil service exam</li><li class="mcq-opt">A Buddhist ritual that monks used to demonstrate their personal spiritual discipline</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading directly connects foot-binding to Neo-Confucianism's emphasis on hierarchical relationships and the subordination of women, calling it a physical expression of that gender ideology. It was not medical treatment, a punishment for failing a test, or a Buddhist monastic practice, none of that appears in the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, why did rulers of Korea, Japan, and Southeast Asian kingdoms take part in the tribute system, even when they were militarily capable of resisting China?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They had no real choice, since Chinese armies invaded any state that refused to comply</li><li class="mcq-opt">The material benefits, trade access and diplomatic recognition, outweighed the cost of deference</li><li class="mcq-opt">Chinese emperors threatened to cut off all diplomatic contact with any state that refused</li><li class="mcq-opt">Participating rulers were required to formally adopt Confucianism as a condition of trade</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading calls the ritual submission theater and the real exchange economic and political: participation bought trade access to the wealthiest economy in the region and diplomatic recognition that legitimized a ruler's rule at home. It explicitly says states capable of resisting China militarily still chose to participate, which rules out simple coercion. The reading does not mention a religious conversion requirement.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 8<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Based on the reading, which of the following is NOT an accurate statement about Song China's economy and manufacturing?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Song ironworks in the early 11th century processed more iron yearly than all of medieval Europe</li><li class="mcq-opt">Bi Sheng's movable-type printing, developed around 1040, allowed mass production of books</li><li class="mcq-opt">The English word "china" for fine ceramic ware reflects the geographic origin of Song porcelain</li><li class="mcq-opt">Song silk and cotton production was run entirely by the state, with private merchants banned</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes textile production as a major urban industry employing thousands of specialized workers, without ever saying the state ran it exclusively or banned private merchants, that claim is not supported. The other three statements are directly stated in the reading: the iron production figure, Bi Sheng's printing invention, and the origin of the word china in Song porcelain's fame.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -963,6 +1101,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="1.1" data-advance-next="1-2.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="1.1">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">

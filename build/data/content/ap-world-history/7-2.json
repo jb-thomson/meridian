@@ -95,6 +95,85 @@
       "answer": "The stronger argument acknowledges both structural conditions AND contingent decisions. WWI was not inevitable in the sense that the specific war beginning in August 1914 required specific choices. Germany's blank check to Austria-Hungary, Austria-Hungary's ultimatum to Serbia, Russia's decision to mobilize, Germany's Schlieffen Plan logic. Different decisions could have limited the conflict. But \"inevitable\" captures the structural reality that the underlying tensions (alliance competition, arms race, imperial rivalry, Balkan nationalism) made some major conflict likely, the powder keg was built; whether it would explode required only a spark. Most historians today take a middle position: the war was not inevitable but was the product of structural conditions that made it very probable, combined with specific decision-making failures under crisis pressure that made it impossible to reverse once begun. For AP purposes, know both levels: the underlying structural causes AND the specific events of the \"July Crisis\" that escalated the assassination into world war."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "What does the acronym MAIN stand for in the reading's framework for the underlying causes of WWI?",
+      "options": [
+        "Militarism, Alliances, Imperialism, and Nationalism",
+        "Monarchy, Aggression, Industry, and Nationalism",
+        "Militarism, Assassination, Imperialism, and Neutrality",
+        "Mobilization, Alliances, Independence, and Nationalism"
+      ],
+      "correctIndex": 0,
+      "explanation": "MAIN stands for Militarism, Alliances, Imperialism, and Nationalism, the four underlying, long-term causes the reading says built the \"powder keg\" that the 1914 assassination then ignited. (B), (C), and (D) all substitute at least one wrong word for one of the four real categories."
+    },
+    {
+      "question": "According to the reading, why did the alliance system fail to preserve peace through deterrence?",
+      "options": [
+        "It required every member nation to fully disarm before any conflict could legally begin",
+        "It converted a regional Austro-Serbian dispute into a continental war by pulling in allied powers",
+        "It applied only to naval conflicts, so land wars in the Balkans were never covered by it",
+        "It was formally abandoned by every major European power in the years just before 1914"
+      ],
+      "correctIndex": 1,
+      "explanation": "The alliance system was meant to deter aggression through the threat of a coalition response, but instead it worked like dominoes: Austria-Hungary's war with Serbia pulled in Russia, then Germany, then France, then Britain within five weeks. (A), (C), and (D) describe things the reading never says about the alliances."
+    },
+    {
+      "question": "What specific event escalated the assassination of Franz Ferdinand into the July Crisis, according to the reading?",
+      "options": [
+        "Austria-Hungary issued a harsh ultimatum to Serbia and declared war when key terms were rejected",
+        "Serbia invaded Austria-Hungary's own territory immediately after the assassination occurred",
+        "Germany declared war on Serbia directly, without ever consulting Austria-Hungary about it",
+        "Britain demanded that Austria-Hungary publicly apologize for the archduke's death"
+      ],
+      "correctIndex": 0,
+      "explanation": "Austria-Hungary blamed the Serbian government, issued a deliberately harsh ultimatum, and declared war once Serbia refused to let Austrian officials investigate on Serbian soil, this is what the reading calls the start of the July Crisis. (B), (C), and (D) describe events the reading does not mention."
+    },
+    {
+      "question": "Why was Slavic nationalism in the Balkans especially dangerous to Austria-Hungary, according to the reading?",
+      "options": [
+        "Austria-Hungary had no military capacity left to respond to any nationalist movement",
+        "Austria-Hungary was itself a multi-ethnic empire containing millions of Slavic subjects",
+        "Austria-Hungary had already lost every piece of its Balkan territory before the crisis began",
+        "Austria-Hungary's entire economy depended on trade routes running directly through Serbia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because Austria-Hungary itself contained millions of Slavic subjects, Serbian nationalist success threatened to inspire those subjects to seek independence or unification with Serbia, making Slavic nationalism an existential threat rather than a distant foreign problem. (A), (C), and (D) describe conditions the reading doesn't support."
+    },
+    {
+      "question": "How did the Moroccan Crises of 1905 and 1911 illustrate imperialism as a cause of WWI, according to the reading?",
+      "options": [
+        "They proved that France and Germany had already resolved every one of their colonial disputes",
+        "They showed that only Britain and Russia were competing for territory anywhere in Africa",
+        "They brought France and Germany to the brink of war over colonial control of Morocco",
+        "They convinced Germany to abandon its navy entirely in exchange for African territory"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading cites the Moroccan Crises as the clearest example of direct imperial competition nearly triggering war between European great powers before 1914, and notes Germany's repeated backing down fed resentment that shaped later decisions. (A), (B), and (D) describe outcomes the reading does not support."
+    },
+    {
+      "question": "What role did Germany's Schlieffen Plan play in bringing Britain into WWI, according to the reading?",
+      "options": [
+        "It required Britain to send troops directly to help defend the Ottoman Empire's own borders",
+        "It called for a joint German-British invasion of Russia before France could ever mobilize",
+        "It promised Britain a share of German colonies in exchange for remaining neutral",
+        "It required Germany to invade France through Belgium, whose neutrality Britain had guaranteed"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because the Schlieffen Plan required attacking France through Belgium, and Britain had guaranteed Belgian neutrality since 1839, Germany's invasion of Belgium directly triggered Britain's declaration of war. (A), (B), and (C) describe scenarios the reading never mentions."
+    },
+    {
+      "question": "Which of the following was NOT true of the assassination of Franz Ferdinand, according to the reading?",
+      "options": [
+        "The first assassination attempt that day, a bomb thrown at his car, failed to kill him",
+        "The Serbian government had carefully planned and personally ordered the assassination",
+        "His driver took a wrong turn that put the car directly in front of Gavrilo Princip",
+        "Both Franz Ferdinand and his wife Sophie were killed in the shooting that followed"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explicitly says Austria-Hungary blamed the Serbian government incorrectly, since Serbia's government hadn't planned the attack, though some Serbian military officers were involved. (A), (C), and (D) are all details the reading confirms actually happened."
+    }
+  ],
   "blocks": [
     {
       "type": "heading",

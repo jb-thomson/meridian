@@ -26,11 +26,17 @@ env = Environment(loader=FileSystemLoader(TEMPLATES_DIR), autoescape=False)
 
 def md_filter(text):
     """Escape raw HTML in authored content, then turn light markdown
-    (**bold**, *italic*) into real HTML tags. Keeps content JSON files
-    easy to hand-write/hand-edit while still rendering correctly."""
+    (**bold**, *italic*, [link text](https://...)) into real HTML tags.
+    Keeps content JSON files easy to hand-write/hand-edit while still
+    rendering correctly."""
     if text is None:
         return ""
     escaped = html.escape(str(text), quote=False)
+    escaped = re.sub(
+        r"\[(.+?)\]\((https?://[^\s)]+)\)",
+        r'<a href="\2" target="_blank" rel="noopener">\1</a>',
+        escaped,
+    )
     escaped = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", escaped)
     escaped = re.sub(r"(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)", r"<em>\1</em>", escaped)
     return escaped

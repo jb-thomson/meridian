@@ -351,6 +351,96 @@
       "modelAnswer": "Both were defensive modernizations in response to Western industrial and military power. Both tried to import Western technology while preserving traditional culture and social structure. Both faced internal resistance from conservative elites. The key differences: (1) *Political commitment:* Japan's Meiji government was fully committed and consistent over decades; China's Self-Strengthening Movement was partial, inconsistent, and constantly obstructed by conservative factions within the Qing government. (2) *Scope:* Japan modernized its entire governmental structure, legal system, education system, and military, a comprehensive overhaul. China tried to add Western military technology without fundamentally changing the Confucian political system. (3) *Outcome:* Japan successfully industrialized and became a great power; China's program failed, as demonstrated by its defeat by Japan in 1895. The fundamental lesson: you cannot successfully adopt the technology of industrialization without also adopting the organizational and institutional changes that make industrialization work."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "Why were labor unions effective even though individual workers had little bargaining power alone?",
+      "options": [
+        "Unions could organize strikes, so replacing many workers at once cost owners more than a raise",
+        "Unions were legally required in every industrializing country by the year 1850",
+        "Unions took over as the legal owners of factory machinery from the original owners",
+        "Unions persuaded workers to accept lower wages in exchange for noticeably shorter hours"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that a strike by hundreds of organized workers cost an owner far more than granting the demanded wage increase, giving unions real leverage that no individual worker had alone. Unions were actually illegal in Britain until 1824, not required by law. Unions never took legal ownership of factory machinery, and the reading describes them demanding better wages and conditions, not accepting lower wages."
+    },
+    {
+      "question": "According to Karl Marx, what specifically made industrial capitalism exploitative?",
+      "options": [
+        "Factory owners paid their workers only in company scrip instead of real currency",
+        "Workers created more value through labor than they received in wages, and owners kept the rest",
+        "Factory owners refused to let any workers unionize under any circumstances whatsoever",
+        "Workers were legally prevented from ever changing employers once they had been hired"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading describes Marx's concept of \"surplus value\": workers created more value than they were paid in wages, and factory owners kept the difference as profit, which Marx saw as exploitation built into capitalism's structure. Company scrip, bans on unionizing, and legal restrictions on changing jobs are not part of Marx's argument as the reading presents it."
+    },
+    {
+      "question": "How did Marx's proposed solution differ from what labor unions were trying to achieve?",
+      "options": [
+        "Marx wanted higher wages within capitalism, while unions wanted to abolish wages entirely",
+        "Marx wanted workers to each own individual stock shares, while unions wanted full state ownership",
+        "Marx argued only collective ownership could end exploitation, while unions sought terms within capitalism",
+        "Marx opposed labor unions because he believed factory owners were fundamentally allies of workers"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading contrasts unions, which accepted capitalism and negotiated for better wages and conditions within it, with Marx, who argued that only collective ownership of production could end exploitation permanently. Marx did not want to abolish wages while keeping capitalism, and he did not propose individual stock ownership as his solution. The reading never says Marx viewed factory owners as allies of workers."
+    },
+    {
+      "question": "What was the purpose of Britain's Factory Acts (1833, 1844, 1847)?",
+      "options": [
+        "To transfer full ownership of every factory to the workers who operated it",
+        "To ban private ownership of textile mills in favor of government-run factories",
+        "To fund the construction of labor union headquarters in cities across Britain",
+        "To regulate harmful practices like child labor and long hours without replacing capitalism"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes the Factory Acts as limiting child labor and working hours while leaving private ownership of factories untouched, a middle path between unregulated capitalism and socialist alternatives. They did not transfer factory ownership to workers or convert mills into government enterprises, and nothing in the reading connects the Acts to funding union buildings."
+    },
+    {
+      "question": "What was the main goal of the Ottoman Tanzimat reforms (1839-1876)?",
+      "options": [
+        "To modernize the empire's laws, military, and administration against threats",
+        "To convert the empire's entire economy to strict socialist economic principles",
+        "To grant full political independence to every one of the empire's provinces",
+        "To ban all foreign trade conducted with the major industrial powers of Europe"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading describes the Tanzimat as a systematic modernization of Ottoman law, the military, and administration, aimed at strengthening the empire against both internal instability and growing Western pressure. It did not involve adopting socialism, and while it extended equal legal rights to non-Muslim subjects, it did not grant them independence. The Tanzimat expanded infrastructure and reform, not a ban on foreign trade."
+    },
+    {
+      "question": "Why did China's Self-Strengthening Movement (1861-1895) ultimately fail to prevent military defeat by Japan?",
+      "options": [
+        "China refused to purchase any modern weapons whatsoever from Western countries",
+        "China adopted Western weapons without reforming its underlying political and educational systems",
+        "The Qing government spent its entire national treasury on building the Trans-Siberian Railroad",
+        "Confucian scholar-officials strongly supported and fully embraced these reforms from their very beginning"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading quotes reformer Liang Qichao's observation that China learned Western weapons but not Western methods, while Japan learned both, meaning China grafted military technology onto an unreformed Confucian system instead of overhauling its institutions the way Japan did. China did buy Western weapons and build arsenals and shipyards, so the first option is false. The Trans-Siberian Railroad was a Russian project, and the reading describes Confucian officials resisting reform, not supporting it from the start."
+    },
+    {
+      "question": "What did the Ottoman Tanzimat reforms and China's Self-Strengthening Movement have in common, according to the reading?",
+      "options": [
+        "Both succeeded completely in matching the military and industrial power of the West",
+        "Both were led entirely by foreign advisors with no local government involvement at all",
+        "Both were resisted by conservative elites who feared losing their traditional status",
+        "Both abolished their existing monarchies in favor of newly elected representative governments"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes both reform movements facing resistance from conservative groups, religious leaders and traditional military elites in the Ottoman case, Confucian scholar-officials in China, who feared reform would threaten their status. Neither movement fully succeeded in matching Western power, and both were led by their own governments rather than foreign advisors. Neither empire abolished its monarchy during these reform periods."
+    },
+    {
+      "question": "Which of the following was NOT something Karl Marx predicted, according to the reading?",
+      "options": [
+        "That capitalism was inherently exploitative, not merely poorly managed by individual owners",
+        "That class struggle was the fundamental driving force behind all of human history",
+        "That the proletariat would eventually rise up and overthrow the ruling bourgeoisie",
+        "That workers' revolution would occur first in Russia, a largely agricultural country"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading states that Marx expected revolution to come in the most industrialized countries, like Britain and Germany, and that he \"got it wrong on geography\" since the first successful communist revolution actually happened in largely agricultural Russia in 1917, 34 years after his death. The other three options are all central parts of Marx's argument as the reading describes it."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

@@ -12,6 +12,16 @@
 <meta name="theme-color" content="#241f16">
 <link rel="stylesheet" href="../../assets/css/style.css">
 <style>:root{--course-color:#8a4b2f;}</style>
+<script>
+(function () {
+  try {
+    var theme = localStorage.getItem("agora-theme");
+    var font = localStorage.getItem("agora-font-size");
+    if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme);
+    if (font === "sm" || font === "lg") document.documentElement.setAttribute("data-font", font);
+  } catch (e) { /* storage unavailable — falls back to system theme, default size */ }
+})();
+</script>
 </head>
 <body>
 <div class="topbar">
@@ -21,6 +31,27 @@
     </button>
     <a class="brand" href="../../index.html">Meridian</a>
     <div class="topbar-actions">
+      <div class="settings-widget">
+        <button class="btn btn-sm settings-toggle" id="settingsToggle" type="button" aria-label="Display settings" aria-expanded="false" aria-haspopup="true">Aa</button>
+        <div class="settings-panel" id="settingsPanel" hidden>
+          <div class="settings-row">
+            <span class="settings-row-label">Theme</span>
+            <div class="settings-btn-group" role="group" aria-label="Theme">
+              <button type="button" class="settings-opt" data-theme-choice="light">Light</button>
+              <button type="button" class="settings-opt" data-theme-choice="dark">Dark</button>
+              <button type="button" class="settings-opt" data-theme-choice="system">Auto</button>
+            </div>
+          </div>
+          <div class="settings-row">
+            <span class="settings-row-label">Text size</span>
+            <div class="settings-btn-group" role="group" aria-label="Text size">
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="sm">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="md">A</button>
+              <button type="button" class="settings-opt settings-opt-font" data-font-choice="lg">A</button>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <a class="btn btn-sm" href="../../index.html">&larr; All courses</a>
       
@@ -459,6 +490,9 @@
 
 <div class="util-panel" data-util-panel="tldr" hidden>
   
+  <p class="util-panel-note">Each point below answers one of this topic's Learning Objectives, in the same order.</p>
+  
+  
   <ul class="util-panel-list"><li><strong>LO-A: Four required AP examples of mass atrocity (CED list):</strong> (1) Armenian Genocide in the Ottoman Empire during and after WWI; (2) Holodomor (Ukraine) in the Soviet Union 1920s–30s; (3) Holocaust (Jews in Nazi Germany) during WWII; (4) Cambodia under the Khmer Rouge in the late 1970s; (5) Tutsi genocide in Rwanda in the 1990s. Know ALL five, AP questions may ask you to compare or provide examples. <strong>Common factors: extremist ideology + state power + dehumanization:</strong> All 20th-century genocides share a pattern: an extremist group gains state power, constructs an ideology that dehumanizes a target group (Jews, Armenians, kulaks, intellectuals, Tutsi), uses state infrastructure (police, military, propaganda) to organize systematic killing, and eliminates the ability to resist or flee. Genocide requires state capacity; it is a crime of governments, not mobs. <strong>The Holocaust: the defining case:</strong> The Nazi Holocaust killed approximately 6 million Jews (two-thirds of European Jewry) and 5–6 million others (Roma, disabled people, Soviet POWs, political opponents, homosexuals). It was industrialized genocide: railways, bureaucracies, and extermination camps organized killing at industrial scale. The Holocaust produced the 1948 Genocide Convention, the Universal Declaration of Human Rights, and the principle of universal jurisdiction for crimes against humanity. <strong>Consequences: international law and the "Never Again" promise:</strong> Mass atrocities of the 20th century produced the Nuremberg Trials (1945–46), which established that individuals can be held criminally responsible for crimes against humanity regardless of state authority. The Genocide Convention (1948) defined genocide as a crime under international law. The ICC (International Criminal Court, 2002) provides a permanent court for such crimes. The promise "Never Again" has been repeatedly broken, Rwanda (1994) and Srebrenica (1995) occurred despite it, raising questions about international intervention obligations.</li></ul>
   
 </div>
@@ -794,6 +828,110 @@
 
 
 
+<div class="practice-group practice-block reveal" data-group="quickcheck">
+  <button class="practice-group-toggle" type="button"><span>✅ Comprehension Check</span><span class="group-action">Show</span></button>
+  <div class="practice-group-body-wrap"><div class="practice-group-body-inner"><div class="practice-group-body">
+    <p class="hint">Quick, no-stimulus questions to check you followed the reading, no interpretation required, just recall and understanding.</p>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 1<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, what common structural pattern do all the major 20th century genocides share?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They all occurred in Europe during major wars, since genocide requires the chaos and cover that only wartime conditions can provide</li><li class="mcq-opt">An extremist group gains control of a state, builds a dehumanizing ideology, and uses state infrastructure to organize systematic killing</li><li class="mcq-opt">They were carried out by spontaneous mobs acting entirely on their own, without any coordination or direction from a state</li><li class="mcq-opt">The government responsible in each case officially and publicly admitted, at the time, that what it was doing was genocide</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading describes a shared structure across all five required examples: an extremist group takes state power, builds an ideology defining a target group as an enemy, and uses state infrastructure to organize killing. The other options each contradict details in the reading: several of these atrocities occurred outside Europe, required organized state action rather than mob violence, and were never officially labeled genocide by the governments that carried them out.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 2<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What triggered the Ottoman government's campaign against Armenians beginning in 1915, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">An Armenian rebellion that had already seized control of several major Ottoman cities before the war began</li><li class="mcq-opt">A formal declaration of war that the independent nation of Armenia issued against the Ottoman Empire</li><li class="mcq-opt">A direct demand from Germany, the Ottomans' wartime ally, insisting that all Armenians be relocated at once</li><li class="mcq-opt">The Young Turk government's belief that Armenians living near the Russian border posed a wartime security threat</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explains that the Young Turk government viewed Armenians, who lived close to the Russian border and had some leaders sympathetic to Russia, as a security threat, and used this as a pretext for extermination. The other options describe events the reading does not mention.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 3<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What makes the Holodomor a debated case among historians, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Whether Soviet policies specifically intended to destroy Ukrainians as a group, not just a broader economic class</li><li class="mcq-opt">Whether the famine actually killed any meaningful number of Ukrainian citizens across the countryside during those years</li><li class="mcq-opt">Whether the famine took place before or after the political upheaval of the Russian Revolution back in 1917</li><li class="mcq-opt">Whether any Soviet government has ever formally and publicly acknowledged that the famine actually happened</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that whether the Holodomor counts as genocide, requiring specific intent to destroy Ukrainians as a group, is debated, with some historians instead classifying it as a crime against humanity or politicide against "kulaks." The other options are not the debate the reading describes.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 4<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What made the Holocaust's method of killing different from the Armenian Genocide's, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The Holocaust targeted only adult men of military age, while the Armenian Genocide targeted entire families regardless of age</li><li class="mcq-opt">The Holocaust took place entirely before any formal declaration of war had even been made, unlike the Armenian Genocide</li><li class="mcq-opt">The Holocaust used railways, bureaucracies, and purpose-built extermination camps to kill at an industrial scale and speed</li><li class="mcq-opt">The Holocaust was carried out entirely by civilian volunteers acting on their own, without any government agency involved</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading directly contrasts the two: the Armenian Genocide used shooting, death marches, and starvation, while the Holocaust applied industrial methods, railway transport, bureaucratic organization, and gas chambers, to kill on a much larger and faster scale. The other options are not supported by the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="1">
+      <button class="mcq-header" type="button">Question 5<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">In addition to people connected to the former government, what other groups did the Khmer Rouge specifically target, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Only members of the Cambodian royal family and the household staff who served them directly</li><li class="mcq-opt">Educated people, along with ethnic minorities such as Vietnamese, Chinese, and Muslim Cham communities</li><li class="mcq-opt">Only Buddhist monks and other religious leaders who preached openly across the country</li><li class="mcq-opt">Only foreign nationals who happened to be living and working inside Cambodia at the time</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states the Khmer Rouge targeted the educated class, anyone wearing glasses was suspect, along with ethnic Vietnamese, Chinese, and Muslim Cham minorities specifically for ethnic destruction. The other options each name only one narrow group, not the full range described.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 6<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">Why did the UN peacekeeping force in Rwanda fail to stop the 1994 genocide, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">The Rwandan government formally refused to allow any United Nations peacekeepers into the country at all</li><li class="mcq-opt">The peacekeepers on the ground were vastly outnumbered by attacking forces by roughly a hundred to one</li><li class="mcq-opt">The genocide had already ended completely before any UN peacekeepers could be deployed to the country</li><li class="mcq-opt">Peacekeepers had orders not to use force except in self-defense, despite Dallaire's warnings and requests to act</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states that UNAMIR had roughly 2,500 peacekeepers present but under orders not to use force except in self-defense, and that Commander Dallaire's detailed warnings and requests for authority to act were denied. The other options are not supported by the reading.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 7<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What was the significance of the Nuremberg Trials, according to the reading?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">They established that individuals can be held criminally responsible for crimes against humanity even when following orders</li><li class="mcq-opt">They resulted in the complete and permanent political dissolution of the German state as a nation</li><li class="mcq-opt">They ended all forms of state-directed mass violence for the remainder of the entire 20th century</li><li class="mcq-opt">They were the first international trials ever to grant amnesty to political leaders in exchange for testimony</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading states the Nuremberg Trials established the principle that individuals can be prosecuted for crimes against humanity regardless of state authority, and that following orders is not a defense. The other options are not claims the reading makes, and the claim about ending mass violence is directly contradicted by the later atrocities in Cambodia and Rwanda.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 8<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">According to the reading, which of the following is NOT true about the "Never Again" promise made after the Holocaust?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">It led to new legal frameworks such as the Genocide Convention and the International Criminal Court</li><li class="mcq-opt">It has been repeatedly tested and broken by later atrocities such as Rwanda and Srebrenica</li><li class="mcq-opt">It successfully prevented any further genocide from occurring anywhere after 1948</li><li class="mcq-opt">It reflects a continuing gap between international legal commitments and the political will to act on them</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">The reading explicitly states that despite this legal architecture, mass atrocities continued after 1948, including Rwanda, Srebrenica, Darfur, and Myanmar, so this option is false. The other three options are all directly supported by the reading's closing section.</div></div></div>
+      </div></div></div>
+    </div>
+    
+  </div></div></div>
+</div>
+
 
 
 <div class="practice-group practice-block reveal" data-group="mcq">
@@ -945,6 +1083,7 @@
 
 <div class="complete-row">
   <button class="btn btn-primary" type="button" data-complete-course="ap-world-history" data-complete-num="7.8" data-advance-next="7-9.html">Mark as read</button>
+  <button class="btn btn-primary" type="button" data-questions-course="ap-world-history" data-questions-num="7.8">❓ Mark questions done</button>
 </div>
 
 <div class="topic-nav topic-nav-bottom">
