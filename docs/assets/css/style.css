@@ -16,6 +16,8 @@
   --radius: 12px;
   --max-width: 760px;
   --course-color: var(--accent);
+  --pill-bg: var(--paper-raised);
+  --pill-fg: var(--course-color, var(--accent));
 
   /* component tokens that differ between light/dark beyond the base
      palette above — referenced by name so a single override below
@@ -48,8 +50,8 @@
    explicitly chose "light", which must override prefers-color-scheme. */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]):not([data-theme="dark"]) {
-    --ink: #e8e3d8;
-    --ink-soft: #b0a897;
+    --ink: #f5f2e9;
+    --ink-soft: #c9c1b0;
     --paper: #18150f;
     --paper-raised: #221e17;
     --line: #3a3327;
@@ -57,6 +59,8 @@
     --accent-soft: #3a2c1e;
     --good: #52ae82;
     --focus: #6aabe6;
+    --pill-bg: #6b5a42;
+    --pill-fg: #f7f4ec;
 
     --box-fact-bg: #1c332a;
     --box-fact-border: #3d7a5c;
@@ -78,8 +82,8 @@
   }
 }
 :root[data-theme="dark"] {
-  --ink: #e8e3d8;
-  --ink-soft: #b0a897;
+  --ink: #f5f2e9;
+  --ink-soft: #c9c1b0;
   --paper: #18150f;
   --paper-raised: #221e17;
   --line: #3a3327;
@@ -87,6 +91,8 @@
   --accent-soft: #3a2c1e;
   --good: #52ae82;
   --focus: #6aabe6;
+  --pill-bg: #6b5a42;
+  --pill-fg: #f7f4ec;
 
   --box-fact-bg: #1c332a;
   --box-fact-border: #3d7a5c;
@@ -420,8 +426,8 @@ body.is-landing .landing-hero {
 .util-bar { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; background: var(--accent-soft); border: 1px solid var(--line); border-radius: var(--radius); padding: 9px 12px; margin: 10px 0 18px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
 .util-bar-left, .util-bar-right { display: flex; align-items: center; gap: 7px; flex-wrap: wrap; }
 .util-pill {
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.8rem; font-weight: 700; color: var(--course-color, var(--accent));
-  background: var(--paper-raised); border: 1.5px solid var(--line); border-radius: 999px; padding: 5px 14px; cursor: pointer;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.8rem; font-weight: 700; color: var(--pill-fg);
+  background: var(--pill-bg); border: 1.5px solid var(--line); border-radius: 999px; padding: 5px 14px; cursor: pointer;
   display: inline-flex; align-items: center; gap: 5px; transition: background .12s, border-color .12s, color .12s;
 }
 .util-pill:hover { background: var(--accent-soft); border-color: var(--course-color, var(--accent)); }
@@ -516,9 +522,9 @@ body.is-landing .landing-hero {
 .vocab-list { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; position: relative; }
 .vocab-item { position: relative; }
 .vocab-term-btn {
-  border: 1.5px solid var(--line); background: var(--paper-raised); cursor: pointer; padding: 6px 14px;
+  border: 1.5px solid var(--line); background: var(--pill-bg); cursor: pointer; padding: 6px 14px;
   font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.85rem;
-  border-radius: 999px; color: var(--course-color, var(--accent)); display: inline-flex; align-items: center; gap: 6px;
+  border-radius: 999px; color: var(--pill-fg); display: inline-flex; align-items: center; gap: 6px;
 }
 .vocab-item.open .vocab-term-btn { background: var(--course-color, var(--accent)); color: #fff; border-color: var(--course-color, var(--accent)); }
 .vocab-term-btn .plus { font-weight: 800; transition: transform .2s ease; }
