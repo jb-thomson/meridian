@@ -304,7 +304,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "According to the reading, what does the AP skill of Argumentation require when answering a 'to what extent' question like the one in Topic 9.9?",
+      "question": "What does the AP skill of Argumentation require when answering a 'to what extent' question like the one in Topic 9.9?",
       "options": [
         "Choosing only evidence that supports one simple, unqualified claim about how much change actually occurred",
         "Building a qualified claim that acknowledges nuance, uses varied evidence, and may connect across periods",
@@ -315,7 +315,7 @@
       "explanation": "The reading explains that a complex argument analyzes multiple variables, makes connections across periods, and qualifies claims rather than simply stating them. (A), (C), and (D) describe the opposite of what a complex argument does."
     },
     {
-      "question": "According to the reading, roughly how much did global life expectancy change between 1900 and 2020?",
+      "question": "Roughly how much did global life expectancy change between 1900 and 2020?",
       "options": [
         "It stayed roughly the same, rising only slightly from about 68 years to about 73 years overall",
         "It roughly tripled, rising from around 24 years in 1900 to over 70 years by the year 2020",
@@ -326,7 +326,7 @@
       "explanation": "The reading states that life expectancy roughly doubled globally, from about 31 years in 1900 to about 73 years by 2020. (A), (B), and (D) do not match the figures the reading gives."
     },
     {
-      "question": "What did the Green Revolution accomplish, according to the reading?",
+      "question": "What did the Green Revolution accomplish?",
       "options": [
         "It reduced the total amount of farmland in use worldwide while somehow keeping crop yields the same",
         "It eliminated the need for any further agricultural research of any kind after the 1960s ended",
@@ -337,7 +337,7 @@
       "explanation": "The reading credits the Green Revolution with multiplying crop yields and substantially averting the mass famine many feared in the 1960s, sustaining population growth. (A), (B), and (D) are not supported by the reading."
     },
     {
-      "question": "According to the reading, in what sense did gender inequality show continuity even as women's formal rights expanded across the 20th century?",
+      "question": "In what sense did gender inequality show continuity even as women's formal rights expanded across the 20th century?",
       "options": [
         "Gender inequality disappeared completely once women gained the right to vote in most countries worldwide",
         "Gender inequality only existed in a small number of developing countries by the century's end",
@@ -370,7 +370,7 @@
       "explanation": "The reading traces 20th century globalization's fossil fuel dependence and wealth gap between wealthy and poor regions directly back to industrialization and imperialism. (A), (C), and (D) contradict this connection."
     },
     {
-      "question": "Which of the following would NOT count as a 'complex argument' about change and continuity, according to the reading's description of the Argumentation skill?",
+      "question": "Which of the following would NOT count as a 'complex argument' about change and continuity?",
       "options": [
         "Simply restating that technology changed everything without analyzing how groups experienced change differently",
         "Qualifying a claim about change with a word like 'however' or 'to a greater extent,' followed by evidence",

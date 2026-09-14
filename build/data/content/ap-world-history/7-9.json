@@ -72,7 +72,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "What is the AP exam's \"causation\" skill primarily asking students to do, according to the reading?",
+      "question": "What is the AP exam's \"causation\" skill primarily asking students to do?",
       "options": [
         "Memorize as long a list of separate causes of a historical event as a student possibly can",
         "Describe historical events strictly in the chronological order in which they actually happened",
@@ -83,7 +83,7 @@
       "explanation": "The reading defines the causation skill as identifying causes, explaining the mechanisms linking cause and effect, and ranking causes by relative importance, not just listing or narrating them. The other options each describe only part of the skill, or a different skill entirely."
     },
     {
-      "question": "According to the reading, what are the three levels of causation used to analyze Unit 7 events?",
+      "question": "What are the three levels of causation used to analyze Unit 7 events?",
       "options": [
         "Structural, political, and individual",
         "Economic, military, and diplomatic",
@@ -105,7 +105,7 @@
       "explanation": "The reading calls the direct chain from WWI's outcome at Versailles to German resentment, Hitler's rise, and fascist expansion the clearest causal chain in AP World History. The other options are not claims the reading makes."
     },
     {
-      "question": "According to the reading's framework for ranking causes, what should a strong essay do after making a specific, ranked claim about which cause mattered most?",
+      "question": "In the framework for ranking causes, what should a strong essay do after making a specific, ranked claim about which cause mattered most?",
       "options": [
         "Avoid mentioning any other possible causes so that the argument stays tightly focused",
         "Address a counter-argument directly and then return to defend the original claim",

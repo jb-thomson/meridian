@@ -97,7 +97,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "According to the reading, what made WWII distinctive compared to other conflicts in human history?",
+      "question": "What made WWII distinctive compared to other conflicts in human history?",
       "options": [
         "It was the first conflict in history fought exclusively between fully industrialized nations, with no non-industrial armies involved",
         "It was the deadliest conflict in human history, killing an estimated 70-85 million people, most of them civilians",
@@ -108,7 +108,7 @@
       "explanation": "The reading opens by calling WWII the deadliest conflict in human history, killing 70-85 million people, most of them civilians. The other options describe things that were not new to WWII: industrialized warfare, rationing, and women serving in war-related roles had all appeared earlier, including in WWI."
     },
     {
-      "question": "According to the reading, what method of mobilizing for war did both democratic and totalitarian powers use during WWII?",
+      "question": "What method of mobilizing for war did both democratic and totalitarian powers use during WWII?",
       "options": [
         "All major powers relied exclusively on volunteer soldiers and never introduced any form of mandatory conscription",
         "All major powers avoided rationing food, fuel, or consumer goods in order to preserve civilian morale",
@@ -119,7 +119,7 @@
       "explanation": "The reading lists conscription, industrial mobilization, women entering the workforce, rationing, propaganda, and colonial mobilization as methods shared by all major belligerents, democratic and totalitarian alike. The other options each directly contradict something the reading describes."
     },
     {
-      "question": "How did Stalin's USSR enforce military discipline on the Eastern Front, according to the reading?",
+      "question": "How did Stalin's USSR enforce military discipline on the Eastern Front?",
       "options": [
         "Order 227 stationed NKVD units behind the front lines to shoot soldiers who retreated without orders",
         "Soviet commanders offered large financial bonuses to any soldier who volunteered to advance ahead of schedule",

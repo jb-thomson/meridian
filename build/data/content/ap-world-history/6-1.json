@@ -339,7 +339,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "What was Social Darwinism, according to the reading?",
+      "question": "What was Social Darwinism?",
       "options": [
         "A misapplication of Darwin's theory of evolution, arguing that stronger races were destined to dominate weaker ones",
         "Charles Darwin's own biological theory explaining how animal species evolve through natural selection",
@@ -350,7 +350,7 @@
       "explanation": "Social Darwinism took Darwin's biological theory and misapplied it to human societies and races, arguing that European dominance was simply nature at work rather than a political choice. Darwin's actual theory, described in option B, was about how species adapt over generations, not about ranking human races or justifying empire. Option C describes the opposite of what Social Darwinism claimed. Option D describes a different kind of policy entirely, not an ideology about racial hierarchy."
     },
     {
-      "question": "According to the reading, what was the main argument behind the \"civilizing mission\"?",
+      "question": "What was the main argument behind the \"civilizing mission\"?",
       "options": [
         "That non-European peoples should govern themselves without any outside interference or guidance at all",
         "That European nations owed no explanation to their own citizens for the human cost of conquest at all",
@@ -361,7 +361,7 @@
       "explanation": "The civilizing mission argued that European civilization was more advanced and that Europeans therefore had an obligation to bring their institutions to other peoples, framing conquest as improvement rather than exploitation. Option A is the opposite of the ideology, it justified intervention, not self-rule. Option B is wrong because the whole point of the civilizing mission was to provide a moral justification, not to avoid giving one. Option C misdescribes how colonies were actually run under this ideology, which relied on European administrators, not just protection of local rulers."
     },
     {
-      "question": "What does the destruction caused by Leopold II's regime in the Congo reveal about the civilizing mission, according to the reading?",
+      "question": "What does the destruction caused by Leopold II's regime in the Congo reveal about the civilizing mission?",
       "options": [
         "The Congo Free State was never formally recognized as a personal colony by any other European power",
         "Leopold cited the civilizing mission even while his Congo regime killed an estimated ten million people",
@@ -383,7 +383,7 @@
       "explanation": "The Berlin Conference let European powers divide Africa among themselves to avoid fighting each other over territory, while no African representatives were invited or consulted. Options B and D both wrongly suggest the conference reduced or ended colonization, when it actually organized and accelerated it. Option C contradicts the reading's point that African peoples had no voice in the process."
     },
     {
-      "question": "According to the reading, why did European nations sometimes claim colonies that cost more to administer than they earned in profit?",
+      "question": "Why did European nations sometimes claim colonies that cost more to administer than they earned in profit?",
       "options": [
         "Colonial administrators were legally required to operate every single colony at a financial loss each year",
         "European governments believed every unprofitable colony would turn a profit again within just one year",
@@ -394,7 +394,7 @@
       "explanation": "The reading explains that nationalism made empire feel politically necessary, a great nation needed a great empire, even when a colony cost more to administer than it earned. Option A misstates this as a legal requirement rather than a political pattern. Options B and C aren't given anywhere in the reading as explanations for this pattern."
     },
     {
-      "question": "What role did Christian missionaries play in the ideology of imperialism, according to the reading?",
+      "question": "What role did Christian missionaries play in the ideology of imperialism?",
       "options": [
         "They uniformly opposed imperialism because empire directly conflicted with their own religious teachings",
         "Most European governments banned Christian missionaries from operating in any of their colonized territories",

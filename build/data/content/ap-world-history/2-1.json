@@ -427,7 +427,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "What best describes the Silk Roads, according to the reading?",
+      "question": "What best describes the Silk Roads?",
       "options": [
         "A single, continuously maintained road that ran directly from Chang'an to Rome without any interruption",
         "A large network of overland routes connecting China to the Mediterranean world through Central Asia, Persia, and India",
@@ -438,7 +438,7 @@
       "explanation": "The Silk Roads were a huge web of overland routes, not one road, connecting China to the Mediterranean through Central Asia, Persia, and India. No single continuous road existed. The maritime option confuses this network with the separate sea routes covered in Topic 2.3. The reading never describes any formal treaty between Rome and China."
     },
     {
-      "question": "What problem did bills of exchange solve for merchants, according to the reading?",
+      "question": "What problem did bills of exchange solve for merchants?",
       "options": [
         "They let a ruler collect customs taxes on goods before a caravan was allowed to leave a city",
         "They allowed merchants to purchase insurance that reimbursed them for cargo lost to shipwreck or theft",
@@ -449,7 +449,7 @@
       "explanation": "Bills of exchange worked like early checks: a merchant deposited money with a banker in one city and a partner could collect an equivalent amount in another city, so no one had to haul gold across bandit filled deserts. The reading never mentions cargo insurance or a shared religion, and taxation is a separate matter from what bills of exchange were designed to solve."
     },
     {
-      "question": "Why did rulers build caravanserais along trade routes, according to the reading?",
+      "question": "Why did rulers build caravanserais along trade routes?",
       "options": [
         "More merchants traveling safely through a ruler's territory meant more tax revenue collected there",
         "Religious leaders required every ruler to shelter traveling pilgrims as a mandatory act of charity",
@@ -460,7 +460,7 @@
       "explanation": "The reading is direct about this: rulers who built caravanserais weren't being generous, they were being strategic, since more merchants traveling through meant more customs revenue. The reading never mentions a religious requirement, a treaty obligation, or an attempt to keep merchants from settling."
     },
     {
-      "question": "According to the reading, what were the two main reasons Silk Road trade expanded dramatically after 1200 CE?",
+      "question": "What were the two main reasons Silk Road trade expanded dramatically after 1200 CE?",
       "options": [
         "The invention of the printing press together with a new paper currency circulating in Europe",
         "The political unification of Central Asia together with the discovery of new mountain passes",
@@ -482,7 +482,7 @@
       "explanation": "The reading names bills of exchange, banking houses, and paper money as the three commercial technologies that fueled Silk Road expansion after 1200. Marine insurance contracts are never mentioned anywhere in the reading."
     },
     {
-      "question": "What was true about trading cities like Samarkand and Kashgar, according to the reading?",
+      "question": "What was true about trading cities like Samarkand and Kashgar?",
       "options": [
         "They grew wealthy as crossroads where routes from several civilizations met and goods changed hands",
         "They were founded by the Mongol Empire specifically to house garrisons of imperial soldiers",
@@ -493,7 +493,7 @@
       "explanation": "Samarkand and Kashgar sat where routes from China, Persia, India, and the Mediterranean converged, and they grew wealthy and cosmopolitan as goods changed hands there. Silk and porcelain were produced in China, not these cities. The reading describes them as major, bustling hubs, not minor stops, and never connects their founding to the Mongol military."
     },
     {
-      "question": "According to the reading, what happened when the Black Death spread along Silk Road routes in the 1340s?",
+      "question": "What happened when the Black Death spread along Silk Road routes in the 1340s?",
       "options": [
         "It affected only the individual merchants who traveled the trade routes, sparing every settled city population entirely",
         "It was successfully stopped before ever reaching Europe by quarantine measures enforced in trading cities",

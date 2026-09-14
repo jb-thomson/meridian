@@ -89,7 +89,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "Why was the Warsaw Pact created in 1955, according to the reading?",
+      "question": "Why was the Warsaw Pact created in 1955?",
       "options": [
         "It was created in direct response to West Germany's formal admission into NATO that very same year",
         "It was created in direct response to the outbreak of the Korean War roughly five years earlier",
@@ -111,7 +111,7 @@
       "explanation": "The reading describes MAD as grimly logical: a first strike would still leave the other side enough weapons to retaliate and destroy the attacker, so rational leaders would not start a nuclear war. The other options are not what the reading describes."
     },
     {
-      "question": "What happened during the Cuban Missile Crisis of 1962, according to the reading?",
+      "question": "What happened during the Cuban Missile Crisis of 1962?",
       "options": [
         "The US and USSR fought a direct naval battle against each other in waters just off Cuba's coastline",
         "Cuba declared itself formally neutral and asked both superpowers to remove all their military assets",
@@ -122,7 +122,7 @@
       "explanation": "The reading describes the Cuban Missile Crisis as a 13-day standoff over Soviet missiles in Cuba that brought the world the closest to nuclear war of the entire Cold War. The other options are not supported by the reading."
     },
     {
-      "question": "What specific action did Soviet officer Vasili Arkhipov take during the Cuban Missile Crisis, according to the reading?",
+      "question": "What specific action did Soviet officer Vasili Arkhipov take during the Cuban Missile Crisis?",
       "options": [
         "He personally flew to Washington and negotiated directly with President Kennedy to help end the standoff",
         "He ordered his own submarine to surface immediately and surrender to the nearby American naval forces",
@@ -133,7 +133,7 @@
       "explanation": "The reading credits Arkhipov with refusing to authorize a nuclear torpedo launch aboard a submarine cut off from communication, overriding his captain since Soviet protocol required all three officers to agree. The other options are not described in the reading."
     },
     {
-      "question": "What made the Korean War significant as a Cold War proxy conflict, according to the reading?",
+      "question": "What made the Korean War significant as a Cold War proxy conflict?",
       "options": [
         "It escalated from a local conflict into an international war involving a US-led UN coalition and direct Chinese intervention",
         "It was resolved quickly and peacefully without any foreign military involvement beyond North and South Korea",
@@ -144,7 +144,7 @@
       "explanation": "The reading describes how North Korea's invasion of South Korea drew in a US-led UN coalition and then a massive Chinese intervention, turning a local conflict into an international war. The other options directly contradict details in the reading."
     },
     {
-      "question": "What role did Cuba play in the Angolan Civil War, according to the reading?",
+      "question": "What role did Cuba play in the Angolan Civil War?",
       "options": [
         "Cuba sent substantial economic aid to UNITA to help it resist growing Soviet influence in the region",
         "Cuba personally mediated a lasting peace agreement between the rival MPLA and FNLA factions",
@@ -155,7 +155,7 @@
       "explanation": "The reading states Cuba sent tens of thousands of troops to support the MPLA at Soviet request, directly fighting on its behalf. The other options all contradict what the reading describes."
     },
     {
-      "question": "What was the Iran-Contra scandal connected to, according to the reading?",
+      "question": "What was the Iran-Contra scandal connected to?",
       "options": [
         "A direct US military invasion of Nicaragua that was intended to remove the Sandinista government by force",
         "A Soviet attempt to establish a permanent military base somewhere deep inside Nicaragua's own territory",
@@ -166,7 +166,7 @@
       "explanation": "The reading explains that the Reagan administration illegally sold weapons to Iran and used the proceeds to fund the Contras after Congress had banned such funding, creating the Iran-Contra scandal. The other options are not supported by the reading."
     },
     {
-      "question": "According to the reading, why did most Cold War proxy wars occur in postcolonial states rather than in Europe?",
+      "question": "Why did most Cold War proxy wars occur in postcolonial states rather than in Europe?",
       "options": [
         "Nuclear deterrence made direct conflict too dangerous in Europe, while instability elsewhere created lower-risk openings",
         "European nations had all formally signed treaties specifically banning Cold War competition on their own soil",

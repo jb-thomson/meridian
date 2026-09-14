@@ -324,7 +324,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "Which region industrialized first outside of Britain, according to the reading?",
+      "question": "Which region industrialized first outside of Britain?",
       "options": [
         "Belgium, which combined coal deposits, iron resources, and an established textile-making tradition",
         "Japan, which began rapid state-led industrialization following the Meiji Restoration of 1868",
@@ -379,7 +379,7 @@
       "explanation": "The reading defines the Great Divergence as the widening gap between industrialized and non-industrialized regions, since Asia's economies had been comparable to or larger than Europe's in 1750 but fell far behind by 1900. Trade-policy disagreements and industrialization models are discussed separately in the reading; neither is what \"Great Divergence\" refers to. The reading describes manufacturing becoming far more unequal, not evenly divided."
     },
     {
-      "question": "According to the reading, why did the United States and Germany rely on protective tariffs during industrialization?",
+      "question": "Why did the United States and Germany rely on protective tariffs during industrialization?",
       "options": [
         "To shield their still-developing industries from cheaper, more established British competition",
         "To force other countries to lower their own tariffs on American and German exports",

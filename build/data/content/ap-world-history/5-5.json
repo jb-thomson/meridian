@@ -379,7 +379,7 @@
       "explanation": "The reading describes fossil fuels as storing millions of years of concentrated solar energy, giving a single pound of coal more energy than a human worker could produce in a day. It never compares coal's price to firewood's price across regions, and humans burned wood for warmth long before fossil fuels existed. The reading describes coal powering factory machinery and mine pumps as well as ships and locomotives, not just transportation."
     },
     {
-      "question": "What was the main technological difference between the First and Second Industrial Revolutions, according to the reading?",
+      "question": "What was the main technological difference between the First and Second Industrial Revolutions?",
       "options": [
         "The Second Industrial Revolution abandoned steam power entirely in favor of electric motors",
         "The First Industrial Revolution occurred only in Britain, while the Second was global right from the start",
@@ -401,7 +401,7 @@
       "explanation": "The reading explains that Henry Bessemer's converter blew air through molten iron to remove impurities, producing steel in about 20 minutes and cutting costs by roughly 80 to 90 percent. It had nothing to do with welding iron and steel together, converting coal into electricity, or turning iron back into coal, none of which appear in the reading."
     },
     {
-      "question": "According to the reading, what was Thomas Edison's most significant achievement beyond inventing the light bulb?",
+      "question": "What was Thomas Edison's most significant achievement beyond inventing the light bulb?",
       "options": [
         "Building the entire electric power distribution system needed to make electric lighting useful",
         "Discovering that coal could be substituted for oil inside internal combustion engines",
@@ -412,7 +412,7 @@
       "explanation": "The reading emphasizes that Edison also invented the meters, fuses, sockets, and switches, and built the Pearl Street power plant, the full system that made the light bulb practically useful, not just the bulb itself. The telegraph was developed separately by Samuel Morse, and the Bessemer converter was Henry Bessemer's invention. The reading never describes coal replacing oil in an internal combustion engine."
     },
     {
-      "question": "How did railroads change economic life within countries, according to the reading?",
+      "question": "How did railroads change economic life within countries?",
       "options": [
         "They eliminated the need for canals and rivers to move any goods whatsoever",
         "They linked every region to every other, enabling specialization and truly national markets",
@@ -423,7 +423,7 @@
       "explanation": "The reading explains that railroads connected regions regardless of whether they had navigable rivers, letting each region specialize in what it produced best and creating genuinely national markets for the first time. Canals and rivers remained in use for transport even after railroads spread. Railroads carried freight and raw materials as well as passengers, and the reading connects them to growing industrial cities, not shrinking ones."
     },
     {
-      "question": "Why was the telegraph considered revolutionary, according to the reading?",
+      "question": "Why was the telegraph considered revolutionary?",
       "options": [
         "It replaced steamships as the fastest available way to move cargo across oceans",
         "It allowed ordinary citizens to cast votes in national elections from a distance",

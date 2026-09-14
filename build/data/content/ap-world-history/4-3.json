@@ -345,7 +345,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "What is the Columbian Exchange, according to the reading?",
+      "question": "What is the Columbian Exchange?",
       "options": [
         "A formal trade agreement Columbus signed with Spain to divide profits from future voyages",
         "The massive transfer of plants, animals, diseases, and people between hemispheres after 1492",
@@ -356,7 +356,7 @@
       "explanation": "The reading defines the Columbian Exchange as the massive transfer of plants, animals, diseases, and people between the Eastern and Western Hemispheres that began after Columbus's 1492 voyage, ending roughly 12,000 years of biological isolation. It was not a trade agreement, a shipping route, or a tax."
     },
     {
-      "question": "Why were indigenous Americans so much more vulnerable to Afro-Eurasian diseases than Europeans were, according to the reading?",
+      "question": "Why were indigenous Americans so much more vulnerable to Afro-Eurasian diseases than Europeans were?",
       "options": [
         "Indigenous Americans had never developed any form of medicine before European contact",
         "European ships carried far more disease per voyage than any indigenous American settlement",
@@ -367,7 +367,7 @@
       "explanation": "The reading explains that diseases like smallpox had circulated in Afro-Eurasia for centuries, giving those populations partial immunity through repeated exposure, while indigenous Americans had zero prior exposure and therefore zero defense. The reading does not claim indigenous peoples lacked medicine, and while the funFact mentions one possible siege-related instance elsewhere in the course, this reading does not present deliberate infection as the general explanation."
     },
     {
-      "question": "According to the reading, what effect did American food crops like the potato have on populations in Afro-Eurasia?",
+      "question": "What effect did American food crops like the potato have on populations in Afro-Eurasia?",
       "options": [
         "They had almost no effect, since most farmers refused to grow unfamiliar foreign crops",
         "They caused widespread famine by replacing traditional grains that were more reliable",
@@ -378,7 +378,7 @@
       "explanation": "The reading explains that the potato produced far more calories per acre than wheat in cold, wet climates, and that this nutritional boost supported population growth across places like Ireland, Germany, and Russia. The reading does not describe farmers refusing the crop, widespread famine from it, or it being merely decorative."
     },
     {
-      "question": "How did the reintroduction of horses change the cultures of Plains peoples in North America, according to the reading?",
+      "question": "How did the reintroduction of horses change the cultures of Plains peoples in North America?",
       "options": [
         "It let mounted hunters pursue bison far more efficiently, transforming their economies and warfare",
         "It ended bison hunting entirely, since horses required all available grazing land for themselves",
@@ -400,7 +400,7 @@
       "explanation": "The reading traces a direct chain: disease killed 50 to 90 percent of indigenous populations, leaving plantation owners without enough workers, which drove the massive expansion of the Atlantic slave trade to supply labor for crops like sugar. The other options describe relationships the reading never mentions."
     },
     {
-      "question": "According to the reading, which of the following did the College Board specifically name as disease vectors transferred to the Americas, in addition to human diseases themselves?",
+      "question": "Which of the following did the College Board specifically name as disease vectors transferred to the Americas, in addition to human diseases themselves?",
       "options": [
         "Mosquitoes and rats, which carried malaria and other diseases across the Atlantic",
         "Migratory birds, which the reading credits with spreading disease between continents",

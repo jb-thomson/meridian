@@ -317,7 +317,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "According to the reading, how severe was the Great Depression in the United States by 1933?",
+      "question": "How severe was the Great Depression in the United States by 1933?",
       "options": [
         "By 1933, US GDP had fallen 30%, unemployment reached 25%, and thousands of banks had failed",
         "The stock market crash of 1929 was quickly reversed within a few months by government intervention",
@@ -339,7 +339,7 @@
       "explanation": "The reading emphasizes that the New Deal preserved capitalism, private property, and markets, using government spending and regulation to stabilize rather than replace the system. (A), (C), and (D) all contradict what the reading describes."
     },
     {
-      "question": "What was the human cost of Stalin's forced collectivization, according to the reading?",
+      "question": "What was the human cost of Stalin's forced collectivization?",
       "options": [
         "Collectivization met resistance and, with continued grain extraction, caused a famine that killed millions",
         "Collectivization was welcomed by peasants and produced no food shortages of any kind in the USSR",
@@ -361,7 +361,7 @@
       "explanation": "The reading explains that fascist corporatism preserved private ownership while directing businesses through state-industry partnerships and heavy rearmament spending, a \"third way\" distinct from communism. (A), (C), and (D) all contradict this description."
     },
     {
-      "question": "What did Brazil's Vargas and Mexico's Cárdenas have in common, according to the reading?",
+      "question": "What did Brazil's Vargas and Mexico's Cárdenas have in common?",
       "options": [
         "They nationalized strategic industries and mobilized workers and peasants through nationalist policies",
         "They both adopted the exact Soviet model, abolishing private property and collectivizing agriculture",
@@ -372,7 +372,7 @@
       "explanation": "The reading describes both leaders as nationalizing strategic industries (steel in Brazil, oil in Mexico) and building political support among workers and peasants through nationalist economic policy. (B), (C), and (D) all contradict what the reading describes."
     },
     {
-      "question": "According to the reading, what mainly drove the drop in German unemployment under Hitler?",
+      "question": "What mainly drove the drop in German unemployment under Hitler?",
       "options": [
         "Germany's economy grew mainly through the discovery of large new oil and mineral reserves at home",
         "Germany received large economic aid packages from Britain and France to help rebuild its economy",

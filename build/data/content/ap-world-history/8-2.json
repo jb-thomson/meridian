@@ -89,7 +89,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "According to the reading, what did the United States and Soviet Union each believe about their own ideological system?",
+      "question": "What did the United States and Soviet Union each believe about their own ideological system?",
       "options": [
         "Both superpowers believed their systems needed substantial internal reform in order to keep pace with the other side",
         "Both superpowers believed their systems could only succeed if kept completely isolated from the other's influence",
@@ -100,7 +100,7 @@
       "explanation": "The reading states both superpowers believed their system was not just better but historically inevitable, and that the world would eventually adopt it. The other options are not supported by the reading."
     },
     {
-      "question": "What was the Truman Doctrine (1947), according to the reading?",
+      "question": "What was the Truman Doctrine (1947)?",
       "options": [
         "A US policy declaring that it would support free peoples resisting communist takeover, first applied to Greece and Turkey",
         "A joint US-Soviet agreement that formally divided the continent of Europe into two separate zones of influence",
@@ -111,7 +111,7 @@
       "explanation": "The reading defines the Truman Doctrine as declaring US support for free peoples resisting communist takeover, first applied to Greece and Turkey, formalizing the policy of containment. The other options misdescribe the doctrine."
     },
     {
-      "question": "What was the stated strategic logic behind the Marshall Plan (1948), according to the reading?",
+      "question": "What was the stated strategic logic behind the Marshall Plan (1948)?",
       "options": [
         "To directly fund anti-communist armies that were already fighting battles inside Western European countries",
         "To require Western European nations to adopt communist-style economic policies in exchange for receiving US aid",
@@ -122,7 +122,7 @@
       "explanation": "The reading explains the Marshall Plan's logic as economic: prosperous, rebuilt economies would resist communist electoral victories, since economic devastation breeds political radicalism. The other options all misstate the plan's purpose."
     },
     {
-      "question": "What was the Non-Aligned Movement primarily a response to, according to the reading?",
+      "question": "What was the Non-Aligned Movement primarily a response to?",
       "options": [
         "A shared desire among newly independent nations to quickly develop their own nuclear weapons programs",
         "Cold War pressure on newly independent nations to align formally with either the US or the Soviet bloc",
@@ -133,7 +133,7 @@
       "explanation": "The reading frames the NAM as a response to Cold War pressure on newly independent nations to choose sides, and their desire to preserve genuine sovereignty instead. The other options are not supported by the reading."
     },
     {
-      "question": "What was the significance of the Bandung Conference (1955), hosted by Sukarno, according to the reading?",
+      "question": "What was the significance of the Bandung Conference (1955), hosted by Sukarno?",
       "options": [
         "It formally and permanently ended Dutch colonial rule over the islands of Indonesia once and for all",
         "It created a permanent, formal military alliance among the Asian and African nations that attended",
@@ -144,7 +144,7 @@
       "explanation": "The reading describes Bandung as a gathering of 29 Asian and African nations that produced the foundational principles of non-alignment, becoming the seed from which the formal Non-Aligned Movement grew. The other options are not what the reading credits to the conference."
     },
     {
-      "question": "What concept did Kwame Nkrumah develop to describe how a formally independent nation could still be controlled by outside powers, according to the reading?",
+      "question": "What concept did Kwame Nkrumah develop to describe how a formally independent nation could still be controlled by outside powers?",
       "options": [
         "Neocolonialism, the idea that economic dependence on former colonial powers could undermine genuine independence",
         "Containment, the idea that former colonial powers would eventually try to physically reoccupy their old colonies",
@@ -155,7 +155,7 @@
       "explanation": "The reading credits Nkrumah with developing the concept of neocolonialism, formal independence undermined by continued economic dependence on former colonial powers or superpowers. The other options describe other, related but distinct ideas."
     },
     {
-      "question": "Why did the Soviet Union use propaganda about American racial segregation, according to the reading?",
+      "question": "Why did the Soviet Union use propaganda about American racial segregation?",
       "options": [
         "To encourage African American citizens to emigrate from the United States into the Soviet Union itself",
         "To convince Western European nations to formally and permanently withdraw their membership from NATO",

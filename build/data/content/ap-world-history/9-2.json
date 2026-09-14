@@ -301,7 +301,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "According to the reading, why did diseases like malaria and tuberculosis continue to kill so many people in the 20th century even though effective treatments existed?",
+      "question": "Why did diseases like malaria and tuberculosis continue to kill so many people in the 20th century even though effective treatments existed?",
       "options": [
         "Doctors had not yet developed any reliable treatment or prevention method for these diseases by the end of the century, despite decades of dedicated research",
         "The strains of malaria and tuberculosis kept mutating so fast that no drug or vaccine developed against them ever worked for more than a few years at a time",
@@ -323,7 +323,7 @@
       "explanation": "Spain had no wartime censorship since it was neutral, so it reported the outbreak openly while warring nations suppressed the news to protect morale. Neither the claim about identifying the virus nor the claim about blaming Spanish soldiers is supported by the reading. The death-toll explanation reverses the actual point: the name came from open reporting, not from an especially high death toll in Spain."
     },
     {
-      "question": "What made the 1918 flu virus unusual compared to typical strains of influenza, according to the reading?",
+      "question": "What made the 1918 flu virus unusual compared to typical strains of influenza?",
       "options": [
         "It produced no noticeable symptoms in most people it infected, which made the outbreak nearly impossible for doctors to track or contain",
         "It resisted every medicine available at the time, including basic pain relievers, fever reducers, and standard cough remedies",
@@ -334,7 +334,7 @@
       "explanation": "The reading explains that most flu strains kill mainly the very old and very young, but the 1918 strain was unusually deadly for healthy young adults, possibly because of an overly strong immune response. The claims about invisible symptoms and animal-only transmission are not supported by the reading. The claim that it resisted every medicine overstates the issue, the real problem was a lack of antibiotics for secondary infections, not every medicine failing."
     },
     {
-      "question": "According to the reading, which combination of factors made HIV especially difficult to contain once it entered the human population?",
+      "question": "Which combination of factors made HIV especially difficult to contain once it entered the human population?",
       "options": [
         "A long symptom-free period that let infected people unknowingly spread the virus, combined with rapid mutation and stigma that slowed government responses",
         "A near-total absence of any research funding directed toward understanding how the virus infected and damaged the immune system",
@@ -356,7 +356,7 @@
       "explanation": "The reading explains that as humans encroached on forests, they came into contact with animal populations carrying viruses humans had never encountered, creating new opportunities for disease transmission. Biological weapons research, weakened immunity from vaccines, and rising temperatures are all explanations the reading does not offer."
     },
     {
-      "question": "Why did diseases like heart disease and Alzheimer's become bigger causes of death and disability over the 20th century, according to the reading?",
+      "question": "Why did diseases like heart disease and Alzheimer's become bigger causes of death and disability over the 20th century?",
       "options": [
         "Rising industrial pollution directly caused both diseases, and pollution levels climbed sharply and continuously throughout the entire century",
         "Doctors simply began diagnosing these conditions more often, even though the true underlying rates in the population never actually changed at all",
@@ -378,7 +378,7 @@
       "explanation": "The reading is explicit that these diseases persisted because of poverty and lack of access, not because medicine lacked treatments; effective drugs and prevention tools already existed. Unaffordable prevention tools, overcrowding, and malnutrition or unsafe water are all reasons the reading does give."
     },
     {
-      "question": "According to the reading, why didn't antiretroviral drugs solve the HIV/AIDS crisis for everyone once they were developed in the 1990s?",
+      "question": "Why didn't antiretroviral drugs solve the HIV/AIDS crisis for everyone once they were developed in the 1990s?",
       "options": [
         "The drugs were expensive, so in practice mainly people in wealthy countries or those reached by international aid programs could access them",
         "Governments in wealthy countries banned the export of antiretroviral drugs to sub-Saharan Africa in order to protect their own domestic supply",
