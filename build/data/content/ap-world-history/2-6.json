@@ -388,6 +388,85 @@
       "modelAnswer": "Medieval European Christianity taught that disease was God's punishment for sin, so a sufficiently pious, repentant people should be protected. The Black Death contradicted this completely: priests, monks, bishops, and nuns died at the same rate as everyone else, despite their holiness; sincere prayers failed; the Pope himself issued an indulgence (a forgiveness of sins) from Avignon, and the plague continued anyway. For ordinary people, this raised an unanswerable question: if God allowed this, what does that mean about the church's teachings? This crisis of faith, not any single theologian, planted the seeds of religious questioning that would eventually grow into the Protestant Reformation a century and a half later."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, where did the Black Death most likely originate?",
+      "options": [
+        "In crowded Mediterranean port cities, only later spreading eastward into Central Asia",
+        "In Central Asia, likely near the Tian Shan mountains, based on mass graves dated to 1338 and 1339",
+        "In the Mongol Empire's own imperial capital, where it reportedly struck the royal court first",
+        "In the city of Genoa itself, carried by rats that lived inside the city's grain warehouses"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading points to mass graves found in the Tian Shan region of modern Kyrgyzstan dated to 1338 to 1339, nearly a decade before the European outbreak, as strong evidence of where the plague first exploded. It did not begin in Mediterranean ports, the Mongol capital, or Genoa, all of which the disease reached later as it traveled west."
+    },
+    {
+      "question": "What happened at the siege of Caffa in 1346, according to the reading?",
+      "options": [
+        "Genoese defenders inside the besieged city of Caffa discovered a cure that stopped the plague's spread",
+        "The Mongol army gave up and completely abandoned its siege before any soldiers became infected at all",
+        "The plague actually started among Genoese sailors first, and then spread outward to the Mongol army",
+        "Mongol forces catapulted plague infected corpses over the walls, and fleeing ships may have spread it on"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes Mongol forces besieging Caffa catapulting the bodies of plague victims over the walls, and Genoese ships fleeing the city may have carried the infection to Mediterranean ports. There was no cure discovered, the siege was not abandoned before infection struck, and the disease reached the Mongol camp first, not the other way around."
+    },
+    {
+      "question": "According to the reading, how did the Black Death affect labor and wages in Europe?",
+      "options": [
+        "Massive population loss made surviving workers scarce, so wages rose and feudal ties weakened",
+        "Wages fell sharply across the economy because there was much less demand for goods and services",
+        "Feudal lords actually gained more legal power over the peasants who managed to survive",
+        "Labor shortages had little real effect on wages because existing laws kept them fixed"
+      ],
+      "correctIndex": 0,
+      "explanation": "With roughly half the workforce dead, the reading explains that surviving laborers became valuable, wages rose, and serfdom weakened as landlords competed for workers. This is the opposite of wages falling or lords gaining more power, and the reading describes wages rising despite any attempts to fix them by law."
+    },
+    {
+      "question": "What role did the Little Ice Age play in the severity of the Black Death, according to the reading?",
+      "options": [
+        "It delayed the plague's arrival in Europe by several decades longer than it otherwise would have",
+        "It made the plague bacterium itself considerably less deadly than it would otherwise have been",
+        "It caused famine that weakened populations before the plague arrived, making them more vulnerable",
+        "It had no meaningful connection at all to how severe the plague eventually turned out to be"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading connects the Little Ice Age's cooler temperatures to the Great Famine of 1315 to 1322, which left populations malnourished and immunologically weakened by the time the plague arrived in 1347. It did not delay the plague's arrival, did not change the bacterium's lethality, and the reading is explicit that the two crises were connected, not unrelated."
+    },
+    {
+      "question": "According to the reading, how did the plague affect religious authority in Europe?",
+      "options": [
+        "It strengthened the church's authority overall, because people prayed and attended services far more often",
+        "Priests dying at the same rate as everyone else led many to question the church's power",
+        "It caused a sudden and permanent collapse of Christianity across the whole of Europe by the year 1400",
+        "It directly and single-handedly caused the Pope to move the papacy from Rome to the city of Avignon"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explains that priests and bishops died just as often as ordinary people, and prayers seemed to provide no protection, which planted seeds of religious skepticism that later fed into the Protestant Reformation. This weakened confidence in the church rather than strengthening it, did not cause Christianity to collapse outright, and the papacy's move to Avignon is not presented as a result of the plague."
+    },
+    {
+      "question": "According to the reading, which of the following is an example of ecological exchange along trade routes besides disease?",
+      "options": [
+        "Sugar cane spreading westward from Southeast Asia into the Mediterranean world",
+        "Camels being introduced to the Sahara Desert for the very first time during this period",
+        "Horses being fully domesticated for the very first time anywhere in Central Asia",
+        "Gunpowder being invented in China for the very first time during the 14th century"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading names sugar cane spreading from Southeast Asia to the Mediterranean via Arab merchants as an example of a new crop moving along trade routes. Camels were already used on Saharan routes well before this period, horse domestication happened centuries earlier, and gunpowder's invention is a Chinese technology story, not an example of ecological exchange."
+    },
+    {
+      "question": "According to the reading, which of the following is an example of environment shaping trade routes, rather than trade affecting the environment?",
+      "options": [
+        "Rats traveling on merchant caravans spread disease into cities located along the routes",
+        "Sugar cane cultivation spread from Southeast Asia all the way to the Mediterranean world",
+        "New farming techniques changed land use patterns near growing trading cities over time",
+        "Monsoon winds turned the Indian Ocean into a seasonal highway that shaped when ships could sail"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading frames monsoon winds as an example of environment shaping trade, since sailors had to plan their voyages around the wind's seasonal reversal rather than the other way around. The other three options are all examples of trade affecting the environment, moving disease, crops, and farming techniques outward along established routes."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

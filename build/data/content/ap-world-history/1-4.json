@@ -355,6 +355,96 @@
       "modelAnswer": "Cahokia is historically significant because it directly refutes the common assumption that pre-Columbian North America was populated only by simple, small-scale societies. At its peak (c. 1050–1200 CE), Cahokia was a genuine city of perhaps 10,000–20,000 people, larger than contemporary London, centered on Monk's Mound, a platform mound with a larger base footprint than the Great Pyramid of Giza. Cahokia controlled a trade network exchanging copper (from the Great Lakes), marine shells (from the Gulf Coast), and obsidian (from the Rockies) across hundreds of miles, demonstrating sophisticated long-distance commercial connections.\n\nMore broadly, Cahokia's existence, alongside the Ancestral Puebloans' multi-story stone architecture at Chaco Canyon, the Haudenosaunee Confederacy's constitutional framework, and the agricultural civilizations of the Mississippi Valley, demonstrates that complex political, urban, and commercial civilization existed throughout the North American continent before European arrival. The historical underrepresentation of this complexity reflects the ideological needs of European colonizers (who justified land seizure by portraying the continent as \"empty\") and the devastating demographic collapse caused by European diseases, which destroyed the communities that carried these civilizations' oral traditions before sustained historical documentation could occur."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "What was the primary mechanism through which the Mexica Triple Alliance drew wealth from conquered peoples?",
+      "options": [
+        "A tribute system requiring conquered peoples to regularly send goods and captives to Tenochtitlan",
+        "A rotating labor tax requiring conquered peoples to build roads and temples each year",
+        "Direct taxation collected in paper currency printed and issued by the Mexica treasury",
+        "Forced resettlement of conquered farmers onto newly built floating gardens near the capital"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading describes the Triple Alliance expanding through conquest followed by tribute extraction: conquered peoples sent maize, cacao, cloth, gold, and sacrificial captives to Tenochtitlan. A rotating labor tax describes the separate Inca mit'a system, and the reading never mentions Mexica paper currency or mass resettlement onto chinampas."
+    },
+    {
+      "question": "According to Mexica cosmology as described in the reading, why was human sacrifice considered necessary?",
+      "options": [
+        "Sacrifice was believed to cure disease among the ruling family and the wider nobility",
+        "The gods had sacrificed themselves to create the sun, so humans had to sustain it with blood",
+        "Sacrifice was legally required before any new temple could be dedicated to a god",
+        "Priests believed sacrifice was the only way to guarantee a plentiful yearly maize harvest"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading states that the Mexica believed the gods had sacrificed themselves to create the current sun, and that humans were cosmically obligated to sustain it through blood offerings or the sun would stop moving. The reading does not connect sacrifice to curing disease, temple dedication law, or guaranteeing harvests specifically."
+    },
+    {
+      "question": "How did the Inca mit'a system differ from simply demanding goods as tribute, according to the reading?",
+      "options": [
+        "It let subjects pay in gold or silver instead of performing any physical labor at all",
+        "It excused the wealthiest households entirely while taxing only the poorest farmers",
+        "It required labor service, but the state fed, clothed, and housed workers in return",
+        "It applied only to conquered peoples who happened to live within the city of Cusco"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that mit'a required a period of labor service, but the state fed workers, provided clothing and tools, and made the relationship reciprocal rather than purely extractive. The reading does not mention paying in precious metals, an exemption for wealthy households, or a restriction to Cusco itself."
+    },
+    {
+      "question": "What did the Inca use the quipu for, according to the reading?",
+      "options": [
+        "Recording poetry and religious hymns dedicated to the sun god Inti",
+        "Communicating urgent military orders instantly between distant army units",
+        "Teaching children to read and write in schools across the empire",
+        "Encoding census, tax, and administrative records using knotted strings"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes the quipu as a device of knotted strings that quipucamayocs used to maintain census records, tax accounts, and administrative data. It does not describe the quipu being used for hymns, instant military communication, or teaching literacy, those functions belong to other parts of the reading."
+    },
+    {
+      "question": "Why did Inca \"split inheritance\" push each new Sapa Inca toward further conquest, according to the reading?",
+      "options": [
+        "A dead ruler's mummy kept his existing wealth and lands, so heirs needed new territory",
+        "Andean law required each new ruler to personally defeat the previous ruler in combat",
+        "Each new Sapa Inca was legally barred from ever living in a previously built palace",
+        "The mit'a labor tax reset to zero with each new ruler and had to be earned again"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that deceased Sapa Incas retained ownership of their palaces and lands through their mummies, so each new ruler had to conquer new territory to build his own palace and wealth. The reading does not describe ritual combat between rulers, a ban on old palaces, or the mit'a resetting with succession."
+    },
+    {
+      "question": "What happened to the great Classic Maya city-states before the period covered in this reading (c. 1200-1450)?",
+      "options": [
+        "They were destroyed suddenly by a single foreign invasion around 900 CE",
+        "Most had collapsed by 900 CE, though Maya civilization persisted in the Yucatan afterward",
+        "They peacefully merged into a single unified Maya empire ruled from Chichen Itza",
+        "They converted their governments from independent city-states into Inca provinces"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading says the great Classic Maya city-states had mostly collapsed by 900 CE from causes like drought, warfare, and ecological exhaustion, but Maya civilization persisted afterward in a post-Classic form in the northern Yucatan. There is no mention of a single foreign invasion, a peaceful unified empire, or any connection to the geographically distant Inca."
+    },
+    {
+      "question": "What does Maya writing and mathematics show about Maya civilization, according to the reading?",
+      "options": [
+        "That the Maya borrowed their number system directly from Song Dynasty merchants",
+        "That Maya scholars only recorded religious hymns and never tracked astronomy",
+        "That the Maya independently developed writing and math without outside contact",
+        "That Maya writing was too simple to record actual history or literature"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes Maya writing as one of only five fully independent writing systems in world history and credits Maya astronomers and mathematicians with independently developing the concept of zero and highly accurate calendar calculations. It does not describe borrowing from China, a narrow religious-only use, or a system too simple to record history."
+    },
+    {
+      "question": "Which of the following is NOT something the reading says about Cahokia?",
+      "options": [
+        "It was the largest pre-Columbian city north of Mexico, with up to 20,000 residents",
+        "Its Monk's Mound covers more ground at its base than the Great Pyramid of Giza",
+        "It was the center of a trade network exchanging copper, shells, and obsidian",
+        "It was built by refugees who had fled the Mexica Empire's conquest of central Mexico"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes Cahokia as a Mississippian mound-building city near present-day St. Louis with up to 20,000 people, a Monk's Mound larger at its base than the Great Pyramid, and a trade network moving copper, shells, and obsidian. It never connects Cahokia's population to refugees from Mexica conquest, an idea that is also chronologically and geographically implausible given the reading's own timeline."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

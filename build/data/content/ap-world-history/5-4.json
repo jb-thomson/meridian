@@ -322,6 +322,85 @@
       "modelAnswer": "When a country is in the early stages of industrialization, its factories are not yet as efficient as British ones. They cost more to run and produce goods less cheaply. If they have to compete immediately with established British factories in an open market, they will lose on price before they've had time to develop. Protective tariffs, taxes on imports, make foreign goods more expensive, giving domestic producers time to develop, become more efficient, and eventually compete without protection. This \"infant industry\" argument was used by Germany and especially the United States to justify tariffs on British goods, and it worked: both became major industrial powers. Britain, which industrialized first, was the strongest advocate of free trade, because free trade benefited the country that was already the most efficient producer."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "Which region industrialized first outside of Britain, according to the reading?",
+      "options": [
+        "Belgium, which combined coal deposits, iron resources, and an established textile-making tradition",
+        "Japan, which began rapid state-led industrialization following the Meiji Restoration of 1868",
+        "The United States, which industrialized quickly in the decades right after its Civil War ended",
+        "Russia, which turned to industrialization only after its defeat in the Crimean War exposed weakness"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading places Belgium first on the European continent (1810s-1840s) because of its coal, iron, and existing textile tradition. Japan and Russia are both placed in the later group, industrializing in the 1860s-1900 period. The United States is grouped with Germany in the middle period (1840s-1870s), after Belgium and France."
+    },
+    {
+      "question": "What does \"deindustrialization\" mean, as the reading uses the term?",
+      "options": [
+        "A government policy of closing factories deliberately in order to protect the environment",
+        "A decline in a region's manufacturing share as cheaper outside goods undercut local producers",
+        "A country's total economic output shrinking suddenly because of war or a major famine",
+        "A shift away from factory work back toward small-scale, home-based cottage industry"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading defines deindustrialization as the decline of manufacturing in a region as a share of economic activity, usually because cheaper goods from elsewhere undercut local producers, which is exactly what happened to India's and Egypt's industries. Environmental policy, war, and famine are never mentioned as causes. Deindustrialization describes existing industries shrinking under competition, not a return to home-based production."
+    },
+    {
+      "question": "Why did India's cotton textile industry decline so severely in the 19th century?",
+      "options": [
+        "Indian weavers voluntarily left the trade for farming because it paid noticeably better wages",
+        "Repeated droughts destroyed India's cotton crop, leaving local mills without raw material",
+        "British steam-powered mills produced cloth far more cheaply, and colonial policy opened Indian markets to it",
+        "Trade networks that had supported Indian textiles for centuries collapsed under Mongol pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that British cotton mills could produce cloth at a fraction of the cost of hand-woven Indian textiles, and colonial free-trade policy let this cheap British cloth flood the Indian market without protective tariffs. There is no mention of weavers choosing farming or of a cotton crop failure. The Mongol Empire is unrelated, it belongs to a completely different period of history centuries earlier."
+    },
+    {
+      "question": "Which of the following is one of the three examples of declining industries the reading names?",
+      "options": [
+        "Silk production in China, which was undercut by cheaper competition from Japanese manufacturers",
+        "Porcelain manufacturing in China, which was undercut by mass-produced European ceramics",
+        "Sugar refining in the Caribbean, which was undercut by cheaper European beet sugar production",
+        "Shipbuilding in India and Southeast Asia, undercut by cheap British iron-hulled steamships"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading's three required examples are shipbuilding in India and Southeast Asia, iron works in India, and textile production in India and Egypt. Chinese silk, Chinese porcelain, and Caribbean sugar are not mentioned anywhere in this reading. Indian and Southeast Asian shipbuilders working in wood could not compete once iron-hulled steamships became the standard."
+    },
+    {
+      "question": "What does the reading mean by the \"Great Divergence\"?",
+      "options": [
+        "The split between Britain's private industrial model and other countries' state-led models",
+        "The widening economic gap that opened up between industrialized and non-industrialized regions",
+        "The disagreement between free-trade Britain and protectionist Germany and the United States",
+        "The roughly even division of global manufacturing between Europe, Asia, and the Americas"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading defines the Great Divergence as the widening gap between industrialized and non-industrialized regions, since Asia's economies had been comparable to or larger than Europe's in 1750 but fell far behind by 1900. Trade-policy disagreements and industrialization models are discussed separately in the reading; neither is what \"Great Divergence\" refers to. The reading describes manufacturing becoming far more unequal, not evenly divided."
+    },
+    {
+      "question": "According to the reading, why did the United States and Germany rely on protective tariffs during industrialization?",
+      "options": [
+        "To shield their still-developing industries from cheaper, more established British competition",
+        "To force other countries to lower their own tariffs on American and German exports",
+        "To directly fund the construction of new factories using the tariff revenue collected",
+        "To retaliate against Britain for banning the export of industrial machinery"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading describes the United States protecting its developing industries with tariffs behind a large internal market, giving factories time to grow without being immediately undercut by more efficient British producers. Forcing other countries to change their tariffs and directly funding factories with tariff revenue are not mentioned. Britain's attempt to ban machinery exports is a separate detail unrelated to why the US or Germany used tariffs."
+    },
+    {
+      "question": "Which of the following was NOT one of the consequences of the Great Divergence described in the reading?",
+      "options": [
+        "Non-industrialized regions increasingly supplied raw materials rather than finished goods",
+        "Industrialized nations gained growing military advantages funded by their economic surpluses",
+        "Non-industrialized regions closed their markets entirely to industrialized nations' goods",
+        "The economic and military gap helped create the conditions for European imperial expansion"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes the opposite of the third option: non-industrialized regions like India were opened to British goods under free-trade arrangements, not closed off from them. Supplying raw materials, funding growing military advantages, and enabling imperial expansion are all consequences the reading directly lists as resulting from the Great Divergence."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

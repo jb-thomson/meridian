@@ -323,6 +323,85 @@
       "modelAnswer": "Taken together, these examples reveal that resistance to state expansion was universal. It occurred on every inhabited continent, in response to every major expanding state, across every social position (from enslaved people at the absolute bottom of social hierarchies to nobles at the top). This universality suggests that resistance was not a product of any particular culture's values but a predictable structural consequence of state expansion itself: whenever states demanded more from people, more labor, more tribute, more land, more religious conformity, those people organized to defend what they had. The examples also reveal a spectrum of outcomes: some resistance succeeded temporarily (Pueblo Revolt, Maroon treaties), some was definitively crushed (Metacom's War), some shaped the ultimate form of the state against which it was directed (Maratha challenge leading to Mughal decline, Cossack revolts shaping Russian serfdom policy). No state in this period expanded without cost; resistance was the price of empire."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, what common cause lay behind local resistance movements across the world in this period?",
+      "options": [
+        "Resistance was driven mainly by disputes between resisting groups over trade profits",
+        "State expansion and centralization disrupted arrangements that communities relied on",
+        "Nearly all local resistance movements were secretly coordinated by one alliance",
+        "Resistance occurred only where colonizers specifically demanded religious conversion"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading states that resistance arose when state demands for tribute, labor, land, religious conversion, or political submission threatened the existing social arrangements communities relied on to survive. Resisting groups were not primarily fighting each other over trade, there is no mention of international coordination between separate movements, and religious conversion was only one of several possible triggers."
+    },
+    {
+      "question": "Why did the Pueblo Revolt of 1680 succeed in driving Spanish colonizers out of New Mexico for over a decade?",
+      "options": [
+        "Popé coordinated a surprise uprising across communities against a thin Spanish garrison",
+        "The Spanish quietly withdrew after negotiating a favorable peaceful settlement",
+        "Pueblo leaders received substantial reinforcements from a rival European power",
+        "New Mexico's colonial government fielded a much larger military than Pueblo forces"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading describes Popé organizing a coordinated, simultaneous uprising across Pueblo communities against a Spanish colonial presence that was thin and far from reinforcement. The Spanish did not withdraw voluntarily, no rival European power is mentioned as providing reinforcements, and the Spanish military presence was small, not larger than Pueblo forces."
+    },
+    {
+      "question": "What does the reading say happened to the Fronde's rebellion against French royal centralization?",
+      "options": [
+        "It succeeded completely, permanently ending French royal authority over the nobility",
+        "It never involved any real conflict between the French nobility and the monarchy",
+        "It was quietly supported by the king himself as a way to weaken rival nobles",
+        "It ultimately failed, and Louis XIV's monarchy emerged with more concentrated power"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading states the Fronde ultimately failed, and Louis XIV emerged as one of the most absolute monarchs in European history. The rebellion did not succeed in ending royal power, it was directed against Cardinal Mazarin and royal authority rather than supported by the king, and it was specifically a conflict between nobles, parlements, and the crown."
+    },
+    {
+      "question": "Which of the following was NOT one of the ways enslaved people in North America resisted, according to the reading?",
+      "options": [
+        "Maintaining African languages, religious practices, and family connections",
+        "Forming large, permanent Maroon-style settlements across most of the Southeast",
+        "Flight, meaning individual or small-group escapes away from plantations",
+        "Work slowdowns and quiet sabotage of tools, crops, and farm equipment"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explains that sustained Maroon communities were harder to establish in North America than in the Caribbean or Brazil, because the Southeast lacked comparable natural defenses and the enslaved population was more dispersed. Cultural preservation, flight, and work slowdowns are all explicitly listed as forms of resistance that did occur."
+    },
+    {
+      "question": "Why were Maroon societies in Jamaica and Brazil able to survive for decades or even generations, according to the reading?",
+      "options": [
+        "European colonial powers lacked any real interest in recapturing escaped people",
+        "Remote, defensible terrain and organized governance helped them resist military campaigns",
+        "Colonial governments deliberately let them exist as a show of religious tolerance",
+        "The enslaved people who escaped were never actively pursued by colonial authorities"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading describes Maroon communities as organized societies with governance structures, agricultural systems, and military forces, using remote and defensible terrain to survive repeated Portuguese, Dutch, and British military expeditions. Colonial powers actively pursued and attacked these communities, they were not simply left alone or tolerated on religious grounds."
+    },
+    {
+      "question": "What eventually led the British to sign formal treaties with the Windward and Leeward Maroons of Jamaica in 1739-1740?",
+      "options": [
+        "A religious conversion that brought the Maroon leaders into the Anglican church",
+        "Pressure from the Spanish government demanding recognition of Maroon independence",
+        "Decades of failed campaigns made continued fighting costlier than negotiated peace",
+        "A sudden shortage of enslaved laborers on Jamaica's neighboring sugar islands"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that the British had failed for decades to defeat the Maroons militarily, and signing treaties recognizing their autonomy was, in effect, an acknowledgment that continued fighting was not worth the cost. A religious conversion, Spanish pressure, and a labor shortage elsewhere are not mentioned as reasons for the treaties."
+    },
+    {
+      "question": "What strategy did Ana Nzinga use to resist Portuguese encroachment on Ndongo and Matamba?",
+      "options": [
+        "Complete isolation from all outside powers, refusing any contact with Europeans",
+        "Relying on one unchanging tactic, sustained military combat, throughout her reign",
+        "Immediate unconditional surrender followed by decades of peaceful cooperation",
+        "A shifting mix of military resistance, diplomacy, conversion, and Dutch alliance"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes Ana Nzinga combining military force, diplomatic negotiation, a strategic conversion to Christianity, and an alliance with the Dutch against Portugal, adapting her approach as circumstances changed. She did not isolate herself from outside powers, she did not surrender unconditionally, and she used far more than military combat alone."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

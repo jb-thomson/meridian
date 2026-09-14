@@ -348,5 +348,84 @@
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],
-  "teacherNotes": ""
+  "teacherNotes": "",
+  "comprehensionCheck": [
+    {
+      "question": "What event led Britain to dissolve the East India Company and place India under direct Crown control in 1858?",
+      "options": [
+        "The Sepoy Rebellion of 1857, a major uprising by Indian soldiers and civilians against Company rule",
+        "The Berlin Conference of 1884-85, which divided African colonial territory among European powers",
+        "The Russo-Japanese War of 1904-05, which shook European confidence in colonial military strength",
+        "The Mexican-American War of 1846-48, which added new territory to the United States in North America"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 1857 Sepoy Rebellion showed that the East India Company could not adequately govern a colony of India's size and complexity, so Parliament dissolved the Company and transferred control to the Crown. The Berlin Conference (option B) concerned Africa decades later, not India. The Russo-Japanese War (option C) and the Mexican-American War (option D) both involve different countries and different time periods entirely."
+    },
+    {
+      "question": "What did the \"effective occupation\" rule established at the Berlin Conference actually require?",
+      "options": [
+        "It let a European power claim African land simply by planting a flag along the coastline",
+        "It required a European power to set up real administrative presence, not just a coastal outpost",
+        "It gave African kingdoms formal legal power to reject any European claim to their territory",
+        "It required European powers to pay African rulers a fixed annual fee for any land claimed"
+      ],
+      "correctIndex": 1,
+      "explanation": "The rule required actual administrative presence in a territory, not merely a symbolic flag on a coast, which is what option A describes and is exactly what the rule was designed to replace. This is why it accelerated the rush of troops and administrators into the African interior. Options C and D describe protections for African kingdoms that the reading never mentions, since no African representatives were even invited to the conference."
+    },
+    {
+      "question": "According to the reading, which two African states remained independent by 1914?",
+      "options": [
+        "Egypt and Sudan, both of which negotiated a special protected status with European powers",
+        "Nigeria and Kenya, which were governed indirectly through their own existing local rulers",
+        "Ethiopia and Liberia, the only two African states that remained independent by 1914",
+        "Morocco and Tunisia, which kept their independence through alliance with the Ottomans"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading states that by 1914, only Ethiopia and Liberia had maintained independence while the rest of Africa fell under European control. Egypt, Sudan, Nigeria, Kenya, Morocco, and Tunisia were all colonized during this period, so options A, B, and D each name territories that were not independent."
+    },
+    {
+      "question": "According to the reading, what allowed Japan to become an imperial power rather than a colonized territory?",
+      "options": [
+        "Japan formed a military alliance that placed its entire army under direct British command",
+        "Japan received a special exemption from Western powers because of its remote geographic isolation",
+        "Japan's small population made it not worth the cost of colonization to any Western power",
+        "Japan's Meiji Restoration drove rapid industrialization that let it use the same methods used against it"
+      ],
+      "correctIndex": 3,
+      "explanation": "After the Meiji Restoration in 1868, Japan deliberately industrialized and adopted Western military technology, which let it later use those same tools to seize Taiwan and Korea rather than be colonized itself. No alliance placing Japan's army under British command is described (option A), and the reading gives no evidence for a special exemption (option B) or a population too small to interest colonizers (option C)."
+    },
+    {
+      "question": "Based on the reading's description of New Zealand, what defines a settler colony?",
+      "options": [
+        "A colony where large numbers of colonizers permanently settled and displaced the indigenous population",
+        "A colony ruled entirely through existing local leaders who kept their traditional authority in place",
+        "A colony governed only by a private trading company instead of by a national government directly",
+        "A colony whose main purpose was extracting a single raw material rather than settling new colonists"
+      ],
+      "correctIndex": 0,
+      "explanation": "A settler colony, like New Zealand, involves the permanent migration of a large colonizing population that displaces indigenous peoples from their land, which is exactly what happened to the Maori during the Land Wars. Option B describes indirect rule, a different colonial strategy the reading doesn't apply to New Zealand. Options C and D describe company rule and extraction-focused colonies, neither of which matches the settler colony pattern."
+    },
+    {
+      "question": "How does the reading connect American Manifest Destiny to European overseas imperialism?",
+      "options": [
+        "It avoided displacing indigenous peoples, since expansion moved across empty, unclaimed land",
+        "It used military conquest and forced removal to take indigenous land, much like colonization abroad",
+        "It relied only on peaceful treaties that indigenous nations negotiated as fully equal partners",
+        "It was reversed by the 1890s, when most acquired territory was returned to indigenous nations"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading describes U.S. continental expansion, including the Indian Removal Act and the Trail of Tears, as a form of imperial state expansion that used military force to conquer and settle neighboring territories, the same basic pattern used by European powers abroad. Option A contradicts the reading's description of forced removal. Option C ignores the coercive nature of policies like the Trail of Tears. Option D is false, the land was not returned."
+    },
+    {
+      "question": "Which of the following is NOT something the reading says about state expansion from 1750 to 1900?",
+      "options": [
+        "European states expanded into Africa and Asia, often replacing company or local rule with state administration",
+        "The United States, Russia, and Japan expanded largely by conquering territory neighboring their own borders",
+        "Every African and Asian territory colonized in this period had first been ruled by a private trading company",
+        "Some colonies, like the Congo Free State, shifted from a ruler's personal possession to formal state control"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes the Scramble for Africa as largely new territorial acquisition by European states, not a transition from prior company rule, so option C misstates the pattern. Options A and B both directly describe patterns the reading identifies (state expansion in Africa and Asia, and continental conquest by the U.S., Russia, and Japan). Option D accurately describes the Congo Free State's shift from Leopold's personal possession to the Belgian state in 1908."
+    }
+  ]
 }

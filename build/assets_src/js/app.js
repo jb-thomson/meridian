@@ -164,13 +164,23 @@
       });
     });
 
-    /* ---- vocabulary — tap a term to reveal its definition/importance/example ---- */
+    /* ---- vocabulary — tap a term to reveal its definition/importance/example.
+       The popover normally opens flush with the pill's left edge; if that
+       would push it off the right side of the screen (a pill near the
+       right edge), flip it to hang off the pill's right edge instead. ---- */
     document.querySelectorAll(".vocab-term-btn").forEach(function (btn) {
       btn.setAttribute("aria-expanded", "false");
       btn.addEventListener("click", function () {
         var item = btn.closest(".vocab-item");
         var open = item.classList.toggle("open");
         btn.setAttribute("aria-expanded", open ? "true" : "false");
+        item.classList.remove("open-left");
+        if (open) {
+          var wrap = item.querySelector(".vocab-body-wrap");
+          if (wrap && wrap.getBoundingClientRect().right > window.innerWidth - 8) {
+            item.classList.add("open-left");
+          }
+        }
       });
     });
 

@@ -363,6 +363,85 @@
       "modelAnswer": "Bolívar argued that Spanish colonists in the Americas were no longer Spanish. They had developed their own culture, identity, and institutions over 300 years of colonial life. He drew on Enlightenment ideas of popular sovereignty (governments derive authority from the people they govern, not from a distant monarch) and natural rights to argue that the people of Spanish America had the right to govern themselves. He also observed that the political experience of self-government was necessary, people had to learn it, which is why he argued for gradual institution-building rather than immediate radical democracy."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "What did John Locke argue was the purpose of government?",
+      "options": [
+        "To defend the divine right of kings to rule without any limitation",
+        "To protect natural rights such as life, liberty, and property",
+        "To divide governing power equally between three separate branches",
+        "To promote a single official state religion across the population"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explains that Locke argued people are born with natural rights, life, liberty, and property, and that governments exist only to protect them, with the right to overthrow a government that fails to do so. Locke's whole point was to challenge, not defend, unlimited royal authority, dividing power into three branches was Montesquieu's contribution, and promoting a state religion is not part of his argument."
+    },
+    {
+      "question": "What specific idea did Montesquieu contribute that later appeared in the U.S. Constitution?",
+      "options": [
+        "Separating government power into legislative, executive, and judicial branches",
+        "The idea that governments should be headed by one single strong monarch",
+        "The idea that all people possess natural rights to life, liberty, and property",
+        "The idea that political authority derives from the collective general will of the people"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading credits Montesquieu with the idea that government power should be divided among legislative, executive, and judicial branches so no single branch dominates, a model the U.S. Constitution adopted. A single strong monarch is the opposite of what Montesquieu proposed, natural rights belong to Locke, and the general will belongs to Rousseau."
+    },
+    {
+      "question": "How did Mary Wollstonecraft apply Enlightenment logic to argue for women's rights?",
+      "options": [
+        "She argued women should be given power over men rather than mere equality",
+        "She argued women's inferior status was permanent and education could not change it",
+        "She argued religious teaching, not reason, should determine women's role in society",
+        "She argued women only appeared less rational because they were denied education"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading quotes Wollstonecraft saying she does not wish women to have power over men, only over themselves, based in reason, and explains her argument that women appear inferior only because they are denied education. She did not argue for permanent inferiority or for religious rather than rational authority over women's roles."
+    },
+    {
+      "question": "What did Olympe de Gouges do in her 1791 Declaration of the Rights of Woman?",
+      "options": [
+        "She proposed a wholly new set of rights unrelated to the Declaration of the Rights of Man",
+        "She rewrote the French Declaration of the Rights of Man to explicitly include women",
+        "She called for her own permanent exile from France rather than public involvement",
+        "She argued that only wealthy, land-owning women deserved political rights"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explains that de Gouges took the French Declaration of the Rights of Man and replaced 'man' with 'woman and man' throughout, arguing that if the Revolution's principles were truly universal, they had to include women. She did not propose an unrelated set of rights, limit her demands to wealthy women, or ask for exile, she was executed for her arguments instead."
+    },
+    {
+      "question": "What rhetorical strategy did the Seneca Falls Declaration of Sentiments use in 1848?",
+      "options": [
+        "It proposed an entirely new system of government separate from the United States",
+        "It focused solely on religious arguments rather than any political or legal ones",
+        "It rejected Enlightenment natural-rights ideas entirely as irrelevant to women",
+        "It echoed the Declaration of Independence to argue the nation was violating its ideals"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading quotes the Declaration of Sentiments opening with language modeled directly on the Declaration of Independence, arguing that the nation's own founding principles required women's equality. The organizers relied on Enlightenment logic rather than rejecting it, their grievances were political and legal, covering voting and property rights, and they did not propose a separate government."
+    },
+    {
+      "question": "According to the reading, what logic connected Enlightenment ideas to the abolitionist movement?",
+      "options": [
+        "Enlightenment philosophers personally organized abolitionist societies themselves",
+        "Enlightenment thinkers argued that natural rights applied only to wealthy property owners",
+        "If natural rights belong to all humans, then slavery, which denies personhood, violates them",
+        "Abolitionists rejected Enlightenment ideas in favor of purely religious arguments instead"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that if all people possess natural rights by virtue of being human, slavery is a direct violation of those rights, and abolitionists like Wilberforce and Douglass used exactly this reasoning. Natural rights were meant to apply to all humans, not just property owners, abolitionists built on Enlightenment logic rather than rejecting it, and the philosophers themselves did not organize abolitionist societies."
+    },
+    {
+      "question": "Why does the reading note that the timing of Russian serf emancipation and U.S. emancipation was 'not a coincidence'?",
+      "options": [
+        "Both were influenced by the same broader intellectual climate around human dignity",
+        "Alexander II and Abraham Lincoln personally corresponded to coordinate the timing",
+        "Both nations faced identical military defeats that forced them to free laborers",
+        "Both events were required under a treaty signed at the Congress of Vienna"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading states that Russian emancipation and American emancipation both happened under the influence of the same intellectual climate, the Enlightenment's ideas about human dignity extending to abolition and the end of serfdom. There is no mention of personal correspondence between the two leaders, identical military defeats, or a treaty requiring either action."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

@@ -325,6 +325,85 @@
       "modelAnswer": "The parallel development of complex civilizations in the Americas and Afro-Eurasia, entirely independently, without any cultural contact, is one of the most important arguments in world history for what scholars call \"multilinear development\": the idea that complex civilization is not a unique achievement of any particular cultural tradition but a recurring result of human social organization under certain conditions.\n\nThe Americas prove this point definitively. The Mexica, Inca, and Maya developed urban centers, monumental architecture, tribute systems, specialized administrative classes, astronomical science, and religious legitimization of authority without any stimulus from Afro-Eurasian civilizations. The Sapa Inca's divine authority parallels the Chinese Mandate of Heaven; Angkor Wat parallels the Templo Mayor as politically motivated monumental religious architecture; the Mexica tribute system parallels the Abbasid tribute system. These parallels were not the result of cultural borrowing. They emerged independently from similar human needs and similar social conditions. This demonstrates that the institutions of complex civilization are not culturally specific achievements but general human responses to the organizational challenges of governing large, dense populations with agricultural surpluses. Any people, anywhere, under similar conditions, tends to develop similar institutional solutions."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, what pattern held true across every region studied in this unit regarding political legitimacy?",
+      "options": [
+        "Every ruler used some form of religion to legitimize political authority",
+        "Every state relied primarily on a professional army to maintain its legitimacy",
+        "Every state eventually adopted a written constitution limiting the ruler's power",
+        "Every ruler across the unit claimed direct descent from one common ancestor"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading states this pattern holds without exception: rulers everywhere used religion, broadly defined, to legitimize their political authority, whether through Confucian exams, Islamic law, devaraja ideology, Mexica sacrifice, or Catholic authority. It does not claim every state relied primarily on its army, adopted a written constitution, or shared a single claimed ancestor."
+    },
+    {
+      "question": "Why does the reading say states extracted resources from their populations in different ways?",
+      "options": [
+        "Because only agricultural states needed to fund armies, courts, and infrastructure",
+        "Because each state faced the same basic funding challenge but solved it differently",
+        "Because trade-based states like Mali never needed to extract resources at all",
+        "Because only centralized states like Song China required any resource extraction"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading frames this as a shared functional challenge: every state needed to fund armies, courts, infrastructure, and elite consumption, and different mechanisms like tribute, taxation, labor service, and trade fees were different solutions to that same problem. It explicitly rejects the idea that only some kinds of states needed to extract resources at all."
+    },
+    {
+      "question": "What function did specialized administrative classes, like the gentry, the ulama, and the quipucamayocs, serve across these states, according to the reading?",
+      "options": [
+        "They served mainly as ceremonial priests with no real day-to-day governing role",
+        "They existed only in centralized empires and had no counterpart in decentralized states",
+        "They managed the information, legal, and organizational demands of governing large populations",
+        "They were selected exclusively through hereditary succession within a single family"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading says these different administrative classes all served the same functional role: managing the information, legal, and organizational complexity of governing large populations. It does not describe them as purely ceremonial, limited only to centralized states, or chosen strictly by hereditary succession."
+    },
+    {
+      "question": "According to the reading, what did Angkor Wat, the Templo Mayor, and Gothic cathedrals have in common?",
+      "options": [
+        "They were all built primarily to store surplus grain collected as tribute payments",
+        "They were all constructed using the same imported building techniques and materials",
+        "They were all completed within a single decade using only enslaved labor",
+        "They were all monumental construction that expressed and reinforced political power"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading groups these structures as examples of monumental architecture that simultaneously expressed political power, demonstrated organizational capacity, and created focal points for identity and legitimacy. It does not claim they were built as grain storage, built with the same techniques, or all completed in a decade using only enslaved labor."
+    },
+    {
+      "question": "What is the most important political variable the reading identifies for comparing states in this period?",
+      "options": [
+        "The degree of centralization versus decentralization in a state's administration",
+        "Whether a state was located in the Northern Hemisphere or Southern Hemisphere",
+        "Whether a state's ruler was male or female at the time of the state's founding",
+        "The exact number of centuries a state's ruling dynasty remained in power"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading directly calls centralization versus decentralization the most important political variable, contrasting the highly centralized Song and Inca with the highly decentralized feudal Europe. It never treats hemisphere location, a founding ruler's gender, or dynasty length as a comparison variable."
+    },
+    {
+      "question": "Why does the reading treat the comparison between the Americas and Afro-Eurasia as especially significant?",
+      "options": [
+        "Because the Americas had extensive direct trade contact with Song China and Mali",
+        "Because similar institutions developed independently in total isolation from each other",
+        "Because the Americas copied their political systems from Afro-Eurasian trade partners",
+        "Because Afro-Eurasian states were far more technologically advanced than the Americas"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading calls this the strongest argument for multilinear development because the Americas produced similar institutions, tribute systems, monumental architecture, divine kingship, entirely in isolation, with no contact with Afro-Eurasia. It explicitly states the Americas had no contact with Song China or Mali, so copying or direct trade cannot explain the similarities."
+    },
+    {
+      "question": "According to the reading's AP exam strategy, what separates a strong comparison response from a weak one?",
+      "options": [
+        "A strong response lists as many similarities and differences as it can fit in the time given",
+        "A strong response explains why a difference existed and argues its historical significance",
+        "A strong response focuses only on differences and avoids mentioning any similarities",
+        "A strong response quotes the exact wording of the prompt as many times as possible"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading says the mistake most students make is listing differences without explaining why they existed or what they reveal, and that explaining the cause and arguing significance is what earns points. It does not recommend simply listing as many points as possible, ignoring similarities, or repeating the prompt's wording."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

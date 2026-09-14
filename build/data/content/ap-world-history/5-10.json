@@ -324,6 +324,74 @@
       "modelAnswer": "Unit 5's industrialization directly produced the conditions for Unit 6's imperialism: (1) The Great Divergence, the massive growth of the gap between industrialized and non-industrialized military and economic power, made it possible for a small number of European countries to militarily dominate much larger non-European populations. (2) Industrial capitalism's demand for raw materials and markets drove European powers to seek colonial territories that could supply inputs cheaply and absorb industrial goods. (3) Railroads, steamships, and the telegraph made it possible to administer large colonial territories efficiently in ways previously impossible. (4) The same nationalism that drove Italian and German unification also drove European powers to compete for empire as a symbol of national greatness. Everything in Unit 6 flows from Unit 5: the military power, the economic logic, the transportation technology, and the ideological justifications for imperialism all emerged from industrialization and the political changes it produced."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "What does the AP exam mean by asking students to evaluate the \"extent\" of change?",
+      "options": [
+        "To list as many changes as possible without discussing continuity",
+        "To make a precise claim about how much change occurred, using both evidence of change and continuity",
+        "To describe only the political changes during the period",
+        "To argue that either all change or continuity occurred, choosing one and ignoring the other"
+      ],
+      "correctIndex": 1,
+      "explanation": "Evaluating \"extent\" means making a precise, defensible claim about how much change occurred, supported by both change and continuity evidence, not just listing changes. (A) ignores continuity entirely, which the reading says weakens an argument. (C) narrows the question to only politics, but the reading covers economics, technology, and society too. (D) misunderstands the skill: a sophisticated argument acknowledges both sides rather than picking one and ignoring the other."
+    },
+    {
+      "question": "Which of these did the reading use as evidence of continuity rather than change by 1900?",
+      "options": [
+        "Women could not vote in most industrialized countries despite over a century of rights movements",
+        "Steam power had begun replacing human and animal labor in factories",
+        "New middle and working classes had emerged from industrial capitalism",
+        "Railroads and steamships had connected the world's regions like never before"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading lists women's continued political exclusion in 1900 as one of its main examples of continuity. (B), (C), and (D) are all listed in the reading as evidence of change, not continuity: new energy sources, new social classes, and new transportation networks were dramatic transformations from the world of 1750."
+    },
+    {
+      "question": "Why does the reading say that acknowledging continuity actually strengthens, not weakens, an argument about change?",
+      "options": [
+        "Because continuity evidence is easier to find and takes less time to write about",
+        "Because AP essay graders only award points for describing continuities, not changes",
+        "Because it shows the writer considered the full picture and can still defend their claim despite counterevidence",
+        "Because arguing for continuity guarantees a higher score than arguing for change"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that acknowledging what didn't change shows nuance and prevents oversimplification: an essay can still argue \"great change\" while admitting continuities existed, as long as it explains why the changes outweigh them. (B) and (D) wrongly suggest continuity always beats change in scoring. (A) misstates the reason, it's about argument quality, not ease."
+    },
+    {
+      "question": "According to the reading, what is the \"Great Divergence\"?",
+      "options": [
+        "The split between the four Mongol khanates after Genghis Khan's death",
+        "The widening gap between industrialized Western nations and the rest of the world in manufacturing and wealth",
+        "The disagreement between historians about when the Industrial Revolution began",
+        "The division between capitalist and socialist political parties in the 19th century"
+      ],
+      "correctIndex": 1,
+      "explanation": "The vocabulary section defines the Great Divergence as the 19th-century widening of economic and industrial capacity between Western nations and the rest of the world. (A) describes an unrelated topic from a different unit. (C) and (D) aren't what the term refers to in this reading."
+    },
+    {
+      "question": "What does the reading say about political authority around the world in 1900, as evidence for continuity?",
+      "options": [
+        "Only Britain and Germany still had functioning monarchies among the major powers",
+        "Every major world power had adopted a democratic constitution by 1900",
+        "Monarchies still governed Germany, Russia, Austria-Hungary, and other major powers",
+        "Political authority had shifted entirely from monarchs to elected industrial capitalists"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading specifically lists Germany, Russia, Austria-Hungary, the Ottoman Empire, China, and Japan as still governed by monarchs in 1900, with only France and the U.S. as republics among major powers. (A) undercounts the monarchies listed. (B) and (D) both contradict this continuity evidence directly."
+    },
+    {
+      "question": "Which step does the reading recommend LAST when constructing an \"evaluate the extent\" argument?",
+      "options": [
+        "Pick a position on how much change occurred (great, significant, or limited)",
+        "Identify your two strongest pieces of evidence supporting that position",
+        "Acknowledge and respond to the counterargument",
+        "Connect your argument to the broader context of units before and after this period"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading lays out four steps in order: pick a position, identify your two strongest arguments, acknowledge and respond to the counterargument, and finally connect to broader context (how earlier units set up industrialization and how it connects to imperialism in Unit 6). (A), (B), and (C) are the first three steps, not the last one."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

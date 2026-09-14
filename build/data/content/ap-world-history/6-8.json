@@ -90,6 +90,85 @@
       "answer": "The connections are direct and specific. Export economies (Topic 6.4) created labor demand in plantation and extraction zones that free labor markets couldn’t fill at the wages plantation owners were willing to pay, generating the indentured servitude and coerced migration described in Topic 6.6. Economic imperialism (Topic 6.5) in Latin America (British investment in Argentine railways, meatpacking, banking) created the infrastructure that made labor migration to Argentina attractive to Italian and Spanish workers, connecting Topics 6.5 and 6.6. The ethnic enclaves that formed (Topic 6.7) reflected where the export economies concentrated labor demand: Indian workers in Caribbean sugar (Topic 6.4) and Natal mining created Indian diaspora communities there (Topic 6.7). The nativist backlash (Chinese Exclusion Act, White Australia Policy, Topic 6.7) was partly driven by the same labor competition that commodity export economies created. All of Unit 6’s topics are connected through the fundamental causal engine of industrial capitalism’s demand for labor, markets, and raw materials."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "Why does the reading describe industrialization as a “necessary, not sufficient” cause of imperialism?",
+      "options": [
+        "Industrialization alone explains every detail of imperialism, including exactly which territories were seized",
+        "Industrialization made conquest possible, but its specific racial and competitive form also needed ideology and politics",
+        "Industrialization mattered only in Asia, while unrelated causes explain the colonization of Africa instead",
+        "Industrialization was one of many equally minor causes, mattering less than religious motives on their own"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading argues industrialization created the technological gap, economic demand, and social pressures behind imperialism, but the specific form conquest took, its racial ideology and competitive structure, also required the ideological and political developments covered separately. (A), (C), and (D) all overstate or misplace industrialization’s role in ways the reading doesn’t support."
+    },
+    {
+      "question": "Which two factors did the reading identify as making the conquest of interior Africa possible for the first time?",
+      "options": [
+        "Repeating rifles and railroads, letting armies coordinate a rapid advance through contested rural land",
+        "Steamships and telegraphs, letting commanders in Europe issue direct orders to isolated garrisons",
+        "Quinine and the Maxim gun, which solved the tropical disease problem and gave a huge firepower edge",
+        "Barbed wire and trench systems, letting small garrisons defend territory against local uprisings"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading names quinine (which sharply reduced European deaths from malaria) and the Maxim gun (which created a devastating military asymmetry, as at Omdurman) as the two innovations that made sustained interior conquest militarily feasible for the first time. (A), (B), and (D) name technologies or combinations the reading doesn’t credit this way."
+    },
+    {
+      "question": "What is the “core-periphery” relationship described in the reading?",
+      "options": [
+        "Industrialized core nations exported finished goods while peripheral regions supplied raw materials and labor",
+        "Peripheral colonies exported finished manufactured goods to core nations in exchange for higher prices",
+        "Core nations and peripheral regions traded strictly as economic equals with no structural advantage",
+        "Core nations physically relocated their own factories into peripheral colonies to cut labor costs"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading defines core-periphery as industrialized nations manufacturing and exporting finished goods and capital, while peripheral regions supply raw materials, labor, and markets, creating structural global inequality. (B) reverses the actual relationship, and (C) and (D) describe arrangements the reading doesn’t mention."
+    },
+    {
+      "question": "According to the reading, how did nationalism drive imperial expansion separately from pure economic incentive?",
+      "options": [
+        "Nationalism only motivated colonization of territories that were already economically profitable to seize",
+        "Nations claimed territory partly to deny it to rivals, pushing expansion beyond strict economic logic",
+        "Nationalist competition slowed expansion, since rival nations preferred to negotiate borders first",
+        "Nationalism fully replaced economic motives, so profit played no role in the Scramble for Africa"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explains that nationalism created competitive pressure: nations sometimes claimed territory mainly to keep rivals from getting it, driving expansion into places that weren’t especially profitable. (A) and (D) both misstate the relationship between nationalism and economics, and (C) contradicts the reading’s account of accelerating expansion."
+    },
+    {
+      "question": "Which of the following is NOT one of the four categories of causes the reading identifies for imperial expansion?",
+      "options": [
+        "Technological and military advantages, such as industrial weapons and tropical medicine",
+        "Economic demand for raw materials, new markets, and profitable investment opportunities",
+        "Direct military alliance treaties obligating nations to declare war on each other’s behalf",
+        "Ideological justifications, such as Social Darwinism, nationalism, and the civilizing mission"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading’s four causal categories are technological/military, economic, ideological, and political competition, alliance treaties requiring mutual war declarations are never mentioned as a cause of imperialism in this reading. (A), (B), and (D) are all categories the reading explicitly names."
+    },
+    {
+      "question": "What does the reading mean by describing imperialism’s effects as a “balance sheet”?",
+      "options": [
+        "It means imperialism’s economic costs were eventually repaid in full to the territories it colonized",
+        "It means historians should set aside imperialism’s human costs when judging its long-term importance",
+        "It means only economic effects should count, since political and cultural effects can’t be measured",
+        "It means evaluating imperialism requires weighing its genuine transformations against its human costs"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading uses “balance sheet” to argue that a strong analysis has to acknowledge both real transformations, like new political borders and global trade networks, and the enormous human costs, like the Congo’s 10 million deaths, rather than picking only one side. (A), (B), and (C) each distort what the reading actually argues."
+    },
+    {
+      "question": "How does the reading connect the Industrial Revolution to imperialism through the specific example of quinine?",
+      "options": [
+        "Quinine was a manufactured export good that industrial factories sold directly to colonized populations",
+        "Quinine reduced European soldiers’ mortality from tropical disease, making sustained interior conquest possible",
+        "Quinine was a raw material that industrial nations extracted from colonies to sell back in Europe",
+        "Quinine funded colonial administration by generating tax revenue from its sale in conquered territories"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading traces a direct chain: tropical medicine (quinine) reduced European mortality in tropical environments, which made interior conquest of Africa feasible for the first time, connecting a Unit 5 medical advance to a Unit 6 military consequence. (A), (C), and (D) all describe quinine’s role incorrectly."
+    }
+  ],
   "blocks": [
     {
       "type": "heading",

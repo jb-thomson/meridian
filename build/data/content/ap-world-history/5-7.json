@@ -348,6 +348,85 @@
       "modelAnswer": "Free trade benefits whoever is the most efficient producer, because in an open market, the most efficient producer wins. In the 19th century, Britain was the world's most efficient industrial producer. An open global market allowed British goods to compete everywhere without barriers, which meant British goods won in almost every market they entered. For countries trying to develop their own industries (Germany, the United States), free trade was a threat: their developing factories would be undercut by cheaper, more efficient British goods before they had time to become competitive. Protective tariffs gave developing industries time to improve. Britain's advocacy of free trade was not purely altruistic. It was in Britain's specific economic interest as the established industrial leader. The US and Germany used tariffs until they were competitive enough not to need them."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "What was mercantilism, the economic system that dominated before the 19th century?",
+      "options": [
+        "A system where governments controlled trade to accumulate gold and silver, using colonies as captive markets",
+        "A system in which workers collectively owned and managed the factories where they were employed",
+        "A system in which stock markets alone determined the prices of goods across an entire empire",
+        "A system that granted colonies complete independence to set their own individual trade policy"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading defines mercantilism as governments controlling trade to accumulate gold and silver, using colonies to supply cheap raw materials and buy finished goods without competition. Worker ownership of factories describes a socialist idea covered elsewhere, not mercantilism. Stock markets are a separate financial innovation, and mercantilism was built on tightly controlling colonies, the opposite of granting them independent trade policy."
+    },
+    {
+      "question": "How did Adam Smith's ideas in The Wealth of Nations (1776) challenge mercantilism?",
+      "options": [
+        "He argued that every colony should be abolished immediately to end unfair trade practices",
+        "He argued that trade creates new wealth through exchange, rather than simply redistributing a fixed amount",
+        "He argued that governments should nationalize all major industries to maximize overall efficiency",
+        "He argued that tariffs were absolutely necessary in order to protect a country's gold reserves"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explains that Smith rejected the mercantilist idea of a fixed amount of global wealth, arguing instead that voluntary trade creates new wealth for both parties involved. Smith did not call for abolishing colonies outright or for governments to nationalize industries, he argued for less government interference, not more. Defending tariffs to protect gold reserves is the mercantilist position Smith was arguing against, not his own view."
+    },
+    {
+      "question": "What problem did stock markets solve for industrial companies?",
+      "options": [
+        "They eliminated any need for companies to ever pay wages to their own workers",
+        "They allowed one single wealthy investor to gain full control of an entire industry",
+        "They let many investors pool smaller amounts of capital to fund very large enterprises",
+        "They set fixed prices for manufactured goods across every international market"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes stock markets letting a company divide ownership into many small shares, so thousands of investors contributing modest amounts could together fund enterprises far too large for any single investor. Stock markets had nothing to do with eliminating wages or setting international prices. They actually spread ownership across many investors rather than concentrating control in one wealthy person."
+    },
+    {
+      "question": "What did \"limited liability\" mean for investors in a corporation?",
+      "options": [
+        "Investors were limited to owning shares in only a single company at any one time",
+        "Investors could vote on company decisions only if they held a clear majority of shares",
+        "Investors' potential profits were capped at a fixed percentage set by the government",
+        "Investors could lose no more than the amount of money they had actually invested"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading defines limited liability as protecting investors from losing more than their invested amount, even if the company went bankrupt and owed large debts, which encouraged far more people to invest in risky industrial ventures. It never mentions any limit on how many companies a person could invest in, any voting requirement tied to a majority stake, or any government cap on profits."
+    },
+    {
+      "question": "Why does the reading use HSBC as an example of a \"transnational business\"?",
+      "options": [
+        "It operated across multiple countries and currencies to finance trade between Europe and Asia",
+        "It was the very first company in history to be owned entirely by foreign governments",
+        "It refused to conduct any business at all with countries outside the British Empire",
+        "It specialized only in loans made to European colonial governments, not private merchants"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading describes HSBC operating simultaneously in Hong Kong, Shanghai, Bombay, Calcutta, Singapore, and London, handling the multi-currency, multi-country transactions that global industrial trade required. It was founded by a private individual, not owned by governments, and the reading describes it financing merchants and trade shipments generally, not just loans to colonial governments or business limited to the British Empire."
+    },
+    {
+      "question": "According to the reading, how were the benefits of industrial capitalism distributed between workers and industrialists in Britain between 1850 and 1900?",
+      "options": [
+        "Workers' wages grew faster than industrialists' profits, reversing the earlier inequality",
+        "Workers' wages roughly doubled while industrialists' profits grew by a factor of 10 or more",
+        "Both wages and profits grew at roughly the same rate, keeping overall inequality steady",
+        "Wages and profits both stayed completely flat, since most gains went to government taxation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading states that British workers' real wages roughly doubled between 1850 and 1900, while industrialists' profits grew by a factor of 10 or more in the same period, showing real improvement alongside growing inequality. Wages did not grow faster than profits, and neither wages nor profits stayed flat. The reading does not describe government taxation absorbing the gains from industrial growth."
+    },
+    {
+      "question": "Which of the following is NOT one of the reasons the reading gives for why manufactured goods became more affordable in the 19th century?",
+      "options": [
+        "Machines produced far more goods per hour than human hands ever could manage",
+        "Division of labor made the whole production process significantly more efficient",
+        "Governments eliminated every single tax on manufactured goods across the board",
+        "Improved railroads and steamships reduced the cost of moving goods to market"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading lists faster machine production, division of labor, economies of scale, and cheaper transportation as the reasons manufactured goods became more affordable, but it never claims governments eliminated all taxes on manufactured goods. That option is not supported anywhere in the reading."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

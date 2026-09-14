@@ -344,6 +344,85 @@
       "modelAnswer": "Both governments hired European experts, sent students abroad, imported European machinery and technical knowledge, and built government model enterprises. Both were driven by the threat that Western industrial and military power posed to their independence. The differences: (1) scale and consistency. Japan's Meiji program was larger, longer, more systematic, and more politically stable; (2) trade policy. Japan could protect its developing industries with tariffs; Egypt could not after 1838; (3) outcomes. Japan's program transformed the country into a major industrial power; Egypt's collapsed under competitive pressure. The same basic strategy (state-directed modernization, learning from the West) produced vastly different results depending on the political context in which it operated."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "Why did countries like Japan, Russia, and Egypt rely more on government direction to industrialize than Britain did?",
+      "options": [
+        "They lacked the private capital and entrepreneurial networks that Britain had built up over decades",
+        "Their governments believed that private enterprise itself was morally wrong and unacceptable",
+        "Britain's government formally forbade these countries from allowing any private industry",
+        "They possessed far more coal and iron than Britain, so government control was needed for it"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that later industrializers lacked Britain's decades of accumulated private capital and entrepreneurial experience, so they used government direction to catch up quickly instead of waiting for private capital to build up organically. Nothing in the reading suggests an ideological opposition to private enterprise, and Britain never forbade other nations from having private industry. Egypt and Japan are not described as having more coal or iron than Britain."
+    },
+    {
+      "question": "What ultimately caused Muhammad Ali's Egyptian textile industry to collapse?",
+      "options": [
+        "A severe famine in the 1830s that destroyed Egypt's cotton crop before it reached the factories",
+        "The Anglo-Ottoman Commercial Convention of 1838, which forced Egypt to accept British goods without tariffs",
+        "A large-scale strike by Egyptian workers who refused to operate the imported European machinery",
+        "The death of Muhammad Ali before construction of any of the planned factories could be completed"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading identifies the 1838 Anglo-Ottoman Commercial Convention as the decisive blow, since it forced Egypt to open its market to British goods without protective tariffs, and Egypt's less efficient factories could not compete on price. There is no mention of a famine destroying the cotton crop or of a workers' strike. Muhammad Ali ruled Egypt until 1848, well after the factories were built and had already begun to decline."
+    },
+    {
+      "question": "What event directly triggered Japan's Meiji-era push toward industrialization?",
+      "options": [
+        "The founding of a European bank that refused to lend money to any non-Western governments",
+        "Russia's completion of the Trans-Siberian Railroad, connecting European Russia to the Pacific",
+        "Commodore Perry's arrival with steam warships, which showed Japan's military could not match the West",
+        "Japan's own defeat by China in a lengthy border conflict fought over control of Korea"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes Perry's 1853 arrival with steam-powered warships as the shock that convinced Japanese leaders their traditional military could not resist Western power, leading to the Meiji Restoration and its modernization program. The bank and the Trans-Siberian Railroad belong to other topics and are not connected to Japan in this reading. Japan defeated, rather than was defeated by, China in the war the reading describes."
+    },
+    {
+      "question": "What was the purpose of the Meiji government's \"model factories\" strategy?",
+      "options": [
+        "To keep every factory's profits permanently in the hands of the national government",
+        "To provide finished goods to Japanese citizens completely free of any charge",
+        "To compete directly against private Japanese companies until they went out of business",
+        "To demonstrate that modern production worked and train workers, before selling to private investors"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading explains that the government built silk mills, shipyards, and foundries to prove industrial production could work and train the first generation of workers, then sold most of them to private investors like the zaibatsu families. The government did not intend to keep the factories permanently or give away their goods for free. The strategy supported private enterprise rather than trying to destroy it."
+    },
+    {
+      "question": "What best explains why Japan's industrialization succeeded while Egypt's ultimately failed?",
+      "options": [
+        "Japan kept its political independence and could set its own tariffs, while treaties controlled Egypt's trade",
+        "Japan simply had access to far more coal and iron deposits in its territory than Egypt possessed",
+        "Egypt flatly refused to hire any foreign experts at all, while Japan hired thousands of them",
+        "Japan's much larger overall population gave it many more potential factory workers to draw on"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading states that Japan's political independence let it protect its developing industries with tariffs, while Egypt as an Ottoman province was bound by the 1838 treaty that removed its tariff protection. Egypt actually did hire European experts and machinery for its textile mills, so that option contradicts the reading. Population size and mineral deposits are not given as the deciding factors in the comparison."
+    },
+    {
+      "question": "What did Japan's victory in the Russo-Japanese War of 1905 demonstrate?",
+      "options": [
+        "That Russia had never actually undergone any real industrialization during the 19th century",
+        "That deliberate, state-led industrialization could build the base to defeat a major Western power",
+        "That naval warfare itself had become essentially obsolete by the start of the industrial age",
+        "That Japan's overall national economy had grown larger than Britain's economy by 1905"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading presents the 1905 victory as proof that Japan's 37-year, state-directed modernization program had succeeded in building genuine industrial and military power, the first time a non-Western country defeated a major European power in the industrial era. Russia is described elsewhere as a genuine industrializing power, just a slower and later one than Japan. The reading makes no claim about naval warfare becoming obsolete or about the relative size of Japan's and Britain's economies."
+    },
+    {
+      "question": "Which of the following was NOT part of the Meiji government's industrialization program, according to the reading?",
+      "options": [
+        "Sending Japanese students abroad to study in Britain, France, Germany, and the United States",
+        "Hiring thousands of foreign technical experts to train Japanese workers and engineers",
+        "Nationalizing every foreign-owned bank that was operating inside Japanese territory",
+        "Building a national railroad network that began construction back in the 1870s"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading lists sending students abroad, hiring over 3,000 foreign experts, and building railroads as key parts of the Meiji program, but it never mentions nationalizing foreign banks. That detail simply does not appear anywhere in the reading's description of Meiji policy."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

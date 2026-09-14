@@ -87,6 +87,96 @@
       "answer": "It means that while the Cold War originated in ideological disagreement between US capitalism and Soviet communism, it quickly extended into economic competition (which system produced more wealth and equality), cultural competition (whose art, music, science, and way of life was superior), military competition (arms race, nuclear deterrence, proxy wars), and social competition (who treated their citizens better, who had racial equality, who had more freedom). The space race was a Cold War competition. Jazz diplomacy was a Cold War competition. The Soviet Sputnik launch and the American moon landing were Cold War events. Even the Olympics became a proxy Cold War battleground. The ideological dispute generated competition in essentially every domain of human activity."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, what did the United States and Soviet Union each believe about their own ideological system?",
+      "options": [
+        "Both superpowers believed their systems needed substantial internal reform in order to keep pace with the other side",
+        "Both superpowers believed their systems could only succeed if kept completely isolated from the other's influence",
+        "Both superpowers believed their own system was not just better but historically inevitable, and that the world would adopt it",
+        "Both superpowers believed ideology mattered far less than raw military strength in determining who won the conflict"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading states both superpowers believed their system was not just better but historically inevitable, and that the world would eventually adopt it. The other options are not supported by the reading."
+    },
+    {
+      "question": "What was the Truman Doctrine (1947), according to the reading?",
+      "options": [
+        "A US policy declaring that it would support free peoples resisting communist takeover, first applied to Greece and Turkey",
+        "A joint US-Soviet agreement that formally divided the continent of Europe into two separate zones of influence",
+        "A United Nations resolution that officially established containment as a binding piece of international policy",
+        "A military alliance that required US troops to be permanently stationed across every country in Eastern Europe"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading defines the Truman Doctrine as declaring US support for free peoples resisting communist takeover, first applied to Greece and Turkey, formalizing the policy of containment. The other options misdescribe the doctrine."
+    },
+    {
+      "question": "What was the stated strategic logic behind the Marshall Plan (1948), according to the reading?",
+      "options": [
+        "To directly fund anti-communist armies that were already fighting battles inside Western European countries",
+        "To require Western European nations to adopt communist-style economic policies in exchange for receiving US aid",
+        "To financially repay Western European nations for the sacrifices they had made during the war years",
+        "To rebuild Western European economies so that economic desperation would not lead to communist election victories"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading explains the Marshall Plan's logic as economic: prosperous, rebuilt economies would resist communist electoral victories, since economic devastation breeds political radicalism. The other options all misstate the plan's purpose."
+    },
+    {
+      "question": "What was the Non-Aligned Movement primarily a response to, according to the reading?",
+      "options": [
+        "A shared desire among newly independent nations to quickly develop their own nuclear weapons programs",
+        "Cold War pressure on newly independent nations to align formally with either the US or the Soviet bloc",
+        "A joint formal request from the US and USSR asking every smaller nation to remain strictly neutral",
+        "The repeated failure of the United Nations to admit any newly independent nations as full members"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading frames the NAM as a response to Cold War pressure on newly independent nations to choose sides, and their desire to preserve genuine sovereignty instead. The other options are not supported by the reading."
+    },
+    {
+      "question": "What was the significance of the Bandung Conference (1955), hosted by Sukarno, according to the reading?",
+      "options": [
+        "It formally and permanently ended Dutch colonial rule over the islands of Indonesia once and for all",
+        "It created a permanent, formal military alliance among the Asian and African nations that attended",
+        "It gathered 29 Asian and African nations together and laid the groundwork for the Non-Aligned Movement",
+        "It resulted in the Soviet Union formally recognizing Indonesian independence for the very first time"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes Bandung as a gathering of 29 Asian and African nations that produced the foundational principles of non-alignment, becoming the seed from which the formal Non-Aligned Movement grew. The other options are not what the reading credits to the conference."
+    },
+    {
+      "question": "What concept did Kwame Nkrumah develop to describe how a formally independent nation could still be controlled by outside powers, according to the reading?",
+      "options": [
+        "Neocolonialism, the idea that economic dependence on former colonial powers could undermine genuine independence",
+        "Containment, the idea that former colonial powers would eventually try to physically reoccupy their old colonies",
+        "Non-alignment, the idea that newly independent states should avoid any foreign trade relationships at all costs",
+        "Pan-Africanism, the idea that every African nation should merge together into one single unified government"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading credits Nkrumah with developing the concept of neocolonialism, formal independence undermined by continued economic dependence on former colonial powers or superpowers. The other options describe other, related but distinct ideas."
+    },
+    {
+      "question": "Why did the Soviet Union use propaganda about American racial segregation, according to the reading?",
+      "options": [
+        "To encourage African American citizens to emigrate from the United States into the Soviet Union itself",
+        "To convince Western European nations to formally and permanently withdraw their membership from NATO",
+        "To promote Soviet tourism specifically among the citizens of newly independent nations abroad",
+        "To undermine American credibility in Asia and Africa by highlighting the gap between US freedom rhetoric and Jim Crow"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading states Soviet propaganda highlighted American segregation specifically to undermine US credibility among newly independent nations, a genuine vulnerability given America's claim to champion freedom. The other options are not mentioned in the reading."
+    },
+    {
+      "question": "Which of the following is NOT something the reading describes as part of the \"cultural Cold War\"?",
+      "options": [
+        "The United States sending jazz musicians like Louis Armstrong on tours sponsored by the State Department",
+        "A direct US military invasion launched specifically to stop the spread of Soviet cultural exports",
+        "The Soviet Union showcasing the Bolshoi Ballet and its own cinema to audiences living abroad",
+        "The ongoing competition between Sputnik and the US moon landing as a display of technological superiority"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading describes the cultural Cold War as being fought through music, film, broadcasting, and science, not military invasions, so this option never happened. The other options are all specific examples the reading gives."
+    }
+  ],
   "blocks": [
     {
       "type": "heading",

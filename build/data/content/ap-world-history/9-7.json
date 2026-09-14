@@ -289,6 +289,85 @@
       "modelAnswer": "The record is mixed. Anti-IMF activism achieved some significant results: the Jubilee 2000 debt cancellation campaign secured substantial debt relief for the world's poorest nations; growing criticism of structural adjustment forced the IMF to modify some of its most rigid prescriptions; and the political credibility damage from the Seattle protests contributed to the eventual failure of the Doha Round of WTO trade negotiations (2001–2016). However, economic globalization continued, global trade kept growing, MNCs expanded, and free-market policies remained dominant. The 2008 financial crisis temporarily strengthened critics' arguments, but recovery was led by the same institutions and policies they had criticized. China's Great Firewall successfully maintained digital sovereignty, but did not prevent China from deeply integrating into global economic networks. The most significant long-term effect may have been the rise of nationalist populism, particularly in wealthy nations, that eventually disrupted key pillars of the free-trade order through protectionist policies, Brexit, and NAFTA renegotiation. But this populist backlash raised as many new problems as it solved."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "What were IMF and World Bank 'structural adjustment' policies, and why did they generate criticism, according to the reading?",
+      "options": [
+        "Loan conditions requiring free market reforms like spending cuts and privatization, which critics argued harmed the poor while benefiting foreign investors",
+        "Military agreements requiring borrowing countries to host foreign troops in exchange for loans",
+        "Programs that canceled all debt for developing nations without requiring any policy changes",
+        "Requirements that borrowing countries adopt the same currency as the country lending them money"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that structural adjustment required cutting government spending, privatizing enterprises, and opening markets, and that critics argued these steps harmed the poor while benefiting foreign investors. (B), (C), and (D) are not supported by the reading."
+    },
+    {
+      "question": "What made the 1999 WTO protests in Seattle especially notable, according to the reading?",
+      "options": [
+        "They were organized entirely by a single labor union with no support from any other group",
+        "They brought together an unlikely coalition, labor unions and environmentalists among them, whose shared opposition to WTO policies disrupted the summit",
+        "They were the first protests in history to target an international trade organization",
+        "They succeeded in permanently shutting down the World Trade Organization"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading describes the 'Teamsters and Turtles' coalition of labor unions and environmentalists, whose combined opposition disrupted the WTO negotiations. (A), (C), and (D) are not supported by the reading."
+    },
+    {
+      "question": "How does the reading describe China's development of Weibo and other domestic platforms after blocking Western social media?",
+      "options": [
+        "As a purely economic decision made without any political motivation at all",
+        "As a failed experiment that Chinese users largely rejected in favor of smuggled access to Facebook and Twitter",
+        "As a simultaneous act of state censorship and an assertion of technological and cultural independence from Western platforms",
+        "As a policy that was quickly reversed once Chinese companies proved unable to compete with Western technology"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explicitly says this case was complex: it was simultaneously state censorship and a form of technological self-sufficiency and cultural assertion, both true at once. (A), (B), and (D) are not supported by the reading."
+    },
+    {
+      "question": "What does the reading mean by the 'splinternet' phenomenon?",
+      "options": [
+        "China's internet became functionally separate from the rest of the world, similar in technology but governed and filled with different content",
+        "The global internet split into exactly two networks, one controlled by the United Nations and one by private companies",
+        "Internet access became so expensive that most of the world's population could no longer afford it",
+        "Social media companies split into dozens of small competing platforms with no single dominant service"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading describes China's internet as effectively a separate internet, similar in technology to the rest of the world but completely different in content and governance. (B), (C), and (D) are not supported by the reading."
+    },
+    {
+      "question": "What did France's requirement for a minimum percentage of French language content on television and radio represent, according to the reading?",
+      "options": [
+        "An early form of censorship targeting political dissidents who criticized the government",
+        "A form of cultural protectionism intended to defend French culture against the dominance of English language media",
+        "A response to a specific French law banning all foreign investment in media companies",
+        "A policy adopted by the European Union and required of all its member states"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading lists this policy as an example of cultural protectionism, meant to protect French culture from English language dominance. (A), (C), and (D) are not supported by the reading."
+    },
+    {
+      "question": "What did the reading mean by 'alternative globalization' as a response to globalization's critics?",
+      "options": [
+        "A movement to reverse globalization entirely and return to closed national economies",
+        "A plan by the IMF and World Bank to expand structural adjustment programs to more countries",
+        "A proposal to replace the United Nations with a new global governing body",
+        "An effort by activists to make globalization fairer, through fair trade, debt cancellation, and stronger labor and environmental standards, rather than stop it"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes alternative globalization as an effort to make globalization fairer rather than reverse it, through fair trade, debt cancellation, and stronger standards. (A), (B), and (C) are not supported by the reading."
+    },
+    {
+      "question": "Which of the following was NOT listed in the reading as a form of resistance to globalization?",
+      "options": [
+        "Economic protectionism, such as tariffs and subsidies meant to protect domestic industries",
+        "Religious revivalism, as movements worldwide reacted against secular consumer values",
+        "A global tax on multinational corporations imposed and collected directly by the United Nations",
+        "Nationalist populism, as political movements built support by opposing international economic integration"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading never mentions any UN-administered global tax on corporations. (A), (B), and (D) are all forms of resistance the reading directly lists."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

@@ -308,5 +308,95 @@
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],
-  "teacherNotes": ""
+  "teacherNotes": "",
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, which three factors does the CED identify as causes of the Cold War's end?",
+      "options": [
+        "US military and technological advances, the Soviet Union's failed invasion of Afghanistan, and public discontent and economic weakness in communist countries",
+        "The assassination of a Soviet leader, a sudden global famine, and a worldwide financial crash that bankrupted every major economy",
+        "A direct military defeat of the Soviet Union by NATO forces, followed by the immediate surrender of the Soviet government",
+        "A single treaty signed in 1985 that required the Soviet Union to dissolve itself within five years of signing"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explicitly names all three CED causes: US military and technological advances, the failed Soviet invasion of Afghanistan, and public discontent and economic weakness in communist countries. No assassination, famine, NATO military defeat, or five-year dissolution treaty appears anywhere in the reading."
+    },
+    {
+      "question": "Why did Reagan's proposed Strategic Defense Initiative (SDI), or \"Star Wars,\" alarm Soviet leaders so much, according to the reading?",
+      "options": [
+        "It threatened to let the US block Soviet nuclear missiles and strike first without fearing retaliation, a threat the USSR could not afford to match",
+        "It was a plan to place Soviet-designed satellites into orbit without the Soviet Union's permission or cooperation",
+        "It proposed placing a joint US-Soviet space station in orbit that neither side ultimately wanted to fund",
+        "It revealed that the Soviet Union's own nuclear arsenal had secretly been smaller than American analysts had believed"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that SDI raised the terrifying possibility that the US could shoot down Soviet missiles and strike first without fear of retaliation, and that matching this technology economically was more than the Soviet system could afford. SDI was not about Soviet satellites, a joint space station, or revealing a smaller Soviet arsenal."
+    },
+    {
+      "question": "According to the reading, why is the Soviet-Afghan War (1979-89) compared to the American experience in Vietnam?",
+      "options": [
+        "Both wars ended in a quick, decisive victory for the superpower that invaded, with minimal casualties on either side",
+        "Both wars drained resources and morale over roughly a decade without achieving their objective, exposing the limits of superpower military power",
+        "Both wars were fought entirely by proxy, with neither superpower ever committing its own troops to combat",
+        "Both wars ended when the United Nations intervened militarily to force a ceasefire between the opposing forces"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading describes the Afghan War as a costly, decade-long quagmire that drained Soviet resources and morale without victory, just as Vietnam had done for the US, exposing the limits of superpower military power. Neither war ended quickly or decisively, neither was fought purely by proxy without Soviet or American troops, and the UN did not force either ceasefire."
+    },
+    {
+      "question": "What does the reading say the Solidarity trade union movement in Poland grew out of, and what did it become?",
+      "options": [
+        "It grew out of a government-organized youth program and remained a small, purely cultural organization throughout its history",
+        "It grew out of a religious dispute between Polish Catholics and the government and stayed limited to church matters",
+        "It grew out of a border conflict with a neighboring country and focused exclusively on military and defense issues",
+        "It grew out of economic grievances like food price increases and became a 10-million member political opposition movement"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading explains that Solidarity began with worker grievances over food prices at the Gdansk shipyards and grew into a 10-million member movement that the communist government ultimately could not suppress. It was not a government youth program, a purely religious dispute, or focused on a border conflict."
+    },
+    {
+      "question": "According to the reading, why did Gorbachev's glasnost policy end up accelerating the Soviet system's collapse instead of strengthening it?",
+      "options": [
+        "It was cancelled after only a few weeks once Gorbachev realized how unpopular it had become with Communist Party officials",
+        "It focused entirely on foreign policy and had no effect at all on how Soviet citizens viewed their own government",
+        "It permitted open criticism that, once allowed, expanded into questioning the entire legitimacy of communist rule itself",
+        "It succeeded exactly as intended, fixing the specific problems it targeted without generating any broader unrest"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that once glasnost permitted public criticism, that criticism expanded beyond specific problems into questioning the legitimacy of communist rule itself, a pressure the system could not survive. Glasnost was not quickly cancelled, was not limited to foreign policy, and clearly did not succeed as intended since it helped bring down the system."
+    },
+    {
+      "question": "What made the fall of the Berlin Wall in November 1989 such a powerful symbol, according to the reading?",
+      "options": [
+        "It showed that communist governments could no longer maintain themselves without the threat of Soviet military intervention",
+        "It marked the exact moment East and West Germany formally merged their governments into a single new state",
+        "It was the first and only Cold War event that involved no crowds or public demonstrations of any kind",
+        "It occurred as a direct result of a United Nations vote ordering East Germany to open its borders"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that the Wall's fall showed communist governments across Eastern Europe could no longer sustain themselves once Gorbachev removed the threat of Soviet military intervention that had propped them up. Formal German reunification, a lack of public demonstrations, and a UN vote are not part of the reading's account."
+    },
+    {
+      "question": "Which of the following is NOT one of the causes of Soviet economic weakness that the reading describes?",
+      "options": [
+        "Chronic shortages of consumer goods and outdated technology compared to Western products",
+        "Military spending that consumed a large share of Soviet GDP and strained the economy",
+        "A worldwide ban on Soviet oil exports imposed jointly by every member of the United Nations",
+        "The environmental and economic costs revealed by the Chernobyl nuclear disaster of 1986"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading discusses consumer shortages, heavy military spending, and Chernobyl's costs as sources of Soviet economic weakness, but never mentions a worldwide UN ban on Soviet oil exports."
+    },
+    {
+      "question": "What happened to the Soviet Union on December 25, 1991, and what followed, according to the reading?",
+      "options": [
+        "Gorbachev was removed from power by a military coup that installed a new hardline communist government",
+        "The Soviet Union merged with several Eastern European nations to form a larger, reorganized federation",
+        "Gorbachev resigned and the USSR formally dissolved into 15 independent states, ending the Cold War's bipolar order",
+        "The Soviet parliament voted to suspend all elections indefinitely while keeping the union technically intact"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading states that Gorbachev resigned on December 25, 1991, and the USSR formally dissolved into 15 independent states, ending the bipolar Cold War order and creating a period of US dominance. He was not removed by a coup that day, the USSR did not merge into a larger federation, and elections were not simply suspended while the union stayed intact."
+    }
+  ]
 }

@@ -275,6 +275,96 @@
       "modelAnswer": "Economic globalization created several major tensions: (1) Between efficiency and equity, free trade and MNCs increased aggregate wealth but distributed gains unevenly, enriching capital owners and skilled workers while hurting manufacturing workers in wealthy countries. (2) Between national sovereignty and international economic integration, trade agreements and MNCs constrained governments' ability to set their own economic policies, creating backlash from citizens who felt their governments had surrendered control. (3) Between development and labor/environmental standards, developing nations attracted manufacturing by offering cheaper labor and lighter regulation, creating pressure on all nations to lower standards to compete. (4) Between economic growth and environmental sustainability, rapid industrialization in China, India, and elsewhere dramatically increased global environmental pressures. These tensions produced political backlash against globalization in many countries by the 2010s."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "What did Reagan, Thatcher, Deng Xiaoping, and Pinochet have in common, according to the reading?",
+      "options": [
+        "All four were eventually forced from power once their own citizens rebelled against these reforms",
+        "All four promoted free-market policies and cut government control, despite very different political systems",
+        "All four rejected foreign investment and instead built self-sufficient economies within their own borders",
+        "All four raised tariffs sharply to shield their own struggling domestic industries from foreign competition"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading identifies all four as examples of governments that encouraged free-market policies and economic liberalization, even though they governed under very different political systems. (A), (C), and (D) are not supported by the reading."
+    },
+    {
+      "question": "How did Deng Xiaoping's path to a market economy differ from Reagan's and Thatcher's, according to the reading?",
+      "options": [
+        "Deng eliminated nearly all private property rights, while Reagan and Thatcher worked to expand private ownership across their economies",
+        "Deng introduced market mechanisms while the Communist Party kept full political control, a path very different from the democracies Reagan and Thatcher led",
+        "Deng directed almost all of his reforms toward agriculture alone, while Reagan and Thatcher focused mainly on heavy industry and finance",
+        "Deng turned nearly all foreign investment away, while Reagan and Thatcher went out of their way to attract it into their economies"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explains that Deng introduced market mechanisms while maintaining strict Communist Party control, a very different path from Reagan and Thatcher, who pursued liberalization within existing democratic systems. (A), (C), and (D) are not accurate."
+    },
+    {
+      "question": "What is a 'knowledge economy' as the reading describes it, and which nations does it name as examples?",
+      "options": [
+        "An economy centered mainly on farm and agricultural exports, illustrated by the reading's Vietnam and Bangladesh examples",
+        "An economy built around cheap manufactured goods, illustrated by the reading's examples of Mexico and Honduras",
+        "An economy driven by high-skill services and technology, illustrated by the reading's examples of Finland, Japan, and the US",
+        "An economy dependent on extracting raw natural resources, illustrated by the reading's examples of Chile and Russia"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading defines knowledge economies as those built on high-skill services, technology, and innovation, naming Finland, Japan, and the US as examples. (A) and (B) actually describe the manufacturing economies the reading contrasts with knowledge economies. (D) is not mentioned."
+    },
+    {
+      "question": "According to the reading, what mainly drove the shift of industrial manufacturing to countries like Vietnam, Bangladesh, Mexico, and Honduras?",
+      "options": [
+        "These countries held unusually large deposits of the specific raw materials that factories needed most",
+        "These countries already possessed the most advanced manufacturing technology available anywhere at the time",
+        "Wealthy nations passed laws forcing their own companies to build factories only in developing countries",
+        "Lower labor costs there, combined with reduced trade barriers, made production there more profitable for companies"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading explains that this geographic relocation of manufacturing was driven by wage differentials between countries, facilitated by reduced trade barriers. (A), (B), and (C) are not given as reasons in the reading."
+    },
+    {
+      "question": "Why does the reading mention Nestle, Nissan, and Mahindra and Mahindra together as examples of multinational corporations?",
+      "options": [
+        "To show that multinationals from many world regions, not only the US, operated across borders as part of global economic integration",
+        "To show that companies based in Switzerland came to dominate global trade more than firms from any other nation",
+        "To prove that multinational corporations were an entirely new invention that first appeared in the late 20th century",
+        "To argue that international regulators should break up multinational corporations that grow to this size"
+      ],
+      "correctIndex": 0,
+      "explanation": "These three companies come from Switzerland, Japan, and India, showing that multinational corporations from many regions of the world, not just wealthy Western nations, became global economic forces. (B), (C), and (D) are not supported by the reading."
+    },
+    {
+      "question": "What was a major criticism of NAFTA mentioned in the reading?",
+      "options": [
+        "It made Mexican goods so expensive that American shoppers largely stopped buying them at all",
+        "It ended nearly all trade among the US, Canada, and Mexico instead of expanding trade further",
+        "Manufacturing workers in the United States lost jobs as companies moved production to Mexico for lower wages",
+        "It forced Mexico to adopt income tax rates that were identical to those used in the United States"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that NAFTA made it profitable for companies to relocate production to Mexico, displacing manufacturing workers in the US and fueling political backlash. (A), (B), and (D) are not supported by the reading."
+    },
+    {
+      "question": "According to the reading, how were the gains and costs of late 20th century globalization distributed?",
+      "options": [
+        "Costs fell mainly on wealthy nations, while developing nations kept almost every economic gain for themselves",
+        "Broadly positive globally, since hundreds of millions escaped poverty, though many rich-nation manufacturing workers bore real losses",
+        "Both the gains and the costs of globalization were spread out evenly across every country and every social class",
+        "Globalization produced essentially no measurable economic gains anywhere for any country during this whole period"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading describes this distributional pattern directly: broadly positive at the global level, since hundreds of millions in Asia escaped poverty, but negative for specific groups like manufacturing workers in wealthy nations. (A), (C), and (D) are not supported."
+    },
+    {
+      "question": "Which of the following was NOT described in the reading as an effect of economic globalization in the late 20th century?",
+      "options": [
+        "Global income inequality between nations grew sharply worse as poor countries fell further behind",
+        "Hundreds of millions of people across East and Southeast Asia moved out of poverty as manufacturing jobs arrived",
+        "Manufacturing communities in wealthy nations like the US and Britain saw factory closures and rising unemployment",
+        "Gains from globalization flowed disproportionately to capital owners and highly skilled knowledge workers"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading states that global income inequality between nations actually declined as developing economies grew rapidly, the opposite of what this option claims. (B), (C), and (D) are all effects the reading directly describes."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

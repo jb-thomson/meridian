@@ -298,6 +298,96 @@
       "modelAnswer": "Reform movements achieved significant formal successes, legal segregation was dismantled in the US; apartheid ended in South Africa; women gained voting rights globally; the UN codified universal human rights. These were not trivial achievements; they represented genuine transformation of formal legal and political systems that had maintained racial and gender hierarchy for centuries. However, the limits were equally significant. Racial discrimination persisted in forms that laws couldn't easily reach, economic inequality, implicit bias, residential segregation. Gender gaps in pay, power, and security remained substantial. Caste discrimination in India proved resilient despite reservation policies. Religious discrimination and violence continued in many parts of the world. The pattern is consistent: rights-based movements could change laws more effectively than they could change social attitudes, economic structures, or the historical legacies of discrimination. The 20th century saw extraordinary change in formal rights and legal frameworks, while deeper social and economic equality remained unfinished business."
     }
   ],
+  "comprehensionCheck": [
+    {
+      "question": "According to the reading, why was the UN Universal Declaration of Human Rights (1948) significant, even though governments frequently violated its principles?",
+      "options": [
+        "It set up a permanent international police force with authority to arrest leaders who broke its rules",
+        "It gave activists worldwide a shared moral and legal framework they could use to hold governments accountable",
+        "It automatically overturned any national law anywhere in the world that conflicted with its provisions",
+        "It required every country that signed it to adopt a single identical system of government by law"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading explains that the Declaration provided a powerful moral and legal framework that reform movements worldwide could use to hold governments accountable, even when it had no direct enforcement power. (A), (C), and (D) are not supported by the reading."
+    },
+    {
+      "question": "What does the reading's list of women's suffrage dates, from the United States (1920) to Morocco (1963), mainly demonstrate?",
+      "options": [
+        "That suffrage always followed one fixed path, full democracy achieved first, voting rights for women granted second",
+        "That women's political inclusion expanded across the century in nations with very different political systems and traditions",
+        "That every single nation on the list gained suffrage through the exact same kind of independence movement",
+        "That women's suffrage remained limited almost entirely to wealthy Western democracies until the late 20th century"
+      ],
+      "correctIndex": 1,
+      "explanation": "The list spans North America, South America, the Middle East, East Asia, South Asia, and North Africa, showing that women's suffrage spread across diverse political systems and cultural traditions. (A), (C), and (D) are contradicted by the examples themselves."
+    },
+    {
+      "question": "How did the Negritude movement challenge the racial hierarchy that had justified colonialism?",
+      "options": [
+        "It celebrated African cultural identity and heritage as something valuable in itself, refuting the idea that African culture was inferior",
+        "It organized armed resistance movements that targeted European colonial armies across the African continent",
+        "It petitioned the League of Nations directly, demanding an end to every European colonial holding by a set deadline",
+        "It called on African nations to adopt European languages and customs in order to gain international respect and legitimacy"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reading explains that Negritude writers celebrated African identity and heritage as intrinsically valuable, directly refuting the racial hierarchy that had justified colonialism and slavery. (B), (C), and (D) are not supported by the reading."
+    },
+    {
+      "question": "According to the reading, what combination of factors led to the end of apartheid in South Africa?",
+      "options": [
+        "A sudden shift in South African public opinion that occurred without any outside international pressure at all",
+        "A binding UN Security Council resolution that directly forced the South African government to hold new elections",
+        "Decades of international pressure and internal resistance, culminating in Mandela's release and election as president in 1994",
+        "An unexpected economic boom that made maintaining racial segregation too costly for South African businesses to bear"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading describes decades of international pressure, internal resistance, and Mandela's imprisonment and eventual release as the path to South Africa's first democratic elections in 1994. (A), (B), and (D) are not supported by the reading."
+    },
+    {
+      "question": "What was the purpose of caste reservation policies in India, as described in the reading?",
+      "options": [
+        "To relocate members of lower castes into newly built cities that were kept separate from higher caste populations",
+        "To ban any public discussion of caste identity in Indian schools, media, and political life altogether",
+        "To replace the entire caste system with a new system organized strictly around personal wealth alone",
+        "To set aside seats in universities, government jobs, and legislatures for historically discriminated against castes"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading explains that caste reservation, championed by B.R. Ambedkar, set aside seats in education, government jobs, and legislatures for Scheduled Castes and Other Backward Classes to redress centuries of discrimination. (A), (B), and (D) are not supported by the reading."
+    },
+    {
+      "question": "What was the goal of the World Fair Trade Organization, according to the reading?",
+      "options": [
+        "To eliminate international trade in agricultural products grown by small independent farmers worldwide",
+        "To provide direct loans to national governments in exchange for adopting free market reforms",
+        "To replace the World Trade Organization entirely as the main body governing global tariffs",
+        "To ensure producers in developing countries received fair prices, safe conditions, and direct trade relationships"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading describes fair trade as an effort to ensure producers in developing countries received fair prices, safe conditions, and direct trade relationships without exploitative middlemen. (A), (B), and (C) are not supported by the reading."
+    },
+    {
+      "question": "How did Wangari Maathai's Green Belt Movement connect environmental protection to other social issues, according to the reading?",
+      "options": [
+        "It focused solely on planting trees and deliberately steered clear of any political or social issues",
+        "It worked exclusively with the Kenyan government rather than directly with any ordinary rural citizens",
+        "It recruited rural women to plant trees, linking environmental restoration to their own education and civic voice",
+        "It argued that environmental protection should always come before any other concern for human welfare"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explains that the movement grew from tree planting into a broader platform connecting environmental sustainability to women's rights, education, and civic and political engagement. (A), (B), and (D) are not supported by the reading."
+    },
+    {
+      "question": "Which of the following is NOT something the reading says about women's political inclusion in the 20th century?",
+      "options": [
+        "Female literacy rates and higher education enrollment for women rose across most parts of the world",
+        "Women eventually served as heads of government in countries such as Germany, New Zealand, and Chile",
+        "Once women gained the right to vote, gender gaps in political power and economic opportunity disappeared entirely",
+        "Voting rights for women spread to countries with very different political systems across the century"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reading explicitly says that significant gender gaps in political representation and economic opportunity persisted globally even as formal rights expanded. (A), (B), and (D) are all points the reading makes directly."
+    }
+  ],
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],

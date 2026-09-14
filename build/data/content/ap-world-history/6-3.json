@@ -320,5 +320,84 @@
   "images": [],
   "illustrativeExamples": [],
   "notebookLmResources": [],
-  "teacherNotes": ""
+  "teacherNotes": "",
+  "comprehensionCheck": [
+    {
+      "question": "What three categories of indigenous response to colonial expansion does the reading identify?",
+      "options": [
+        "Diplomatic negotiation, cultural preservation, and full political accommodation with colonial rulers",
+        "Direct armed resistance, creating new states on the periphery, and religious or spiritual movements",
+        "Economic boycotts, formal legal appeals, and organized international protest campaigns",
+        "Mass emigration, underground education networks, and secret alliances with rival colonial powers"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reading organizes indigenous responses into three overlapping categories: direct armed resistance (like the 1857 Rebellion and Samory Toure), new states built on the periphery (like the Sokoto Caliphate and Zulu Kingdom), and religious or spiritual movements (like the Ghost Dance and Mahdist War). The reading does mention other responses like diplomacy and cultural preservation in passing, but not as the three main organizing categories, and options C and D describe strategies the reading never discusses."
+    },
+    {
+      "question": "What happened after the Zulu victory at the Battle of Isandlwana in 1879?",
+      "options": [
+        "The Zulu were defeated so badly that Britain annexed Zululand within a single week afterward",
+        "The battle ended the war entirely, since Britain withdrew all forces from southern Africa afterward",
+        "The Zulu won this battle, but Britain sent reinforcements and conquered Zululand later that year",
+        "Neither side won the battle, and both armies retreated to negotiate a lasting peace treaty"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Zulu won at Isandlwana, but the shock of the defeat led Britain to send 10,000 reinforcements, and Zululand was conquered by August of the same year. This shows how a single battlefield victory could not overcome the long-term advantage of an industrial empire. Option A reverses who won the battle. Option B is wrong since the war continued and Britain did not withdraw. Option D is wrong because the battle had a clear winner and the war did not end in negotiation."
+    },
+    {
+      "question": "What was the Ghost Dance movement, and how did it end?",
+      "options": [
+        "A spiritual movement promising restoration of indigenous life, ended violently at Wounded Knee",
+        "A military alliance among Plains nations that won several battles against the U.S. Army",
+        "A treaty movement in which tribal leaders negotiated new reservation boundaries with Washington",
+        "An economic boycott of American goods organized by Plains Indian trading communities"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Ghost Dance was a spiritual movement, based on Wovoka's teachings, that promised performing the ritual would restore indigenous life and make settlers disappear, and it ended in the massacre at Wounded Knee in 1890. It was not a military alliance that won battles (option B), a treaty negotiation (option C), or an economic boycott (option D), the reading describes it as a religious response after military and political options were exhausted."
+    },
+    {
+      "question": "What was the outcome of the Xhosa Cattle-Killing Movement (1856-57)?",
+      "options": [
+        "It successfully drove British settlers out of Xhosa territory within a single year",
+        "It restored Xhosa cattle herds after years of disease had devastated their population",
+        "It had no lasting effect, since most Xhosa communities ignored the prophecy entirely",
+        "It caused mass starvation, and the Xhosa lost the ability to resist colonial pressure afterward"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thousands of Xhosa followed the prophecy that killing their cattle and destroying crops would restore their land, but the result was catastrophic starvation, roughly 40,000 deaths, and the collapse of Xhosa capacity for further resistance. Option A is the opposite of what happened. Option B misdescribes the outcome, cattle were killed, not restored. Option C is wrong because the reading describes the movement as widespread, not ignored."
+    },
+    {
+      "question": "What does the outcome of the Cherokee Nation's strategy reveal about the civilizing mission?",
+      "options": [
+        "It proved that adopting European institutions reliably protected indigenous nations from removal",
+        "It showed that the civilizing mission did not actually protect peoples who adopted European practices",
+        "It convinced the U.S. government to grant the Cherokee Nation permanent, formal statehood",
+        "It led directly to a peace treaty that guaranteed the Cherokee could keep their ancestral land"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Cherokee adopted a constitution, schools, and newspapers specifically hoping that demonstrating \"civilized\" status would protect them, but they were forcibly removed on the Trail of Tears anyway, showing that adopting European institutions did not actually earn the protection the civilizing mission ideology claimed to offer. Options A, C, and D all describe protections or outcomes the reading directly contradicts."
+    },
+    {
+      "question": "What does the outcome of the Battle of Omdurman (1898) best demonstrate?",
+      "options": [
+        "It showed how industrial weapons like the Maxim gun created a decisive gap favoring colonial forces",
+        "It proved that Mahdist forces lacked the discipline and organization needed to resist British troops",
+        "It marked the first and only military victory Sudan achieved against British-Egyptian forces",
+        "It ended with a negotiated settlement that left the Mahdist state independent within Sudan"
+      ],
+      "correctIndex": 0,
+      "explanation": "The lopsided casualties at Omdurman, roughly 11,000 Mahdist deaths against 48 British deaths, reflect the overwhelming advantage of industrial weapons like the Maxim gun, not a difference in courage or organization. Option B wrongly blames Mahdist discipline, when the Mahdist state had successfully resisted for 17 years before this battle. Option C ignores the Mahdist state's earlier successes, including killing General Gordon in 1885. Option D is wrong because the battle ended the Mahdist state, not a negotiated independence."
+    },
+    {
+      "question": "Which of the following is NOT an example of a new state built to resist colonial expansion, according to the reading?",
+      "options": [
+        "The Sokoto Caliphate, which unified Hausa city-states under an Islamic government structure",
+        "The Zulu Kingdom, which absorbed neighboring peoples through conquest and military alliance",
+        "The Cherokee Nation, which adopted a written constitution and formal governing institutions",
+        "The Yaa Asantewaa War, in which the Asante fought British forces over the sacred Golden Stool"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Yaa Asantewaa War was an act of direct armed resistance by an already-existing kingdom, not the creation of a new political state, so it belongs in a different category than the other three examples. The Sokoto Caliphate, Zulu Kingdom, and Cherokee Nation are each examples the reading gives of communities building or strengthening political structures specifically to resist colonial pressure."
+    }
+  ]
 }
