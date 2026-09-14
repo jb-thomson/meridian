@@ -367,7 +367,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "According to the reading, what does it reveal that all three trade networks used relay trading?",
+      "question": "What does it reveal that all three trade networks used relay trading?",
       "options": [
         "That relay trading was required only because of the difficulty of crossing deserts specifically",
         "That government regulations in Central Asia forced merchants to hand off goods at set stops",
@@ -378,7 +378,7 @@
       "explanation": "The reading uses the fact that the Indian Ocean network also relied on relay trading, even though ships could travel farther than caravans, to argue that relay trading reflects the structure of long distance trade itself, not the specific challenge of any one terrain. It does not mention government regulation forcing handoffs, and it frames relay trading as an efficient system, not a sign of distrust between merchants."
     },
     {
-      "question": "What common factor, according to the reading, helps explain why Islam spread along all three trade networks?",
+      "question": "What common factor helps explain why Islam spread along all three trade networks?",
       "options": [
         "Muslim merchants shared a legal and commercial framework that made deals between strangers reliable",
         "Colonial governments newly established in each region required merchants passing through to convert",
@@ -389,7 +389,7 @@
       "explanation": "The reading credits Islamic law, the hawala credit system, and a shared commercial language as giving Muslim merchants a practical advantage that spread the faith through commerce rather than force. There were no colonial governments involved in this period, other religions clearly existed alongside Islam along these routes, and the reading is explicit that this spread was peaceful, not backed by military campaigns."
     },
     {
-      "question": "Why was the Silk Roads more dependent on political stability than the Indian Ocean network, according to the reading?",
+      "question": "Why was the Silk Roads more dependent on political stability than the Indian Ocean network?",
       "options": [
         "The Indian Ocean supposedly had no political rulers involved in trade at any point in time",
         "The Silk Roads were governed continuously by a single, unbroken empire throughout this entire period",
@@ -400,7 +400,7 @@
       "explanation": "The reading explains that a merchant caravan could not reroute around a hostile Central Asian territory the way a ship could sail past a hostile port, which is why the Silk Roads flourished under the Pax Mongolica and struggled once Mongol unity collapsed. Port cities like Kilwa and Malacca were very much involved in politics, the Silk Roads passed through many different powers rather than one continuous empire, and the Indian Ocean was actually the larger network of the two."
     },
     {
-      "question": "According to the reading, why was maritime trade generally cheaper per unit of cargo than overland trade?",
+      "question": "Why was maritime trade generally cheaper per unit of cargo than overland trade?",
       "options": [
         "Sailors were reportedly paid far less overall than the drivers who managed camel caravans",
         "A single ship could carry far more cargo per trip than a whole caravan of camels",
@@ -411,7 +411,7 @@
       "explanation": "The reading points out that a large Chinese junk could carry hundreds of tons of cargo while even a large caravan of a thousand camels could not match that capacity, making the cost per unit of cargo much lower by sea. It never compares sailor and driver wages, ships did pay port fees as described elsewhere in the unit, and staffing needs are not given as the reason for the cost difference."
     },
     {
-      "question": "According to the reading, how did the trans-Saharan network's control structure differ from the Indian Ocean's?",
+      "question": "How did the trans-Saharan network's control structure differ from the Indian Ocean's?",
       "options": [
         "Trans-Saharan trade supposedly had no political rulers ever involved in taxing or protecting it",
         "The Indian Ocean was controlled by a single unified empire that taxed all trade passing through it",
@@ -422,7 +422,7 @@
       "explanation": "The reading contrasts Mali's toll road model, taxing caravans at both ends without producing gold or salt itself, with the Indian Ocean's more decentralized structure of competing port cities like Kilwa, Calicut, and Malacca. Trans-Saharan trade clearly had political rulers involved, the Indian Ocean was not run by one single empire, and the two networks were governed by entirely different ruling families."
     },
     {
-      "question": "According to the reading, which of the following was NOT identified as a similarity shared by all three trade networks?",
+      "question": "Which of the following was NOT identified as a similarity shared by all three trade networks?",
       "options": [
         "All three relied on relay trading rather than a single merchant carrying goods the whole way",
         "All three networks spread Islam through peaceful contact with merchants rather than conquest",
@@ -433,7 +433,7 @@
       "explanation": "The reading names relay trading, the peaceful spread of Islam, and lasting diasporic communities as genuine similarities across all three networks. A single unified government enforcing trade law everywhere is not one of these similarities, and it directly contradicts the reading's point that the networks had very different and often decentralized control structures."
     },
     {
-      "question": "According to the reading, what separates a strong comparison from a weak one on the AP exam?",
+      "question": "What separates a strong comparison from a weak one on the AP exam?",
       "options": [
         "A strong comparison explains why a similarity or difference exists and what it reveals",
         "A strong comparison simply relies on more advanced or technical vocabulary than a weak one does",

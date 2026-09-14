@@ -312,7 +312,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "What is the difference between a push factor and a pull factor in migration, according to the reading?",
+      "question": "What is the difference between a push factor and a pull factor in migration?",
       "options": [
         "Push factors drive people away from home, like famine, while pull factors attract them, like jobs or land",
         "Push factors describe voluntary migration, while pull factors describe migration forced by a government",
@@ -334,7 +334,7 @@
       "explanation": "The reading explains that a potato blight caused the famine, but British landlords continued exporting food and the government refused adequate relief, making a natural disaster into a catastrophe. (A), (C), and (D) all contradict details the reading gives."
     },
     {
-      "question": "According to the reading, what effect did steam-powered transportation have on migration patterns?",
+      "question": "What effect did steam-powered transportation have on migration patterns?",
       "options": [
         "It made migration slower and more expensive, discouraging most working-class people from moving at all",
         "It made only permanent, one-way emigration possible, eliminating any chance of migrants ever returning",
@@ -367,7 +367,7 @@
       "explanation": "The reading explains that new transportation drew both internal and international migrants into cities, contributing to the significant global urbanization of the 19th century, citing London's and Chicago's rapid growth. (B), (C), and (D) all contradict the reading's evidence."
     },
     {
-      "question": "According to the reading, how were Chinese laborers on the U.S. transcontinental railroad treated compared to white workers?",
+      "question": "How were Chinese laborers on the U.S. transcontinental railroad treated compared to white workers?",
       "options": [
         "Chinese workers were paid wages equal to white workers and received the same land grants and benefits",
         "Chinese workers were paid roughly two-thirds of white workers' wages and assigned the most dangerous tasks",

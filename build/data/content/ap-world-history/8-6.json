@@ -291,7 +291,7 @@
   "teacherNotes": "",
   "comprehensionCheck": [
     {
-      "question": "According to the reading, what series of events led to the creation of the state of Israel in 1948?",
+      "question": "What series of events led to the creation of the state of Israel in 1948?",
       "options": [
         "The United Nations proposed partitioning Palestine between Jewish and Arab states, and the Zionist leadership accepted the plan and declared statehood",
         "The Ottoman Empire granted Palestine full independence as a Jewish state immediately after World War I ended",
@@ -313,7 +313,7 @@
       "explanation": "The reading describes Cyril Radcliffe being given just five weeks, using inadequate and outdated maps, and never having visited South Asia before, which produced a line that cut through villages, farmland, canals, and railways. A decade-long survey, a year of village tours, and a clean border following natural features all contradict what the reading describes."
     },
     {
-      "question": "According to the reading, what was Julius Nyerere's ujamaa policy trying to accomplish in Tanzania?",
+      "question": "What was Julius Nyerere's ujamaa policy trying to accomplish in Tanzania?",
       "options": [
         "A purely capitalist model that removed all government involvement from Tanzania's economy and industry",
         "An exact copy of the Soviet Union's central planning system, adopted without modification for African conditions",
@@ -324,7 +324,7 @@
       "explanation": "The reading describes ujamaa as African socialism built around collective village farming, state-owned industry, and self-reliance, an attempt at a distinctly African development path rather than copying either superpower's model. A purely capitalist system, an unmodified Soviet copy, and a merger with Kenya's economy are not what the reading describes."
     },
     {
-      "question": "Which of the following best describes Indira Gandhi's economic approach as India's prime minister, according to the reading?",
+      "question": "Which of the following best describes Indira Gandhi's economic approach as India's prime minister?",
       "options": [
         "She fully privatized India's banking sector while ending all forms of government economic planning",
         "She refused to nationalize any industry, relying entirely on private investment for India's development",
@@ -335,7 +335,7 @@
       "explanation": "The reading describes Gandhi nationalizing 14 major banks, investing heavily in state-directed industry, and overseeing the Green Revolution's high-yield crop varieties. It does not describe full privatization, a refusal to nationalize anything, or the elimination of tariffs."
     },
     {
-      "question": "According to the reading, what mainly explains why South Asians migrated to Britain, Algerians to France, and Filipinos to the United States after independence?",
+      "question": "What mainly explains why South Asians migrated to Britain, Algerians to France, and Filipinos to the United States after independence?",
       "options": [
         "Colonial rule had created shared languages, familiar institutions, and established travel routes that shaped where migrants went afterward",
         "The United Nations assigned each newly independent nation a specific wealthy country to send migrant workers to",
@@ -368,10 +368,10 @@
       "explanation": "The reading notes that Bandaranaike became the world's first female prime minister in 1960, which it treats as historically significant beyond her nationalization and welfare policies. It does not describe her negotiating independence through a unique arrangement, rejecting all government economic involvement, or forming a Soviet military alliance."
     },
     {
-      "question": "According to the reading, how did remittances sent home by Filipino migrants in the United States affect the Philippine economy?",
+      "question": "How did remittances sent home by Filipino migrants in the United States affect the Philippine economy?",
       "options": [
         "They had almost no measurable effect on the Philippine economy compared to other sources of national income",
-        "They represent one of the most significant sources of income for the Philippine economy, according to the reading",
+        "They represent one of the most significant sources of income for the Philippine economy",
         "They were required by Philippine law to be converted immediately into US dollars and held in reserve",
         "They mainly funded the construction of new colonial-style government buildings across the Philippines"
       ],

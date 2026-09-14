@@ -301,7 +301,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "According to the reading, how did new communication technology change life in the 20th century?",
+      "question": "How did new communication technology change life in the 20th century?",
       "options": [
         "Radio, cellular phones, and the internet connected billions of people across formerly vast distances",
         "Communication technology after 1900 remained largely unchanged until the invention of the telephone",
@@ -312,7 +312,7 @@
       "explanation": "The reading explains that radio, cellular phones, and the internet reduced the problem of geographic distance, connecting billions of people worldwide. (B), (C), and (D) all contradict what the reading describes."
     },
     {
-      "question": "Why was the standardization of shipping containers significant, according to the reading?",
+      "question": "Why was the standardization of shipping containers significant?",
       "options": [
         "It was designed primarily to help governments track and tax goods crossing international borders",
         "It reduced shipping costs and enabled the global manufacturing supply chains of today's economy",
@@ -323,7 +323,7 @@
       "explanation": "The reading explains that standardized containers slashed loading and shipping costs, enabling the global manufacturing supply chains that define the modern economy. (A), (C), and (D) all contradict the reading."
     },
     {
-      "question": "What did the Green Revolution accomplish, according to the reading?",
+      "question": "What did the Green Revolution accomplish?",
       "options": [
         "It reduced the total number of crop varieties grown worldwide while cutting overall food production",
         "It eliminated the need for any pesticides or synthetic fertilizers in modern commercial farming",
@@ -334,7 +334,7 @@
       "explanation": "The reading credits the Green Revolution with multiplying crop yields through high-yield seeds, fertilizers, and irrigation, helping feed a global population that grew past 8 billion. (A), (B), and (D) all contradict the reading."
     },
     {
-      "question": "What effect did vaccines and antibiotics have on human life expectancy, according to the reading?",
+      "question": "What effect did vaccines and antibiotics have on human life expectancy?",
       "options": [
         "Vaccines eliminated the need for antibiotics, since bacterial infections became extremely rare after 1950",
         "Medical advances after 1900 mainly benefited industrialized nations and had no global effect at all",
@@ -345,7 +345,7 @@
       "explanation": "The reading states that vaccines and antibiotics dramatically reduced mortality from infectious disease, helping global life expectancy roughly double, from about 31 years in 1900 to over 73 by 2020. (A), (B), and (C) all contradict the reading."
     },
     {
-      "question": "According to the reading, what was one major effect of more effective birth control in the 20th century?",
+      "question": "What was one major effect of more effective birth control in the 20th century?",
       "options": [
         "Birth control gave women greater control over fertility, contributing to declining rates worldwide",
         "Birth control eliminated all forms of gender inequality within a single generation after its introduction",
@@ -367,7 +367,7 @@
       "explanation": "The reading explains that nuclear technology split into two streams: nuclear power raised productivity by generating electricity, while nuclear weapons created the threat of civilization-ending destruction. (A), (C), and (D) all contradict the reading."
     },
     {
-      "question": "According to the reading's example, how did undersea communication infrastructure change between 1956 and today?",
+      "question": "How did undersea communication infrastructure change between 1956 and today?",
       "options": [
         "Fiber-optic cables now carry a small fraction of the data that early transatlantic telephone cables carried",
         "The infrastructure connecting the world expanded enormously, from 36 calls to terabits of data per second",

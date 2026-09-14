@@ -328,7 +328,7 @@
   "teacherNotes": "",
   "comprehensionCheck": [
     {
-      "question": "According to the reading, what mainly drove the development of export economies in the 19th century?",
+      "question": "What mainly drove the development of export economies in the 19th century?",
       "options": [
         "A shortage of skilled labor in Europe that forced factories to recruit workers from other continents",
         "New banking regulations in Britain that encouraged investors to fund overseas mining ventures",
@@ -339,7 +339,7 @@
       "explanation": "KC-5.1.II.A identifies industrial factories' need for raw materials, along with the food needs of growing urban populations, as the driver of export economies around the world. Options A, B, and D each describe a cause the reading never mentions, a labor shortage, banking rules, or a cold spell, none of which appear anywhere in the text."
     },
     {
-      "question": "What happened to India's textile industry as a result of colonial economic policy, according to the reading?",
+      "question": "What happened to India's textile industry as a result of colonial economic policy?",
       "options": [
         "Cheaper British machine-made cloth and the loss of tariff protection turned India into a raw cotton supplier",
         "Indian weavers voluntarily abandoned textile work because farming raw cotton paid much better wages",
@@ -350,7 +350,7 @@
       "explanation": "The reading describes India's deindustrialization: British machine-made cloth undercut Indian handloom weavers, and colonial policy removed the tariff protection that had sheltered them, converting India from a textile exporter into a raw cotton supplier. Options B and D wrongly frame this as a voluntary or profitable choice for weavers. Option C is the opposite of what happened, the Company promoted British textiles, not Indian ones."
     },
     {
-      "question": "What brought the Amazon rubber boom to an end, according to the reading?",
+      "question": "What brought the Amazon rubber boom to an end?",
       "options": [
         "Amazon rubber trees were wiped out by a plant disease that spread through the entire river basin",
         "Henry Wickham smuggled rubber seeds to London, enabling cheaper plantations in British Malaya",
@@ -361,7 +361,7 @@
       "explanation": "The reading explains that Henry Wickham smuggled rubber tree seeds out of Brazil to Kew Gardens, which enabled efficient rubber plantations in British Malaya that outcompeted Amazon wild rubber. A plant disease (option A), a government export ban (option C), and a shift to synthetic rubber (option D) are not mentioned anywhere in the reading as reasons for the boom's collapse."
     },
     {
-      "question": "What ultimately happened to Peru's economy after its guano export boom, according to the reading?",
+      "question": "What ultimately happened to Peru's economy after its guano export boom?",
       "options": [
         "Guano was a synthetic fertilizer invented by German chemists and later sold to Peruvian farmers",
         "Guano exports kept growing steadily, and Peru's economy remained strong right through the 1900s",
@@ -372,7 +372,7 @@
       "explanation": "The reading describes a classic boom-bust cycle: Peru earned over $2 billion from guano but failed to industrialize or diversify, so when the deposits were exhausted the economy collapsed. Guano is a natural fertilizer from seabird droppings, not a synthetic invention (option A), and options B and C both contradict the reading's description of Peru's eventual collapse and war with Chile."
     },
     {
-      "question": "How did the Congo Free State enforce its rubber production quotas, according to the reading?",
+      "question": "How did the Congo Free State enforce its rubber production quotas?",
       "options": [
         "Leopold's regime enforced rubber quotas with hostage-taking and mutilation, killing millions of people",
         "Congolese workers negotiated fair wages for rubber collection through organized labor unions",
@@ -383,7 +383,7 @@
       "explanation": "The reading describes systematic terror, village hostage-taking and the severing of hands as punishment for failing to meet rubber quotas, a regime that killed an estimated 10 million people. Options B and C describe voluntary, fairly compensated labor, the opposite of what the reading says happened. Option D misattributes control of the rubber economy to missionaries rather than to Leopold's personal administration."
     },
     {
-      "question": "According to the reading, why is monoculture agriculture environmentally risky?",
+      "question": "Why is monoculture agriculture environmentally risky?",
       "options": [
         "Monoculture increases biodiversity by concentrating farming on the single most productive local crop",
         "Monoculture makes soil more fertile over time because the same crop replenishes the same nutrients",

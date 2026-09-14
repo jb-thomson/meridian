@@ -97,7 +97,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "According to the reading, what common structural pattern do all the major 20th century genocides share?",
+      "question": "What common structural pattern do all the major 20th century genocides share?",
       "options": [
         "They all occurred in Europe during major wars, since genocide requires the chaos and cover that only wartime conditions can provide",
         "An extremist group gains control of a state, builds a dehumanizing ideology, and uses state infrastructure to organize systematic killing",
@@ -108,7 +108,7 @@
       "explanation": "The reading describes a shared structure across all five required examples: an extremist group takes state power, builds an ideology defining a target group as an enemy, and uses state infrastructure to organize killing. The other options each contradict details in the reading: several of these atrocities occurred outside Europe, required organized state action rather than mob violence, and were never officially labeled genocide by the governments that carried them out."
     },
     {
-      "question": "What triggered the Ottoman government's campaign against Armenians beginning in 1915, according to the reading?",
+      "question": "What triggered the Ottoman government's campaign against Armenians beginning in 1915?",
       "options": [
         "An Armenian rebellion that had already seized control of several major Ottoman cities before the war began",
         "A formal declaration of war that the independent nation of Armenia issued against the Ottoman Empire",
@@ -119,7 +119,7 @@
       "explanation": "The reading explains that the Young Turk government viewed Armenians, who lived close to the Russian border and had some leaders sympathetic to Russia, as a security threat, and used this as a pretext for extermination. The other options describe events the reading does not mention."
     },
     {
-      "question": "What makes the Holodomor a debated case among historians, according to the reading?",
+      "question": "What makes the Holodomor a debated case among historians?",
       "options": [
         "Whether Soviet policies specifically intended to destroy Ukrainians as a group, not just a broader economic class",
         "Whether the famine actually killed any meaningful number of Ukrainian citizens across the countryside during those years",
@@ -130,7 +130,7 @@
       "explanation": "The reading states that whether the Holodomor counts as genocide, requiring specific intent to destroy Ukrainians as a group, is debated, with some historians instead classifying it as a crime against humanity or politicide against \"kulaks.\" The other options are not the debate the reading describes."
     },
     {
-      "question": "What made the Holocaust's method of killing different from the Armenian Genocide's, according to the reading?",
+      "question": "What made the Holocaust's method of killing different from the Armenian Genocide's?",
       "options": [
         "The Holocaust targeted only adult men of military age, while the Armenian Genocide targeted entire families regardless of age",
         "The Holocaust took place entirely before any formal declaration of war had even been made, unlike the Armenian Genocide",
@@ -141,7 +141,7 @@
       "explanation": "The reading directly contrasts the two: the Armenian Genocide used shooting, death marches, and starvation, while the Holocaust applied industrial methods, railway transport, bureaucratic organization, and gas chambers, to kill on a much larger and faster scale. The other options are not supported by the reading."
     },
     {
-      "question": "In addition to people connected to the former government, what other groups did the Khmer Rouge specifically target, according to the reading?",
+      "question": "In addition to people connected to the former government, what other groups did the Khmer Rouge specifically target?",
       "options": [
         "Only members of the Cambodian royal family and the household staff who served them directly",
         "Educated people, along with ethnic minorities such as Vietnamese, Chinese, and Muslim Cham communities",
@@ -152,7 +152,7 @@
       "explanation": "The reading states the Khmer Rouge targeted the educated class, anyone wearing glasses was suspect, along with ethnic Vietnamese, Chinese, and Muslim Cham minorities specifically for ethnic destruction. The other options each name only one narrow group, not the full range described."
     },
     {
-      "question": "Why did the UN peacekeeping force in Rwanda fail to stop the 1994 genocide, according to the reading?",
+      "question": "Why did the UN peacekeeping force in Rwanda fail to stop the 1994 genocide?",
       "options": [
         "The Rwandan government formally refused to allow any United Nations peacekeepers into the country at all",
         "The peacekeepers on the ground were vastly outnumbered by attacking forces by roughly a hundred to one",
@@ -163,7 +163,7 @@
       "explanation": "The reading states that UNAMIR had roughly 2,500 peacekeepers present but under orders not to use force except in self-defense, and that Commander Dallaire's detailed warnings and requests for authority to act were denied. The other options are not supported by the reading."
     },
     {
-      "question": "What was the significance of the Nuremberg Trials, according to the reading?",
+      "question": "What was the significance of the Nuremberg Trials?",
       "options": [
         "They established that individuals can be held criminally responsible for crimes against humanity even when following orders",
         "They resulted in the complete and permanent political dissolution of the German state as a nation",
@@ -174,7 +174,7 @@
       "explanation": "The reading states the Nuremberg Trials established the principle that individuals can be prosecuted for crimes against humanity regardless of state authority, and that following orders is not a defense. The other options are not claims the reading makes, and the claim about ending mass violence is directly contradicted by the later atrocities in Cambodia and Rwanda."
     },
     {
-      "question": "According to the reading, which of the following is NOT true about the \"Never Again\" promise made after the Holocaust?",
+      "question": "Which of the following is NOT true about the \"Never Again\" promise made after the Holocaust?",
       "options": [
         "It led to new legal frameworks such as the Genocide Convention and the International Criminal Court",
         "It has been repeatedly tested and broken by later atrocities such as Rwanda and Srebrenica",

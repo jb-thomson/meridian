@@ -456,7 +456,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "Why could Indian Ocean sailors plan reliable round trip voyages, according to the reading?",
+      "question": "Why could Indian Ocean sailors plan reliable round trip voyages?",
       "options": [
         "The Indian Ocean had far fewer pirates operating along its shipping lanes than the Atlantic or Pacific",
         "Ships built specifically for the Indian Ocean were somehow immune to damage from tropical storms",
@@ -467,7 +467,7 @@
       "explanation": "The monsoon winds blow southwest from roughly April to September and reverse to blow northeast from October to March, giving sailors a built in shipping schedule they could plan around. The reading never claims the Indian Ocean was unusually free of pirates or storms, and it credits the wind pattern, not preexisting maps, for making round trips reliable."
     },
     {
-      "question": "What did the compass and the astrolabe together provide Indian Ocean sailors, according to the reading?",
+      "question": "What did the compass and the astrolabe together provide Indian Ocean sailors?",
       "options": [
         "Both a sense of direction and a way to determine their position at sea, like GPS without electronics",
         "A way to communicate instantly with sailors sailing on other ships far across the open ocean lanes",
@@ -478,7 +478,7 @@
       "explanation": "The compass gave sailors direction even without visible stars, and the astrolabe let them calculate latitude, so together they gave sailors both direction and position, described in the reading as GPS without electronics. Neither instrument offered communication, protection from pirates, or extra speed."
     },
     {
-      "question": "Why did the Sultanate of Malacca become so wealthy, according to the reading?",
+      "question": "Why did the Sultanate of Malacca become so wealthy?",
       "options": [
         "It produced enormous quantities of spices that were sold throughout the surrounding maritime region",
         "It received large yearly tribute payments sent directly from the Ming emperor's court in China",
@@ -489,7 +489,7 @@
       "explanation": "Malacca sat on the strait between the Malay Peninsula and Sumatra, and every ship sailing between the Indian Ocean and the South China Sea had to pass through it, letting Malacca's sultans collect tolls and taxes. The reading never says Malacca produced spices itself, received Chinese tribute, or conquered rival ports."
     },
     {
-      "question": "What best describes the Swahili Coast city states, according to the reading?",
+      "question": "What best describes the Swahili Coast city states?",
       "options": [
         "Independent kingdoms that had no significant trade contact with Arab or Persian merchants",
         "City states such as Kilwa and Mombasa that grew wealthy as middlemen for Africa's interior",
@@ -500,7 +500,7 @@
       "explanation": "Swahili Coast cities like Kilwa, Mombasa, and Sofala grew wealthy by buying gold, ivory, and enslaved people from Africa's interior and selling them to Arab and Persian merchants arriving by ship. They had deep contact with Arab traders, were not founded by Zheng He, and porcelain was a Chinese export, not something these cities produced."
     },
     {
-      "question": "According to the reading, why did Zheng He's voyages end in 1433?",
+      "question": "Why did Zheng He's voyages end in 1433?",
       "options": [
         "His fleet was destroyed in a storm while sailing back from its seventh and final voyage",
         "Foreign rulers stopped sending tribute, making further voyages financially pointless to continue",
@@ -511,7 +511,7 @@
       "explanation": "A new Ming emperor saw the expeditions as wasteful and un-Confucian, worried the fleet's cost was better spent defending the northern frontier, and distrusted the court faction associated with Zheng He, so the voyages were deliberately ended and the fleet dismantled. The reading does not describe a fleet destroyed at sea, a tribute shortfall, or Zheng He's death as the cause."
     },
     {
-      "question": "What is a diasporic community, according to the reading?",
+      "question": "What is a diasporic community?",
       "options": [
         "A population that settles permanently in a foreign land while keeping ties to its culture of origin",
         "A temporary group of merchants who pass briefly through a single port during one trading season",
@@ -533,7 +533,7 @@
       "explanation": "The reading names three diasporic communities from this period: Arab and Persian merchants in East Africa, Chinese merchants across Southeast Asia, and Malay sailors reaching as far as Madagascar. Portuguese merchants do not appear anywhere in the reading's account of these trade networks before 1450."
     },
     {
-      "question": "What does the Malagasy language spoken in Madagascar show, according to the reading?",
+      "question": "What does the Malagasy language spoken in Madagascar show?",
       "options": [
         "That Madagascar's first settlers arrived directly from China during Zheng He's treasure voyages",
         "That Malay sailors had reached and settled Madagascar long before 1200, connecting it to Borneo",

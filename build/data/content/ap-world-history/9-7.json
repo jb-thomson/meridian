@@ -291,7 +291,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "According to the reading, which of the following best describes the variety of responses to globalization?",
+      "question": "Which of the following best describes the variety of responses to globalization?",
       "options": [
         "Responses took a variety of forms: activism against global institutions and locally built alternative platforms",
         "Most responses were violent street protests aimed specifically at international financial institutions and their leaders",
@@ -313,7 +313,7 @@
       "explanation": "Anti-IMF/World Bank activism centered on the critique that structural adjustment conditions, cutting social programs, privatizing services, opening markets, harmed the poor while benefiting foreign investors. (A) describes a different, later crisis. (C) and (D) are not supported by the reading."
     },
     {
-      "question": "What does China's development of Weibo as an alternative to Twitter illustrate, according to the reading?",
+      "question": "What does China's development of Weibo as an alternative to Twitter illustrate?",
       "options": [
         "It shows free-market competition naturally producing superior products compared to any Western alternative",
         "It shows the spread of genuinely democratic communication platforms specifically within authoritarian states",
@@ -324,7 +324,7 @@
       "explanation": "The reading explicitly lists Weibo as an example of \"locally developed social media\" as a response to globalization, representing China's assertion of digital sovereignty. (A), (B), and (D) mischaracterize its significance in the reading."
     },
     {
-      "question": "Why did the 1999 WTO protests in Seattle unite such a diverse coalition of activists, according to the reading?",
+      "question": "Why did the 1999 WTO protests in Seattle unite such a diverse coalition of activists?",
       "options": [
         "All of the participants involved happened to come from developing nations directly harmed by unfair WTO trade rules",
         "Every single participant present shared identical ideological beliefs about government's proper role in the economy",

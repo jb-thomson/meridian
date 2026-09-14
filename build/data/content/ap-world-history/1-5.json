@@ -349,7 +349,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "What was the geographic basis of Mali's wealth and power, according to the reading?",
+      "question": "What was the geographic basis of Mali's wealth and power?",
       "options": [
         "Controlling trans-Saharan trade routes between West African gold and North African merchants",
         "Farming surplus grain along the Niger River and exporting it to Mediterranean ports",
@@ -360,7 +360,7 @@
       "explanation": "The reading says Mali sat astride the trans-Saharan trade routes connecting West African gold-producing regions to North African merchants, and that taxing every caravan crossing its territory made Mali one of the wealthiest states in the world. The reading does not describe grain exports, weapons manufacturing, or cattle trade as the basis of Mali's power, those belong to other African states discussed elsewhere."
     },
     {
-      "question": "What effect did Mansa Musa's gold distribution have during his 1324-1325 pilgrimage, according to the reading?",
+      "question": "What effect did Mansa Musa's gold distribution have during his 1324-1325 pilgrimage?",
       "options": [
         "It permanently ended all trade between Mali and any state located in North Africa",
         "It caused significant inflation in Egypt and Arabia that took over a decade to recover from",
@@ -371,7 +371,7 @@
       "explanation": "The reading says Mansa Musa distributed gold so lavishly on his pilgrimage that it triggered significant inflation in Egypt and Arabia, with prices taking over a decade to recover. It does not describe an end to North African trade, a political merger with the Mamluks, or a connection to funding the distant and unrelated Great Zimbabwe."
     },
     {
-      "question": "Why did Timbuktu become a major center of Islamic learning under Mali, according to the reading?",
+      "question": "Why did Timbuktu become a major center of Islamic learning under Mali?",
       "options": [
         "It was the only city in West Africa where Arabic script had ever been used before",
         "Mansa Musa's patronage supported mosques and scholars, drawing students from the region",
@@ -382,7 +382,7 @@
       "explanation": "The reading credits Mansa Musa's patronage with turning Timbuktu into a center of learning, funding the Sankore Mosque that functioned as an informal university attracting scholars from across the Muslim world. It does not claim Timbuktu was the first place in West Africa to use Arabic, credit the distant Delhi Sultanate with founding its schools, or connect its rise to griots writing down oral history."
     },
     {
-      "question": "What made Great Zimbabwe's stone walls a remarkable architectural achievement, according to the reading?",
+      "question": "What made Great Zimbabwe's stone walls a remarkable architectural achievement?",
       "options": [
         "They were built using imported Roman engineering techniques taught by early travelers",
         "They were constructed entirely underground to protect residents from raiding armies",
@@ -393,7 +393,7 @@
       "explanation": "The reading describes walls up to 11 meters high built from precisely cut granite blocks stacked without mortar, with the weight and precision of the cutting providing structural stability. It never mentions Roman techniques, underground construction, or iron and wood reinforcement, none of which appear anywhere in the reading."
     },
     {
-      "question": "What does the Swahili language's mix of Bantu grammar and Arabic vocabulary reveal, according to the reading?",
+      "question": "What does the Swahili language's mix of Bantu grammar and Arabic vocabulary reveal?",
       "options": [
         "A long history of trade and cultural contact between coastal Africans and Arab merchants",
         "That Arab armies had conquered and forcibly resettled the entire East African coastline",
@@ -404,7 +404,7 @@
       "explanation": "The reading calls the Swahili language a linguistic fusion reflecting centuries of interaction between Bantu-speaking coastal Africans and Arab merchants. It explicitly rules out conquest, since Arab traders settled peacefully rather than through military force, and it describes deep, long-standing contact, not a recent or absent one."
     },
     {
-      "question": "How did Ethiopia's Solomonic Dynasty maintain its religious legitimacy, according to the reading?",
+      "question": "How did Ethiopia's Solomonic Dynasty maintain its religious legitimacy?",
       "options": [
         "By adopting Islam and claiming descent from a companion of the Prophet Muhammad",
         "By tracing its lineage to the biblical King Solomon and the Queen of Sheba",
@@ -415,7 +415,7 @@
       "explanation": "The reading says the Solomonic Dynasty traced its lineage to the legendary union of King Solomon and the Queen of Sheba, an origin story recorded in the Kebra Nagast. It does not describe an Islamic conversion, a sun-god reincarnation claim like the distant Inca Sapa Inca, or a military victory over the Mamluks."
     },
     {
-      "question": "According to the reading, how did most Hausa rulers relate to Islam by the 14th and 15th centuries?",
+      "question": "How did most Hausa rulers relate to Islam by the 14th and 15th centuries?",
       "options": [
         "They rejected Islam completely in favor of maintaining only indigenous religious practices",
         "They violently forced their entire populations to convert within a single generation",
@@ -426,7 +426,7 @@
       "explanation": "The reading says Islam spread gradually to the Hausa states and became increasingly prominent among ruling elites, while coexisting with indigenous spiritual practices among the general population. It does not describe a total rejection of Islam, forced mass conversion, or political unification of the independent Hausa city-states."
     },
     {
-      "question": "What function did griots serve in West African societies, according to the reading?",
+      "question": "What function did griots serve in West African societies?",
       "options": [
         "They served as judges who settled disputes between rival trading families",
         "They led religious ceremonies dedicated to ancestor worship inside royal courts",

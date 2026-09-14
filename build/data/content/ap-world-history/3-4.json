@@ -371,7 +371,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "According to the reading, what four dimensions does the AP framework use to compare land-based empires in this period?",
+      "question": "What four dimensions does the AP framework use to compare land-based empires in this period?",
       "options": [
         "Population size, geographic size, total wealth, and available military technology",
         "Military expansion, administrative consolidation, legitimation, and revenue extraction",
@@ -382,7 +382,7 @@
       "explanation": "The reading explicitly lists these four categories as the framework for comparison: how empires conquered territory, how they governed conquered populations, how they made their rule seem rightful, and how they funded their operations. The other options list categories the reading doesn't use as its comparison framework."
     },
     {
-      "question": "According to the reading, how were the Ottoman devshirme system and the Chinese civil service examination similar, and how did they differ?",
+      "question": "How were the Ottoman devshirme system and the Chinese civil service examination similar, and how did they differ?",
       "options": [
         "Both were open to any subject regardless of religion, though only the devshirme required years of military training first",
         "Both recruited only from wealthy landowning families, but the devshirme required conversion to Confucianism instead",
@@ -393,7 +393,7 @@
       "explanation": "The reading draws exactly this comparison: both systems produced merit-based, non-hereditary officials, but they differed in recruitment pool and the role of religion, the devshirme recruited and converted non-Muslim boys while the Chinese exam was open to any literate male regardless of background. The other options misstate details the reading gives."
     },
     {
-      "question": "What was the Mughal mansabdari system, according to the reading?",
+      "question": "What was the Mughal mansabdari system?",
       "options": [
         "Numerical ranks assigned to officials, with pay tied to rank and no rank passed to an official's children",
         "A system of hereditary noble titles and large land grants passed down through Mughal families",
@@ -404,7 +404,7 @@
       "explanation": "The reading describes the mansabdari system as assigning ranks tied to salary and military obligation, with a mansabdar's rank dying with him rather than passing to heirs, making officials dependent on continued imperial service. The other options describe things the reading doesn't say about this system."
     },
     {
-      "question": "What does the comparison between Akbar's and Aurangzeb's religious policies reveal, according to the reading?",
+      "question": "What does the comparison between Akbar's and Aurangzeb's religious policies reveal?",
       "options": [
         "That religious tolerance always produces greater territorial expansion than religious enforcement",
         "That Aurangzeb's policies had no real effect on the empire, since the rebellions would have happened anyway",
@@ -426,7 +426,7 @@
       "explanation": "The reading states that Ming and Qing silver taxation was unique in its global consequences, since a domestic Chinese tax policy became a driver of global economic integration in a way no other tax system in the period equaled. The other options are not supported by the reading."
     },
     {
-      "question": "According to the reading, what makes a piece of historical evidence specific rather than vague in an AP essay?",
+      "question": "What makes a piece of historical evidence specific rather than vague in an AP essay?",
       "options": [
         "It uses broad, general statements that could apply to almost any empire in world history",
         "It cites a secondary source that briefly summarizes several different empires at once",
@@ -437,7 +437,7 @@
       "explanation": "The reading contrasts a vague claim, that the Ottoman Empire used religion to legitimize its rule, with a specific one naming Selim I, the 1517 conquest of Egypt, the title of caliph, and the political function this served. The first option describes vague evidence, the opposite of what specific evidence does."
     },
     {
-      "question": "Which of the following was NOT one of the administrative solutions land-based empires used to reduce the power of rival elites, according to the reading?",
+      "question": "Which of the following was NOT one of the administrative solutions land-based empires used to reduce the power of rival elites?",
       "options": [
         "The Ottoman devshirme, which built a class of officials with no independent family power base",
         "The Qing dual administration, which paired Manchu and Han officials at every level of government",

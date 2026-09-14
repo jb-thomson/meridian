@@ -377,7 +377,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "What made feudalism different from Song China's civil service bureaucracy, according to the reading?",
+      "question": "What made feudalism different from Song China's civil service bureaucracy?",
       "options": [
         "Feudal power flowed through personal loyalty oaths rather than an administrative bureaucracy",
         "Feudal lords were selected through competitive written exams testing Christian theology",
@@ -388,7 +388,7 @@
       "explanation": "The reading says feudalism worked through a chain of personal relationships of obligation between lords and vassals, unlike Song China's meritocratic, exam-based bureaucracy. It never describes feudal lords being chosen by written exams, governing through scholar-officials, or being appointed by the pope, none of which appear in the reading."
     },
     {
-      "question": "What was the main economic purpose of the medieval manor, according to the reading?",
+      "question": "What was the main economic purpose of the medieval manor?",
       "options": [
         "To fund the construction of Gothic cathedrals through direct taxation of local nobles",
         "To produce most of its own food and goods, aiming for general self-sufficiency",
@@ -399,7 +399,7 @@
       "explanation": "The reading describes the manor as a largely self-sufficient agricultural estate producing its own grain, meat, cloth, and basic crafts, relying on outside trade only for luxuries and specialized items like salt and iron. It does not describe manors funding cathedrals, exporting silk and porcelain, or mining metals for grain imports."
     },
     {
-      "question": "How did serfdom differ from chattel slavery, according to the reading?",
+      "question": "How did serfdom differ from chattel slavery?",
       "options": [
         "Serfs could be bought and sold freely, while slaves could never be sold under any law",
         "Serfs owed no labor at all to their lord, while slaves worked constantly without rest",
@@ -410,7 +410,7 @@
       "explanation": "The reading says serfs were legal persons with some customary rights who could not be arbitrarily killed, and whose obligations were to the land rather than to a specific owner. It directly contradicts the idea that serfs could be freely bought and sold, and it does not describe serfs as owing no labor or living only in cities."
     },
     {
-      "question": "What gave the Catholic Church such powerful leverage over medieval kings and emperors, according to the reading?",
+      "question": "What gave the Catholic Church such powerful leverage over medieval kings and emperors?",
       "options": [
         "The Church commanded Europe's largest standing army, capable of defeating any kingdom",
         "The Church controlled all of Europe's gold mines and could cut off a ruler's income",
@@ -421,7 +421,7 @@
       "explanation": "The reading says the Church's power rested on its monopoly over the sacraments believed necessary for salvation, so a ruler who was excommunicated faced a severe political and spiritual crisis. The reading explicitly notes the Church had no army of its own, and it never mentions the Church controlling gold mines or noble inheritance."
     },
     {
-      "question": "What actually happened at Canossa in 1077, according to the reading?",
+      "question": "What actually happened at Canossa in 1077?",
       "options": [
         "Emperor Henry IV stood in the snow for three days seeking the pope's forgiveness",
         "Pope Gregory VII permanently surrendered all Church authority to Emperor Henry IV",
@@ -432,7 +432,7 @@
       "explanation": "The reading describes Henry IV traveling to Canossa and standing barefoot in the snow for three days to beg papal forgiveness after being excommunicated. It does not describe a permanent papal surrender, a military capture of Rome, or the Concordat of Worms being signed at Canossa, that agreement came later, in 1122."
     },
     {
-      "question": "According to the reading, what was one lasting consequence of the Crusades despite their military failure?",
+      "question": "What was one lasting consequence of the Crusades despite their military failure?",
       "options": [
         "European kings adopted Confucian civil service exams to select government officials",
         "Contact with the Islamic world helped channel Greek and Islamic learning into Europe",
@@ -443,7 +443,7 @@
       "explanation": "The reading says Crusader contact with the Islamic world helped channel Arabic translations of Aristotle and Islamic mathematical and medical knowledge into European intellectual life. It does not mention European kings adopting Confucian exams, gunpowder being invented as a direct result, or permanent European control of Jerusalem, which fell to Saladin in 1187."
     },
     {
-      "question": "Why did serfdom weaken in Western Europe after the Black Death, according to the reading?",
+      "question": "Why did serfdom weaken in Western Europe after the Black Death?",
       "options": [
         "The Catholic Church officially declared serfdom a sin and ordered lords to free their serfs",
         "Kings passed new laws abolishing serfdom to prevent further outbreaks of plague",
