@@ -75,6 +75,83 @@
   };
 
   document.addEventListener("DOMContentLoaded", function () {
+    /* ---- display settings: theme (light/dark/auto) + text size,
+       present in the topbar on every page. The <head> has an inline
+       script that already applied any saved choice before first paint
+       (to avoid a flash of the wrong theme); this just wires the UI
+       and keeps localStorage in sync. ---- */
+    (function () {
+      var toggle = document.getElementById("settingsToggle");
+      var panel = document.getElementById("settingsPanel");
+      if (!toggle || !panel) return;
+
+      function safeGet(key) {
+        try { return localStorage.getItem(key); } catch (e) { return null; }
+      }
+      function safeSet(key, val) {
+        try {
+          if (val === null) localStorage.removeItem(key);
+          else localStorage.setItem(key, val);
+        } catch (e) { /* storage unavailable — choice just won't persist */ }
+      }
+
+      function syncActiveStates() {
+        var theme = safeGet("agora-theme") || "system";
+        var font = safeGet("agora-font-size") || "md";
+        panel.querySelectorAll("[data-theme-choice]").forEach(function (btn) {
+          btn.classList.toggle("active", btn.getAttribute("data-theme-choice") === theme);
+        });
+        panel.querySelectorAll("[data-font-choice]").forEach(function (btn) {
+          btn.classList.toggle("active", btn.getAttribute("data-font-choice") === font);
+        });
+      }
+      syncActiveStates();
+
+      function closePanel() {
+        panel.hidden = true;
+        toggle.setAttribute("aria-expanded", "false");
+      }
+      toggle.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var open = panel.hidden;
+        panel.hidden = !open;
+        toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      });
+      document.addEventListener("click", function (e) {
+        if (!panel.hidden && !panel.contains(e.target) && e.target !== toggle) closePanel();
+      });
+      document.addEventListener("keydown", function (e) {
+        if (e.key === "Escape" && !panel.hidden) closePanel();
+      });
+
+      panel.querySelectorAll("[data-theme-choice]").forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          var choice = btn.getAttribute("data-theme-choice");
+          if (choice === "system") {
+            document.documentElement.removeAttribute("data-theme");
+            safeSet("agora-theme", null);
+          } else {
+            document.documentElement.setAttribute("data-theme", choice);
+            safeSet("agora-theme", choice);
+          }
+          syncActiveStates();
+        });
+      });
+      panel.querySelectorAll("[data-font-choice]").forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          var choice = btn.getAttribute("data-font-choice");
+          if (choice === "md") {
+            document.documentElement.removeAttribute("data-font");
+            safeSet("agora-font-size", null);
+          } else {
+            document.documentElement.setAttribute("data-font", choice);
+            safeSet("agora-font-size", choice);
+          }
+          syncActiveStates();
+        });
+      });
+    })();
+
     /* ---- unit accordions on course index pages ---- */
     document.querySelectorAll(".unit-toggle").forEach(function (btn) {
       btn.addEventListener("click", function () {

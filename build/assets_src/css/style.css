@@ -16,7 +16,95 @@
   --radius: 12px;
   --max-width: 760px;
   --course-color: var(--accent);
+
+  /* component tokens that differ between light/dark beyond the base
+     palette above — referenced by name so a single override below
+     repaints every info box, badge, and MCQ state at once. */
+  --box-fact-bg: #e6f4f0;
+  --box-fact-border: #7fb89c;
+  --box-fact-label: #1f6b4a;
+  --box-tip-bg: #e8f0fb;
+  --box-tip-border: #8fb3e0;
+  --box-tip-label: #1f5fa8;
+  --box-note-bg: #f0ede4;
+  --box-note-border: #cbc0a3;
+  --box-note-label: #6b5f3f;
+  --tag-std-bg: #eef1f5;
+  --tag-std-color: #445;
+  --mcq-correct-bg: #e8f3ee;
+  --mcq-incorrect-bg: #fbeaea;
+  --badge-hist-bg: #e8f3ee;
+  --badge-ai-bg: #fdeee3;
+  --quiz-wrong-bg: #fdf3ef;
+  --table-stripe: rgba(0, 0, 0, 0.015);
+
   font-size: 17px;
+}
+:root[data-font="sm"] { font-size: 15px; }
+:root[data-font="lg"] { font-size: 19px; }
+
+/* Explicit user choice ("dark") always wins. With no explicit choice
+   ("system"/unset), follow the OS preference — but never when the user
+   explicitly chose "light", which must override prefers-color-scheme. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]):not([data-theme="dark"]) {
+    --ink: #e8e3d8;
+    --ink-soft: #b0a897;
+    --paper: #18150f;
+    --paper-raised: #221e17;
+    --line: #3a3327;
+    --accent: #cf8a5a;
+    --accent-soft: #3a2c1e;
+    --good: #52ae82;
+    --focus: #6aabe6;
+
+    --box-fact-bg: #1c332a;
+    --box-fact-border: #3d7a5c;
+    --box-fact-label: #7ed4ac;
+    --box-tip-bg: #1a2c40;
+    --box-tip-border: #3f6a99;
+    --box-tip-label: #8fbdf0;
+    --box-note-bg: #2c2718;
+    --box-note-border: #55492e;
+    --box-note-label: #cdbd8c;
+    --tag-std-bg: #262b33;
+    --tag-std-color: #aab6c4;
+    --mcq-correct-bg: #1c332a;
+    --mcq-incorrect-bg: #3a2222;
+    --badge-hist-bg: #1c332a;
+    --badge-ai-bg: #3a2a1c;
+    --quiz-wrong-bg: #3a2222;
+    --table-stripe: rgba(255, 255, 255, 0.035);
+  }
+}
+:root[data-theme="dark"] {
+  --ink: #e8e3d8;
+  --ink-soft: #b0a897;
+  --paper: #18150f;
+  --paper-raised: #221e17;
+  --line: #3a3327;
+  --accent: #cf8a5a;
+  --accent-soft: #3a2c1e;
+  --good: #52ae82;
+  --focus: #6aabe6;
+
+  --box-fact-bg: #1c332a;
+  --box-fact-border: #3d7a5c;
+  --box-fact-label: #7ed4ac;
+  --box-tip-bg: #1a2c40;
+  --box-tip-border: #3f6a99;
+  --box-tip-label: #8fbdf0;
+  --box-note-bg: #2c2718;
+  --box-note-border: #55492e;
+  --box-note-label: #cdbd8c;
+  --tag-std-bg: #262b33;
+  --tag-std-color: #aab6c4;
+  --mcq-correct-bg: #1c332a;
+  --mcq-incorrect-bg: #3a2222;
+  --badge-hist-bg: #1c332a;
+  --badge-ai-bg: #3a2a1c;
+  --quiz-wrong-bg: #3a2222;
+  --table-stripe: rgba(255, 255, 255, 0.035);
 }
 
 * { box-sizing: border-box; }
@@ -58,6 +146,34 @@ img { max-width: 100%; height: auto; display: block; }
 .brand { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 800; font-size: 1.15rem; color: var(--ink); text-decoration: none; letter-spacing: -0.01em; }
 .brand small { display: block; font-weight: 500; font-size: 0.62rem; color: var(--ink-soft); letter-spacing: 0.04em; text-transform: uppercase; }
 .topbar-actions { display: flex; gap: 8px; align-items: center; }
+
+/* Display settings (theme + text size): a small popover off the topbar,
+   present on every page. */
+.settings-widget { position: relative; }
+.settings-toggle { font-weight: 800; min-width: 34px; }
+.settings-panel {
+  position: absolute; top: calc(100% + 8px); right: 0; z-index: 30;
+  width: 230px; max-width: 84vw;
+  background: var(--paper-raised); border: 1.5px solid var(--line); border-radius: 10px;
+  box-shadow: 0 10px 28px rgba(20, 17, 14, .18);
+  padding: 12px;
+}
+.settings-row { display: flex; flex-direction: column; gap: 6px; }
+.settings-row + .settings-row { margin-top: 12px; }
+.settings-row-label {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.72rem; font-weight: 800;
+  text-transform: uppercase; letter-spacing: .05em; color: var(--ink-soft);
+}
+.settings-btn-group { display: flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.settings-opt {
+  flex: 1; border: none; background: var(--paper); color: var(--ink); cursor: pointer;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.82rem; font-weight: 700;
+  padding: 8px 6px;
+}
+.settings-opt + .settings-opt { border-left: 1px solid var(--line); }
+.settings-opt.active { background: var(--course-color, var(--accent)); color: #fff; }
+.settings-opt-font[data-font-choice="sm"] { font-size: 0.72rem; }
+.settings-opt-font[data-font-choice="lg"] { font-size: 0.98rem; }
 
 .sidebar-toggle {
   display: flex; flex-direction: column; justify-content: center; gap: 4px;
@@ -305,7 +421,7 @@ body.is-landing .landing-hero {
 .util-bar-left, .util-bar-right { display: flex; align-items: center; gap: 7px; flex-wrap: wrap; }
 .util-pill {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.8rem; font-weight: 700; color: var(--course-color, var(--accent));
-  background: #fff; border: 1.5px solid var(--line); border-radius: 999px; padding: 5px 14px; cursor: pointer;
+  background: var(--paper-raised); border: 1.5px solid var(--line); border-radius: 999px; padding: 5px 14px; cursor: pointer;
   display: inline-flex; align-items: center; gap: 5px; transition: background .12s, border-color .12s, color .12s;
 }
 .util-pill:hover { background: var(--accent-soft); border-color: var(--course-color, var(--accent)); }
@@ -350,12 +466,12 @@ body.is-landing .landing-hero {
 .info-box { border-radius: var(--radius); margin: 16px 0; padding: 14px 16px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; clear: both; }
 .info-box-label { display: flex; align-items: center; gap: 7px; font-size: 0.72rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; margin-bottom: 6px; }
 .info-box-body { font-size: 0.92rem; line-height: 1.55; }
-.info-box.fun-fact { background: #e6f4f0; border: 1px solid #7fb89c; }
-.info-box.fun-fact .info-box-label { color: #1f6b4a; }
-.info-box.ap-tip { background: #e8f0fb; border: 1px solid #8fb3e0; }
-.info-box.ap-tip .info-box-label { color: #1f5fa8; }
-.info-box.site-note { background: #f0ede4; border: 1px solid #cbc0a3; }
-.info-box.site-note .info-box-label { color: #6b5f3f; }
+.info-box.fun-fact { background: var(--box-fact-bg); border: 1px solid var(--box-fact-border); }
+.info-box.fun-fact .info-box-label { color: var(--box-fact-label); }
+.info-box.ap-tip { background: var(--box-tip-bg); border: 1px solid var(--box-tip-border); }
+.info-box.ap-tip .info-box-label { color: var(--box-tip-label); }
+.info-box.site-note { background: var(--box-note-bg); border: 1px solid var(--box-note-border); }
+.info-box.site-note .info-box-label { color: var(--box-note-label); }
 
 /* ---------- Tag row (unit + standard badges) + reading-time line ---------- */
 .tag-row { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 4px; }
@@ -364,7 +480,7 @@ body.is-landing .landing-hero {
   padding: 4px 11px; border-radius: 999px; background: var(--accent-soft); color: var(--course-color, var(--accent));
   letter-spacing: .02em;
 }
-.tag-pill.standard { background: #eef1f5; color: #445; }
+.tag-pill.standard { background: var(--tag-std-bg); color: var(--tag-std-color); }
 .reading-time { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.85rem; color: var(--ink-soft); margin-top: 8px; display: flex; align-items: center; gap: 6px; }
 
 /* Theme chips (Political / Economics / Culture / Technology / Interactions,
@@ -390,7 +506,7 @@ body.is-landing .landing-hero {
 .reading-table th, .reading-table td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); }
 .reading-table thead th { background: var(--accent-soft); font-weight: 700; font-size: 0.82rem; }
 .reading-table tbody tr:last-child td { border-bottom: none; }
-.reading-table tbody tr:nth-child(even) { background: rgba(0,0,0,0.015); }
+.reading-table tbody tr:nth-child(even) { background: var(--table-stripe); }
 
 /* Vocabulary — a bordered box of pills; tap a pill to reveal its
    definition / importance / example right underneath the pill row. */
@@ -400,7 +516,7 @@ body.is-landing .landing-hero {
 .vocab-list { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; position: relative; }
 .vocab-item { position: relative; }
 .vocab-term-btn {
-  border: 1.5px solid var(--line); background: #fff; cursor: pointer; padding: 6px 14px;
+  border: 1.5px solid var(--line); background: var(--paper-raised); cursor: pointer; padding: 6px 14px;
   font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.85rem;
   border-radius: 999px; color: var(--course-color, var(--accent)); display: inline-flex; align-items: center; gap: 6px;
 }
@@ -412,7 +528,7 @@ body.is-landing .landing-hero {
 .vocab-body-wrap {
   display: none; position: absolute; top: calc(100% + 6px); left: 0; z-index: 20;
   width: 300px; max-width: min(86vw, 340px);
-  background: #fff; border: 1.5px solid var(--course-color, var(--accent)); border-radius: 10px;
+  background: var(--paper-raised); border: 1.5px solid var(--course-color, var(--accent)); border-radius: 10px;
   box-shadow: 0 10px 28px rgba(20,17,14,.18);
 }
 .vocab-item.open .vocab-body-wrap { display: block; }
@@ -426,8 +542,8 @@ figure.reading-figure { margin: 20px 0; border: 1px solid var(--line); border-ra
 figure.reading-figure img { cursor: zoom-in; }
 figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.82rem; color: var(--ink-soft); }
 .img-badge { display: inline-block; font-size: 0.65rem; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; padding: 3px 8px; border-radius: 999px; margin-bottom: 6px; }
-.img-badge.hist { background: #e8f3ee; color: var(--good); }
-.img-badge.ai { background: #fdeee3; color: var(--accent); }
+.img-badge.hist { background: var(--badge-hist-bg); color: var(--good); }
+.img-badge.ai { background: var(--badge-ai-bg); color: var(--accent); }
 .img-attribution { font-size: 0.76rem; color: var(--ink-soft); display: block; margin-top: 4px; }
 .img-attribution a { color: inherit; text-decoration: underline; }
 .regen-row { margin-top: 8px; }
@@ -534,8 +650,8 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
   background: var(--paper);
 }
 .mcq-opt:hover { background: var(--accent-soft); }
-.mcq-opt.correct { background: #e8f3ee; border-color: var(--good); font-weight: 700; }
-.mcq-opt.incorrect { background: #fbeaea; border-color: #c0554f; }
+.mcq-opt.correct { background: var(--mcq-correct-bg); border-color: var(--good); font-weight: 700; }
+.mcq-opt.incorrect { background: var(--mcq-incorrect-bg); border-color: #c0554f; }
 .mcq.answered .mcq-opt:not(.correct):not(.incorrect) { opacity: .55; }
 .mcq-reveal-btn { margin-top: 2px; }
 .mcq-explain-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .3s ease; }
@@ -655,17 +771,17 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .em-quiz-badge { display: inline-block; font-size: 0.68rem; font-weight: 700; padding: 3px 10px; border-radius: 999px; background: var(--accent-soft); color: var(--course-color, var(--good)); margin-bottom: 8px; }
 .em-quiz-scenario { border-radius: 10px; padding: 14px; margin-bottom: 12px; border: 1.5px solid var(--line); background: var(--paper); }
 .em-quiz-scenario.correct { border-color: var(--good); background: color-mix(in srgb, var(--good) 8%, var(--paper)); }
-.em-quiz-scenario.wrong { border-color: #b23a24; background: #fdf3ef; }
+.em-quiz-scenario.wrong { border-color: #b23a24; background: var(--quiz-wrong-bg); }
 .em-quiz-emoji { font-size: 1.6rem; margin-bottom: 4px; }
 .em-quiz-choices { display: flex; flex-direction: column; gap: 8px; margin-bottom: 12px; }
 .em-quiz-choice { display: flex; gap: 10px; text-align: left; padding: 10px 12px; border-radius: 10px; border: 1.5px solid var(--line); background: var(--paper-raised); cursor: pointer; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.88rem; line-height: 1.4; }
 .em-quiz-choice:hover:not(:disabled) { border-color: var(--course-color, var(--good)); background: var(--accent-soft); }
 .em-quiz-choice:disabled { cursor: default; }
 .em-quiz-choice.correct { border-color: var(--good); background: color-mix(in srgb, var(--good) 12%, var(--paper-raised)); }
-.em-quiz-choice.wrong { border-color: #b23a24; background: #fdf3ef; }
+.em-quiz-choice.wrong { border-color: #b23a24; background: var(--quiz-wrong-bg); }
 .em-quiz-choice .em-quiz-letter { font-weight: 700; color: var(--ink-soft); flex-shrink: 0; }
 .em-quiz-explain { border-left: 3px solid var(--course-color, var(--good)); border-radius: 8px; padding: 11px 13px; font-size: 0.86rem; line-height: 1.5; background: var(--accent-soft); margin-bottom: 12px; }
-.em-quiz-explain.wrong { border-color: #b23a24; background: #fdf3ef; }
+.em-quiz-explain.wrong { border-color: #b23a24; background: var(--quiz-wrong-bg); }
 .em-quiz-explain-title { font-weight: 700; margin-bottom: 3px; }
 .em-quiz-next-row { display: flex; justify-content: flex-end; }
 .em-quiz-done { text-align: center; padding: 20px 10px; }
@@ -674,7 +790,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .em-quiz-msg { font-size: 0.9rem; color: var(--ink-soft); max-width: 40em; margin: 0 auto 16px; }
 
 /* video resources — YouTube-style link cards with a play-button icon */
-.video-resources { border: 1px solid #e3c3b6; border-left: 4px solid #b23a24; border-radius: var(--radius); padding: 14px 16px; margin: 18px 0; background: #fdf3ef; }
+.video-resources { border: 1px solid #e3c3b6; border-left: 4px solid #b23a24; border-radius: var(--radius); padding: 14px 16px; margin: 18px 0; background: var(--quiz-wrong-bg); }
 .video-resources-title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.76rem; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: #a5341f; margin-bottom: 4px; }
 .video-resources-hint { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.85rem; color: var(--ink-soft); margin: 0 0 12px; }
 .video-resource-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
