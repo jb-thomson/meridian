@@ -111,11 +111,11 @@
     },
     {
       "type": "image",
-      "imageType": "ai_generated",
+      "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/1-2-0.jpg",
-      "alt": "Map of the Abbasid Caliphate at its height",
-      "caption": "The Abbasid Caliphate at its peak (c. 850 CE) stretched from Central Asia to North Africa. By 1000 CE, real power had fragmented among regional dynasties while the caliph remained a symbolic figurehead.",
-      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+      "alt": "Map of the Abbasid Caliphate at its territorial peak around 850 CE, with provinces and major cities labeled",
+      "caption": "The Abbasid Caliphate at its peak, c. 850 CE, stretched from Egypt and Arabia through Iraq and Persia to Transoxiana in Central Asia. By 1000 CE, real power had fragmented among regional dynasties while the caliph in Baghdad remained a symbolic figurehead.",
+      "attribution": "\"The Abbasid Caliphate, ca 850 AD,\" Cattette, Wikimedia Commons, CC BY 4.0."
     },
     {
       "type": "paragraph",

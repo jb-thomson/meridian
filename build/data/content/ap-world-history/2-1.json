@@ -116,9 +116,9 @@
       "type": "image",
       "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/2-1-0.jpg",
-      "alt": "Map showing the overland Silk Road and maritime trade routes connecting Europe, the Middle East, India, and China",
-      "caption": "The overland Silk Road (green) ran from Xi'an through Kashgar and Samarkand to Constantinople and Venice. The maritime route (blue) connected the same civilizations via the Indian Ocean, through Aden, Calicut, and Malacca to Quanzhou. Both networks were active simultaneously and carried the same goods, ideas, and diseases.",
-      "attribution": "AI-generated illustration."
+      "alt": "Satellite map showing the overland Silk Road (red) through Central Asia to the Mediterranean and the maritime Indian Ocean route (blue) connecting Arabia, India, and China",
+      "caption": "The overland Silk Road (red) ran from China through Central Asia and Persia to the Mediterranean. The maritime route (blue) connected the same civilizations by sea, through the Red Sea and Arabia, around India, to China and Southeast Asia.",
+      "attribution": "\"Silk route.jpg,\" base imagery NASA Visible Earth, route overlay by Splette, Wikimedia Commons, public domain."
     },
     {
       "type": "funFact",
@@ -235,9 +235,9 @@
       "type": "image",
       "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/2-1-4.jpg",
-      "alt": "Historical map of the Silk Roads showing Samarkand and Kashgar",
-      "caption": "A map of the Silk Roads. Samarkand and Kashgar sit at the critical crossroads where routes from China, India, Persia, and the Mediterranean converged.",
-      "attribution": "AI-generated illustration."
+      "alt": "Map of the Silk Road trade routes in the 1st century CE, showing Samarkand and Kashgar at the crossroads of routes from China, India, Persia, and the Mediterranean",
+      "caption": "A map of the Silk Road in the 1st century CE. Samarkand and Kashgar sit at the critical crossroads where routes from China, India, Persia, and the Mediterranean converged.",
+      "attribution": "\"Silk Road in the I century AD,\" Kaidor, Wikimedia Commons, CC BY-SA 4.0."
     },
     {
       "type": "list",

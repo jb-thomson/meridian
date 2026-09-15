@@ -155,11 +155,11 @@
     },
     {
       "type": "image",
-      "imageType": "ai_generated",
+      "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/7-5-0.jpg",
-      "alt": "Map showing League of Nations mandate territories in Africa and the Middle East assigned to Britain and France after WWI",
-      "caption": "The League of Nations mandate system divided former German and Ottoman territories between Britain and France. Rather than granting independence, the system extended European colonial control under international legitimacy.",
-      "attribution": "AI-generated illustration (Google Gemini, 2025), commercially licensed."
+      "alt": "Map of the Middle East and Africa showing League of Nations mandate territories color-coded by administering power: red for British mandates (including Iraq and Palestine), blue for French mandates (including Syria and Lebanon)",
+      "caption": "League of Nations mandates in the Middle East and Africa: British mandates (red) included Iraq and Palestine/Transjordan; French mandates (blue) included Syria and Lebanon, plus parts of West Africa. Former German colonies in Africa were similarly divided among Britain, France, Belgium, and South Africa.",
+      "attribution": "Cropped from \"Map of league of nations mandate,\" Kolomaznik, Wikimedia Commons, public domain."
     },
     {
       "type": "heading",
