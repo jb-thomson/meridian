@@ -118,9 +118,9 @@
       "type": "image",
       "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/4-2-0.jpg",
-      "alt": "Map showing major European exploration routes 1450-1600",
-      "caption": "",
-      "attribution": "AI-generated illustration."
+      "alt": "Map of 16th-century Portuguese and Spanish trade routes, showing the Portuguese route around Africa to Goa and Macau and the Spanish route across the Atlantic and Pacific via the Manila Galleon",
+      "caption": "Portugal's route around the Cape of Good Hope to Goa, Malacca, and Macau, and Spain's route across the Atlantic and, via the Manila Galleon, across the Pacific to the Philippines. Together these routes connected Europe, the Americas, and Asia into a single trade network for the first time.",
+      "attribution": "\"16th century Portuguese Spanish trade routes,\" Uxbona, Wikimedia Commons, public domain (basemap: NASA/JPL/NIMA SRTM)."
     },
     {
       "type": "paragraph",
