@@ -83,18 +83,18 @@
       "explanation": "The reading defines the causation skill as identifying causes, explaining the mechanisms linking cause and effect, and ranking causes by relative importance, not just listing or narrating them. The other options each describe only part of the skill, or a different skill entirely."
     },
     {
-      "question": "What are the three levels of causation used to analyze Unit 7 events?",
+      "question": "When ranking historical causes, what criteria can help decide that one cause was more important than another?",
       "options": [
-        "Structural, political, and individual",
-        "Economic, military, and diplomatic",
-        "Local, national, and international",
-        "Short-term, medium-term, and long-term"
+        "Whether the cause was necessary or sufficient, how widely its effects spread, and whether removing it would have changed the outcome most decisively",
+        "Whether the cause was listed first among the causes named in the College Board's course description",
+        "Whether the cause happened earlier in time than the other causes being compared",
+        "Whether the cause involved a larger number of countries than the other causes being compared"
       ],
       "correctIndex": 0,
-      "explanation": "The reading lists structural causes (like industrialization and imperial competition), political causes (like alliance systems and appeasement), and individual causes (specific leaders' decisions) as the three levels. The other answer choices are not the framework the reading uses."
+      "explanation": "The reading's ranking framework lays out three ways to judge relative importance: whether a cause was necessary versus sufficient, whether its effects were wide-reaching, and whether removing it would have changed the outcome most decisively. The other options describe criteria the reading never mentions."
     },
     {
-      "question": "What does the reading identify as the most important causal chain connecting WWI and WWII?",
+      "question": "What is the most important causal chain connecting WWI and WWII?",
       "options": [
         "Both wars were caused primarily by long-standing disputes over colonial territory located in Africa",
         "Both wars began in the exact same way, with one specific country invading Poland first in each case",
@@ -116,7 +116,7 @@
       "explanation": "The reading's five-step framework specifically calls for addressing a counter-argument in step four and then returning to the original claim in step five. The other options all describe the opposite of what a strong causation argument should do."
     },
     {
-      "question": "What point does the reading's example about the WWI armistice illustrate?",
+      "question": "What does the example of the WWI armistice illustrate?",
       "options": [
         "The armistice was actually signed only after all the fighting on the front had already stopped completely",
         "The delay between the signing and the ceasefire was needed so the treaty could be translated into several languages",
@@ -127,7 +127,7 @@
       "explanation": "The reading states the armistice was signed at 5:00 a.m. but not enforced until 11:00 a.m., and that roughly 11,000 casualties occurred in between as commanders kept ordering attacks that served no military purpose. The other options are not supported by the reading."
     },
     {
-      "question": "How does the reading connect industrial technology to the causes of WWI and WWII?",
+      "question": "How did industrial technology connect to the causes of WWI and WWII?",
       "options": [
         "Industrial weapons and organization made total war possible and far more lethal, though technology alone didn't cause either war",
         "Technology alone is presented as the single cause that fully explains both wars, with no political explanation needed at all",

@@ -427,15 +427,15 @@
       "explanation": "The reading describes the caravel as smaller and more maneuverable, ideal for exploring unknown coasts, while the carrack was larger, multi-masted, and built with a deep hold for long transoceanic voyages. Both ships were Portuguese, both could use lateen-style rigging, and neither was restricted to only war or only trade."
     },
     {
-      "question": "Which of the following is NOT one of the technologies the reading credits to a non-European civilization?",
+      "question": "Which of the following technologies did NOT originate with a non-European civilization?",
       "options": [
         "The magnetic compass, which the reading traces back to Chinese origins",
         "The lateen sail, which the reading traces back to Arab and Indian Ocean sailors",
         "The astrolabe, which the reading traces back to Islamic astronomers building on Greek knowledge",
-        "The caravel, which the reading describes as an entirely European invention with no outside influence"
+        "The caravel, which the reading describes as a European design that combined the borrowed lateen sail with European hull construction"
       ],
       "correctIndex": 3,
-      "explanation": "The reading describes the caravel as a European synthesis that combined the borrowed lateen sail with European hull construction, so it was not purely European or free of outside influence. The compass, lateen sail, and astrolabe are each explicitly traced to non-European origins in the reading."
+      "explanation": "The reading credits the compass, lateen sail, and astrolabe directly to non-European civilizations, but it describes the caravel as a European synthesis: a ship design built in Portugal that combined the borrowed lateen sail with European hull construction. The caravel is the one option the reading does not credit as a technology that originated with a non-European civilization."
     }
   ],
   "images": [],
