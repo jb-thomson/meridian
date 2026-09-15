@@ -483,7 +483,7 @@ body.is-landing .landing-hero {
 .tag-row { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 4px; }
 .tag-pill {
   display: inline-block; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.72rem; font-weight: 700;
-  padding: 4px 11px; border-radius: 999px; background: var(--accent-soft); color: var(--course-color, var(--accent));
+  padding: 4px 11px; border-radius: 999px; background: var(--pill-bg); color: var(--pill-fg);
   letter-spacing: .02em;
 }
 .tag-pill.standard { background: var(--tag-std-bg); color: var(--tag-std-color); }
@@ -493,9 +493,9 @@ body.is-landing .landing-hero {
    etc.) -- each carries a tooltip explaining why that theme applies here. */
 .theme-chip-row { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 6px; }
 .theme-chip {
-  display: inline-flex; align-items: center; gap: 5px; background: var(--accent-soft); border: 1px solid var(--line);
+  display: inline-flex; align-items: center; gap: 5px; background: var(--pill-bg); border: 1px solid var(--line);
   border-radius: 999px; padding: 4px 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.78rem;
-  font-weight: 700; color: var(--course-color, var(--accent)); cursor: help;
+  font-weight: 700; color: var(--pill-fg); cursor: help;
 }
 
 .section-label { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.75rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-soft); margin: 30px 0 10px; }
@@ -548,8 +548,8 @@ figure.reading-figure { margin: 20px 0; border: 1px solid var(--line); border-ra
 figure.reading-figure img { cursor: zoom-in; }
 figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.82rem; color: var(--ink-soft); }
 .img-badge { display: inline-block; font-size: 0.65rem; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; padding: 3px 8px; border-radius: 999px; margin-bottom: 6px; }
-.img-badge.hist { background: var(--badge-hist-bg); color: var(--good); }
-.img-badge.ai { background: var(--badge-ai-bg); color: var(--accent); }
+.img-badge.hist { background: var(--badge-hist-bg); color: var(--pill-fg); }
+.img-badge.ai { background: var(--badge-ai-bg); color: var(--pill-fg); }
 .img-attribution { font-size: 0.76rem; color: var(--ink-soft); display: block; margin-top: 4px; }
 .img-attribution a { color: inherit; text-decoration: underline; }
 .regen-row { margin-top: 8px; }
@@ -668,7 +668,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 /* SAQ / LEQ / essay-type practice blocks */
 .frq-block { border: 1px solid var(--line); border-radius: var(--radius); padding: 15px; margin: 14px 0; background: var(--paper-raised); font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
 .frq-block.frq-block-follow { margin-top: 22px; padding-top: 18px; border-top: 1px dashed var(--line); }
-.frq-block .frq-type-label { display: inline-block; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: var(--course-color); background: var(--accent-soft); padding: 3px 8px; border-radius: 999px; margin-bottom: 8px; }
+.frq-block .frq-type-label { display: inline-block; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: var(--pill-fg); background: var(--pill-bg); padding: 3px 8px; border-radius: 999px; margin-bottom: 8px; }
 .frq-prompt { font-size: 0.92rem; white-space: pre-line; margin-bottom: 10px; }
 .hint { font-size: 0.84rem; color: var(--ink-soft); margin: 0 0 10px; }
 .saq-context { font-style: italic; font-size: 0.88rem; color: var(--ink-soft); background: var(--paper); border-left: 3px solid var(--line); padding: 9px 13px; margin-bottom: 10px; }
@@ -774,7 +774,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .em-quiz-head { display: flex; justify-content: space-between; align-items: center; font-size: 0.82rem; color: var(--ink-soft); margin-bottom: 8px; }
 .em-quiz-progress { height: 6px; border-radius: 3px; background: var(--line); overflow: hidden; margin-bottom: 14px; }
 .em-quiz-progress-fill { height: 100%; background: var(--course-color, var(--good)); transition: width .25s ease; }
-.em-quiz-badge { display: inline-block; font-size: 0.68rem; font-weight: 700; padding: 3px 10px; border-radius: 999px; background: var(--accent-soft); color: var(--course-color, var(--good)); margin-bottom: 8px; }
+.em-quiz-badge { display: inline-block; font-size: 0.68rem; font-weight: 700; padding: 3px 10px; border-radius: 999px; background: var(--pill-bg); color: var(--pill-fg); margin-bottom: 8px; }
 .em-quiz-scenario { border-radius: 10px; padding: 14px; margin-bottom: 12px; border: 1.5px solid var(--line); background: var(--paper); }
 .em-quiz-scenario.correct { border-color: var(--good); background: color-mix(in srgb, var(--good) 8%, var(--paper)); }
 .em-quiz-scenario.wrong { border-color: #b23a24; background: var(--quiz-wrong-bg); }
