@@ -374,7 +374,7 @@
         "It would remove the multiple middlemen who each took a cut, letting spices sell far more cheaply"
       ],
       "correctIndex": 3,
-      "explanation": "The reading explains that spices changed hands through several Arab, Ottoman, and Venetian middlemen before reaching Europe, each adding a markup, so a direct sea route could eliminate those costs and generate huge profits. The reading never mentions a Church tax, growing spices in Europe, or conversion as motives here."
+      "explanation": "Spices changed hands through several Arab, Ottoman, and Venetian middlemen before reaching Europe, each adding a markup, so a direct sea route could eliminate those costs and generate huge profits. A Church tax, growing spices in Europe, and conversion were never the motives here."
     },
     {
       "question": "Why did European monarchs, rather than private merchants, fund the earliest transoceanic voyages?",
@@ -385,7 +385,7 @@
         "Private merchants had already tried and failed to reach Asia by sailing around Africa"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that early voyages were extremely expensive and risky with no guaranteed return, so only a state with tax revenue could sustain a program through repeated failures. The reading does not mention a legal ban on private ships, a Church requirement, or an earlier failed merchant attempt."
+      "explanation": "Early voyages were extremely expensive and risky with no guaranteed return, so only a state with tax revenue could sustain a program through repeated failures. There was no legal ban on private ships, no Church requirement, and no earlier failed merchant attempt behind this."
     },
     {
       "question": "What was the significance of Bartolomeu Dias rounding the Cape of Good Hope in 1488?",
@@ -396,7 +396,7 @@
         "It ended Portugal's exploration program, since further voyages were considered unnecessary"
       ],
       "correctIndex": 0,
-      "explanation": "The reading states that Dias's voyage proved Africa's southern tip existed and that ships could reach the Indian Ocean from the Atlantic, a critical milestone that led directly to Vasco da Gama's voyage a decade later. It had nothing to do with the Atlantic crossing, Malacca, or ending Portuguese exploration."
+      "explanation": "Dias's voyage proved Africa's southern tip existed and that ships could reach the Indian Ocean from the Atlantic, a critical milestone that led directly to Vasco da Gama's voyage a decade later. It had nothing to do with the Atlantic crossing, Malacca, or ending Portuguese exploration."
     },
     {
       "question": "How did Spain benefit from Columbus's failure to reach Asia?",
@@ -407,7 +407,7 @@
         "Spain abandoned overseas exploration entirely and focused only on Mediterranean trade instead"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that Spain quickly recognized the Americas as valuable in their own right, for precious metals and territory, and that conquests like Cortes's defeat of the Aztec Empire gave Spain access to enormous silver wealth. The reading does not mention reparations, a larger share of Portuguese posts, or Spain abandoning exploration."
+      "explanation": "Spain quickly recognized the Americas as valuable in their own right, for precious metals and territory, and conquests like Cortes's defeat of the Aztec Empire gave Spain access to enormous silver wealth. Reparations, a larger share of Portuguese posts, and Spain abandoning exploration all played no part in this."
     },
     {
       "question": "Why did England and France initially search for a Northwest Passage?",
@@ -418,7 +418,7 @@
         "English and French ships were technically incapable of surviving a voyage near the equator"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that Portugal and Spain had already claimed the southern routes around Africa and across the Atlantic, so England and France looked for a different path to Asia through the Arctic. The reading doesn't claim the northern route was believed shorter, doesn't describe any such legal requirement, and doesn't mention equatorial ship limits."
+      "explanation": "Portugal and Spain had already claimed the southern routes around Africa and across the Atlantic, so England and France looked for a different path to Asia through the Arctic. The northern route was not believed to be shorter, no such legal requirement existed, and equatorial ship limits played no role."
     },
     {
       "question": "How did the Dutch eventually displace Portugal as the dominant power in Asian trade?",
@@ -429,7 +429,7 @@
         "The Dutch received exclusive Asian trading rights directly from the Ottoman sultan in 1600"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that the Dutch competed on the same routes as Portugal but used the fluyt and joint-stock organization to trade more cheaply, gradually displacing Portugal through commercial efficiency rather than military conquest. The reading does not describe decisive naval battles, missionary schools, or any Ottoman grant."
+      "explanation": "The Dutch competed on the same routes as Portugal but used the fluyt and joint-stock organization to trade more cheaply, gradually displacing Portugal through commercial efficiency rather than military conquest. There were no decisive naval battles, no missionary schools, and no Ottoman grant involved."
     },
     {
       "question": "Which of the following was NOT a reason the Treaty of Tordesillas ultimately failed to control global exploration?",
@@ -440,7 +440,7 @@
         "A bilateral agreement between two states cannot bind other states that never agreed to it"
       ],
       "correctIndex": 2,
-      "explanation": "The reading never mentions the treaty line being corrected for inaccuracy. Instead, it explains that England, France, and the Dutch simply ignored the treaty because they hadn't signed it, had the power to compete anyway, and were never bound by an agreement between only two other states."
+      "explanation": "The treaty line was never corrected for inaccuracy. Instead, England, France, and the Dutch simply ignored the treaty because they hadn't signed it, had the power to compete anyway, and were never bound by an agreement between only two other states."
     }
   ],
   "images": [],

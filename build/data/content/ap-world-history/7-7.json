@@ -105,7 +105,7 @@
         "It was the first war in which any government asked citizens to ration food, fuel, or other consumer goods"
       ],
       "correctIndex": 1,
-      "explanation": "The reading opens by calling WWII the deadliest conflict in human history, killing 70-85 million people, most of them civilians. The other options describe things that were not new to WWII: industrialized warfare, rationing, and women serving in war-related roles had all appeared earlier, including in WWI."
+      "explanation": "WWII was the deadliest conflict in human history, killing 70-85 million people, most of them civilians. The other options describe things that were not new to WWII: industrialized warfare, rationing, and women serving in war-related roles had all appeared earlier, including in WWI."
     },
     {
       "question": "What method of mobilizing for war did both democratic and totalitarian powers use during WWII?",
@@ -116,7 +116,7 @@
         "All major powers relied on conscription, industrial mobilization, propaganda, and recruiting women into the workforce"
       ],
       "correctIndex": 3,
-      "explanation": "The reading lists conscription, industrial mobilization, women entering the workforce, rationing, propaganda, and colonial mobilization as methods shared by all major belligerents, democratic and totalitarian alike. The other options each directly contradict something the reading describes."
+      "explanation": "Conscription, industrial mobilization, women entering the workforce, rationing, propaganda, and colonial mobilization were methods shared by all major belligerents, democratic and totalitarian alike. The other options each directly contradict this."
     },
     {
       "question": "How did Stalin's USSR enforce military discipline on the Eastern Front?",
@@ -127,7 +127,7 @@
         "Soviet field commanders were given full authority to order a retreat whenever they judged it necessary"
       ],
       "correctIndex": 0,
-      "explanation": "The reading describes Order 227, Not One Step Back, which placed NKVD units behind Soviet lines with orders to shoot soldiers who retreated without permission. The other options describe the opposite of the coercive discipline the reading attributes to Stalin's USSR."
+      "explanation": "Order 227, Not One Step Back, placed NKVD units behind Soviet lines with orders to shoot soldiers who retreated without permission. The other options describe the opposite of the coercive discipline Stalin's USSR actually used."
     },
     {
       "question": "Why is Churchill's and Roosevelt's wartime leadership still considered democratic, despite their expanded wartime powers?",
@@ -138,7 +138,7 @@
         "Neither leader was ever publicly criticized for any wartime decision, since domestic press coverage was tightly restricted by both governments"
       ],
       "correctIndex": 2,
-      "explanation": "The reading notes that even in wartime, the US held elections in 1942 and 1944, Congress kept debating policy, and the press kept publishing criticism, showing constitutional limits stayed in place. None of the other options are supported by the reading."
+      "explanation": "Even in wartime, the US held elections in 1942 and 1944, Congress kept debating policy, and the press kept publishing criticism, showing constitutional limits stayed in place. None of the other options are accurate."
     },
     {
       "question": "What is an example of a democratic government violating its own principles during WWII?",
@@ -149,7 +149,7 @@
         "Roosevelt's decision to hold a regularly scheduled presidential election in 1944 during wartime"
       ],
       "correctIndex": 1,
-      "explanation": "The reading specifically names the internment of 120,000 Japanese Americans as a violation of civil liberties that shows how wartime emergency powers can be abused even in democracies. The other options describe normal features of democratic wartime governance, not violations of it."
+      "explanation": "The internment of 120,000 Japanese Americans was a violation of civil liberties that shows how wartime emergency powers can be abused even in democracies. The other options describe normal features of democratic wartime governance, not violations of it."
     },
     {
       "question": "Why was the atomic bomb a \"qualitative leap\" in military technology?",
@@ -160,7 +160,7 @@
         "For the first time, one weapon could destroy an entire city, unlike earlier bombing that needed many aircraft and bombs"
       ],
       "correctIndex": 3,
-      "explanation": "The reading contrasts the atomic bomb with earlier strategic bombing, which needed many planes and bombs to destroy a city, and calls the bomb a qualitative leap because a single weapon could now do that damage. The other options aren't supported by the reading, which already describes earlier bombing of civilians and never claims the bomb ended future weapons development or was invented independently by several countries at once."
+      "explanation": "Earlier strategic bombing needed many planes and bombs to destroy a city; the atomic bomb was a qualitative leap because a single weapon could now do that damage. The other options are wrong: civilians were already being bombed before the atomic bomb, and it did not end future weapons development or get invented independently by several countries at once."
     },
     {
       "question": "What connection exists between the Holocaust and the Manhattan Project?",
@@ -171,7 +171,7 @@
         "The atomic bomb was used first against Germany because of the Holocaust, before later being used on Japan"
       ],
       "correctIndex": 0,
-      "explanation": "The reading notes the irony that Hitler's persecution of Jews drove scientists like Einstein and Szilard out of Europe, and their knowledge helped produce the bomb that ended the war against Japan. The other options aren't supported by the reading; the bomb was used against Japan, which hadn't surrendered, not Germany, which already had."
+      "explanation": "Hitler's persecution of Jews drove scientists like Einstein and Szilard out of Europe, and their knowledge helped produce the bomb that ended the war against Japan, a bitter irony. The other options are wrong; the bomb was used against Japan, which hadn't surrendered, not Germany, which already had."
     }
   ],
   "blocks": [

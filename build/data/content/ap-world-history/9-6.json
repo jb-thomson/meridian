@@ -297,7 +297,7 @@
         "It pushed artists across the continent to avoid political themes in favor of purely decorative work"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that WWI's carnage produced a wave of modernism in literature, art, and music that rejected traditional forms to express a world where old certainties about progress and order had been destroyed. (A), (C), and (D) are not supported by the reading."
+      "explanation": "WWI's carnage produced a wave of modernism in literature, art, and music that rejected traditional forms to express a world where old certainties about progress and order had been destroyed. (A), (C), and (D) are not accurate."
     },
     {
       "question": "What do reggae and Bollywood illustrate about global cultural exchange in the second half of the 20th century?",
@@ -308,7 +308,7 @@
         "That global audiences generally preferred content translated into English over any other language"
       ],
       "correctIndex": 2,
-      "explanation": "The reading uses reggae (Jamaica) and Bollywood (India) to show that musical and film forms from smaller, non-Western nations achieved worldwide reach, not just American or British culture. (A), (B), and (D) are contradicted by the examples given."
+      "explanation": "Reggae (Jamaica) and Bollywood (India) show that musical and film forms from smaller, non-Western nations achieved worldwide reach, not just American or British culture. (A), (B), and (D) are contradicted by these examples."
     },
     {
       "question": "What is the key distinction between the CED's 'global culture' examples, like reggae and the World Cup, and its 'global consumerism' examples, like Alibaba and Toyota?",
@@ -316,21 +316,21 @@
         "Global culture examples come only from Europe, while every global consumerism example comes only from Asia",
         "Global culture concerns arts and entertainment becoming global, while global consumerism concerns branded goods becoming global",
         "Global culture examples all date from before 1950, while global consumerism examples all date from after the year 2000",
-        "There is no real distinction here, since the reading treats both categories as describing one identical development"
+        "There is no real distinction here, since both categories describe one identical development"
       ],
       "correctIndex": 1,
-      "explanation": "The reading draws this distinction directly, warning readers not to conflate arts and entertainment becoming global with consumer culture and branded goods becoming global. (A), (C), and (D) misstate or deny a distinction the reading makes clearly."
+      "explanation": "This distinction matters: arts and entertainment becoming global is not the same as consumer culture and branded goods becoming global. (A), (C), and (D) misstate or deny a distinction that is clear."
     },
     {
       "question": "Why should cultural globalization not be treated as the same thing as cultural homogenization?",
       "options": [
-        "Because cultural globalization, in the reading's account, only ever reached the world's wealthiest nations",
+        "Because cultural globalization only ever reached the world's wealthiest nations",
         "Because no genuine cultural exchange actually occurred between different nations during this whole period",
         "Because cultural globalization produced hybrid forms like K-pop, rather than simply replacing local cultures with one",
-        "Because the reading argues that homogenization never applies to any period of world history whatsoever"
+        "Because homogenization never applies to any period of world history whatsoever"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that cultural globalization created hybrid forms, such as K-pop blending American hip-hop, Japanese pop, and Korean traditions, rather than erasing local cultures. (A), (B), and (D) are not supported by the reading."
+      "explanation": "Cultural globalization created hybrid forms, such as K-pop blending American hip-hop, Japanese pop, and Korean traditions, rather than erasing local cultures. (A), (B), and (D) are not accurate."
     },
     {
       "question": "What do Toyota and Coca-Cola illustrate about global brands?",
@@ -341,7 +341,7 @@
         "That consumers in most countries flatly refused to buy any foreign branded products throughout this period"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that global brands like Toyota (Japan) and Coca-Cola (US) sold lifestyles and aspirations that crossed national boundaries, showing that global consumer culture came from more than one country of origin. (B), (C), and (D) are not supported."
+      "explanation": "Global brands like Toyota (Japan) and Coca-Cola (US) sold lifestyles and aspirations that crossed national boundaries, showing that global consumer culture came from more than one country of origin. (B), (C), and (D) are not accurate."
     },
     {
       "question": "Why is reggae's worldwide influence a notable example of cultural globalization?",
@@ -352,7 +352,7 @@
         "Because reggae's global reach shows cultural influence isn't necessarily tied to economic or military power"
       ],
       "correctIndex": 3,
-      "explanation": "The reading points out that Jamaica has a population under 3 million, yet reggae achieved worldwide influence, showing that cultural influence does not require economic or military power. (A), (B), and (C) contradict what the reading says about reggae's origins."
+      "explanation": "Jamaica has a population under 3 million, yet reggae achieved worldwide influence, showing that cultural influence does not require economic or military power. (A), (B), and (C) contradict the facts about reggae's origins."
     },
     {
       "question": "Which of the following is NOT true about cultural globalization?",
@@ -363,7 +363,7 @@
         "It moved in multiple directions at once, rather than flowing only from the West to the rest of the world"
       ],
       "correctIndex": 0,
-      "explanation": "The reading directly rejects this idea, explaining that cultural globalization did not erase local diversity but created hybrid forms as local cultures adapted, mixed with, and resisted global influences. (B), (C), and (D) are all points the reading makes."
+      "explanation": "This idea does not hold up: cultural globalization did not erase local diversity but created hybrid forms as local cultures adapted, mixed with, and resisted global influences. (B), (C), and (D) are all accurate points."
     }
   ],
   "images": [],

@@ -156,6 +156,10 @@
       "text": "In some West African markets during this period, salt and gold were traded at an equal weight ratio, **pound for pound**. A pound of salt was worth a pound of gold. To a modern person this sounds insane, but it makes sense when you understand the context: gold was abundant in West Africa; salt was scarce and essential for survival. Value is always relative to supply and demand. The same logic explains why a bottle of water costs $2 at a grocery store but $8 at a sports stadium, scarcity determines price."
     },
     {
+      "type": "funFact",
+      "text": "Salt has its own shelf of history books, literally. Mark Kurlansky's *Salt: A World History* (2002) argues that this one mineral has quietly redirected human events more than almost anything else. A few examples historians point to: the word \"salary\" comes from the Latin *salarium*, tied to the salt allowance Roman soldiers received as part of their pay, so a soldier who didn't do his job was, literally, \"not worth his salt.\" Before refrigeration, salt was the only reliable way to preserve meat and fish for months at a time, which meant that armies on long campaigns and sailors on long ocean voyages depended on it as much as they depended on food itself. Some historians argue that without dependable salted rations, the long transoceanic voyages of the Age of Exploration would have been far riskier to attempt at all. Salt taxes have toppled governments too: France's hated royal salt tax, the *gabelle*, was one of the grievances that helped fuel the French Revolution, and in 1930 Mohandas Gandhi picked salt specifically, not land, not taxes on income, to break: his 240-mile Salt March against Britain's colonial salt monopoly became one of the opening acts in the end of British rule in India. A substance you shake onto fries for free today once helped start revolutions."
+    },
+    {
       "type": "heading",
       "text": "💰 What Was Actually Traded"
     },
@@ -169,6 +173,14 @@
         "**Southward (into West Africa):** Salt (from Saharan deposits like Taghaza), copper, horses, textiles, glassware, and manufactured goods from the Mediterranean world.",
         "**Northward (out of West Africa):** Gold (from the Bambuk and Bure goldfields), ivory (elephant tusks), kola nuts (a mild stimulant, important in Islamic societies where alcohol was prohibited), leather goods, and enslaved people."
       ]
+    },
+    {
+      "type": "image",
+      "imageType": "public_domain_historical",
+      "src": "assets/images/ap-world-history/2-4-4.jpg",
+      "alt": "Real map of the western trans-Saharan trade network showing gold flowing north from the Bambuk and Boure goldfields through Timbuktu and Taghaza to Sijilmasa, and salt flowing south from the Taghaza mines",
+      "caption": "Gold traveled the whole way north, from the Bambuk and Bouré goldfields through Mali's own cities to Sijilmasa in Morocco. Salt only traveled the short leg south, from the Taghaza mines to those same cities, since that is where it was mined.",
+      "attribution": "Base map: \"Trans-Saharan routes early.svg,\" Aa77zz, Wikimedia Commons, CC0, based on Mauny (1961). Gold, salt, and camel icons AI-generated (Higgsfield), commercially licensed."
     },
     {
       "type": "paragraph",
@@ -256,7 +268,7 @@
     },
     {
       "type": "apTip",
-      "text": "The College Board's LO I asks you to explain how the *expansion of empires* influenced trade. The Mali Empire is the primary example. It stabilized trans-Saharan routes, drew new peoples into trade networks, and spread Islam across West Africa. Notice the same pattern from Topic 2.2: just as the Mongol Empire facilitated Silk Road trade, the Mali Empire facilitated trans-Saharan trade. That parallel is exactly the kind of comparison the AP exam rewards."
+      "text": "The College Board asks you to explain how the *expansion of empires* influenced trade. The Mali Empire is the primary example. It stabilized trans-Saharan routes, drew new peoples into trade networks, and spread Islam across West Africa. Notice the parallel: just as the Mongol Empire facilitated Silk Road trade, the Mali Empire facilitated trans-Saharan trade. That kind of comparison across different empires is exactly what the AP exam rewards."
     }
   ],
   "videoResources": [
@@ -415,7 +427,7 @@
         "The invention of the magnetic compass, which let caravans navigate the desert without visible landmarks"
       ],
       "correctIndex": 1,
-      "explanation": "The reading credits the North African camel saddle, developed around 300 CE, with turning the camel's natural endurance into a practical way to carry hundreds of pounds of cargo across the desert. The Sahara has no such river network, and the reading never mentions a safe passage treaty or the compass being used on these routes."
+      "explanation": "The North African camel saddle, developed around 300 CE, turned the camel's natural endurance into a practical way to carry hundreds of pounds of cargo across the desert. The Sahara has no such river network, and neither a safe passage treaty nor the compass played a role in these routes."
     },
     {
       "question": "Why did salt sometimes trade for its weight in gold in West African markets?",
@@ -426,7 +438,7 @@
         "Gold was abundant throughout West Africa while salt was scarce and essential for survival"
       ],
       "correctIndex": 3,
-      "explanation": "The reading explains this through supply and demand: gold was abundant in West Africa but salt was scarce and biologically necessary, so its value rose to match gold's. Nothing in the reading treats salt as a religious offering or claims gold was useless locally, and transport difficulty is not given as the reason for the exchange rate."
+      "explanation": "Supply and demand explain this: gold was abundant in West Africa but salt was scarce and biologically necessary, so its value rose to match gold's. Salt was not treated as a religious offering, gold was not useless locally, and transport difficulty was not the reason for the exchange rate."
     },
     {
       "question": "What pattern describes the goods moving across the Sahara?",
@@ -437,7 +449,7 @@
         "Manufactured goods moved south into West Africa while nothing of value ever moved north"
       ],
       "correctIndex": 1,
-      "explanation": "The reading lists gold, ivory, kola nuts, and enslaved people as moving north out of West Africa, while salt, copper, horses, and manufactured goods moved south into it. The first option reverses this direction, and the other two options ignore the variety of goods the reading describes moving both ways."
+      "explanation": "Gold, ivory, kola nuts, and enslaved people moved north out of West Africa, while salt, copper, horses, and manufactured goods moved south into it. The first option reverses this direction, and the other two options ignore the variety of goods that moved both ways."
     },
     {
       "question": "How did the Mali Empire become so wealthy?",
@@ -448,7 +460,7 @@
         "It charged tolls for the use of a postal relay system that connected every corner of its territory"
       ],
       "correctIndex": 0,
-      "explanation": "The reading is explicit that Mali grew wealthy by taxing gold and salt passing through its territory rather than producing either resource itself, a toll road economic model. It did not directly mine gold, run the Taghaza mines, or operate a relay postal system, that detail belongs to the Mongols in Topic 2.2, not Mali."
+      "explanation": "Mali grew wealthy by taxing gold and salt passing through its territory rather than producing either resource itself, a toll road economic model. Mali did not directly mine gold, run the Taghaza mines, or operate a relay postal system. That kind of empire-wide postal relay system was a Mongol innovation, not a Malian one."
     },
     {
       "question": "What effect did Mansa Musa's 1324 hajj have on Cairo?",
@@ -459,7 +471,7 @@
         "It led Cairo's merchants to abandon their own currency and adopt Mali's gold standard instead"
       ],
       "correctIndex": 2,
-      "explanation": "Mansa Musa gave away so much gold in Cairo that he flooded the market, driving gold's value down and prices up for more than ten years, a clear example of inflation. This is the opposite of a shortage, it had a real and lasting impact rather than none, and the reading never mentions Cairo adopting Mali's currency."
+      "explanation": "Mansa Musa gave away so much gold in Cairo that he flooded the market, driving gold's value down and prices up for more than ten years, a clear example of inflation. This is the opposite of a shortage, it had a real and lasting impact rather than none, and Cairo never adopted Mali's currency."
     },
     {
       "question": "How did Islam typically spread into West Africa through trans-Saharan trade?",
@@ -470,7 +482,7 @@
         "Muslim merchants built long-term trading relationships, and rulers converted voluntarily for its benefits"
       ],
       "correctIndex": 3,
-      "explanation": "The reading describes Islam spreading almost entirely through trade rather than conquest, with rulers converting voluntarily for access to Islamic trade networks and legal frameworks. There is no mention of military conquest, a law forcing conversion after Mansa Musa, or European traders being involved in Islam's arrival."
+      "explanation": "Islam spread into West Africa almost entirely through trade rather than conquest, with rulers converting voluntarily for access to Islamic trade networks and legal frameworks. There was no military conquest, no law forcing conversion after Mansa Musa, and no European traders involved in Islam's arrival."
     },
     {
       "question": "What funded Timbuktu's growth into a major center of Islamic scholarship?",
@@ -481,7 +493,7 @@
         "Taxes collected from Indian Ocean trade routes that passed near the West African coast"
       ],
       "correctIndex": 0,
-      "explanation": "Timbuktu sat where trans-Saharan caravan routes met the Niger River, and the reading says the city grew rich on tolls and taxes from that trade, wealth that funded the Sankore Mosque and University. It was not funded by gifts from Mecca, the Mongol Empire, or Indian Ocean trade, which is a separate network far from Timbuktu."
+      "explanation": "Timbuktu sat where trans-Saharan caravan routes met the Niger River, and the city grew rich on tolls and taxes from that trade, wealth that funded the Sankore Mosque and University. It was not funded by gifts from Mecca, the Mongol Empire, or Indian Ocean trade, which is a separate network far from Timbuktu."
     }
   ],
   "images": [],

@@ -53,8 +53,8 @@
     --ink: #f5f2e9;
     --ink-soft: #c9c1b0;
     --paper: #18150f;
-    --paper-raised: #221e17;
-    --line: #3a3327;
+    --paper-raised: #29241a;
+    --line: #4a4130;
     --accent: #cf8a5a;
     --accent-soft: #3a2c1e;
     --good: #52ae82;
@@ -85,8 +85,8 @@
   --ink: #f5f2e9;
   --ink-soft: #c9c1b0;
   --paper: #18150f;
-  --paper-raised: #221e17;
-  --line: #3a3327;
+  --paper-raised: #29241a;
+  --line: #4a4130;
   --accent: #cf8a5a;
   --accent-soft: #3a2c1e;
   --good: #52ae82;
@@ -621,7 +621,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
   font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 0.92rem;
   display: flex; justify-content: space-between; gap: 10px; align-items: flex-start;
 }
-.expand-toggle .plus { flex-shrink: 0; color: var(--course-color); font-weight: 800; transition: transform .2s ease; }
+.expand-toggle .plus { flex-shrink: 0; color: var(--ink-soft); font-weight: 800; transition: transform .2s ease; }
 .expand-item.open .plus { transform: rotate(180deg); }
 .expand-body-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .32s ease; }
 .expand-item.open .expand-body-wrap { grid-template-rows: 1fr; }
@@ -642,7 +642,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
   width: 100%; text-align: left; background: none; border: none; cursor: pointer; padding: 13px 15px;
   font-weight: 600; font-size: 0.9rem; display: flex; justify-content: space-between; gap: 10px; align-items: center;
 }
-.mcq-header .plus { color: var(--course-color); font-weight: 800; transition: transform .2s ease; flex-shrink: 0; }
+.mcq-header .plus { color: var(--ink-soft); font-weight: 800; transition: transform .2s ease; flex-shrink: 0; }
 .mcq.open .mcq-header .plus { transform: rotate(180deg); }
 .mcq-body-wrap { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .32s ease; }
 .mcq.open .mcq-body-wrap { grid-template-rows: 1fr; }
@@ -796,8 +796,8 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .em-quiz-msg { font-size: 0.9rem; color: var(--ink-soft); max-width: 40em; margin: 0 auto 16px; }
 
 /* video resources — YouTube-style link cards with a play-button icon */
-.video-resources { border: 1px solid #e3c3b6; border-left: 4px solid #b23a24; border-radius: var(--radius); padding: 14px 16px; margin: 18px 0; background: var(--quiz-wrong-bg); }
-.video-resources-title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.76rem; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: #a5341f; margin-bottom: 4px; }
+.video-resources { border: 1px solid var(--box-note-border); border-left: 4px solid var(--box-note-border); border-radius: var(--radius); padding: 14px 16px; margin: 18px 0; background: var(--box-note-bg); }
+.video-resources-title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.76rem; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: var(--box-note-label); margin-bottom: 4px; }
 .video-resources-hint { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 0.85rem; color: var(--ink-soft); margin: 0 0 12px; }
 .video-resource-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
 .video-resource-item { display: flex; align-items: center; gap: 12px; background: var(--paper-raised); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; text-decoration: none; color: inherit; transition: border-color .15s ease, background .15s ease; }
@@ -827,8 +827,8 @@ footer.site-footer a { color: var(--ink-soft); }
    ========================================================================== */
 html.js-anim .reveal {
   opacity: 0;
-  transform: translateY(28px);
-  transition: opacity .5s ease, transform .6s cubic-bezier(0.22, 1.4, 0.36, 1);
+  transform: translateY(46px) scale(0.96);
+  transition: opacity .5s ease, transform .7s cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 html.js-anim .reveal.in-view {
   opacity: 1;

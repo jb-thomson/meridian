@@ -377,7 +377,7 @@
         "Trade routes, foreign diplomacy, methods of warfare, and taxation policy alone"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explicitly lists these four categories as the framework for comparison: how empires conquered territory, how they governed conquered populations, how they made their rule seem rightful, and how they funded their operations. The other options list categories the reading doesn't use as its comparison framework."
+      "explanation": "This topic's comparison framework uses these four categories: how empires conquered territory, how they governed conquered populations, how they made their rule seem rightful, and how they funded their operations. The other options list categories outside that comparison framework."
     },
     {
       "question": "How were the Ottoman devshirme system and the Chinese civil service examination similar, and how did they differ?",
@@ -388,7 +388,7 @@
         "Both created non-hereditary officials, but the devshirme forcibly converted non-Muslim boys while the exam admitted any literate male"
       ],
       "correctIndex": 3,
-      "explanation": "The reading draws exactly this comparison: both systems produced merit-based, non-hereditary officials, but they differed in recruitment pool and the role of religion, the devshirme recruited and converted non-Muslim boys while the Chinese exam was open to any literate male regardless of background. The other options misstate details the reading gives."
+      "explanation": "Both systems produced merit-based, non-hereditary officials, but they differed in recruitment pool and the role of religion, the devshirme recruited and converted non-Muslim boys while the Chinese exam was open to any literate male regardless of background. The other options misstate these details."
     },
     {
       "question": "What was the Mughal mansabdari system?",
@@ -399,7 +399,7 @@
         "A regional tax collection method used only in the Mughal Empire's southern coastal provinces"
       ],
       "correctIndex": 0,
-      "explanation": "The reading describes the mansabdari system as assigning ranks tied to salary and military obligation, with a mansabdar's rank dying with him rather than passing to heirs, making officials dependent on continued imperial service. The other options describe things the reading doesn't say about this system."
+      "explanation": "The mansabdari system assigned ranks tied to salary and military obligation, with a mansabdar's rank dying with him rather than passing to heirs, making officials dependent on continued imperial service. The other options describe things that were not true of this system."
     },
     {
       "question": "What does the comparison between Akbar's and Aurangzeb's religious policies reveal?",
@@ -410,10 +410,10 @@
         "That Akbar's tolerant policies were purely idealistic and served no real strategic political purpose"
       ],
       "correctIndex": 2,
-      "explanation": "The reading notes that Aurangzeb achieved the empire's greatest territorial extent even as the rebellions that began fragmenting it started during his reign, illustrating a genuine tension between military expansion and the legitimation strategies needed for long-term stability. The first option overstates the point, and the fourth option is wrong since the reading treats Akbar's tolerance as both genuine and strategically useful."
+      "explanation": "Aurangzeb achieved the empire's greatest territorial extent even as the rebellions that began fragmenting it started during his reign, illustrating a genuine tension between military expansion and the legitimation strategies needed for long-term stability. The first option overstates the point, and the fourth option is wrong since Akbar's tolerance was both genuine and strategically useful."
     },
     {
-      "question": "Why does the reading single out Ming and Qing silver taxation as unique among the revenue systems compared in this topic?",
+      "question": "Why is Ming and Qing silver taxation singled out as unique among the revenue systems compared in this topic?",
       "options": [
         "It was the only system that used intermediary tax collectors instead of direct government officials",
         "It was the only tax policy that became a driver of global trade, linking China to American silver mines",
@@ -421,7 +421,7 @@
         "It was the only system that collected taxes solely from foreign merchants rather than from subjects"
       ],
       "correctIndex": 1,
-      "explanation": "The reading states that Ming and Qing silver taxation was unique in its global consequences, since a domestic Chinese tax policy became a driver of global economic integration in a way no other tax system in the period equaled. The other options are not supported by the reading."
+      "explanation": "Ming and Qing silver taxation was unique in its global consequences, since a domestic Chinese tax policy became a driver of global economic integration in a way no other tax system in the period equaled. The other options are not accurate."
     },
     {
       "question": "What makes a piece of historical evidence specific rather than vague in an AP essay?",
@@ -432,7 +432,7 @@
         "It names particular people, dates, or events, like Selim I's 1517 conquest of Egypt and his caliph title"
       ],
       "correctIndex": 3,
-      "explanation": "The reading contrasts a vague claim, that the Ottoman Empire used religion to legitimize its rule, with a specific one naming Selim I, the 1517 conquest of Egypt, the title of caliph, and the political function this served. The first option describes vague evidence, the opposite of what specific evidence does."
+      "explanation": "Compare a vague claim, that the Ottoman Empire used religion to legitimize its rule, with a specific one naming Selim I, the 1517 conquest of Egypt, the title of caliph, and the political function this served. The first option describes vague evidence, the opposite of what specific evidence does."
     },
     {
       "question": "Which of the following was NOT one of the administrative solutions land-based empires used to reduce the power of rival elites?",
@@ -443,7 +443,7 @@
         "A shared imperial senate that let nobles from every land-based empire vote on succession"
       ],
       "correctIndex": 3,
-      "explanation": "No such shared senate existed. Each empire developed its own separate solution to the same underlying problem. The other three options are administrative systems the reading explicitly describes and compares."
+      "explanation": "No such shared senate existed. Each empire developed its own separate solution to the same underlying problem. The other three options are real administrative systems this topic compares."
     }
   ],
   "images": [],

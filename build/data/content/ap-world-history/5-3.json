@@ -367,7 +367,7 @@
         "A government program that trained rural workers to move into cities for factory jobs"
       ],
       "correctIndex": 1,
-      "explanation": "In cottage industry, a merchant delivered raw wool or cotton to rural workers, who spun or wove it at home, and the merchant then collected and sold the finished goods. This predated and was replaced by the factory system, not an early version of it. The reading never describes a government relocation program, and cottage industry relied on hand labor, not water power."
+      "explanation": "In cottage industry, a merchant delivered raw wool or cotton to rural workers, who spun or wove it at home, and the merchant then collected and sold the finished goods. This predated and was replaced by the factory system, not an early version of it. There was no government relocation program, and cottage industry relied on hand labor, not water power."
     },
     {
       "question": "Why was coal so essential to British industrialization?",
@@ -378,7 +378,7 @@
         "Coal was the fuel that powered steam engines, which in turn powered factory machinery"
       ],
       "correctIndex": 3,
-      "explanation": "Steam engines ran on coal, and steam engines powered the spinning and weaving machines, mine pumps, and eventually locomotives that drove industrialization. Cotton, not coal, was the raw material woven into cloth, coal deposits were inland in places like Wales and Yorkshire, not concentrated at ports, and the reading describes Britain importing raw cotton, not exporting coal."
+      "explanation": "Steam engines ran on coal, and steam engines powered the spinning and weaving machines, mine pumps, and eventually locomotives that drove industrialization. Cotton, not coal, was the raw material woven into cloth, coal deposits were inland in places like Wales and Yorkshire, not concentrated at ports, and Britain imported raw cotton rather than exporting coal."
     },
     {
       "question": "How did the enclosure movement contribute to industrialization?",
@@ -389,7 +389,7 @@
         "It granted peasants formal ownership of small plots so they could grow cash crops"
       ],
       "correctIndex": 1,
-      "explanation": "Enclosure converted common lands that peasant communities had shared for generations into private property, and the displaced peasants who could no longer farm or graze there moved to cities looking for work, supplying factories with labor. The reading describes peasants losing access to land, not gaining ownership of it, and enclosure was about land ownership, not cotton prices or factory housing."
+      "explanation": "Enclosure converted common lands that peasant communities had shared for generations into private property, and the displaced peasants who could no longer farm or graze there moved to cities looking for work, supplying factories with labor. Peasants lost access to land, they did not gain ownership of it, and enclosure was about land ownership, not cotton prices or factory housing."
     },
     {
       "question": "Why did Britain's patent system encourage industrial innovation?",
@@ -400,7 +400,7 @@
         "It limited how many separate patents any single inventor was allowed to hold"
       ],
       "correctIndex": 2,
-      "explanation": "Patents let inventors like James Watt and Richard Arkwright profit exclusively from their designs for a period of time, giving them a financial incentive to invent rather than having competitors immediately copy their work for free. The reading describes patents protecting inventions from copying, not forcing inventors to share them, and it does not mention government funding or limits on how many patents someone could hold."
+      "explanation": "Patents let inventors like James Watt and Richard Arkwright profit exclusively from their designs for a period of time, giving them a financial incentive to invent rather than having competitors immediately copy their work for free. Patents protected inventions from copying, they did not force inventors to share them, and there was no government funding or limit on how many patents someone could hold."
     },
     {
       "question": "What was the key innovation of the factory system, illustrated by Adam Smith's pin-making example?",
@@ -411,7 +411,7 @@
         "Division of labor, where each worker specialized in one repeated task"
       ],
       "correctIndex": 3,
-      "explanation": "Smith's pin-making example showed that dividing production into specialized, repeated tasks let ten workers make far more pins per day than the same workers could make individually, illustrating how division of labor drove factory efficiency. The reading never claims factory machines ran without supervision, and transportation and child labor are discussed elsewhere but are not the point of Smith's pin example."
+      "explanation": "Smith's pin-making example showed that dividing production into specialized, repeated tasks let ten workers make far more pins per day than the same workers could make individually, illustrating how division of labor drove factory efficiency. Factory machines did not run without supervision, and transportation and child labor, while real topics, are not the point of Smith's pin example."
     },
     {
       "question": "What made Richard Arkwright's cotton mill at Cromford significant?",
@@ -422,7 +422,7 @@
         "It was the first factory to fully replace all of its human workers with automated machines"
       ],
       "correctIndex": 0,
-      "explanation": "The reading identifies Arkwright's 1771 mill as generally considered the first true factory, using water power to run spinning machines and organizing hundreds of workers under one roof. Watt's steam engine and Arkwright's mill are separate developments in the reading, the mill still relied heavily on human workers, and the reading does not say its cotton came specifically from Egypt."
+      "explanation": "Arkwright's 1771 mill is generally considered the first true factory, using water power to run spinning machines and organizing hundreds of workers under one roof. Watt's steam engine and Arkwright's mill were separate developments, the mill still relied heavily on human workers, and there is no evidence its cotton came specifically from Egypt."
     },
     {
       "question": "Urbanization was both a cause and an effect of industrialization. What does this mean?",
@@ -433,7 +433,7 @@
         "Cities caused industrialization to begin, but factories had no later effect on city growth"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that cities provided factories with a labor pool and a market for goods, while factories attracted even more workers to cities, so each side of the relationship reinforced the other. Government funding of factories and a reversal of urbanization are not described anywhere in the reading, and the last option ignores that the relationship went both directions."
+      "explanation": "Cities provided factories with a labor pool and a market for goods, while factories attracted even more workers to cities, so each side of the relationship reinforced the other. Government funding of factories and a reversal of urbanization did not happen, and the last option ignores that the relationship went both directions."
     },
     {
       "question": "Which of the following was NOT one of the seven factors credited for Britain's industrialization?",
@@ -444,7 +444,7 @@
         "Proximity to rivers and canals that allowed cheap transportation of goods"
       ],
       "correctIndex": 1,
-      "explanation": "The reading's seven factors are waterways, coal, iron, timber, agricultural productivity, access to foreign resources, and capital accumulation, plus the institutional factors of legal protection of property and patents. Military conquest is never listed as one of these factors, while legal protection, capital accumulation, and waterways are each explicitly named."
+      "explanation": "The seven factors are waterways, coal, iron, timber, agricultural productivity, access to foreign resources, and capital accumulation, plus the institutional factors of legal protection of property and patents. Military conquest is not one of these factors, while legal protection, capital accumulation, and waterways are each explicitly named."
     }
   ],
   "images": [],

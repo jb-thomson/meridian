@@ -385,7 +385,7 @@
         "Feudal territories were administered by traveling judges appointed directly by the pope"
       ],
       "correctIndex": 0,
-      "explanation": "The reading says feudalism worked through a chain of personal relationships of obligation between lords and vassals, unlike Song China's meritocratic, exam-based bureaucracy. It never describes feudal lords being chosen by written exams, governing through scholar-officials, or being appointed by the pope, none of which appear in the reading."
+      "explanation": "Feudalism worked through a chain of personal relationships of obligation between lords and vassals, unlike Song China's meritocratic, exam-based bureaucracy. Feudal lords were not chosen by written exams, did not govern through scholar-officials, and were not appointed by the pope."
     },
     {
       "question": "What was the main economic purpose of the medieval manor?",
@@ -396,7 +396,7 @@
         "To mine precious metals that could be exchanged for grain imported from Asia"
       ],
       "correctIndex": 1,
-      "explanation": "The reading describes the manor as a largely self-sufficient agricultural estate producing its own grain, meat, cloth, and basic crafts, relying on outside trade only for luxuries and specialized items like salt and iron. It does not describe manors funding cathedrals, exporting silk and porcelain, or mining metals for grain imports."
+      "explanation": "The manor was a largely self-sufficient agricultural estate producing its own grain, meat, cloth, and basic crafts, relying on outside trade only for luxuries and specialized items like salt and iron. Manors did not fund cathedrals, export silk and porcelain, or mine metals for grain imports."
     },
     {
       "question": "How did serfdom differ from chattel slavery?",
@@ -407,7 +407,7 @@
         "Serfs lived in cities exclusively, while slaves worked only on rural agricultural estates"
       ],
       "correctIndex": 2,
-      "explanation": "The reading says serfs were legal persons with some customary rights who could not be arbitrarily killed, and whose obligations were to the land rather than to a specific owner. It directly contradicts the idea that serfs could be freely bought and sold, and it does not describe serfs as owing no labor or living only in cities."
+      "explanation": "Serfs were legal persons with some customary rights who could not be arbitrarily killed, and their obligations were to the land rather than to a specific owner. This directly contradicts the idea that serfs could be freely bought and sold, and serfs were not exempt from labor or confined to living only in cities."
     },
     {
       "question": "What gave the Catholic Church such powerful leverage over medieval kings and emperors?",
@@ -418,7 +418,7 @@
         "The Church controlled the sacraments believed necessary for salvation, including excommunication"
       ],
       "correctIndex": 3,
-      "explanation": "The reading says the Church's power rested on its monopoly over the sacraments believed necessary for salvation, so a ruler who was excommunicated faced a severe political and spiritual crisis. The reading explicitly notes the Church had no army of its own, and it never mentions the Church controlling gold mines or noble inheritance."
+      "explanation": "The Church's power rested on its monopoly over the sacraments believed necessary for salvation, so a ruler who was excommunicated faced a severe political and spiritual crisis. The Church had no army of its own, and it did not control gold mines or noble inheritance."
     },
     {
       "question": "What actually happened at Canossa in 1077?",
@@ -429,7 +429,7 @@
         "The Concordat of Worms was signed there, ending the Investiture Controversy for good"
       ],
       "correctIndex": 0,
-      "explanation": "The reading describes Henry IV traveling to Canossa and standing barefoot in the snow for three days to beg papal forgiveness after being excommunicated. It does not describe a permanent papal surrender, a military capture of Rome, or the Concordat of Worms being signed at Canossa, that agreement came later, in 1122."
+      "explanation": "Henry IV traveled to Canossa and stood barefoot in the snow for three days to beg papal forgiveness after being excommunicated. This was not a permanent papal surrender, a military capture of Rome, or the signing of the Concordat of Worms at Canossa, that agreement came later, in 1122."
     },
     {
       "question": "What was one lasting consequence of the Crusades despite their military failure?",
@@ -440,7 +440,7 @@
         "European Christians permanently controlled Jerusalem from 1099 until the present day"
       ],
       "correctIndex": 1,
-      "explanation": "The reading says Crusader contact with the Islamic world helped channel Arabic translations of Aristotle and Islamic mathematical and medical knowledge into European intellectual life. It does not mention European kings adopting Confucian exams, gunpowder being invented as a direct result, or permanent European control of Jerusalem, which fell to Saladin in 1187."
+      "explanation": "Crusader contact with the Islamic world helped channel Arabic translations of Aristotle and Islamic mathematical and medical knowledge into European intellectual life. European kings did not adopt Confucian exams, gunpowder was not invented as a direct result, and European control of Jerusalem was not permanent, it fell to Saladin in 1187."
     },
     {
       "question": "Why did serfdom weaken in Western Europe after the Black Death?",
@@ -451,7 +451,7 @@
         "Surviving serfs organized a unified continent-wide rebellion that overthrew feudal lords"
       ],
       "correctIndex": 2,
-      "explanation": "The reading says the Black Death killed roughly one-third of Europe's population, giving surviving peasants far greater bargaining power because lords desperate for labor had to offer better terms. It does not describe a Church declaration against serfdom, new royal laws abolishing it, or a unified rebellion overthrowing feudal lords."
+      "explanation": "The Black Death killed roughly one-third of Europe's population, giving surviving peasants far greater bargaining power because lords desperate for labor had to offer better terms. There was no Church declaration against serfdom, no new royal laws abolishing it, and no unified rebellion overthrowing feudal lords."
     },
     {
       "question": "Which of the following is NOT a reason for medieval Europe's political decentralization?",
@@ -462,7 +462,7 @@
         "The Catholic Church required every kingdom to divide its throne among multiple heirs"
       ],
       "correctIndex": 3,
-      "explanation": "The reading explains decentralization through personal fief relationships, nobles maintaining their own armies, and the Holy Roman Emperor being constantly challenged by electing princes. It never claims the Church required kingdoms to split their throne among multiple heirs, that requirement does not appear anywhere in the reading."
+      "explanation": "Decentralization came from personal fief relationships, nobles maintaining their own armies, and the Holy Roman Emperor being constantly challenged by electing princes. The Church never required kingdoms to split their throne among multiple heirs, that requirement did not exist."
     }
   ],
   "images": [],

@@ -369,7 +369,7 @@
         "It originated in the Americas and reached Europe through contact after Columbus's 1492 voyage"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that the compass originated in China around 1000 CE, was adapted by Islamic scientists for maritime use, and entered European use around 1200 CE. It was not a Portuguese invention, was not first developed as a portolan chart, and long predates any contact with the Americas."
+      "explanation": "The compass originated in China around 1000 CE, was adapted by Islamic scientists for maritime use, and entered European use around 1200 CE. It was not a Portuguese invention, was not first developed as a portolan chart, and long predates any contact with the Americas."
     },
     {
       "question": "Why couldn't earlier square-sailed ships simply sail directly home from an exploration voyage?",
@@ -380,7 +380,7 @@
         "Square-sailed ships lacked any compass, so their crews could never determine which way was home"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that a square sail can only push a ship in the direction the wind blows, so a ship becalmed by unfavorable winds could be stuck for weeks. The lateen sail's ability to angle into the wind solved exactly this problem. The other options describe issues the reading never raises about square sails."
+      "explanation": "A square sail can only push a ship in the direction the wind blows, so a ship becalmed by unfavorable winds could be stuck for weeks. The lateen sail's ability to angle into the wind solved exactly this problem. The other options describe issues that were never a problem for square sails."
     },
     {
       "question": "What made the astrolabe useful to Portuguese navigators?",
@@ -391,7 +391,7 @@
         "It automatically adjusted a ship's lateen sails to the most efficient angle for the wind"
       ],
       "correctIndex": 0,
-      "explanation": "The reading states that the astrolabe let sailors determine latitude, their north-south position, by measuring the angle of the sun or the North Star above the horizon. European navigators of this era could not determine longitude at all, and the other two options describe functions the astrolabe never performed."
+      "explanation": "The astrolabe let sailors determine latitude, their north-south position, by measuring the angle of the sun or the North Star above the horizon. European navigators of this era could not determine longitude at all, and the other two options describe functions the astrolabe never performed."
     },
     {
       "question": "Why was the Dutch fluyt so commercially important in the 17th century?",
@@ -402,7 +402,7 @@
         "Its shallow draft let it explore unmapped coastlines that larger ships could not reach"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that the fluyt required a much smaller crew and carried more cargo than rival ships, which lowered the cost of transporting goods and let Dutch merchants profitably undercut competitors. The fluyt carried no guns, was not the first ship able to tack into the wind, and was designed for cargo efficiency rather than coastal exploration."
+      "explanation": "The fluyt required a much smaller crew and carried more cargo than rival ships, which lowered the cost of transporting goods and let Dutch merchants profitably undercut competitors. The fluyt carried no guns, was not the first ship able to tack into the wind, and was designed for cargo efficiency rather than coastal exploration."
     },
     {
       "question": "What did understanding the trade winds and westerlies allow European sailors to do?",
@@ -413,7 +413,7 @@
         "Build ships that no longer required sails, since the winds pushed cargo directly"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that trade winds reliably blow toward the Americas while westerlies blow back toward Europe, so understanding both let sailors plan a full round trip rather than risk being unable to return. Wind knowledge supplemented tools like the compass and astrolabe rather than replacing them, and it had nothing to do with Ottoman ports or ships without sails."
+      "explanation": "Trade winds reliably blow toward the Americas while westerlies blow back toward Europe, so understanding both let sailors plan a full round trip rather than risk being unable to return. Wind knowledge supplemented tools like the compass and astrolabe rather than replacing them, and it had nothing to do with Ottoman ports or ships without sails."
     },
     {
       "question": "What was the essential difference between the caravel and the carrack?",
@@ -424,18 +424,18 @@
         "The carrack was used only for war, while the caravel was used only for peaceful trade"
       ],
       "correctIndex": 2,
-      "explanation": "The reading describes the caravel as smaller and more maneuverable, ideal for exploring unknown coasts, while the carrack was larger, multi-masted, and built with a deep hold for long transoceanic voyages. Both ships were Portuguese, both could use lateen-style rigging, and neither was restricted to only war or only trade."
+      "explanation": "The caravel was smaller and more maneuverable, ideal for exploring unknown coasts, while the carrack was larger, multi-masted, and built with a deep hold for long transoceanic voyages. Both ships were Portuguese, both could use lateen-style rigging, and neither was restricted to only war or only trade."
     },
     {
       "question": "Which of the following technologies did NOT originate with a non-European civilization?",
       "options": [
-        "The magnetic compass, which the reading traces back to Chinese origins",
-        "The lateen sail, which the reading traces back to Arab and Indian Ocean sailors",
-        "The astrolabe, which the reading traces back to Islamic astronomers building on Greek knowledge",
-        "The caravel, which the reading describes as a European design that combined the borrowed lateen sail with European hull construction"
+        "The magnetic compass, which traces back to Chinese origins",
+        "The lateen sail, which traces back to Arab and Indian Ocean sailors",
+        "The astrolabe, which traces back to Islamic astronomers building on Greek knowledge",
+        "The caravel, a European design that combined the borrowed lateen sail with European hull construction"
       ],
       "correctIndex": 3,
-      "explanation": "The reading credits the compass, lateen sail, and astrolabe directly to non-European civilizations, but it describes the caravel as a European synthesis: a ship design built in Portugal that combined the borrowed lateen sail with European hull construction. The caravel is the one option the reading does not credit as a technology that originated with a non-European civilization."
+      "explanation": "The compass, lateen sail, and astrolabe all trace directly to non-European civilizations, but the caravel was a European synthesis: a ship design built in Portugal that combined the borrowed lateen sail with European hull construction. The caravel is the one option that did not originate with a non-European civilization."
     }
   ],
   "images": [],

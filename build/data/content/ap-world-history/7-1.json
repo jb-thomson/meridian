@@ -105,7 +105,7 @@
         "They had all just signed identical mutual defense treaties requiring them to fight the same wars"
       ],
       "correctIndex": 1,
-      "explanation": "The reading identifies all three as large, multi-ethnic, land-based empires struggling to modernize fast enough to compete militarily and economically with industrialized Western powers, a structural weakness that made them vulnerable to collapse. (A), (C), and (D) describe conditions the reading never mentions."
+      "explanation": "All three were large, multi-ethnic, land-based empires struggling to modernize fast enough to compete militarily and economically with industrialized Western powers, a structural weakness that made them vulnerable to collapse. (A), (C), and (D) describe conditions that never applied."
     },
     {
       "question": "Why did the Young Turks' reforms ultimately fail to save the Ottoman Empire?",
@@ -116,7 +116,7 @@
         "Their turn toward Turkish nationalism alienated the empire's Arab, Armenian, and Greek subjects"
       ],
       "correctIndex": 3,
-      "explanation": "The Young Turks pushed modernization and constitutionalism but increasingly defined the empire in Turkish nationalist terms, which alienated the empire's non-Turkish peoples and deepened the divisions that WWI defeats and the Arab revolt then exploited. (A), (B), and (C) contradict what the reading says the Young Turks actually did."
+      "explanation": "The Young Turks pushed modernization and constitutionalism but increasingly defined the empire in Turkish nationalist terms, which alienated the empire's non-Turkish peoples and deepened the divisions that WWI defeats and the Arab revolt then exploited. (A), (B), and (C) contradict what the Young Turks actually did."
     },
     {
       "question": "What long-term damage did the Taiping Rebellion do to the Qing Dynasty?",
@@ -127,7 +127,7 @@
         "It convinced European powers to fully withdraw from their existing treaty ports in China"
       ],
       "correctIndex": 0,
-      "explanation": "The reading describes the Taiping Rebellion (1850–1864) as one of the deadliest civil wars in history, killing an estimated 20 to 30 million people and leaving the Qing Dynasty financially devastated for decades. (B), (C), and (D) describe outcomes the reading never mentions."
+      "explanation": "The Taiping Rebellion (1850–1864) was one of the deadliest civil wars in history, killing an estimated 20 to 30 million people and leaving the Qing Dynasty financially devastated for decades. (B), (C), and (D) describe outcomes that never happened."
     },
     {
       "question": "What lesson did China's defeat in the First Sino-Japanese War (1894–95) teach about the Self-Strengthening Movement?",
@@ -138,7 +138,7 @@
         "That China needed to abandon all Western technology and return fully to older traditions"
       ],
       "correctIndex": 1,
-      "explanation": "The Self-Strengthening Movement tried to adopt Western technology while preserving Chinese institutions and culture, but Japan's 1894–95 victory proved that partial modernization wasn't enough without deeper institutional and political reform. (A), (C), and (D) all contradict what the reading says happened."
+      "explanation": "The Self-Strengthening Movement tried to adopt Western technology while preserving Chinese institutions and culture, but Japan's 1894–95 victory proved that partial modernization wasn't enough without deeper institutional and political reform. (A), (C), and (D) all contradict what actually happened."
     },
     {
       "question": "What was the fatal mistake of Russia's Provisional Government after the February Revolution?",
@@ -149,10 +149,10 @@
         "It refused to allow the Bolsheviks to participate in any future national elections at all"
       ],
       "correctIndex": 2,
-      "explanation": "The reading identifies the Provisional Government's decision to continue fighting WWI as its fatal mistake, since Russia's army was already collapsing from desertion and food supply to cities had broken down. (A), (B), and (D) describe actions the reading doesn't attribute to the Provisional Government."
+      "explanation": "The Provisional Government's decision to continue fighting WWI was its fatal mistake, since Russia's army was already collapsing from desertion and food supply to cities had broken down. (A), (B), and (D) describe actions the Provisional Government never took."
     },
     {
-      "question": "What made the Mexican Revolution's origins different from the imperial collapses covered in the reading?",
+      "question": "What made the Mexican Revolution's origins different from the imperial collapses of this period?",
       "options": [
         "Mexico's revolution was entirely peaceful and never involved any armed conflict or violence",
         "Mexico's revolution was directly organized and led by foreign governments seeking its territory",
@@ -160,10 +160,10 @@
         "Mexico's revolution succeeded only because Europe was fully occupied fighting World War One"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that Mexico was a republic, not a multi-ethnic land-based empire, and its crisis was specifically political: Díaz's rigging of the 1910 election, which then expanded into a broader social revolution over land and labor. (A), (B), and (D) all contradict details the reading provides."
+      "explanation": "Mexico was a republic, not a multi-ethnic land-based empire, and its crisis was specifically political: Díaz's rigging of the 1910 election, which then expanded into a broader social revolution over land and labor. (A), (B), and (D) all contradict the historical details."
     },
     {
-      "question": "Which of the following was NOT identified in the reading as a cause of the Russian Empire's collapse?",
+      "question": "Which of the following was NOT a cause of the Russian Empire's collapse?",
       "options": [
         "Catastrophic military losses and army disintegration during World War One",
         "The autocracy's refusal to share real power with the Duma after the 1905 Revolution",
@@ -171,7 +171,7 @@
         "A foreign naval blockade that cut off Russia's access to all food imports from its allies"
       ],
       "correctIndex": 3,
-      "explanation": "The reading never mentions a foreign naval blockade cutting off Russian food imports, the food crisis it describes came from wartime supply collapse inside Russia itself. (A), (B), and (C) are all causes the reading directly discusses."
+      "explanation": "There was no foreign naval blockade cutting off Russian food imports. The food crisis came from wartime supply collapse inside Russia itself. (A), (B), and (C) are all real causes."
     }
   ],
   "blocks": [

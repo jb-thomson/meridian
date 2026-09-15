@@ -174,7 +174,7 @@
     },
     {
       "type": "apTip",
-      "text": "Topic 6.6 covers TWO learning objectives (LO-F and LO-G) and two sets of KCs (KC-5.4.I and KC-5.4.II). LO-F focuses on environmental and demographic factors (population growth, famine, urbanization, transportation). LO-G focuses on economic factors (free labor migration vs. coerced migration including enslavement, indentured servitude, convict labor). Know the CED’s illustrative examples: return migrants (Japanese agricultural workers, Lebanese merchants, Italian workers in Argentina); free migrants (Irish to U.S., British engineers to South Asia/Africa); coerced migrants (enslaved peoples, Chinese and Indian indentured workers, convict labor)."
+      "text": "Topic 6.6 covers two things: the environmental and demographic factors behind migration (population growth, famine, urbanization, transportation), and the economic factors (free labor migration vs. coerced migration including enslavement, indentured servitude, convict labor). Know the CED’s illustrative examples: return migrants (Japanese agricultural workers, Lebanese merchants, Italian workers in Argentina); free migrants (Irish to U.S., British engineers to South Asia/Africa); coerced migrants (enslaved peoples, Chinese and Indian indentured workers, convict labor)."
     },
     {
       "type": "funFact",
@@ -320,7 +320,7 @@
         "Push factors describe migration by ship, while pull factors describe migration over land and railways"
       ],
       "correctIndex": 0,
-      "explanation": "The reading defines push factors as conditions (famine, poverty, persecution) that drive people from their home society, and pull factors as conditions (jobs, land, wages) that attract them to a destination. (B), (C), and (D) mischaracterize the distinction the reading makes."
+      "explanation": "Push factors are conditions (famine, poverty, persecution) that drive people from their home society, and pull factors are conditions (jobs, land, wages) that attract them to a destination. (B), (C), and (D) mischaracterize this distinction."
     },
     {
       "question": "Which of the following best describes the Irish Famine (1845-52)?",
@@ -331,7 +331,7 @@
         "An event caused entirely by overpopulation, with no connection at all to British economic policy"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that a potato blight caused the famine, but British landlords continued exporting food and the government refused adequate relief, making a natural disaster into a catastrophe. (A), (C), and (D) all contradict details the reading gives."
+      "explanation": "A potato blight caused the famine, but British landlords continued exporting food and the government refused adequate relief, turning a natural disaster into a catastrophe. (A), (C), and (D) all contradict these details."
     },
     {
       "question": "What effect did steam-powered transportation have on migration patterns?",
@@ -342,7 +342,7 @@
         "It was used almost exclusively to transport enslaved people rather than free voluntary migrants"
       ],
       "correctIndex": 2,
-      "explanation": "The reading states that faster, cheaper steamship crossings allowed migrants to return home periodically or permanently, enabling patterns like Italian seasonal \"swallow\" migration to Argentina. (A), (B), and (D) directly contradict the reading."
+      "explanation": "Faster, cheaper steamship crossings allowed migrants to return home periodically or permanently, enabling patterns like Italian seasonal \"swallow\" migration to Argentina. (A), (B), and (D) directly contradict this."
     },
     {
       "question": "How was Chinese and Indian indentured servitude classified after British emancipation in 1833?",
@@ -353,7 +353,7 @@
         "Only enslaved Africans, and no other group, were ever classified as coerced migrants in this period"
       ],
       "correctIndex": 1,
-      "explanation": "The reading classifies indentured servitude as semi-coerced: workers signed contracts, but recruitment was often deceptive and workers were legally bound for years under harsh conditions. (A) contradicts the reading's own examples. (C) and (D) misstate who the reading classifies as coerced."
+      "explanation": "Indentured servitude is classified as semi-coerced: workers signed contracts, but recruitment was often deceptive and workers were legally bound for years under harsh conditions. (A) contradicts these examples. (C) and (D) misstate who counts as coerced."
     },
     {
       "question": "What was the relationship between new transportation and urbanization in the 19th century?",
@@ -364,7 +364,7 @@
         "Both internal and international migrants relocated to cities, driving significant global urbanization"
       ],
       "correctIndex": 3,
-      "explanation": "The reading explains that new transportation drew both internal and international migrants into cities, contributing to the significant global urbanization of the 19th century, citing London's and Chicago's rapid growth. (B), (C), and (D) all contradict the reading's evidence."
+      "explanation": "New transportation drew both internal and international migrants into cities, contributing to the significant global urbanization of the 19th century, as seen in London's and Chicago's rapid growth. (B), (C), and (D) all contradict this evidence."
     },
     {
       "question": "What were working conditions like for Chinese indentured laborers on Peru's guano islands in the mid-1800s?",
@@ -386,7 +386,7 @@
         "Indentured servants could freely renegotiate their wages and conditions at any point during their contract"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that recruitment for indentured labor was often deceptive and that workers, once bound, could not leave or negotiate during the contract term, which is why historians classify it as semi-coerced. (B), (C), and (D) all contradict what the reading describes."
+      "explanation": "Recruitment for indentured labor was often deceptive, and workers, once bound, could not leave or negotiate during the contract term, which is why historians classify it as semi-coerced. (B), (C), and (D) all contradict this."
     }
   ],
   "images": [],

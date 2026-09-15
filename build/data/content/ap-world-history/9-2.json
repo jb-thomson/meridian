@@ -309,7 +309,7 @@
         "International health organizations understood exactly how to stop these diseases but chose not to fund treatment programs in the poorest countries"
       ],
       "correctIndex": 2,
-      "explanation": "The reading states these diseases persisted not because science couldn't address them, but because the people suffering from them couldn't access solutions that already existed. The claim that no treatment had been developed is wrong since effective drugs did exist. Rapid mutation is not something the reading claims about malaria or TB. Deliberate refusal to fund treatment is a motive the reading never gives."
+      "explanation": "These diseases persisted not because science couldn't address them, but because the people suffering from them couldn't access solutions that already existed. The claim that no treatment had been developed is wrong since effective drugs did exist. Rapid mutation is not a factor in malaria or TB. Deliberate refusal to fund treatment was never the motive."
     },
     {
       "question": "Why was the 1918 influenza pandemic nicknamed the \"Spanish Flu\" even though it likely did not originate in Spain?",
@@ -320,7 +320,7 @@
         "Soldiers from Spain were blamed by other nations for carrying the virus into the crowded trenches of World War I"
       ],
       "correctIndex": 1,
-      "explanation": "Spain had no wartime censorship since it was neutral, so it reported the outbreak openly while warring nations suppressed the news to protect morale. Neither the claim about identifying the virus nor the claim about blaming Spanish soldiers is supported by the reading. The death-toll explanation reverses the actual point: the name came from open reporting, not from an especially high death toll in Spain."
+      "explanation": "Spain had no wartime censorship since it was neutral, so it reported the outbreak openly while warring nations suppressed the news to protect morale. Neither the claim about identifying the virus nor the claim about blaming Spanish soldiers is accurate. The death-toll explanation reverses the actual point: the name came from open reporting, not from an especially high death toll in Spain."
     },
     {
       "question": "What made the 1918 flu virus unusual compared to typical strains of influenza?",
@@ -331,7 +331,7 @@
         "It was unusually deadly for healthy young adults, rather than mainly the very old and very young like most flu strains"
       ],
       "correctIndex": 3,
-      "explanation": "The reading explains that most flu strains kill mainly the very old and very young, but the 1918 strain was unusually deadly for healthy young adults, possibly because of an overly strong immune response. The claims about invisible symptoms and animal-only transmission are not supported by the reading. The claim that it resisted every medicine overstates the issue, the real problem was a lack of antibiotics for secondary infections, not every medicine failing."
+      "explanation": "Most flu strains kill mainly the very old and very young, but the 1918 strain was unusually deadly for healthy young adults, possibly because of an overly strong immune response. The claims about invisible symptoms and animal-only transmission are not accurate. The claim that it resisted every medicine overstates the issue, the real problem was a lack of antibiotics for secondary infections, not every medicine failing."
     },
     {
       "question": "Which combination of factors made HIV especially difficult to contain once it entered the human population?",
@@ -342,7 +342,7 @@
         "International laws in nearly every country made it illegal for doctors to test any patient for the virus without first obtaining a signed court order"
       ],
       "correctIndex": 0,
-      "explanation": "The reading lists several reasons HIV was hard to contain: its long asymptomatic period, its rapid mutation rate that made vaccines difficult, and stigma that slowed government responses. A lack of research funding, long survival on surfaces, and laws requiring court orders for testing are all things the reading never mentions."
+      "explanation": "Several reasons made HIV hard to contain: its long asymptomatic period, its rapid mutation rate that made vaccines difficult, and stigma that slowed government responses. A lack of research funding, long survival on surfaces, and laws requiring court orders for testing were never factors."
     },
     {
       "question": "What was a key reason new diseases like Ebola emerged in the late 20th and early 21st centuries?",
@@ -353,7 +353,7 @@
         "Rising global temperatures had expanded the range where tropical diseases like Ebola could survive and spread"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that as humans encroached on forests, they came into contact with animal populations carrying viruses humans had never encountered, creating new opportunities for disease transmission. Biological weapons research, weakened immunity from vaccines, and rising temperatures are all explanations the reading does not offer."
+      "explanation": "As humans encroached on forests, they came into contact with animal populations carrying viruses humans had never encountered, creating new opportunities for disease transmission. Biological weapons research, weakened immunity from vaccines, and rising temperatures do not explain this."
     },
     {
       "question": "Why did diseases like heart disease and Alzheimer's become bigger causes of death and disability over the 20th century?",
@@ -364,7 +364,7 @@
         "Vaccines, antibiotics, and better nutrition extended lifespans, so far more people lived long enough to develop these age-related conditions"
       ],
       "correctIndex": 3,
-      "explanation": "The reading explains that as vaccines, antibiotics, and better nutrition extended human lifespans, more people lived long enough to develop diseases of old age like heart disease and Alzheimer's. Pollution as a direct cause, a change in diagnosis habits alone, and funding being diverted away from other research are all explanations the reading does not give."
+      "explanation": "As vaccines, antibiotics, and better nutrition extended human lifespans, more people lived long enough to develop diseases of old age like heart disease and Alzheimer's. Pollution as a direct cause, a change in diagnosis habits alone, and funding being diverted away from other research do not explain this."
     },
     {
       "question": "Which of the following is NOT a reason diseases of poverty like malaria and tuberculosis persisted?",
@@ -375,7 +375,7 @@
         "Malnutrition and unsafe drinking water in poor communities left people more vulnerable to infection in the first place"
       ],
       "correctIndex": 2,
-      "explanation": "The reading is explicit that these diseases persisted because of poverty and lack of access, not because medicine lacked treatments; effective drugs and prevention tools already existed. Unaffordable prevention tools, overcrowding, and malnutrition or unsafe water are all reasons the reading does give."
+      "explanation": "These diseases persisted because of poverty and lack of access, not because medicine lacked treatments; effective drugs and prevention tools already existed. Unaffordable prevention tools, overcrowding, and malnutrition or unsafe water are all real contributing reasons."
     },
     {
       "question": "Why didn't antiretroviral drugs solve the HIV/AIDS crisis for everyone once they were developed in the 1990s?",
@@ -386,7 +386,7 @@
         "Antiretroviral drugs turned out to be significantly less effective at treating HIV than the earlier, cheaper treatments had already been"
       ],
       "correctIndex": 0,
-      "explanation": "The reading states antiretroviral drugs transformed HIV into a manageable condition, but only for those who could access the expensive medications, mainly people in wealthy countries or through aid programs like PEPFAR. An export ban, a limit to recently infected patients, and the drugs being less effective than older treatments are all claims the reading does not support."
+      "explanation": "Antiretroviral drugs transformed HIV into a manageable condition, but only for those who could access the expensive medications, mainly people in wealthy countries or through aid programs like PEPFAR. An export ban, a limit to recently infected patients, and the drugs being less effective than older treatments are all inaccurate claims."
     }
   ],
   "images": [],

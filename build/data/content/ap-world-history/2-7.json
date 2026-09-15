@@ -375,7 +375,7 @@
         "That merchants along each network did not trust each other enough to travel the full route together"
       ],
       "correctIndex": 2,
-      "explanation": "The reading uses the fact that the Indian Ocean network also relied on relay trading, even though ships could travel farther than caravans, to argue that relay trading reflects the structure of long distance trade itself, not the specific challenge of any one terrain. It does not mention government regulation forcing handoffs, and it frames relay trading as an efficient system, not a sign of distrust between merchants."
+      "explanation": "The Indian Ocean network also relied on relay trading, even though ships could travel farther than caravans, which shows that relay trading reflects the structure of long distance trade itself, not the specific challenge of any one terrain. Government regulation did not force these handoffs, and relay trading was an efficient system, not a sign of distrust between merchants."
     },
     {
       "question": "What common factor helps explain why Islam spread along all three trade networks?",
@@ -386,7 +386,7 @@
         "Military campaigns traveled alongside and protected merchant caravans on all three networks"
       ],
       "correctIndex": 0,
-      "explanation": "The reading credits Islamic law, the hawala credit system, and a shared commercial language as giving Muslim merchants a practical advantage that spread the faith through commerce rather than force. There were no colonial governments involved in this period, other religions clearly existed alongside Islam along these routes, and the reading is explicit that this spread was peaceful, not backed by military campaigns."
+      "explanation": "Islamic law, the hawala credit system, and a shared commercial language gave Muslim merchants a practical advantage that spread the faith through commerce rather than force. There were no colonial governments involved in this period, other religions clearly existed alongside Islam along these routes, and this spread was peaceful, not backed by military campaigns."
     },
     {
       "question": "Why was the Silk Roads more dependent on political stability than the Indian Ocean network?",
@@ -397,7 +397,7 @@
         "Overland routes passed through many territories where one hostile power could close the whole route"
       ],
       "correctIndex": 3,
-      "explanation": "The reading explains that a merchant caravan could not reroute around a hostile Central Asian territory the way a ship could sail past a hostile port, which is why the Silk Roads flourished under the Pax Mongolica and struggled once Mongol unity collapsed. Port cities like Kilwa and Malacca were very much involved in politics, the Silk Roads passed through many different powers rather than one continuous empire, and the Indian Ocean was actually the larger network of the two."
+      "explanation": "A merchant caravan could not reroute around a hostile Central Asian territory the way a ship could sail past a hostile port, which is why the Silk Roads flourished under the Pax Mongolica and struggled once Mongol unity collapsed. Port cities like Kilwa and Malacca were very much involved in politics, the Silk Roads passed through many different powers rather than one continuous empire, and the Indian Ocean was actually the larger network of the two."
     },
     {
       "question": "Why was maritime trade generally cheaper per unit of cargo than overland trade?",
@@ -408,7 +408,7 @@
         "Overland caravan routes required hiring many more merchants for every single shipment"
       ],
       "correctIndex": 1,
-      "explanation": "The reading points out that a large Chinese junk could carry hundreds of tons of cargo while even a large caravan of a thousand camels could not match that capacity, making the cost per unit of cargo much lower by sea. It never compares sailor and driver wages, ships did pay port fees as described elsewhere in the unit, and staffing needs are not given as the reason for the cost difference."
+      "explanation": "A large Chinese junk could carry hundreds of tons of cargo while even a large caravan of a thousand camels could not match that capacity, making the cost per unit of cargo much lower by sea. Sailor and driver wages are not the comparison here, ships did pay port fees as described elsewhere in the unit, and staffing needs are not the reason for the cost difference."
     },
     {
       "question": "How did the trans-Saharan network's control structure differ from the Indian Ocean's?",
@@ -419,7 +419,7 @@
         "Both networks were controlled by the exact same ruling families across many generations of rule"
       ],
       "correctIndex": 2,
-      "explanation": "The reading contrasts Mali's toll road model, taxing caravans at both ends without producing gold or salt itself, with the Indian Ocean's more decentralized structure of competing port cities like Kilwa, Calicut, and Malacca. Trans-Saharan trade clearly had political rulers involved, the Indian Ocean was not run by one single empire, and the two networks were governed by entirely different ruling families."
+      "explanation": "Mali's toll road model, taxing caravans at both ends without producing gold or salt itself, contrasts with the Indian Ocean's more decentralized structure of competing port cities like Kilwa, Calicut, and Malacca. Trans-Saharan trade clearly had political rulers involved, the Indian Ocean was not run by one single empire, and the two networks were governed by entirely different ruling families."
     },
     {
       "question": "Which of the following was NOT identified as a similarity shared by all three trade networks?",
@@ -430,7 +430,7 @@
         "All three were governed by one unified government that enforced trade law everywhere"
       ],
       "correctIndex": 3,
-      "explanation": "The reading names relay trading, the peaceful spread of Islam, and lasting diasporic communities as genuine similarities across all three networks. A single unified government enforcing trade law everywhere is not one of these similarities, and it directly contradicts the reading's point that the networks had very different and often decentralized control structures."
+      "explanation": "Relay trading, the peaceful spread of Islam, and lasting diasporic communities are genuine similarities across all three networks. A single unified government enforcing trade law everywhere is not one of these similarities, and it directly contradicts the fact that the networks had very different and often decentralized control structures."
     },
     {
       "question": "What separates a strong comparison from a weak one on the AP exam?",
@@ -441,7 +441,7 @@
         "A strong comparison focuses only on differences and deliberately avoids discussing any similarities"
       ],
       "correctIndex": 0,
-      "explanation": "The reading contrasts a weak comparison, which simply states a fact like both networks spread Islam, with a strong one that explains why the similarity exists and what it shows about the period. It never suggests that fancier vocabulary makes a comparison stronger, and it treats both similarities and differences as valuable, not just differences alone, and explanation, not quantity, as what matters."
+      "explanation": "A weak comparison simply states a fact, like both networks spread Islam, while a strong one explains why the similarity exists and what it shows about the period. Fancier vocabulary does not make a comparison stronger, both similarities and differences are valuable, not just differences alone, and explanation, not quantity, is what matters."
     }
   ],
   "images": [],

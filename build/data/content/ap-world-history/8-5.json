@@ -315,11 +315,11 @@
       "options": [
         "About a dozen nations gained independence, a modest shift that mostly affected small island territories rather than major world regions",
         "Over 50 new nations joined the international community, one of the most rapid geopolitical transformations in human history",
-        "Around 100 new nations gained independence, though the reading notes this process actually slowed down compared to earlier centuries",
-        "Exactly 4 new nations gained independence, matching the four nationalist leaders the reading identifies as required examples"
+        "Around 100 new nations gained independence, though this process actually slowed down compared to earlier centuries",
+        "Exactly 4 new nations gained independence, matching the four nationalist leaders identified as required examples"
       ],
       "correctIndex": 1,
-      "explanation": "The reading states that over 50 new nations gained independence in this 30-year period, calling it one of the most rapid geopolitical transformations in human history. The other options invent numbers and claims the reading does not support."
+      "explanation": "Over 50 new nations gained independence in this 30-year period, one of the most rapid geopolitical transformations in human history. The other options invent numbers and claims that are not accurate."
     },
     {
       "question": "Why was Kwame Nkrumah's Gold Coast becoming Ghana in 1957 especially significant for African decolonization?",
@@ -330,7 +330,7 @@
         "It was the first sub-Saharan African colony to achieve independence, showing peaceful decolonization was possible and inspiring movements across the continent"
       ],
       "correctIndex": 3,
-      "explanation": "The reading calls Ghana's 1957 independence historic because it was the first sub-Saharan African colony to gain independence, demonstrating that peaceful decolonization was achievable and inspiring movements elsewhere in Africa. Nkrumah's Convention People's Party used mass political organizing and elections, not armed insurgency, and the reading does not describe a single-year British withdrawal or a communist model."
+      "explanation": "Ghana's 1957 independence was historic because it was the first sub-Saharan African colony to gain independence, demonstrating that peaceful decolonization was achievable and inspiring movements elsewhere in Africa. Nkrumah's Convention People's Party used mass political organizing and elections, not armed insurgency, and there was no single-year British withdrawal or communist model involved."
     },
     {
       "question": "Comparing India and Algeria, which factor best explains why some colonies achieved negotiated independence while others required armed struggle?",
@@ -341,7 +341,7 @@
         "Whether the colony's independence movement had support from a majority of countries in the United Nations General Assembly"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that Britain, exhausted after WWII, was generally willing to negotiate, while France regarded Algeria as legally part of France and had over a million settlers determined to stay, making negotiation far harder. Currency, relative population size, and UN votes are not factors the reading discusses."
+      "explanation": "Britain, exhausted after WWII, was generally willing to negotiate, while France regarded Algeria as legally part of France and had over a million settlers determined to stay, making negotiation far harder. Currency, relative population size, and UN votes were not factors in this difference."
     },
     {
       "question": "What made Gamal Abdel Nasser's nationalization of the Suez Canal in 1956 significant beyond Egypt itself?",
@@ -352,7 +352,7 @@
         "It led Egypt to formally join the Soviet Union as a satellite state for the remainder of the Cold War"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that the Suez Crisis ended in humiliation for Britain and France when the US and USSR both demanded withdrawal, showing that European powers could no longer act imperially without superpower approval. The reading does not describe a permanent end to European activity, UN administration of Egypt, or Egypt joining the USSR."
+      "explanation": "The Suez Crisis ended in humiliation for Britain and France when the US and USSR both demanded withdrawal, showing that European powers could no longer act imperially without superpower approval. There was no permanent end to European activity, no UN administration of Egypt, and Egypt did not join the USSR."
     },
     {
       "question": "What does the Muslim League's demand for Pakistan illustrate about colonial borders?",
@@ -363,7 +363,7 @@
         "That Pakistan and India quickly reunified into a single state once the initial partition violence had subsided"
       ],
       "correctIndex": 0,
-      "explanation": "The reading presents the Muslim League and Partition as showing how colonial units that grouped diverse religious communities together could fragment at independence into new states along those lines. It does not claim the British planned partition in advance, that religious conflict began only in 1947, or that India and Pakistan later reunified."
+      "explanation": "The Muslim League and Partition show how colonial units that grouped diverse religious communities together could fragment at independence into new states along those lines. The British did not plan partition in advance, religious conflict did not begin only in 1947, and India and Pakistan did not later reunify."
     },
     {
       "question": "What did the Biafra secessionist movement in Nigeria (1967-70) reveal about post-independence Africa?",
@@ -374,7 +374,7 @@
         "That famine and civil war were rare exceptions in Africa's decolonization experience during this period"
       ],
       "correctIndex": 1,
-      "explanation": "The reading uses Biafra to show how Nigeria's colonial-era borders combined hundreds of ethnic groups into one state, and how that combination could explode into a devastating civil war with 1-3 million deaths after independence. Nigeria did not become unusually stable, Britain did not return to govern it, and the reading treats this kind of conflict as a real and significant pattern, not a rare exception."
+      "explanation": "Biafra shows how Nigeria's colonial-era borders combined hundreds of ethnic groups into one state, and how that combination could explode into a devastating civil war with 1-3 million deaths after independence. Nigeria did not become unusually stable, Britain did not return to govern it, and this kind of conflict was a real and significant pattern, not a rare exception."
     },
     {
       "question": "Which of the following is NOT one of the three paths to independence?",
@@ -385,7 +385,7 @@
         "Regional, religious, or ethnic movements that challenged colonial rule and inherited borders, as with the Muslim League"
       ],
       "correctIndex": 2,
-      "explanation": "The reading organizes decolonization into negotiated independence, independence through armed struggle, and regional or religious or ethnic movements, none of which involve a population threshold. There is no such automatic population-based rule described anywhere in the reading."
+      "explanation": "Decolonization is organized into negotiated independence, independence through armed struggle, and regional or religious or ethnic movements, none of which involve a population threshold. There is no such automatic population-based rule in the historical record."
     },
     {
       "question": "Why is the Québécois separatist movement in Canada included alongside decolonization movements in Asia and Africa?",
@@ -396,7 +396,7 @@
         "Because Quebec's separatist movement used the exact same armed guerrilla tactics that the FLN used against France"
       ],
       "correctIndex": 2,
-      "explanation": "The reading presents Quebec as a regional movement showing that decolonization-era dynamics, resistance to being governed within borders a community did not choose, could appear even in a stable, prosperous democracy like Canada, not only in colonies. It does not claim African funding, that Quebec actually achieved independence, or that its movement mirrored the FLN's armed tactics."
+      "explanation": "Quebec is a regional movement showing that decolonization-era dynamics, resistance to being governed within borders a community did not choose, could appear even in a stable, prosperous democracy like Canada, not only in colonies. There was no African funding, Quebec did not actually achieve independence, and its movement did not mirror the FLN's armed tactics."
     }
   ]
 }

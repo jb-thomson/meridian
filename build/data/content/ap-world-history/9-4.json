@@ -285,7 +285,7 @@
         "All four raised tariffs sharply to shield their own struggling domestic industries from foreign competition"
       ],
       "correctIndex": 1,
-      "explanation": "The reading identifies all four as examples of governments that encouraged free-market policies and economic liberalization, even though they governed under very different political systems. (A), (C), and (D) are not supported by the reading."
+      "explanation": "All four were governments that encouraged free-market policies and economic liberalization, even though they governed under very different political systems. (A), (C), and (D) are not accurate."
     },
     {
       "question": "How did Deng Xiaoping's path to a market economy differ from Reagan's and Thatcher's?",
@@ -296,18 +296,18 @@
         "Deng turned nearly all foreign investment away, while Reagan and Thatcher went out of their way to attract it into their economies"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that Deng introduced market mechanisms while maintaining strict Communist Party control, a very different path from Reagan and Thatcher, who pursued liberalization within existing democratic systems. (A), (C), and (D) are not accurate."
+      "explanation": "Deng introduced market mechanisms while maintaining strict Communist Party control, a very different path from Reagan and Thatcher, who pursued liberalization within existing democratic systems. (A), (C), and (D) are not accurate."
     },
     {
       "question": "What is a 'knowledge economy,' and which nations are examples of it?",
       "options": [
-        "An economy centered mainly on farm and agricultural exports, illustrated by the reading's Vietnam and Bangladesh examples",
-        "An economy built around cheap manufactured goods, illustrated by the reading's examples of Mexico and Honduras",
-        "An economy driven by high-skill services and technology, illustrated by the reading's examples of Finland, Japan, and the US",
-        "An economy dependent on extracting raw natural resources, illustrated by the reading's examples of Chile and Russia"
+        "An economy centered mainly on farm and agricultural exports, illustrated by Vietnam and Bangladesh",
+        "An economy built around cheap manufactured goods, illustrated by Mexico and Honduras",
+        "An economy driven by high-skill services and technology, illustrated by Finland, Japan, and the US",
+        "An economy dependent on extracting raw natural resources, illustrated by Chile and Russia"
       ],
       "correctIndex": 2,
-      "explanation": "The reading defines knowledge economies as those built on high-skill services, technology, and innovation, naming Finland, Japan, and the US as examples. (A) and (B) actually describe the manufacturing economies the reading contrasts with knowledge economies. (D) is not mentioned."
+      "explanation": "Knowledge economies are those built on high-skill services, technology, and innovation, with Finland, Japan, and the US as examples. (A) and (B) actually describe the manufacturing economies that contrast with knowledge economies. (D) is not relevant."
     },
     {
       "question": "What mainly drove the shift of industrial manufacturing to countries like Vietnam, Bangladesh, Mexico, and Honduras?",
@@ -318,7 +318,7 @@
         "Lower labor costs there, combined with reduced trade barriers, made production there more profitable for companies"
       ],
       "correctIndex": 3,
-      "explanation": "The reading explains that this geographic relocation of manufacturing was driven by wage differentials between countries, facilitated by reduced trade barriers. (A), (B), and (C) are not given as reasons in the reading."
+      "explanation": "This geographic relocation of manufacturing was driven by wage differentials between countries, facilitated by reduced trade barriers. (A), (B), and (C) are not accurate reasons."
     },
     {
       "question": "Why are Nestle, Nissan, and Mahindra and Mahindra grouped together as examples of multinational corporations?",
@@ -329,7 +329,7 @@
         "To argue that international regulators should break up multinational corporations that grow to this size"
       ],
       "correctIndex": 0,
-      "explanation": "These three companies come from Switzerland, Japan, and India, showing that multinational corporations from many regions of the world, not just wealthy Western nations, became global economic forces. (B), (C), and (D) are not supported by the reading."
+      "explanation": "These three companies come from Switzerland, Japan, and India, showing that multinational corporations from many regions of the world, not just wealthy Western nations, became global economic forces. (B), (C), and (D) are not accurate."
     },
     {
       "question": "What was a major criticism of NAFTA?",
@@ -340,7 +340,7 @@
         "It forced Mexico to adopt income tax rates that were identical to those used in the United States"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that NAFTA made it profitable for companies to relocate production to Mexico, displacing manufacturing workers in the US and fueling political backlash. (A), (B), and (D) are not supported by the reading."
+      "explanation": "NAFTA made it profitable for companies to relocate production to Mexico, displacing manufacturing workers in the US and fueling political backlash. (A), (B), and (D) are not accurate."
     },
     {
       "question": "How were the gains and costs of late 20th century globalization distributed?",
@@ -351,7 +351,7 @@
         "Globalization produced essentially no measurable economic gains anywhere for any country during this whole period"
       ],
       "correctIndex": 1,
-      "explanation": "The reading describes this distributional pattern directly: broadly positive at the global level, since hundreds of millions in Asia escaped poverty, but negative for specific groups like manufacturing workers in wealthy nations. (A), (C), and (D) are not supported."
+      "explanation": "This distributional pattern was broadly positive at the global level, since hundreds of millions in Asia escaped poverty, but negative for specific groups like manufacturing workers in wealthy nations. (A), (C), and (D) are not accurate."
     },
     {
       "question": "Which of the following was NOT an effect of economic globalization in the late 20th century?",
@@ -362,7 +362,7 @@
         "Gains from globalization flowed disproportionately to capital owners and highly skilled knowledge workers"
       ],
       "correctIndex": 0,
-      "explanation": "The reading states that global income inequality between nations actually declined as developing economies grew rapidly, the opposite of what this option claims. (B), (C), and (D) are all effects the reading directly describes."
+      "explanation": "Global income inequality between nations actually declined as developing economies grew rapidly, the opposite of what this option claims. (B), (C), and (D) are all effects that actually occurred."
     }
   ],
   "images": [],

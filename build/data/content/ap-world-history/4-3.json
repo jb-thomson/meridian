@@ -353,7 +353,7 @@
         "A tax the Spanish crown collected on all silver shipped back from its American colonies"
       ],
       "correctIndex": 1,
-      "explanation": "The reading defines the Columbian Exchange as the massive transfer of plants, animals, diseases, and people between the Eastern and Western Hemispheres that began after Columbus's 1492 voyage, ending roughly 12,000 years of biological isolation. It was not a trade agreement, a shipping route, or a tax."
+      "explanation": "The Columbian Exchange was the massive transfer of plants, animals, diseases, and people between the Eastern and Western Hemispheres that began after Columbus's 1492 voyage, ending roughly 12,000 years of biological isolation. It was not a trade agreement, a shipping route, or a tax."
     },
     {
       "question": "Why were indigenous Americans so much more vulnerable to Afro-Eurasian diseases than Europeans were?",
@@ -364,7 +364,7 @@
         "Spanish colonizers deliberately infected indigenous populations with disease as an early strategy"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that diseases like smallpox had circulated in Afro-Eurasia for centuries, giving those populations partial immunity through repeated exposure, while indigenous Americans had zero prior exposure and therefore zero defense. The reading does not claim indigenous peoples lacked medicine, does not describe European ships carrying more disease per voyage, and never describes deliberate infection as a strategy, smallpox spread on its own well ahead of Spanish forces."
+      "explanation": "Diseases like smallpox had circulated in Afro-Eurasia for centuries, giving those populations partial immunity through repeated exposure, while indigenous Americans had zero prior exposure and therefore zero defense. Indigenous peoples were not lacking medicine, European ships did not carry more disease per voyage, and deliberate infection was never a strategy, smallpox spread on its own well ahead of Spanish forces."
     },
     {
       "question": "What effect did American food crops like the potato have on populations in Afro-Eurasia?",
@@ -375,7 +375,7 @@
         "They were grown only as decorative garden plants until the 20th century in most regions"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that the potato produced far more calories per acre than wheat in cold, wet climates, and that this nutritional boost supported population growth across places like Ireland, Germany, and Russia. The reading does not describe farmers refusing the crop, widespread famine from it, or it being merely decorative."
+      "explanation": "The potato produced far more calories per acre than wheat in cold, wet climates, and this nutritional boost supported population growth across places like Ireland, Germany, and Russia. Farmers did not refuse the crop, it did not cause widespread famine, and it was not merely decorative."
     },
     {
       "question": "How did the reintroduction of horses change the cultures of Plains peoples in North America?",
@@ -386,7 +386,7 @@
         "It had almost no lasting cultural effect beyond providing a faster method of local travel"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that mounted hunters could run down bison far more efficiently than hunters on foot, which increased food security and transformed Plains societies into fully nomadic, militarily powerful cultures built around the horse. The other options describe outcomes the reading does not support."
+      "explanation": "Mounted hunters could run down bison far more efficiently than hunters on foot, which increased food security and transformed Plains societies into fully nomadic, militarily powerful cultures built around the horse. The other options describe outcomes that are not accurate."
     },
     {
       "question": "How was the Columbian Exchange connected to the growth of the Atlantic slave trade?",
@@ -397,18 +397,18 @@
         "The slave trade began entirely independently and had no real connection to the Columbian Exchange"
       ],
       "correctIndex": 0,
-      "explanation": "The reading traces a direct chain: disease killed 50 to 90 percent of indigenous populations, leaving plantation owners without enough workers, which drove the massive expansion of the Atlantic slave trade to supply labor for crops like sugar. The other options describe relationships the reading never mentions."
+      "explanation": "There was a direct chain here: disease killed 50 to 90 percent of indigenous populations, leaving plantation owners without enough workers, which drove the massive expansion of the Atlantic slave trade to supply labor for crops like sugar. The other options describe relationships that never existed."
     },
     {
       "question": "Which of the following did the College Board specifically name as disease vectors transferred to the Americas, in addition to human diseases themselves?",
       "options": [
         "Mosquitoes and rats, which carried malaria and other diseases across the Atlantic",
-        "Migratory birds, which the reading credits with spreading disease between continents",
-        "Domesticated cats, which the reading says carried disease into indigenous households",
-        "Ocean currents themselves, which the reading treats as a disease vector in their own right"
+        "Migratory birds, which spread disease between continents",
+        "Domesticated cats, which carried disease into indigenous households",
+        "Ocean currents themselves, treated as a disease vector in their own right"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explicitly names mosquitoes and rats as disease vectors, noting that mosquitoes carrying malaria arrived from Africa via the slave trade and that rats carrying disease stowed away on ships, amplifying the epidemiological impact. Birds, cats, and ocean currents are not mentioned as vectors in the reading."
+      "explanation": "Mosquitoes and rats were the disease vectors, mosquitoes carrying malaria arrived from Africa via the slave trade and rats carrying disease stowed away on ships, amplifying the epidemiological impact. Birds, cats, and ocean currents were not vectors."
     },
     {
       "question": "Which of the following was NOT an effect of the Columbian Exchange?",
@@ -419,7 +419,7 @@
         "A near-total halt in global population growth that lasted for several centuries afterward"
       ],
       "correctIndex": 3,
-      "explanation": "The reading describes population growth in Afro-Eurasia from new food crops, catastrophic indigenous population loss, and the resulting expansion of the slave trade, but it never claims global population growth halted. In fact the reading treats American crops as a driver of population growth, not stagnation."
+      "explanation": "Population grew in Afro-Eurasia from new food crops even amid catastrophic indigenous population loss and the resulting expansion of the slave trade, but global population growth never halted. In fact American crops were a driver of population growth, not stagnation."
     }
   ],
   "images": [],

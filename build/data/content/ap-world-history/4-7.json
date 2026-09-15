@@ -183,7 +183,7 @@
     },
     {
       "type": "apTip",
-      "text": "The College Board names this as an illustrative example under LO M (social categories maintained or changed). If you see a stimulus about the \"Sultanate of Women\" or about property-owning Ottoman women, the AP is testing whether you understand that women's status in the Ottoman Empire was not uniform. It varied dramatically by class, religion, and proximity to the imperial center."
+      "text": "The College Board names this as an illustrative example of a social category that was maintained or changed. If you see a stimulus about the \"Sultanate of Women\" or about property-owning Ottoman women, the AP is testing whether you understand that women's status in the Ottoman Empire was not uniform. It varied dramatically by class, religion, and proximity to the imperial center."
     },
     {
       "type": "paragraph",
@@ -362,7 +362,7 @@
         "A military rank system used exclusively within the Spanish colonial armed forces"
       ],
       "correctIndex": 0,
-      "explanation": "The reading describes the casta system as a formal, legally institutionalized hierarchy that ranked colonists by their ancestry and assigned different taxes, offices, and legal rights based on that ranking. It was not a religious council, a mining guild, or a military rank system, none of which the reading mentions."
+      "explanation": "The casta system was a formal, legally institutionalized hierarchy that ranked colonists by their ancestry and assigned different taxes, offices, and legal rights based on that ranking. It was not a religious council, a mining guild, or a military rank system, and none of those existed in this context."
     },
     {
       "question": "Was the casta system's boundaries fixed or flexible in practice?",
@@ -373,7 +373,7 @@
         "Based only on birthplace, with ancestry playing essentially no role in the system"
       ],
       "correctIndex": 1,
-      "explanation": "The reading states the casta system was both rigid in its legal categories and flexible in social application, since wealthy mestizos could sometimes pass as criollos and poor criollos might be treated as mestizos. The system was formally codified in law, not informal, and ancestry was central to it even though birthplace also mattered for the separate peninsular and criollo distinction."
+      "explanation": "The casta system was both rigid in its legal categories and flexible in social application, since wealthy mestizos could sometimes pass as criollos and poor criollos might be treated as mestizos. The system was formally codified in law, not informal, and ancestry was central to it even though birthplace also mattered for the separate peninsular and criollo distinction."
     },
     {
       "question": "What was the political purpose of the Qing queue order requiring Han men to wear the Manchu hairstyle?",
@@ -384,7 +384,7 @@
         "To make Han men more physically comfortable during hot southern summers"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that the queue requirement had a precise political function: it forced every Han man to visibly and continuously display submission to Manchu authority every time he appeared in public, on penalty of death. Tax exemptions for craftsmen, distinguishing soldiers from civilians, and comfort in hot weather are not mentioned as reasons for the policy."
+      "explanation": "The queue requirement had a precise political function: it forced every Han man to visibly and continuously display submission to Manchu authority every time he appeared in public, on penalty of death. Tax exemptions for craftsmen, distinguishing soldiers from civilians, and comfort in hot weather were not reasons for the policy."
     },
     {
       "question": "How did the Qing Dynasty combine coercion with inclusion to govern Han China?",
@@ -395,7 +395,7 @@
         "By enforcing the queue as a symbol of submission while keeping the exams open"
       ],
       "correctIndex": 3,
-      "explanation": "The reading describes the Qing maintaining the traditional Confucian examination system and appointing Han officials to high positions, while enforcing the queue as a coercive symbol of political submission. The examination system was kept, not replaced, there is no mention of forced religious conversion, and Han provinces were not left to govern independently."
+      "explanation": "The Qing maintained the traditional Confucian examination system and appointed Han officials to high positions, while enforcing the queue as a coercive symbol of political submission. The examination system was kept, not replaced, there was no forced religious conversion, and Han provinces were not left to govern independently."
     },
     {
       "question": "What was the Ottoman millet system?",
@@ -406,7 +406,7 @@
         "A military draft that required all non-Muslims to serve in the Ottoman navy"
       ],
       "correctIndex": 2,
-      "explanation": "The reading defines the millet system as allowing recognized religious communities, such as Christians and Jews, to govern themselves under their own religious law regarding marriage, divorce, inheritance, and education, with their own courts and leaders. It was not a tax on Muslim merchants, a naval draft, or a forced conversion program, non-Muslims paid the jizya but were otherwise largely autonomous."
+      "explanation": "The millet system allowed recognized religious communities, such as Christians and Jews, to govern themselves under their own religious law regarding marriage, divorce, inheritance, and education, with their own courts and leaders. It was not a tax on Muslim merchants, a naval draft, or a forced conversion program. Non-Muslims paid the jizya but were otherwise largely autonomous."
     },
     {
       "question": "What was the status of women in the Ottoman Empire?",
@@ -417,7 +417,7 @@
         "Women's status varied enormously by class, religion, and closeness to the court"
       ],
       "correctIndex": 3,
-      "explanation": "The reading describes a range of experiences: elite women in the Sultanate of Women wielded real political influence, urban Muslim women could own property and bring legal cases, rural peasant women had fewer protections, and non-Muslim women followed their own millet's law. Status clearly was not identical across all women, legal rights were not limited to non-Muslim women, and urban Muslim women could in fact own property."
+      "explanation": "Women's experiences varied widely: elite women in the Sultanate of Women wielded real political influence, urban Muslim women could own property and bring legal cases, rural peasant women had fewer protections, and non-Muslim women followed their own millet's law. Status clearly was not identical across all women, legal rights were not limited to non-Muslim women, and urban Muslim women could in fact own property."
     },
     {
       "question": "Which of the following was NOT true of Mughal Emperor Akbar's policies?",
@@ -428,7 +428,7 @@
         "He abolished the jizya tax that had previously been levied on non-Muslim subjects"
       ],
       "correctIndex": 0,
-      "explanation": "The reading describes Akbar pursuing accommodation, not conversion: he abolished the jizya tax, appointed Rajput Hindu nobles to top positions, and developed the syncretic Din-i-Ilahi philosophy. Forcing Hindu subjects to convert to Islam directly contradicts this accommodation and is not supported anywhere in the reading."
+      "explanation": "Akbar pursued accommodation, not conversion: he abolished the jizya tax, appointed Rajput Hindu nobles to top positions, and developed the syncretic Din-i-Ilahi philosophy. Forcing Hindu subjects to convert to Islam directly contradicts this accommodation and has no historical support."
     },
     {
       "question": "Why was Akbar's accommodation of non-Muslim subjects not simply an act of open-minded idealism?",
@@ -439,7 +439,7 @@
         "Akbar's own military commanders forced the policy on him against his personal wishes"
       ],
       "correctIndex": 0,
-      "explanation": "The reading states that Mughal rule depended on cooperation from the Rajput Hindu warrior nobility who controlled large territories, so Akbar's accommodation was as much practical power politics as personal open-mindedness. Nothing in the reading mentions European missionaries, an Ottoman requirement, or military commanders forcing the policy on him."
+      "explanation": "Mughal rule depended on cooperation from the Rajput Hindu warrior nobility who controlled large territories, so Akbar's accommodation was as much practical power politics as personal open-mindedness. European missionaries, an Ottoman requirement, and military commanders forcing the policy on him all play no role here."
     }
   ],
   "images": [],

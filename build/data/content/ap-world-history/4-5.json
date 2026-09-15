@@ -230,7 +230,7 @@
     },
     {
       "type": "apTip",
-      "text": "The College Board's LO J asks about \"political, economic, and cultural factors affecting society from 1450 to 1750\", and specifically flags demographic changes in Africa from the slave trade as an example. Don't only think about the trade's effects on the Americas; the AP may ask about its effects inside Africa (gender imbalance, family disruption, depopulation, increased internal raiding)."
+      "text": "The College Board specifically flags demographic changes in Africa from the slave trade as an example of a political, economic, and cultural factor affecting society from 1450 to 1750. Don't only think about the trade's effects on the Americas; the AP may ask about its effects inside Africa (gender imbalance, family disruption, depopulation, increased internal raiding)."
     },
     {
       "type": "heading",
@@ -404,7 +404,7 @@
         "That precious metals were less valuable to a nation than fertile farmland and grain"
       ],
       "correctIndex": 2,
-      "explanation": "The reading compares mercantilist thinking to a pie of fixed size: a nation could only grow richer by taking a bigger slice from someone else, which is why policy focused on accumulating gold and silver. This is the opposite of free trade theory, and it contradicts granting colonies independence or dismissing precious metals, both of which mercantilist policy rejected."
+      "explanation": "Mercantilist thinking treated global wealth like a pie of fixed size: a nation could only grow richer by taking a bigger slice from someone else, which is why policy focused on accumulating gold and silver. This is the opposite of free trade theory, and it contradicts granting colonies independence or dismissing precious metals, both of which mercantilist policy rejected."
     },
     {
       "question": "What made joint-stock companies like the VOC different from earlier trading ventures?",
@@ -415,7 +415,7 @@
         "They limited their trade activities strictly to ports within their home country"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that joint-stock companies raised money by selling shares to many investors, spreading both profit and risk, while also holding state-like powers such as armies and treaty-making authority. They were not funded purely by taxes, they operated under royal charters rather than in secret, and their whole purpose was long-distance, not domestic, trade."
+      "explanation": "Joint-stock companies raised money by selling shares to many investors, spreading both profit and risk, while also holding state-like powers such as armies and treaty-making authority. They were not funded purely by taxes, they operated under royal charters rather than in secret, and their whole purpose was long-distance, not domestic, trade."
     },
     {
       "question": "Why did Chinese demand for silver matter so much to the global economy?",
@@ -426,7 +426,7 @@
         "China required taxes paid in silver, pulling American silver eastward across the globe"
       ],
       "correctIndex": 3,
-      "explanation": "The reading explains that the Ming and Qing dynasties required taxes to be paid in silver, creating enormous domestic demand that pulled American silver eastward through European and Manila Galleon trade routes. China did not refuse silver or rely on its own mines, and its main use for silver was tax payment, not religious ceremony."
+      "explanation": "The Ming and Qing dynasties required taxes to be paid in silver, creating enormous domestic demand that pulled American silver eastward through European and Manila Galleon trade routes. China did not refuse silver or rely on its own mines, and its main use for silver was tax payment, not religious ceremony."
     },
     {
       "question": "What connected Potosí silver directly to Chinese markets by the 1570s?",
@@ -437,7 +437,7 @@
         "A shared currency treaty negotiated directly between Spain and the Qing court"
       ],
       "correctIndex": 1,
-      "explanation": "The reading names the Manila Galleon trade, established by the 1570s, as the route that carried Potosí silver from Acapulco across the Pacific to Manila, connecting it directly to Chinese markets. A Persian overland caravan, an African sea route, and a Spanish-Qing treaty are not mentioned in the reading."
+      "explanation": "The Manila Galleon trade, established by the 1570s, was the route that carried Potosí silver from Acapulco across the Pacific to Manila, connecting it directly to Chinese markets. A Persian overland caravan, an African sea route, and a Spanish-Qing treaty played no part in this."
     },
     {
       "question": "What does it mean that peasant and artisan labor 'intensified' in places like India and China during this period?",
@@ -448,7 +448,7 @@
         "Local production collapsed as cheaper European imports replaced domestic goods"
       ],
       "correctIndex": 2,
-      "explanation": "The reading describes cotton weavers in Gujarat and Bengal and silk producers in China working longer and producing more to supply expanding global markets, well before industrialization introduced new machines. It does not describe plantation labor camps in Asia, and production grew rather than collapsed under global demand."
+      "explanation": "Cotton weavers in Gujarat and Bengal and silk producers in China worked longer and produced more to supply expanding global markets, well before industrialization introduced new machines. There were no plantation labor camps in Asia, and production grew rather than collapsed under global demand."
     },
     {
       "question": "Which of the following was NOT a demographic effect of the slave trade on Africa itself?",
@@ -459,10 +459,10 @@
         "Disruption of marriage and family patterns in the communities affected"
       ],
       "correctIndex": 0,
-      "explanation": "The reading describes the slave trade causing gender imbalance, family and marriage disruption, and depopulation in regions like the Congo Basin, Senegambia, and the Niger Delta, the opposite of population growth. Gender imbalance, depopulation, and disrupted marriage patterns are all directly described as effects."
+      "explanation": "The slave trade caused gender imbalance, family and marriage disruption, and depopulation in regions like the Congo Basin, Senegambia, and the Niger Delta, the opposite of population growth. Gender imbalance, depopulation, and disrupted marriage patterns were all real effects."
     },
     {
-      "question": "What made Atlantic syncretism, like Vodou, different from the voluntary syncretism covered in earlier units, such as Sufi Islam?",
+      "question": "What made Atlantic syncretism, like Vodou, different from other historical examples of voluntary religious syncretism, such as Sufi Islam?",
       "options": [
         "It blended only Catholic and Protestant traditions, without any African elements at all",
         "It developed under conditions of enslavement and colonial domination, not voluntary contact",
@@ -470,7 +470,7 @@
         "There was no real difference, both developed under nearly identical conditions"
       ],
       "correctIndex": 1,
-      "explanation": "The reading's AP tip directly contrasts the two: earlier syncretism from Unit 2 grew out of voluntary trade contact, while Atlantic syncretism like Vodou developed under enslavement and colonial domination. Vodou blended African and Catholic elements, not Catholic and Protestant ones, and it grew from African religious survival, not missionary invention."
+      "explanation": "Voluntary religious syncretism, like Sufi Islam's blending with local practices along trade routes, grew out of contact between willing trading partners, while Atlantic syncretism like Vodou developed under enslavement and colonial domination. Vodou blended African and Catholic elements, not Catholic and Protestant ones, and it grew from African religious survival, not missionary invention."
     },
     {
       "question": "Who does the College Board credit with contributing to the Atlantic world's cultural mixing?",
@@ -481,7 +481,7 @@
         "All parties, though the mixing happened under highly unequal and often forced conditions"
       ],
       "correctIndex": 3,
-      "explanation": "The reading directly states that the College Board describes African, American, and European peoples as all contributing to cultural synthesis, while noting this contribution was profoundly coerced for enslaved Africans and indigenous Americans. It does not claim only one group contributed, and it explicitly says mixing did happen, not that cultures stayed separate."
+      "explanation": "The College Board describes African, American, and European peoples as all contributing to cultural synthesis, while noting this contribution was profoundly coerced for enslaved Africans and indigenous Americans. It was not just one group that contributed, and mixing did happen, cultures did not stay separate."
     }
   ],
   "images": [],

@@ -398,7 +398,7 @@
         "In the city of Genoa itself, carried by rats that lived inside the city's grain warehouses"
       ],
       "correctIndex": 1,
-      "explanation": "The reading points to mass graves found in the Tian Shan region of modern Kyrgyzstan dated to 1338 to 1339, nearly a decade before the European outbreak, as strong evidence of where the plague first exploded. It did not begin in Mediterranean ports, the Mongol capital, or Genoa, all of which the disease reached later as it traveled west."
+      "explanation": "Mass graves found in the Tian Shan region of modern Kyrgyzstan, dated to 1338 to 1339, nearly a decade before the European outbreak, are strong evidence of where the plague first exploded. It did not begin in Mediterranean ports, the Mongol capital, or Genoa, all of which the disease reached later as it traveled west."
     },
     {
       "question": "What happened at the siege of Caffa in 1346?",
@@ -409,7 +409,7 @@
         "Mongol forces catapulted plague infected corpses over the walls, and fleeing ships may have spread it on"
       ],
       "correctIndex": 3,
-      "explanation": "The reading describes Mongol forces besieging Caffa catapulting the bodies of plague victims over the walls, and Genoese ships fleeing the city may have carried the infection to Mediterranean ports. There was no cure discovered, the siege was not abandoned before infection struck, and the disease reached the Mongol camp first, not the other way around."
+      "explanation": "Mongol forces besieging Caffa catapulted the bodies of plague victims over the walls, and Genoese ships fleeing the city may have carried the infection to Mediterranean ports. There was no cure discovered, the siege was not abandoned before infection struck, and the disease reached the Mongol camp first, not the other way around."
     },
     {
       "question": "How did the Black Death affect labor and wages in Europe?",
@@ -420,7 +420,7 @@
         "Labor shortages had little real effect on wages because existing laws kept them fixed"
       ],
       "correctIndex": 0,
-      "explanation": "With roughly half the workforce dead, the reading explains that surviving laborers became valuable, wages rose, and serfdom weakened as landlords competed for workers. This is the opposite of wages falling or lords gaining more power, and the reading describes wages rising despite any attempts to fix them by law."
+      "explanation": "With roughly half the workforce dead, surviving laborers became valuable, wages rose, and serfdom weakened as landlords competed for workers. This is the opposite of wages falling or lords gaining more power, and wages rose despite any attempts to fix them by law."
     },
     {
       "question": "What role did the Little Ice Age play in the severity of the Black Death?",
@@ -431,7 +431,7 @@
         "It had no meaningful connection at all to how severe the plague eventually turned out to be"
       ],
       "correctIndex": 2,
-      "explanation": "The reading connects the Little Ice Age's cooler temperatures to the Great Famine of 1315 to 1322, which left populations malnourished and immunologically weakened by the time the plague arrived in 1347. It did not delay the plague's arrival, did not change the bacterium's lethality, and the reading is explicit that the two crises were connected, not unrelated."
+      "explanation": "The Little Ice Age's cooler temperatures fed the Great Famine of 1315 to 1322, which left populations malnourished and immunologically weakened by the time the plague arrived in 1347. It did not delay the plague's arrival, did not change the bacterium's lethality, and the two crises were connected, not unrelated."
     },
     {
       "question": "How did the plague affect religious authority in Europe?",
@@ -442,7 +442,7 @@
         "It directly and single-handedly caused the Pope to move the papacy from Rome to the city of Avignon"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that priests and bishops died just as often as ordinary people, and prayers seemed to provide no protection, which planted seeds of religious skepticism that later fed into the Protestant Reformation. This weakened confidence in the church rather than strengthening it, did not cause Christianity to collapse outright, and the papacy's move to Avignon is not presented as a result of the plague."
+      "explanation": "Priests and bishops died just as often as ordinary people, and prayers seemed to provide no protection, which planted seeds of religious skepticism that later fed into the Protestant Reformation. This weakened confidence in the church rather than strengthening it, did not cause Christianity to collapse outright, and the papacy's move to Avignon is not presented as a result of the plague."
     },
     {
       "question": "Which of the following is an example of ecological exchange along trade routes besides disease?",
@@ -453,7 +453,7 @@
         "Gunpowder being invented in China for the very first time during the 14th century"
       ],
       "correctIndex": 0,
-      "explanation": "The reading names sugar cane spreading from Southeast Asia to the Mediterranean via Arab merchants as an example of a new crop moving along trade routes. Camels were already used on Saharan routes well before this period, horse domestication happened centuries earlier, and gunpowder's invention is a Chinese technology story, not an example of ecological exchange."
+      "explanation": "Sugar cane spreading from Southeast Asia to the Mediterranean via Arab merchants is an example of a new crop moving along trade routes. Camels were already used on Saharan routes well before this period, horse domestication happened centuries earlier, and gunpowder's invention is a Chinese technology story, not an example of ecological exchange."
     },
     {
       "question": "Which of the following is an example of environment shaping trade routes, rather than trade affecting the environment?",
@@ -464,7 +464,7 @@
         "Monsoon winds turned the Indian Ocean into a seasonal highway that shaped when ships could sail"
       ],
       "correctIndex": 3,
-      "explanation": "The reading frames monsoon winds as an example of environment shaping trade, since sailors had to plan their voyages around the wind's seasonal reversal rather than the other way around. The other three options are all examples of trade affecting the environment, moving disease, crops, and farming techniques outward along established routes."
+      "explanation": "Monsoon winds are an example of environment shaping trade, since sailors had to plan their voyages around the wind's seasonal reversal rather than the other way around. The other three options are all examples of trade affecting the environment, moving disease, crops, and farming techniques outward along established routes."
     }
   ],
   "images": [],
