@@ -331,7 +331,7 @@
         "Enclaves formed because migrants planned to return home within months and saw no reason to integrate"
       ],
       "correctIndex": 0,
-      "explanation": "Ethnic enclaves formed because migrants gained real, practical benefits, shared language, jobs, and community support, from living near people from the same background. Government-mandated districts, described in option B, are not mentioned in the reading. Migrants actively chose to cluster together rather than ending up there by chance (option C), and many of these communities, like the Chinese in San Francisco, were permanent, not temporary (option D)."
+      "explanation": "Ethnic enclaves formed because migrants gained real, practical benefits, shared language, jobs, and community support, from living near people from the same background. Government-mandated districts, described in option B, never existed. Migrants actively chose to cluster together rather than ending up there by chance (option C), and many of these communities, like the Chinese in San Francisco, were permanent, not temporary (option D)."
     },
     {
       "question": "How did migration change many women's lives in sending societies when men left to work abroad?",
@@ -342,7 +342,7 @@
         "Women organized formal nativist movements that specifically opposed migrants from other ethnic communities"
       ],
       "correctIndex": 2,
-      "explanation": "The reading describes women in sending societies taking on new economic and social roles, managing farms, finances, and decisions that patriarchal custom had reserved for men, once the men in their families emigrated. Remittances were often irregular, not a reliable replacement for lost labor as option A claims, and the reading describes women staying in sending communities, not moving abroad as option B suggests. Nativism, in option D, describes hostility from receiving societies, not the situation of women left behind."
+      "explanation": "Women in sending societies took on new economic and social roles, managing farms, finances, and decisions that patriarchal custom had reserved for men, once the men in their families emigrated. Remittances were often irregular, not a reliable replacement for lost labor as option A claims, and these women stayed in sending communities rather than moving abroad as option B suggests. Nativism, in option D, describes hostility from receiving societies, not the situation of women left behind."
     },
     {
       "question": "What was a remittance?",
@@ -364,7 +364,7 @@
         "Remittances had little real effect on sending communities, since the amounts sent home were rarely significant"
       ],
       "correctIndex": 0,
-      "explanation": "The reading presents remittances as genuinely double-edged: they could fund education, debt relief, and small businesses, but families suffered when the flow was interrupted by a lost job, injury, or death. Option B ignores the reading's point that remittances were unreliable, and option C overstates the harm while ignoring the real benefits the reading describes. Option D contradicts the reading, which calls remittances the most significant source of cash income for many families, not something insignificant."
+      "explanation": "Remittances were genuinely double-edged: they could fund education, debt relief, and small businesses, but families suffered when the flow was interrupted by a lost job, injury, or death. Option B ignores the fact that remittances were unreliable, and option C overstates the harm while ignoring the real benefits. Option D is wrong because remittances were the most significant source of cash income for many families, not something insignificant."
     },
     {
       "question": "What was the Chinese Exclusion Act of 1882?",
@@ -375,7 +375,7 @@
         "A law requiring all Chinese immigrants to register annually with local police departments"
       ],
       "correctIndex": 1,
-      "explanation": "The Chinese Exclusion Act was the first U.S. federal law to restrict immigration based specifically on race and nationality, combining racial prejudice with economic anxiety about job competition. It misdescribes the law as a bilateral agreement, when it was unilateral U.S. legislation. The Act is the opposite of granting citizenship: it prevented Chinese residents from becoming citizens. A registration requirement like this is not mentioned in the reading."
+      "explanation": "The Chinese Exclusion Act was the first U.S. federal law to restrict immigration based specifically on race and nationality, combining racial prejudice with economic anxiety about job competition. It misdescribes the law as a bilateral agreement, when it was unilateral U.S. legislation. The Act is the opposite of granting citizenship: it prevented Chinese residents from becoming citizens. A registration requirement like this never existed."
     },
     {
       "question": "How did Australia's \"dictation test\" work as part of the White Australia Policy?",
@@ -386,7 +386,7 @@
         "It was given only to European migrants, to confirm beforehand that they possessed useful job skills"
       ],
       "correctIndex": 2,
-      "explanation": "The dictation test could be given in any European language an official picked, even one the migrant had never encountered, which let officials exclude almost anyone they wanted while appearing race-neutral on paper. A straightforward citizenship or English exam (options A and B) is not what the reading describes, since the whole point of the dictation test was that it could be made unpassable on purpose. The test's actual target was excluding non-European migrants, not screening Europeans for skills, as option D wrongly suggests."
+      "explanation": "The dictation test could be given in any European language an official picked, even one the migrant had never encountered, which let officials exclude almost anyone they wanted while appearing race-neutral on paper. A straightforward citizenship or English exam (options A and B) is not accurate, since the whole point of the dictation test was that it could be made unpassable on purpose. The test's actual target was excluding non-European migrants, not screening Europeans for skills, as option D wrongly suggests."
     },
     {
       "question": "Which of the following is NOT an effect of migration on sending or receiving societies?",
@@ -397,7 +397,7 @@
         "Receiving societies uniformly outlawing all forms of ethnic enclave formation"
       ],
       "correctIndex": 3,
-      "explanation": "The reading never describes receiving societies banning ethnic enclaves. In fact, it describes enclaves like Chinatown and Indian communities in Trinidad persisting and thriving for generations. Cultural transformation, returnees bringing new skills home, and nativist laws like the Chinese Exclusion Act are all effects the reading directly describes."
+      "explanation": "Receiving societies did not ban ethnic enclaves. In fact, enclaves like Chinatown and Indian communities in Trinidad persisted and thrived for generations. Cultural transformation, returnees bringing new skills home, and nativist laws like the Chinese Exclusion Act were all real effects of migration."
     }
   ],
   "images": [],

@@ -365,7 +365,7 @@
         "Forced resettlement of conquered farmers onto newly built floating gardens near the capital"
       ],
       "correctIndex": 0,
-      "explanation": "The reading describes the Triple Alliance expanding through conquest followed by tribute extraction: conquered peoples sent maize, cacao, cloth, gold, and sacrificial captives to Tenochtitlan. A rotating labor tax describes the separate Inca mit'a system, and the reading never mentions Mexica paper currency or mass resettlement onto chinampas."
+      "explanation": "The Triple Alliance expanded through conquest followed by tribute extraction: conquered peoples sent maize, cacao, cloth, gold, and sacrificial captives to Tenochtitlan. A rotating labor tax describes the separate Inca mit'a system, and there is no evidence of Mexica paper currency or mass resettlement onto chinampas."
     },
     {
       "question": "According to Mexica cosmology, why was human sacrifice considered necessary?",
@@ -376,7 +376,7 @@
         "Priests believed sacrifice was the only way to guarantee a plentiful yearly maize harvest"
       ],
       "correctIndex": 1,
-      "explanation": "The reading states that the Mexica believed the gods had sacrificed themselves to create the current sun, and that humans were cosmically obligated to sustain it through blood offerings or the sun would stop moving. The reading does not connect sacrifice to curing disease, temple dedication law, or guaranteeing harvests specifically."
+      "explanation": "The Mexica believed the gods had sacrificed themselves to create the current sun, and that humans were cosmically obligated to sustain it through blood offerings or the sun would stop moving. Sacrifice was not connected to curing disease, temple dedication law, or guaranteeing harvests specifically."
     },
     {
       "question": "How did the Inca mit'a system differ from simply demanding goods as tribute?",
@@ -387,7 +387,7 @@
         "It applied only to conquered peoples who happened to live within the city of Cusco"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that mit'a required a period of labor service, but the state fed workers, provided clothing and tools, and made the relationship reciprocal rather than purely extractive. The reading does not mention paying in precious metals, an exemption for wealthy households, or a restriction to Cusco itself."
+      "explanation": "Mit'a required a period of labor service, but the state fed workers, provided clothing and tools, and made the relationship reciprocal rather than purely extractive. There was no payment in precious metals, no exemption for wealthy households, and no restriction to Cusco itself."
     },
     {
       "question": "What did the Inca use the quipu for?",
@@ -398,7 +398,7 @@
         "Encoding census, tax, and administrative records using knotted strings"
       ],
       "correctIndex": 3,
-      "explanation": "The reading describes the quipu as a device of knotted strings that quipucamayocs used to maintain census records, tax accounts, and administrative data. It does not describe the quipu being used for hymns, instant military communication, or teaching literacy, those functions belong to other parts of the reading."
+      "explanation": "The quipu was a device of knotted strings that quipucamayocs used to maintain census records, tax accounts, and administrative data. It was not used for hymns, instant military communication, or teaching literacy, those are different, unrelated functions."
     },
     {
       "question": "Why did Inca \"split inheritance\" push each new Sapa Inca toward further conquest?",
@@ -409,7 +409,7 @@
         "The mit'a labor tax reset to zero with each new ruler and had to be earned again"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that deceased Sapa Incas retained ownership of their palaces and lands through their mummies, so each new ruler had to conquer new territory to build his own palace and wealth. The reading does not describe ritual combat between rulers, a ban on old palaces, or the mit'a resetting with succession."
+      "explanation": "Deceased Sapa Incas retained ownership of their palaces and lands through their mummies, so each new ruler had to conquer new territory to build his own palace and wealth. There was no ritual combat between rulers, no ban on old palaces, and the mit'a did not reset with succession."
     },
     {
       "question": "What happened to the great Classic Maya city-states before this period (c. 1200-1450)?",
@@ -420,7 +420,7 @@
         "They converted their governments from independent city-states into Inca provinces"
       ],
       "correctIndex": 1,
-      "explanation": "The reading says the great Classic Maya city-states had mostly collapsed by 900 CE from causes like drought, warfare, and ecological exhaustion, but Maya civilization persisted afterward in a post-Classic form in the northern Yucatan. There is no mention of a single foreign invasion, a peaceful unified empire, or any connection to the geographically distant Inca."
+      "explanation": "The great Classic Maya city-states had mostly collapsed by 900 CE from causes like drought, warfare, and ecological exhaustion, but Maya civilization persisted afterward in a post-Classic form in the northern Yucatan. There was no single foreign invasion, no peaceful unified empire, and no connection to the geographically distant Inca."
     },
     {
       "question": "What does Maya writing and mathematics show about Maya civilization?",
@@ -431,7 +431,7 @@
         "That Maya writing was too simple to record actual history or literature"
       ],
       "correctIndex": 2,
-      "explanation": "The reading describes Maya writing as one of only five fully independent writing systems in world history and credits Maya astronomers and mathematicians with independently developing the concept of zero and highly accurate calendar calculations. It does not describe borrowing from China, a narrow religious-only use, or a system too simple to record history."
+      "explanation": "Maya writing was one of only five fully independent writing systems in world history, and Maya astronomers and mathematicians independently developed the concept of zero and highly accurate calendar calculations. It was not borrowed from China, was not limited to religious use, and was not too simple to record history."
     },
     {
       "question": "Which of the following is NOT true about Cahokia?",
@@ -442,7 +442,7 @@
         "It was built by refugees who had fled the Mexica Empire's conquest of central Mexico"
       ],
       "correctIndex": 3,
-      "explanation": "The reading describes Cahokia as a Mississippian mound-building city near present-day St. Louis with up to 20,000 people, a Monk's Mound larger at its base than the Great Pyramid, and a trade network moving copper, shells, and obsidian. It never connects Cahokia's population to refugees from Mexica conquest, an idea that is also chronologically and geographically implausible given the reading's own timeline."
+      "explanation": "Cahokia was a Mississippian mound-building city near present-day St. Louis with up to 20,000 people, a Monk's Mound larger at its base than the Great Pyramid, and a trade network moving copper, shells, and obsidian. Its population had no connection to refugees from Mexica conquest, an idea that is also chronologically and geographically implausible."
     }
   ],
   "images": [],

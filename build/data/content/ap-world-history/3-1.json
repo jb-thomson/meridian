@@ -436,7 +436,7 @@
         "Cannons let rulers send orders and urgent messages across their empires faster than any horseback messenger ever could"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that sufficiently large cannons could breach stone walls in days rather than months, ending the age when a well-walled city could resist an army indefinitely. Cannons didn't replace infantry, they worked alongside it, so the second option is wrong. The reading emphasizes destructive power, not stealth, so the third option is wrong. The fourth option confuses cannons with a communication system like the Mongol Yam, which isn't part of this reading."
+      "explanation": "Sufficiently large cannons could breach stone walls in days rather than months, ending the age when a well-walled city could resist an army indefinitely. Cannons didn't replace infantry, they worked alongside it, so the second option is wrong. Cannons were valued for destructive power, not stealth, so the third option is wrong. The fourth option confuses cannons with a communication system like the Mongol Yam, which is unrelated."
     },
     {
       "question": "Besides winning a single battle, why did the Ottoman capture of Constantinople in 1453 matter so much?",
@@ -447,7 +447,7 @@
         "It reportedly required every Christian kingdom in Europe to convert to Islam within one generation"
       ],
       "correctIndex": 1,
-      "explanation": "The reading says Constantinople controlled the Bosphorus, the only water route between the Black Sea and Mediterranean, and the world's greatest trade hub, and that its fall ended the Byzantine Empire. The first option is wrong because nothing in the reading describes a naval defeat. The third option is wrong because the reading discusses gunpowder weapons being used well before 1453. The fourth option is not supported anywhere in the reading."
+      "explanation": "Constantinople controlled the Bosphorus, the only water route between the Black Sea and Mediterranean, and the world's greatest trade hub, and its fall ended the Byzantine Empire. The first option is wrong because no naval defeat is described. The third option is wrong because gunpowder weapons were in use well before 1453. The fourth option has no historical support."
     },
     {
       "question": "What gave Babur the decisive edge over Ibrahim Lodi's much larger army at the First Battle of Panipat in 1526?",
@@ -458,18 +458,18 @@
         "The battle was decided by a surprise attack under cover of night rather than by any weapons advantage"
       ],
       "correctIndex": 2,
-      "explanation": "The reading states Babur's roughly 12,000 men faced Lodi's force of perhaps 100,000 plus war elephants, and that Babur's artillery, which terrified the elephants and broke Lodi's formations, was his decisive advantage. The first option reverses the actual numbers, since Babur was outnumbered. The second and fourth options are not mentioned in the reading."
+      "explanation": "Babur's roughly 12,000 men faced Lodi's force of perhaps 100,000 plus war elephants, and Babur's artillery, which terrified the elephants and broke Lodi's formations, was his decisive advantage. The first option reverses the actual numbers, since Babur was outnumbered. The second and fourth options have no historical support."
     },
     {
       "question": "Why did Akbar eliminate the jizya tax, marry Rajput princesses, and appoint Hindus to high office?",
       "options": [
         "He had personally converted away from Islam and felt no obligation to favor Muslim subjects anymore",
         "He was legally required to by a treaty the Mughals signed with neighboring Hindu kingdoms after a war",
-        "He wanted to copy the same governing methods that the reading says the Ottoman Empire also used successfully",
+        "He wanted to copy the same governing methods that the Ottoman Empire also used successfully",
         "He recognized a Muslim minority could not rule a Hindu majority through force alone, so he ruled through inclusion"
       ],
       "correctIndex": 3,
-      "explanation": "The reading explains Akbar recognized that a Muslim minority of roughly 20 percent could not rule a Hindu majority of roughly 60 percent through force alone, so he built a deliberate system of tolerance and inclusion. The first option is wrong, Akbar remained Muslim even while creating the syncretic Din-i-Ilahi. The second and third options are not supported anywhere in the reading."
+      "explanation": "Akbar recognized that a Muslim minority of roughly 20 percent could not rule a Hindu majority of roughly 60 percent through force alone, so he built a deliberate system of tolerance and inclusion. The first option is wrong, Akbar remained Muslim even while creating the syncretic Din-i-Ilahi. The second and third options have no historical support."
     },
     {
       "question": "Why did Shah Ismail's Safavid forces lose so badly to the Ottomans at the Battle of Chaldiran in 1514?",
@@ -480,7 +480,7 @@
         "Ottoman forces used a secret mountain pass to surround the Safavid army from behind before the battle began"
       ],
       "correctIndex": 1,
-      "explanation": "The reading states the Safavids had refused to use firearms, reportedly considering them un-Islamic or unchivalrous, and that Ottoman artillery and firearms obliterated the Safavid cavalry as a result. None of the other options are described anywhere in the reading."
+      "explanation": "The Safavids had refused to use firearms, reportedly considering them un-Islamic or unchivalrous, and Ottoman artillery and firearms obliterated the Safavid cavalry as a result. None of the other options are historically accurate."
     },
     {
       "question": "How did the Qing Dynasty try to govern China without being absorbed into Han Chinese culture?",
@@ -491,7 +491,7 @@
         "They kept Manchu culture distinct through the queue and a ban on intermarriage, while keeping Chinese institutions"
       ],
       "correctIndex": 3,
-      "explanation": "The reading describes a dual strategy: strict rules against Manchu-Han intermarriage, separate Manchu military units, and the queue requirement, combined with keeping Chinese administrative institutions and Confucian governance intact. The first option is wrong, the reading says the Qing continued the civil service exam system. The second and third options are not supported by the reading."
+      "explanation": "The Qing pursued a dual strategy: strict rules against Manchu-Han intermarriage, separate Manchu military units, and the queue requirement, combined with keeping Chinese administrative institutions and Confucian governance intact. The first option is wrong, the Qing continued the civil service exam system. The second and third options have no historical support."
     },
     {
       "question": "What made the Moroccan defeat of the Songhai Empire at the Battle of Tondibi (1591) so notable?",
@@ -502,7 +502,7 @@
         "The Songhai army supposedly had more firearms than the Moroccans but still lost due to poor leadership"
       ],
       "correctIndex": 0,
-      "explanation": "The reading describes an approximately 4,000-man Moroccan force with arquebuses crossing 1,500 miles of Sahara to rout the much larger Songhai cavalry force at Tondibi, after which the empire fragmented permanently. The other options directly contradict details given in the reading."
+      "explanation": "An approximately 4,000-man Moroccan force with arquebuses crossed 1,500 miles of Sahara to rout the much larger Songhai cavalry force at Tondibi, after which the empire fragmented permanently. The other options directly contradict the historical record."
     },
     {
       "question": "Which of the following is NOT an accurate description of the Qing Dynasty's rise?",
@@ -513,7 +513,7 @@
         "Under the Kangxi and Qianlong emperors, the Qing conquered Mongolia, Tibet, and Xinjiang, nearly doubling China's territory"
       ],
       "correctIndex": 2,
-      "explanation": "The reading is explicit that the Qing maintained Chinese administrative institutions and Confucian governance, including the civil service examination system, rather than eliminating them. The other three statements are all directly supported by the reading, including the description of a Ming general opening the Great Wall to the Manchu, the queue requirement, and the territorial expansion under Kangxi and Qianlong."
+      "explanation": "The Qing maintained Chinese administrative institutions and Confucian governance, including the civil service examination system, rather than eliminating them. The other three statements are all historically accurate, including a Ming general opening the Great Wall to the Manchu, the queue requirement, and the territorial expansion under Kangxi and Qianlong."
     }
   ],
   "images": [],

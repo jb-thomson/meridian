@@ -307,7 +307,7 @@
         "All three achieved their political goals within a single year of beginning their campaigns of resistance"
       ],
       "correctIndex": 2,
-      "explanation": "The reading describes Gandhi's assassination, MLK's jailings and assassination, and Mandela's 27 years in prison, showing that all three faced serious persecution while building moral authority that helped achieve lasting political change. None of them avoided arrest, none abandoned public life, and none achieved their goals within a single year."
+      "explanation": "Gandhi's assassination, MLK's jailings and assassination, and Mandela's 27 years in prison show that all three faced serious persecution while building moral authority that helped achieve lasting political change. None of them avoided arrest, none abandoned public life, and none achieved their goals within a single year."
     },
     {
       "question": "Why is Pinochet's 1973 coup in Chile an example of a response that intensified conflict rather than resolving it?",
@@ -318,7 +318,7 @@
         "The coup ended all political violence in Chile and produced one of the most stable democracies in Latin America"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that Pinochet's coup, followed by roughly 3,000 disappearances and tens of thousands tortured, created decades of trauma and division rather than resolving Chile's political conflict. It was not quickly reversed, did not lead to a referendum restoring Allende, and did not end political violence."
+      "explanation": "Pinochet's coup, followed by roughly 3,000 disappearances and tens of thousands tortured, created decades of trauma and division rather than resolving Chile's political conflict. It was not quickly reversed, did not lead to a referendum restoring Allende, and did not end political violence."
     },
     {
       "question": "What happened to Uganda's Asian community under Idi Amin's regime?",
@@ -329,18 +329,18 @@
         "Approximately 80,000 people were expelled and had their businesses and property confiscated by Amin's government"
       ],
       "correctIndex": 3,
-      "explanation": "The reading states that Idi Amin expelled Uganda's roughly 80,000-person Asian community in 1972 and confiscated their businesses and property, devastating Uganda's commercial sector. The reading does not describe expanded representation, land grants, or a UN-organized relocation."
+      "explanation": "Idi Amin expelled Uganda's roughly 80,000-person Asian community in 1972 and confiscated their businesses and property, devastating Uganda's commercial sector. There was no expanded representation, land grants, or UN-organized relocation."
     },
     {
       "question": "What distinguishes the Shining Path and Al-Qaeda from other resistance movements of this period?",
       "options": [
-        "They were the only two movements in the reading that operated exclusively within a single country's borders",
+        "They were the only two movements discussed here that operated exclusively within a single country's borders",
         "They deliberately targeted civilians as a central strategy for achieving their political goals",
-        "They were the only movements in the reading that received direct funding from a rival superpower government",
+        "They were the only movements discussed here that received direct funding from a rival superpower government",
         "They rejected all forms of ideology and were motivated purely by financial gain rather than political goals"
       ],
       "correctIndex": 1,
-      "explanation": "The reading defines this category specifically as movements that used violence against civilians to achieve political aims, including Shining Path's village massacres and Al-Qaeda's attacks on civilian targets like the World Trade Center. Operating within one country, receiving superpower funding, and lacking any ideology are not what the reading uses to define this category."
+      "explanation": "This category is defined specifically as movements that used violence against civilians to achieve political aims, including Shining Path's village massacres and Al-Qaeda's attacks on civilian targets like the World Trade Center. Operating within one country, receiving superpower funding, and lacking any ideology are not what defines this category."
     },
     {
       "question": "What was one major consequence of Al-Qaeda's September 11, 2001 attacks?",
@@ -351,7 +351,7 @@
         "They resulted in Osama bin Laden being captured and put on trial within the same year"
       ],
       "correctIndex": 0,
-      "explanation": "The reading states that the 9/11 attacks triggered the US War on Terror, including the invasions of Afghanistan and Iraq, reshaping global politics into the 21st century. It does not describe the UN collapsing, a regional break in diplomacy, or bin Laden's capture that same year."
+      "explanation": "The 9/11 attacks triggered the US War on Terror, including the invasions of Afghanistan and Iraq, reshaping global politics into the 21st century. The UN did not collapse, there was no regional break in diplomacy, and bin Laden was not captured that same year."
     },
     {
       "question": "How did Francisco Franco come to power in Spain, and what followed?",
@@ -362,7 +362,7 @@
         "He was installed in power by the United Nations to oversee Spain's postwar reconstruction efforts"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that Franco's Nationalist forces won the Spanish Civil War with crucial support from Nazi Germany and Fascist Italy, after which he ruled as an authoritarian dictator for 36 years, suppressing opposition through executions and imprisonment. He did not win an election, was not appointed king, and was not installed by the UN."
+      "explanation": "Franco's Nationalist forces won the Spanish Civil War with crucial support from Nazi Germany and Fascist Italy, after which he ruled as an authoritarian dictator for 36 years, suppressing opposition through executions and imprisonment. He did not win an election, was not appointed king, and was not installed by the UN."
     },
     {
       "question": "What point was President Eisenhower making when he warned about the \"military-industrial complex\" in 1961?",
@@ -373,7 +373,7 @@
         "That private companies should be legally barred from ever producing weapons for the US government"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that Eisenhower warned of a system in which military contractors, the armed forces, and Congress had a shared interest in continued military spending regardless of actual security needs. The reading does not claim Soviet spending had surpassed the US, that the military should be disbanded, or that private weapons production should be banned outright."
+      "explanation": "Eisenhower warned of a system in which military contractors, the armed forces, and Congress had a shared interest in continued military spending regardless of actual security needs. He did not claim Soviet spending had surpassed the US, that the military should be disbanded, or that private weapons production should be banned outright."
     },
     {
       "question": "Which of the following is NOT an example of a state or regime whose violent response intensified rather than resolved conflict?",
@@ -384,7 +384,7 @@
         "India under the Indian National Congress, whose nonviolent campaigns pressured Britain into granting independence"
       ],
       "correctIndex": 3,
-      "explanation": "The reading places the Indian National Congress in the nonviolent resistance category alongside Gandhi, not among the examples of state violence intensifying conflict, which the reading reserves for Pinochet, Franco, Idi Amin, and the military-industrial complex."
+      "explanation": "The Indian National Congress belongs in the nonviolent resistance category alongside Gandhi, not among the examples of state violence intensifying conflict, which are Pinochet, Franco, Idi Amin, and the military-industrial complex."
     }
   ]
 }

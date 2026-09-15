@@ -309,7 +309,7 @@
         "Communication technology mattered only for military purposes, not for ordinary commerce or culture"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that radio, cellular phones, and the internet reduced the problem of geographic distance, connecting billions of people worldwide. (B), (C), and (D) all contradict what the reading describes."
+      "explanation": "Radio, cellular phones, and the internet reduced the problem of geographic distance, connecting billions of people worldwide. (B), (C), and (D) all contradict this."
     },
     {
       "question": "Why was the standardization of shipping containers significant?",
@@ -320,7 +320,7 @@
         "It was used mainly to transport military equipment rather than ordinary consumer goods"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that standardized containers slashed loading and shipping costs, enabling the global manufacturing supply chains that define the modern economy. (A), (C), and (D) all contradict the reading."
+      "explanation": "Standardized containers slashed loading and shipping costs, enabling the global manufacturing supply chains that define the modern economy. (A), (C), and (D) all contradict this."
     },
     {
       "question": "What did the Green Revolution accomplish?",
@@ -331,7 +331,7 @@
         "It focused entirely on livestock breeding rather than on improving staple grain crop yields"
       ],
       "correctIndex": 2,
-      "explanation": "The reading credits the Green Revolution with multiplying crop yields through high-yield seeds, fertilizers, and irrigation, helping feed a global population that grew past 8 billion. (A), (B), and (D) all contradict the reading."
+      "explanation": "The Green Revolution multiplied crop yields through high-yield seeds, fertilizers, and irrigation, helping feed a global population that grew past 8 billion. (A), (B), and (D) all contradict this."
     },
     {
       "question": "What effect did vaccines and antibiotics have on human life expectancy?",
@@ -342,7 +342,7 @@
         "Vaccines and antibiotics reduced deaths from infectious disease, roughly doubling life expectancy"
       ],
       "correctIndex": 3,
-      "explanation": "The reading states that vaccines and antibiotics dramatically reduced mortality from infectious disease, helping global life expectancy roughly double, from about 31 years in 1900 to over 73 by 2020. (A), (B), and (C) all contradict the reading."
+      "explanation": "Vaccines and antibiotics dramatically reduced mortality from infectious disease, helping global life expectancy roughly double, from about 31 years in 1900 to over 73 by 2020. (A), (B), and (C) all contradict this."
     },
     {
       "question": "What was one major effect of more effective birth control in the 20th century?",
@@ -353,7 +353,7 @@
         "Birth control was invented specifically to address the rapid population growth of the 19th century"
       ],
       "correctIndex": 0,
-      "explanation": "The reading states that more effective birth control gave women greater control over fertility and contributed to declining fertility rates in much of the world. (B), (C), and (D) all contradict the reading."
+      "explanation": "More effective birth control gave women greater control over fertility and contributed to declining fertility rates in much of the world. (B), (C), and (D) all contradict this."
     },
     {
       "question": "What was the dual nature of nuclear technology after 1945?",
@@ -364,7 +364,7 @@
         "Nuclear power plants produced no meaningful increase in electricity generation anywhere in the world"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that nuclear technology split into two streams: nuclear power raised productivity by generating electricity, while nuclear weapons created the threat of civilization-ending destruction. (A), (C), and (D) all contradict the reading."
+      "explanation": "Nuclear technology split into two streams: nuclear power raised productivity by generating electricity, while nuclear weapons created the threat of civilization-ending destruction. (A), (C), and (D) all contradict this."
     },
     {
       "question": "How did undersea communication infrastructure change between 1956 and today?",
@@ -375,7 +375,7 @@
         "The first transatlantic telephone cable could already carry more data than any modern fiber-optic cable"
       ],
       "correctIndex": 1,
-      "explanation": "The reading contrasts the 1956 transatlantic cable, which carried 36 simultaneous calls, with modern fiber-optic cables carrying over 200 terabits of data per second, illustrating the scale of the communications revolution. (A), (C), and (D) all contradict the reading."
+      "explanation": "The 1956 transatlantic cable carried 36 simultaneous calls, compared with modern fiber-optic cables carrying over 200 terabits of data per second, illustrating the scale of the communications revolution. (A), (C), and (D) all contradict this."
     }
   ],
   "images": [],

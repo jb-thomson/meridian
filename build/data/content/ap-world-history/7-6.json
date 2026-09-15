@@ -105,7 +105,7 @@
         "It quietly canceled Germany's reparations payments within the first year they were imposed"
       ],
       "correctIndex": 1,
-      "explanation": "The reading says the crucial word is \"unsustainable\": Versailles was harsh enough to create lasting grievances but not harsh enough to actually break Germany's ability to act on them later. (A) reverses this, the treaty didn't cripple Germany permanently. (C) and (D) describe events the reading never mentions."
+      "explanation": "The crucial word is \"unsustainable\": Versailles was harsh enough to create lasting grievances but not harsh enough to actually break Germany's ability to act on them later. (A) reverses this, the treaty didn't cripple Germany permanently. (C) and (D) describe events that never happened."
     },
     {
       "question": "What best explains the Nazi Party's electoral jump from 2.6% of the vote in 1928 to 37.4% in July 1932?",
@@ -116,7 +116,7 @@
         "The Great Depression's mass unemployment made Hitler's promises of recovery and revival appealing"
       ],
       "correctIndex": 3,
-      "explanation": "The reading ties this jump directly to the Depression: unemployment reached 30% by 1932, and desperate voters turned to Hitler's promises of national restoration and economic recovery. (A) and (C) describe things that happened only after Hitler was already in power. (B) is not mentioned in the reading."
+      "explanation": "This jump ties directly to the Depression: unemployment reached 30% by 1932, and desperate voters turned to Hitler's promises of national restoration and economic recovery. (A) and (C) describe things that happened only after Hitler was already in power. (B) never happened."
     },
     {
       "question": "How did Hitler turn his legal appointment as chancellor in January 1933 into a full dictatorship within a year?",
@@ -127,7 +127,7 @@
         "President Hindenburg died suddenly in office, leaving no legal path to any other successor"
       ],
       "correctIndex": 1,
-      "explanation": "The reading describes the Reichstag Fire (February 1933) being used as a pretext for emergency decrees, followed by the Enabling Act (March 1933), after which opposition parties were banned and unions dissolved. (A), (C), and (D) describe events the reading does not mention."
+      "explanation": "The Reichstag Fire (February 1933) was used as a pretext for emergency decrees, followed by the Enabling Act (March 1933), after which opposition parties were banned and unions dissolved. (A), (C), and (D) describe events that did not happen."
     },
     {
       "question": "What was Lebensraum?",
@@ -138,7 +138,7 @@
         "The Nazi belief that Germany needed to conquer farmland in Eastern Europe for its own survival"
       ],
       "correctIndex": 3,
-      "explanation": "Lebensraum, \"living space,\" was the Nazi ideological belief that Germany needed to conquer land in Eastern Europe to secure the German people's survival, displacing the Slavic peoples already living there. (A), (B), and (C) describe things the reading doesn't connect to this term."
+      "explanation": "Lebensraum, \"living space,\" was the Nazi ideological belief that Germany needed to conquer land in Eastern Europe to secure the German people's survival, displacing the Slavic peoples already living there. (A), (B), and (C) describe things that have nothing to do with this term."
     },
     {
       "question": "Japan's expansion into Manchuria and China followed the same basic logic as German Lebensraum in what way?",
@@ -149,7 +149,7 @@
         "Both were driven by a need for raw materials the home country lacked, backed by racial hierarchy"
       ],
       "correctIndex": 3,
-      "explanation": "The reading states Japan's expansion was driven by the same logic of resource acquisition and racial hierarchy as German imperialism, Japan needed materials like oil, rubber, and iron ore that it lacked domestically. (A), (B), and (C) are not given as reasons in the reading."
+      "explanation": "Japan's expansion was driven by the same logic of resource acquisition and racial hierarchy as German imperialism, Japan needed materials like oil, rubber, and iron ore that it lacked domestically. (A), (B), and (C) were not actual reasons for the expansion."
     },
     {
       "question": "What was the Munich Agreement of September 1938?",
@@ -160,7 +160,7 @@
         "An agreement authorizing Germany to remilitarize the Rhineland under League supervision"
       ],
       "correctIndex": 2,
-      "explanation": "Britain and France pressured Czechoslovakia to surrender the Sudetenland to Germany in exchange for Hitler's promise of no further territorial demands, which Chamberlain called \"peace for our time.\" (A), (B), and (D) describe agreements the reading does not mention in this context."
+      "explanation": "Britain and France pressured Czechoslovakia to surrender the Sudetenland to Germany in exchange for Hitler's promise of no further territorial demands, which Chamberlain called \"peace for our time.\" (A), (B), and (D) describe agreements that have nothing to do with this one."
     },
     {
       "question": "Which of the following did NOT happen?",
@@ -171,7 +171,7 @@
         "Germany seized the rest of Czechoslovakia within six months of signing the Munich Agreement"
       ],
       "correctIndex": 0,
-      "explanation": "The reading states Hitler violated the Munich Agreement within six months, seizing the rest of Czechoslovakia in March 1939, so (A) did not happen. (B), (C), and (D) are all directly confirmed by the reading."
+      "explanation": "Hitler violated the Munich Agreement within six months, seizing the rest of Czechoslovakia in March 1939, so (A) did not happen. (B), (C), and (D) all did happen."
     }
   ],
   "blocks": [

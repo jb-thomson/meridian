@@ -273,7 +273,7 @@
     },
     {
       "type": "apTip",
-      "text": "**Diasporic communities** are a key concept for both LO E (causes) and LO F (effects). As a *cause*: merchants settling in foreign ports created permanent trading relationships and infrastructure. As an *effect*: cultural blending, spread of religions (especially Islam), and linguistic mixing. On the AP exam, always connect diasporic communities to both economics and cultural change."
+      "text": "**Diasporic communities** matter as both a cause and an effect of Indian Ocean trade. As a *cause*: merchants settling in foreign ports created permanent trading relationships and infrastructure. As an *effect*: cultural blending, spread of religions (especially Islam), and linguistic mixing. On the AP exam, always connect diasporic communities to both economics and cultural change."
     },
     {
       "type": "heading",
@@ -464,7 +464,7 @@
         "Ancient navigators had already charted every safe route across the ocean centuries before this period"
       ],
       "correctIndex": 2,
-      "explanation": "The monsoon winds blow southwest from roughly April to September and reverse to blow northeast from October to March, giving sailors a built in shipping schedule they could plan around. The reading never claims the Indian Ocean was unusually free of pirates or storms, and it credits the wind pattern, not preexisting maps, for making round trips reliable."
+      "explanation": "The monsoon winds blow southwest from roughly April to September and reverse to blow northeast from October to March, giving sailors a built in shipping schedule they could plan around. There is no evidence the Indian Ocean was unusually free of pirates or storms. What made round trips reliable was the wind pattern, not preexisting maps."
     },
     {
       "question": "What did the compass and the astrolabe together provide Indian Ocean sailors?",
@@ -475,7 +475,7 @@
         "The ability to sail significantly faster than any previous ship design had ever managed before"
       ],
       "correctIndex": 0,
-      "explanation": "The compass gave sailors direction even without visible stars, and the astrolabe let them calculate latitude, so together they gave sailors both direction and position, described in the reading as GPS without electronics. Neither instrument offered communication, protection from pirates, or extra speed."
+      "explanation": "The compass gave sailors direction even without visible stars, and the astrolabe let them calculate latitude, so together they gave sailors both direction and position, working like GPS without electronics. Neither instrument offered communication, protection from pirates, or extra speed."
     },
     {
       "question": "Why did the Sultanate of Malacca become so wealthy?",
@@ -486,7 +486,7 @@
         "It controlled a narrow strait that ships between the Indian Ocean and South China Sea had to pass through"
       ],
       "correctIndex": 3,
-      "explanation": "Malacca sat on the strait between the Malay Peninsula and Sumatra, and every ship sailing between the Indian Ocean and the South China Sea had to pass through it, letting Malacca's sultans collect tolls and taxes. The reading never says Malacca produced spices itself, received Chinese tribute, or conquered rival ports."
+      "explanation": "Malacca sat on the strait between the Malay Peninsula and Sumatra, and every ship sailing between the Indian Ocean and the South China Sea had to pass through it, letting Malacca's sultans collect tolls and taxes. Malacca did not produce spices itself, receive Chinese tribute, or conquer rival ports."
     },
     {
       "question": "What best describes the Swahili Coast city states?",
@@ -508,7 +508,7 @@
         "Zheng He died unexpectedly at sea, and no other qualified admiral could be found to replace him"
       ],
       "correctIndex": 2,
-      "explanation": "A new Ming emperor saw the expeditions as wasteful and un-Confucian, worried the fleet's cost was better spent defending the northern frontier, and distrusted the court faction associated with Zheng He, so the voyages were deliberately ended and the fleet dismantled. The reading does not describe a fleet destroyed at sea, a tribute shortfall, or Zheng He's death as the cause."
+      "explanation": "A new Ming emperor saw the expeditions as wasteful and un-Confucian, worried the fleet's cost was better spent defending the northern frontier, and distrusted the court faction associated with Zheng He, so the voyages were deliberately ended and the fleet dismantled. A fleet destroyed at sea, a tribute shortfall, and Zheng He's death were not the cause."
     },
     {
       "question": "What is a diasporic community?",
@@ -519,7 +519,7 @@
         "A group of pirates who settle permanently along a coastline for the purpose of raiding passing ships"
       ],
       "correctIndex": 0,
-      "explanation": "The reading defines a diasporic community as a population living outside its homeland while maintaining connections to its culture of origin, and distinguishes it from a sojourner who stays briefly and returns home. A temporary trading group, a military garrison, and a band of pirates all lack the permanence and cultural blending the reading describes."
+      "explanation": "A diasporic community is a population living outside its homeland while maintaining connections to its culture of origin, distinct from a sojourner who stays briefly and returns home. A temporary trading group, a military garrison, and a band of pirates all lack the permanence and cultural blending that define a diaspora."
     },
     {
       "question": "Which of the following was NOT one of the diasporic communities that were part of the Indian Ocean network?",
@@ -530,7 +530,7 @@
         "Portuguese merchants who settled permanently in East African port cities during this same period"
       ],
       "correctIndex": 3,
-      "explanation": "The reading names three diasporic communities from this period: Arab and Persian merchants in East Africa, Chinese merchants across Southeast Asia, and Malay sailors reaching as far as Madagascar. Portuguese merchants do not appear anywhere in the reading's account of these trade networks before 1450."
+      "explanation": "Three diasporic communities are documented from this period: Arab and Persian merchants in East Africa, Chinese merchants across Southeast Asia, and Malay sailors reaching as far as Madagascar. Portuguese merchants were not part of these trade networks before 1450."
     },
     {
       "question": "What does the Malagasy language spoken in Madagascar show?",
@@ -541,7 +541,7 @@
         "That Madagascar had no meaningful contact with the rest of the Indian Ocean network before 1450"
       ],
       "correctIndex": 1,
-      "explanation": "The reading notes that Austronesian sailors from the Malay world settled Madagascar around 650 CE, and that Malagasy is closely related to languages spoken in Borneo, evidence of just how far Malay maritime culture reached. This has nothing to do with Zheng He or Arabic, and directly shows Madagascar was connected to Indian Ocean networks well before 1450."
+      "explanation": "Austronesian sailors from the Malay world settled Madagascar around 650 CE, and Malagasy is closely related to languages spoken in Borneo, evidence of just how far Malay maritime culture reached. This has nothing to do with Zheng He or Arabic, and directly shows Madagascar was connected to Indian Ocean networks well before 1450."
     }
   ],
   "images": [],

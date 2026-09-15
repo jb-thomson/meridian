@@ -336,7 +336,7 @@
         "A sudden decline in European agricultural output caused by a series of unusually cold winters"
       ],
       "correctIndex": 2,
-      "explanation": "KC-5.1.II.A identifies industrial factories' need for raw materials, along with the food needs of growing urban populations, as the driver of export economies around the world. Options A, B, and D each describe a cause the reading never mentions, a labor shortage, banking rules, or a cold spell, none of which appear anywhere in the text."
+      "explanation": "KC-5.1.II.A identifies industrial factories' need for raw materials, along with the food needs of growing urban populations, as the driver of export economies around the world. Options A, B, and D each describe a cause that never comes up, a labor shortage, banking rules, or a cold spell, none of which had anything to do with it."
     },
     {
       "question": "What happened to India's textile industry as a result of colonial economic policy?",
@@ -347,7 +347,7 @@
         "New irrigation technology made growing cotton so profitable that weavers switched jobs by choice"
       ],
       "correctIndex": 0,
-      "explanation": "The reading describes India's deindustrialization: British machine-made cloth undercut Indian handloom weavers, and colonial policy removed the tariff protection that had sheltered them, converting India from a textile exporter into a raw cotton supplier. Options B and D wrongly frame this as a voluntary or profitable choice for weavers. Option C is the opposite of what happened, the Company promoted British textiles, not Indian ones."
+      "explanation": "India's deindustrialization happened when British machine-made cloth undercut Indian handloom weavers, and colonial policy removed the tariff protection that had sheltered them, converting India from a textile exporter into a raw cotton supplier. Options B and D wrongly frame this as a voluntary or profitable choice for weavers. Option C is the opposite of what happened, the Company promoted British textiles, not Indian ones."
     },
     {
       "question": "What brought the Amazon rubber boom to an end?",
@@ -358,7 +358,7 @@
         "Automobile manufacturers switched entirely to synthetic materials, ending demand for natural rubber"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that Henry Wickham smuggled rubber tree seeds out of Brazil to Kew Gardens, which enabled efficient rubber plantations in British Malaya that outcompeted Amazon wild rubber. A plant disease (option A), a government export ban (option C), and a shift to synthetic rubber (option D) are not mentioned anywhere in the reading as reasons for the boom's collapse."
+      "explanation": "Henry Wickham smuggled rubber tree seeds out of Brazil to Kew Gardens, which enabled efficient rubber plantations in British Malaya that outcompeted Amazon wild rubber. A plant disease (option A), a government export ban (option C), and a shift to synthetic rubber (option D) played no part in the boom's collapse."
     },
     {
       "question": "What ultimately happened to Peru's economy after its guano export boom?",
@@ -369,7 +369,7 @@
         "Guano deposits were exhausted, and without economic diversification Peru's economy eventually collapsed"
       ],
       "correctIndex": 3,
-      "explanation": "The reading describes a classic boom-bust cycle: Peru earned over $2 billion from guano but failed to industrialize or diversify, so when the deposits were exhausted the economy collapsed. Guano is a natural fertilizer from seabird droppings, not a synthetic invention (option A), and options B and C both contradict the reading's description of Peru's eventual collapse and war with Chile."
+      "explanation": "Peru's guano trade was a classic boom-bust cycle: Peru earned over $2 billion from guano but failed to industrialize or diversify, so when the deposits were exhausted the economy collapsed. Guano is a natural fertilizer from seabird droppings, not a synthetic invention (option A), and options B and C both contradict what actually happened: Peru's eventual collapse and war with Chile."
     },
     {
       "question": "How did the Congo Free State enforce its rubber production quotas?",
@@ -380,7 +380,7 @@
         "Belgian missionaries ran the Congo's rubber economy independently of Leopold's personal control"
       ],
       "correctIndex": 0,
-      "explanation": "The reading describes systematic terror, village hostage-taking and the severing of hands as punishment for failing to meet rubber quotas, a regime that killed an estimated 10 million people. Options B and C describe voluntary, fairly compensated labor, the opposite of what the reading says happened. Option D misattributes control of the rubber economy to missionaries rather than to Leopold's personal administration."
+      "explanation": "The Congo Free State ran on systematic terror, village hostage-taking and the severing of hands as punishment for failing to meet rubber quotas, a regime that killed an estimated 10 million people. Options B and C describe voluntary, fairly compensated labor, the opposite of what actually happened. Option D misattributes control of the rubber economy to missionaries rather than to Leopold's personal administration."
     },
     {
       "question": "Why is monoculture agriculture environmentally risky?",
@@ -391,7 +391,7 @@
         "Monoculture eliminates the need for irrigation, since a single crop requires far less water to grow"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that monoculture, growing a single crop for export, exhausted soils in places like Egypt and India and created dependence on one commodity, a risk if the crop failed or prices collapsed. Options A, B, and D each describe a benefit the reading never claims, monoculture is presented as reducing biodiversity and depleting soil, not improving either."
+      "explanation": "Monoculture, growing a single crop for export, exhausted soils in places like Egypt and India and created dependence on one commodity, a risk if the crop failed or prices collapsed. Options A, B, and D each describe a benefit monoculture never delivered, it reduced biodiversity and depleted soil, not improved either."
     },
     {
       "question": "Which of the following is NOT an accurate commodity-region pairing from this period?",
@@ -402,7 +402,7 @@
         "Palm oil was produced in West Africa and exported to Europe for use in soap manufacturing"
       ],
       "correctIndex": 1,
-      "explanation": "The reading never mentions Ethiopian coffee exports or Italian instant coffee manufacturing; this pairing is invented. The reading does specifically describe rubber from the Amazon and Congo basins, diamonds discovered near Kimberley in South Africa, and palm oil from West Africa used in European soap manufacturing, so options A, C, and D are all pairings the reading directly supports."
+      "explanation": "Ethiopian coffee exports and Italian instant coffee manufacturing never happened together; this pairing is invented. Rubber from the Amazon and Congo basins, diamonds discovered near Kimberley in South Africa, and palm oil from West Africa used in European soap manufacturing are all real, so options A, C, and D are all accurate pairings."
     }
   ]
 }

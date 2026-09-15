@@ -165,7 +165,7 @@
     },
     {
       "type": "heading",
-      "text": "🌍 Land Redistribution Movements: LO E, KC-6.2.II.D.i"
+      "text": "🌍 Land Redistribution Movements"
     },
     {
       "type": "paragraph",
@@ -306,7 +306,7 @@
         "Japan's eventual defeat removed the only military force capable of preventing a communist takeover"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that the Guomindang bore the brunt of conventional fighting against Japan while the CCP used guerrilla resistance and land reform to build rural support, leaving it relatively stronger by 1945. (B), (C), and (D) are not supported by the reading."
+      "explanation": "The Guomindang bore the brunt of conventional fighting against Japan while the CCP used guerrilla resistance and land reform to build rural support, leaving it relatively stronger by 1945. (B), (C), and (D) are not supported by the historical record."
     },
     {
       "question": "What was the deadliest consequence of Mao's Great Leap Forward?",
@@ -317,7 +317,7 @@
         "A famine that killed 15–45 million people, worsened by officials falsifying harvest reports out of fear"
       ],
       "correctIndex": 3,
-      "explanation": "The reading identifies the Great Leap Forward's famine, caused by collectivization failures and worsened by falsified harvest reports, as its most devastating consequence, killing an estimated 15–45 million people. (A), (B), and (C) are not what the reading describes as its deadliest effect."
+      "explanation": "The Great Leap Forward's most devastating consequence was the famine it caused, driven by collectivization failures and worsened by falsified harvest reports, which killed an estimated 15–45 million people. (A), (B), and (C) were not its deadliest effect."
     },
     {
       "question": "Why is Ho Chi Minh's movement described as \"Communist Revolution for Vietnamese independence\"?",
@@ -328,7 +328,7 @@
         "The communist movement in Vietnam was motivated mainly by economic rather than nationalist concerns"
       ],
       "correctIndex": 1,
-      "explanation": "The reading explains that Ho Chi Minh's Viet Minh fused communist organization with the nationalist goal of independence, the same movement and leadership pursued both simultaneously. (A), (C), and (D) all contradict the reading."
+      "explanation": "Ho Chi Minh's Viet Minh fused communist organization with the nationalist goal of independence, the same movement and leadership pursued both simultaneously. (A), (C), and (D) all contradict this."
     },
     {
       "question": "Why is Iran's White Revolution an example of land redistribution?",
@@ -339,7 +339,7 @@
         "Land redistribution in the Middle East always failed because of resistance from religious clergy"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that the Shah pursued land reform specifically to undercut communism's appeal, showing that redistribution was a tool used across ideological lines, not only by communists. (A), (B), and (D) all contradict the reading."
+      "explanation": "The Shah pursued land reform specifically to undercut communism's appeal, showing that redistribution was a tool used across ideological lines, not only by communists. (A), (B), and (D) all contradict this."
     },
     {
       "question": "Why is Kerala, India's 1957 land reform notable?",
@@ -350,7 +350,7 @@
         "Redistributive policies tied to communism could be enacted through democratic elections, not just revolution"
       ],
       "correctIndex": 3,
-      "explanation": "The reading explains that Kerala's communist government won a democratic election and then implemented land reform, challenging the Cold War assumption that communism and democracy were incompatible. (A), (B), and (C) all contradict the reading."
+      "explanation": "Kerala's communist government won a democratic election and then implemented land reform, challenging the Cold War assumption that communism and democracy were incompatible. (A), (B), and (C) all contradict this."
     },
     {
       "question": "Why did communist and socialist land reform promises appeal so strongly to peasants?",
@@ -361,7 +361,7 @@
         "Land reform was a policy tool used only by communist governments and never by any other ideology"
       ],
       "correctIndex": 0,
-      "explanation": "The reading explains that concentrated land ownership left most peasants poor tenants, so promises of redistribution addressed their most fundamental material grievance. (B), (C), and (D) all contradict the reading."
+      "explanation": "Concentrated land ownership left most peasants poor tenants, so promises of redistribution addressed their most fundamental material grievance. (B), (C), and (D) all contradict this."
     },
     {
       "question": "What happened under Mengistu Haile Mariam's regime in Ethiopia?",
@@ -372,7 +372,7 @@
         "Ethiopia rejected all forms of land redistribution throughout Mengistu's time in power"
       ],
       "correctIndex": 1,
-      "explanation": "The reading describes how Mengistu's regime nationalized land and collectivized agriculture while also conducting the Red Terror, a campaign of political violence that killed hundreds of thousands. (A), (C), and (D) all contradict the reading."
+      "explanation": "Mengistu's regime nationalized land and collectivized agriculture while also conducting the Red Terror, a campaign of political violence that killed hundreds of thousands. (A), (C), and (D) all contradict this."
     }
   ],
   "images": [],

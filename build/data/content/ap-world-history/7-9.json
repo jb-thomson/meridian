@@ -80,7 +80,7 @@
         "Focus only on the single immediate trigger of an event while ignoring any deeper underlying causes"
       ],
       "correctIndex": 2,
-      "explanation": "The reading defines the causation skill as identifying causes, explaining the mechanisms linking cause and effect, and ranking causes by relative importance, not just listing or narrating them. The other options each describe only part of the skill, or a different skill entirely."
+      "explanation": "The causation skill means identifying causes, explaining the mechanisms linking cause and effect, and ranking causes by relative importance, not just listing or narrating them. The other options each describe only part of the skill, or a different skill entirely."
     },
     {
       "question": "When ranking historical causes, what criteria can help decide that one cause was more important than another?",
@@ -91,7 +91,7 @@
         "Whether the cause involved a larger number of countries than the other causes being compared"
       ],
       "correctIndex": 0,
-      "explanation": "The reading's ranking framework lays out three ways to judge relative importance: whether a cause was necessary versus sufficient, whether its effects were wide-reaching, and whether removing it would have changed the outcome most decisively. The other options describe criteria the reading never mentions."
+      "explanation": "The ranking framework lays out three ways to judge relative importance: whether a cause was necessary versus sufficient, whether its effects were wide-reaching, and whether removing it would have changed the outcome most decisively. The other options describe criteria that don't actually apply."
     },
     {
       "question": "What is the most important causal chain connecting WWI and WWII?",
@@ -102,7 +102,7 @@
         "WWI's outcome at Versailles directly created the German resentment that fed the Nazi rise and caused WWII"
       ],
       "correctIndex": 3,
-      "explanation": "The reading calls the direct chain from WWI's outcome at Versailles to German resentment, Hitler's rise, and fascist expansion the clearest causal chain in AP World History. The other options are not claims the reading makes."
+      "explanation": "The direct chain from WWI's outcome at Versailles to German resentment, Hitler's rise, and fascist expansion is the clearest causal chain in AP World History. The other options are not accurate."
     },
     {
       "question": "In the framework for ranking causes, what should a strong essay do after making a specific, ranked claim about which cause mattered most?",
@@ -113,7 +113,7 @@
         "Simply restate the original claim word for word without adding any new supporting evidence"
       ],
       "correctIndex": 1,
-      "explanation": "The reading's five-step framework specifically calls for addressing a counter-argument in step four and then returning to the original claim in step five. The other options all describe the opposite of what a strong causation argument should do."
+      "explanation": "The five-step framework specifically calls for addressing a counter-argument in step four and then returning to the original claim in step five. The other options all describe the opposite of what a strong causation argument should do."
     },
     {
       "question": "What does the example of the WWI armistice illustrate?",
@@ -124,18 +124,18 @@
         "German commanders refused to accept the armistice terms and kept fighting until the following day"
       ],
       "correctIndex": 2,
-      "explanation": "The reading states the armistice was signed at 5:00 a.m. but not enforced until 11:00 a.m., and that roughly 11,000 casualties occurred in between as commanders kept ordering attacks that served no military purpose. The other options are not supported by the reading."
+      "explanation": "The armistice was signed at 5:00 a.m. but not enforced until 11:00 a.m., and roughly 11,000 casualties occurred in between as commanders kept ordering attacks that served no military purpose. The other options are not accurate."
     },
     {
       "question": "How did industrial technology connect to the causes of WWI and WWII?",
       "options": [
         "Industrial weapons and organization made total war possible and far more lethal, though technology alone didn't cause either war",
         "Technology alone is presented as the single cause that fully explains both wars, with no political explanation needed at all",
-        "The reading argues that WWI and WWII would have happened at exactly the same scale even without any industrial weapons at all",
-        "The reading argues technological change affected only the outcome of WWII, and had no real connection to the causes of WWI"
+        "WWI and WWII would have happened at exactly the same scale even without any industrial weapons at all",
+        "Technological change affected only the outcome of WWII, and had no real connection to the causes of WWI"
       ],
       "correctIndex": 0,
-      "explanation": "The reading calls technology a necessary but not sufficient cause: it enabled the destructiveness of both wars but still required political and ideological decisions on top of it. The other options all misstate this relationship."
+      "explanation": "Technology was a necessary but not sufficient cause: it enabled the destructiveness of both wars but still required political and ideological decisions on top of it. The other options all misstate this relationship."
     }
   ],
   "blocks": [
