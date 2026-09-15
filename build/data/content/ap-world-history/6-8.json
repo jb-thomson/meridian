@@ -92,7 +92,7 @@
   ],
   "comprehensionCheck": [
     {
-      "question": "Why does the reading describe industrialization as a “necessary, not sufficient” cause of imperialism?",
+      "question": "Why was industrialization a “necessary, not sufficient” cause of imperialism?",
       "options": [
         "Industrialization alone explains every detail of imperialism, including exactly which territories were seized",
         "Industrialization made conquest possible, but its specific racial and competitive form also needed ideology and politics",
@@ -103,7 +103,7 @@
       "explanation": "The reading argues industrialization created the technological gap, economic demand, and social pressures behind imperialism, but the specific form conquest took, its racial ideology and competitive structure, also required the ideological and political developments covered separately. (A), (C), and (D) all overstate or misplace industrialization’s role in ways the reading doesn’t support."
     },
     {
-      "question": "Which two factors did the reading identify as making the conquest of interior Africa possible for the first time?",
+      "question": "Which two factors made the conquest of interior Africa possible for the first time?",
       "options": [
         "Repeating rifles and railroads, letting armies coordinate a rapid advance through contested rural land",
         "Steamships and telegraphs, letting commanders in Europe issue direct orders to isolated garrisons",
@@ -114,7 +114,7 @@
       "explanation": "The reading names quinine (which sharply reduced European deaths from malaria) and the Maxim gun (which created a devastating military asymmetry, as at Omdurman) as the two innovations that made sustained interior conquest militarily feasible for the first time. (A), (B), and (D) name technologies or combinations the reading doesn’t credit this way."
     },
     {
-      "question": "What is the “core-periphery” relationship described in the reading?",
+      "question": "What is the “core-periphery” relationship?",
       "options": [
         "Industrialized core nations exported finished goods while peripheral regions supplied raw materials and labor",
         "Peripheral colonies exported finished manufactured goods to core nations in exchange for higher prices",
@@ -136,7 +136,7 @@
       "explanation": "The reading explains that nationalism created competitive pressure: nations sometimes claimed territory mainly to keep rivals from getting it, driving expansion into places that weren’t especially profitable. (A) and (D) both misstate the relationship between nationalism and economics, and (C) contradicts the reading’s account of accelerating expansion."
     },
     {
-      "question": "Which of the following is NOT one of the four categories of causes the reading identifies for imperial expansion?",
+      "question": "Which of the following is NOT one of the four categories of causes of imperial expansion?",
       "options": [
         "Technological and military advantages, such as industrial weapons and tropical medicine",
         "Economic demand for raw materials, new markets, and profitable investment opportunities",
@@ -147,7 +147,7 @@
       "explanation": "The reading’s four causal categories are technological/military, economic, ideological, and political competition, alliance treaties requiring mutual war declarations are never mentioned as a cause of imperialism in this reading. (A), (B), and (D) are all categories the reading explicitly names."
     },
     {
-      "question": "What does the reading mean by describing imperialism’s effects as a “balance sheet”?",
+      "question": "What is meant by describing imperialism’s effects as a “balance sheet”?",
       "options": [
         "It means imperialism’s economic costs were eventually repaid in full to the territories it colonized",
         "It means historians should set aside imperialism’s human costs when judging its long-term importance",
@@ -158,7 +158,7 @@
       "explanation": "The reading uses “balance sheet” to argue that a strong analysis has to acknowledge both real transformations, like new political borders and global trade networks, and the enormous human costs, like the Congo’s 10 million deaths, rather than picking only one side. (A), (B), and (C) each distort what the reading actually argues."
     },
     {
-      "question": "How does the reading connect the Industrial Revolution to imperialism through the specific example of quinine?",
+      "question": "How did the Industrial Revolution connect to imperialism through the specific example of quinine?",
       "options": [
         "Quinine was a manufactured export good that industrial factories sold directly to colonized populations",
         "Quinine reduced European soldiers’ mortality from tropical disease, making sustained interior conquest possible",
@@ -204,11 +204,11 @@
     },
     {
       "type": "image",
-      "imageType": "ai_generated",
+      "imageType": "public_domain_historical",
       "src": "assets/images/ap-world-history/6-8-0.jpg",
-      "alt": "Map of the world in 1900 showing colonized territories dominated by European powers",
-      "caption": "The world in 1900: European powers, the United States, and Japan controlled approximately 84% of the earth’s land surface, the product of the imperial expansion driven by industrialization, economic demand, and military technology from 1750 to 1900 (Google Gemini, 2025), commercially licensed.",
-      "attribution": "The world in 1900: European powers, the United States, and Japan controlled approximately 84% of the earth’s land surface, the product of the imperial expansion driven by industrialization, economic demand, and military technology from 1750 to 1900 (Google Gemini, 2025), commercially licensed."
+      "alt": "World map in 1898 showing colonial empires and their territories color-coded by controlling power",
+      "caption": "The world in 1898: European powers, the United States, and Japan controlled the large majority of the earth's land surface, the product of the imperial expansion driven by industrialization, economic demand, and military technology from 1750 to 1900.",
+      "attribution": "\"World 1898 empires colonies territory.png,\" Wikimedia Commons, public domain / CC BY-SA 3.0."
     },
     {
       "type": "heading",

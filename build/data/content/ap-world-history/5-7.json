@@ -394,7 +394,7 @@
       "explanation": "The reading defines limited liability as protecting investors from losing more than their invested amount, even if the company went bankrupt and owed large debts, which encouraged far more people to invest in risky industrial ventures. It never mentions any limit on how many companies a person could invest in, any voting requirement tied to a majority stake, or any government cap on profits."
     },
     {
-      "question": "Why does the reading use HSBC as an example of a \"transnational business\"?",
+      "question": "Why is HSBC an example of a \"transnational business\"?",
       "options": [
         "It operated across multiple countries and currencies to finance trade between Europe and Asia",
         "It was the very first company in history to be owned entirely by foreign governments",
@@ -405,18 +405,18 @@
       "explanation": "The reading describes HSBC operating simultaneously in Hong Kong, Shanghai, Bombay, Calcutta, Singapore, and London, handling the multi-currency, multi-country transactions that global industrial trade required. It was founded by a private individual, not owned by governments, and the reading describes it financing merchants and trade shipments generally, not just loans to colonial governments or business limited to the British Empire."
     },
     {
-      "question": "How were the benefits of industrial capitalism distributed between workers and industrialists in Britain between 1850 and 1900?",
+      "question": "How did industrial capitalism distribute its benefits between factory owners and industrial workers?",
       "options": [
-        "Workers' wages grew faster than industrialists' profits, reversing the earlier inequality",
-        "Workers' wages roughly doubled while industrialists' profits grew by a factor of 10 or more",
-        "Both wages and profits grew at roughly the same rate, keeping overall inequality steady",
-        "Wages and profits both stayed completely flat, since most gains went to government taxation"
+        "Workers' wages grew much faster than owners' and investors' wealth, reversing the earlier inequality",
+        "Factory owners, investors, and the new industrial middle class accumulated far more wealth while workers earned modest wages that improved only slowly",
+        "Wages and profits grew at exactly the same pace, so overall inequality stayed unchanged",
+        "Both wages and profits stagnated, since most industrial gains were absorbed by government taxes"
       ],
       "correctIndex": 1,
-      "explanation": "The reading states that British workers' real wages roughly doubled between 1850 and 1900, while industrialists' profits grew by a factor of 10 or more in the same period, showing real improvement alongside growing inequality. Wages did not grow faster than profits, and neither wages nor profits stayed flat. The reading does not describe government taxation absorbing the gains from industrial growth."
+      "explanation": "The reading states that factory owners, investors, and the new industrial middle class accumulated enormous wealth, while industrial workers earned modest wages that improved only slowly, real progress, but far outpaced by what owners and investors gained. Wages did not grow faster than owners' wealth, the two did not grow at the same rate, and the reading never mentions government taxation absorbing industrial gains."
     },
     {
-      "question": "Which of the following is NOT one of the reasons the reading gives for why manufactured goods became more affordable in the 19th century?",
+      "question": "Which of the following is NOT one of the reasons manufactured goods became more affordable in the 19th century?",
       "options": [
         "Machines produced far more goods per hour than human hands ever could manage",
         "Division of labor made the whole production process significantly more efficient",

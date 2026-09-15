@@ -364,7 +364,7 @@
         "Spanish colonizers deliberately infected indigenous populations with disease as an early strategy"
       ],
       "correctIndex": 2,
-      "explanation": "The reading explains that diseases like smallpox had circulated in Afro-Eurasia for centuries, giving those populations partial immunity through repeated exposure, while indigenous Americans had zero prior exposure and therefore zero defense. The reading does not claim indigenous peoples lacked medicine, and while the funFact mentions one possible siege-related instance elsewhere in the course, this reading does not present deliberate infection as the general explanation."
+      "explanation": "The reading explains that diseases like smallpox had circulated in Afro-Eurasia for centuries, giving those populations partial immunity through repeated exposure, while indigenous Americans had zero prior exposure and therefore zero defense. The reading does not claim indigenous peoples lacked medicine, does not describe European ships carrying more disease per voyage, and never describes deliberate infection as a strategy, smallpox spread on its own well ahead of Spanish forces."
     },
     {
       "question": "What effect did American food crops like the potato have on populations in Afro-Eurasia?",
@@ -389,7 +389,7 @@
       "explanation": "The reading explains that mounted hunters could run down bison far more efficiently than hunters on foot, which increased food security and transformed Plains societies into fully nomadic, militarily powerful cultures built around the horse. The other options describe outcomes the reading does not support."
     },
     {
-      "question": "What connection does the reading draw between the Columbian Exchange and the growth of the Atlantic slave trade?",
+      "question": "How was the Columbian Exchange connected to the growth of the Atlantic slave trade?",
       "options": [
         "Disease devastated indigenous labor, and plantation owners turned to enslaved Africans to replace it",
         "European monarchs required a fixed number of enslaved Africans before granting any exploration license",
@@ -411,7 +411,7 @@
       "explanation": "The reading explicitly names mosquitoes and rats as disease vectors, noting that mosquitoes carrying malaria arrived from Africa via the slave trade and that rats carrying disease stowed away on ships, amplifying the epidemiological impact. Birds, cats, and ocean currents are not mentioned as vectors in the reading."
     },
     {
-      "question": "Which of the following was NOT one of the effects of the Columbian Exchange described in the reading?",
+      "question": "Which of the following was NOT an effect of the Columbian Exchange?",
       "options": [
         "American food crops supporting population growth in parts of Afro-Eurasia",
         "A demographic collapse of 50 to 90 percent among many indigenous American populations",

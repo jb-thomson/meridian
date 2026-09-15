@@ -91,16 +91,16 @@
     {
       "question": "Why was the Warsaw Pact created in 1955?",
       "options": [
-        "It was created in direct response to West Germany's formal admission into NATO that very same year",
+        "It was the Soviet Union's direct response to NATO, forming a rival alliance that put Eastern Europe under Soviet military command",
         "It was created in direct response to the outbreak of the Korean War roughly five years earlier",
         "It was created in direct response to the United States testing its very first hydrogen bomb weapon",
         "It was created only after a formal Soviet request to join NATO itself had been flatly rejected"
       ],
       "correctIndex": 0,
-      "explanation": "The reading states the Warsaw Pact was created directly in response to West Germany joining NATO in 1955, formalizing Soviet military dominance in Eastern Europe. The other options are not given as the cause in the reading."
+      "explanation": "The reading states that the Soviet Union responded to NATO by creating the Warsaw Pact in 1955, which institutionalized Soviet military command over Eastern Europe and let the USSR station troops in member states. The other options describe events the reading never connects to the Warsaw Pact's creation."
     },
     {
-      "question": "What is the doctrine of Mutually Assured Destruction (MAD), as described in the reading?",
+      "question": "What is the doctrine of Mutually Assured Destruction (MAD)?",
       "options": [
         "The idea that only nations without any nuclear weapons could ever be trusted to keep the world at lasting peace",
         "The idea that neither superpower would rationally start a nuclear war, since the other side could retaliate and destroy it",

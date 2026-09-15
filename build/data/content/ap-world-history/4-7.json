@@ -409,7 +409,7 @@
       "explanation": "The reading defines the millet system as allowing recognized religious communities, such as Christians and Jews, to govern themselves under their own religious law regarding marriage, divorce, inheritance, and education, with their own courts and leaders. It was not a tax on Muslim merchants, a naval draft, or a forced conversion program, non-Muslims paid the jizya but were otherwise largely autonomous."
     },
     {
-      "question": "What does the reading say about the status of women in the Ottoman Empire?",
+      "question": "What was the status of women in the Ottoman Empire?",
       "options": [
         "Only non-Muslim women living in the empire had any legal rights whatsoever",
         "Ottoman women of every background were legally barred from owning property",
@@ -431,15 +431,15 @@
       "explanation": "The reading describes Akbar pursuing accommodation, not conversion: he abolished the jizya tax, appointed Rajput Hindu nobles to top positions, and developed the syncretic Din-i-Ilahi philosophy. Forcing Hindu subjects to convert to Islam directly contradicts this accommodation and is not supported anywhere in the reading."
     },
     {
-      "question": "What does the reading say happened to Akbar's accommodation policies after his death?",
+      "question": "Why was Akbar's accommodation of non-Muslim subjects not simply an act of open-minded idealism?",
       "options": [
-        "They were adopted directly by the Ottoman Empire as a model for its own government",
-        "Aurangzeb reversed many of them, reinstating the jizya and alienating Hindu allies",
-        "They had no lasting effect on later Mughal military alliances or political stability",
-        "Every one of Akbar's successors expanded his accommodation policies without exception"
+        "Mughal control of India depended on cooperation from the Rajput Hindu warrior nobility",
+        "European missionaries pressured Akbar into abolishing the jizya tax on non-Muslims",
+        "The Ottoman government required Akbar to match its own millet system as a condition of trade",
+        "Akbar's own military commanders forced the policy on him against his personal wishes"
       ],
-      "correctIndex": 1,
-      "explanation": "The reading explains that Akbar's successor Aurangzeb reversed many accommodation policies, reinstating the jizya tax in 1679 and destroying Hindu temples, which contributed to the Maratha challenge covered in Topic 4.6. His policies were not universally continued, they were not adopted by the Ottomans, and they clearly did affect later Mughal alliances and stability."
+      "correctIndex": 0,
+      "explanation": "The reading states that Mughal rule depended on cooperation from the Rajput Hindu warrior nobility who controlled large territories, so Akbar's accommodation was as much practical power politics as personal open-mindedness. Nothing in the reading mentions European missionaries, an Ottoman requirement, or military commanders forcing the policy on him."
     }
   ],
   "images": [],

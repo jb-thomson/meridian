@@ -323,7 +323,7 @@
       "explanation": "The reading defines push factors as conditions (famine, poverty, persecution) that drive people from their home society, and pull factors as conditions (jobs, land, wages) that attract them to a destination. (B), (C), and (D) mischaracterize the distinction the reading makes."
     },
     {
-      "question": "How does the reading describe the Irish Famine (1845–52)?",
+      "question": "Which of the following best describes the Irish Famine (1845-52)?",
       "options": [
         "A famine that was resolved quickly through effective British government relief efforts and food aid",
         "A demographic crisis worsened by colonial policies, since Britain kept exporting food during the famine",
@@ -345,7 +345,7 @@
       "explanation": "The reading states that faster, cheaper steamship crossings allowed migrants to return home periodically or permanently, enabling patterns like Italian seasonal \"swallow\" migration to Argentina. (A), (B), and (D) directly contradict the reading."
     },
     {
-      "question": "How does the reading classify Chinese and Indian indentured servitude after British emancipation in 1833?",
+      "question": "How was Chinese and Indian indentured servitude classified after British emancipation in 1833?",
       "options": [
         "Coerced migration was fully abolished worldwide by 1833, leaving only free labor migration afterward",
         "Chinese and Indian workers, though under contract, faced deceptive recruitment and years of bound labor",
@@ -356,7 +356,7 @@
       "explanation": "The reading classifies indentured servitude as semi-coerced: workers signed contracts, but recruitment was often deceptive and workers were legally bound for years under harsh conditions. (A) contradicts the reading's own examples. (C) and (D) misstate who the reading classifies as coerced."
     },
     {
-      "question": "What does the reading say about the relationship between new transportation and urbanization in the 19th century?",
+      "question": "What was the relationship between new transportation and urbanization in the 19th century?",
       "options": [
         "Migrants overwhelmingly avoided cities, preferring to settle instead in newly opened rural farmland",
         "Urban population growth in this period was caused entirely by falling death rates, not by migration",
@@ -367,18 +367,18 @@
       "explanation": "The reading explains that new transportation drew both internal and international migrants into cities, contributing to the significant global urbanization of the 19th century, citing London's and Chicago's rapid growth. (B), (C), and (D) all contradict the reading's evidence."
     },
     {
-      "question": "How were Chinese laborers on the U.S. transcontinental railroad treated compared to white workers?",
+      "question": "What were working conditions like for Chinese indentured laborers on Peru's guano islands in the mid-1800s?",
       "options": [
-        "Chinese workers were paid wages equal to white workers and received the same land grants and benefits",
-        "Chinese workers were paid roughly two-thirds of white workers' wages and assigned the most dangerous tasks",
-        "Chinese workers were only permitted to perform administrative office work rather than physical labor",
-        "Chinese workers voluntarily returned to China immediately after finishing each week of railroad work"
+        "They worked comfortable clerical jobs and could leave their contracts whenever they wished",
+        "They shoveled guano in choking ammonia fumes under brutal conditions, with a death rate near 50 percent",
+        "They served mainly as translators between European merchants and Peruvian officials",
+        "They earned wages equal to free Peruvian laborers and faced no unusual health risks"
       ],
       "correctIndex": 1,
-      "explanation": "The reading states that Chinese railroad workers earned about two-thirds of white workers' wages, were assigned the most dangerous tasks, and were excluded from the land grants and benefits white workers received. (A), (C), and (D) contradict these details."
+      "explanation": "About 140,000 Chinese workers were brought to Peru's guano islands under indenture contracts in the mid-1800s. They shoveled guano in suffocating ammonia fumes, faced physical punishment, and had a death rate approaching 50 percent, among the worst labor conditions in the world, which is why historians classify indentured servitude as semi-coerced rather than truly voluntary. (A) describes the opposite of what happened. (C) is not mentioned. (D) contradicts the brutal conditions and high death rate described."
     },
     {
-      "question": "Why does the reading classify indentured servitude as \"semi-coerced\" rather than fully voluntary?",
+      "question": "Why is indentured servitude classified as \"semi-coerced\" rather than fully voluntary?",
       "options": [
         "Recruiters often deceived workers, and once bound, they could be legally punished for leaving early",
         "The workers signed contracts entirely of their own free will, with full understanding of every single term",
