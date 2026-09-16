@@ -110,7 +110,7 @@
     {% if b.type == 'heading' %}
   <h3 class="reading-subhead">{{ b.text|md }}</h3>
     {% elif b.type == 'paragraph' %}
-  <p{{ ' class="reveal"' if topic.num in ('2.2', '2.5') }}>{{ b.text|md }}</p>
+  <p class="reveal">{{ b.text|md }}</p>
     {% elif b.type == 'list' %}
   <ul class="reading-list">{% for it in b['items'] %}<li>{{ it|md }}</li>{% endfor %}</ul>
     {% elif b.type == 'table' %}
