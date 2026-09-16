@@ -537,6 +537,28 @@
       ],
       "correctIndex": 3,
       "explanation": "Three travelers serve as witnesses for this topic: Ibn Battuta, Marco Polo, and Margery Kempe, each illustrating a different dimension of connectivity. Zheng He is a significant figure in AP World History, but he led Ming China's Indian Ocean voyages, a different story from this list of travelers and witnesses."
+    },
+    {
+      "question": "What role did Buddhist monasteries along the Silk Roads play in supporting trade, beyond being places of worship?",
+      "options": [
+        "They served as caravanserais, hospitals, and libraries that gave traveling merchants real services",
+        "They minted their own currency, which became the standard money used across Central Asia",
+        "They operated as military garrisons that protected passing merchants from bandit attacks",
+        "They set the official prices for silk and other goods moving along the trade routes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Monasteries that grew up at oases and rest stops provided shelter, care, and knowledge to traveling merchants, functioning as caravanserais, hospitals, and libraries in exchange for donations and protection. They did not mint currency, run military garrisons, or set prices for trade goods."
+    },
+    {
+      "question": "Why did European scholars often have to translate ancient Greek works, like those of Aristotle, from Arabic rather than from the original Greek?",
+      "options": [
+        "Arab scholars had rewritten those works so completely that no original Greek content remained",
+        "The original Greek manuscripts had been lost in Europe, but Arab scholars had preserved and translated them",
+        "The Byzantine Empire refused to share any of its Greek manuscripts with western European scholars",
+        "Reading Greek philosophy was treated as forbidden in most of medieval Christian Europe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Arab scholars translated and preserved classical Greek writings at a time when the originals had been lost in Europe during the disorder of the early medieval period, so European scholars later depended on those Arabic versions to recover Greek knowledge. Those writings were preserved, not rewritten beyond recognition, and neither Byzantine secrecy nor a religious ban explains why Europe had lost the originals."
     }
   ],
   "images": [],

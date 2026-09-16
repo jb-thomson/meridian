@@ -441,6 +441,39 @@
       ],
       "correctIndex": 2,
       "explanation": "The treaty line was never corrected for inaccuracy. Instead, England, France, and the Dutch simply ignored the treaty because they hadn't signed it, had the power to compete anyway, and were never bound by an agreement between only two other states."
+    },
+    {
+      "question": "What began in 1441 alongside early Portuguese voyages to the area of modern Mauritania?",
+      "options": [
+        "The first Portuguese trading post anywhere in the Indian Ocean world was established at the port city of Goa",
+        "The first enslaved Africans were brought to Portugal, marking the start of the Atlantic slave trade",
+        "Prince Henry the Navigator died, ending state sponsorship of exploration for decades",
+        "Portugal signed the Treaty of Tordesillas with Spain to divide newly explored territory"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1441, Portuguese ships reaching the area of modern Mauritania brought the first enslaved Africans to Portugal, beginning the Atlantic slave trade decades before Columbus's voyage. Goa was not seized until 1510, Prince Henry lived until 1460, and the Treaty of Tordesillas was not signed until 1494."
+    },
+    {
+      "question": "What happened to the Magellan-Elcano expedition (1519 to 1522)?",
+      "options": [
+        "All five ships and their full crews returned safely to Spain after reaching Asia",
+        "Magellan completed the full circumnavigation personally, becoming the first person to sail around the world",
+        "The expedition turned back before reaching the Pacific Ocean due to a lack of supplies",
+        "Magellan died in the Philippines, and only one of the original five ships returned to Spain"
+      ],
+      "correctIndex": 3,
+      "explanation": "Magellan died in the Philippines partway through the voyage, and only one of the five ships that set out, commanded by Juan Sebastian Elcano, made it back to Spain with a cargo of spices. Not every ship or crew member survived, Magellan never personally completed the full circumnavigation since he died along the way, and the expedition did reach and cross the Pacific."
+    },
+    {
+      "question": "Why did the silver mined at Potosí become especially significant for global trade?",
+      "options": [
+        "It was the first American commodity that Portuguese traders were legally permitted to import into Europe",
+        "It replaced pepper as the main cargo carried on the Manila Galleon that sailed between the Philippines and southern China",
+        "It produced so much silver that it became the world's primary currency, linking American mines to Asian markets",
+        "It was used exclusively to fund the construction of Portuguese feitorias in the Indian Ocean"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spanish mining of Potosí silver produced such an enormous supply that it became the world's primary currency, linking American mines directly to Asian markets. Portuguese import law, the Manila Galleon's main cargo, and the financing of Portuguese trading posts are not what made Potosí historically significant."
     }
   ],
   "images": [],

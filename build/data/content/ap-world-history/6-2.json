@@ -425,7 +425,40 @@
         "Some colonies, like the Congo Free State, shifted from a ruler's personal possession to formal state control"
       ],
       "correctIndex": 2,
-      "explanation": "The Scramble for Africa was largely new territorial acquisition by European states, not a transition from prior company rule, so option C misstates the pattern. Options A and B both directly describe patterns covered in this topic (state expansion in Africa and Asia, and continental conquest by the U.S., Russia, and Japan). Option D accurately describes the Congo Free State's shift from Leopold's personal possession to the Belgian state in 1908."
+      "explanation": "The Scramble for Africa was largely new territorial acquisition by European states, not a transition from prior company rule, so option C misstates the pattern. Options A and B both directly describe real patterns of state expansion, in Africa and Asia, and continental conquest by the U.S., Russia, and Japan. Option D accurately describes the Congo Free State's shift from Leopold's personal possession to the Belgian state in 1908."
+    },
+    {
+      "question": "How large was the British East India Company's private army at its peak?",
+      "options": [
+        "It never maintained any army and relied entirely on the British government's forces",
+        "About 50,000 soldiers, roughly one-fourth the size of the British Army",
+        "About 100,000 soldiers, similar in size to the British Army",
+        "Over 260,000 soldiers, about twice the size of the British Army itself"
+      ],
+      "correctIndex": 3,
+      "explanation": "At its peak, the East India Company commanded a private army of over 260,000 soldiers, roughly twice the size of the British Army, which let it govern India for nearly two centuries before the Sepoy Rebellion exposed the limits of corporate rule. It did maintain its own army rather than relying on the British government, and the other options understate its actual size."
+    },
+    {
+      "question": "What was the effect of the Louisiana Purchase of 1803 on U.S. territory?",
+      "options": [
+        "It doubled the size of U.S. territory",
+        "It added Texas, California, and the Southwest to U.S. territory",
+        "It secured U.S. control over Puerto Rico, Guam, and the Philippines",
+        "It formally closed the American frontier according to Frederick Jackson Turner"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Louisiana Purchase of 1803 doubled the size of U.S. territory, well before the Mexican-American War (1846-48) added Texas, California, and the Southwest and before the Spanish-American War (1898) brought Puerto Rico, Guam, and the Philippines under U.S. control. Turner's declaration that the frontier had closed came in 1893, decades after the Louisiana Purchase."
+    },
+    {
+      "question": "What happened to Maori land ownership in New Zealand between the Treaty of Waitangi (1840) and the end of the Land Wars (1872)?",
+      "options": [
+        "Maori retained ownership of virtually all their ancestral land under continued British protection",
+        "The treaty was voided, and Maori were granted full political independence from Britain",
+        "Maori gained additional land through government purchases funded by British taxpayers",
+        "Maori lost about 95 percent of the land their ancestors had owned"
+      ],
+      "correctIndex": 3,
+      "explanation": "Despite the Treaty of Waitangi's promise to protect Maori land rights, settlers and the colonial government seized land through the Land Wars, and by the 1870s Maori held less than 5 percent of the land their ancestors had owned three decades earlier, meaning about 95 percent had been lost. Maori did not retain their land, did not gain independence from Britain, and did not gain additional land through government purchases."
     }
   ]
 }

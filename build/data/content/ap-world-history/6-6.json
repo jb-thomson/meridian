@@ -387,6 +387,39 @@
       ],
       "correctIndex": 0,
       "explanation": "Recruitment for indentured labor was often deceptive, and workers, once bound, could not leave or negotiate during the contract term, which is why historians classify it as semi-coerced. (B), (C), and (D) all contradict this."
+    },
+    {
+      "question": "About how many people left Europe for the Americas, Australia, and South Africa between 1820 and 1920?",
+      "options": [
+        "About 5 million",
+        "About 20 million",
+        "About 60 million",
+        "About 150 million"
+      ],
+      "correctIndex": 2,
+      "explanation": "Roughly 60 million people left Europe for the Americas, Australia, and South Africa between 1820 and 1920, migration on a scale unprecedented in human history. The other figures either drastically undercount or overstate the actual total."
+    },
+    {
+      "question": "How many convicted criminals did Britain transport to Australia as forced labor between 1788 and 1868?",
+      "options": [
+        "Fewer than 5,000",
+        "About 25,000",
+        "About 75,000",
+        "Over 160,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Britain transported over 160,000 convicts to Australia between 1788 and 1868, forced migration that served both as punishment and as a labor supply for colonial development. The smaller figures all understate the scale of convict transportation."
+    },
+    {
+      "question": "What happened to the Atlantic slave trade after Britain and the United States officially banned it in 1807 and 1808?",
+      "options": [
+        "Illegal slave trading continued, and enslavement within Africa and the Indian Ocean slave trade also persisted",
+        "The slave trade ended completely and immediately across the Atlantic and Indian Ocean regions",
+        "Britain and the United States began enslaving people themselves to replace the lost trade",
+        "Plantation owners switched entirely to free wage labor within a year of the bans taking effect"
+      ],
+      "correctIndex": 0,
+      "explanation": "Banning the Atlantic slave trade did not end it in practice: illegal slave trading continued, and enslavement within Africa along with the Indian Ocean slave trade persisted throughout the 19th century. The other options describe an immediate, total end to coerced labor that did not happen, and plantation owners turned to indentured servitude rather than free wages."
     }
   ],
   "images": [],

@@ -385,6 +385,28 @@
       ],
       "correctIndex": 3,
       "explanation": "The Indian National Congress belongs in the nonviolent resistance category alongside Gandhi, not among the examples of state violence intensifying conflict, which are Pinochet, Franco, Idi Amin, and the military-industrial complex."
+    },
+    {
+      "question": "What prompted Nelson Mandela to help found the armed wing of the African National Congress in 1961?",
+      "options": [
+        "A personal invitation from Soviet officials to organize a continent-wide communist resistance movement across southern Africa",
+        "A new law that legally banned Mandela from ever giving public speeches anywhere in South Africa",
+        "The Sharpeville Massacre, in which police killed 69 peaceful protesters, convinced him nonviolent methods alone were not working",
+        "A direct order from Mahatma Gandhi's family urging African activists to abandon nonviolence"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1960 Sharpeville Massacre, in which South African police killed 69 peaceful protesters, convinced Mandela that nonviolent resistance alone was not enough, leading him to help found the ANC's armed wing. There was no Soviet invitation, no speaking ban led to this specific decision, and no order from Gandhi's family was involved."
+    },
+    {
+      "question": "What led to the Shining Path's decline as a major insurgent threat in Peru?",
+      "options": [
+        "The Peruvian government granted amnesty to all Shining Path fighters in exchange for immediate disarmament",
+        "The United Nations deployed peacekeeping troops that defeated Shining Path forces in direct combat",
+        "Founder Abimael Guzmán was captured in 1992, after which the movement weakened significantly",
+        "Neighboring Ecuador invaded Peru specifically to destroy Shining Path's rural strongholds"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shining Path founder Abimael Guzmán was captured by Peruvian authorities in 1992, and the movement weakened substantially afterward, though it persisted at reduced capacity. There was no blanket amnesty deal, no UN peacekeeping force defeated it, and Ecuador did not invade Peru."
     }
   ]
 }

@@ -439,6 +439,39 @@
       ],
       "correctIndex": 0,
       "explanation": "Russian emancipation and American emancipation both happened under the influence of the same intellectual climate, the Enlightenment's ideas about human dignity extending to abolition and the end of serfdom. There was no personal correspondence between the two leaders, no identical military defeats, and no treaty requiring either action."
+    },
+    {
+      "question": "What role did Voltaire play in Enlightenment challenges to religious authority?",
+      "options": [
+        "He argued religious institutions should gain expanded authority over civil government",
+        "He personally led the French Revolution's assault on the Bastille in 1789",
+        "He mocked religious intolerance and superstition, fueling calls to separate church from state",
+        "He wrote the Encyclopedia with Diderot to replace religious knowledge with royal decrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "Voltaire was the Enlightenment's sharpest critic of religious intolerance and superstition, and his attacks helped fuel arguments for separating religious institutions from governmental authority. He did not argue for expanded church power, storm the Bastille himself, or write the Encyclopedia with Diderot to replace religion with royal decrees."
+    },
+    {
+      "question": "How did enslaved people in Saint-Domingue respond to the French Declaration of the Rights of Man?",
+      "options": [
+        "They asked the French National Assembly to formally exclude colonies from its terms",
+        "They rejected the Declaration entirely as a purely European document with no relevance",
+        "They petitioned Spain to annex the colony and apply the Declaration under Spanish law",
+        "They recognized its promise of universal rights and used it to justify revolt against slavery"
+      ],
+      "correctIndex": 3,
+      "explanation": "When the French National Assembly avoided applying the Declaration of the Rights of Man to enslaved people, enslaved people in Saint-Domingue read it anyway, recognized the contradiction, and launched the only successful slave revolt in history using France's own stated principles against it. They did not ask to be excluded, dismiss it as irrelevant, or petition Spain."
+    },
+    {
+      "question": "In the British Empire, what was the order of key abolitionist milestones?",
+      "options": [
+        "Slavery ended throughout the empire in 1807, then the slave trade was banned in 1833",
+        "The slave trade was abolished in 1807, and slavery itself ended in the empire in 1833",
+        "Both the slave trade and slavery ended simultaneously in a single 1807 law",
+        "Slavery ended in 1833 without any prior restriction on the slave trade itself"
+      ],
+      "correctIndex": 1,
+      "explanation": "The British slave trade was abolished in 1807, and slavery itself was not ended throughout the British Empire until 1833, a gap of over two decades between banning the trade and ending the institution. The two did not happen simultaneously, and slavery was not ended before the trade was banned."
     }
   ],
   "images": [],

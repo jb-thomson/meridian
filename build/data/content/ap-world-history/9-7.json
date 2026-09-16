@@ -366,6 +366,39 @@
       ],
       "correctIndex": 2,
       "explanation": "No UN-administered global tax on corporations ever existed. (A), (B), and (D) are all forms of resistance that actually occurred."
+    },
+    {
+      "question": "What triggered the 1994 Zapatista uprising in Mexico?",
+      "options": [
+        "Economic policies connected to NAFTA and IMF-style structural adjustment that many indigenous farmers said hurt their livelihoods",
+        "A sudden decision by the Mexican government to nationalize all agricultural land without any compensation to owners",
+        "A currency collapse in Mexico caused entirely by speculative attacks from European investment banks",
+        "A ban on Spanish-language education that indigenous communities in southern Mexico organized against"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 1994 Zapatista uprising partly responded to NAFTA and structural-adjustment-era economic policies that indigenous farmers in southern Mexico believed threatened their land and livelihoods. (B), (C), and (D) describe events that did not occur."
+    },
+    {
+      "question": "How did economist Joseph Stiglitz contribute to the critique of IMF policy?",
+      "options": [
+        "He personally led IMF negotiations with Thailand and Indonesia during the 1997 to 1998 financial crisis",
+        "As a former World Bank chief economist, he argued from inside the system that IMF policies were often flawed and worsened crises",
+        "He organized the Jubilee 2000 campaign that secured debt cancellation for the world's poorest nations",
+        "He founded Weibo as a Chinese alternative to IMF-backed financial data platforms"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stiglitz, a former World Bank chief economist, wrote Globalization and Its Discontents, arguing from inside the system that IMF policies were economically flawed and often worsened the crises they aimed to fix. (A), (C), and (D) describe roles he did not hold."
+    },
+    {
+      "question": "What happened when China's Great Firewall blocked Google in 2010?",
+      "options": [
+        "Chinese internet users lost search engine access completely until a replacement was built years later",
+        "The Chinese government negotiated a special exception allowing Google to operate under stricter censorship rules",
+        "Weibo absorbed Baidu's search functions and became China's combined dominant search and social platform",
+        "Baidu became the world's second most visited website, serving over a billion users on a separate Chinese internet"
+      ],
+      "correctIndex": 3,
+      "explanation": "After Google was blocked, Baidu became the world's second most visited website after Google itself, serving over a billion Chinese internet users on what amounted to a separate internet. (A), (B), and (C) describe outcomes that did not happen."
     }
   ],
   "images": [],

@@ -397,6 +397,28 @@
       ],
       "correctIndex": 2,
       "explanation": "Gorbachev resigned on December 25, 1991, and the USSR formally dissolved into 15 independent states, ending the bipolar Cold War order and creating a period of US dominance. He was not removed by a coup that day, the USSR did not merge into a larger federation, and elections were not simply suspended while the union stayed intact."
+    },
+    {
+      "question": "What changed the balance of the Soviet-Afghan War in 1986?",
+      "options": [
+        "The United Nations imposed a full trade embargo on the Soviet Union until it withdrew its forces from Afghanistan",
+        "US-supplied Stinger missiles began shooting down Soviet helicopter gunships, ending what had been the Soviets' main tactical advantage",
+        "Pakistan closed its border with Afghanistan, cutting off all supply routes to the mujahideen",
+        "China sent ground troops to fight directly alongside the mujahideen against Soviet forces"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stinger anti-aircraft missiles, supplied to the mujahideen starting in 1986, could shoot down the Soviet helicopter gunships that had been the Soviets' main tactical advantage, sharply raising Soviet casualties. There was no UN trade embargo, Pakistan did not close the border, and China never sent ground troops."
+    },
+    {
+      "question": "How did the United States use economic pressure, beyond its own military spending, to weaken the Soviet Union in the 1980s?",
+      "options": [
+        "By imposing a coordinated global trade embargo against every one of the Soviet Union's allies across Eastern Europe and Asia",
+        "By purchasing enormous quantities of Soviet natural gas at artificially inflated prices to rapidly drain Soviet currency reserves",
+        "By canceling every single US grain sale to the Soviet Union for the remainder of the decade without any exceptions",
+        "By coordinating with Saudi Arabia to keep oil prices low, cutting into the export revenue the Soviet economy depended on"
+      ],
+      "correctIndex": 3,
+      "explanation": "The US coordinated with Saudi Arabia to keep oil prices low, cutting into the export revenue the Soviet economy depended on heavily. There was no global embargo on Soviet allies, no inflated gas purchases, and grain sales were not entirely canceled."
     }
   ]
 }

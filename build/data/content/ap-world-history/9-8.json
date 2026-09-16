@@ -375,6 +375,28 @@
       ],
       "correctIndex": 3,
       "explanation": "UN peacekeepers could observe and monitor but not actively fight unless fired upon, a limited mandate, not the unrestricted offensive role this option describes. (A), (B), and (C) are all accurate facts."
+    },
+    {
+      "question": "What is notable about the location and design of the UN headquarters in New York City?",
+      "options": [
+        "It was built with funding solely from the US federal government on land seized through eminent domain",
+        "It sits on land purchased with a Rockefeller donation and occupies international territory, not formally part of the US",
+        "It was originally constructed in Philadelphia before being physically relocated to New York City in 1952",
+        "It was designed entirely by American architects to reflect the United States' role as the host nation"
+      ],
+      "correctIndex": 1,
+      "explanation": "John D. Rockefeller Jr. donated funds to purchase the East River site, and the completed headquarters sits on international territory, technically not part of the United States. (A) misstates the funding. (C) never happened. (D) is wrong, the design team was international, including architects from France and Brazil."
+    },
+    {
+      "question": "What doctrine emerged from the UN's failures to prevent the Rwandan genocide and the Srebrenica massacre?",
+      "options": [
+        "A rule permanently stripping the Security Council of its veto power in any case involving mass killing",
+        "A requirement that the General Assembly, not the Security Council, approve all future peacekeeping missions",
+        "The 'Responsibility to Protect' principle, holding that the international community should intervene against atrocities",
+        "An agreement dissolving UN peacekeeping forces entirely in favor of purely national military interventions"
+      ],
+      "correctIndex": 2,
+      "explanation": "These failures produced the 'Responsibility to Protect' (R2P) doctrine, the principle that the international community has a responsibility to intervene when a state commits atrocities against its own people. (A), (B), and (D) describe changes that never happened."
     }
   ],
   "images": [],

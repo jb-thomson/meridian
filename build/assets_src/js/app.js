@@ -340,6 +340,30 @@
       });
     });
 
+    /* ---- sahara goods interactive demo (2.4): toggle northward/southward
+       goods, restarting each good's motion animation on the active side ---- */
+    document.querySelectorAll(".sahara-demo").forEach(function (demo) {
+      var btns = demo.querySelectorAll("[data-direction-btn]");
+      var captionEl = demo.querySelector(".sahara-demo-caption");
+      var captions = {
+        north: "Gold, ivory, and kola nuts moved north: from the Bambuk and Boure goldfields, through Koumbi Saleh and Timbuktu, across the desert at Taghaza, to Sijilmasa.",
+        south: "Salt, copper, horses, and textiles moved south: salt from the Taghaza mines straight to Timbuktu, everything else all the way from Sijilmasa into West Africa."
+      };
+      btns.forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          var direction = btn.getAttribute("data-direction-btn");
+          demo.setAttribute("data-direction", direction);
+          btns.forEach(function (b) { b.classList.toggle("active", b === btn); });
+          if (captionEl) captionEl.textContent = captions[direction] || "";
+          demo.querySelectorAll(".sahara-good--" + direction + " animateMotion").forEach(function (motion) {
+            if (motion.beginElement) {
+              try { motion.beginElement(); } catch (e) {}
+            }
+          });
+        });
+      });
+    });
+
     /* ---- print buttons: "Reading Only" vs "Full Version" ---- */
     document.querySelectorAll("[data-action='print']").forEach(function (btn) {
       btn.addEventListener("click", function () {

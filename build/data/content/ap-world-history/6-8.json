@@ -166,7 +166,40 @@
         "Quinine funded colonial administration by generating tax revenue from its sale in conquered territories"
       ],
       "correctIndex": 1,
-      "explanation": "There is a direct chain: tropical medicine (quinine) reduced European mortality in tropical environments, which made interior conquest of Africa feasible for the first time, connecting a Unit 5 medical advance to a Unit 6 military consequence. (A), (C), and (D) all describe quinine’s role incorrectly."
+      "explanation": "There is a direct chain: tropical medicine (quinine) reduced European mortality in tropical environments, which made interior conquest of Africa feasible for the first time, connecting a medical advance rooted in industrialization to a military consequence of imperial expansion. (A), (C), and (D) all describe quinine’s role incorrectly."
+    },
+    {
+      "question": "About how many deaths resulted from Leopold II's rubber regime in the Congo Free State?",
+      "options": [
+        "About 10 million",
+        "About 500,000",
+        "Roughly 1 million",
+        "Fewer than 100,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Historians estimate roughly 10 million deaths from violence, famine, and disease under Leopold II's rubber regime in the Congo Free State, one of the deadliest single episodes of the imperial age. The other figures all understate the scale of the death toll by a wide margin."
+    },
+    {
+      "question": "About how much capital had Britain invested abroad by 1914, with roughly 40 percent of it in Latin America?",
+      "options": [
+        "About £400 million, similar to French colonial investment",
+        "About $600 million, roughly equal to United States investment abroad",
+        "About $60 million, mostly channeled through colonial banks",
+        "More than £4 billion"
+      ],
+      "correctIndex": 3,
+      "explanation": "By 1914, Britain had invested more than £4 billion abroad, the largest sum any nation had invested internationally up to that point, with about 40 percent of it concentrated in Latin America, especially Argentina. The other figures all fall far short of the actual scale of British overseas investment."
+    },
+    {
+      "question": "Which future independence leader read John Stuart Mill while studying at Cambridge?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Ho Chi Minh, who studied in Paris rather than Britain",
+        "Kwame Nkrumah, who studied in the United States rather than Britain",
+        "Mohandas Gandhi, who trained as a lawyer in London rather than at Cambridge"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jawaharlal Nehru read John Stuart Mill while studying at Cambridge, an early exposure to European political philosophy that later shaped his role as India's first prime minister and independence leader. Ho Chi Minh studied in Paris, Kwame Nkrumah studied at Lincoln University in Pennsylvania, and although Gandhi trained as a lawyer in London, neither of them is the figure specifically linked to reading Mill at Cambridge."
     }
   ],
   "blocks": [

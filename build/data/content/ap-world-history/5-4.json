@@ -399,6 +399,39 @@
       ],
       "correctIndex": 2,
       "explanation": "The opposite of the third option is true: non-industrialized regions like India were opened to British goods under free-trade arrangements, not closed off from them. Supplying raw materials, funding growing military advantages, and enabling imperial expansion are all direct consequences of the Great Divergence."
+    },
+    {
+      "question": "Why did India's traditional iron-working industry decline in the 19th century?",
+      "options": [
+        "Indian iron workers switched voluntarily to more profitable textile production",
+        "A shortage of iron ore deposits forced most producers out of business entirely",
+        "The colonial government banned all iron production within India outright",
+        "British iron, made with coal-fired furnaces, undercut India's traditional charcoal methods on price"
+      ],
+      "correctIndex": 3,
+      "explanation": "British iron, produced using coal-fired blast furnaces and increasingly mechanized processes, was far cheaper than Indian iron made with traditional charcoal methods, and as this cheap British iron flooded Indian markets under colonial free-trade arrangements, local production contracted. Indian iron workers did not simply switch to textiles, there was no ore shortage forcing closures, and the colonial government did not outright ban iron production."
+    },
+    {
+      "question": "How did Belgium gain access to British industrial machinery and expertise despite British attempts to prevent this?",
+      "options": [
+        "A British mechanic named William Cockerill illegally moved to Belgium and built a factory there",
+        "The Belgian government purchased official manufacturing licenses directly from the British crown",
+        "French spies stole British machine designs and smuggled them across the border into Belgium",
+        "Britain voluntarily lifted all restrictions to build a trading alliance with Belgium in the 1790s"
+      ],
+      "correctIndex": 0,
+      "explanation": "A British mechanic named William Cockerill illegally emigrated to Belgium in the 1790s despite British bans on skilled workers leaving, and set up a wool-spinning machinery factory that helped launch Belgian industrialization. Belgium did not purchase official licenses from Britain, French spies are not credited with this, and Britain did not voluntarily lift restrictions to build an alliance at this time."
+    },
+    {
+      "question": "How did India's manufacturing output in 1750 compare to that of Western Europe as a whole?",
+      "options": [
+        "India produced only roughly half as much manufactured output as Western Europe's combined economies",
+        "India's share of global manufacturing was larger than the combined output of Western Europe",
+        "India and Western Europe produced approximately equal shares of global manufacturing",
+        "Western Europe already manufactured more goods than all of Asia by 1750"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1750, India's share of global manufacturing output was larger than the entire combined output of Western Europe, reflecting Asia's economic dominance before industrialization reversed the balance. India was not producing merely half of Europe's output or roughly equal to it, and it was Britain alone, not all of Western Europe, that eventually surpassed all of Asia's output, and only by 1900, not 1750."
     }
   ],
   "images": [],

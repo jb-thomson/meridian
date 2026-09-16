@@ -172,6 +172,39 @@
       ],
       "correctIndex": 0,
       "explanation": "Hitler's persecution of Jews drove scientists like Einstein and Szilard out of Europe, and their knowledge helped produce the bomb that ended the war against Japan, a bitter irony. The other options are wrong; the bomb was used against Japan, which hadn't surrendered, not Germany, which already had."
+    },
+    {
+      "question": "About how many trucks did the Soviet Union receive from the United States through Lend-Lease, and what was their effect?",
+      "options": [
+        "About 40,000 trucks, which had little impact since Soviet railroads carried nearly all supplies instead",
+        "About 4,000 trucks, delivered only in the final weeks of the war after Berlin had already fallen",
+        "About 400,000 trucks, which Soviet commanders said were essential to pursuing the retreating German army after Stalingrad",
+        "About 40 million trucks, far more than Soviet wartime industry could have found drivers or fuel to use"
+      ],
+      "correctIndex": 2,
+      "explanation": "The USSR received about 400,000 trucks through Lend-Lease, which Soviet commanders credited as essential to pursuing the retreating German army after Stalingrad since American trucks moved soldiers faster than they could march. (A), (B), and (D) all misstate the scale or impact of this aid."
+    },
+    {
+      "question": "How did the death toll from the single-night firebombing of Tokyo in March 1945 compare to the atomic bombings that followed?",
+      "options": [
+        "It killed more people in one night, roughly 80,000 to 100,000, than either the Hiroshima or Nagasaki bombing killed immediately",
+        "It killed far fewer people than either atomic bombing, since conventional bombs could not match nuclear destruction",
+        "It killed roughly the same number of people as Hiroshima did, but far fewer than Nagasaki",
+        "It killed almost no civilians because Tokyo's population had already been evacuated by that point in the war"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Tokyo firebombing of March 9 to 10, 1945 killed an estimated 80,000 to 100,000 people in a single night, more than either atomic bomb killed immediately at Hiroshima or Nagasaki. (B), (C), and (D) all understate or misrepresent the firebombing's death toll."
+    },
+    {
+      "question": "Which pairing of an imperial power with its colonial military mobilization during WWII is accurate?",
+      "options": [
+        "Germany conscripted soldiers and laborers from its African colonies to reinforce the Eastern Front",
+        "The United States relied on conscription from the Philippines to fill the majority of its wartime army",
+        "The Soviet Union recruited colonial subjects from Central Asia exclusively for domestic factory work",
+        "Japan conscripted Korean and Taiwanese subjects, while Britain recruited from India and France from West Africa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Japan conscripted Korean and Taiwanese subjects, Britain again recruited from India and other colonies, and France recruited from West Africa, all examples of colonial mobilization for the war. (A) is wrong because Germany had already lost its African colonies after WWI. (B) and (C) describe recruitment patterns that did not happen this way."
     }
   ],
   "blocks": [

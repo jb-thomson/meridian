@@ -436,6 +436,39 @@
       ],
       "correctIndex": 3,
       "explanation": "The compass, lateen sail, and astrolabe all trace directly to non-European civilizations, but the caravel was a European synthesis: a ship design built in Portugal that combined the borrowed lateen sail with European hull construction. The caravel is the one option that did not originate with a non-European civilization."
+    },
+    {
+      "question": "Why did European merchants have strong economic motivation to find a direct sea route to Asia?",
+      "options": [
+        "European monarchs believed sailing routes were spiritually superior to overland caravan routes and wanted to prove this through years of costly exploration",
+        "The Ottoman Empire had formally banned all European merchants from its entire territory, forcing every trader to search for a completely different path east",
+        "Middlemen along the overland and Red Sea routes took most of the profit, so pepper cost about five times more in Alexandria than in Calicut, India",
+        "European kings required merchants to travel only by sea for religious reasons connected to the ongoing Crusades against Muslim powers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Arab, Ottoman, and Venetian middlemen who controlled the overland and Red Sea routes captured most of the markup, so a sack of pepper bought in Alexandria cost about five times what the same pepper sold for in Calicut, India, giving European merchants a huge incentive to bypass those middlemen by sailing directly to Asia. There is no evidence of a spiritual motive, a total Ottoman trade ban, or a religious sailing requirement tied to the Crusades."
+    },
+    {
+      "question": "What did Portuguese navigators discover they needed to do to sail home from West Africa?",
+      "options": [
+        "Wait in port for several months at a time until the trade winds eventually reversed direction entirely on their own",
+        "Sail due east back along the coast in the exact reverse of their outbound route",
+        "Abandon their ships entirely and travel home overland across the Sahara instead",
+        "Sail far out into the Atlantic before turning north to catch the westerlies, a route called the volta do mar"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reversing their outbound course straight into the prevailing northeast trade winds did not work, so Portuguese navigators learned to sail far out into the Atlantic before turning north to catch the favorable westerlies, a maneuver called the volta do mar. They did not simply wait for the winds to reverse, retrace their route, or abandon their ships for an overland trip."
+    },
+    {
+      "question": "Whose calculation of Earth's circumference around 240 BCE became part of the classical astronomical foundation that Islamic scholars later built on?",
+      "options": [
+        "Ptolemy",
+        "Eratosthenes",
+        "Prince Henry the Navigator",
+        "Vasco da Gama"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Greek scholar Eratosthenes calculated Earth's circumference around 240 BCE, part of the Classical astronomical knowledge that Islamic scholars of the 9th to 13th centuries built on and that European navigators eventually accessed through Arabic translations. Ptolemy is also named as a Greek astronomer in this tradition, but the circumference calculation specifically belongs to Eratosthenes, and Prince Henry the Navigator and Vasco da Gama were Portuguese figures from the exploration era itself, not Classical astronomers."
     }
   ],
   "images": [],

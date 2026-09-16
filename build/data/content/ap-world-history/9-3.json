@@ -352,6 +352,39 @@
       ],
       "correctIndex": 0,
       "explanation": "Population growth, aquifer depletion, and glacier retreat were real causes of freshwater scarcity, but no global treaty on freshwater ownership existed. (B), (C), and (D) are all causes that actually contributed."
+    },
+    {
+      "question": "Between 1970 and 2020, what happened to the Amazon rainforest, and what mainly drove it?",
+      "options": [
+        "It grew by nearly 20 percent as reforestation projects funded by international donors restored cleared land",
+        "It lost nearly 20 percent of its total area, cleared mainly for cattle ranching and soybean farming",
+        "It lost about half its area to wildfires caused entirely by natural lightning strikes with no human role",
+        "It stayed roughly the same size overall while its species diversity collapsed due to air pollution alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Amazon lost nearly 20 percent of its total area between 1970 and 2020, cleared primarily for cattle ranching and soybean cultivation. (A) reverses the trend. (C) and (D) invent causes and outcomes that did not occur."
+    },
+    {
+      "question": "Swedish chemist Svante Arrhenius published a warning about the greenhouse effect in 1896. What did he get right, and what did he get wrong?",
+      "options": [
+        "He correctly predicted temperatures would fall as carbon dioxide built up in the atmosphere, but wrongly assumed this cooling would happen within a few decades",
+        "He wrongly predicted that carbon dioxide levels would never rise enough to affect the climate, badly underestimating the pace of future industrial growth",
+        "He correctly calculated how much warming a doubling of CO2 would cause, but wrongly assumed it would take thousands of years",
+        "He correctly identified methane, rather than carbon dioxide, as the primary gas responsible for trapping heat in the atmosphere and driving warming"
+      ],
+      "correctIndex": 2,
+      "explanation": "Arrhenius calculated that doubling atmospheric CO2 would raise global temperatures by 5 to 6 degrees Celsius, close to modern estimates, but he thought this would take thousands of years rather than under 200. (A), (B), and (D) misstate his prediction and its direction."
+    },
+    {
+      "question": "How did the Paris Agreement (2015) differ from the Kyoto Protocol (1997) in its approach to cutting emissions?",
+      "options": [
+        "It set binding emission cuts enforced through international courts and tribunals, unlike Kyoto's voluntary approach to national targets",
+        "It excluded the United States entirely from participation, while Kyoto included full US ratification and enforcement of its rules",
+        "It focused only on deforestation and land use rather than addressing fossil fuel emissions from industry at all",
+        "It achieved broader participation but relied on voluntary, nationally determined targets rather than binding rules"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Paris Agreement achieved broader participation than Kyoto but relied on voluntary, nationally determined targets instead of binding obligations. (A) describes the opposite of its actual approach. (B) and (C) are false, the US joined Paris and it addressed emissions broadly, not just deforestation."
     }
   ],
   "images": [],

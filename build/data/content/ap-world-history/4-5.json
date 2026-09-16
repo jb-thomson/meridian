@@ -482,6 +482,28 @@
       ],
       "correctIndex": 3,
       "explanation": "The College Board describes African, American, and European peoples as all contributing to cultural synthesis, while noting this contribution was profoundly coerced for enslaved Africans and indigenous Americans. It was not just one group that contributed, and mixing did happen, cultures did not stay separate."
+    },
+    {
+      "question": "How did the Dutch East India Company (VOC) compare to other businesses at its peak in the 1630s to 1640s?",
+      "options": [
+        "Its market value, adjusted to modern dollars, made it worth roughly four times the current value of Apple",
+        "It employed fewer than 500 people worldwide and owned no trading ships or warships of its own",
+        "It was smaller in total value than most individual merchant houses operating in Amsterdam at the time",
+        "It never maintained any soldiers or warships of its own, relying entirely on Dutch state military protection"
+      ],
+      "correctIndex": 0,
+      "explanation": "At its peak, the VOC's market value adjusted to modern dollars is estimated at roughly four times the current value of Apple, and it employed 50,000 civilian staff along with 10,000 private soldiers and dozens of its own ships. It was far larger than any individual Amsterdam merchant house and maintained substantial military forces of its own rather than depending only on the Dutch state."
+    },
+    {
+      "question": "What is Candomblé, and how did it develop?",
+      "options": [
+        "A Spanish colonial law requiring all indigenous Mexicans to attend Catholic Mass every week",
+        "A Brazilian tradition blending Yoruba, Fon, and Bantu religious practices with Catholic elements",
+        "A form of Sufi Islam practiced by Swahili merchants trading along the East African coast for centuries",
+        "A joint-stock company that managed Portuguese trade between colonial Brazil and West Africa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Candomblé developed in Brazil by blending Yoruba, Fon, and Bantu religious practices with Catholic elements, preserving African spiritual traditions under Catholic external forms. It was not a Spanish colonial law, a form of Sufi Islam, or a trading company."
     }
   ],
   "images": [],

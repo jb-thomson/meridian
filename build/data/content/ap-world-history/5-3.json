@@ -364,7 +364,7 @@
         "An early version of the factory system that used steam engines instead of hand tools",
         "A system where merchants delivered raw materials to rural workers who produced goods at home",
         "A network of coastal workshops that used only water power, never human labor",
-        "A government program that trained rural workers to move into cities for factory jobs"
+        "A government program that trained and relocated rural workers to move into cities for new factory jobs"
       ],
       "correctIndex": 1,
       "explanation": "In cottage industry, a merchant delivered raw wool or cotton to rural workers, who spun or wove it at home, and the merchant then collected and sold the finished goods. This predated and was replaced by the factory system, not an early version of it. There was no government relocation program, and cottage industry relied on hand labor, not water power."
@@ -445,6 +445,28 @@
       ],
       "correctIndex": 1,
       "explanation": "The seven factors are waterways, coal, iron, timber, agricultural productivity, access to foreign resources, and capital accumulation, plus the institutional factors of legal protection of property and patents. Military conquest is not one of these factors, while legal protection, capital accumulation, and waterways are each explicitly named."
+    },
+    {
+      "question": "Why did timber remain an important resource even as industrialization advanced?",
+      "options": [
+        "It replaced coal as the main fuel source for steam engines by 1800",
+        "It was primarily exported to France in exchange for iron ore shipments",
+        "It was still needed for construction, ships, and early machinery",
+        "It was the raw material spun into thread for Britain's growing cotton cloth industry"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wood remained necessary for construction, shipbuilding, and early machinery even as coal became the dominant fuel source, so timber stayed on the list of resources industrialization depended on. Timber did not replace coal as fuel, it was not exported to France for iron ore, and cotton, not timber, was the raw material spun into thread."
+    },
+    {
+      "question": "Along with peasants displaced by enclosure, what other group filled Britain's rapidly growing industrial cities?",
+      "options": [
+        "Immigrants from Ireland fleeing poverty and famine",
+        "Skilled artisans recruited directly from France and Germany",
+        "Former plantation workers who had been freed in the Caribbean",
+        "Soldiers who had recently been discharged from the Royal Navy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Along with rural migrants displaced by enclosure, immigrants from Ireland fleeing poverty and famine filled the crowded housing of Britain's growing industrial cities. Skilled foreign artisans, freed Caribbean plantation workers, and discharged navy soldiers are not the groups described as filling these cities."
     }
   ],
   "images": [],

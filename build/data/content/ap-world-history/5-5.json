@@ -443,6 +443,28 @@
       ],
       "correctIndex": 3,
       "explanation": "Railroads, steamships, and the telegraph are the three technologies that did the most to shrink distance and connect the world in the 19th century. The internal combustion engine is a separate technology that enabled automobiles, powered by oil rather than coal, but it is not part of this specific trio."
+    },
+    {
+      "question": "Why do we still measure engine power in \"horsepower\" today?",
+      "options": [
+        "Early steam engines could only legally be sold to customers who already owned working horses",
+        "James Watt calculated a horse's work rate to help market his steam engines to customers",
+        "The unit was created by government regulators to standardize railroad locomotive size",
+        "Henry Bessemer introduced horsepower measurements when he patented the steel process"
+      ],
+      "correctIndex": 1,
+      "explanation": "James Watt calculated how much work a horse could do in a minute and used it as a marketing unit to convince customers that his steam engines could replace multiple horses, a unit that has stuck for 250 years. Horsepower was not a purchase requirement, a government railroad regulation, or something introduced by Bessemer."
+    },
+    {
+      "question": "What did the Crystal Palace, built for London's 1851 Great Exhibition, demonstrate?",
+      "options": [
+        "That Britain had abandoned iron and steel construction in favor of traditional stone building",
+        "That the world's first international industrial fair took place in Paris rather than London",
+        "The power of industrial manufacturing through its large-scale iron-and-glass structure",
+        "That steam power had already been fully replaced by electricity in British construction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Joseph Paxton's iron-and-glass Crystal Palace, built for the Great Exhibition, the world's first international industrial fair, was itself a showcase of what industrial manufacturing could achieve at scale. The building used cutting-edge iron and glass construction rather than abandoning it for stone, the exhibition was held in London, not Paris, and electricity had not yet replaced steam power in construction by 1851, decades before Edison's light bulb."
     }
   ],
   "images": [],

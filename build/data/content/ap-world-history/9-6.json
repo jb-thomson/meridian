@@ -364,6 +364,39 @@
       ],
       "correctIndex": 0,
       "explanation": "This idea does not hold up: cultural globalization did not erase local diversity but created hybrid forms as local cultures adapted, mixed with, and resisted global influences. (B), (C), and (D) are all accurate points."
+    },
+    {
+      "question": "How did Coca-Cola's distribution during World War II contribute to its emergence as a global brand?",
+      "options": [
+        "US troops drank it during the war, and bottling plants were built in occupied countries at Eisenhower's order",
+        "The Soviet Union distributed it to soldiers on the Eastern Front to counter German wartime propaganda",
+        "It was banned from military bases entirely and only spread commercially after the war ended in 1945",
+        "Coca-Cola's formula was declassified by the US government and given freely to allied nations' factories"
+      ],
+      "correctIndex": 0,
+      "explanation": "US troops drank Coca-Cola during WWII, and Eisenhower ordered bottling plants built in every country American forces occupied, planting the seeds of its global reach. (B), (C), and (D) describe events that never happened."
+    },
+    {
+      "question": "How did post-colonial writers like Chinua Achebe and Gabriel García Márquez respond to the European literary tradition?",
+      "options": [
+        "They rejected written literature altogether in favor of purely oral storytelling traditions from their regions",
+        "They gave voice to experiences outside the European tradition, challenging its claim to cultural universality",
+        "They imitated European literary forms as closely as possible to gain acceptance from Western publishers",
+        "They focused their writing exclusively on documenting European colonial administration in their home countries"
+      ],
+      "correctIndex": 1,
+      "explanation": "Post-colonial writers like Achebe and García Márquez gave voice to experiences outside the European literary tradition, challenging the cultural assumptions that had framed colonialism as civilization. (A), (C), and (D) misstate what these writers actually did."
+    },
+    {
+      "question": "What cultural influences combined to produce K-pop when it emerged in the late 1990s?",
+      "options": [
+        "Only traditional Korean court music, freshly adapted for young audiences using new electronic instruments",
+        "Reggae rhythms imported directly from Jamaica, combined with traditional Korean folk melodies",
+        "Bollywood film scores blended with American country music to create a new Korean subgenre",
+        "American hip-hop, Japanese pop music, and Korean musical traditions combined into a new global genre"
+      ],
+      "correctIndex": 3,
+      "explanation": "K-pop emerged in the late 1990s by drawing on American hip-hop, Japanese pop, and Korean musical traditions, then achieved genuine global popularity. (A), (B), and (C) describe combinations that did not produce K-pop."
     }
   ],
   "images": [],

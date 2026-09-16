@@ -183,6 +183,28 @@
       ],
       "correctIndex": 2,
       "explanation": "Despite this legal architecture, mass atrocities continued after 1948, including Rwanda, Srebrenica, Darfur, and Myanmar, so this option is false. The other three options are all accurate."
+    },
+    {
+      "question": "What did Hitler reportedly say while planning the invasion of Poland in 1939, and what does the quote illustrate about accountability for genocide?",
+      "options": [
+        "\"No one will ever discover what happens in the East\", showing his confidence that journalists could document nothing at all",
+        "\"Poland must be treated exactly as Austria was treated in every legal respect\", showing his belief in equal status for conquered nations",
+        "\"Who today remembers the annihilation of the Armenians\", showing how impunity for one genocide can embolden a later perpetrator",
+        "\"The Armenians were rightfully punished for treason against the empire\", showing his belief that ethnic cleansing needs legal cover"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hitler reportedly invoked the world's forgetting of the Armenian Genocide as reassurance that his own planned atrocities in Poland would go unpunished, showing how impunity for one genocide can embolden a later perpetrator. (A), (B), and (D) are not the quote or its meaning."
+    },
+    {
+      "question": "What happened at Kigali's Hotel des Mille Collines during the 1994 genocide, and what followed in the region afterward?",
+      "options": [
+        "It was destroyed by Interahamwe militia in the genocide's first week, ending Tutsi refuge in Kigali",
+        "It sheltered about 1,268 Tutsi refugees, and refugee camps in neighboring countries later became bases for militia attacks in Congo",
+        "It was used as UN peacekeeping headquarters, coordinating the force that eventually stopped the killings",
+        "It served as the site of the Rwandan Patriotic Front's final surrender negotiations that ended the genocide"
+      ],
+      "correctIndex": 1,
+      "explanation": "The hotel sheltered about 1,268 Tutsi refugees, and neighboring countries later took in hundreds of thousands of Hutu refugees whose camps became bases for former Interahamwe militia, destabilizing Central Africa for decades. (A), (C), and (D) describe events that did not happen there."
     }
   ],
   "blocks": [

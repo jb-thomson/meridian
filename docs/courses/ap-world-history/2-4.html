@@ -717,15 +717,59 @@
     
   
     
-  <figure class="reading-figure reveal">
-    <img src="../../assets/images/ap-world-history/2-4-4.jpg" alt="Real map of the western trans-Saharan trade network showing gold flowing north from the Bambuk and Boure goldfields through Timbuktu and Taghaza to Sijilmasa, and salt flowing south from the Taghaza mines">
-    <figcaption>
-      
-      Gold traveled the whole way north, from the Bambuk and Bouré goldfields through Mali's own cities to Sijilmasa in Morocco. Salt only traveled the short leg south, from the Taghaza mines to those same cities, since that is where it was mined.
-      <span class="img-attribution">Base map: "Trans-Saharan routes early.svg," Aa77zz, Wikimedia Commons, CC0, based on Mauny (1961). Gold, salt, and camel icons AI-generated (Higgsfield), commercially licensed.</span>
-      
-    </figcaption>
-  </figure>
+  <div class="sahara-demo reveal" data-direction="north">
+    <div class="sahara-demo-map">
+      <img class="sahara-demo-img" src="../../assets/images/ap-world-history/2-4-3.jpg" alt="Map of trans-Saharan trade routes with Sijilmasa, Taghaza, Timbuktu, Koumbi Saleh, and the Bambuk and Boure goldfields labeled">
+      <svg class="sahara-demo-svg" viewBox="0 0 1140 1310" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+        <defs>
+          <marker id="saharaArrowNorth" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M0,0 L10,5 L0,10 z" fill="#8a6d1f"></path>
+          </marker>
+          <marker id="saharaArrowSouth" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M0,0 L10,5 L0,10 z" fill="#2c6b8a"></path>
+          </marker>
+        </defs>
+        <path class="sahara-path sahara-path--north" d="M300,950 L383,834 L567,795 L492,542 L528,250" fill="none" stroke="#8a6d1f" stroke-width="5" stroke-dasharray="2 10" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#saharaArrowNorth)"></path>
+        <path class="sahara-path sahara-path--south" d="M528,250 L492,542 L567,795 L383,834 L300,950" fill="none" stroke="#2c6b8a" stroke-width="5" stroke-dasharray="2 10" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#saharaArrowSouth)"></path>
+
+        <g class="sahara-good sahara-good--north" data-good="gold">
+          <image href="../../assets/images/ap-world-history/goods/good_gold.png" x="-22" y="-15" width="44" height="30"></image>
+          <animateMotion id="saharaGold" dur="9s" begin="0s" repeatCount="indefinite" path="M300,950 L383,834 L567,795 L492,542 L528,250"></animateMotion>
+        </g>
+        <g class="sahara-good sahara-good--north" data-good="ivory">
+          <image href="../../assets/images/ap-world-history/goods/good_ivory.png" x="-17" y="-17" width="34" height="34"></image>
+          <animateMotion id="saharaIvory" dur="9s" begin="3s" repeatCount="indefinite" path="M300,950 L383,834 L567,795 L492,542 L528,250"></animateMotion>
+        </g>
+        <g class="sahara-good sahara-good--north" data-good="kola">
+          <image href="../../assets/images/ap-world-history/goods/good_kola.png" x="-18" y="-14" width="36" height="29"></image>
+          <animateMotion id="saharaKola" dur="9s" begin="6s" repeatCount="indefinite" path="M300,950 L383,834 L567,795 L492,542 L528,250"></animateMotion>
+        </g>
+
+        <g class="sahara-good sahara-good--south" data-good="copper">
+          <image href="../../assets/images/ap-world-history/goods/good_copper.png" x="-22" y="-15" width="44" height="30"></image>
+          <animateMotion id="saharaCopper" dur="9s" begin="0s" repeatCount="indefinite" path="M528,250 L492,542 L567,795 L383,834 L300,950"></animateMotion>
+        </g>
+        <g class="sahara-good sahara-good--south" data-good="horse">
+          <image href="../../assets/images/ap-world-history/goods/good_horse.png" x="-20" y="-19" width="40" height="38"></image>
+          <animateMotion id="saharaHorse" dur="9s" begin="3s" repeatCount="indefinite" path="M528,250 L492,542 L567,795 L383,834 L300,950"></animateMotion>
+        </g>
+        <g class="sahara-good sahara-good--south" data-good="textile">
+          <image href="../../assets/images/ap-world-history/goods/good_textile.png" x="-20" y="-17" width="40" height="33"></image>
+          <animateMotion id="saharaTextile" dur="9s" begin="6s" repeatCount="indefinite" path="M528,250 L492,542 L567,795 L383,834 L300,950"></animateMotion>
+        </g>
+        <g class="sahara-good sahara-good--south" data-good="salt">
+          <image href="../../assets/images/ap-world-history/goods/good_salt.png" x="-17" y="-14" width="34" height="28"></image>
+          <animateMotion id="saharaSalt" dur="4.5s" begin="0s" repeatCount="indefinite" path="M492,542 L567,795"></animateMotion>
+        </g>
+      </svg>
+    </div>
+    <div class="sahara-demo-controls">
+      <button type="button" class="sahara-btn sahara-btn--north active" data-direction-btn="north">⬆️ Northward, out of West Africa</button>
+      <button type="button" class="sahara-btn sahara-btn--south" data-direction-btn="south">⬇️ Southward, into West Africa</button>
+    </div>
+    <p class="sahara-demo-caption">Gold, ivory, and kola nuts moved north: from the Bambuk and Boure goldfields, through Koumbi Saleh and Timbuktu, across the desert at Taghaza, to Sijilmasa.</p>
+    <p class="sahara-demo-note">🐫 Camels carried all of this. They were the transport, not something being traded.</p>
+  </div>
     
   
     
@@ -976,6 +1020,42 @@
         </ul>
         <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
         <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Timbuktu sat where trans-Saharan caravan routes met the Niger River, and the city grew rich on tolls and taxes from that trade, wealth that funded the Sankore Mosque and University. It was not funded by gifts from Mecca, the Mongol Empire, or Indian Ocean trade, which is a separate network far from Timbuktu.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="0">
+      <button class="mcq-header" type="button">Question 8<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How did most enslaved people transported across the Sahara end up being used, unlike those later taken in the transatlantic slave trade?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">In domestic service, concubinage, or military roles rather than plantation labor</li><li class="mcq-opt">Exclusively as scribes and translators employed within royal courts</li><li class="mcq-opt">Primarily as plantation laborers growing cash crops for export</li><li class="mcq-opt">As soldiers who were guaranteed full citizenship and freedom after service</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Most people enslaved through trans-Saharan trade were sold into domestic service, concubinage, or military roles rather than plantation labor, unlike the transatlantic slave trade that would come later. Scribal work and guaranteed freedom after military service were not the typical outcomes, and plantation labor describes the later transatlantic system, not this one.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="2">
+      <button class="mcq-header" type="button">Question 9<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">How did trans-Saharan caravan routes differ from the Silk Roads' caravanserai system?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Trans-Saharan routes had no rest stops of any kind, forcing every caravan to carry all its own supplies</li><li class="mcq-opt">Trans-Saharan routes used built rest stops spaced every 100 miles, just like the Silk Roads</li><li class="mcq-opt">Trans-Saharan routes followed natural oases spaced unevenly, not built rest stops on a regular schedule</li><li class="mcq-opt">Trans-Saharan routes relied mainly on riverboats rather than land caravans for the bulk of transport</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Unlike the Silk Roads' built caravanserai spaced roughly every 100 miles, trans-Saharan routes followed natural oases wherever underground water happened to reach the surface, however far apart that was. Caravans did rely on rest stops, they just weren't built or evenly spaced, and land caravans, not riverboats, carried the trade.</div></div></div>
+      </div></div></div>
+    </div>
+    
+    <div class="mcq" data-correct="3">
+      <button class="mcq-header" type="button">Question 10<span class="plus"><svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span></button>
+      <div class="mcq-body-wrap"><div class="mcq-body-inner"><div class="mcq-body">
+        <div class="mcq-q">What do camels store in their humps that lets them travel up to 10 days without drinking water?</div>
+        <ul class="mcq-opts">
+          <li class="mcq-opt">Water reserves that slowly release as the journey continues</li><li class="mcq-opt">Salt deposits absorbed from the desert air during the journey</li><li class="mcq-opt">Extra muscle tissue that increases how much cargo they can carry</li><li class="mcq-opt">Fat that the camel's body converts into energy and moisture</li>
+        </ul>
+        <button class="btn btn-sm mcq-reveal-btn" type="button">Show Answer</button>
+        <div class="mcq-explain-wrap"><div class="mcq-explain-inner"><div class="mcq-explain">Camels store fat, not water, in their humps, and their bodies convert that fat into both energy and moisture as needed. Their humps hold no water reserve, no absorbed salt, and no extra muscle, fat storage is what lets them go so long between drinks.</div></div></div>
       </div></div></div>
     </div>
     

@@ -175,12 +175,7 @@
       ]
     },
     {
-      "type": "image",
-      "imageType": "public_domain_historical",
-      "src": "assets/images/ap-world-history/2-4-4.jpg",
-      "alt": "Real map of the western trans-Saharan trade network showing gold flowing north from the Bambuk and Boure goldfields through Timbuktu and Taghaza to Sijilmasa, and salt flowing south from the Taghaza mines",
-      "caption": "Gold traveled the whole way north, from the Bambuk and Bouré goldfields through Mali's own cities to Sijilmasa in Morocco. Salt only traveled the short leg south, from the Taghaza mines to those same cities, since that is where it was mined.",
-      "attribution": "Base map: \"Trans-Saharan routes early.svg,\" Aa77zz, Wikimedia Commons, CC0, based on Mauny (1961). Gold, salt, and camel icons AI-generated (Higgsfield), commercially licensed."
+      "type": "saharaGoodsDemo"
     },
     {
       "type": "paragraph",
@@ -494,6 +489,39 @@
       ],
       "correctIndex": 0,
       "explanation": "Timbuktu sat where trans-Saharan caravan routes met the Niger River, and the city grew rich on tolls and taxes from that trade, wealth that funded the Sankore Mosque and University. It was not funded by gifts from Mecca, the Mongol Empire, or Indian Ocean trade, which is a separate network far from Timbuktu."
+    },
+    {
+      "question": "How did most enslaved people transported across the Sahara end up being used, unlike those later taken in the transatlantic slave trade?",
+      "options": [
+        "In domestic service, concubinage, or military roles rather than plantation labor",
+        "Exclusively as scribes and translators employed within royal courts",
+        "Primarily as plantation laborers growing cash crops for export",
+        "As soldiers who were guaranteed full citizenship and freedom after service"
+      ],
+      "correctIndex": 0,
+      "explanation": "Most people enslaved through trans-Saharan trade were sold into domestic service, concubinage, or military roles rather than plantation labor, unlike the transatlantic slave trade that would come later. Scribal work and guaranteed freedom after military service were not the typical outcomes, and plantation labor describes the later transatlantic system, not this one."
+    },
+    {
+      "question": "How did trans-Saharan caravan routes differ from the Silk Roads' caravanserai system?",
+      "options": [
+        "Trans-Saharan routes had no rest stops of any kind, forcing every caravan to carry all its own supplies",
+        "Trans-Saharan routes used built rest stops spaced every 100 miles, just like the Silk Roads",
+        "Trans-Saharan routes followed natural oases spaced unevenly, not built rest stops on a regular schedule",
+        "Trans-Saharan routes relied mainly on riverboats rather than land caravans for the bulk of transport"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike the Silk Roads' built caravanserai spaced roughly every 100 miles, trans-Saharan routes followed natural oases wherever underground water happened to reach the surface, however far apart that was. Caravans did rely on rest stops, they just weren't built or evenly spaced, and land caravans, not riverboats, carried the trade."
+    },
+    {
+      "question": "What do camels store in their humps that lets them travel up to 10 days without drinking water?",
+      "options": [
+        "Water reserves that slowly release as the journey continues",
+        "Salt deposits absorbed from the desert air during the journey",
+        "Extra muscle tissue that increases how much cargo they can carry",
+        "Fat that the camel's body converts into energy and moisture"
+      ],
+      "correctIndex": 3,
+      "explanation": "Camels store fat, not water, in their humps, and their bodies convert that fat into both energy and moisture as needed. Their humps hold no water reserve, no absorbed salt, and no extra muscle, fat storage is what lets them go so long between drinks."
     }
   ],
   "images": [],

@@ -496,6 +496,28 @@
       ],
       "correctIndex": 3,
       "explanation": "The Council of Trent explicitly rejected Lutheran positions on justification while also addressing genuine ambiguities, meaning the Church did not accept sola fide. The other three statements are all historically accurate."
+    },
+    {
+      "question": "What did the Peace of Zuhab (1639) establish between the Ottoman and Safavid Empires?",
+      "options": [
+        "A shared caliphate that unified Sunni and Shi'a leadership under a single sultan",
+        "A border that roughly matches the modern boundary between Iran and Iraq",
+        "A ban on all future trade between Ottoman and Safavid territories",
+        "A requirement that both empires adopt Twelver Shi'a Islam as their state religion"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Peace of Zuhab finally set a border between the two empires that lines up closely with the modern boundary between Iran and Iraq, cementing the Sunni-Shi'a territorial divide the wars had created. The two empires stayed separate and rival rather than unifying under one ruler, so the first option is wrong. Nothing in the treaty banned trade. Only the Safavids made Shi'a Islam their state religion, the Ottomans remained Sunni, so the fourth option is also wrong."
+    },
+    {
+      "question": "What did the tenth Guru, Gobind Singh, establish for the Sikh community?",
+      "options": [
+        "The Adi Granth, compiling hymns from Nanak and other Gurus into a single scripture",
+        "The langar, a community kitchen open to people of all castes and religions",
+        "The Khalsa and the Five Ks, along with the Guru Granth Sahib as the eternal living Guru",
+        "The Harmandir Sahib, the Golden Temple built as the faith's spiritual center in Amritsar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gobind Singh, the tenth Guru, founded the Khalsa, gave Sikhs the Five Ks as markers of identity, and declared that the Guru Granth Sahib would serve as the eternal Guru after him. Compiling the scripture into the Adi Granth was the achievement of the fifth Guru, Arjan Dev, not Gobind Singh. The langar traces back to Guru Nanak's own teaching, earlier than Gobind Singh. The Golden Temple was also built by Arjan Dev, not Gobind Singh."
     }
   ],
   "images": [],

@@ -465,6 +465,39 @@
       ],
       "correctIndex": 3,
       "explanation": "Monsoon winds are an example of environment shaping trade, since sailors had to plan their voyages around the wind's seasonal reversal rather than the other way around. The other three options are all examples of trade affecting the environment, moving disease, crops, and farming techniques outward along established routes."
+    },
+    {
+      "question": "According to the historian Procopius, how did the Byzantine Empire reportedly obtain the secret of silk production around 553 CE?",
+      "options": [
+        "Chinese silk merchants voluntarily shared the technique after Byzantine merchants offered them gold",
+        "Byzantine monks smuggled silkworm eggs out of China hidden inside hollow walking staves",
+        "Byzantine soldiers captured Chinese silk workers during a military campaign in Central Asia",
+        "Persian traders had already mastered silk production and taught the technique to the Byzantines"
+      ],
+      "correctIndex": 1,
+      "explanation": "Procopius wrote that two Byzantine monks hollowed out their walking staves, packed them with silkworm eggs, and smuggled them out of China, breaking China's tightly guarded silk monopoly. There is no account of Chinese merchants selling the secret, soldiers capturing workers, or Persians already possessing the technique."
+    },
+    {
+      "question": "What happened to the Norse settlements in Greenland as a result of the Little Ice Age?",
+      "options": [
+        "They expanded rapidly as warmer temperatures opened up new farmland for settlers",
+        "They were destroyed by a Mongol military expedition that crossed the Atlantic Ocean",
+        "They became unviable and were abandoned by roughly the year 1400",
+        "They relocated further inland to escape Black Death outbreaks along the coast"
+      ],
+      "correctIndex": 2,
+      "explanation": "Norse settlements in Greenland, established during a warmer medieval period, became unviable as the Little Ice Age cooled the climate, and the last Greenlandic settlement was abandoned by approximately 1400. Colder temperatures shrank farmland rather than expanding it, no Mongol expedition reached Greenland, and the settlements were abandoned rather than relocated."
+    },
+    {
+      "question": "Why did rulers build the caravanserai system along desert trade routes?",
+      "options": [
+        "To collect tolls from religious pilgrims traveling separately from merchant caravans",
+        "To house soldiers assigned to defend desert routes against a Mongol invasion",
+        "To give merchants shelter and water at regular intervals across deadly terrain, while profiting from the traffic",
+        "To store silk and porcelain safely until seasonal monsoon winds made shipping possible"
+      ],
+      "correctIndex": 2,
+      "explanation": "Deserts could kill travelers who couldn't find shelter and water at regular intervals, so rulers built the caravanserai system to meet that need and profited from the resulting traffic. Caravanserais were not built to collect pilgrim tolls, house soldiers against a Mongol threat, or store goods for monsoon shipping, that last function belongs to Indian Ocean ports, not desert routes."
     }
   ],
   "images": [],

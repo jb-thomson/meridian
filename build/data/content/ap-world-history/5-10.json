@@ -367,7 +367,7 @@
         "The political division between capitalist and socialist parties that emerged across 19th-century Europe"
       ],
       "correctIndex": 1,
-      "explanation": "The vocabulary section defines the Great Divergence as the 19th-century widening of economic and industrial capacity between Western nations and the rest of the world. (A) describes an unrelated topic from a different unit. (C) and (D) aren't what the term refers to in this reading."
+      "explanation": "The Great Divergence refers to the 19th-century widening of economic and industrial capacity between Western nations and the rest of the world. (A) describes the Mongol Empire's division, an unrelated historical event centuries earlier. (C) and (D) both describe real historical debates and political divisions, but neither one is what the term Great Divergence actually names."
     },
     {
       "question": "What was true about political authority around the world in 1900, as evidence for continuity?",
@@ -390,6 +390,50 @@
       ],
       "correctIndex": 3,
       "explanation": "The four steps go in order: pick a position, identify your two strongest arguments, acknowledge and respond to the counterargument, and finally connect to broader context (how industrialization connects to the imperialism that followed it). (A), (B), and (C) are the first three steps, not the last one."
+    },
+    {
+      "question": "A British person born in 1750 and living until 1820 would have witnessed which of the following?",
+      "options": [
+        "The beginning of the railroad era, the steam engine, and the American and French Revolutions",
+        "The invention of the telegraph and the outbreak of the American Civil War",
+        "The unification of Italy and Germany alongside the growth of socialist political parties",
+        "The Second Industrial Revolution and the rise of transatlantic steamship travel"
+      ],
+      "correctIndex": 0,
+      "explanation": "A British person born in 1750 and living until 1820 witnessed the beginning of the railroad era, the steam engine, and the American and French Revolutions, alongside the abolition of the slave trade and the growth of industrial cities. The telegraph and the American Civil War belong to the next generation's lifetime, born in 1820 and living until 1890, as do Italian and German unification, the growth of socialist parties, the Second Industrial Revolution, and transatlantic steamship travel."
+    },
+    {
+      "question": "Which example illustrates a sophisticated argument about the extent of industrial change?",
+      "options": [
+        "An argument stating that industrialization changed absolutely nothing about global political and economic systems",
+        "An argument stating that industrialization brought great change to economic systems in Europe and North America, but limited change to political equality for women and economic conditions across most of Asia and Africa",
+        "An argument stating that industrialization changed every country in the world at exactly the same pace and to the same degree",
+        "An argument that lists ten specific changes without ever mentioning any continuities"
+      ],
+      "correctIndex": 1,
+      "explanation": "A sophisticated argument specifies the type, scope, and limits of change, for example, arguing that industrialization brought great change to economic systems in Europe and North America but limited change to political equality for women and economic conditions across most of Asia and Africa. Claiming nothing changed or that every country changed at exactly the same pace oversimplifies the evidence, and an essay listing many changes without ever mentioning continuities loses the complexity that a strong argument requires."
+    },
+    {
+      "question": "According to historians studying the standard of living controversy, what is the current view on how early industrialization affected working-class living standards?",
+      "options": [
+        "Living standards improved steadily and continuously from the very start of industrialization",
+        "Living standards were unaffected by industrialization until the 20th century began",
+        "Living standards declined continuously throughout the entire 19th century without ever improving",
+        "Living standards were worse during early industrialization, then improved after about 1850"
+      ],
+      "correctIndex": 3,
+      "explanation": "Historians studying the standard of living controversy generally conclude that working-class living standards were worse during the early period of industrialization and improved only after about 1850. Standards did not improve steadily from the very beginning, they were not unaffected until the 20th century began, and they did not decline continuously through the whole 19th century without any improvement."
+    },
+    {
+      "question": "For an essay arguing that industrialization brought change to a great extent, what two body-paragraph arguments does the guidance offer as an example?",
+      "options": [
+        "The persistence of monarchy in Germany and Russia, and the continued agrarian nature of most of the world's population",
+        "Economic transformation from mercantilism to industrial capitalism, and political transformation through Atlantic revolutions and new ideologies",
+        "The exclusion of women from politics, and the growing wealth gap within industrialized nations",
+        "The spread of colonial resource extraction, and the failure of defensive modernization in Egypt and the Ottoman Empire"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a great-extent argument, the example offered pairs economic transformation from mercantilism to industrial capitalism with political transformation through Atlantic revolutions and new ideologies as the two body paragraphs. Monarchy's persistence, worldwide agrarian life, women's political exclusion, and the wealth gap are continuity evidence used to qualify a change argument, not this pair. Colonial resource extraction and the failure of defensive modernization in Egypt and the Ottoman Empire are unrelated examples, not the two-paragraph example given for the great-extent argument."
     }
   ],
   "images": [],

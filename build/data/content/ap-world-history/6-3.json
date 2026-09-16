@@ -398,6 +398,39 @@
       ],
       "correctIndex": 3,
       "explanation": "The Yaa Asantewaa War was an act of direct armed resistance by an already-existing kingdom, not the creation of a new political state, so it belongs in a different category than the other three examples. The Sokoto Caliphate, Zulu Kingdom, and Cherokee Nation are each examples of communities building or strengthening political structures specifically to resist colonial pressure."
+    },
+    {
+      "question": "What did Tupac Amaru II's 1780-81 uprising in Peru target specifically?",
+      "options": [
+        "The introduction of new Catholic missionary schools across the Andes",
+        "British attempts to establish trading posts along the Peruvian coast",
+        "Spanish colonial taxation and the forced labor system known as the mita",
+        "The Bourbon monarchy's decision to grant Peru limited self-governance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tupac Amaru II mobilized tens of thousands of indigenous and mestizo people specifically against Spanish colonial taxation and the mita forced labor system, briefly threatening Spanish rule in Peru before his capture and execution in 1781. Missionary schools and British trading posts are not what the uprising targeted, and Spain was tightening control at the time, not granting Peru self-governance."
+    },
+    {
+      "question": "What tactics did Samory Toure use to resist French expansion for nearly three decades?",
+      "options": [
+        "Scorched earth strategy, mobile guerrilla warfare, and his own arms manufacturing",
+        "Signing a permanent peace treaty that divided Wassoulou territory with France",
+        "Appealing directly to other European governments for international protection",
+        "Adopting French military uniforms and training methods to gain legitimacy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Samory Toure used scorched earth tactics, mobile guerrilla warfare, and even his own arms manufacturing to resist French colonial expansion for nearly thirty years before his capture in 1898. He did not sign a permanent treaty dividing his territory, seek protection from other European powers, or adopt French military uniforms, his resistance remained independent and adversarial until his defeat."
+    },
+    {
+      "question": "How did Balkan peoples such as the Greeks, Serbs, Bulgarians, and Romanians respond to Ottoman decline in the 19th century?",
+      "options": [
+        "They negotiated permanent autonomous status while formally remaining Ottoman provinces",
+        "They adopted the Ghost Dance as a shared spiritual movement across the region",
+        "They united under a single new Balkan Caliphate modeled on the Sokoto Caliphate",
+        "They formed new independent nation-states, breaking away from the weakening Ottoman Empire"
+      ],
+      "correctIndex": 3,
+      "explanation": "As Ottoman power weakened, Balkan peoples including the Greeks (independent in 1821), Serbs, Bulgarians, and Romanians formed new independent nation-states rather than remaining Ottoman provinces, showing how nationalism enabled state formation as an empire declined. The Ghost Dance was a Plains Indian movement unrelated to the Balkans, and no single Balkan Caliphate or Sokoto-style state ever united these separate peoples."
     }
   ]
 }

@@ -379,6 +379,39 @@
       ],
       "correctIndex": 0,
       "explanation": "Broad, unqualified claims like 'technology changed everything' miss the nuance a complex argument requires. (B), (C), and (D) are all forms of complexity worth noting."
+    },
+    {
+      "question": "What does the shift in the leading cause of death in the US from 1900 (pneumonia and influenza) to 2020 (heart disease) best illustrate?",
+      "options": [
+        "Medicine's success against infectious disease was so complete that people now live long enough to face degenerative diseases of old age instead",
+        "Heart disease was actually just as common in 1900, but doctors at the time lacked the diagnostic tools to identify it correctly",
+        "Pneumonia and influenza were completely eliminated worldwide by 2020 and no longer posed any risk to anyone",
+        "Public health spending shifted entirely away from infectious disease research toward heart disease research after 1950"
+      ],
+      "correctIndex": 0,
+      "explanation": "This shift shows that 20th century medicine conquered infectious disease so successfully that people now live long enough to die from degenerative diseases of old age instead, changing the entire landscape of human mortality. (B), (C), and (D) are not accurate."
+    },
+    {
+      "question": "Which of the following best demonstrates the complex argument skill of weighing a source's credibility and limitations?",
+      "options": [
+        "Listing every year the internet changed to demonstrate that technological change was continuous",
+        "Restating that technology transformed life without acknowledging any groups who did not benefit",
+        "Connecting the climate crisis directly to 19th century industrial coal use and the Industrial Revolution",
+        "Recognizing that a World Bank economist and a Mexican farmer would describe NAFTA's effects very differently, and weighing each account's strengths and limits"
+      ],
+      "correctIndex": 3,
+      "explanation": "Weighing how a source's perspective and purpose shape its account, as with a World Bank economist versus a Mexican farmer describing NAFTA, is exactly what this complex argument skill requires. (A) is simple listing. (B) is an unqualified restatement. (C) is a cross-period connection, a different skill."
+    },
+    {
+      "question": "By the 2010s, how did cellular phone access compare to access to clean water worldwide?",
+      "options": [
+        "Clean water access had spread to more people worldwide than cellular phone access had",
+        "Both cellular phones and clean water had reached the exact same number of people globally",
+        "Neither cellular phones nor clean water had reached a majority of the world's population by that point",
+        "Cellular phones had reached more people worldwide than clean water had"
+      ],
+      "correctIndex": 3,
+      "explanation": "By the 2010s, cellular phones reached more people than clean water did, a striking illustration of how rapidly communication technology spread compared to basic infrastructure. (A), (B), and (C) misstate this comparison."
     }
   ],
   "images": [],

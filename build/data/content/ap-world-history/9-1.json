@@ -376,6 +376,39 @@
       ],
       "correctIndex": 1,
       "explanation": "The 1956 transatlantic cable carried 36 simultaneous calls, compared with modern fiber-optic cables carrying over 200 terabits of data per second, illustrating the scale of the communications revolution. (A), (C), and (D) all contradict this."
+    },
+    {
+      "question": "What happened when OPEC imposed an oil embargo on the US and Western Europe in 1973?",
+      "options": [
+        "It triggered the worst economic crisis since the Great Depression, showing how dependent the global economy had become on petroleum",
+        "It had almost no economic effect because most industrialized economies had already shifted away from oil by then",
+        "It caused France to abandon nuclear power in favor of returning to oil-based electricity generation",
+        "It led the United States to permanently ban all oil imports from the Middle East for the rest of the century"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 1973 OPEC oil embargo triggered the worst economic crisis since the Great Depression, revealing how dependent the global economy had become on petroleum. It did not have little effect, did not push France away from nuclear power, and did not lead to a permanent US ban on Middle Eastern oil."
+    },
+    {
+      "question": "What is Norman Borlaug best known for?",
+      "options": [
+        "Inventing the shipping container that revolutionized global trade in the 1950s and 1960s",
+        "Discovering penicillin, the first widely used antibiotic, in a London laboratory in 1928",
+        "Developing high-yield wheat varieties credited with saving over a billion lives from famine",
+        "Building the first commercial nuclear power plant in France during the 1970s"
+      ],
+      "correctIndex": 2,
+      "explanation": "Norman Borlaug developed high-yield, disease-resistant wheat varieties that spread across Asia and Latin America, credited with saving over a billion lives from famine. He did not invent the shipping container, discover penicillin, or build a nuclear power plant."
+    },
+    {
+      "question": "How did air travel change between 1903 and the 1970s?",
+      "options": [
+        "It remained a rare novelty used almost exclusively for military purposes throughout this period",
+        "It was quickly abandoned in favor of shipping containers as the preferred method of global transport",
+        "It stayed limited to short domestic flights and never developed into international travel",
+        "It went from the Wright brothers' first flight to mass transit connecting cities once separated by weeks of travel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Air travel went from the Wright brothers' first flight in 1903 to mass transit by the 1970s, connecting cities that had once taken weeks to travel between. It was not limited to military use, was not replaced by shipping containers, which move goods rather than people, and did expand into international travel."
     }
   ],
   "images": [],

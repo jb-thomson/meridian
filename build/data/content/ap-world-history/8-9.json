@@ -343,6 +343,39 @@
       ],
       "correctIndex": 1,
       "explanation": "Successful communist revolutions occurred mainly in the Eastern hemisphere (China, Vietnam, Korea), with Cuba as the major Western hemisphere exception, since US proximity generally prevented other communist takeovers there. (A), (C), and (D) all contradict this."
+    },
+    {
+      "question": "Where and when was the Non-Aligned Movement founded?",
+      "options": [
+        "At the Yalta Conference in February 1945, organized jointly by the United States and the Soviet Union",
+        "At the Bandung Conference in 1955, organized by newly independent Asian and African nations",
+        "At the United Nations headquarters in New York in 1948, shortly after Israel's founding",
+        "At the Geneva Summit in 1961, organized by a group of European neutral countries"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Non-Aligned Movement was founded at the Bandung Conference in 1955 by newly independent Asian and African nations seeking to avoid alignment with either superpower. It was not founded at Yalta, at the UN in 1948, or at a Geneva summit of European neutrals."
+    },
+    {
+      "question": "What nearly happened aboard the Soviet submarine B-59 during the Cuban Missile Crisis?",
+      "options": [
+        "Its captain successfully launched a nuclear torpedo directly at a nearby American aircraft carrier group",
+        "Its crew mutinied against orders and surfaced the submarine to surrender to US forces",
+        "It was sunk by an American depth charge before it could respond to the crisis at all",
+        "It nearly launched a nuclear torpedo, stopped when officer Vasili Arkhipov refused to authorize it"
+      ],
+      "correctIndex": 3,
+      "explanation": "Aboard the B-59, cut off from Moscow and believing war had begun, the crew prepared a nuclear torpedo launch that was stopped only because officer Vasili Arkhipov refused to authorize it. No torpedo was actually launched, the crew did not mutiny and surface, and the submarine was not sunk."
+    },
+    {
+      "question": "Why does the comparison between hemispheres treat the Western Hemisphere as already decolonized before the Cold War began?",
+      "options": [
+        "Most Latin American nations had already gained independence from Spain and Portugal between 1810 and 1825",
+        "The United States formally annexed nearly every Latin American colony and then granted them independence during the 1890s",
+        "The League of Nations granted independence to all Western Hemisphere colonies after World War I",
+        "European powers voluntarily abandoned their Western Hemisphere colonies at the start of World War II"
+      ],
+      "correctIndex": 0,
+      "explanation": "Most Latin American nations won independence from Spain and Portugal between 1810 and 1825, over a century before the Cold War, so the Cold War played out through already-independent states there rather than shaping new ones. The US did not annex and free every colony, the League of Nations did not grant this independence, and European powers did not abandon these colonies at the start of World War II."
     }
   ],
   "images": [],

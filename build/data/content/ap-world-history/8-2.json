@@ -103,7 +103,7 @@
       "question": "What was the Truman Doctrine (1947)?",
       "options": [
         "A US policy declaring that it would support free peoples resisting communist takeover, first applied to Greece and Turkey",
-        "A joint US-Soviet agreement that formally divided the continent of Europe into two separate zones of influence",
+        "A joint US-Soviet agreement signed in 1945 that formally divided the entire continent of Europe into rigid zones of influence",
         "A United Nations resolution that officially established containment as a binding piece of international policy",
         "A military alliance that required US troops to be permanently stationed across every country in Eastern Europe"
       ],
@@ -175,6 +175,28 @@
       ],
       "correctIndex": 1,
       "explanation": "The cultural Cold War was fought through music, film, broadcasting, and science, not military invasions, so this option never happened. The other options are all specific examples of that competition."
+    },
+    {
+      "question": "What effect did the Soviet Union's October 1957 launch of Sputnik have in the United States?",
+      "options": [
+        "It convinced most US military and political leaders that satellite technology posed no practical threat worth taking seriously at all",
+        "It triggered a massive US investment in science education and space technology, leading to a moon landing within 12 years",
+        "It led the US to immediately and permanently withdraw its own funding for space exploration research programs",
+        "It caused the United States to formally break off diplomatic relations with the Soviet Union that same year"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sputnik's launch shocked the US into massive investment in science education and space technology, since a satellite capable of orbiting earth suggested the ability to deliver a nuclear warhead anywhere, and the US landed astronauts on the Moon within 12 years. (A), (C), and (D) describe reactions that did not happen."
+    },
+    {
+      "question": "How did the United States and the Soviet Union each frame the Soviet installation of communist governments across Eastern Europe after WWII?",
+      "options": [
+        "Both sides publicly and formally agreed it was only a temporary measure required by the official terms of the Yalta Conference",
+        "The US saw it as Soviet imperial expansion, while the USSR framed it as a defensive buffer zone against future invasion",
+        "The US saw it as a defensive buffer zone, while the USSR framed it as an act of imperial expansion",
+        "Both sides described it identically as a necessary step toward eventual free elections across the region"
+      ],
+      "correctIndex": 1,
+      "explanation": "The US viewed the Soviet-installed governments in Poland, Czechoslovakia, Hungary, and elsewhere as imperial expansion, while the USSR framed the same move as building a defensive buffer zone against future invasion. (A), (C), and (D) all misstate how the two sides actually framed it."
     }
   ],
   "blocks": [

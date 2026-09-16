@@ -461,6 +461,28 @@
       ],
       "correctIndex": 1,
       "explanation": "Al-Biruni traveled to India and produced a detailed comparative study of Indian culture, religion, science, and geography, not a mechanical clock, which is never mentioned. Al-Khwarizmi's algebra, Ibn Sina's Canon of Medicine, and Ibn Rushd's commentaries on Aristotle are all well documented achievements of this era."
+    },
+    {
+      "question": "How did the Abbasid Caliphate come to power in 750 CE?",
+      "options": [
+        "It overthrew the Umayyad Caliphate and built a new capital at Baghdad on the Tigris River",
+        "It formed as a breakaway movement from the Seljuk Turks after their capture of Jerusalem",
+        "It was established by Hulagu Khan after the Mongol conquest of the Sassanid Persian Empire",
+        "It emerged as a trading league of merchant cities along the Indian Ocean coast of Arabia"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Abbasid dynasty overthrew the Umayyad Caliphate in 750 CE and built Baghdad, a newly founded city positioned to dominate trade routes linking the Mediterranean to the Persian Gulf and Central Asia. The Seljuk Turks did not exist as a power until centuries later, Hulagu Khan's Mongols destroyed the Abbasids rather than founded them, and the Abbasid Caliphate was a political and religious state, not a merchant trading league."
+    },
+    {
+      "question": "Who founded the Delhi Sultanate, and what was his background?",
+      "options": [
+        "A Hindu convert to Islam who defeated the Seljuk Turks to expand into South Asia",
+        "A former Mamluk slave-general who had served the Ghurid rulers of Afghanistan",
+        "A Persian prince exiled from Baghdad after the Mongol conquest of the Abbasid Caliphate",
+        "A Sufi missionary who converted the reigning Hindu king before assuming the throne himself"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qutb ud-Din Aybak, a former Mamluk slave-general who had served the Ghurid rulers of Afghanistan, founded the Delhi Sultanate in 1206. He was not a Hindu convert fighting the Seljuks, a Persian prince fleeing Baghdad, or a Sufi missionary who converted a Hindu king. Those describe none of the Sultanate's actual founding circumstances."
     }
   ],
   "images": [],

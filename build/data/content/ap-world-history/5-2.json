@@ -447,6 +447,39 @@
       ],
       "correctIndex": 2,
       "explanation": "Rizal's execution backfired, making him a martyr and helping spark the Philippine Revolution against Spain within months of his death. (A), (B), and (D) all contradict the historical record."
+    },
+    {
+      "question": "How did the French Revolution's ideas spread beyond France's own borders during Napoleon's military campaigns?",
+      "options": [
+        "Napoleon banned all Enlightenment writings in territories his armies conquered",
+        "His armies carried the Napoleonic Code, which many conquered territories kept even after Napoleon's defeat",
+        "He required every conquered territory to formally readopt divine-right monarchy in place of its previous government",
+        "His campaigns focused only on military conquest and had no effect on legal systems anywhere"
+      ],
+      "correctIndex": 1,
+      "explanation": "As Napoleon's armies swept across Europe, they carried the Napoleonic Code, a legal system built on Enlightenment principles such as equality before the law and merit over birth, and many countries kept these legal reforms even after later expelling Napoleon. He did not ban Enlightenment writings, impose divine-right monarchy, or leave legal systems untouched."
+    },
+    {
+      "question": "What connection existed between the Haitian Revolution and the Louisiana Purchase?",
+      "options": [
+        "The United States sold Louisiana to France to help fund France's war against Haiti",
+        "Toussaint Louverture personally negotiated the Louisiana Purchase with the United States",
+        "France used profits from Louisiana to send more troops to reconquer Haiti",
+        "After losing his army to Haitian forces and yellow fever, Napoleon sold Louisiana to the US"
+      ],
+      "correctIndex": 3,
+      "explanation": "After General Leclerc's expedition to reconquer Haiti and reimpose slavery was defeated by Haitian forces, with yellow fever also devastating French troops, Napoleon abandoned his plans for a North American empire and sold the Louisiana Territory to the United States in 1803. The US did not sell Louisiana to France, Louverture did not negotiate the sale, and Louisiana profits were not used to fund further troops against Haiti."
+    },
+    {
+      "question": "What did Maori nationalism in 19th-century New Zealand involve?",
+      "options": [
+        "Peaceful acceptance of British land claims and settlement in exchange for permanent seats in colonial government",
+        "Military resistance and political organization to defend Maori land and sovereignty from British settlers",
+        "A movement led entirely by British missionaries acting on the Maori people's behalf",
+        "An alliance with French colonial forces to jointly expel the British from New Zealand"
+      ],
+      "correctIndex": 1,
+      "explanation": "Maori nationalism involved both military resistance, fought in the New Zealand Wars from 1845 to 1872, and political organization to defend Maori land and sovereignty against British colonial settlement. Maori resistance was not a peaceful concession of land, was not led by British missionaries, and did not involve an alliance with France."
     }
   ],
   "images": [],

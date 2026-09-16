@@ -302,7 +302,7 @@
     {
       "question": "Why was the UN Universal Declaration of Human Rights (1948) significant, even though governments frequently violated its principles?",
       "options": [
-        "It set up a permanent international police force with authority to arrest leaders who broke its rules",
+        "It set up a permanent international police force with authority to arrest leaders who broke its rules, though no such force was ever actually created",
         "It gave activists worldwide a shared moral and legal framework they could use to hold governments accountable",
         "It automatically overturned any national law anywhere in the world that conflicted with its provisions",
         "It required every country that signed it to adopt a single identical system of government by law"
@@ -313,7 +313,7 @@
     {
       "question": "What do women's suffrage dates, from the United States (1920) to Morocco (1963), mainly demonstrate?",
       "options": [
-        "That suffrage always followed one fixed path, full democracy achieved first, voting rights for women granted second",
+        "That suffrage always followed one single fixed historical path, with full democracy achieved first and voting rights for women granted only afterward",
         "That women's political inclusion expanded across the century in nations with very different political systems and traditions",
         "That every single nation on the list gained suffrage through the exact same kind of independence movement",
         "That women's suffrage remained limited almost entirely to wealthy Western democracies until the late 20th century"
@@ -324,7 +324,7 @@
     {
       "question": "How did the Negritude movement challenge the racial hierarchy that had justified colonialism?",
       "options": [
-        "It celebrated African cultural identity and heritage as something valuable in itself, refuting the idea that African culture was inferior",
+        "It celebrated African cultural identity as something valuable in itself, refuting the idea that African culture was inferior",
         "It organized armed resistance movements that targeted European colonial armies across the African continent",
         "It petitioned the League of Nations directly, demanding an end to every European colonial holding by a set deadline",
         "It called on African nations to adopt European languages and customs in order to gain international respect and legitimacy"
@@ -338,7 +338,7 @@
         "A sudden shift in South African public opinion that occurred without any outside international pressure at all",
         "A binding UN Security Council resolution that directly forced the South African government to hold new elections",
         "Decades of international pressure and internal resistance, culminating in Mandela's release and election as president in 1994",
-        "An unexpected economic boom that made maintaining racial segregation too costly for South African businesses to bear"
+        "An unexpected and short-lived economic boom that made maintaining strict racial segregation too costly for major South African businesses to keep bearing"
       ],
       "correctIndex": 2,
       "explanation": "Decades of international pressure, internal resistance, and Mandela's imprisonment and eventual release led to South Africa's first democratic elections in 1994. (A), (B), and (D) are not accurate."
@@ -357,7 +357,7 @@
     {
       "question": "What was the goal of the World Fair Trade Organization?",
       "options": [
-        "To eliminate international trade in agricultural products grown by small independent farmers worldwide",
+        "To eliminate nearly all international trade in agricultural products grown by small independent farmers worldwide",
         "To provide direct loans to national governments in exchange for adopting free market reforms",
         "To replace the World Trade Organization entirely as the main body governing global tariffs",
         "To ensure producers in developing countries received fair prices, safe conditions, and direct trade relationships"
@@ -380,12 +380,34 @@
       "question": "Which of the following is NOT true about women's political inclusion in the 20th century?",
       "options": [
         "Female literacy rates and higher education enrollment for women rose across most parts of the world",
-        "Women eventually served as heads of government in countries such as Germany, New Zealand, and Chile",
+        "Women eventually served as elected heads of government in countries such as Germany, New Zealand, and Chile by the 2000s",
         "Once women gained the right to vote, gender gaps in political power and economic opportunity disappeared entirely",
         "Voting rights for women spread to countries with very different political systems across the century"
       ],
       "correctIndex": 2,
       "explanation": "Significant gender gaps in political representation and economic opportunity persisted globally even as formal rights expanded. (A), (B), and (D) are all accurate points."
+    },
+    {
+      "question": "What role did Eleanor Roosevelt play in creating the UN Universal Declaration of Human Rights?",
+      "options": [
+        "She chaired the UN Commission on Human Rights and led the negotiations that produced the 1948 Declaration",
+        "She drafted the entire Declaration by herself without any input from delegates of other UN member nations",
+        "She represented the Soviet Union's delegation and convinced it to vote in favor of the final document",
+        "She served as UN Secretary General when the General Assembly formally adopted the Declaration in 1948"
+      ],
+      "correctIndex": 0,
+      "explanation": "Roosevelt chaired the UN Commission on Human Rights and was the driving force behind negotiating the Declaration, building consensus among Soviet, Chinese, Latin American, and Western delegates. (B) ignores this negotiation. (C) is false, she was the US delegate, and the Soviet bloc abstained rather than voted yes. (D) confuses her role with an office she never held."
+    },
+    {
+      "question": "What happened to Archbishop Oscar Romero in El Salvador, and why?",
+      "options": [
+        "He was assassinated while celebrating Mass in 1980 after speaking out against military violence toward the poor",
+        "He was awarded the Nobel Peace Prize in 1980 for reforming Catholic teaching on wealth and property",
+        "He was exiled by the Vatican in 1980 after publicly rejecting liberation theology's teachings on poverty",
+        "He was elected president of El Salvador in 1980 after leading a peaceful liberation theology movement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Romero, who spoke out against military violence against the poor, was assassinated while celebrating Mass in 1980, an event that showed the real dangers liberation theology's advocates faced. (B), (C), and (D) describe outcomes that never happened."
     }
   ],
   "images": [],

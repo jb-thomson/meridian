@@ -391,6 +391,39 @@
       ],
       "correctIndex": 2,
       "explanation": "Soldiers spontaneously climbed out of their trenches to exchange food and cigarettes and play impromptu soccer, an unofficial truce that officers on both sides tried to prevent from happening again. (A), (B), and (D) all contradict this account."
+    },
+    {
+      "question": "What did Japan, allied with Britain, do during WWI?",
+      "options": [
+        "Japan declared neutrality and refused to participate in the war at all",
+        "Japan seized German colonies in the Pacific and at Qingdao in China",
+        "Japan sent its entire navy to defend the Western Front in France",
+        "Japan negotiated a separate peace treaty with Germany in 1915"
+      ],
+      "correctIndex": 1,
+      "explanation": "Japan, allied with Britain, used WWI as an opportunity to seize German colonial possessions in the Pacific, including the Marshall Islands, the Carolines, and the Marianas, as well as the German concession at Qingdao in China. Japan did not stay neutral, did not send its navy to fight on the Western Front, and did not negotiate a separate peace with Germany."
+    },
+    {
+      "question": "About how many casualties did the Battle of Verdun (1916) produce in nearly ten months of fighting?",
+      "options": [
+        "About 100,000",
+        "About 5,000",
+        "About 2 million",
+        "About 700,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Battle of Verdun lasted 303 days and produced approximately 700,000 casualties, killed, wounded, or captured, for almost no territorial change, with French and German artillery each firing roughly 40 million shells during the fighting. The other figures all misstate the staggering scale of casualties at Verdun."
+    },
+    {
+      "question": "About how many African soldiers, including France's tirailleurs sénégalais, served in the French army during WWI?",
+      "options": [
+        "About 50,000",
+        "About 600,000",
+        "About 5 million",
+        "About 150,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Approximately 600,000 African soldiers, including France's tirailleurs sénégalais, or Senegalese Riflemen, recruited across French West Africa, served in the French army during WWI. The other totals all misstate the scale of this colonial mobilization."
     }
   ],
   "images": [],

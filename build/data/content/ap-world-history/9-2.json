@@ -387,6 +387,28 @@
       ],
       "correctIndex": 0,
       "explanation": "Antiretroviral drugs transformed HIV into a manageable condition, but only for those who could access the expensive medications, mainly people in wealthy countries or through aid programs like PEPFAR. An export ban, a limit to recently infected patients, and the drugs being less effective than older treatments are all inaccurate claims."
+    },
+    {
+      "question": "What happened after the United States used DDT to eliminate malaria domestically by 1951?",
+      "options": [
+        "DDT was immediately adopted worldwide with no environmental consequences reported for the rest of the century",
+        "DDT was later banned because it thinned the eggshells of birds of prey, nearly causing the bald eagle's extinction",
+        "DDT proved completely ineffective at killing mosquitoes and was quietly abandoned within a few years",
+        "DDT use directly caused a major outbreak of a new mosquito-borne disease across the southern United States"
+      ],
+      "correctIndex": 1,
+      "explanation": "DDT eliminated malaria domestically but was later banned after it was found to thin the eggshells of birds of prey, nearly causing the extinction of the bald eagle. It was not adopted worldwide without consequences, it was not ineffective, and it did not cause a new mosquito-borne disease outbreak."
+    },
+    {
+      "question": "What was PEPFAR, launched by President George W. Bush in 2003?",
+      "options": [
+        "A UN-run program that required every member nation to fund AIDS treatment equally regardless of wealth",
+        "A research initiative focused only on developing a preventive vaccine for HIV rather than providing treatment",
+        "A US military operation to distribute medical supplies during the West African Ebola epidemic",
+        "A major aid program that provided antiretroviral treatment to millions in sub-Saharan Africa, saving an estimated 21 million lives"
+      ],
+      "correctIndex": 3,
+      "explanation": "PEPFAR provided antiretroviral treatment to millions of people in sub-Saharan Africa who otherwise could not afford it, saving an estimated 21 million lives by 2020. It was not a UN-run equal-funding requirement, a vaccine-only research initiative, or an Ebola supply operation."
     }
   ],
   "images": [],
