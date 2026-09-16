@@ -612,7 +612,7 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .monsoon-btn.active { color: #fff; border-color: transparent; }
 .monsoon-btn--summer.active { background: #c8641a; }
 .monsoon-btn--winter.active { background: #2c5f8a; }
-.monsoon-demo-caption { margin: 14px 0 0; font-size: 0.92rem; color: var(--muted, #5a5347); }
+.monsoon-demo-caption { margin: 14px 0 0; font-size: 0.92rem; color: var(--ink-soft); }
 
 .sahara-demo { border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper-raised); padding: 16px; margin: 24px 0; }
 .sahara-demo-map { position: relative; width: 100%; border-radius: 8px; overflow: hidden; }
@@ -628,8 +628,8 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .sahara-btn.active { color: #fff; border-color: transparent; }
 .sahara-btn--north.active { background: #8a6d1f; }
 .sahara-btn--south.active { background: #2c6b8a; }
-.sahara-demo-caption { margin: 14px 0 0; font-size: 0.92rem; color: var(--muted, #5a5347); }
-.sahara-demo-note { margin: 6px 0 0; font-size: 0.88rem; color: var(--muted, #5a5347); font-style: italic; }
+.sahara-demo-caption { margin: 14px 0 0; font-size: 0.92rem; color: var(--ink-soft); }
+.sahara-demo-note { margin: 6px 0 0; font-size: 0.88rem; color: var(--ink-soft); font-style: italic; }
 
 /* discussion / expandables (also used by SAQ/LEQ/essay "show answer" reveals) */
 .expand-item { border: 1px solid var(--line); border-radius: var(--radius); margin: 10px 0; background: var(--paper-raised); overflow: hidden; }

@@ -346,8 +346,8 @@
       var btns = demo.querySelectorAll("[data-direction-btn]");
       var captionEl = demo.querySelector(".sahara-demo-caption");
       var captions = {
-        north: "Gold, ivory, and kola nuts moved north: from the Bambuk and Boure goldfields, through Koumbi Saleh and Timbuktu, across the desert at Taghaza, to Sijilmasa.",
-        south: "Salt, copper, horses, and textiles moved south: salt from the Taghaza mines straight to Timbuktu, everything else all the way from Sijilmasa into West Africa."
+        north: "Gold and ivory moved north: from the Bambuk and Boure goldfields, through Koumbi Saleh and Timbuktu, across the desert at Taghaza, to Sijilmasa.",
+        south: "Salt, copper, and horses moved south: salt from the Taghaza mines straight to Timbuktu, copper and horses all the way from Sijilmasa into West Africa."
       };
       btns.forEach(function (btn) {
         btn.addEventListener("click", function () {
