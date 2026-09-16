@@ -431,6 +431,28 @@
       ],
       "correctIndex": 1,
       "explanation": "Indentured servitude had a defined endpoint, typically four to seven years, and did not apply to children, unlike chattel slavery. Indentured servants did not have full legal rights, and the third option reverses the actual regional pattern: chattel slavery was most intensive in the Caribbean and Brazil, while indentured servitude was used mainly in English colonies. Neither system was limited to one type of labor site."
+    },
+    {
+      "question": "What happened after the Dutch East India Company (VOC) was established in 1602?",
+      "options": [
+        "The VOC quickly went bankrupt and abandoned its Asian trading ambitions within a decade",
+        "The VOC eventually displaced Portugal from most of its trading posts in Southeast Asia",
+        "The VOC merged with the English East India Company to avoid costly competition",
+        "The VOC focused exclusively on Atlantic trade and never entered the Indian Ocean"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Dutch East India Company, established in 1602, eventually displaced Portugal from most of its Southeast Asian trading posts, becoming a dominant force in the region. It did not go bankrupt early, did not merge with its English rival, and was very much active in the Indian Ocean and Southeast Asia, not only the Atlantic."
+    },
+    {
+      "question": "How did the hacienda system bind workers to Spanish colonial landowners?",
+      "options": [
+        "Through military conscription that required a fixed number of years of armed service",
+        "Through a lottery system that randomly assigned laborers to different estates each year",
+        "Through religious vows that indigenous converts took upon baptism into the Catholic Church",
+        "Through debt peonage, where workers owed labor to pay off debts they could rarely escape"
+      ],
+      "correctIndex": 3,
+      "explanation": "The hacienda system bound indigenous workers through debt peonage, where owing money to the landowner created a cycle of debt that workers could rarely escape, effectively tying them to the estate. Military conscription, a labor lottery, and religious vows were not how the hacienda system controlled its workforce."
     }
   ],
   "images": [],

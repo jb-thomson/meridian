@@ -461,6 +461,28 @@
       ],
       "correctIndex": 3,
       "explanation": "Southeast Asian rulers selectively borrowed Sanskrit titles and cosmology, tributary missions to China, and Islamic commercial law and numerals, but the result was distinct hybrid civilizations, Khmer, Javanese, Malay, Vietnamese, not one shared political language uniting the whole region. That claim is not supported by the historical record."
+    },
+    {
+      "question": "What was the primary basis of the Majapahit Empire's power over maritime Southeast Asia?",
+      "options": [
+        "A massive permanent army that conquered and directly ruled every neighboring island",
+        "Control of trade routes, tribute payments, and Hindu-Buddhist cultural prestige",
+        "A military alliance with the Delhi Sultanate that supplied Majapahit with cavalry",
+        "Direct financial backing from Chinese emperors seeking a foothold in the archipelago"
+      ],
+      "correctIndex": 1,
+      "explanation": "Majapahit's power rested not on massive armies but on control of trade routes, tribute collection from port cities, and the cultural prestige of its Hindu-Buddhist civilization. There is no record of Majapahit directly ruling every neighboring island by force, allying militarily with the Delhi Sultanate, or being financially backed by Chinese emperors."
+    },
+    {
+      "question": "Why were Indian Ocean monsoon winds so important to trade across South and Southeast Asia?",
+      "options": [
+        "They eliminated any need for sailors to navigate by stars or coastal landmarks",
+        "They allowed ships to sail in any direction at any time of year without delay",
+        "Their predictable seasonal reversal let sailors plan voyages around a reliable calendar",
+        "They created dangerous, unpredictable storms that forced most regional trade onto overland caravan routes instead"
+      ],
+      "correctIndex": 2,
+      "explanation": "Monsoon winds blew northeast from October to April and southwest from May to September, a predictable seasonal pattern that let sailors plan voyages around a reliable calendar, making Indian Ocean trade efficient for centuries. Sailors still needed navigation methods, the winds did not permit sailing any direction at any time, and they enabled maritime trade rather than pushing it onto overland routes."
     }
   ],
   "images": [],

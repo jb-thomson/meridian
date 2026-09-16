@@ -398,6 +398,39 @@
       ],
       "correctIndex": 3,
       "explanation": "Receiving societies did not ban ethnic enclaves. In fact, enclaves like Chinatown and Indian communities in Trinidad persisted and thrived for generations. Cultural transformation, returnees bringing new skills home, and nativist laws like the Chinese Exclusion Act were all real effects of migration."
+    },
+    {
+      "question": "What sparked Mohandas Gandhi's shift from lawyer to political activist during his time in Natal, South Africa?",
+      "options": [
+        "He was thrown off a first-class railway car despite holding a valid ticket",
+        "He was elected to a leadership position in the Natal Indian Congress by unanimous vote",
+        "He witnessed the White Australia Policy exclude an Indian merchant from immigrating",
+        "He read newspaper reports of the Chinese Exclusion Act being passed in the United States"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gandhi's ejection from a first-class railway car in Natal, despite holding a valid ticket, was the personal experience of racial discrimination that turned him from a working lawyer into a political organizer, eventually shaping the nonviolent resistance methods he later used in India. He was not pushed toward activism by a Natal Indian Congress election, the White Australia Policy applied to Australia rather than South Africa, and the Chinese Exclusion Act was passed in the United States, unrelated to his own experience in Natal."
+    },
+    {
+      "question": "What role did huiguan, or hometown associations, play in Chinese immigrant communities in Southeast Asia?",
+      "options": [
+        "They negotiated directly with the Chinese government to end indentured labor recruitment",
+        "They provided mutual aid, mediated disputes, and represented the community to outside authorities",
+        "They organized boycotts of European trading firms operating in Chinese treaty ports",
+        "They recruited Chinese workers specifically for Peru's guano islands and Cuban sugar plantations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Huiguan, hometown associations formed by Chinese migrants in cities like Singapore, provided mutual aid, mediated disputes among community members, and represented the community to outside authorities, alongside running schools, temples, and cemeteries. They did not negotiate with the Chinese government over indentured labor, organize boycotts of European trading firms, or recruit workers for Peru's guano islands or Cuba, those were separate systems entirely."
+    },
+    {
+      "question": "Besides the Chinese Exclusion Act and White Australia Policy, what discrimination did Irish immigrants face in American cities during the 1850s and 1860s?",
+      "options": [
+        "Irish immigrants were required to pass Australia's dictation test before they could find work",
+        "Irish immigrants were barred from all forms of factory employment by federal law",
+        "Irish immigrants were the first group excluded from U.S. citizenship by name in federal law",
+        "Irish immigrants encountered \"No Irish Need Apply\" signs and hiring discrimination"
+      ],
+      "correctIndex": 3,
+      "explanation": "Irish immigrants in American cities during the 1850s and 1860s regularly encountered \"No Irish Need Apply\" signs and hiring discrimination, well before the Chinese Exclusion Act or White Australia Policy existed. Australia's dictation test applied to immigration into Australia, not American hiring practices, no federal law barred Irish immigrants from factory work altogether, and Irish immigrants were not the first group named for citizenship exclusion in federal law, that distinction belonged to Chinese immigrants."
     }
   ],
   "images": [],

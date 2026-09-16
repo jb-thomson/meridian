@@ -443,6 +443,28 @@
       ],
       "correctIndex": 3,
       "explanation": "Cahokia was a Mississippian mound-building city near present-day St. Louis with up to 20,000 people, a Monk's Mound larger at its base than the Great Pyramid, and a trade network moving copper, shells, and obsidian. Its population had no connection to refugees from Mexica conquest, an idea that is also chronologically and geographically implausible."
+    },
+    {
+      "question": "What was the purpose of the Inca chasqui system along the road network?",
+      "options": [
+        "To carry census records between Cusco and every provincial quipu specialist each month",
+        "To relay messages across the empire's road network faster than most contemporary states",
+        "To transport gold and silver tribute directly from mining regions to the capital Cusco",
+        "To escort captured enemy soldiers along the roads toward distant sites of sacrificial ceremony"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chasqui were relay runners stationed along Inca roads who carried messages across the empire faster than most contemporary Old World states could manage. Quipu specialists, not chasqui, handled census records, tribute transport was a separate function of the storehouse and road system, and escorting captives for sacrifice was not the chasqui's role."
+    },
+    {
+      "question": "What was the Triple Alliance, and how did it help build the Mexica Empire?",
+      "options": [
+        "A trade agreement among Maya city-states seeking access to central Mexican obsidian deposits",
+        "A religious council of priests based in Tenochtitlan who alone oversaw all human sacrifice",
+        "A political partnership among Tenochtitlan, Texcoco, and Tlacopan formed around 1427",
+        "A council of Spanish and Mexica leaders who negotiated tribute terms after 1521"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Triple Alliance was a political partnership among Tenochtitlan, Texcoco, and Tlacopan formed around 1427 that pooled military resources and rapidly expanded Mexica power across central Mexico. It was not a Maya trade agreement, a priestly council, or a Spanish negotiating body, those describe unrelated arrangements."
     }
   ],
   "images": [],

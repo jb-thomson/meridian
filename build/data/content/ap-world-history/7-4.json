@@ -392,6 +392,39 @@
       ],
       "correctIndex": 2,
       "explanation": "The Depression's catastrophic, sustained collapse showed that markets did not simply self-correct, discrediting laissez-faire and opening political space for the New Deal, fascist corporatism, and Soviet planning. (A), (B), and (D) all contradict this."
+    },
+    {
+      "question": "What made Magnitogorsk significant to Soviet industrialization under the Five Year Plans?",
+      "options": [
+        "It was the site of the Holodomor famine that killed millions of Ukrainian peasants during collectivization",
+        "It was the first Soviet city permitted to adopt free market economic reforms after 1928",
+        "It became a steel mill matching the entire former Russian Empire's output",
+        "It became the headquarters of Stalin's secret police during the political purges"
+      ],
+      "correctIndex": 2,
+      "explanation": "Magnitogorsk became one of the Soviet Union's flagship industrial projects under the Five Year Plans, a steel mill that alone matched the output of the entire pre-revolutionary Russian Empire, showcasing the industrial gains of forced central planning. It was not the site of the Holodomor, was not a center of free market reform, and was not the secret police headquarters."
+    },
+    {
+      "question": "What did the Glass-Steagall Act, part of the New Deal, specifically do?",
+      "options": [
+        "It nationalized all commercial banks under direct federal government ownership",
+        "It eliminated the Federal Reserve System entirely",
+        "It required all banks to convert deposits into government bonds",
+        "It separated commercial and investment banking to prevent risky speculation"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Glass-Steagall Act separated commercial banking from investment banking, aiming to prevent the risky speculation that had contributed to the 1929 crash. It did not nationalize banks outright, did not eliminate the Federal Reserve, and did not force banks to convert deposits into government bonds."
+    },
+    {
+      "question": "How did many ordinary Mexicans respond when Cárdenas nationalized the country's foreign-owned oil companies in 1938?",
+      "options": [
+        "They organized nationwide strikes protesting the nationalization as government overreach",
+        "They voluntarily donated jewelry, livestock, and savings to help compensate the oil companies",
+        "They demanded compensation from the government for lost access to cheap foreign oil",
+        "They petitioned to have the oil companies' foreign ownership restored within a year"
+      ],
+      "correctIndex": 1,
+      "explanation": "When Cárdenas nationalized Mexico's foreign-owned oil companies in 1938, many ordinary Mexicans, including schoolchildren and indigenous communities, voluntarily donated jewelry, livestock, and savings to help compensate the companies, a remarkable display of popular nationalism. Mexicans did not organize strikes against the nationalization, did not demand compensation for lost access to foreign oil, and did not petition to restore foreign ownership."
     }
   ],
   "images": [],

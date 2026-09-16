@@ -577,6 +577,28 @@
       ],
       "correctIndex": 1,
       "explanation": "Unlike Rome or the Islamic caliphates, the Mongols never tried to export their own religion or culture, the Yassa deliberately let conquered peoples keep their own customs, which is why the Ilkhanate could become Muslim and the Yuan court could govern as Confucian emperors. (A), (C), and (D) are all legacies historians credit to the Mongols; (B) is the one exception, since no Mongol religion, language, or set of customs endured among the peoples they conquered."
+    },
+    {
+      "question": "After a city fell to Mongol conquest, what typically happened to skilled specialists like doctors, engineers, and translators found among the survivors?",
+      "options": [
+        "They were executed along with everyone else who had taken part in resisting the siege",
+        "They were relocated elsewhere in the empire so their skills could be put to use",
+        "They were granted independence and allowed to govern themselves as a separate city-state",
+        "They were required to give up their trade and join the Mongol cavalry as soldiers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mongol commanders routinely searched survivors for useful specialists and shipped them elsewhere in the empire rather than killing them, which is how Chinese siege engineers ended up helping Mongol armies in Persia and Persian astronomers ended up staffing observatories in China. (A) describes the fate of ordinary resisting populations, not spared specialists. (C) and (D) describe outcomes with no basis in how the Mongols actually treated captured specialists."
+    },
+    {
+      "question": "What happened during the 1346 Mongol siege of the Genoese trading port of Caffa that historians sometimes cite as one of the earliest documented attempts at biological warfare?",
+      "options": [
+        "Mongol forces catapulted the corpses of plague victims over the city's walls",
+        "Mongol engineers poisoned Caffa's main water supply with contaminated grain",
+        "Mongol soldiers deliberately drove infected livestock through the city gates",
+        "Mongol commanders dug tunnels beneath the walls to release infected rats"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to a contemporary account, Khan Janibeg's forces catapulted the bodies of plague victims into Caffa while besieging the city, hoping to spread the disease among the defenders. (B), (C), and (D) describe methods that don't match the historical account of the siege."
     }
   ],
   "images": [],

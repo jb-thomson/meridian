@@ -421,6 +421,39 @@
       ],
       "correctIndex": 2,
       "explanation": "Sending students abroad, hiring over 3,000 foreign experts, and building railroads were key parts of the Meiji program, but nationalizing foreign banks was not. That detail simply is not part of Meiji policy."
+    },
+    {
+      "question": "What was the Iwakura Mission (1871-1873)?",
+      "options": [
+        "A group of samurai sent to overthrow the Tokugawa shogunate by force",
+        "A fleet of Japanese warships that sailed abroad to intimidate Western powers into signing new treaties",
+        "A team of European engineers invited to redesign Japan's railroad network",
+        "A tour by top Japanese officials to study Western institutions and factories firsthand"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Iwakura Mission sent 107 top Japanese government officials on a nearly two-year tour of the United States and Europe to study factories, schools, courts, and government institutions directly, knowledge they then applied to redesigning Japan's own institutions. It was not a military force overthrowing the shogunate, a naval intimidation fleet, or a team of European engineers invited into Japan."
+    },
+    {
+      "question": "Besides cotton mills, what other modernization projects did Muhammad Ali pursue in Egypt?",
+      "options": [
+        "A military school, a school of medicine, a translation bureau, and a printing press",
+        "A national system of free public elementary schools open to all Egyptian children",
+        "A parliament with elected representatives from across the Egyptian countryside",
+        "A colonial government sent to directly administer new Egyptian territories in Europe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Muhammad Ali built a military school, a school of medicine staffed by French doctors, a translation bureau, and Egypt's first modern printing press and newspaper, part of a broad modernization effort beyond just textile factories. He did not create a national free public school system, an elected parliament, or send colonial administrators into Europe."
+    },
+    {
+      "question": "What did \"extraterritoriality\" mean under the unequal treaties imposed on Japan and China?",
+      "options": [
+        "Foreign nationals were exempted from local law and judged only under their home country's courts",
+        "Foreign merchants were required to pay double the normal tariff rate on all imported goods",
+        "Japanese and Chinese citizens gained the right to live and work anywhere in Europe",
+        "Local governments gained the right to tax any foreign-owned business operating within their borders"
+      ],
+      "correctIndex": 0,
+      "explanation": "Extraterritoriality exempted foreign nationals from local law, placing them instead under the jurisdiction of their own home country's courts, a major grievance because it implied that Asian legal systems were inferior. It did not involve doubled tariffs on foreign merchants, a right for Asian citizens to live anywhere in Europe, or new local taxing power over foreign businesses, since the unequal treaties instead set low tariffs and denied host governments this kind of control."
     }
   ],
   "images": [],

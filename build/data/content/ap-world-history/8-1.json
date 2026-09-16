@@ -158,6 +158,39 @@
       ],
       "correctIndex": 2,
       "explanation": "After WWII, Britain, France, and the Netherlands were financially ruined and could no longer sustain their empires by force, colonial soldiers came home expecting their service to be rewarded with greater rights or independence, and nationalist movements that had spent two decades organizing were finally ready to act. The other options are all contradicted by the actual history: WWI-era appeals were ignored, and nationalist movements had organized for decades beforehand."
+    },
+    {
+      "question": "Who were the \"Big Three\" leaders who met at the Yalta Conference in February 1945?",
+      "options": [
+        "Winston Churchill, Franklin D. Roosevelt, and Joseph Stalin",
+        "Winston Churchill, Harry Truman, and Joseph Stalin",
+        "Charles de Gaulle, Franklin D. Roosevelt, and Joseph Stalin",
+        "Winston Churchill, Franklin D. Roosevelt, and Nikita Khrushchev"
+      ],
+      "correctIndex": 0,
+      "explanation": "Winston Churchill, Franklin D. Roosevelt, and Joseph Stalin met together at the Yalta Conference in February 1945. (B), (C), and (D) each substitute a leader who was not actually part of that meeting."
+    },
+    {
+      "question": "What happened in 1949 that established the nuclear standoff of the Cold War?",
+      "options": [
+        "The United States tested its first hydrogen bomb, giving it an even more powerful weapon than the atomic bomb",
+        "The Soviet Union developed its own nuclear weapons, ending the American monopoly on atomic weapons",
+        "The United Nations banned any further development of nuclear weapons by member states",
+        "Britain and France jointly developed nuclear weapons to counterbalance both American and Soviet arsenals"
+      ],
+      "correctIndex": 1,
+      "explanation": "By 1949 the USSR had developed its own nuclear weapons, ending the US atomic monopoly and establishing the nuclear standoff that defined the Cold War. (A), (C), and (D) describe events that did not happen in 1949."
+    },
+    {
+      "question": "Which pairing accurately matches colonial troops with the European power they served during WWII?",
+      "options": [
+        "Vietnamese troops served under British command, while Indian troops served under Dutch command",
+        "African troops served under Dutch command, while Indonesian troops served under French command",
+        "Indian troops served under French command, while African troops served under British command",
+        "Indian troops served under British command, while African troops fought for France"
+      ],
+      "correctIndex": 3,
+      "explanation": "Indian troops served under British command across multiple theaters, while African troops fought for France, and Vietnamese and Indonesian subjects were mobilized by their respective European rulers. (A), (B), and (C) all mismatch the colonial troops with the wrong imperial power."
     }
   ],
   "blocks": [

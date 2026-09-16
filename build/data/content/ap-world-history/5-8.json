@@ -439,6 +439,28 @@
       ],
       "correctIndex": 3,
       "explanation": "Marx expected revolution to come in the most industrialized countries, like Britain and Germany, and he \"got it wrong on geography\" since the first successful communist revolution actually happened in largely agricultural Russia in 1917, 34 years after his death. The other three options are all central parts of Marx's argument."
+    },
+    {
+      "question": "What did the Chartist movement (1838-1857) demand from the British government?",
+      "options": [
+        "The vote for working men, secret ballots, and equal electoral districts",
+        "Government seizure of all factories and their transfer to workers",
+        "The abolition of the monarchy and creation of a republic in Britain",
+        "A minimum wage law guaranteeing pay equal to skilled tradesmen"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Chartist movement demanded political rights, the vote for working men, secret ballots, and equal electoral districts, arguing that without political representation, workers had no way to change the laws governing their working conditions. Chartists did not call for seizing factories, abolishing the monarchy, or a guaranteed minimum wage, their program centered on expanding political participation rather than restructuring ownership or setting wages directly."
+    },
+    {
+      "question": "What change did John Snow's investigation of London's 1854 cholera outbreak eventually help bring about?",
+      "options": [
+        "New restrictions limiting the working hours of women and children in factories",
+        "The construction of London's modern sewer system after identifying contaminated water as the source",
+        "The founding of Germany's Social Democratic Party to represent industrial workers",
+        "The Ottoman Tanzimat reforms extending equal legal rights to non-Muslim subjects"
+      ],
+      "correctIndex": 1,
+      "explanation": "John Snow traced London's 1854 cholera outbreak to contaminated water, and this finding helped drive the construction of London's modern sewer system and later the Public Health Act of 1875, which required local governments to provide clean water and sewage disposal. Restrictions on child and women's factory hours came from the separate Factory Acts. Germany's Social Democratic Party and the Ottoman Tanzimat reforms had nothing to do with Snow's cholera research."
     }
   ],
   "images": [],

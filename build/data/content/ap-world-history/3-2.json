@@ -404,8 +404,8 @@
     {
       "question": "Why would an emperor prefer devshirme-recruited officials over officials from hereditary noble families?",
       "options": [
-        "They signed a contract promising twenty years of unpaid palace service before earning any rank",
-        "They were required to marry into the sultan's own family, tying their loyalty to shared bloodlines",
+        "They signed a formal contract promising twenty full years of unpaid palace service before earning any rank at all",
+        "They were required to marry into the sultan's own extended family, tying their personal loyalty to shared bloodlines",
         "They had no family lands or noble titles, so their entire status depended on the sultan's continued favor",
         "They received large hereditary estates in the Balkans that could be passed down to their own sons"
       ],
@@ -415,7 +415,7 @@
     {
       "question": "How did the Tokugawa shoguns neutralize the threat posed by Japan's samurai class?",
       "options": [
-        "They executed most of the daimyo and permanently confiscated their family land across Japan",
+        "They executed most of the daimyo lords and permanently confiscated all of their family land across Japan",
         "They required samurai to live in castle towns on government stipends instead of independent land revenue",
         "They forced samurai to convert to Buddhism and abandon their traditional warrior status entirely",
         "They replaced the samurai class with a new bureaucracy recruited entirely from merchant families"
@@ -427,7 +427,7 @@
       "question": "Beyond its religious meaning, what political function did Mexica human sacrifice serve?",
       "options": [
         "It let subject rulers witness Mexica divine power directly, making rebellion feel cosmically dangerous",
-        "It reduced the population of rival cities enough to prevent them from ever raising an army again",
+        "It reduced the overall population of rival cities enough to prevent them from ever raising a real army again",
         "It replaced the need to collect tribute, since captured warriors took the place of goods owed",
         "It supplied food for Mexica soldiers stationed far from the capital during long campaigns"
       ],
@@ -437,7 +437,7 @@
     {
       "question": "What practical political advantage did Louis XIV's doctrine of divine right provide?",
       "options": [
-        "It let him legally seize the land of any noble who criticized his policies in public",
+        "It let him legally and permanently seize the land of any noble who publicly criticized his royal policies",
         "It gave the French parliament final authority over the king's decisions on war and taxes",
         "It required the Catholic Church to personally fund every one of his military campaigns",
         "It removed the theoretical basis for resistance, since disobeying a God-appointed king meant disobeying God"
@@ -488,6 +488,28 @@
       ],
       "correctIndex": 3,
       "explanation": "Devshirme boys were taken from Christian families in the Balkans, not Ottoman Muslim families, and converted to Islam as part of the process. The other three statements are all historically accurate, including devshirme officials rising to Grand Vizier and having no independent power base."
+    },
+    {
+      "question": "What was the Ottoman millet system?",
+      "options": [
+        "A policy granting religious communities autonomy over their own internal affairs in exchange for loyalty and taxes",
+        "A rotating council of provincial governors who advised the sultan on military and foreign policy strategy",
+        "A form of currency used exclusively for trade between Ottoman merchants and Europeans",
+        "A yearly festival celebrating the sultan's military victories over rival empires"
+      ],
+      "correctIndex": 0,
+      "explanation": "The millet system let recognized religious communities, such as Greek Orthodox, Armenian Christian, and Jewish populations, govern their own internal affairs under their own religious leaders in exchange for loyalty and tax payment to the Ottoman state. It was not a council of governors, a form of currency, or a festival."
+    },
+    {
+      "question": "Why were the walls of the Coricancha, the Inca temple in Cuzco, lined with gold?",
+      "options": [
+        "Gold was seen as the metal of the sun, connecting the emperor's divine authority to the temple",
+        "Gold was believed to be the only material strong enough to withstand frequent earthquakes in Cuzco",
+        "Gold reflected sunlight in a way that helped astronomers track the solar calendar precisely",
+        "Gold was considered worthless by the Inca, so covering the walls with it showed humility"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gold was the metal of the sun, and since the Inca emperor was considered the Son of the Sun, lining the Coricancha's walls with gold tied his divine authority directly to the empire's holiest building. It was not chosen for earthquake resistance, calendar tracking, or as a display of humility."
     }
   ],
   "images": [],

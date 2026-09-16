@@ -397,6 +397,28 @@
       ],
       "correctIndex": 2,
       "explanation": "Quebec is a regional movement showing that decolonization-era dynamics, resistance to being governed within borders a community did not choose, could appear even in a stable, prosperous democracy like Canada, not only in colonies. There was no African funding, Quebec did not actually achieve independence, and its movement did not mirror the FLN's armed tactics."
+    },
+    {
+      "question": "Why did Angola not gain independence until 1975, decades after most of Asia and much of Africa?",
+      "options": [
+        "Angola's population voted to remain part of Portugal until a referendum finally passed in 1975",
+        "Angola had no organized independence movement until the mid-1970s",
+        "Britain intervened militarily to keep Angola from separating too quickly from Portugal",
+        "Portugal's authoritarian government refused to decolonize, and independence only came after a military coup overthrew that government in Lisbon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Portugal, under the authoritarian Salazar and Caetano regime, refused to decolonize while Britain and France did, so Angola's independence movement had to fight for over a decade before a 1974 coup in Lisbon finally overthrew that regime and led to independence in 1975. There was no referendum keeping Angola under Portugal, its independence movement existed well before the mid-1970s, and Britain played no role."
+    },
+    {
+      "question": "What happened to most of France's colonies in West and Equatorial Africa around 1960?",
+      "options": [
+        "Most became independent in rapid succession, following the 1958 referendum on the French Community, often keeping close ties with France afterward",
+        "They rejected the 1958 referendum on the French Community and were cut off from all French trade as punishment",
+        "They were formally annexed as permanent overseas departments of France with no path to independence",
+        "They united into a single federated state that lasted until the 1970s before splitting into modern countries"
+      ],
+      "correctIndex": 0,
+      "explanation": "Following the 1958 referendum on the French Community, most of French West and Equatorial Africa became independent in rapid succession around 1960, often maintaining closer ongoing ties with France than British colonies kept with Britain. They were not annexed as permanent French departments, were not cut off from French trade, and did not remain united as one federated state."
     }
   ]
 }

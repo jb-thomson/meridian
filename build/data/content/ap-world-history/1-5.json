@@ -435,6 +435,28 @@
       ],
       "correctIndex": 3,
       "explanation": "Griots were professional oral historians who memorized and performed genealogies, royal histories, and epic narratives, serving as the institutional memory of kingdoms where Arabic literacy was limited to religious scholars. Griots were not judges, ceremonial priests, or tax collectors."
+    },
+    {
+      "question": "What inspired King Lalibela to build Ethiopia's rock-hewn churches?",
+      "options": [
+        "A vision that Ethiopia should abandon Christianity entirely in favor of Islam",
+        "A trade agreement that required Ethiopia to build monuments rivaling the great mosques of Cairo",
+        "His wish to build a New Jerusalem after Saladin took the real Jerusalem in 1187",
+        "A directive from the distant Mamluk Sultanate to construct Christian pilgrimage sites"
+      ],
+      "correctIndex": 2,
+      "explanation": "King Lalibela reportedly built the eleven interconnected rock-hewn churches as a New Jerusalem after Saladin's forces captured the original Jerusalem in 1187. There was no push to abandon Christianity, no trade agreement tied to Cairo's mosques, and no directive from the Mamluk Sultanate, which had no authority over Ethiopia."
+    },
+    {
+      "question": "How did Sundiata Keita establish the Mali Empire?",
+      "options": [
+        "He unified the Mande-speaking peoples and defeated the Sosso king Sumanguru Kante in battle",
+        "He purchased Mali's full independence from Ghana using trans-Saharan gold revenue alone",
+        "He converted the neighboring Sosso kingdom to Christianity, ending its resistance to Mande rule",
+        "He negotiated a peaceful territorial merger between Mali and the Mamluk Sultanate of Egypt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sundiata Keita unified the Mande-speaking peoples of West Africa and founded Mali by defeating the Sosso king Sumanguru Kante in battle, a victory remembered in the Sundiata epic performed by griots. Mali's founding involved conquest, not a cash purchase of independence, a religious conversion of the Sosso, or a merger with the distant Mamluk Sultanate."
     }
   ],
   "images": [],

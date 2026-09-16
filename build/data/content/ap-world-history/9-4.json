@@ -282,7 +282,7 @@
         "All four were eventually forced from power once their own citizens rebelled against these reforms",
         "All four promoted free-market policies and cut government control, despite very different political systems",
         "All four rejected foreign investment and instead built self-sufficient economies within their own borders",
-        "All four raised tariffs sharply to shield their own struggling domestic industries from foreign competition"
+        "All four raised tariffs sharply to shield their own struggling domestic industries from foreign competition, the opposite of the policies each leader actually pursued"
       ],
       "correctIndex": 1,
       "explanation": "All four were governments that encouraged free-market policies and economic liberalization, even though they governed under very different political systems. (A), (C), and (D) are not accurate."
@@ -291,7 +291,7 @@
       "question": "How did Deng Xiaoping's path to a market economy differ from Reagan's and Thatcher's?",
       "options": [
         "Deng eliminated nearly all private property rights, while Reagan and Thatcher worked to expand private ownership across their economies",
-        "Deng introduced market mechanisms while the Communist Party kept full political control, a path very different from the democracies Reagan and Thatcher led",
+        "Deng introduced market mechanisms while the Communist Party kept full political control, unlike Reagan's and Thatcher's democracies",
         "Deng directed almost all of his reforms toward agriculture alone, while Reagan and Thatcher focused mainly on heavy industry and finance",
         "Deng turned nearly all foreign investment away, while Reagan and Thatcher went out of their way to attract it into their economies"
       ],
@@ -363,6 +363,28 @@
       ],
       "correctIndex": 0,
       "explanation": "Global income inequality between nations actually declined as developing economies grew rapidly, the opposite of what this option claims. (B), (C), and (D) are all effects that actually occurred."
+    },
+    {
+      "question": "How did Augusto Pinochet's path to free-market economics in Chile differ from Reagan's and Thatcher's, and what did it cost?",
+      "options": [
+        "Pinochet imposed market reforms through a military dictatorship after a 1973 coup, and the transition came with severe human rights abuses",
+        "Pinochet raised tariffs sharply on imports to protect struggling Chilean industries, unlike Reagan and Thatcher, who reduced tariffs across the board",
+        "Pinochet nationalized nearly all private industry in Chile under state ownership, unlike Reagan and Thatcher, who privatized state owned enterprises",
+        "Pinochet worked entirely within Chile's existing democratic system, holding competitive elections before enacting any of his reforms"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pinochet, who seized power in a 1973 military coup, imposed free-market reforms guided by US-trained economists known as the Chicago Boys, and the transition brought severe social costs and human rights abuses alongside eventual growth. (B) and (C) describe the opposite of his actual policies. (D) is false, Pinochet ruled as a dictator, not through democratic elections."
+    },
+    {
+      "question": "What role did the World Trade Organization, founded in 1995, play in the global economy?",
+      "options": [
+        "It sent military forces to enforce compliance with regional trade agreements like NAFTA and ASEAN",
+        "It replaced multinational corporations as the main organizer of global manufacturing and supply chains",
+        "It set one single global tariff rate that every member nation, rich or poor, was legally required to charge",
+        "It provided a global framework for trade rules and a system for resolving disputes between member nations"
+      ],
+      "correctIndex": 3,
+      "explanation": "The WTO, founded in 1995, provided a global framework for trade rules and dispute resolution between member nations. (A) invents a military role it never had. (B) confuses it with MNCs, which organize production, not trade rules. (C) misdescribes how the WTO actually functions."
     }
   ],
   "images": [],

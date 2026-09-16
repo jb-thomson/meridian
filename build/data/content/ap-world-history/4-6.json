@@ -400,6 +400,39 @@
       ],
       "correctIndex": 3,
       "explanation": "Ana Nzinga combined military force, diplomatic negotiation, a strategic conversion to Christianity, and an alliance with the Dutch against Portugal, adapting her approach as circumstances changed. She did not isolate herself from outside powers, she did not surrender unconditionally, and she used far more than military combat alone."
+    },
+    {
+      "question": "What was the Stono Rebellion (1739)?",
+      "options": [
+        "The largest armed uprising by enslaved people in North America before the Revolution",
+        "A peaceful protest march organized by free Black colonists living in and around colonial Charleston, South Carolina",
+        "A Maroon community that maintained independence in the Carolina swamps for several decades",
+        "A Spanish-sponsored raid intended to free enslaved people from nearby British plantations"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Stono Rebellion in South Carolina in 1739 was the largest armed uprising by enslaved people in North America before the Revolution, a rare instance of organized armed resistance alongside the more common tactics of work slowdowns, sabotage, and flight. It was not a peaceful march, a long-term Maroon settlement, or a Spanish-sponsored raid."
+    },
+    {
+      "question": "What happened to the descendants of Maroon communities in Suriname?",
+      "options": [
+        "They were fully assimilated into Dutch colonial society within a single generation of contact",
+        "They abandoned their settlements entirely once the Dutch military finally managed to defeat them, decades later",
+        "They maintain distinct cultural traditions today, recognized as UNESCO Intangible Cultural Heritage",
+        "They relocated permanently to Jamaica after signing a treaty with the British crown"
+      ],
+      "correctIndex": 2,
+      "explanation": "Descendants of Suriname's Maroon communities continue to maintain distinct cultural identities today, with their traditions recognized as UNESCO Intangible Cultural Heritage, after the Dutch chose to sign treaties with these communities rather than defeat them militarily. They were not assimilated, were never fully defeated by the Dutch military, and did not relocate to Jamaica."
+    },
+    {
+      "question": "What did Cossack revolts in the Russian Empire represent?",
+      "options": [
+        "The resistance of autonomous frontier communities against being incorporated into serfdom",
+        "A religious movement seeking to convert Russian peasants to Orthodox Christianity by force",
+        "An alliance between Russian nobles and the Tsar to expand serfdom further east into Siberia",
+        "A trade dispute between Cossack merchants and Ottoman customs officials along the Black Sea"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cossack revolts represented the resistance of autonomous frontier military communities against being incorporated into the expanding Russian state's serf-labor system. They were not a religious conversion movement, an alliance to expand serfdom, or a trade dispute with the Ottomans."
     }
   ],
   "images": [],

@@ -172,6 +172,39 @@
       ],
       "correctIndex": 1,
       "explanation": "Austria-Hungary blamed the Serbian government incorrectly: Serbia's government hadn't planned the attack, though some Serbian military officers were involved. (A), (C), and (D) are all details that actually happened."
+    },
+    {
+      "question": "What happened when the British and German fleets finally met in a major battle in 1916?",
+      "options": [
+        "The British fleet was completely destroyed, ending the naval arms race decisively",
+        "The German fleet defected to the British side rather than fight",
+        "The Battle of Jutland was inconclusive despite years of naval buildup",
+        "Germany's fleet won a decisive victory and blockaded British ports"
+      ],
+      "correctIndex": 2,
+      "explanation": "Despite the massive pre-war naval buildup, the one major fleet encounter of the war, the Battle of Jutland (1916), ended inconclusively, with neither side achieving a decisive breakthrough. The arms race that had done so much to build tension before 1914 never produced the decisive naval battle both sides had prepared for. The British fleet was not destroyed, Germany's fleet did not defect, and Germany did not win a decisive victory or blockade British ports."
+    },
+    {
+      "question": "Why was Sarajevo, the city where Franz Ferdinand was assassinated, a source of Serbian resentment toward Austria-Hungary?",
+      "options": [
+        "Serbia had ceded Sarajevo to Austria-Hungary as part of a trade agreement in 1900",
+        "Austria-Hungary had stationed its entire army permanently in Sarajevo since 1878",
+        "Sarajevo's population had voted in a referendum to join Austria-Hungary voluntarily",
+        "Austria-Hungary had annexed Bosnia, including Sarajevo, in 1908, angering Serbia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Austria-Hungary had formally annexed Bosnia, including Sarajevo, in 1908, a move that outraged Serbian nationalists who considered Bosnia part of a future South Slavic state. Franz Ferdinand's 1914 visit took him into territory Serbian nationalists viewed as wrongfully seized, part of why Bosnian Serb conspirators targeted him there. Sarajevo was not ceded through a trade agreement, permanently garrisoned since 1878, or the site of a referendum."
+    },
+    {
+      "question": "Why did France rebuild its army with \"revenge against Germany\" as an explicit goal after 1871?",
+      "options": [
+        "France had signed a treaty requiring it to attack Germany within fifty years",
+        "Germany had refused to trade with France after the war ended",
+        "France had suffered a humiliating defeat in the Franco-Prussian War",
+        "Britain had pressured France to prepare for a war against Germany"
+      ],
+      "correctIndex": 2,
+      "explanation": "France's humiliating defeat in the Franco-Prussian War (1871) left a lasting desire for revenge that shaped French military policy and alliance choices for decades afterward. No treaty required an attack within fifty years, trade was not the issue driving French rearmament, and Britain did not pressure France into this policy."
     }
   ],
   "blocks": [

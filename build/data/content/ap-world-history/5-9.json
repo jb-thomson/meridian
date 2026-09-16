@@ -433,6 +433,28 @@
       ],
       "correctIndex": 3,
       "explanation": "Pollution, poverty, crime, public health crises, housing shortages, and insufficient infrastructure were the challenges of rapid urbanization, but the middle class grew significantly during industrialization rather than declining. That option has no support."
+    },
+    {
+      "question": "Why was Florence Nightingale's work as a professional nurse significant beyond reforming battlefield medicine?",
+      "options": [
+        "It proved that cholera spread through contaminated water rather than through bad air",
+        "It led Parliament to build a new sewer system separating waste from drinking water",
+        "It caused Britain to make elementary education compulsory for children aged 5 to 13",
+        "It challenged the cult of domesticity by showing educated women could do valuable public work"
+      ],
+      "correctIndex": 3,
+      "explanation": "Florence Nightingale came from a wealthy family that considered nursing beneath her class, but her success professionalizing nursing into a skilled, respectable career for educated women challenged the cult of domesticity's assumption that a respectable woman's place was only in the home. Proving cholera spread through water was John Snow's discovery, not Nightingale's. London's sewer system followed from Snow's findings, and compulsory education came from Britain's 1870 Education Act, neither connected to Nightingale's nursing reforms."
+    },
+    {
+      "question": "What was the \"Great Stink\" of 1858, and what did it lead to?",
+      "options": [
+        "Raw sewage made the Thames smell so overpowering that Parliament shut down, spurring construction of London's sewer system",
+        "A wave of severe factory fires caused by thick coal smoke forced Parliament to pass strict new building safety codes across every London borough",
+        "An outbreak of cholera in Manchester that convinced officials to found the Metropolitan Police",
+        "A shortage of clean drinking water in Chicago that led to strict new tenement housing codes"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Great Stink of 1858 was the overwhelming smell of raw sewage in the Thames, so bad that Parliament had to shut down, which helped turn years of political debate over sewage into the actual construction of London's modern sewer system. It did not involve factory fires, and it was specifically a London event on the Thames, not a Manchester cholera outbreak or a Chicago water shortage."
     }
   ],
   "images": [],

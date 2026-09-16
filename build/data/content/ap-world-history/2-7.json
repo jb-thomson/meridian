@@ -442,6 +442,39 @@
       ],
       "correctIndex": 0,
       "explanation": "A weak comparison simply states a fact, like both networks spread Islam, while a strong one explains why the similarity exists and what it shows about the period. Fancier vocabulary does not make a comparison stronger, both similarities and differences are valuable, not just differences alone, and explanation, not quantity, is what matters."
+    },
+    {
+      "question": "How did the geographic orientation of the three trade networks differ from each other?",
+      "options": [
+        "The Silk Roads ran east-west, the Indian Ocean moved in a seasonal loop, and trans-Saharan routes ran north-south",
+        "All three networks ran along the exact same general east-west line across Afro-Eurasia",
+        "The Indian Ocean ran north-south while the Silk Roads and trans-Saharan routes both moved in seasonal loops",
+        "Each network ran in a perfect circle, connecting the exact same set of cities on that circuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Silk Roads connected East Asia to the Mediterranean on a roughly east-west line, the Indian Ocean network moved in a seasonal loop driven by the monsoon cycle, and the trans-Saharan routes ran north-south between West Africa and the Mediterranean world. The networks did not share one line, the loop pattern belonged to the Indian Ocean alone, and none of the three formed a closed circle connecting identical cities."
+    },
+    {
+      "question": "Besides goods, religion, and merchants, what else moved along all three major trade networks as an unintended consequence of connectivity?",
+      "options": [
+        "A single shared currency that was accepted equally by merchants in every trading city",
+        "Disease, since connectivity transmitted everything that could be transmitted, including pathogens",
+        "A formal written constitution that standardized commercial law across each network",
+        "A universal written language that gradually replaced every local script along the routes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disease traveled along all three networks as an unintended consequence of the same connectivity that moved goods and merchants, since a connected system transmits everything capable of being transmitted, pathogens included. No single shared currency, written constitution, or universal script ever unified all three networks."
+    },
+    {
+      "question": "What was the hawala system that gave Muslim merchants an advantage on all three trade networks?",
+      "options": [
+        "A military escort service that protected only merchant caravans led by Muslim traders",
+        "A special coinage minted exclusively for use by Muslim merchant communities",
+        "A shipbuilding technique developed by Muslim engineers for use on ocean-going dhows",
+        "A credit system built on Islamic law that made contracts between Muslims in different countries valid and enforceable"
+      ],
+      "correctIndex": 3,
+      "explanation": "The hawala system used Islamic law to make contracts between Muslim merchants in different countries reliable and enforceable, giving them a practical advantage in doing business with strangers across long distances. It was not a military escort, a special coinage, or a shipbuilding technique."
     }
   ],
   "images": [],

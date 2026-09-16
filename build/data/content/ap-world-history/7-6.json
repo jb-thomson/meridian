@@ -101,7 +101,7 @@
       "options": [
         "It stripped Germany's economy so completely that any future recovery became structurally impossible",
         "It created deep German resentment without breaking Germany's actual capacity to act on that resentment later",
-        "It was formally revoked by the League of Nations only a few years after it was first signed",
+        "It was formally revoked by the League of Nations only a few years after it was first signed, a step the League never actually had the authority to take",
         "It quietly canceled Germany's reparations payments within the first year they were imposed"
       ],
       "correctIndex": 1,
@@ -111,7 +111,7 @@
       "question": "What best explains the Nazi Party's electoral jump from 2.6% of the vote in 1928 to 37.4% in July 1932?",
       "options": [
         "Nazi paramilitary squads physically blocked rival candidates from campaigning across the country",
-        "President Hindenburg had publicly endorsed Hitler's party in a nationwide radio broadcast",
+        "President Hindenburg had publicly endorsed Hitler's party in a nationwide radio broadcast, though Hindenburg in fact distrusted Hitler throughout this period",
         "The Weimar government had already banned every rival political party months before the vote",
         "The Great Depression's mass unemployment made Hitler's promises of recovery and revival appealing"
       ],
@@ -172,6 +172,39 @@
       ],
       "correctIndex": 0,
       "explanation": "Hitler violated the Munich Agreement within six months, seizing the rest of Czechoslovakia in March 1939, so (A) did not happen. (B), (C), and (D) all did happen."
+    },
+    {
+      "question": "What happened during Germany's hyperinflation crisis of 1923?",
+      "options": [
+        "A U.S. dollar was worth 4.2 trillion marks, and workers were paid twice a day as money lost value",
+        "The German government successfully froze all prices to shield ordinary citizens from rising costs",
+        "Middle-class Germans mostly kept their savings safe because banks automatically converted marks into gold",
+        "The crisis was caused directly by the 1929 stock market crash spreading from the United States to Germany"
+      ],
+      "correctIndex": 0,
+      "explanation": "In 1923 a dollar was worth 4.2 trillion marks, and workers were paid twice daily because their money lost real value within hours, wiping out middle-class savings built over a lifetime. (B) and (C) describe protections that did not exist. (D) reverses the timeline: the 1923 hyperinflation happened six years before the 1929 Depression began."
+    },
+    {
+      "question": "In what order did Hitler dismantle the Treaty of Versailles's military restrictions after taking power?",
+      "options": [
+        "He invaded Poland first, then reintroduced conscription, then remilitarized the Rhineland",
+        "He remilitarized the Rhineland first, then annexed Austria, and only later reintroduced conscription",
+        "He reintroduced conscription in 1935, then remilitarized the Rhineland in 1936",
+        "He annexed the Sudetenland first, then reintroduced conscription, then remilitarized the Rhineland"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hitler reintroduced conscription in 1935 and remilitarized the Rhineland in 1936, testing Western resolve before moving on to Austria and Czechoslovakia. (A), (B), and (D) all place these events in an order that did not happen."
+    },
+    {
+      "question": "Of the four causes of WWII identified in the AP CED, which one is described as the single most direct, immediate cause of the war?",
+      "options": [
+        "The unsustainable Treaty of Versailles peace settlement that had been signed back in 1919",
+        "The aggressive militarism of fascist regimes, especially Nazi Germany under Hitler",
+        "The global economic crisis caused by the Great Depression of the 1930s",
+        "Continued imperialist aspirations pursued across both Europe and Asia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fascist and totalitarian regimes' aggressive militarism, especially Nazi Germany's under Hitler, is identified as the immediate cause of the war, while Versailles, the Depression, and imperialist aspirations are structural conditions that made his rise and aggression possible. (A), (C), and (D) are contributing causes rather than the immediate one."
     }
   ],
   "blocks": [

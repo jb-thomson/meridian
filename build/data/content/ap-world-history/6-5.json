@@ -328,7 +328,7 @@
       "question": "What did the Treaty of Nanking (1842) require of China?",
       "options": [
         "It ceded Hong Kong, opened treaty ports, granted extraterritoriality, and imposed a large indemnity",
-        "It required China to end the opium trade completely and pay Britain no further compensation",
+        "It required China to end the opium trade completely and pay Britain no further compensation, a claim the treaty's actual terms never supported",
         "It gave China the right to try British citizens in Chinese courts under Chinese law",
         "It opened British ports to unrestricted Chinese trade in exchange for ending hostilities"
       ],
@@ -339,7 +339,7 @@
       "question": "What was extraterritoriality?",
       "options": [
         "The right of Chinese merchants to set their own prices in treaty ports without British interference",
-        "The requirement that all foreign trade pass through a single government-approved Chinese port",
+        "The requirement that all foreign trade pass through a single government-approved Chinese port, modeled on the earlier Canton System China had used for decades",
         "The right of British citizens in China to be tried only in British consular courts, not Chinese ones",
         "The practice of Chinese courts applying British commercial law to disputes between Chinese merchants"
       ],
@@ -389,6 +389,39 @@
       ],
       "correctIndex": 1,
       "explanation": "The entire point of economic imperialism, as seen through China and Argentina, is that it achieved economic control without formal annexation, so option B directly contradicts this pattern. Options A, C, and D all describe real features of economic imperialism: market access without governance, lower administrative costs, and political independence alongside economic dependence."
+    },
+    {
+      "question": "What industrial demand drove British and American investment in Chilean copper mining during the 19th century?",
+      "options": [
+        "Growing demand for copper coins to modernize Chile's currency system",
+        "Growing demand for copper wire used in telegraph and electrical systems",
+        "Growing demand for copper armor plating for warships built in Chile",
+        "Growing demand for copper roofing material for European cathedrals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chilean copper mining expanded rapidly because industrial economies needed copper wire for telegraph lines and later electrical systems, and British and American firms supplied the capital and technology to extract it, while Chilean copper was priced and sold in London markets. Coins, warship armor, and cathedral roofing were not the industrial uses driving this investment."
+    },
+    {
+      "question": "Which additional power joined Britain in fighting the Second Opium War (1856 to 1860) against China?",
+      "options": [
+        "Russia, which sought a warm-water port on the Pacific coast",
+        "The United States, which wanted access to Chinese silver mines",
+        "France, which joined Britain to expand the unequal treaty system",
+        "Portugal, which wanted to protect its colony at Macau"
+      ],
+      "correctIndex": 2,
+      "explanation": "France joined Britain in the Second Opium War, and together they forced China to open more ports, expand foreign concessions, and legalize the opium trade. Russia, the United States, and Portugal were not the power that fought alongside Britain in this particular war."
+    },
+    {
+      "question": "By 1900, roughly how many treaty ports had been opened to Western trade and residence in China?",
+      "options": [
+        "Over 90",
+        "Exactly 5",
+        "About 20",
+        "Fewer than 10"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Treaty of Nanking initially opened five ports, but the Second Opium War and later treaties expanded the system until more than 90 treaty ports existed by 1900, each a center of Western commercial and legal privilege. Five was only the original number under the Treaty of Nanking alone, and the other totals both undercount how far the system had grown by the turn of the century."
     }
   ]
 }

@@ -514,6 +514,28 @@
       ],
       "correctIndex": 2,
       "explanation": "The Qing maintained Chinese administrative institutions and Confucian governance, including the civil service examination system, rather than eliminating them. The other three statements are all historically accurate, including a Ming general opening the Great Wall to the Manchu, the queue requirement, and the territorial expansion under Kangxi and Qianlong."
+    },
+    {
+      "question": "How were the Ottoman Empire's elite Janissary soldiers typically recruited?",
+      "options": [
+        "Through the devshirme system, conscripting young Christian boys from the Balkans who converted to Islam",
+        "Through a hereditary caste in which only sons of existing Janissaries could join the corps",
+        "Through voluntary enlistment open only to free Muslim men born in Anatolia",
+        "Through mandatory service required of every young man in the conquered Arab provinces"
+      ],
+      "correctIndex": 0,
+      "explanation": "Janissaries were recruited through the devshirme system, which conscripted young Christian boys from the Balkans, converted them to Islam, and trained them from childhood as professional soldiers. Recruitment was not hereditary, not limited to voluntary Muslim enlistment, and not drawn from the Arab provinces."
+    },
+    {
+      "question": "What made the city of Kandahar strategically important to both the Safavid and Mughal empires?",
+      "options": [
+        "It housed a sacred shrine that both empires depended on for religious legitimacy",
+        "It sat as a valuable crossroads between the two empires and changed hands repeatedly between them",
+        "It was the location of the only shipyard capable of building oceangoing Safavid warships",
+        "It controlled the only mountain pass connecting Persia directly to Ottoman territory"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kandahar, in present-day Afghanistan, was a strategically vital crossroads between the Safavid and Mughal empires that changed hands repeatedly through the 16th and 17th centuries. No shrine, shipyard, or Ottoman mountain pass explains the rivalry over the city."
     }
   ],
   "images": [],

@@ -403,6 +403,39 @@
       ],
       "correctIndex": 1,
       "explanation": "Ethiopian coffee exports and Italian instant coffee manufacturing never happened together; this pairing is invented. Rubber from the Amazon and Congo basins, diamonds discovered near Kimberley in South Africa, and palm oil from West Africa used in European soap manufacturing are all real, so options A, C, and D are all accurate pairings."
+    },
+    {
+      "question": "How did the American Civil War (1861-65) affect Egypt's cotton export economy?",
+      "options": [
+        "It caused Egyptian cotton prices to collapse as British buyers turned to Indian cotton instead",
+        "It had no effect on Egypt, since Egyptian cotton was sold only within the Ottoman Empire",
+        "It ended Muhammad Ali's cotton cultivation program in the Nile Delta entirely",
+        "It sharply increased demand for Egyptian cotton once Southern U.S. supplies were cut off"
+      ],
+      "correctIndex": 3,
+      "explanation": "The American Civil War dramatically increased demand for Egyptian cotton once Southern U.S. supplies were cut off, boosting the cotton economy Muhammad Ali had built in the Nile Delta since the 1820s. Prices rose rather than collapsed, Egyptian cotton was sold well beyond the Ottoman Empire to British mills, and the cultivation program continued rather than ending."
+    },
+    {
+      "question": "What development in the 1870s and 1880s made Argentina and Uruguay major meat exporters to Europe?",
+      "options": [
+        "A new breed of cattle developed in Argentina that produced meat requiring no refrigeration",
+        "British colonization of Argentina, which placed its ranching industry under direct Crown control",
+        "The completion of the Trans-Siberian Railroad, which opened new markets for South American beef",
+        "Refrigerated steamships, which made it possible to ship frozen beef across the ocean for the first time"
+      ],
+      "correctIndex": 3,
+      "explanation": "Refrigerated steamships developed in the 1870s and 1880s made it possible for the first time to ship frozen beef from Argentina and Uruguay's vast grasslands to Europe, fueling a major export boom backed by British investment in railways and meatpacking. No new cattle breed eliminated the need for refrigeration, Argentina was never a British colony, and the Trans-Siberian Railroad connected Russia's own territory, not South American beef markets."
+    },
+    {
+      "question": "What transformed South Africa from a marginal British colonial concern into its most economically valuable territory in sub-Saharan Africa?",
+      "options": [
+        "The discovery of diamonds near Kimberley in 1867 and gold on the Rand in 1886",
+        "The completion of a rail line connecting Cape Town to the palm oil markets of West Africa",
+        "A large guano deposit discovered along South Africa's Atlantic coastline in the 1850s",
+        "The introduction of large-scale cotton cultivation modeled on Muhammad Ali's Egyptian program"
+      ],
+      "correctIndex": 0,
+      "explanation": "The discovery of diamonds near Kimberley in 1867 and gold on the Rand in 1886 transformed South Africa's economic importance and helped drive the Anglo-Boer Wars over control of that mineral wealth. No rail line linked Cape Town to West African palm oil markets, South Africa's guano deposits were not what drove its economic transformation, and South Africa never developed an Egyptian-style cotton program."
     }
   ]
 }

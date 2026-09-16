@@ -420,6 +420,39 @@
       ],
       "correctIndex": 3,
       "explanation": "Population grew in Afro-Eurasia from new food crops even amid catastrophic indigenous population loss and the resulting expansion of the slave trade, but global population growth never halted. In fact American crops were a driver of population growth, not stagnation."
+    },
+    {
+      "question": "What happened to the Inca Empire before Francisco Pizarro's conquistadors even arrived?",
+      "options": [
+        "The Inca had already signed a trade agreement transferring most of their silver to Spain",
+        "Smallpox killed the Inca emperor Huayna Capac and triggered a civil war within the empire",
+        "The Inca voluntarily converted to Christianity after hearing of the fall of the Aztec Empire",
+        "The Inca had already abandoned their capital city and fled into the Andes mountains"
+      ],
+      "correctIndex": 1,
+      "explanation": "By 1525, smallpox had reached the Inca Empire, killing the emperor Huayna Capac and triggering a civil war among his potential successors, years before Pizarro's conquistadors arrived. No trade agreement, voluntary conversion, or abandonment of the capital happened beforehand."
+    },
+    {
+      "question": "How did Navajo and other Pueblo peoples in the American Southwest respond to the introduction of sheep?",
+      "options": [
+        "They refused to raise sheep, viewing the animals as a threat to traditional farming methods",
+        "They used sheep exclusively for trade with Spanish colonizers and never incorporated them into daily life",
+        "They hunted sheep to extinction within a few decades of their introduction to the region",
+        "They adopted sheep herding enthusiastically and built distinctive textile traditions around it"
+      ],
+      "correctIndex": 3,
+      "explanation": "Navajo and other Pueblo peoples adopted sheep herding enthusiastically, incorporating it into their economies and creating the distinctive Navajo textile traditions that persist today. They did not refuse the animals, did not use them only for trade, and did not hunt them to extinction."
+    },
+    {
+      "question": "What did enslaved Africans contribute to American agriculture beyond their labor?",
+      "options": [
+        "New irrigation techniques borrowed from Ottoman canal systems",
+        "Food crops and agricultural knowledge, including okra, rice varieties, and black-eyed peas",
+        "The first cattle ranching methods used in the Spanish borderlands",
+        "Horse-breeding techniques that transformed Plains warfare"
+      ],
+      "correctIndex": 1,
+      "explanation": "Enslaved Africans brought agricultural knowledge and food traditions, including okra, varieties of rice, and black-eyed peas, that became a permanent part of American farming, not just their physical labor. Ottoman irrigation, Spanish cattle ranching, and horse breeding were not African contributions in this context."
     }
   ],
   "images": [],

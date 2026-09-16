@@ -463,6 +463,28 @@
       ],
       "correctIndex": 3,
       "explanation": "Decentralization came from personal fief relationships, nobles maintaining their own armies, and the Holy Roman Emperor being constantly challenged by electing princes. The Church never required kingdoms to split their throne among multiple heirs, that requirement did not exist."
+    },
+    {
+      "question": "What architectural innovations allowed Gothic cathedrals to be built taller and lighter than earlier structures?",
+      "options": [
+        "Reinforced concrete foundations copied directly from ancient Roman construction methods",
+        "Pointed arches and flying buttresses that redirected weight away from the walls",
+        "Wooden scaffolding systems imported from Song Dynasty temple construction",
+        "Iron nails and steel roof beams manufactured in the ironworks of northern Europe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gothic engineering used pointed arches and flying buttresses to redirect the weight of the roof and walls outward and downward, allowing taller, lighter structures than any previous masonry. Gothic builders did not use Roman-style concrete, Song Dynasty scaffolding, or iron and steel framing, those were not part of the technique."
+    },
+    {
+      "question": "What happened when the Fourth Crusade reached Constantinople in 1204?",
+      "options": [
+        "Crusaders successfully liberated Jerusalem before returning home to Western Europe",
+        "Byzantine and Crusader forces formed a lasting military alliance against the Seljuk Turks",
+        "The Byzantine emperor voluntarily ceded Constantinople in exchange for lasting military protection",
+        "Crusaders sacked the Christian city instead of reaching the Holy Land, damaging Byzantine power"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Fourth Crusade sacked Constantinople, a Christian city, instead of reaching the Holy Land, catastrophically damaging Byzantine power and poisoning relations between Western Catholic and Eastern Orthodox Christianity. Jerusalem was not liberated by this Crusade, no lasting alliance against the Seljuks formed, and the Byzantine emperor did not hand over the city willingly, he fled as it was looted."
     }
   ],
   "images": [],

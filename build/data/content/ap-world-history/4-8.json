@@ -347,6 +347,50 @@
       ],
       "correctIndex": 3,
       "explanation": "The Mughal, Ottoman, Safavid, and Qing empires remained the dominant political units of the period in population and territory, while European maritime empires were commercially impressive but governed far fewer people. The land-based empires did not collapse in this period, and their populations were not equal to but far larger than those under European maritime control."
+    },
+    {
+      "question": "How did the shape of Russia's empire on an 1754 map differ from the colonial holdings of Britain, France, Portugal, Spain, and the Netherlands?",
+      "options": [
+        "Russia's empire consisted of scattered island territories reached only by sea",
+        "Russia's empire was one contiguous land mass, unlike the scattered maritime territories of the others",
+        "Russia's empire was entirely limited to Europe with no expansion into Asia",
+        "Russia had no overseas or expanded territory at all by that year"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 1754 map shows Russia's empire as one contiguous land mass, in contrast to Britain, France, Portugal, Spain, and the Netherlands, whose holdings were scattered coastal and island territories built on sea routes rather than unbroken borders. Russia's territory was not scattered islands, it extended well into Asia, and it had clearly expanded far beyond Europe by this date."
+    },
+    {
+      "question": "How did the global silver economy affect Mughal India and Qing China even though neither empire participated directly in Atlantic trade?",
+      "options": [
+        "Silver from American mines still reached and shaped their economies through other trade networks",
+        "Both empires banned the use of silver currency to avoid dependence on European trade",
+        "Both empires were forced to adopt European currencies in place of silver entirely",
+        "Neither empire's economy was affected in any way by developments in the Atlantic world"
+      ],
+      "correctIndex": 0,
+      "explanation": "Even though Mughal India and Qing China did not trade directly across the Atlantic, silver mined in the Americas still reached and shaped their economies through other trade networks, connecting land-based empires to a genuinely global silver economy for the first time. Neither empire banned silver or replaced it with European currency, and both were clearly affected by this global economic development."
+    },
+    {
+      "question": "How did the casta system's distinction between peninsulares and criollos eventually contribute to major political change in Latin America?",
+      "options": [
+        "Criollo resentment of peninsular privilege helped fuel Latin American independence movements",
+        "It led peninsulares to voluntarily surrender all of their accumulated political power and colonial privileges to criollos by 1750",
+        "It caused the Spanish Crown to abolish the casta system completely before 1750",
+        "It prevented any political change in Latin America until the 20th century"
+      ],
+      "correctIndex": 0,
+      "explanation": "Criollo resentment at being treated as inferior to peninsulares, despite sharing Spanish ancestry, became a major driver of the independence movements that swept Latin America in the early 19th century. Peninsulares did not voluntarily give up power, the casta system was not abolished before 1750, and this tension contributed to major political change rather than preventing it."
+    },
+    {
+      "question": "How did the Atlantic trading system's profits help create conditions for later economic change?",
+      "options": [
+        "They were entirely reinvested in expanding subsistence agriculture across every farming region of Europe and Afro-Eurasia",
+        "They funded early industrialization in England and left commercial infrastructure that later trade built on",
+        "They were used exclusively to finance further colonization of Ottoman territory",
+        "They had no lasting economic impact once the plantation economy itself ended"
+      ],
+      "correctIndex": 1,
+      "explanation": "Profits from the plantation economy helped fund early industrialization in England, and the Atlantic trading system's commercial infrastructure, joint-stock companies, insurance markets, and commodity trading, provided a framework that industrial-era trade later built on. The profits were not funneled into subsistence agriculture or Ottoman colonization, and their impact clearly outlasted the plantation economy itself."
     }
   ],
   "images": [],

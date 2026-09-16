@@ -542,6 +542,28 @@
       ],
       "correctIndex": 1,
       "explanation": "Austronesian sailors from the Malay world settled Madagascar around 650 CE, and Malagasy is closely related to languages spoken in Borneo, evidence of just how far Malay maritime culture reached. This has nothing to do with Zheng He or Arabic, and directly shows Madagascar was connected to Indian Ocean networks well before 1450."
+    },
+    {
+      "question": "What made Gujarat, on India's northwest coast, such an important hub in the Indian Ocean network?",
+      "options": [
+        "Its merchants controlled the only strait linking the Indian Ocean to the South China Sea",
+        "Its rulers hosted every one of Zheng He's seven treasure fleet voyages as their final stop",
+        "Its merchants traded cotton textiles across the network and built sophisticated banking and credit systems",
+        "Its coral stone buildings set an architectural style later copied throughout the Swahili Coast"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gujarat's merchants carried cotton textiles across the whole Indian Ocean network and developed credit and banking systems that made long-distance trade more practical. Controlling the strait chokepoint describes Malacca, not Gujarat, Zheng He's fleet did not treat any single port as a required final stop, and coral stone construction describes the Swahili Coast."
+    },
+    {
+      "question": "Why did the port of Malacca rely on officials called shahbandars?",
+      "options": [
+        "To collect a special tax charged only to merchants arriving on Ming Dynasty tribute ships",
+        "To act as brokers responsible for merchants from specific regions in a port with no shared language",
+        "To command the naval forces Malacca used to seize control of rival trading ports",
+        "To measure a ship's latitude by calculating the angle of the sun before it entered the harbor"
+      ],
+      "correctIndex": 1,
+      "explanation": "With merchants speaking over 80 languages passing through, Malacca used shahbandars as brokers, each one responsible for traders from a specific region, to keep commerce running smoothly. Shahbandars did not tax only Chinese ships, command a navy, or measure latitude, that was the astrolabe's job."
     }
   ],
   "images": [],

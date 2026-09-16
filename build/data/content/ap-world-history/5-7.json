@@ -425,6 +425,39 @@
       ],
       "correctIndex": 2,
       "explanation": "Faster machine production, division of labor, economies of scale, and cheaper transportation are the reasons manufactured goods became more affordable. Governments did not eliminate all taxes on manufactured goods, and that option has no support."
+    },
+    {
+      "question": "What made Unilever an example of a transnational business during the industrial age?",
+      "options": [
+        "It operated banks simultaneously in Hong Kong, Shanghai, and London to finance trade between Europe and Asia",
+        "It was established under Britain's Companies Act of 1856 as the country's first limited-liability corporation",
+        "It sold shares of colonial trading companies to small investors on the London Stock Exchange",
+        "It formed from a merger of a British soap manufacturer and a Dutch margarine producer, sourcing palm oil from West Africa and coconut oil from Asia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Unilever formed from the merger of a British soap manufacturer and a Dutch margarine producer, sourcing raw materials like palm oil from West Africa and coconut oil from Asia while selling consumer goods worldwide, a pattern typical of transnational industrial businesses. Operating banks across Asia and Europe describes HSBC, not Unilever. Unilever was not created under the Companies Act of 1856, that law simply made limited liability legally available decades before Unilever's formation. Unilever manufactured and sold consumer goods rather than trading shares of colonial companies on an exchange."
+    },
+    {
+      "question": "What happened when Britain repealed the Corn Laws in 1846?",
+      "options": [
+        "Britain removed the tariffs that had protected domestic grain producers, fully committing to free-trade policy",
+        "Britain imposed steep new tariffs on all imported grain to shield its own farmers from cheaper foreign competition",
+        "Britain nationalized its grain markets to guarantee stable food prices for industrial workers",
+        "Britain restored mercantilist trade restrictions after years of experimenting with free trade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Repealing the Corn Laws removed the tariffs that had protected British grain producers from foreign competition, marking Britain's full commitment to free trade. This is the opposite of imposing new tariffs, and Britain did not nationalize its grain markets or reinstate mercantilist restrictions, the repeal moved policy further away from mercantilism, not back toward it."
+    },
+    {
+      "question": "What new type of retail business appeared in major cities as manufactured goods became cheaper and more available?",
+      "options": [
+        "Worker-owned cooperatives that manufactured and sold goods without factory owners",
+        "Department stores that sold a wide variety of goods to middle-class shoppers",
+        "State-run trading posts that distributed rationed goods to the public",
+        "Small family workshops that made goods entirely by hand for local customers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Department stores emerged in major cities, offering a wide variety of manufactured goods to the growing middle class as industrial capitalism made goods cheaper and more available. Worker-owned cooperatives and state-run trading posts were not part of this consumer revolution, and hand-made goods from small workshops represent the older, more expensive production method that machine manufacturing was replacing."
     }
   ],
   "images": [],

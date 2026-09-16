@@ -377,6 +377,28 @@
       ],
       "correctIndex": 1,
       "explanation": "Remittances from the Filipino diaspora represent one of the most significant sources of income for the Philippine economy. The other options describe outcomes that never happened."
+    },
+    {
+      "question": "Who financed the Aswan High Dam in Egypt after the United States withdrew its support?",
+      "options": [
+        "France, seeking to repair its damaged relations with Egypt in the years following the Suez Crisis of 1956",
+        "The World Bank, using a special emergency development loan",
+        "The Soviet Union, which became Egypt's main source of large-scale development funding",
+        "Britain, hoping to regain political influence over the canal zone"
+      ],
+      "correctIndex": 2,
+      "explanation": "After the US withdrew financial support, the Soviet Union stepped in to finance the Aswan High Dam, making it a symbol of Egypt using Cold War competition to its advantage. France, the World Bank, and Britain did not fund the dam."
+    },
+    {
+      "question": "What structural legacy of US colonial rule over the Philippines (1898-1946) shaped later Filipino migration to the United States?",
+      "options": [
+        "A shared official language and US-style education system that had already been established under colonial rule",
+        "A total ban on any travel or communication between the two countries that remained in place until the late 1980s",
+        "A requirement that all Filipino citizens learn Spanish before being allowed to migrate anywhere",
+        "The complete absence of any economic relationship between the Philippines and the United States"
+      ],
+      "correctIndex": 0,
+      "explanation": "US colonial rule left English as an official language and a US-style education system in the Philippines, structural ties that made later migration to the United States easier. There was no travel ban, no Spanish-language migration requirement, and the two countries kept close economic ties, not none at all."
     }
   ]
 }

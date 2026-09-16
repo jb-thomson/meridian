@@ -440,6 +440,28 @@
       ],
       "correctIndex": 0,
       "explanation": "Mughal rule depended on cooperation from the Rajput Hindu warrior nobility who controlled large territories, so Akbar's accommodation was as much practical power politics as personal open-mindedness. European missionaries, an Ottoman requirement, and military commanders forcing the policy on him all play no role here."
+    },
+    {
+      "question": "What did Peter the Great's Table of Ranks (1722) do to the Russian nobility's traditional power?",
+      "options": [
+        "It restored full independent authority to Russia's hereditary boyars",
+        "It tied advancement to merit and service to the tsar rather than birth alone",
+        "It abolished all noble titles and created a fully classless bureaucracy",
+        "It transferred control of the military exclusively to the Orthodox Church"
+      ],
+      "correctIndex": 1,
+      "explanation": "Peter's Table of Ranks made advancement dependent on merit and service to the tsar rather than hereditary status, undermining the boyars' claim to power based purely on birth. It did not restore boyar authority, abolish noble titles altogether, or hand military control to the church."
+    },
+    {
+      "question": "Why did the traditional Ottoman timar system decline in the 17th century?",
+      "options": [
+        "Sultans abolished it to reward Janissary loyalty with hereditary land grants",
+        "European colonization of Ottoman territory ended the need for local administrators",
+        "Timar holders voluntarily gave up their land grants to pursue urban trade",
+        "The shift to mercenary armies and centralized tax farming eroded the system"
+      ],
+      "correctIndex": 3,
+      "explanation": "As the Ottomans shifted toward mercenary armies and centralized tax farming, the timar system, land grants to warrior-administrators in exchange for military service, eroded, weakening this traditional elite's power base. Sultans did not abolish it to reward Janissaries with hereditary land, Ottoman territory was not colonized by European powers in this period, and timar holders did not voluntarily give up their land for trade."
     }
   ],
   "images": [],

@@ -343,7 +343,7 @@
       "options": [
         "A misapplication of Darwin's theory of evolution, arguing that stronger races were destined to dominate weaker ones",
         "Charles Darwin's own biological theory explaining how animal species evolve through natural selection",
-        "A scientific movement that used genetic evidence to argue every human race was equally capable and skilled",
+        "A scientific movement that used genetic evidence to argue every human race was equally capable and skilled, a claim most Social Darwinists flatly rejected",
         "A diplomatic policy under which rival European nations agreed to compete for colonies through trade alone"
       ],
       "correctIndex": 0,
@@ -353,7 +353,7 @@
       "question": "What was the main argument behind the \"civilizing mission\"?",
       "options": [
         "That non-European peoples should govern themselves without any outside interference or guidance at all",
-        "That European nations owed no explanation to their own citizens for the human cost of conquest at all",
+        "That European nations owed no explanation to their own citizens for the human cost of conquest at all, no matter how the campaign was justified publicly",
         "That local rulers, not European officials, should run colonies under distant European military protection",
         "That Europeans had a moral duty to bring their education, religion, and legal systems to less developed peoples"
       ],
@@ -413,7 +413,40 @@
         "Religious conversion, the missionary belief that empire opened doors for spreading Christianity abroad"
       ],
       "correctIndex": 1,
-      "explanation": "Four ideologies justified imperialism: Social Darwinism, the civilizing mission, nationalism, and religious conversion. Free trade economic theory is not one of the four covered in this topic, even though economic motives appear elsewhere in the course. Options A, C, and D are all explicitly named as the ideologies covered here."
+      "explanation": "Four ideologies justified imperialism: Social Darwinism, the civilizing mission, nationalism, and religious conversion. Free trade economic theory is not one of the four, even though economic motives appear alongside these ideologies. Options A, C, and D are all explicitly named as ideologies that justified imperialism."
+    },
+    {
+      "question": "What made the 19th century's wave of imperialism different from earlier periods of conquest?",
+      "options": [
+        "Only economic motives and immediate financial profit explain 19th century imperialism, with absolutely no need for any ideological justification at all",
+        "European conquerors this time acted entirely without needing any public support back home",
+        "Unprecedented military technology gave Europe a huge advantage, and new ideologies justified conquest as right, not just profitable",
+        "European governments this time avoided using any military force at all in acquiring new colonies"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nineteenth-century imperialism differed from earlier conquest in scale and ideology: railroads, steamships, and industrial weapons gave European powers an unprecedented military advantage, while new ideologies convinced citizens that conquest was not just profitable but right. Ideology mattered precisely because economics alone did not explain or justify the scale of expansion, governments still needed public backing, and military force remained central to acquiring colonies rather than being avoided."
+    },
+    {
+      "question": "Why did Rudyard Kipling write \"The White Man's Burden\" in 1899?",
+      "options": [
+        "To criticize the British government's occupation of Egypt after 1882",
+        "To encourage the United States to colonize the Philippines after the Spanish-American War",
+        "To celebrate the diplomatic outcome and formal results of the Berlin Conference dividing Africa among the European powers",
+        "To convince European missionaries to expand their work in East Africa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kipling wrote \"The White Man's Burden\" specifically to encourage the United States to colonize the Philippines after the Spanish-American War, using the civilizing mission's paternalistic logic to argue American expansion was a duty. The poem had nothing to do with Egypt, the Berlin Conference happened over a decade earlier in 1884-85, and it was not addressed to missionaries expanding work in East Africa."
+    },
+    {
+      "question": "How did Britain's 1882 annexation of Egypt illustrate the competitive dynamic of nationalism driving empire?",
+      "options": [
+        "France felt threatened by Britain's move, and rival powers accelerated their own colonial expansion to keep pace",
+        "Egypt requested British protection because of an ongoing conflict with Ottoman authorities",
+        "Britain annexed Egypt specifically in order to gain direct access to the Christian missionary schools already operating throughout the territory",
+        "The Berlin Conference was called specifically in direct response to Britain's annexation of Egypt"
+      ],
+      "correctIndex": 0,
+      "explanation": "When Britain annexed Egypt in 1882, France felt threatened, part of the self-reinforcing competitive spiral in which each power's colonial gains pushed rivals to expand faster to avoid falling behind. Egypt's annexation was not framed as a response to an Ottoman conflict, missionary access was not the stated motive, and the Berlin Conference addressed the broader Scramble for Africa rather than being called specifically because of Egypt."
     }
   ],
   "images": [],
