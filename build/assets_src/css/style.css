@@ -628,6 +628,15 @@ figure.reading-figure figcaption { padding: 10px 14px 14px; font-family: -apple-
 .sahara-btn.active { color: #fff; border-color: transparent; }
 .sahara-btn--north.active { background: #8a6d1f; }
 .sahara-btn--south.active { background: #2c6b8a; }
+.sahara-good-label {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 30px;
+  font-weight: 700;
+  fill: #2a2216;
+  stroke: #fdf8ec;
+  stroke-width: 6px;
+  paint-order: stroke fill;
+}
 .sahara-demo-caption { margin: 14px 0 0; font-size: 0.92rem; color: var(--ink-soft); }
 .sahara-demo-note { margin: 6px 0 0; font-size: 0.88rem; color: var(--ink-soft); font-style: italic; }
 
