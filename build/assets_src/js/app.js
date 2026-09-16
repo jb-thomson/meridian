@@ -355,7 +355,7 @@
           demo.setAttribute("data-direction", direction);
           btns.forEach(function (b) { b.classList.toggle("active", b === btn); });
           if (captionEl) captionEl.textContent = captions[direction] || "";
-          demo.querySelectorAll(".sahara-good--" + direction + " animateMotion").forEach(function (motion) {
+          demo.querySelectorAll(".sahara-good--" + direction + " animateMotion.sahara-lead").forEach(function (motion) {
             if (motion.beginElement) {
               try { motion.beginElement(); } catch (e) {}
             }

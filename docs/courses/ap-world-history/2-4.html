@@ -735,28 +735,30 @@
         <g class="sahara-good sahara-good--north" data-good="gold">
           <image href="../../assets/images/ap-world-history/goods/good_gold.png" x="-110" y="-75" width="220" height="150"></image>
           <text class="sahara-good-label" x="0" y="100" text-anchor="middle">GOLD</text>
-          <animateMotion id="saharaGold" dur="9s" begin="0s" repeatCount="indefinite" path="M300,950 L383,834 L567,795 L492,542 L528,250"></animateMotion>
+          <animateMotion id="saharaGold" class="sahara-lead" dur="9s" begin="0s;saharaIvory.end" fill="freeze" path="M300,950 L383,834 L567,795 L492,542 L528,250"></animateMotion>
         </g>
-        <g class="sahara-good sahara-good--north" data-good="ivory">
+        <g class="sahara-good sahara-good--north sahara-good--pending" data-good="ivory">
           <image href="../../assets/images/ap-world-history/goods/good_ivory.png" x="-85" y="-85" width="170" height="170"></image>
           <text class="sahara-good-label" x="0" y="110" text-anchor="middle">IVORY</text>
-          <animateMotion id="saharaIvory" dur="9s" begin="4.5s" repeatCount="indefinite" path="M300,950 L383,834 L567,795 L492,542 L528,250"></animateMotion>
+          <animate attributeName="opacity" begin="saharaIvory.begin" dur="0.01s" from="0" to="1" fill="freeze"></animate>
+          <animateMotion id="saharaIvory" dur="9s" begin="saharaGold.end" fill="freeze" path="M300,950 L383,834 L567,795 L492,542 L528,250"></animateMotion>
         </g>
 
         <g class="sahara-good sahara-good--south" data-good="salt">
           <image href="../../assets/images/ap-world-history/goods/good_salt.png" x="-85" y="-70" width="170" height="140"></image>
           <text class="sahara-good-label" x="0" y="95" text-anchor="middle">SALT</text>
-          <animateMotion id="saharaSalt" dur="4.5s" begin="0s" repeatCount="indefinite" path="M492,542 L567,795"></animateMotion>
+          <animateMotion id="saharaSalt" class="sahara-lead" dur="4.5s" begin="0s" repeatCount="indefinite" path="M492,542 L567,795"></animateMotion>
         </g>
         <g class="sahara-good sahara-good--south" data-good="copper">
           <image href="../../assets/images/ap-world-history/goods/good_copper.png" x="-110" y="-75" width="220" height="150"></image>
           <text class="sahara-good-label" x="0" y="100" text-anchor="middle">COPPER</text>
-          <animateMotion id="saharaCopper" dur="9s" begin="0s" repeatCount="indefinite" path="M528,250 L492,542 L567,795 L383,834 L300,950"></animateMotion>
+          <animateMotion id="saharaCopper" class="sahara-lead" dur="9s" begin="0s;saharaHorse.end" fill="freeze" path="M528,250 L492,542 L567,795 L383,834 L300,950"></animateMotion>
         </g>
-        <g class="sahara-good sahara-good--south" data-good="horse">
+        <g class="sahara-good sahara-good--south sahara-good--pending" data-good="horse">
           <image href="../../assets/images/ap-world-history/goods/good_horse.png" x="-100" y="-95" width="200" height="190"></image>
           <text class="sahara-good-label" x="0" y="120" text-anchor="middle">HORSES</text>
-          <animateMotion id="saharaHorse" dur="9s" begin="4.5s" repeatCount="indefinite" path="M528,250 L492,542 L567,795 L383,834 L300,950"></animateMotion>
+          <animate attributeName="opacity" begin="saharaHorse.begin" dur="0.01s" from="0" to="1" fill="freeze"></animate>
+          <animateMotion id="saharaHorse" dur="9s" begin="saharaCopper.end" fill="freeze" path="M528,250 L492,542 L567,795 L383,834 L300,950"></animateMotion>
         </g>
       </svg>
     </div>
